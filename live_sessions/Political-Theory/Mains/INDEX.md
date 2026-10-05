@@ -5,7 +5,7 @@ sessions remain indexed in `live_sessions\INDEX.md`.
 
 | Subject | Topic | Lessons | Words | SHA-256 | File |
 |---|---|---:|---:|---|---|
-| Political Theory Mains | Topic 01 - Nature and Significance of Political Theory | 10 | 28,705 | `fa65a76f5341` | [01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md](01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 01 - Nature and Significance of Political Theory | 10 | 26,800 | `e5a9233d2cb0` | [01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md](01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md) |
 | Political Theory Mains | Topic 02 - Ideology and End of Ideology | 11 | 38,953 | `e57b91d764fe` | [02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md](02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md) |
 | Political Theory Mains | Topic 03 - Liberalism and Neoliberalism | 10 | 27,458 | `94543027c181` | [03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md](03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md) |
 | Political Theory Mains | Topic 04 - Marxism and Neo-Marxism | 10 | 42,959 | `2c155eb4d043` | [04-Marxism-and-Neo-Marxism/Mains-Focused-Live-Edition.md](04-Marxism-and-Neo-Marxism/Mains-Focused-Live-Edition.md) |
