@@ -108,8 +108,11 @@ or under-using the real-time responsiveness monitoring offers.
   data, agency validation, delta-ranking, public dashboard) represents a distinctive
   Indian institutional innovation in sub-national development monitoring; a related
   Aspirational Blocks Programme has extended a similar logic to the block (sub-district)
-  level. No fixed current district or block count, or fixed current KPI list, is asserted
-  here, since both continue to be reviewed and revised by NITI Aayog.
+  level. Count claims require a dated denominator: NITI's live programme webpage accessed
+  **5 October 2026** describes **117 selected Aspirational Districts**, while its **Annual
+  Report 2025-26** reports the operational/reporting programme across **112 districts**.
+  These figures are source-specific, not interchangeable; the block programme is a separate
+  unit.
 
 ## 5. Indian applications and boundary cases
 
@@ -161,10 +164,12 @@ or under-using the real-time responsiveness monitoring offers.
 
 ## 9. 📰 Current-anchor note
 
-- 📰 **Status checked 21 July 2026:** OOMF 2026-27 lists 172 major schemes at the
-  ₹500-crore-or-more threshold; ADP uses 112 districts/49 KPIs/five themes; current NITI
-  material lists 513 Aspirational Blocks. Date-stamp all figures and keep the two programmes
-  analytically separate.
+- 📰 **Status checked 5 October 2026:** OOMF 2026-27 lists 172 major schemes at the
+  ₹500-crore-or-more threshold. NITI's live ADP webpage describes **117 selected districts**;
+  the **Annual Report 2025-26** reports **112 operational/reporting districts**, with 49 KPIs
+  across five themes. Current NITI material lists 513 Aspirational Blocks. Date-stamp every
+  figure, identify its denominator and keep the district and block programmes analytically
+  separate.
 
 ## 10. PYQ-based analytical application
 

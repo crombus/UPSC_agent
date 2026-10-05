@@ -51,7 +51,7 @@ output-outcome gap and feed evidence back into governance correction.
 | ✅ **DMEO (Development Monitoring and Evaluation Office)** | NITI Aayog's dedicated office for monitoring and evaluating government programmes/schemes, formed by merging the earlier Programme Evaluation Organisation and the Independent Evaluation Office in 2015, tasked with generating evidence on scheme performance for policy correction. |
 | ✅ **Output-Outcome Monitoring Framework (OOMF)** | An annual Union Budget document for covered major Central Sector/Centrally Sponsored Schemes, specifying financial outlay, outputs, outcomes, indicators and targets. It does not literally include every scheme in every year. |
 | ✅ **Outcome budgeting** | A budgeting approach that links financial allocations explicitly to measurable outcome targets, rather than only tracking how much money was spent or how many physical units were produced. |
-| ✅ **Aspirational Districts Programme (ADP)** | NITI Aayog's programme for 112 districts, tracking 49 KPIs across five themes through the Champions of Change architecture and delta ranking; cite these as official current programme design figures, not a generic count for Aspirational Blocks. |
+| ✅ **Aspirational Districts Programme (ADP)** | NITI Aayog's live programme webpage, accessed **5 October 2026**, describes **117 selected Aspirational Districts**; its **Annual Report 2025-26** reports the operational/reporting programme across **112 districts**. The design tracks 49 KPIs across five themes through the Champions of Change architecture and delta ranking. Cite the source, date and denominator; neither figure belongs to the Aspirational Blocks Programme. |
 | ⚠️ **Third-party evaluation** | Programme evaluation conducted by an entity independent of the implementing ministry/agency, intended to reduce the conflict of interest inherent in an agency evaluating its own performance. |
 
 ## 3. How monitoring and evaluation function (mechanism)
@@ -132,10 +132,12 @@ output-outcome gap and feed evidence back into governance correction.
 
 ## 8. 📰 Current anchor
 
-- 📰 **Status checked 21 July 2026:** OOMF 2026-27 covers 172 major schemes with outlay of
-  ₹500 crore or more in that Budget document. ADP officially covers 112 districts and
-  49 KPIs across five themes. The related Aspirational Blocks Programme covers 513 blocks
-  in current NITI material; do not merge district/block units or indicator sets.
+- 📰 **Status checked 5 October 2026:** OOMF 2026-27 covers 172 major schemes with outlay of
+  ₹500 crore or more in that Budget document. NITI's live ADP webpage describes **117 selected
+  districts**, while its **Annual Report 2025-26** uses **112** as the operational/reporting
+  count; ADP tracks 49 KPIs across five themes. The related Aspirational Blocks Programme
+  covers 513 blocks in current NITI material. State the source/date/denominator and never merge
+  district/block units or indicator sets.
 
 ## 9. PYQ application
 
@@ -291,7 +293,7 @@ to manipulation.
 | ✅ **DMEO (NITI Aayog)** | Formed in **2015** by merging the **Programme Evaluation Organisation** and the **Independent Evaluation Office** | Monitors and evaluates government programmes; commissions third-party evaluation | An evaluator without authority to redesign; findings must be adopted by the line ministry |
 | ✅ **DMEO's evaluation criteria — R-E-E-S-I + C + E** | Relevance · Effectiveness · Efficiency · Sustainability · Impact · Coherence · Equity | A ready criteria set for any "evaluate" stem | Criteria are a frame, not evidence |
 | ✅ **Output-Outcome Monitoring Framework (OOMF)** | Annual Union Budget document for covered major Central Sector and Centrally Sponsored Schemes, specifying outlay, outputs, outcomes, indicators and targets; administered by the Ministry of Finance, Budget Division | Forces dual reporting so budget scrutiny goes beyond expenditure | ⚠️ It does **not** cover every scheme in every year — 📰 the **2026-27** document covers **172** major schemes with outlay of **₹500 crore or more**; cite coverage with its year |
-| ✅ **Aspirational Districts Programme (NITI Aayog)** | **112 districts**, **49 KPIs** across **five themes**; **Champions of Change** dashboard; **delta ranking** | Near-real-time district tracking; ranks the *pace* of improvement so a lagging district is not permanently bottom | Data largely **district-self-reported** with validation by selected agencies; district unit masks intra-district divergence |
+| ✅ **Aspirational Districts Programme (NITI Aayog)** | Live webpage accessed **5 October 2026**: **117 selected districts**; **Annual Report 2025-26**: **112 operational/reporting districts**; **49 KPIs** across **five themes**; **Champions of Change** dashboard; **delta ranking** | Near-real-time district tracking; ranks the *pace* of improvement so a lagging district is not permanently bottom | The two district figures have different official source denominators and must not be silently substituted; data are largely **district-self-reported** with validation by selected agencies, and the district unit masks intra-district divergence |
 | ✅ **Aspirational Blocks Programme** | **513 blocks** in current NITI material | A finer unit for sub-district divergence | ❌ Do **not** merge district and block unit counts or indicator sets — they are separate exercises |
 | ⚠️ **Third-party evaluation** | Evaluation by an entity independent of the implementing ministry | Removes the conflict of interest in self-assessment | Independence depends on who commissions, funds and can suppress the report |
 | ⚠️ **Outcome budgeting** | Linking allocation to measurable outcome targets | Shifts budget conversation from spend to effect | Outcome targets can themselves be set undemandingly |
@@ -350,9 +352,14 @@ to manipulation.
 **Factual and current-status controls.**
 - ✅ Safe: DMEO formed in **2015** by merging the Programme Evaluation Organisation and the
   Independent Evaluation Office; OOMF administered by the Ministry of Finance's Budget
-  Division; ADP's **112 districts**, **49 KPIs**, five themes, Champions of Change dashboard
-  and delta ranking; Aspirational Blocks Programme's **513 blocks**; DMEO's REESI+C+E
+  Division; ADP's source-qualified **117 selected / 112 operational-reporting** district
+  denominators, **49 KPIs**, five themes, Champions of Change dashboard and delta ranking;
+  Aspirational Blocks Programme's **513 blocks**; DMEO's REESI+C+E
   criteria.
+- ⚠️ **ADP denominator control:** the live NITI programme page accessed **5 October 2026**
+  states 117 selected districts, while the **Annual Report 2025-26** describes operation and
+  reporting across 112. Quote either only with its source and date; do not invent a single
+  blended count or an unsupported causal explanation for the difference.
 - 📰 **Dated:** the **OOMF 2026-27** coverage of **172 major schemes with outlay of ₹500 crore
   or more** is a **document-year-specific** figure — always cite it with the Budget year, and
   never carry it forward.
@@ -368,8 +375,8 @@ to manipulation.
 - **Official syllabus/index and owned core:** Monitoring tracks implementation continuously, evaluation judges relevance, design, process or effects, and outcome governance uses evidence and feedback to improve decisions; a theory of change links inputs, activities, outputs, outcomes and impacts through testable assumptions.
 - **Indispensable distinction and prerequisite taxonomy:** Indicator is not target, output is not outcome, outcome is not attributable impact, dashboard is not evaluation, correlation is not causation, and ranking can distort behaviour through gaming or teaching to the metric.
 - **Mechanism, implementation and evidence control:** Use Aspirational Districts, outcome budgeting, programme evaluation and administrative dashboards with baseline, denominator, disaggregation, frequency and source controls; combine process and outcome indicators, independent verification, grievance evidence and course correction.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 2026-09-05: DMEO remains an attached office of NITI Aayog, constituted in September 2015 from PEO and IEO, with a monitoring and evaluation mandate. A dashboard, rank or correlation is not an impact evaluation without baseline, counterfactual, denominator and attribution controls. Sources: https://dmeo.gov.in/; https://www.niti.gov.in/aspirational-districts-programme
+- **✅ Verified current fact (official sources rechecked 5 October 2026):**
+  DMEO remains an attached office of NITI Aayog, constituted in September 2015 from PEO and IEO, with a monitoring and evaluation mandate. NITI's live ADP webpage accessed 5 October 2026 describes 117 selected districts, while its Annual Report 2025-26 reports 112 operational/reporting districts and quarterly tracking of 49 KPIs. A dashboard, rank or correlation is not an impact evaluation without baseline, counterfactual, denominator and attribution controls. Sources: https://dmeo.gov.in/; https://www.niti.gov.in/aspirational-districts-programme; https://www.niti.gov.in/sites/default/files/2026-05/Annual%20Report%20of%20NITI%20Aayog%202025-26%20%28English%29.pdf
 - **⚠️ Analytical inference:** institutional design, allocation, a portal, a
   registration, a report, a training completion, a disposal count or a ranking
   can support a causal argument only after authority, capacity, incentives,
