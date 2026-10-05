@@ -6,7 +6,7 @@
 > teaches habitats, food webs and threats before turning to the legal architecture of CRZ,
 > ICRZ, clearances and jurisdiction. It then builds integrated planning, community-centred
 > resilience and a sustainable Blue Economy. The complete Core comes before optional
-> Advanced depth. Legal and policy status is current to **3 October 2026**.
+> Advanced depth. Legal and policy status is current to **5 October 2026**.
 
 ## Roadmap
 
@@ -62,9 +62,9 @@ productivity possible?**
 Progress: 1 / 18 | Stage: Foundation | Subtopic: Coastal and marine space, zonation and ecosystem services
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: oceanography and coastal-landform foundations
+Book context: queried: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`
 CA search: "official coastal marine ecosystem zonation services India"
-CA found: None directly relevant; ecological structure is the teaching base
+CA found: 13 April 2026 — NCSCM hosted the France–India Friendship Group visit on advancing understanding of coastal and marine environmental management, within sustainable-development and environmental collaboration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: read the coast in two directions
@@ -220,9 +220,9 @@ area inside the larger processes that determine whether ecological function can 
 Progress: 2 / 18 | Stage: Foundation | Subtopic: Productivity, upwelling, detritus and marine food webs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: ocean currents, salinity and ecological pyramids
+Book context: queried: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`
 CA search: "official marine productivity upwelling food web India"
-CA found: None directly relevant; the mechanism is established through oceanography
+CA found: 9–13 June 2025 — FAO at UNOC3, Nice, highlighted Blue Transformation for sustainable fisheries and aquaculture; used here only as a dated application, while Geography retains detailed ocean-current mechanics
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: two food-web engines
@@ -298,28 +298,17 @@ They can support a larger instantaneous consumer biomass because producer tissue
 quickly. The **energy pyramid remains upright** because energy is lost at every trophic
 transfer; an inverted biomass pyramid does not repeal thermodynamics.
 
-### 5. Currents and water masses affect life differently
+### 5. Bounded Geography bridge: currents and water masses
 
-Surface currents transport heat, larvae and floating material. Water masses are bodies of
-water with characteristic temperature and salinity acquired in a source region; they
-influence density, oxygenation and deep circulation. A strong answer does not use "current"
-and "water mass" as synonyms.
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`
 
-### 6. Forces that shape currents and fishing geography
+This Environment lesson retains only the ecological bridge: currents can transport heat,
+larvae and nutrients; water masses can carry characteristic temperature, salinity and oxygen
+properties; and upwelling can connect deeper nutrients with surface light. Detailed current
+forces, named global systems, water-mass taxonomy and world fishing-ground geography remain
+with the Geography owner.
 
-Ocean currents arise from interacting forces rather than one universal driver. Prevailing
-winds transfer momentum to surface water; the Coriolis effect deflects moving water; gravity
-and pressure gradients respond to sea-surface slope; temperature and salinity create density
-contrasts that help drive deep circulation; and coastlines, basin shape and seabed relief
-redirect flow. Tides generate reversing tidal currents, especially near coasts and straits.
-
-Their fishery role is equally multi-step. Upwelling can supply nutrients to the photic zone;
-fronts and convergence zones can concentrate plankton and prey; currents transport eggs and
-larvae between spawning and nursery grounds; and warm or cold flows shift species ranges,
-oxygen conditions and fishing seasons. Productive current systems create fishing opportunity,
-not immunity from overharvest.
-
-### 7. Strongest objection and reply
+### 6. Strongest objection and reply
 
 **Objection:** Upwelling areas are naturally productive, so fishing pressure is less
 important there.
@@ -333,8 +322,8 @@ productive base.
 
 - **Prelims:** energy pyramid always upright; biomass pyramid may invert in aquatic systems.
 - **Mains:** trace `physical driver → nutrient supply → producer response → trophic transfer`.
-- **2022 GS-I:** classify the forces first, then connect currents to nutrient supply, fronts,
-  larval transport, species distribution and world fishing grounds.
+- **Owner boundary:** route 2019 GS-I Q17 and 2022 GS-I Q14 to the Geography owner above;
+  use this lesson only for the upwelling/productivity and ecological-transfer bridge.
 - **Trap:** nutrient enrichment from natural upwelling is not equivalent to uncontrolled
   sewage or fertilizer loading.
 
@@ -354,9 +343,8 @@ productive base.
 9. Benthic-pelagic coupling links seabed and water column.
 10. Aquatic biomass pyramids may invert because of producer turnover.
 11. The energy pyramid remains upright.
-12. Currents move water; water masses are identified by characteristic properties.
-13. Winds, Coriolis force, pressure gradients, density contrasts and basin form shape currents.
-14. Currents affect fisheries through upwelling, fronts, larval transport and species ranges.
+12. Currents, water masses and fishing-ground geography remain primarily Geography-owned.
+13. The Environment bridge is nutrient supply, larval transport, oxygen and food-web response.
 
 ### Concept check
 
@@ -414,9 +402,9 @@ opportunity, not a guarantee of sustainable harvest.
 Progress: 3 / 18 | Stage: Core | Subtopic: Mangrove structure, services, threats and restoration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: mangroves, wetlands and coastal ecotones
+Book context: queried: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`
 CA search: "official mangrove ecology restoration livelihoods India"
-CA found: None directly relevant; mangrove programmes require separate policy-status analysis
+CA found: 21 August 2025 — PIB reported 22,560.34 ha taken up for MISHTI mangrove plantation/restoration across 13 States and UTs during FY 2023-24 and 2024-25
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: adaptation performs a function
@@ -585,12 +573,12 @@ function and legitimate livelihoods.
 
 ## Lesson 4 — A coral reef is a living construction under a narrow tolerance window
 
-Progress: 4 / 18 | Stage: Core | Subtopic: Coral biology, reef forms, services and recovery limits
+Progress: 4 / 18 | Stage: Core | Subtopic: Coral biology, ecological services and recovery limits
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: coral-reef formation and island geography
+Book context: queried: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`
 CA search: "official coral reef ecology India bleaching monitoring"
-CA found: None directly relevant; bleaching is taught through its ecological mechanism
+CA found: 2 June 2026 — NOAA reported that the fourth global mass coral-bleaching event likely ended in 2025 after unprecedented heat stress
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: reef growth depends on biological surplus
@@ -625,26 +613,17 @@ and material from other reef organisms accumulate into a reef framework.
 | normal marine salinity | supports physiological balance | major freshwater pulses can stress reefs |
 | suitable substrate and water movement | attachment, oxygen and exchange | excessive wave or storm force can break colonies |
 
-### 3. Reef forms
+### 3. Bounded Geography bridge: reef form and island setting
 
-| Form | Spatial relation |
-|---|---|
-| **Fringing reef** | attached to shore or separated by a narrow shallow channel |
-| **Barrier reef** | offshore, separated from land by a wider lagoon |
-| **Atoll** | ring-like reef enclosing a lagoon, generally without a central high island |
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\11_Islands-and-Coral-Reefs.md`
 
-Darwin's subsidence model links fringing reef to barrier reef and then atoll as a volcanic
-island subsides while corals grow upward and outward. Real reef history can also involve
-sea-level change, erosion and tectonics; the sequence is a model, not a universal timetable.
+This Environment lesson owns coral biology, ecological services, bleaching, acidification,
+pollution and recovery. Fringing/barrier/atoll classification, Darwin and Daly formation
+models, global distribution and Indian island geomorphology remain with the Geography owner.
+The ecological point retained here is only that reef relief and carbonate production create
+habitat, sediment and wave-attenuation functions.
 
-### 4. India's principal reef settings
-
-India's major reef regions include the Gulf of Kachchh, Gulf of Mannar, Lakshadweep and the
-Andaman and Nicobar Islands. Lakshadweep is the classic atoll setting. The regions differ in
-water clarity, tidal range, sediment influence and geomorphic origin; they should not be
-treated as one uniform reef province.
-
-### 5. Services and thresholds
+### 4. Services and thresholds
 
 Reefs provide habitat, fisheries support, tourism value, cultural significance and wave
 attenuation. Reef-derived carbonate sediment also helps sustain some low islands and beaches.
@@ -659,7 +638,7 @@ bioerosion + dissolution + storm breakage + extraction
 A reef can retain some living coral yet lose net construction capacity. Ecological decline
 therefore includes reduced recovery and sediment production, not only complete coral death.
 
-### 6. Local action and global limits
+### 5. Local action and global limits
 
 Reducing sediment, sewage, destructive fishing, anchoring damage and overharvest of
 herbivores can improve recovery capacity. It cannot by itself remove ocean warming or
@@ -669,7 +648,7 @@ acidification. Marine protection is useful but not sufficient without climate mi
 accretion that can provide substrate for coral restoration. It is a site-level tool, not a
 substitute for removing heat, acidification and pollution stress.
 
-### 7. Strongest objection and reply
+### 6. Strongest objection and reply
 
 **Objection:** Reef restoration technology can rebuild damaged reefs while economic activity
 continues.
@@ -681,9 +660,11 @@ Avoidance and stress reduction remain prior steps.
 
 ### UPSC integration
 
-- **Prelims:** distinguish coral animal, zooxanthellae, reef and atoll.
+- **Prelims:** distinguish coral animal, photosynthetic symbiont and reef framework.
 - **Mains:** explain the environmental window before listing threats.
 - **Trap:** bleaching is loss of symbionts and colour; it is severe stress, not automatic death.
+- **Owner boundary:** route reef-form, distribution and island-formation questions to
+  `Geography\basic\11_Islands-and-Coral-Reefs.md`.
 
 > **Answer-grabbing line:** Reef resilience depends on whether biological construction can
 > continue to outrun erosion, dissolution and repeated disturbance.
@@ -694,15 +675,13 @@ Avoidance and stress reduction remain prior steps.
 2. Zooxanthellae are photosynthetic symbionts.
 3. Reef framework is accumulated calcium carbonate.
 4. Shallow reef-building corals need light, warmth, clarity and marine salinity.
-5. Fringing, barrier and atoll describe spatial form.
-6. Darwin's model uses island subsidence with upward reef growth.
-7. India's major reef regions are not geomorphically identical.
-8. Reefs support biodiversity, fisheries, tourism and wave attenuation.
-9. Reef carbonate can supply island and beach sediment.
-10. Bleaching is not identical to coral mortality.
-11. Local stress reduction improves recovery capacity.
-12. Local protection cannot remove global warming or acidification.
-13. Biorock is a restoration aid, not a climate solution.
+5. Reef-form and island-formation detail remains with Geography.
+6. Reefs support biodiversity, fisheries, tourism and wave attenuation.
+7. Reef carbonate can supply island and beach sediment.
+8. Bleaching is not identical to coral mortality.
+9. Local stress reduction improves recovery capacity.
+10. Local protection cannot remove global warming or acidification.
+11. Biorock is a restoration aid, not a climate solution.
 
 ### Concept check
 
@@ -760,9 +739,9 @@ restoration technology as ecological replacement.
 Progress: 5 / 18 | Stage: Core | Subtopic: Seagrass, salt marshes, estuaries and habitat connectivity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: estuaries, salinity and wetlands
+Book context: queried: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`
 CA search: "official seagrass salt marsh estuary ecology India"
-CA found: None directly relevant; habitat functions are treated as established ecology
+CA found: 13 April 2026 — NCSCM hosted the France–India Friendship Group visit on advancing understanding of coastal and marine environmental management, within sustainable-development and environmental collaboration
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one life cycle, several habitats
@@ -914,9 +893,9 @@ an isolated botanical patch.
 Progress: 6 / 18 | Stage: Core | Subtopic: Nutrient pollution, dead zones, oil, plastic and toxic stress
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: water pollution, nutrient cycles and marine hypoxia
+Book context: not available
 CA search: "UNEP marine pollution coastal eutrophication official"
-CA found: None directly relevant; UNEP material supplies the enduring mechanism
+CA found: February 2024 — India published the National Action Plan on Marine Plastic Litter from Sea-Based Sources under the IMO/FAO GloLitter partnership
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: source-to-impact pathways
@@ -978,6 +957,26 @@ transport additives or other chemicals, and enter food webs. Lost or abandoned f
 may continue catching organisms. A beach clean-up removes visible litter but cannot substitute
 for product design, collection, waste systems, port reception and fishing-gear accountability.
 
+### 4A. India's sea-based marine-litter response
+
+India published the **National Action Plan on Marine Plastic Litter from Sea-Based Sources**
+in **February 2024** under the IMO/FAO-Norway GloLitter Partnerships Project. The Department
+of Fisheries is the national lead for this sea-based-source plan. Its focus includes litter
+from shipping and fisheries, especially abandoned, lost or otherwise discarded fishing gear,
+port reception, awareness, reporting and coordinated implementation.
+
+The boundary matters:
+
+```text
+sea-based shipping/fishing litter -> National Action Plan / GloLitter route
+land-based plastic leakage       -> waste, drainage and Plastic Waste Management routes
+broader marine-litter evidence   -> NCCR monitoring and policy research
+```
+
+A national action plan is an implementation framework, not evidence that litter loads have
+already declined. Outcome claims require measured waste interception, gear recovery, port
+compliance and shoreline or seabed monitoring.
+
 ### 5. Pollution is often cumulative
 
 A coral reef exposed to sediment, nutrients and heat has less recovery capacity than a reef
@@ -1018,8 +1017,10 @@ cheaper than fishery closure, dredged-waste handling or habitat recovery.
 9. Plastic creates ingestion and entanglement pathways.
 10. Ghost gear continues fishing after loss.
 11. Beach cleaning is downstream control.
-12. Cumulative stress can lower ecological thresholds.
-13. Dilution is not destruction of pollutant mass.
+12. India's February 2024 action plan targets marine plastic litter from sea-based sources.
+13. Sea-based and land-based plastic leakage retain different regulatory routes.
+14. Cumulative stress can lower ecological thresholds.
+15. Dilution is not destruction of pollutant mass.
 
 ### Concept check
 
@@ -1079,9 +1080,9 @@ uncontrolled loading into already stressed waters.
 Progress: 7 / 18 | Stage: Core | Subtopic: Warming, bleaching, acidification, deoxygenation, sea-level rise and saline intrusion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: coral ecology, climate science, islands and groundwater
+Book context: not available
 CA search: "official ocean warming acidification deoxygenation sea level coastal aquifer"
-CA found: None directly relevant; established climate mechanisms control this lesson
+CA found: 2 June 2026 — NOAA assessed the fourth global mass coral-bleaching event as likely ended in 2025; the update confirms bleaching as a heat-stress event, not acidification
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one greenhouse driver, several ocean responses
@@ -1255,9 +1256,9 @@ global ocean warming and acidification.
 Progress: 8 / 18 | Stage: Core | Subtopic: Overfishing, bycatch, invasives and habitat transformation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: fisheries economics and marine ecology
+Book context: not available
 CA search: "FAO sustainable fisheries overfishing bycatch invasive species official"
-CA found: None directly relevant; FAO Blue Transformation supplies a standing framework
+CA found: 4 November 2025 — Department of Fisheries notified the EEZ Fisheries Rules; 9 December 2025 — MEA issued high-seas fishing guidelines for Indian-flagged vessels
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four pressure routes
@@ -1325,6 +1326,14 @@ No single instrument is sufficient. A marine protected area can shift effort out
 boundary; an effort cap can fail if vessels become more efficient; a closed season can fail
 if spawning periods shift.
 
+**India jurisdiction update:** the **Sustainable Harnessing of Fisheries in the Exclusive
+Economic Zone Rules, 2025**, notified on **4 November 2025**, create a Union access-pass,
+reporting, management and enforcement framework for fishing in India's EEZ. The **Guidelines
+for Sustainable Harnessing of Fisheries in the High Seas by Indian-Flagged Fishing Vessels**,
+issued on **9 December 2025**, use a separate authorisation and compliance route beyond the
+EEZ. These instruments do not convert CRZ authorities into fisheries regulators or displace
+State Marine Fishing Regulation Acts within territorial waters.
+
 ### 7. Strongest objection and reply
 
 **Objection:** Strong effort controls threaten food security and small-scale livelihoods.
@@ -1359,6 +1368,7 @@ distributional justice must be designed together.
 12. Ballast and hull fouling are invasion pathways.
 13. Prevention and early response generally beat late eradication.
 14. Co-management combines science, rights and local knowledge.
+15. Territorial-water, EEZ and high-seas fishing use different legal routes.
 
 ### Concept check
 
@@ -1419,9 +1429,9 @@ costs to the others.
 Progress: 9 / 18 | Stage: Core | Subtopic: CRZ evolution, scope, CZMPs and current legal status
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: CRZ legal evolution and the consolidated notification
+Book context: not available
 CA search: "MoEFCC CRZ Notification 2019 amendments CZMP current status"
-CA found: None directly relevant; CRZ legal instruments define the current status
+CA found: 5 October 2026 status recheck — CRZ 2019 remained the mainland baseline; no later national amendment was located after S.O. 5495(E), 24 November 2022
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: evolution without pretending each notification was a clean break
@@ -1499,10 +1509,10 @@ notification text + approved map + site coordinates + project type
                  applicable CRZ decision
 ```
 
-### 5. Legal status as of 3 October 2026
+### 5. Legal status as of 5 October 2026
 
 - The **CRZ Notification, 2019 remains the governing mainland notification**.
-- As of **3 October 2026**, the operative amendment sequence runs through the amendments dated
+- As of **5 October 2026**, the operative amendment sequence runs through the amendments dated
   **26 November 2021** and **24 November 2022**.
 - The transition clause remains decisive: where a revised CZMP under 2019 has not been
   approved, the approved 2011 CZMP and 2011 provisions continue for appraisal.
@@ -1606,9 +1616,9 @@ CZMPs should provide legal certainty without freezing a dynamic coast.
 Progress: 10 / 18 | Stage: Core | Subtopic: CRZ-I to IV, subcategories, NDZ and special areas
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: official CRZ category clauses and zone distinctions
+Book context: not available
 CA search: "official CRZ IIIA IIIB NDZ categories 2019"
-CA found: None directly relevant; exact notification categories govern
+CA found: 5 October 2026 status recheck — the IIIA/IIIB and CZMP-transition clauses remained governed by CRZ 2019 as amended through 24 November 2022
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the category ladder
@@ -1779,9 +1789,9 @@ season. Thus the four labels describe different ecological and spatial objects.
 Progress: 11 / 18 | Stage: Core | Subtopic: Prohibitions, permissible activity, authorities, clearance and enforcement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: CRZ delegation, procedure, EIA and compliance
+Book context: not available
 CA search: "official CRZ clearance delegation CZMA EIA PARIVESH"
-CA found: None directly relevant; the current legal procedure is stated from the notification
+CA found: 5 October 2026 status recheck — the located national clearance-delegation baseline remained S.O. 5495(E), 24 November 2022
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the decision route
@@ -1974,9 +1984,9 @@ coastal decision scientifically defensible.
 Progress: 12 / 18 | Stage: Core | Subtopic: Island regime and coastal-fisheries-shipping jurisdiction firewall
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: official ICRZ Gazette, maritime zones and fisheries
+Book context: not available
 CA search: "official ICRZ 2019 maritime zones fisheries shipping jurisdiction India"
-CA found: None directly relevant; current statutory boundaries control
+CA found: 17 January 2026 — BBNJ entered into force globally; 9 December 2025 — India issued high-seas fishing guidelines; India remained a BBNJ signatory, not a Party, on 5 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: do not extend one law across every sea space
@@ -2072,7 +2082,7 @@ does not create a blanket exemption from ICRZ appraisal or other environmental r
    specifies time, area and quantity, registers permitted persons and is renewed yearly.
 
 Together, S.O. 2(E), S.O. 2239(E), S.O. 2095(E) and S.O. 5494(E) form the operative amendment
-sequence stated here through 3 October 2026. They modify the 2019 island regime; they do not convert
+sequence stated here through 5 October 2026. They modify the 2019 island regime; they do not convert
 mainland CRZ amendments into island law automatically.
 
 ### 3. ICRZ categories and NDZ
@@ -2110,9 +2120,16 @@ zone. Fisheries law asks who may fish, where, when, with what vessel or gear, an
 conservation rule.
 
 State Marine Fishing Regulation Acts principally govern fishing within territorial waters,
-while the Union has competence and responsibility in the EEZ. Fisheries departments, vessel
-registration, seasonal closures and stock rules do not become functions of the CZMA merely
-because fishing occurs in CRZ-IV.
+while the Union has competence and responsibility in the EEZ. The **Sustainable Harnessing
+of Fisheries in the EEZ Rules, 2025**—notified on **4 November 2025** under the Maritime
+Zones Act framework—create an access-pass, reporting, management and enforcement route for
+Indian fishing vessels in the EEZ. Fisheries departments, vessel registration, seasonal
+closures and stock rules do not become functions of the CZMA merely because fishing occurs
+in CRZ-IV.
+
+Beyond the EEZ, the **9 December 2025 high-seas fishing guidelines** establish a separate
+authorisation and compliance route for Indian-flagged fishing vessels. Territorial-water,
+EEZ and high-seas regimes must therefore be stated separately.
 
 ### 6. Coastal regulation versus shipping and ports
 
@@ -2138,34 +2155,36 @@ sovereignty or all activities within it.
 The BBNJ Agreement concerns marine biological diversity of areas beyond national
 jurisdiction. It entered into force globally on **17 January 2026**. India signed on
 **25 September 2024** but had not deposited ratification and was not a Party on
-3 October 2026. Signature, entry into force and domestic
+5 October 2026. Signature, entry into force and domestic
 ratification status are three separate facts.
 
-### 9. Why maritime and coastal security protect sea trade
+### 8A. BBNJ biodiversity is not deep-seabed mineral ownership
 
-India's sea trade depends on secure sea lanes, ports, anchorages, offshore installations,
-undersea infrastructure and coastal approaches. Risks include piracy and armed robbery,
-terrorism, smuggling and trafficking, illegal fishing, unregistered or poorly tracked small
-craft, cyber or physical disruption at ports, marine pollution incidents, extreme weather and
-gaps among Navy, Coast Guard, marine police, port, customs, fisheries and intelligence systems.
+The BBNJ Agreement governs **marine biological diversity** beyond national jurisdiction for
+its Parties. Mineral resources of the seabed and subsoil beyond national jurisdiction—the
+UNCLOS **"Area"**—follow **UNCLOS Part XI** and are organised through the **International
+Seabed Authority (ISA)** on the common-heritage principle. Therefore:
 
-A credible way forward combines maritime-domain awareness, vessel registration and tracking,
-coastal radar and communication networks, port and cyber security, intelligence sharing,
-pollution and search-and-rescue preparedness, trained marine police, fisher-community
-participation and regional cooperation. CRZ and ICRZ contribute by regulating vulnerable
-coastal infrastructure and habitats, but they are not security codes or navigation licences.
+```text
+high-seas / ABNJ biodiversity -> BBNJ institutions for Parties
+mineral resources in the Area -> UNCLOS Part XI + ISA
+national EEZ resources        -> coastal-State sovereign rights under UNCLOS
+```
 
-For the 2022 GS-III demand, organise initiatives into three distinct groups:
+An ISA exploration contract, a scientific mission or a technology trial does not create
+national ownership of the Area or automatic permission for commercial exploitation.
 
-| Initiative type | Illustrative content | Limitation to remember |
-|---|---|---|
-| **Organisational** | coordination among Navy, Coast Guard, marine police, ports, customs, fisheries and intelligence bodies; joint operations centres and regional cooperation | adding bodies without clear responsibility or information sharing can reproduce fragmentation |
-| **Technical** | coastal radar and surveillance networks, Automatic Identification System and other vessel tracking, communication systems, port/cyber protection and maritime-domain-awareness platforms | small or non-compliant craft, spoofing, maintenance and data integration remain gaps |
-| **Procedural** | vessel registration, crew/fisher identification, standard operating procedures, joint exercises, intelligence protocols, port access control, search-and-rescue and pollution-response drills | procedures work only when regularly exercised, audited and understood by coastal communities |
+### 9. Bounded maritime-security bridge
 
-The organisational-technical-procedural frame answers the directive more precisely than a
-generic list of threats. Community reporting and secure livelihood access are security assets,
-not substitutes for professional enforcement.
+**Primary owner:** `upsc-ai-kit\knowledge\Internal-Security\basic\07_Maritime-and-Coastal-Security.md`
+**IR/IMO owner:** `upsc-ai-kit\knowledge\International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`
+
+This Environment lesson retains only the boundary needed here: secure ports and coastal
+approaches support trade, spill response and enforcement, while CRZ/ICRZ protect vulnerable
+coastal infrastructure and habitats. They are not security codes, navigation licences or
+substitutes for the Navy–Coast Guard–marine-police architecture. Detailed maritime threats,
+IMO conventions and organisational/technical/procedural initiatives remain with the owners
+above.
 
 ### 10. Strongest objection and reply
 
@@ -2178,8 +2197,8 @@ enforcement while preserving each law's trigger, authority and rights.
 ### UPSC integration
 
 - **Prelims:** CRZ-IV 12 nm, territorial sea 12 nm and EEZ 200 nm are related but legally distinct.
-- **Mains:** identify the legal question before naming an authority; for maritime security,
-  link threats to organisational, technical and procedural initiatives.
+- **Mains:** identify the legal question before naming an authority; route detailed maritime
+  security and IMO demands to their primary owners.
 - **Trap:** ICRZ 2019 is not simply the mainland CRZ applied unchanged to all islands.
 
 > **Answer-grabbing line:** Integrated governance means coordinated jurisdictions, not the
@@ -2191,17 +2210,17 @@ enforcement while preserving each law's trigger, authority and rights.
 2. ICRZ 2019 is S.O. 1242(E), dated 8 March 2019.
 3. S.O. 2(E), 1 January 2021 moved Great Nicobar from Group I to Group II.
 4. Current Group I is South, Middle and North Andaman; current Group II also includes Great Nicobar.
-5. S.O. 2(E) substituted the 1:4000 mapping clause using NCSCM HTL/LTL demarcation.
-6. S.O. 2239(E), 9 June 2021 added NIOT alongside IOM Chennai for sand-site identification.
-7. Technical site identification does not create a blanket permission for sand mining.
-8. S.O. 2095(E), 5 May 2022 permits gas-based power plants on islands above 100 km².
-9. S.O. 5494(E), 24 November 2022 amended activities, clearance, mapping and sand-bar rules.
-10. It covers dead-shell collection, seasonal shacks, delegated listed projects and manual sand-bar control.
-11. General Group I/II NDZs are 100 m and 50 m; eco-tourism NDZs are 50 m and 20 m.
-12. ICRZ mangrove buffer is 20 m; smaller A&N and Lakshadweep islands use IIMPs.
-13. CRZ/ICRZ regulates coastal development; fisheries and shipping retain separate triggers.
-14. Territorial sea is 12 nm; contiguous zone 24 nm; EEZ 200 nm.
-15. Maritime-security reform should separate organisational, technical and procedural initiatives.
+5. S.O. 2(E) substituted the 1:4000 mapping clause; S.O. 2239(E) added NIOT for sand-site identification.
+6. Technical site identification does not create a blanket permission for sand mining.
+7. S.O. 2095(E), 5 May 2022 permits gas-based power plants on islands above 100 km².
+8. S.O. 5494(E), 24 November 2022 amended activities, clearance, mapping and controlled sand-bar removal.
+9. General Group I/II NDZs are 100 m and 50 m; eco-tourism NDZs are 50 m and 20 m.
+10. ICRZ mangrove buffer is 20 m; smaller A&N and Lakshadweep islands use IIMPs.
+11. CRZ/ICRZ regulates coastal development; fisheries and shipping retain separate triggers.
+12. Territorial sea is 12 nm; contiguous zone 24 nm; EEZ 200 nm.
+13. EEZ Rules 2025 and high-seas guidelines use separate fisheries-authorisation routes.
+14. BBNJ biodiversity and ISA-regulated minerals in the Area are different legal regimes.
+15. Detailed maritime-security and IMO doctrine remains with Internal Security and IR owners.
 
 ### Concept check
 
@@ -2264,9 +2283,9 @@ different legal triggers. One coastal permission can never serve as a universal 
 Progress: 13 / 18 | Stage: Core | Subtopic: Integrated Coastal Zone Management, Marine Spatial Planning and EIA
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: NCSCM's ICZM framework, MSP and EIA
+Book context: not available
 CA search: "NCSCM integrated coastal zone management marine spatial planning EIA India"
-CA found: None directly relevant; planning instruments form the governance architecture
+CA found: 13 April 2026 — NCSCM hosted the France–India Friendship Group visit on advancing understanding of coastal and marine environmental management, within sustainable-development and environmental collaboration; the separate NCSCM MSP page supports the planning doctrine taught below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: three tools, three scales
@@ -2443,9 +2462,9 @@ feeds compliance data back into plan revision. They are complementary, not inter
 Progress: 14 / 18 | Stage: Core | Subtopic: Disaster resilience, communities, livelihoods and tenure
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: coastal hazards, cyclones, tsunamis and community governance
+Book context: not available
 CA search: "official coastal resilience community livelihoods tenure India"
-CA found: None directly relevant; disaster and rights mechanisms are enduring
+CA found: 21 August 2025 — PIB's MISHTI progress update linked mangrove restoration through convergence to coastal ecosystem and livelihood outcomes
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a resilience portfolio
@@ -2617,9 +2636,9 @@ they create redundancy—the defining quality of resilience when any single defe
 Progress: 15 / 18 | Stage: Core | Subtopic: Sectors, natural capital, accounting and trade-offs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Blue Economy and fisheries economics
+Book context: not available
 CA search: "official blue economy definition sectors natural capital accounting"
-CA found: None directly relevant; sectoral accounting is a standing framework
+CA found: May 2025 — MoES white paper, "Transforming India's Blue Economy: Investment, Innovation and Sustainable Growth", framed investment against sustainability and governance safeguards
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: test every blue sector against the same balance sheet
@@ -2657,6 +2676,19 @@ economic value.
 | hydrocarbons/minerals | energy or strategic materials | spill, benthic damage, lock-in and irreversible uncertainty |
 | biotechnology/genetic resources | medicines, enzymes and knowledge | access, benefit-sharing and biopiracy concerns |
 | ocean information | safety, forecasting and fishing efficiency | unequal access and rebound pressure |
+
+### 2A. India's offshore-wind policy and jurisdiction bridge
+
+The **National Offshore Wind Energy Policy, 2015** makes the **Ministry of New and Renewable
+Energy (MNRE)** the nodal ministry and the **National Institute of Wind Energy (NIWE)** the
+nodal technical agency for offshore-wind development in India's EEZ. Site assessment and
+project allocation do not replace CRZ/ICRZ, EIA, defence, navigation, fisheries, seabed-use,
+grid or port approvals.
+
+The Union's VGF scheme supports the first **1 GW** of offshore wind—500 MW each off Gujarat
+and Tamil Nadu—along with port upgrading. Treat VGF approval, survey, tender, construction
+and commissioned generation as different dated states. Offshore location does not make a
+project automatically "blue" or ecologically low-impact.
 
 ### 3. Natural-capital accounting
 
@@ -2723,15 +2755,16 @@ which many blue sectors depend.
 3. Capture fisheries and aquaculture have different risk profiles.
 4. Ports transmit sediment, pollution and access effects.
 5. Offshore renewables still require spatial and ecological appraisal.
-6. Natural capital has extent, condition and service-flow dimensions.
-7. Physical and monetary accounts should be used together.
-8. Overlapping ecosystem services must not be double counted.
-9. Renewal and assimilative capacity are separate limits.
-10. Distribution is part of sustainability.
-11. Efficiency can cause rebound if total effort is uncontrolled.
-12. Avoidance precedes mitigation, restoration and offsets.
-13. Irreversible uncertainty justifies precaution.
-14. Blue Economy growth and CRZ protection can be mutually dependent.
+6. MNRE is the offshore-wind nodal ministry; NIWE is the nodal technical agency.
+7. Offshore-wind allocation does not replace coastal, EIA, fisheries or navigation approval.
+8. Natural capital has extent, condition and service-flow dimensions.
+9. Physical and monetary accounts should be used together.
+10. Overlapping ecosystem services must not be double counted.
+11. Renewal and assimilative capacity are separate limits.
+12. Distribution is part of sustainability.
+13. Efficiency can cause rebound if total effort is uncontrolled.
+14. Avoidance precedes mitigation, restoration and offsets.
+15. Irreversible uncertainty justifies precaution.
 
 ### Concept check
 
@@ -2791,9 +2824,9 @@ more activity at sea.
 Progress: 16 / 18 | Stage: Core | Subtopic: India policy status, institutions, missions and Blue Economy 2.0
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India's Blue Economy, Deep Ocean Mission, fisheries and institutions
+Book context: not available
 CA search: "official India Blue Economy 2.0 Interim Budget policy status white paper"
-CA found: Interim Budget 2024-25 announced Blue Economy 2.0 on 1 February 2024
+CA found: May 2025 — MoES Blue Economy white paper; 21 August 2025 — MISHTI implementation update; 4 November 2025 — EEZ Fisheries Rules notified
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: India's distributed policy architecture
@@ -2810,11 +2843,11 @@ Ports/Shipping     States/UTs          research and services
 ports, logistics   fisheries, coast    NIOT / NCCR / INCOIS
 ```
 
-### 1. Policy-status firewall as of 3 October 2026
+### 1. Policy-status firewall as of 5 October 2026
 
 India's **Draft Blue Economy Policy Framework** was released for consultation in 2021 and
 official replies described a revised national policy as under finalisation. No final notified
-National Blue Economy Policy had replaced that draft by 3 October 2026.
+National Blue Economy Policy had replaced that draft by 5 October 2026.
 
 The Ministry of Earth Sciences' 2025 white paper on investment, innovation and sustainable
 growth adds strategic direction. It is not itself proof that the draft became a binding,
@@ -2853,6 +2886,12 @@ sustainable coastal livelihoods. These figures express the programme's projected
 and carbon benefits. They must not be reported as audited restoration, survival, carbon or
 livelihood outcomes already achieved.
 
+**Dated implementation output:** a PIB reply dated **21 August 2025** reported that
+**22,560.34 hectares** had been taken up for plantation/restoration across **13 States and
+Union Territories** through convergence during FY 2023-24 and 2024-25. "Taken up" is an
+implementation-area output; it is not the same as surviving mature mangrove, restored
+hydrology, measured carbon or completed livelihood outcomes.
+
 The three instruments are complementary rather than interchangeable:
 
 ```text
@@ -2885,14 +2924,27 @@ that commercial deep-sea mining is environmentally acceptable.
 The Department of Fisheries leads sector policy and schemes such as PMMSY, infrastructure
 support and formalisation measures. Coastal aquaculture also has its own authority and
 statutory regime. State fisheries departments regulate and implement within their
-competence. FAO's Blue Transformation framework supplies three useful global objectives:
-sustainable aquaculture expansion, effective fisheries management and upgraded value chains.
+competence.
+
+- **Territorial waters:** State Marine Fishing Regulation Acts remain central.
+- **EEZ:** the Sustainable Harnessing of Fisheries in the EEZ Rules, 2025, notified
+  4 November 2025, create the Union access-pass, reporting, management and enforcement route.
+- **High seas:** the 9 December 2025 MEA guidelines create a separate authorisation and
+  compliance route for Indian-flagged fishing vessels.
+
+**Economy owner boundary:** FAO Blue Transformation and the Four Betters are taught in
+`upsc-ai-kit\knowledge\Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`;
+this lesson does not reproduce that module.
 
 ### 6. Ports, shipping and ocean services
 
 The Ministry of Ports, Shipping and Waterways leads ports and maritime logistics. Sagarmala
 and maritime visions pursue infrastructure and connectivity, but individual projects remain
 subject to environmental and coastal law.
+
+MNRE leads offshore-wind policy and NIWE supplies the nodal technical route for resource
+assessment and development facilitation in the EEZ. Offshore-wind approval remains a
+multi-authority process; the VGF scheme is financial support, not environmental clearance.
 
 MoES institutions supply public goods:
 
@@ -2936,14 +2988,14 @@ The final policy should coordinate existing law, not suspend it or become anothe
 5. National Coastal Mission links ICZM with climate-resilient infrastructure.
 6. MISHTI envisages about 540 sq km across nine States and four UTs during 2023-2028.
 7. Its 22.8 million person-days and 4.5 million-tonne carbon sink are estimates.
-8. NPCA supports aquatic ecosystems and wetlands, including flood and water-security buffers.
-9. National Coastal Mission, MISHTI and NPCA are complementary, not interchangeable.
-10. Deep Ocean Mission, Samudrayaan and three-person Matsya-6000 are under MoES.
-11. Scientific exploration and environmental acceptability are separate.
-12. Fisheries, ports, environment and States retain distinct roles.
-13. NIOT, NCCR, INCOIS and NCSCM perform different functions.
-14. FAO Blue Transformation joins aquaculture, fisheries and value chains.
-15. Cross-sector coordination must preserve statutory accountability.
+8. PIB reported 22,560.34 ha taken up under MISHTI by 21 August 2025; this is not an ecological-outcome figure.
+9. NPCA supports aquatic ecosystems and wetlands, including flood and water-security buffers.
+10. National Coastal Mission, MISHTI and NPCA are complementary, not interchangeable.
+11. Deep Ocean Mission, Samudrayaan and three-person Matsya-6000 are under MoES.
+12. Scientific exploration and environmental acceptability are separate.
+13. EEZ Rules 2025 and high-seas guidelines use separate fisheries routes.
+14. Fisheries, ports, offshore wind, environment and States retain distinct roles.
+15. NIOT, NCCR, INCOIS, NCSCM and NIWE perform different functions.
 
 ### Concept check
 
@@ -2952,7 +3004,7 @@ Economy Policy merely because Blue Economy 2.0 and a 2025 white paper exist?
 
 **Model answer:** They are different instruments. Blue Economy 2.0 is a budget announcement,
 and the white paper is strategic analysis. The 2021 framework remained a draft under
-finalisation; no final notified policy replacing it had been published by 3 October 2026.
+finalisation; no final notified policy replacing it had been published by 5 October 2026.
 
 **Misconception to avoid:** All official documents carrying "Blue Economy" have the same
 legal status or prove policy implementation.
@@ -3010,9 +3062,9 @@ necessary for a competent basic answer.
 Progress: 17 / 18 | Stage: Advanced | Subtopic: MPAs, OECMs, connectivity, BBNJ and conservation interfaces
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: protected areas, biodiversity conventions and marine governance
+Book context: not available
 CA search: "official marine protected areas OECM BBNJ 30x30 India"
-CA found: None directly relevant; treaty status follows official legal records
+CA found: 17 January 2026 — BBNJ entered into force globally; India remained a signatory, not a Party, on 5 October 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: protection labels are not interchangeable
@@ -3131,7 +3183,7 @@ outcome indicators and grievance systems are more important than nominal coverag
 11. OECMs require sustained conservation outcomes outside PA designation.
 12. KMGBF 30x30 includes effectiveness, connectivity and equity.
 13. BBNJ operates beyond national jurisdiction.
-14. India was a BBNJ signatory, not a Party, on 3 October 2026.
+14. India was a BBNJ signatory, not a Party, on 5 October 2026.
 15. Leakage and climate-driven movement require network-scale management.
 
 ### Concept check
@@ -3193,9 +3245,9 @@ on a map.
 Progress: 18 / 18 | Stage: Advanced | Subtopic: CRZ liberalisation, blue-carbon under-accounting and integrated reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: advanced CRZ, blue carbon, governance and policy trade-offs
+Book context: not available
 CA search: "official coastal governance reform cumulative impacts blue economy India"
-CA found: None directly relevant; the lesson synthesises established doctrine and legal status
+CA found: May 2025 — MoES Blue Economy white paper emphasised investment, innovation and sustainable growth; 5 October 2026 status recheck found no final notified National Blue Economy Policy
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: reform from ecological ceiling to correction
@@ -3425,6 +3477,9 @@ and correction before damage becomes irreversible.
 
 ### 2018 Prelims GS-I, Question 87
 
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\11_Islands-and-Coral-Reefs.md`
+**Topic 24 bridge:** coral ecology and climate stress only; no local truth-value or option mapping
+
 > Consider the following statements:
 >
 > 1. Most of the world's coral reefs are in tropical waters.
@@ -3440,25 +3495,40 @@ and correction before damage becomes irreversible.
 
 ### 2018 GS-I, Question 7 — 10 marks, 150 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+
 > What are the consequences of spreading of 'Dead Zones' on marine ecosystem?
 
 ### 2019 GS-I, Question 4 — 10 marks, 150 words
+
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\11_Islands-and-Coral-Reefs.md`
+**Topic 24 bridge:** bleaching, acidification and ecological recovery limits
 
 > Assess the impact of global warming on the coral life system with examples.
 
 ### 2019 GS-I, Question 5 — 10 marks, 150 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+
 > Discuss the causes of depletion of mangroves and explain their importance in maintaining coastal ecology.
 
 ### 2019 GS-III, Question 7 — 10 marks, 150 words
+
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
 
 > Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyze the impact of sand mining along the Indian coasts, citing specific examples.
 
 ### 2019 GS-I, Question 17 — 15 marks, 250 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`
+**Topic 24 bridge:** nutrient, larval, oxygen and ecosystem effects only
+
 > How do ocean currents and water masses differ in their impacts on marine life and coastal environment? Give suitable examples.
 
 ### 2021 Prelims GS-I, Question 19
+
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+**Neutrality:** key status `not available`; no option elimination or answer mapping
 
 > What is blue carbon?
 >
@@ -3469,6 +3539,9 @@ and correction before damage becomes irreversible.
 
 ### 2022 Prelims GS-I, Question 49
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+**Neutrality:** key status `not available`; no option elimination or answer mapping
+
 > "Biorock technology" is talked about in which one of the following situations?
 >
 > (a) Restoration of damaged coral reefs
@@ -3477,6 +3550,9 @@ and correction before damage becomes irreversible.
 > (d) Providing salt licks for wild animals in forests/protected areas
 
 ### 2022 Prelims GS-I, Question 85
+
+**Primary owner:** `upsc-ai-kit\knowledge\International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`
+**Topic 24 bridge:** CRZ-IV versus maritime-zone boundary only; no local truth-value or option mapping
 
 > With reference to the United Nations Convention on the Law of Sea, consider the following statements:
 >
@@ -3493,19 +3569,30 @@ and correction before damage becomes irreversible.
 
 ### 2022 GS-III, Question 10 — 10 marks, 150 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Internal-Security\basic\07_Maritime-and-Coastal-Security.md`
+**Topic 24 bridge:** environmental regulation of coastal infrastructure only
+
 > What are the maritime security challenges in India? Discuss the organisational, technical
 > and procedural initiatives taken to improve the maritime security.
 
 ### 2022 GS-I, Question 14 — 15 marks, 250 words
+
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`
+**Topic 24 bridge:** productivity and food-web response only
 
 > What are the forces that influence ocean currents? Describe their role in fishing industry
 > of the world.
 
 ### 2022 GS-III, Question 18 — 15 marks, 250 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+
 > Explain the causes and effects of coastal erosion in India. What are the available coastal management techniques for combating the hazard?
 
 ### 2023 Prelims GS-I, Question 5
+
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\basic\10_Coastal-Landforms.md`
+**Topic 24 bridge:** coastal habitat consequences only; no local choice or answer mapping
 
 > Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland?
 >
@@ -3516,30 +3603,50 @@ and correction before damage becomes irreversible.
 
 ### 2023 GS-I, Question 14 — 15 marks, 250 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Geography\advanced\10_India-Coast-and-CRZ.md`
+**Disaster bridge:** `upsc-ai-kit\knowledge\Disaster-Management\basic\06_Tsunami-and-Coastal-Hazard-Management.md`
+**Topic 24 bridge:** ecosystem services and coastal-governance safeguards
+
 > Comment on the resource potentials of the long coastline of India and highlight the status of natural hazard preparedness in these areas.
 
 ### 2023 GS-II, Question 20 — 15 marks, 250 words from the paper instruction block
+
+**Primary owner:** `upsc-ai-kit\knowledge\International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`
+**Topic 24 bridge:** ship-source pollution and coastal-ecosystem relevance only
 
 > 'Sea is an important Component of the Cosmos' Discuss in the light of the above statement the role of the IMO (International Maritime Organisation) in protecting environment and enhancing maritime safety and security.
 
 ### 2023 GS-III, Question 8 — 10 marks, 150 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+
 > What is oil pollution? What are its impacts on the marine ecosystem? In what way is oil pollution particularly harmful for a country like India?
 
 ### 2025 GS-I, Question 4 — 10 marks, 150 words
+
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\17_Climate-Change-Science-Greenhouse-Effect.md`
+**Topic 24 bridge:** reef-island sediment, freshwater and coastal-ecosystem pathways
 
 > How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples.
 
 ### 2025 GS-III, Question 8 — 10 marks, 150 words
 
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+
 > Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard?
 
 ### 2025 GS-III, Question 20 — 15 marks, 250 words
+
+**Primary owner:** `upsc-ai-kit\knowledge\Internal-Security\basic\07_Maritime-and-Coastal-Security.md`
+**Topic 24 bridge:** ecological resilience, port pollution and coastal-infrastructure regulation only
 
 > Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal
 > security challenges and the way forward.
 
 ### 2026 Prelims GS-I, Question 23
+
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+**Neutrality:** provisional key exists; no truth-value, combination or answer mapping
 
 > Which of the following best explain(s) the rationale for protecting mangrove ecosystems in the context of climate resilience?
 >
@@ -3556,6 +3663,9 @@ and correction before damage becomes irreversible.
 
 ### 2026 Prelims GS-I, Question 38
 
+**Primary owner:** `upsc-ai-kit\knowledge\Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`
+**Topic 24 bridge:** sustainable-fisheries relevance only; no local combination or answer mapping
+
 > At the United Nations Ocean Conference (UNOC) held in June, 2025 in France, the Food and Agricultural Organization (FAO) of the United Nations demonstrated its leading voice on marine and ocean issues, especially on sustainable fisheries and aquaculture for resilient livelihood and "Blue Transformation". Which of the following combinations about the "Four Betters" proposed by FAO for "Blue Transformation" is correct?
 >
 > (a) Better production, better nutrition, better environment and better ocean
@@ -3564,6 +3674,9 @@ and correction before damage becomes irreversible.
 > (d) Better estuaries, better nutrition, better environment and better mangrove vegetation
 
 ### 2026 Prelims GS-I, Question 50
+
+**Primary owner:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`
+**Neutrality:** provisional key exists; assess statements independently without answer mapping
 
 > Which of the following statements with regard to India's Deep Ocean Mission is/are correct?
 >
@@ -3582,28 +3695,28 @@ and correction before damage becomes irreversible.
 
 | PYQ | Demand | Concise answer approach |
 |---|---|---|
-| 2018 Pre Q87 | test three independent reef-distribution and biodiversity claims | assess tropical distribution, named territorial concentration and phylum comparison separately; do not use one plausible statement to validate all |
+| 2018 Pre Q87 | objective coral-distribution/biodiversity statement set | use `Geography\basic\11_Islands-and-Coral-Reefs.md`; Topic 24 supplies only coral-ecology context and performs no truth-value or option mapping |
 | 2018 GS-I Q7 | consequences, not merely causes, of dead zones | define hypoxia briefly, then organise ecological, fishery, nutrient-cycle and livelihood consequences; show mobility versus benthic mortality |
-| 2019 GS-I Q4 | assess global-warming impact on coral life with examples | explain bleaching, repeated heat, acidification and recovery loss; use Indian reef settings and distinguish stress from automatic death |
+| 2019 GS-I Q4 | assess global-warming impact on coral life with examples | use `Geography\basic\11_Islands-and-Coral-Reefs.md` for the primary answer; add Topic 24's bleaching, acidification and recovery-limit bridge |
 | 2019 GS-I Q5 | two-part demand: causes plus ecological importance | classify conversion, hydrological and climate causes; then explain nursery, protection, carbon and livelihood roles with limits |
 | 2019 GS-III Q7 | analyse coastal sand-mining impacts with examples | use sediment-budget, beach-dune, erosion, aquifer and habitat chains; add enforcement and alternative-material measures |
-| 2019 GS-I Q17 | compare currents and water masses through impacts | define each, compare heat/larval transport with density/oxygen/deep circulation, and use upwelling/fisheries/coastal-climate examples |
-| 2021 Pre Q19 | identify the precise carbon category | distinguish coastal vegetated-ecosystem carbon from forest, fossil and atmospheric stocks without displaying a key |
-| 2022 Pre Q49 | identify the application of a named technology | recall mineral accretion around a submerged frame and keep restoration distinct from stress removal |
-| 2022 Pre Q85 | test UNCLOS zone propositions independently | assess territorial-sea breadth, innocent passage and EEZ outer limit as separate clauses |
-| 2022 GS-III Q10 | challenges plus organisational, technical and procedural initiatives | classify piracy, terrorism, smuggling, illegal fishing, cyber/port and coordination risks; then organise reforms under institutions, surveillance/tracking technology and operating procedures/community cooperation |
-| 2022 GS-I Q14 | identify forces and explain their fishery role | classify wind, Coriolis, pressure-gradient, density, tide and basin controls; then connect upwelling, fronts, larval transport and species ranges to world fishing grounds |
+| 2019 GS-I Q17 | compare currents and water masses through impacts | use `Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`; Topic 24 is limited to nutrient, larval, oxygen and ecosystem effects |
+| 2021 Pre Q19 | objective Blue Carbon item | apply the canonical definition in Environment Basic 24 without eliminating options, assigning truth values or identifying an answer |
+| 2022 Pre Q49 | objective Biorock item | verify the term against Environment Basic 24 without option elimination or answer mapping |
+| 2022 Pre Q85 | objective UNCLOS statement set | use `International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`; Topic 24 supplies only the CRZ-IV boundary |
+| 2022 GS-III Q10 | maritime-security challenges and initiatives | use `Internal-Security\basic\07_Maritime-and-Coastal-Security.md`; Topic 24 supplies only environmental-infrastructure and pollution-response links |
+| 2022 GS-I Q14 | current forces and world fishing | use `Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`; Topic 24 supplies only productivity and food-web response |
 | 2022 GS-III Q18 | causes, effects and available techniques | use sediment-cell causes and differentiated effects; compare protect, accommodate, retreat and ecosystem-based options |
-| 2023 Pre Q5 | geomorphic identification | connect repeated relative sea-level fall to the present marshland landform without inferring from ecosystem labels |
-| 2023 GS-I Q14 | resource potential plus preparedness status | balance living/non-living resources with cyclone, tsunami, erosion and sea-level preparedness; distinguish capacity from universal readiness |
-| 2023 GS-II Q20 | discuss IMO's environmental, safety and security role | organise conventions and standard setting, implementation through states, capacity support and enforcement limits |
+| 2023 Pre Q5 | objective coastal-landform item | use `Geography\basic\10_Coastal-Landforms.md`; Topic 24 performs no choice or answer mapping |
+| 2023 GS-I Q14 | resource potential plus preparedness status | use Geography Advanced 10 and Disaster Management Basic 06; Topic 24 contributes ecosystem-service and coastal-governance safeguards |
+| 2023 GS-II Q20 | IMO environmental, safety and security role | use `International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`; Topic 24 contributes only ship-source-pollution relevance |
 | 2023 GS-III Q8 | definition, impacts and India-specific vulnerability | trace oil pathways, sensitive habitats and India's traffic-port-offshore-fishery exposure; finish with preparedness |
-| 2025 GS-I Q4 | existence-level island risk with examples | explain inundation, freshwater, erosion, reef sediment, displacement and adaptation limits; avoid deterministic "all islands disappear" claims |
+| 2025 GS-I Q4 | existence-level island risk with examples | use `Environment-and-Ecology\basic\17_Climate-Change-Science-Greenhouse-Effect.md`; Topic 24 contributes reef-island sediment, freshwater and habitat pathways |
 | 2025 GS-III Q8 | causes plus remedies for saline aquifers | lead with over-extraction and freshwater-head decline; group remedies into demand, recharge, well/barrier and monitoring measures |
-| 2025 GS-III Q20 | justify trade-security link, diagnose challenges and propose a way forward | connect sea lanes, ports and offshore assets to piracy, terrorism, smuggling, illegal fishing, cyber and coordination risks; conclude with domain awareness, vessel tracking, coastal policing, fisher participation and regional cooperation |
-| 2026 Pre Q23 | assess three mangrove rationales neutrally | test root salt tolerance, hydrology, surge buffering and livelihood claims one by one |
-| 2026 Pre Q38 | identify FAO framework wording | separate the Four Betters formulation from invented habitat-specific alternatives |
-| 2026 Pre Q50 | test ministry, submersible capacity and mission hierarchy | assess each statement independently through the MoES/Deep Ocean Mission framework |
+| 2025 GS-III Q20 | sea-trade and maritime/coastal security | use `Internal-Security\basic\07_Maritime-and-Coastal-Security.md`; Topic 24 contributes ecological resilience and coastal-infrastructure regulation only |
+| 2026 Pre Q23 | objective mangrove statement set | use Environment Basic 24 to assess concepts independently; provisional key exists, but no local truth set, combination or answer is supplied |
+| 2026 Pre Q38 | objective FAO framework item | use `Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`; Topic 24 performs no option or combination mapping |
+| 2026 Pre Q50 | objective Deep Ocean Mission statement set | use Environment Basic 24 to assess statements independently; provisional key exists, but no answer mapping is supplied |
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -3938,9 +4051,8 @@ one serious unresolved failure -> not made sustainable by the label
 - Benthic-pelagic coupling links seabed and water column.
 - Aquatic biomass pyramid may invert through rapid producer turnover.
 - Energy pyramid always remains upright.
-- Current moves water; water mass has characteristic temperature-salinity history.
-- Winds, Coriolis force, pressure gradients, density contrasts, tides and basin form shape currents.
-- Currents affect fisheries through upwelling, fronts, larval transport and species ranges.
+- Detailed current forces, water-mass taxonomy and fishing geography remain Geography-owned.
+- Environment retains the upwelling, nutrient, larval, oxygen and food-web bridge.
 - Natural nutrient supply ≠ anthropogenic over-enrichment.
 
 ## Mangrove, coral, seagrass, marsh and estuary card
@@ -3950,7 +4062,7 @@ one serious unresolved failure -> not made sustainable by the label
 - Mangrove functions: nursery, detritus, sediment interaction, blue carbon and conditional buffering.
 - Restoration begins with tidal hydrology, elevation and pressure diagnosis.
 - Coral polyp = animal; zooxanthellae = symbionts; reef = accumulated framework.
-- Reef forms: fringing, barrier, atoll.
+- Reef-form and island-formation detail remains Geography-owned.
 - Reef persistence requires carbonate production to exceed erosion, dissolution and breakage.
 - Seagrass = rooted flowering plant; seaweed = macroalga.
 - Salt marsh = halophytic intertidal herb/grass/shrub system.
@@ -3965,6 +4077,7 @@ one serious unresolved failure -> not made sustainable by the label
 - Hypoxia ≠ anoxia; dead zone ≠ absence of every microbe.
 - Oil: coating, smothering, toxic fractions and persistent sheltered-sediment residues.
 - Plastic: entanglement, ingestion, fragmentation and ghost gear.
+- February 2024 National Action Plan addresses marine plastic litter from sea-based sources.
 - Bleaching: stress-induced loss of coral symbionts; not automatic death.
 - Acidification: CO2 uptake → more hydrogen ions → less carbonate for calcification.
 - Warming lowers oxygen solubility and can strengthen stratification.
@@ -3988,7 +4101,7 @@ one serious unresolved failure -> not made sustainable by the label
 - Draft CZMP includes consultation; CZMA appraises; MoEFCC approves.
 - Transition: until revised 2019 CZMP approval, approved 2011 CZMP/rules continue for appraisal.
 - Amendments dated 26 November 2021 and 24 November 2022 are incorporated.
-- As of 3 October 2026, no later amending Gazette had altered that position.
+- As of 5 October 2026, no later amending Gazette had altered that position.
 - Relative to 2011, CRZ 2019 reduced selected setbacks, simplified specified clearances and
   expanded regulated flexibility for tourism, housing and local infrastructure.
 - Its rationale is development and livelihood flexibility; its counter-risk is greater
@@ -4053,12 +4166,11 @@ one serious unresolved failure -> not made sustainable by the label
 - CRZ/ICRZ governs coastal development, not all fisheries or shipping.
 - Territorial sea 12 nm; contiguous zone 24 nm; EEZ 200 nm.
 - CRZ-IV overlaps territorial sea but does not define all jurisdiction.
-- Maritime-security challenges include piracy, terrorism, smuggling, illegal fishing,
-  untracked craft, port/cyber risk, pollution emergencies and institutional gaps.
-- Initiatives should be grouped as organisational coordination, technical surveillance/tracking
-  and procedural registration, SOP, exercise, response and community measures.
+- EEZ Fisheries Rules were notified 4 November 2025; high-seas guidelines followed on 9 December 2025.
+- Detailed maritime-security and IMO doctrine remains with Internal Security and IR owners.
 - BBNJ entered into force 17 January 2026.
-- India signed 25 September 2024 but had not ratified by 3 October 2026.
+- India signed 25 September 2024 but had not ratified by 5 October 2026.
+- BBNJ governs ABNJ biodiversity for Parties; UNCLOS Part XI/ISA governs minerals in the Area.
 
 ## ICZM, MSP, EIA and resilience card
 
@@ -4085,7 +4197,7 @@ one serious unresolved failure -> not made sustainable by the label
 - Efficiency can increase total pressure through rebound.
 - Avoid → minimise → restore → compensate residual harm.
 - 2021 document = Draft Blue Economy Policy Framework.
-- No final notified national policy was located by 3 October 2026.
+- No final notified national policy was located by 5 October 2026.
 - 2025 MoES white paper = strategic document, not automatic legal notification.
 - **Dated policy application:** Interim Budget 2024-25 paragraph 70 announced Blue Economy 2.0 for
   climate-resilient activities, restoration/adaptation and coastal aquaculture/mariculture
@@ -4093,11 +4205,14 @@ one serious unresolved failure -> not made sustainable by the label
 - National Coastal Mission: ICZM and climate-resilient infrastructure for coastal communities.
 - MISHTI: about 540 sq km across nine coastal States and four UTs during 2023-2028 through
   convergence; 22.8 million person-days and 4.5 million tonnes of carbon sink are estimates.
+- PIB reported 22,560.34 ha taken up across 13 States/UTs by 21 August 2025; this is an output, not restored-function proof.
 - NPCA: aquatic-ecosystem and wetland conservation supporting flood moderation and water security.
 - These programmes are complementary and do not replace CRZ, EIA or sectoral permissions.
 - Deep Ocean Mission under MoES; Samudrayaan and three-person Matsya-6000 are components.
 - Scientific capability does not establish environmental acceptability.
-- FAO Blue Transformation: sustainable aquaculture, effective fisheries management and upgraded value chains.
+- EEZ and high-seas fishing use separate 2025 Union rules/guidelines.
+- MNRE is offshore-wind nodal ministry; NIWE is the nodal technical agency.
+- FAO doctrine remains with the Economy owner.
 
 ## Marine conservation and reform card
 
@@ -4106,7 +4221,7 @@ one serious unresolved failure -> not made sustainable by the label
 - Network quality: representation, replication, connectivity, size, climate fit, enforcement and rights.
 - OECM requires sustained in-situ conservation outside protected-area designation.
 - KMGBF 30x30 requires effective, connected and equitable conservation.
-- BBNJ covers marine genetic resources, area tools, EIA, capacity and technology beyond national jurisdiction.
+- BBNJ covers ABNJ biodiversity for Parties; it does not replace the ISA mineral regime.
 - Prevent leakage and track pressure outside boundaries.
 - Set cumulative regional budgets for nutrients, dredging, effort and habitat conversion.
 - Dynamic maps need version control and lawful revision.
@@ -4181,15 +4296,15 @@ rights-based participation and correction before cumulative damage becomes irrev
 | Required coverage | Main teaching location | Register/retrieval location | Practice location |
 |---|---|---|---|
 | coastal/marine spatial structure and services | Lesson 1 | coastal system card | Lesson 1 check/model |
-| upwelling, food webs, detritus and pyramids | Lesson 2 | productivity card | Lesson 2 check/model; 2019 currents PYQ |
-| forces controlling ocean currents and their fishery role | Lesson 2 | productivity card | 2022 GS-I Q14 demand route |
+| upwelling, food webs, detritus and pyramids | Lesson 2 | productivity card | Lesson 2 check/model |
+| bounded current/water-mass ecology bridge | Lesson 2 owner box | productivity card | 2019/2022 Geography-owned PYQ routes |
 | mangrove ecology, services, threats and restoration | Lesson 3 | habitat card | Lesson 3 check/model; 2019/2026 PYQs |
-| coral structure, reef forms, services and Biorock | Lesson 4 | habitat card | Lesson 4 check/model; 2018/2019/2022 PYQs |
+| coral biology, services, climate stress and Biorock | Lesson 4 | habitat card | Lesson 4 check/model; bounded Geography PYQ bridge |
 | seagrass, salt marshes, estuaries and connectivity | Lesson 5 | habitat card | Lesson 5 check/model |
-| pollution, eutrophication, dead zones, oil and plastic | Lesson 6 | threat card | Lesson 6 check/model; 2018/2023 PYQs |
+| pollution, eutrophication, dead zones, oil, plastic and national sea-based litter plan | Lesson 6 | threat card | Lesson 6 check/model; 2018/2023 PYQs |
 | warming, acidification, bleaching and deoxygenation | Lesson 7 | threat card | Lesson 7 check/model; 2019 coral PYQ |
 | sea-level rise, islands and saline intrusion | Lesson 7 | threat card | Lesson 7 model; 2025 GS-I/GS-III PYQs |
-| overfishing, bycatch, aquaculture and invasives | Lesson 8 | threat and Blue Economy cards | Lesson 8 check/model |
+| overfishing, bycatch, aquaculture, invasives and 2025 fisheries routes | Lesson 8 | threat and Blue Economy cards | Lesson 8 check/model |
 | CRZ evolution, EPA basis and purpose | Lesson 9 | CRZ evolution card | Lesson 9 check/model |
 | CRZ scope, HTL/LTL, hazard line and CZMP transition | Lesson 9 | CRZ evolution card | Lesson 9 check/model |
 | CRZ-I to IV and all major subcategories | Lesson 10 | category card | Lesson 10 check/model |
@@ -4202,24 +4317,25 @@ rights-based participation and correction before cumulative damage becomes irrev
 | S.O. 2(E), 1 January 2021: Great Nicobar moved to Group II and mapping clause substituted | Lesson 12 amendment timeline | island card; legal-status ledger | Lesson 12 revision |
 | S.O. 2239(E), 9 June 2021: NIOT added for sand-mining site identification | Lesson 12 amendment timeline | island card; legal-status ledger | Lesson 12 revision |
 | S.O. 2095(E), 5 May 2022 and S.O. 5494(E), 24 November 2022: exact ICRZ effects | Lesson 12 amendment timeline/table | island card; legal-status ledger | Lesson 12 check/model |
-| CRZ versus fisheries, shipping and maritime zones | Lesson 12 | jurisdiction card | Lesson 12 check/model; 2022 UNCLOS/2023 IMO/2025 GS-III Q20 |
-| Maritime-security challenges and organisational/technical/procedural initiatives | Lesson 12 | island and jurisdiction card | 2022 GS-III Q10; 2025 GS-III Q20 |
-| BBNJ current status and legal boundary | Lessons 12 and 17 | island/conservation cards | Lessons 12 and 17 checks/models |
+| CRZ versus fisheries, shipping and maritime zones | Lesson 12 | jurisdiction card | Lesson 12 check/model; explicit cross-owner PYQ routes |
+| bounded Internal-Security and IMO ownership bridge | Lesson 12 owner box | island and jurisdiction card | 2022/2023/2025 primary-owner links only |
+| BBNJ biodiversity, ISA mineral boundary and current status | Lessons 12 and 17 | island/conservation cards | Lessons 12 and 17 checks/models |
 | ICZM, MSP, EIA and cumulative assessment | Lesson 13 | planning card | Lesson 13 check/model |
 | NCSCM, NCCR and INCOIS roles | Lesson 13 | planning card | Lesson 13 model |
 | disaster resilience, green-grey options and warnings | Lesson 14 | resilience card | Lesson 14 check/model; 2022/2023 PYQs |
 | community, livelihood, gender and tenure | Lesson 14 | resilience card | Lesson 14 check/model |
 | Blue Economy sectors, trade-offs and accounting | Lesson 15 | Blue Economy card | Lesson 15 check/model |
+| offshore-wind MNRE/NIWE and VGF routing | Lesson 15 | Blue Economy card | Lesson 15 revision |
 | India policy status and institutional architecture | Lesson 16 | India policy card | Lesson 16 check/model; 2026 Deep Ocean PYQ |
 | Blue Economy 2.0 dated policy application | Lesson 16 | India policy card | Lesson 16 check |
 | National Coastal Mission: ICZM and climate-resilient infrastructure | Lesson 16 | India policy card | Lesson 16 revision |
-| MISHTI scope, 2023-2028 targets/estimates and convergence status | Lesson 16 | habitat and India policy cards | Lesson 16 revision |
+| MISHTI scope, targets and 21 August 2025 implementation output | Lesson 16 | habitat and India policy cards | Lesson 16 revision |
 | NPCA aquatic-ecosystem/wetland resilience role | Lesson 16 | India policy card | Lesson 16 revision |
 | MPAs, OECMs, 30x30 and conservation quality | Lesson 17 | conservation card | Lesson 17 check/model |
 | two-sided 2011-to-2019 CRZ liberalisation analysis | Lesson 18 optional Advanced block | CRZ evolution card | cumulative Check 10; Lesson 18 model |
 | blue-carbon under-accounting, integrity and finance | Lesson 18 optional Advanced block | conservation/reform card | cumulative Check 11; Lesson 18 model |
 | cumulative limits, finance and adaptive reform | Lesson 18 | reform card and answer spine | cumulative Check 12; Lesson 18 check/model |
-| exact neutral PYQs through 2026 before clues | final PYQ question set | demand table | answer approaches only |
+| exact neutral PYQs through 2026 with primary-owner labels | final PYQ question set | neutral owner-route table | no objective key, truth mapping or elimination |
 | 8–15 revision points and one check/model/misconception per lesson | Lessons 1–18 | consolidated cards | lesson-local sections |
 | unique quantified rubrics and model ceilings | Lessons 1–18; final practice | answer spine | all original Mains blocks |
 | consolidated register notes last before ledgers | consolidated register notes | same section | final practice precedes notes |
@@ -4228,74 +4344,113 @@ rights-based participation and correction before cumulative damage becomes irrev
 
 ## Primary sources and material used
 
-| Source | Material used |
-|---|---|
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` | core CRZ, ecosystems, Blue Economy, India examples, answer architecture and PYQ routes |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` | CRZ liberalisation trade-off, blue carbon, acidification, governance and evidence cautions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\01_Ecosystem-Structure-and-Function.md` and `02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` | food webs, detrital/ecotone logic, nutrient cycling and aquatic biomass-pyramid distinction |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\06_Protected-Area-Network-India.md`, `07_Biosphere-Reserves-and-Ramsar-Sites.md` and `22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` | protected-area, designation, KMGBF and conservation-interface distinctions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\14_Water-Pollution-and-River-Cleaning-Missions.md`, `15_Solid-Plastic-and-E-Waste-Rules.md`, `16_Environmental-Impact-Assessment-and-NGT.md` and `17_Climate-Change-Science-Greenhouse-Effect.md` | eutrophication, plastics, EIA, climate, acidification and sea-level mechanisms |
-| `upsc-ai-kit\knowledge\Geography\basic\10_Coastal-Landforms.md`, `11_Islands-and-Coral-Reefs.md`, `12_The-Oceans-Currents-Tides-Salinity.md` and their Advanced companions | sediment cells, reef formation, islands, currents, upwelling, salinity and India coast |
-| `upsc-ai-kit\knowledge\Disaster-Management\basic\04_Multi-Hazard-Early-Warning-and-Disaster-Technology.md`, `06_Tsunami-and-Coastal-Hazard-Management.md` and `07_Cyclones-Storm-Surge-and-Coastal-Preparedness.md` | end-to-end warning, tsunami, surge and coastal-resilience architecture |
-| `upsc-ai-kit\knowledge\Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` and its Advanced companion | capture/aquaculture distinction, common-pool economics, MSY/MEY, value chains and Blue Transformation |
-| `upsc-ai-kit\knowledge\Internal-Security\basic\07_Maritime-and-Coastal-Security.md` and `International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md` | maritime-zone ladder, coastal/maritime distinction and BBNJ status |
-| Government of Kerala Department of Environment, *CRZ Notification 2019 with Amendments & O.M./Circulars/Orders*, official government compilation through 24 November 2022 | G.S.R. 37(E), scope, categories, setbacks, activity rules, delegation, clearance, validity and amendments |
-| NCSCM, Coastal Zone Management Plan 2019 portal, <https://czmp.ncscm.res.in/> | official CRZ-2019 purpose, exclusion of A&N/Lakshadweep and approved-map portal |
-| Island Coastal Regulation Zone Notification, S.O. 1242(E), 8 March 2019, Gazette text accessed through FAOLEX/UNEP LEAP | eight bigger A&N islands, groups, ICRZ categories, NDZs, buffers, IIMPs and clearance |
-| MoEFCC, S.O. 2(E), 1 January 2021, official Gazette, <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/1.pdf> | Great Nicobar reclassified from Group I to Group II; paragraph 8(i)(e) 1:4000 mapping clause substituted |
-| MoEFCC, S.O. 2239(E), 9 June 2021, official Gazette, <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/2.pdf> | NIOT added alongside IOM Chennai for identifying sand-mining sites under paragraph 4(III), ICRZ-IB, sub-clause (xix) |
-| MoEFCC, S.O. 2095(E), 5 May 2022, official Gazette, <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/3_ICRZ_05_05_2022.pdf> | insertion of gas-based power plants in paragraph 4(V)(c) for islands above 100 km² |
-| MoEFCC, S.O. 5494(E), 24 November 2022, official Gazette, <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/S-O-5494-E-DATED%2024-11-2022.pdf> | dead-shell collection, seasonal structures, delegated clearances, 1:4000 mapping/composite routes and manual sand-bar removal |
-| NCSCM, EIA-ICZM page, <https://ncscm.res.in/eia-iczm/> | ICZM framework, management sub-plans and spatial-planning functions |
-| INCOIS official ocean-service, PFZ and tsunami-warning pages | operational forecast, fishery advisory, bleaching-information and warning roles |
-| Interim Union Budget 2024-25 speech, paragraph 70, official India Budget PDF | dated Blue Economy 2.0 announcement |
-| Government of India, *Economic Survey 2025-26*, Chapter 10, paragraph 10.24, official all-chapters PDF pp. 435-436 / printed pp. 384-385 | National Coastal Mission role; MISHTI area, geography, period, convergence and projected employment/carbon benefits; NPCA wetland resilience role |
-| Ministry of Earth Sciences/PIB official Blue Economy policy replies and 2025 white-paper record | draft-policy/finalisation status and strategic-policy distinction |
-| MoES Deep Ocean Mission official material | mission components, Samudrayaan, Matsya-6000 and implementing ministry |
-| UNEP, *Nexus of the ocean and pollution* and SDG 14.1.1 material | marine-pollution, eutrophication and monitoring pathways |
-| FAO, *Blue Transformation Roadmap 2022–2030* | sustainable aquaculture, effective fisheries management and value-chain objectives |
-| United Nations Treaty Collection and BBNJ Agreement resources | entry into force, India signature and ratification status through the review date |
-| Majid Husain, *Indian and World Geography*, OCR-searchable local edition, PDF pp. 129–141, 151 and 365–366 | ocean relief, continental shelf, salinity, currents, coral forms, mangrove and India wetland context; obsolete or doubtful quantities were not reused |
-| Official UPSC question-paper archive, repository-relative paper evidence and the routing controls listed below | exact neutral question wording, paper, marks, question number and word-limit provenance |
+All web sources in this table were rechecked on **5 October 2026**.
+
+| Source | Access/status | Material used |
+|---|---|---|
+| Canonical Topic 24 owners at released commit `f2a17edf2`: `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`; `advanced\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` | released; parity 0/0 | core ecology, CRZ, Blue Economy, repaired Blue Carbon/Biorock/current-status controls |
+| Bounded canonical owners: `Geography\basic\10_Coastal-Landforms.md`, `11_Islands-and-Coral-Reefs.md`, `12_The-Oceans-Currents-Tides-Salinity.md`; `Environment-and-Ecology\basic\17_Climate-Change-Science-Greenhouse-Effect.md`; `International-Relations\basic\04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md`; `Internal-Security\basic\07_Maritime-and-Coastal-Security.md`; `Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md`; relevant Disaster Management owners | checked; cross-owner only | explicit bridges and primary-owner routing; no local re-ownership of currents, reef geomorphology, IMO/security or FAO modules |
+| Other Environment owners: Basic 01, 02, 06, 07, 14, 15, 16 and 22 | checked | food webs, pyramids, conservation labels, pollution, waste, EIA and convention boundaries |
+| `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 129–141, 151, 365–366 | queried local OCR book | ocean/coast foundations, coral and mangrove context; obsolete quantities excluded |
+| Government of Kerala, *CRZ Notification 2019 with Amendments*, <https://envt.kerala.gov.in/wp-content/uploads/2025/03/CRZ-Notification-2019_with-Amendments_19.pdf>, PDF pp. 9, 22–27 | official government compilation | G.S.R. 37(E), categories, transition, delegation, procedure, validity and amendments through S.O. 5495(E) |
+| NCSCM CZMP portal, <https://czmp.ncscm.res.in/> | official | approved-map status and jurisdiction-specific transition |
+| ICRZ 2019, S.O. 1242(E), <https://faolex.fao.org/docs/pdf/IND225420.pdf>, English Gazette pp. 37–53 | Gazette reproduction | island groups, ICRZ categories, NDZs, buffers and IIMPs |
+| ICRZ amendments: <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/1.pdf>; <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/2.pdf>; <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/ICRZ_Notification_2019/3_ICRZ_05_05_2022.pdf>; <https://environmentclearance.nic.in/writereaddata/CRZ_Notifications/S-O-5494-E-DATED%2024-11-2022.pdf> | official Gazettes | Great Nicobar grouping, mapping, NIOT, gas power and November 2022 changes |
+| NCSCM ICZM/MSP: <https://ncscm.res.in/eia-iczm/>; <https://coastonline.ncscm.res.in/MSP-ICZM.html>; France–India visit, 13 April 2026, <https://ncscm.res.in/indo-france-visit-2026/> | official | ICZM cycle and MSP scale come from the dedicated NCSCM framework pages; the dated visit supports only sustainable-development and environmental collaboration, not a specific MSP-cooperation claim |
+| INCOIS, <https://incois.gov.in/> | official | ocean forecasts, PFZ, bleaching information and tsunami-warning roles |
+| NOAA, 2 June 2026, <https://www.nesdis.noaa.gov/news/worlds-fourth-mass-coral-bleaching-event-likely-ended-2025> | official | fourth global bleaching-event current anchor |
+| IMO OceanLitter, February 2024, <https://oceanlitter.imo.org/news/publication-of-indias-national-action-plan-a-milestone-for-glolitter>; PIB <https://pib.gov.in/PressReleasePage.aspx?PRID=2112267> | official | National Action Plan on Marine Plastic Litter from Sea-Based Sources |
+| Department of Fisheries, EEZ Rules page, <https://dof.gov.in/actsandrules/sustainable-harnessing-fisheries-exclusive-economic-zone-rules-2025>; PIB <https://pib.gov.in/PressReleasePage.aspx?PRID=2187691> | official; notified 4 November 2025 | EEZ access-pass, management, reporting and enforcement route |
+| MEA, *Guidelines for Sustainable Harnessing of Fisheries in the High Seas by Indian-Flagged Fishing Vessels*, <https://www.mea.gov.in/images/pdf/Guidelines_for_Sustainable_Harnessing_of_Fisheries_25.pdf> | official; issued 9 December 2025 | high-seas authorisation and compliance boundary |
+| UN BBNJ portal and treaty status: <https://www.un.org/bbnjagreement/en>; <https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XXI/XXI-10.en.pdf> | official | entry into force, India signature and non-Party status |
+| UNCLOS Part XI and ISA: <https://www.un.org/depts/los/convention_agreements/texts/unclos/part11-2.htm>; <https://www.isa.org.jm/about-isa/> | official | common-heritage/Area mineral regime versus BBNJ biodiversity |
+| MNRE offshore wind and VGF: <https://mnre.gov.in/en/off-shore-wind/>; <https://mnre.gov.in/en/notice/scheme-guidelines-for-implementation-of-vgf-scheme-for-offshore-wind-energy-projects/> | official | MNRE/NIWE roles and first-1-GW VGF route |
+| Interim Budget 2024-25 speech, paragraph 70, <https://www.indiabudget.gov.in/budget2024-25/doc/Budget_Speech.pdf> | official | Blue Economy 2.0 announcement and future-tense status |
+| `books\economic-survey-2025-26.pdf`, Chapter 10, file pp. 435–436 / printed pp. 384–385 | local official PDF | National Coastal Mission, MISHTI targets/estimates and NPCA |
+| PIB MISHTI reply, 21 August 2025, <https://pib.gov.in/PressReleasePage.aspx?PRID=2159295> | official | 22,560.34 ha implementation output across 13 States/UTs |
+| MoES, *Transforming India's Blue Economy: Investment, Innovation and Sustainable Growth*, <https://www.moes.gov.in/static/uploads/2025/09/2002f7a328184b9203f70b5dc15c4f17.pdf> | official white paper; May 2025 publication | strategy/policy-status distinction |
+| MoES Deep Ocean Mission and Matsya-6000: <https://www.moes.gov.in/schemes/dom>; <https://pib.gov.in/PressReleasePage.aspx?PRID=2104039> | official | mission components, Samudrayaan, three-person submersible and science/permission distinction |
+| UNEP ocean-pollution material, <https://www.unep.org/explore-topics/oceans-seas/why-does-addressing-land-based-pollution-matter> | official | pollution pathways and land-sea source control |
+| FAO UNOC3 coverage, <https://www.fao.org/about/fao-unoc-series/2025/a-leading-voice-for-ocean-and-aquaculture-sustainability/en> | official; 9–13 June 2025 | dated current-affairs bridge only; doctrine remains Economy-owned |
+| UPSC previous-question-paper archive, <https://upsc.gov.in/examinations/previous-question-papers>, and local papers below | official/local official scans | exact neutral wording, marks, question number, paper and page provenance |
+
+### Attribution and quotation boundary
+
+- Exact UPSC question wording is reproduced solely for study and provenance, with paper,
+  question number and local official-PDF page recorded; no objective key or answer is supplied.
+- Book material is paraphrased and attributed to the exact local OCR path/pages above.
+- Statutory and institutional formulations are confined to the minimum needed for legal or
+  policy accuracy and link to the persistent official source.
+- Coaching-package analysis, final-package artifacts and learner-v2 paths remain excluded
+  under the governing live-session source rules.
 
 ## PYQ paper provenance
 
-| Period | Reproducible question-paper evidence |
-|---|---|
-| 2018–2023 | Official UPSC previous-question-paper archive: <https://upsc.gov.in/examinations/previous-question-papers>; 2022 Prelims paper at `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; 2022 GS-III paper at `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` |
-| 2025 | Official UPSC previous-question-paper archive: <https://upsc.gov.in/examinations/previous-question-papers>; `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` |
-| 2026 | `_PYQ-ROUTING-PRELIMS-2026.md`; the paper transcription and Set-A key remain provisional, and no answer letter is displayed |
-| Routing control | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`; `_PYQ-ROUTING-PRELIMS-2024-2025.md`; `_PYQ-ROUTING-PRELIMS-2026.md`; `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` |
+| Year / paper / question | Primary owner | Local official paper evidence | PDF page | Objective-key status in this workflow |
+|---|---|---|---:|---|
+| 2018 Prelims GS-I Q87 | Geography Basic 11 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` | 37 | `not available`; no truth/option mapping |
+| 2018 GS-I Q7 | Environment Basic 24 | `books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf` | 2 | not applicable |
+| 2019 GS-I Q4 | Geography Basic 11 | `books\more_previous_papers\QP-CSM19-GeneralStudies-I.pdf` | 2 | not applicable |
+| 2019 GS-I Q5 | Environment Basic 24 | `books\more_previous_papers\QP-CSM19-GeneralStudies-I.pdf` | 2 | not applicable |
+| 2019 GS-III Q7 | Environment Basic 24 | `books\more_previous_papers\QP-CSM19-GeneralStudies-III.pdf` | 2 | not applicable |
+| 2019 GS-I Q17 | Geography Basic 12 | `books\more_previous_papers\QP-CSM19-GeneralStudies-I.pdf` | 4 | not applicable |
+| 2021 Prelims GS-I Q19 | Environment Basic 24 | `books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf` | 11 | `not available`; no option mapping |
+| 2022 Prelims GS-I Q49 | Environment Basic 24 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | 23 | `not available`; no option mapping |
+| 2022 Prelims GS-I Q85 | IR Basic 04 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | 37 | `not available`; no truth/option mapping |
+| 2022 GS-III Q10 | Internal Security Basic 07 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` | 3 | not applicable |
+| 2022 GS-I Q14 | Geography Basic 12 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf` | 3 | not applicable |
+| 2022 GS-III Q18 | Environment Basic 24 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` | 5 | not applicable |
+| 2023 Prelims GS-I Q5 | Geography Basic 10 | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf` | 3 | `not available`; no choice mapping |
+| 2023 GS-I Q14 | Geography Advanced 10 + Disaster Management Basic 06 | `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf` | 3 | not applicable |
+| 2023 GS-II Q20 | IR Basic 04 | `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf` | 4 | not applicable |
+| 2023 GS-III Q8 | Environment Basic 24 | `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf` | 2 | not applicable |
+| 2025 GS-I Q4 | Environment Basic 17 | `books\mains\UPSC Mains 2025 GS Paper 1.pdf` | 2 | not applicable |
+| 2025 GS-III Q8 | Environment Basic 24 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` | 3 | not applicable |
+| 2025 GS-III Q20 | Internal Security Basic 07 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` | 4 | not applicable |
+| 2026 Prelims GS-I Q23 | Environment Basic 24 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | 11 | provisional artifact exists; no answer mapping |
+| 2026 Prelims GS-I Q38 | Economy Basic 30 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | 18–19 | provisional artifact exists; no option/combination mapping |
+| 2026 Prelims GS-I Q50 | Environment Basic 24 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | 25 | provisional artifact exists; no answer mapping |
+
+**Routing controls:** `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`;
+`_PYQ-ROUTING-PRELIMS-2024-2025.md`; `_PYQ-ROUTING-PRELIMS-2026.md`;
+`_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`;
+`_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`;
+`_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`.
 
 ## Legal, policy and data uncertainty ledger
 
 | Claim | Status control |
 |---|---|
 | CRZ 2019 current mainland baseline | G.S.R. 37(E) remains the official notification located; government compilation includes amendments through 24 November 2022 |
-| no later CRZ amendment located | bounded absence statement for official MoEFCC/NCSCM sources checked through 3 October 2026, not proof against an unpublished or missed instrument |
+| no later CRZ amendment located | bounded absence statement for official MoEFCC/NCSCM sources checked through 5 October 2026, not proof against an unpublished or missed instrument |
 | 2019 versus 2011 operation | exact transition clause: revised plan approval controls; earlier CZMP/rules continue meanwhile |
 | IIIA/IIIB density | notification uses more than/less than 2161 on 2011 Census base; exact equality follows approved CZMP |
 | CZMP approval status | dynamic and place-specific; official NCSCM map portal must be checked for the exact jurisdiction |
 | ICRZ and IIMP | S.O. 1242(E) remains the principal 2019 island notification; S.O. 2(E) of 1 January 2021 moved Great Nicobar to Group II, S.O. 2239(E) of 9 June 2021 added NIOT for sand-site identification, and the located 2022 amendments are S.O. 2095(E) and S.O. 5494(E); eight bigger A&N islands use ICRZ groups and other smaller A&N/Lakshadweep islands use IIMPs |
 | BBNJ | global entry into force and India's treaty action checked in UN records; India not recast as a Party |
+| BBNJ versus ISA | BBNJ biodiversity and UNCLOS Part XI/ISA mineral resources in the Area remain separate regimes |
+| Fisheries jurisdiction | State territorial-water regimes, EEZ Rules dated 4 November 2025 and high-seas guidelines dated 9 December 2025 are stated separately |
 | Blue Economy national policy | 2021 draft and later finalisation/white-paper records found; no final notified policy located by review date |
 | Blue Economy 2.0 | official 2024 budget announcement, not reported as completed implementation |
+| MISHTI implementation | 22,560.34 ha is reported as area taken up by 21 August 2025, not surviving mature habitat or measured carbon outcome |
+| Marine plastic | February 2024 national action plan concerns sea-based sources; it does not replace land-based plastic-waste regulation |
+| Offshore wind | MNRE/NIWE policy and VGF support do not substitute for environmental, coastal, navigation, defence, fisheries, grid or port permissions |
 | ecosystem protection claims | treated as conditional on width, condition, hydrology, event and local setting |
 | blue-carbon quantities | no universal India sequestration figure used |
 | coral mortality | bleaching is not automatically death; outcome depends on duration, recurrence and local stress |
 | fisheries condition | no unsupported global or Indian overfishing percentage used |
 | marine pollution | pathway and mechanism stated without unsupported India-wide load or damage totals |
-| exact PYQs | objective answers remain neutral; 2026 status remains provisional |
+| exact PYQs | primary owners and local PDF pages are explicit; unavailable/provisional keys never become truth sets, eliminations or answers |
 
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | Complete Basic and Advanced topic owners plus bounded relevant Environment, Geography, Disaster Management, Economy, Internal Security and IR owners listed above |
+| Canonical Markdown | checked | Topic 24 Basic/Advanced and five other repaired routed owners incorporated from released commit `f2a17edf2`; other owners used only as bounded links listed above |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Layered/complete session | checked | Mandatory benchmark openings and complete first lessons read from Nyaya-Vaisesika, Yoga and Mimamsa live editions |
+| Layered/complete session | checked | `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`; `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`; `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`, including the two-sided 2011-to-2019 CRZ liberalisation analysis and blue-carbon under-accounting, plus bounded cross-topic Advanced owners |
-| OCR books | checked | Majid Husain OCR-searchable PDF pp. 129–141, 151 and 365–366; exact official-paper PDFs were also read directly |
-| PYQs through 2026 | checked | Official UPSC archive, repository-relative 2022 Prelims and GS-III paper evidence, and the routing controls listed in the PYQ provenance table |
-| Official live sources | checked | MoEFCC/government CRZ compilation, NCSCM, ICRZ Gazette, MoES, INCOIS, PIB/India Budget, UNEP, FAO and UN treaty sources checked through 3 October 2026 |
+| OCR books | checked | `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 129–141, 151 and 365–366; other lessons truthfully state `not available` |
+| PYQs through 2026 | checked | Per-question local paper path, PDF page, primary owner and key status are recorded in the provenance table |
+| Official live sources | checked | Exact URLs in the source ledger above were rechecked through 5 October 2026 |
