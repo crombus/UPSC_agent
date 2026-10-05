@@ -299,6 +299,7 @@ on regional/tenancy variation; route land-reform mechanics to Economy.
   agrarian-change mechanisms, regional variation, intersectionality and
   measurement limits.
 - **Verified PYQ ownership, 2018-2026:** no direct GS-I question in the verified
-  2018-2025 corpus is routed to Topic 05. The official 2026 GS-I paper was not
-  available on 5 September 2026; zero-direct-PYQ status is recorded rather than
-  filled by invention.
+  2018-2025 corpus is routed to Topic 05. The OCR-verified 2026 routing ledger and
+  on-disk official GS-I paper likewise contain no Rural Society and Agrarian
+  Change question; zero-direct-PYQ status is recorded rather than filled by
+  invention.
