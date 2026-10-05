@@ -9,7 +9,7 @@ The question running through this topic is not merely *who governs?* but *what m
 | 1 | Foundation | How do government, public administration, development administration and governance differ? | 20 min |
 | 2 | Foundation | What makes governance good, and what happens when its values collide? | 30 min |
 | 3 | Core | How do constitutional values become public duties, participation and remedies in India? | 35 min |
-| 4 | Core | What do WGI and UNDP actually tell us, and what do they not tell us? | 25 min |
+| 4 | Core | How do WGI, UNDP, UNESCAP and Second ARC frameworks differ? | 25 min |
 | 5 | Core | How do the Second ARC, DARPG and Indian service instruments convert principles into delivery? | 35 min |
 | 6 | Core | How should India's Good Governance Index and neighbouring assessments be read? | 30 min |
 | 7 | Core | How can behavioural tools help, where can delivery fail, and how should one answer GS-II? | 40 min |
@@ -22,9 +22,9 @@ The question running through this topic is not merely *who governs?* but *what m
 Progress: 1/8 | Stage: Foundation | Subtopic: Government, governance and administration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — `books\Courseware on Indian Polity by M Laxmikanth.pdf`, PDF p. 850, and `books\Indian Polity by M Laxmikant.pdf`, PDF pp. 957–959, provide India-specific illustrations of constitutional values, participation, transparency, responsiveness and trust; canonical and official sources control the definitions
 CA search: "site:darpg.gov.in September 2026 public grievance citizen service governance"
-CA found: DARPG *CPGRAMS Monthly Report — August 2026*, published September 2026; the reporting of registrations and disposals illustrates why process and resolution quality must be separated
+CA found: DARPG *CPGRAMS Monthly Report — August 2026*, published 25 September 2026; the reporting of registrations and disposals illustrates why process and resolution quality must be separated
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -35,8 +35,9 @@ Constitutional authority: legislature / executive / judiciary
                       │
      Administration: how departments implement decisions
                       │
-   Governance: how state + citizens + other actors decide,
-                  coordinate, deliver and correct
+ Public governance: how public authority is exercised,
+         delivered, scrutinised and corrected; other actors
+        may participate without displacing the public duty-holder
                       │
         Good governance: by what standard do we judge it?
 ```
@@ -47,7 +48,7 @@ Constitutional authority: legislature / executive / judiciary
 
 Suppose a district office issues a valid benefit order but its database excludes eligible workers and nobody can get an explanation. The **government** exists, and officials may have followed an internal procedure. Yet the wider **governance** process fails because delivery, citizen voice and correction do not work. This analogy clarifies categories; a hypothetical district is not evidence that all Indian districts fail.
 
-**Government** denotes constitutionally established authorities; **public administration** denotes departments, officials, rules and procedures used to implement their decisions. **Development administration** is administration explicitly directed towards social and economic change, not simply maintaining routine regulation. **Governance** is the larger process of making, implementing, contesting and correcting collective decisions: public authorities remain responsible, while citizens, civil society and firms may supply information, cooperate, deliver or challenge decisions. **Good governance** is the normative assessment of that process against lawfulness, inclusion, answerability and actual results. Non-state participation does not transfer the state's constitutional obligations to a contractor.
+**Government** denotes the formal institutions and office-holders authorised by the Constitution and law to exercise public power. **Public administration** denotes departments, officials, rules and procedures used to implement public decisions. **Development administration** is administration explicitly directed towards social and economic change, not simply maintaining routine regulation. **Public governance** is the larger process through which public authority is exercised and collective decisions are made, implemented, contested and corrected: citizens, civil society and firms may inform, cooperate, deliver or scrutinise, but their involvement does not automatically transfer the state's legal duties or make every participant a co-governor. **Good governance** is the normative assessment of that process against lawfulness, inclusion, answerability and actual results.
 
 Take a school meal: a legislature provides the legal-policy framework; an education department arranges procurement; a school and suppliers implement it; parents report a failure; officials inspect and correct it. Removing parents from the causal picture leaves formal government intact but weakens feedback. Conversely, inviting parents without an empowered officer and usable remedy creates participation without responsibility. Development administration asks how this action transforms nutrition and schooling; ordinary administrative compliance asks whether contracts and paperwork were processed. Neither by itself proves the children were served safely.
 
@@ -89,7 +90,7 @@ Take a school meal: a legislature provides the legal-policy framework; an educat
 Progress: 2/8 | Stage: Foundation | Subtopic: Good-governance dimensions and trade-offs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — `books\Courseware on Indian Polity by M Laxmikanth.pdf`, PDF p. 850, and `books\Indian Polity by M Laxmikant.pdf`, PDF pp. 957–959, illustrate constitutional values, participation, transparency, responsiveness, inclusion and institutional trust; they do not supply an international index methodology
 CA search: "site:darpg.gov.in September 2026 CPGRAMS monthly report August 2026 grievance redressal"
 CA found: No additional current-affairs anchor; the single current anchor remains the August 2026 CPGRAMS report introduced in Lesson 1
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -149,30 +150,37 @@ The standards reinforce one another when disclosure makes complaints possible an
 Progress: 3/8 | Stage: Core | Subtopic: Rights, participation and accountability mechanisms
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — `books\Courseware on Indian Polity by M Laxmikanth.pdf`, PDF p. 850, supplies a constitutional-values and trust illustration; `books\Indian Polity by M Laxmikant.pdf`, PDF p. 1267, contains a good-governance/RTI reform reference; statutes and canonical owners control legal detail
 CA search: "site:darpg.gov.in September 2026 citizen charter CPGRAMS report August 2026"
 CA found: No additional current-affairs anchor; this lesson applies the topic's static constitutional and statutory framework
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
-Article 14 non-arbitrariness → eligibility rule and reasons
-               │
-      official duty + usable records
-               │
-RTI Act s.4 disclosure ─── public and citizen scrutiny
-               │
-   decision / service → grievance → review → correction
-               │                      ↑
- MG(N)REGA s.17 social audit: Gram Sabha examines works
+PREAMBLE + FUNDAMENTAL RIGHTS + DIRECTIVE PRINCIPLES
+ justice · liberty · equality · fraternity/dignity · welfare
+                              │
+                              ▼
+ rule of law / Art 14 non-arbitrariness → reasoned eligibility rule
+                              │
+ named duty-holder + records + staff/finance/coordination
+                              │
+ RTI s.4 disclosure + MGNREGA s.17 social audit + participation
+                              │
+ decision/service → grievance → review → correction → performance
+                              │
+                              ▼
+       continuing legitimacy and justified stakeholder trust
 ```
 
-*Constitutional restraint needs institutions, records, citizen access and correction before it changes an individual result.*
+*Constitutional values require capacity, participation, records and correction before they can produce performance and earn justified trust.*
 
-Consider a worker whose recorded employment days differ from actual work. **Article 14's equality/non-arbitrariness guarantee** gives an underlying public-law benchmark; it does not itself supply every operational step. **Section 4 of the Right to Information Act, 2005** requires specified proactive publication by public authorities, reducing the need to individually request basic records. **Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005** provides for Gram Sabha social audits of works: community comparison of official claims against work and experience can expose error. A finding still needs an identified authority willing and able to act. Detailed entitlements under that Act belong with the relevant sector topic.
+The **Preamble's justice, liberty, equality and fraternity/dignity**, the **Fundamental Rights** and the welfare orientation of the **Directive Principles** supply India's domestic value base for good governance. Here they are used only as a bounded governance anchor; detailed constitutional doctrine remains with Polity. Consider a worker whose recorded employment days differ from actual work. **Article 14's equality/non-arbitrariness guarantee** gives an underlying public-law benchmark; it does not itself supply every operational step. **Section 4 of the Right to Information Act, 2005** requires specified proactive publication by public authorities, reducing the need to individually request basic records. **Section 17 of the Mahatma Gandhi National Rural Employment Guarantee Act, 2005** provides for Gram Sabha social audits of works: community comparison of official claims against work and experience can expose error. A finding still needs an identified authority willing and able to act. Detailed entitlements under that Act belong with the relevant sector topic.
 
 Different forms of answerability perform different jobs. **CAG** audit rests on Articles 148–151 and concerns public-account audit and legislative scrutiny; **Lokpal** operates under the Lokpal and Lokayuktas Act, 2013 in its statutory corruption jurisdiction; **CVC** under the Central Vigilance Commission Act, 2003 has a distinct vigilance role. None is the all-purpose appeal office for an incorrectly issued local certificate. A state **right-to-service (RTS) law**, where a particular service has been notified, may create timelines and penalties or appeals according to that state's Act. A generic **Citizens' Charter** declares expected service standards but does not thereby acquire the enforceability of an RTS statute. **CPGRAMS** is an administrative grievance platform, not a court and not a statutory adjudicator. Routing the error to the appropriate authority matters as much as naming institutions.
 
 Participation can improve information, yet cannot substitute for due process: a public majority cannot extinguish an individual entitlement. Likewise, digital openness may disclose data without guaranteeing its accessibility to a person who lacks connectivity or language support. **Objection:** Multiple institutions make correction too slow. **Reply:** Name the relevant duty-holder, keep the direct service appeal simple, and reserve audit, vigilance or anti-corruption referral for their proper mandates. The remaining risk is weak records or staff capacity at the frontline.
+
+**Capacity → performance → legitimacy and trust:** State capacity means the staff, records, finance, authority and coordination needed to implement a lawful decision. Capacity can improve performance, but capable administration is not automatically participatory, equitable or accountable. Electoral authorisation supplies an initial democratic basis; continuing **legitimacy** depends on lawful, inclusive and answerable performance. **Justified trust** is confidence earned through predictable law, meaningful participation, competent delivery, reasons and usable correction—not popularity, publicity or a high disposal count.
 
 **UPSC use:** The GS-II governance clause names transparency, accountability, citizens' charters and institutional measures. The verified question is reproduced without an answer cue:
 
@@ -180,7 +188,20 @@ Participation can improve information, yet cannot substitute for due process: a 
 
 **Demand:** assess the contrast between anti-corruption and wider trust, not simply define either term. **Unsolved approach:** identify criteria for trust, trace a lawful decision through disclosure, meaningful voice and correctable failure, test whether formal participation and information actually produce these effects, and end with a qualified judgment about the question's “not about” claim. This is a cross-topic application: detailed RTI and grievance machinery is treated in the later accountability topic. Do not present an ARC recommendation as a statute or an audit observation as a personal service remedy.
 
-**Revision:** Art 14 gives a non-arbitrariness anchor; RTI s.4 enables proactive disclosure; MGNREGA s.17 provides Gram Sabha social audit; RTS law depends on state and notified service; Charter ≠ statute; CPGRAMS ≠ adjudication; CAG ≠ Lokpal ≠ CVC. The next question: can an international framework assess this full chain?
+**Revision:**
+
+1. The Preamble, Fundamental Rights and Directive Principles supply a domestic constitutional value base; detailed doctrine remains Polity-owned.
+2. Article 14 supplies an equality and non-arbitrariness benchmark, not every operational remedy.
+3. State capacity joins staff, records, finance, authority and coordination; capacity alone does not prove good governance.
+4. RTI Act section 4 requires specified proactive disclosure by public authorities.
+5. MGNREGA section 17 provides for Gram Sabha social audits of works; findings still need official follow-up.
+6. Participation can improve information and legitimacy but cannot extinguish an individual's lawful entitlement.
+7. A Citizens' Charter states standards; it does not automatically acquire the force of a service-guarantee statute.
+8. An RTS route depends on the particular state law and whether the service is notified.
+9. CPGRAMS is an administrative grievance platform, not a court or statutory adjudicator.
+10. CAG, Lokpal and CVC perform different audit, anti-corruption and vigilance functions.
+11. Continuing legitimacy depends on lawful, inclusive and answerable performance.
+12. Justified trust requires predictable law, meaningful voice, competent delivery, reasons and correction.
 
 ### Concept check
 
@@ -200,42 +221,57 @@ Participation can improve information, yet cannot substitute for due process: a 
 
 ## Lesson 4 — Comparing WGI and a principles checklist
 
-Progress: 4/8 | Stage: Core | Subtopic: World Bank WGI and UNDP governance principles
+Progress: 4/8 | Stage: Core | Subtopic: WGI, UNDP, UNESCAP and Second ARC source distinctions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — no source-grade WGI, UNDP or UNESCAP methodology passage for this comparison was located in the searchable `books\Courseware on Indian Polity by M Laxmikanth.pdf` or `books\Indian Polity by M Laxmikant.pdf`; official World Bank, UN and Second ARC sources control
 CA search: "World Bank Worldwide Governance Indicators methodology perception dimensions"
-CA found: No additional current-affairs anchor; WGI methodology is used here as a static comparative framework, not as current affairs or evidence of India's current rank
+CA found: World Bank WGI 2026 methodology/data release, current on 5 October 2026; the published series covers 1996–2025 and uses the current dimension name `Political Stability`
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| WGI: comparative measurement (World Bank) | UNDP: evaluative principles, not an index |
-|---|---|
-| Voice and Accountability; Political Stability and Absence of Violence/Terrorism | Participation; consensus orientation; strategic vision |
-| Government Effectiveness; Regulatory Quality | Responsiveness; effectiveness and efficiency |
-| Rule of Law; Control of Corruption | Rule of law; transparency; accountability; equity and inclusiveness |
+| Source | What it supplies | Exact content used here | What it does **not** establish |
+|---|---|---|---|
+| World Bank WGI | Comparative country-level measurement | Six current dimensions: Voice and Accountability; Political Stability; Government Effectiveness; Regulatory Quality; Rule of Law; Control of Corruption | A transaction-level remedy, one equal-weighted good-governance score or proof of an individual's experience |
+| UNDP governance framework | Process and participation vocabulary | Mechanisms, processes and institutions; citizen voice, rights, obligations and mediation; normative principles including strategic vision | A UNDP country ranking |
+| UNESCAP | Eight paired good-governance characteristics | Participatory; consensus oriented; accountable; transparent; responsive; effective and efficient; equitable and inclusive; rule of law | WGI dimensions or a ninth `strategic vision` characteristic |
+| Second ARC | India-specific constitutional and reform reasoning | UNESCAP's eight characteristics plus four citizen-centric pillars: Ethos, Ethics, Equity and Efficiency | A numerical index or self-executing law |
 
-*WGI compares six measured dimensions; UNDP supplies a normative vocabulary for judging the process, not a single country score.*
+*The four sources answer different questions: measurement, process, characteristics and Indian institutional conversion.*
 
-Suppose two offices process applications equally quickly. One explains refusals and permits review; the other does not. A speed proxy alone misses that difference. The **Worldwide Governance Indicators (WGI)** aggregate surveys and expert assessments into six country-level dimensions. The World Bank's current methodological description stresses perception sources; estimates and a fixed-reference 0–100 presentation do not turn perception into direct proof of an individual's outcome. A change in score can reflect perception, measurement or institutional experience. State the edition and uncertainty before making any cross-time claim.
+Suppose two offices process applications equally quickly. One explains refusals and permits review; the other does not. A speed proxy alone misses that difference. The **Worldwide Governance Indicators (WGI)** aggregate household, firm and expert-perception sources through an **Unobserved Components Model** into six country-level dimensions. The 2026 methodology provides governance estimates with uncertainty and a fixed-reference 0–100 presentation; it recalculates the series consistently through 2025. These outputs do not turn perception into direct proof of an individual's outcome. The current dimension name is **Political Stability**; **Political Stability and Absence of Violence/Terrorism** is the former name. State the data vintage and uncertainty before making a cross-time claim.
 
-**UNDP principles** ask whether public action is participatory, law-bound, transparent, responsive, consensus-seeking, equitable and inclusive, effective and efficient, accountable, and guided by strategic vision. Counting them sometimes yields eight or nine according to how paired ideas are grouped. They are not a UNDP national ranking. Use the checklist to ask a concrete question—could an affected applicant challenge an unexplained refusal?—rather than decorating an answer with adjectives.
+The **UNDP governance framework** supplies a process definition and a normative vocabulary: participation, rule of law, transparency, responsiveness, consensus orientation, equity, effectiveness and efficiency, accountability, and strategic vision. It is not a UNDP national ranking. **UNESCAP's eight characteristics**, explicitly used by the Second ARC, pair effectiveness with efficiency and equity with inclusion and do not list strategic vision as a ninth item. The **Second ARC** then adds its four pillars—**Ethos** of service, **Ethics**, **Equity** and **Efficiency**—and connects them to India's constitutional and citizen-centric administration. Use the appropriate source to ask a concrete question—could an affected applicant challenge an unexplained refusal?—rather than decorating an answer with interchangeable adjectives.
 
 WGI's voice-and-accountability dimension and its government-effectiveness dimension can diverge: a service might be technically fast but weak in citizen voice. That is why a high single-dimensional figure cannot establish the whole normative standard. **Objection:** Perception data are too subjective to matter. **Reply:** Consistent cross-country measurement can flag comparative patterns and questions for investigation; combine it with accessible service records, affected-person experience and correction evidence. Conversely, official administrative figures can be strategically self-reported. Neither kind of data is self-validating.
 
-**UPSC use and verified PYQ:** **2018 Prelims GS-I, Q14**, examinable demand: identify the organisation publishing a named rule-of-law index (objective; the local scanned stem/options and official key could not be verified). **Unsolved approach:** first distinguish an index's publication authority from institutions that measure rule of law within broader governance assessments; consult the original publisher and then evaluate the printed choices. No candidate publisher, objective answer, fabricated choices or key is supplied in this question discussion.
+**UPSC use and verified PYQ:** **2018 Prelims GS-I, Q14**, exact local wording from `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9:
+
+> `"Rule of Law Index" is released by which of the following?`
+>
+> (a) Amnesty International
+>
+> (b) International Court of Justice
+>
+> (c) The Office of UN Commissioner for Human Rights
+>
+> (d) World Justice Project
+
+**Unkeyed status:** the exact stem and options are verified locally, but no official key is held locally. No option is marked, eliminated or mapped to an answer. The answer-neutral approach is to distinguish a standalone index from WGI's separate `Rule of Law` dimension and verify the publisher from its primary publication.
 
 **Revision:**
 
 1. WGI is a World Bank comparative framework organised into six governance dimensions.
-2. Its dimensions are Voice and Accountability; Political Stability and Absence of Violence/Terrorism; Government Effectiveness; Regulatory Quality; Rule of Law; and Control of Corruption.
-3. WGI aggregates survey and expert-perception sources; it does not directly observe every public transaction.
-4. A country-level estimate cannot prove that a particular excluded applicant obtained an appeal or remedy.
-5. Perception may lag real reform or move without corresponding frontline change.
-6. UNDP governance principles form a normative checklist, not a single national ranking.
-7. UNDP principles test participation, lawfulness, transparency, responsiveness, equity, effectiveness, accountability and strategic vision.
-8. A shared phrase such as “rule of law” does not make two indices or frameworks the same product.
-9. Use comparative indicators to identify questions, then test service records, affected-person experience and correction.
-10. A diagnostic framework cannot itself create the institutional duty or remedy it recommends examining.
+2. Its current dimensions are Voice and Accountability; Political Stability; Government Effectiveness; Regulatory Quality; Rule of Law; and Control of Corruption.
+3. `Political Stability and Absence of Violence/Terrorism` is the former name of the current `Political Stability` dimension.
+4. WGI aggregates household, firm and expert-perception sources through an Unobserved Components Model; it does not directly observe every public transaction.
+5. A country-level estimate cannot prove that a particular excluded applicant obtained an appeal or remedy.
+6. Perception may lag real reform or move without corresponding frontline change.
+7. UNDP supplies process and normative principles, not a country ranking.
+8. UNESCAP supplies eight paired characteristics; the Second ARC expressly uses them and adds four pillars.
+9. The Second ARC's Ethos, Ethics, Equity and Efficiency are reform criteria, not WGI dimensions.
+10. A shared phrase such as “rule of law” does not make two indices or frameworks the same product.
+11. Use comparative indicators to identify questions, then test service records, affected-person experience and correction.
+12. A diagnostic framework cannot itself create the institutional duty or remedy it recommends examining.
 
 ### Concept check
 
@@ -258,7 +294,7 @@ WGI's voice-and-accountability dimension and its government-effectiveness dimens
 Progress: 5/8 | Stage: Core | Subtopic: Second ARC, DARPG and citizen-service instruments
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — `books\Courseware on Indian Polity by M Laxmikanth.pdf`, PDF p. 1236, and `books\Indian Polity by M Laxmikant.pdf`, PDF p. 1267, contain bounded good-governance/RTI reform references; official Second ARC reports control the four pillars and recommendation status
 CA search: "site:darpg.gov.in September 2026 CPGRAMS report Sevottam citizen charter"
 CA found: No additional current-affairs anchor; this lesson uses static institutional roles and legal-status distinctions
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -266,6 +302,8 @@ CA found: No additional current-affairs anchor; this lesson uses static institut
 ```text
 2nd ARC: reform proposals, NOT operative law
       │
+      ├─ UNESCAP eight characteristics → process criteria
+      ├─ four pillars: Ethos / Ethics / Equity / Efficiency
       ├─ citizen-centric administration → known service standard
       └─ ethics in governance → curb abuse of power
                         │
@@ -278,26 +316,30 @@ DARPG reform coordination → Charter / Sevottam / CPGRAMS
 
 *Proposals and administrative frameworks may guide reform, while legal entitlement and enforceability depend on the applicable statute and notification.*
 
-The **Second Administrative Reforms Commission (Second ARC)**, constituted in 2005, produced 15 reports. Its fourth, *Ethics in Governance*, and twelfth, *Citizen Centric Administration*, supply reform diagnoses: curb abuse and redesign administration around citizens' rights, service and answerability. A commission's report is not enacted law. An apparently similar later initiative should not be presented as implementation of a specific recommendation without independent evidence.
+The **Second Administrative Reforms Commission (Second ARC)**, constituted in 2005, produced 15 reports. Its twelfth report expressly uses **UNESCAP's eight good-governance characteristics** and presents four citizen-centric pillars: **Ethos** of service to the citizen, **Ethics**—honesty, integrity and transparency, **Equity**—equal treatment with empathy for weaker sections, and **Efficiency**—speedy and effective service without harassment. Its fourth report, *Ethics in Governance*, supplies an institutional anti-abuse diagnosis; detailed personal probity remains Ethics-owned. These are India-specific reform criteria, not WGI dimensions, a numerical index or enacted law. An apparently similar later initiative should not be presented as implementation of a specific recommendation without independent evidence.
 
 The **Department of Administrative Reforms and Public Grievances (DARPG)**, under the Ministry of Personnel, Public Grievances and Pensions, coordinates Union administrative reform and operates governance-related initiatives including **Sevottam** and **CPGRAMS**. Sevottam is a service-excellence framework joining service standards, public-grievance redress and service-delivery capability; a **Citizens' Charter** states expectations. Neither a charter nor an online complaint filing screen necessarily gives a citizen a statutory penalty-backed right. By contrast, applicable state RTS Acts may specify a notified service, designated officer, time limit and appellate/penalty consequences. The 2024 DARPG CPGRAMS guidance gave a 21-day redress benchmark and a 30-day appeal benchmark; these are administrative guidance, not an RTS statute, and should not be confused with universal statutory deadlines.
 
 Consider an application for a notified certificate: publish requirements in a charter, give a designated officer authority and records, allow an offline route for citizens who cannot use the portal, then enable review of wrongful refusal. A posted standard helps expectations; a grievance portal tracks contact; a statutory appeal, when available, provides a different legal route. The sequence fails if the officer lacks access to underlying records, or if “disposed” complaints recur. **Objection:** Why not enact one universal Good Governance Act? **Reply:** Existing sector laws and state service laws already provide different remedies for different decisions; one label might obscure which right and authority apply. The remaining cost is fragmentation, which clear routing and accessible explanations should reduce.
+
+**Ownership firewall:** Governance owns public processes, capacity, service delivery, participation, accountability and outcomes. Polity owns detailed constitutional and statutory anatomy; Ethics owns personal probity and conduct; specialist Public Administration owns its disciplinary debates. This lesson uses only the minimum cross-owner material needed to explain institutional conversion.
 
 **UPSC use:** Compare legal status, duty-holder, review route and outcome for each tool. An ARC proposal ≠ Union notification ≠ state statute ≠ actual functioning. Good Governance Day (25 December, observed since 2014 on the birth anniversary of former Prime Minister Atal Bihari Vajpayee) is a public-administration observance, not proof that a year's services improved.
 
 **Revision:**
 
 1. The Second ARC was constituted in 2005 and produced 15 reform reports.
-2. *Ethics in Governance* and *Citizen Centric Administration* contain recommendations, not self-executing law.
-3. DARPG is the Union nodal department for administrative reforms and public grievances under the Ministry of Personnel, Public Grievances and Pensions.
-4. A Citizens' Charter publishes expected service standards but does not automatically create a statutory penalty-backed right.
-5. Sevottam links service standards, grievance redress and service-delivery capability.
-6. CPGRAMS is an administrative grievance and tracking platform, not a court or statutory adjudicator.
-7. An applicable state RTS Act may create a designated officer, notified timeline, appeal and penalty for a covered service.
-8. Administrative guidance, including grievance timelines, must not be restated as a universal statutory deadline.
-9. The conversion chain needs standards, records, staff capacity, accessible channels, review and verified correction.
-10. Good Governance Day is observed on 25 December, Atal Bihari Vajpayee's birth anniversary; the observance is not evidence of improved outcomes.
+2. The Second ARC uses UNESCAP's eight characteristics and adds four pillars: Ethos, Ethics, Equity and Efficiency.
+3. *Ethics in Governance* and *Citizen Centric Administration* contain recommendations, not self-executing law.
+4. DARPG is the Union nodal department for administrative reforms and public grievances under the Ministry of Personnel, Public Grievances and Pensions.
+5. A Citizens' Charter publishes expected service standards but does not automatically create a statutory penalty-backed right.
+6. Sevottam links service standards, grievance redress and service-delivery capability.
+7. CPGRAMS is an administrative grievance and tracking platform, not a court or statutory adjudicator.
+8. An applicable state RTS Act may create a designated officer, notified timeline, appeal and penalty for a covered service.
+9. Administrative guidance, including grievance timelines, must not be restated as a universal statutory deadline.
+10. Governance, Polity, Ethics and Public Administration retain distinct ownership boundaries.
+11. The conversion chain needs standards, records, staff capacity, accessible channels, review and verified correction.
+12. Good Governance Day is observed on 25 December, Atal Bihari Vajpayee's birth anniversary; the observance is not evidence of improved outcomes.
 
 ### Concept check
 
@@ -320,9 +362,9 @@ Consider an application for a notified certificate: publish requirements in a ch
 Progress: 6/8 | Stage: Core | Subtopic: Good Governance Index and adjacent Indian assessments
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — `books\Indian Polity by M Laxmikant.pdf`, PDF pp. 957–959, supplies contextual Indian good-governance pillars and participation examples; it does not establish GGI methodology, edition or rank, for which the official DARPG report controls
 CA search: "site:darpg.gov.in Good Governance Index national latest completed edition 2026"
-CA found: No additional current-affairs anchor; edition status is treated as static factual context, with GGI 2020–21 the last confirmed completed national edition in the stated evidence
+CA found: No additional current-affairs anchor; bounded official checking through 5 October 2026 still located GGI 2020–21 as the latest completed national edition
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Instrument | What it investigates | Scale and caution |
@@ -331,11 +373,13 @@ CA found: No additional current-affairs anchor; edition status is treated as sta
 | GGI (DARPG) | Indian governance across ten sectors | State/UT diagnostic; compare within edition-specific groups |
 | NeSDA (DARPG) | Depth and availability of online public services | Digital-service assessment; not every aspect of government |
 | Devolution Index (Ministry of Panchayati Raj) | Transfer of functions, functionaries and finances to Panchayats | Local rural devolution; not an urban-government index |
-| UNDP / Second ARC | Principles / institutional reform proposals | Not rankings |
+| UNDP | Process definition and normative principles | Not a country ranking |
+| UNESCAP | Eight paired good-governance characteristics | Not WGI and not an index |
+| Second ARC | Four pillars and Indian institutional reform proposals | Not a ranking or self-executing law |
 
 *“Governance index” is not a common unit: the assessed object, data and scale change with the instrument.*
 
-DARPG launched the **Good Governance Index (GGI)** on **25 December 2019** as a sectoral diagnostic for states and Union Territories. Its **2019 edition used three comparison groups; the 2020–21 edition used four**: Other States Group A, Other States Group B, North-East and Hill States, and Union Territories. The latest completed national edition identifiable here is **GGI 2020–21**, released **25 December 2021**; no later completed national edition was established as of 1 October 2026, but a new report must be checked before asserting one. A district GGI, award or later workshop is not a new national edition. Never state a rank without its year, edition and grouping.
+DARPG launched the **Good Governance Index (GGI)** on **25 December 2019** as a sectoral diagnostic for states and Union Territories. Its **2019 edition used three comparison groups; the 2020–21 edition used four**: Other States Group A, Other States Group B, North-East and Hill States, and Union Territories. The latest completed national edition identifiable in the official DARPG material remains **GGI 2020–21**, released **25 December 2021**; no later completed national edition was located in the bounded official search through **5 October 2026**, but a new released report must be checked before asserting one. A district GGI, award or later workshop is not a new national edition. Never state a rank without its year, edition and grouping.
 
 Why group states? Geography and administrative context influence baseline performance. Grouping may improve fair comparison, yet group averages still hide inequalities inside a state or between sectors. A state doing well in economic governance can still struggle in justice delivery; this is a hypothetical contrast, not a claim about a named state's actual scores. To *critically examine* an index, apply five tests: (1) **validity**—is the indicator the intended governance outcome? (2) **comparability**—how were incomplete or self-reported data handled? (3) **output/outcome**—does coverage stand in for experienced improvement? (4) **context**—are units reasonably comparable? (5) **consequence**—does a weak result trigger a corrective action? Published weights, definitions, missing-data treatment and revisions should be inspectable so a citizen can question the number.
 
@@ -379,9 +423,9 @@ Why group states? Geography and administrative context influence baseline perfor
 Progress: 7/8 | Stage: Core | Subtopic: Behavioural tools, results chain and GS-II answers
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — no directly relevant nudge, default or behavioural-governance passage was located in the searchable `books\Courseware on Indian Polity by M Laxmikanth.pdf` or `books\Indian Polity by M Laxmikant.pdf`; the official *Economic Survey 2018–19*, chapter 2, controls the behavioural mechanisms
 CA search: "site:darpg.gov.in September 2026 CPGRAMS August 2026 monthly report states"
-CA found: No additional current-affairs anchor; the August 2026 CPGRAMS report remains the sole current anchor for the topic
+CA found: No additional current-affairs anchor; the August 2026 CPGRAMS report published 25 September 2026 remains the sole current anchor for the topic
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -453,9 +497,9 @@ Match the directive. **Distinguish**: separate government, governance and qualit
 Progress: 8/8 | Stage: Advanced | Subtopic: Indicator capture, institutional design and ethical nudges
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: not available — no OCR-searchable book available for this topic
+Book context: queried — no directly relevant indicator-capture or manipulative-default passage was located in the searchable `books\Courseware on Indian Polity by M Laxmikanth.pdf` or `books\Indian Polity by M Laxmikant.pdf`; canonical Advanced and official methodology sources control
 CA search: "site:darpg.gov.in September 2026 CPGRAMS August monthly report citizen grievances"
-CA found: No additional current-affairs anchor; this advanced lesson stress-tests the static framework and the sole current anchor already introduced
+CA found: No additional current-affairs anchor; this advanced lesson stress-tests the static framework and the 25 September 2026 CPGRAMS anchor already introduced
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | If officials are rewarded for… | What may improve | What may be hidden | Better countercheck |
@@ -467,7 +511,7 @@ CA found: No additional current-affairs anchor; this advanced lesson stress-test
 
 *The target can become more attractive than the purpose; each proxy needs a citizen-centred countercheck.*
 
-The earlier lessons established what must be judged; this lesson asks what changes when institutions *respond to being judged*. The **normative layer** (UNDP and ARC standards), **institutional layer** (law, officers, records, appeal), and **measurement layer** (WGI or GGI) can reinforce one another. But an indicator gives officials an incentive to optimise what is counted. An apparent improvement in a grievance-closure score may mean genuinely quicker resolution—or an administrative decision to close complaints early. The **perception–practice gap** runs both ways: a real service change can precede public recognition, while publicity can alter perceptions without fixing a remedy. Inspect confidence/method limits and independent citizen-side evidence rather than claiming either dataset is always wrong.
+The earlier lessons established what must be judged; this lesson asks what changes when institutions *respond to being judged*. The **normative/process layer** (UNDP and UNESCAP), **Indian reform layer** (Second ARC), **institutional layer** (law, officers, records, appeal), and **measurement layer** (WGI or GGI) can reinforce one another. But an indicator gives officials an incentive to optimise what is counted. An apparent improvement in a grievance-closure score may mean genuinely quicker resolution—or an administrative decision to close complaints early. The **perception–practice gap** runs both ways: a real service change can precede public recognition, while publicity can alter perceptions without fixing a remedy. Inspect confidence/method limits and independent citizen-side evidence rather than claiming either dataset is always wrong.
 
 **Federal comparison** requires attention to responsibilities, baseline capacity and grouping. DARPG's dual role in reform coordination and measurement is potentially useful for closing the diagnostic-feedback loop; it also makes transparent definitions and independent scrutiny important. A Union indicator can diagnose a state's problem but cannot itself compel frontline reform in state services. The Second ARC's institutional recommendations likewise gain force only when an appropriate authority adopts and implements them. India has no single overarching statutory good-governance entitlement that silently resolves every sector dispute.
 
@@ -508,9 +552,9 @@ Beyond the basic nudge mechanisms, **institutional incentives** can make a super
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-**2018 Prelims GS-I Q14:** objective publisher-identification demand concerning a named rule-of-law index. **Unsolved approach:** identify the exact publication, verify its publisher independently, distinguish a standalone index from broader governance indicators, then assess the printed options. The locally held record does not confirm the searchable official stem, choices or key; neither candidate publisher nor answer is supplied in this question block.
+**2018 Prelims GS-I Q14:** exact stem and options are reproduced neutrally in Lesson 4 from `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9. The official key is not held locally; no answer letter, option marking, elimination or option-to-answer mapping is supplied. **Unsolved approach:** distinguish the standalone `"Rule of Law Index"` from WGI's separate `Rule of Law` dimension, verify the publisher from the primary publication, then assess the printed options.
 
-**2026 GS-II Q16:** “Comment”; 15 marks, 250 words. The exact verified wording is reproduced neutrally in Lesson 3 before any demand analysis. **Demand:** assess whether trust is an additional aim without falsely discarding corruption control. **Unsolved approach:** define criteria for justified stakeholder trust, examine how legal predictability and meaningful participation affect a service decision, test the limits of mere disclosure, and offer a qualified verdict. This conceptual cross-link complements the deeper accountability treatment elsewhere.
+**2026 GS-II Q16:** “Comment”; 15 marks, 250 words. The exact verified wording is reproduced neutrally in Lesson 3 from `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf`, PDF p. 6, before any demand analysis. No key or official marking scheme is claimed. **Demand:** assess whether trust is an additional aim without falsely discarding corruption control. **Unsolved approach:** define criteria for justified stakeholder trust, examine how legal predictability and meaningful participation affect a service decision, test the limits of mere disclosure, and offer a qualified verdict. This conceptual cross-link complements the deeper accountability treatment elsewhere.
 
 No direct GS-II Mains question specifically defining this concept was confirmed in the examined 2018–25 papers. The 2024 GS-II local-bodies application belongs to the local-governance topic. **The 2026 Prelims questions are verified in local question records; only their locally held Set-A answer keys are provisional.** The transparency, participation, local-service and sports items remain relevant to later lessons in the subject, but are not direct questions on this particular concept.
 
@@ -588,6 +632,16 @@ Five-gap diagnosis: bad design → insufficient capacity → last-mile delivery 
           redesign rule + staff + channels + appeal + citizen-side outcome test
 ```
 
+```text
+Preamble / FR / DPSP values
+          ↓
+rule of law + participation + state capacity
+          ↓
+competent performance + reasons + correction
+          ↓
+continuing legitimacy → justified stakeholder trust
+```
+
 **Decision rule for a critical answer:** accept an index as a signal; reject it as conclusive proof; trace the norm into a named institutional duty and a verified citizen outcome. If consultation, efficiency and equity pull differently, name who bears the loss and specify a reversible, reviewable compromise.
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
@@ -597,6 +651,7 @@ Five-gap diagnosis: bad design → insufficient capacity → last-mile delivery 
 - Government: constitutional authority-holders; administration: implementation apparatus; development administration: transformation-oriented administration; governance: wider process of public decision, delivery and contestation; good governance: normatively judged process.
 - State responsibility survives participation by contractors or civil society. Explain their roles without outsourcing the public duty.
 - Ask in order: standard → legal status → officer → records/procedure → capacity → accessible delivery → review/remedy → actual outcome → redesign.
+- State capacity can improve performance without proving participation, equity or accountability; continuing legitimacy and justified trust require lawful authority, meaningful voice, reasons and usable correction.
 
 ### The standards and the hard distinctions
 
@@ -611,15 +666,16 @@ Five-gap diagnosis: bad design → insufficient capacity → last-mile delivery 
 - Citizens' Charter: stated standard; Sevottam: service-excellence framework; CPGRAMS: administrative grievance route; notified state RTS service: statute-dependent officer, timeline and appeal/penalty. Test scope in the actual state law.
 - Second ARC (constituted 2005, 15 reports): *Ethics in Governance* and *Citizen Centric Administration* are reform recommendations, not self-executing law. DARPG coordinates reform, GGI, Sevottam and CPGRAMS.
 - Good Governance Day: 25 December, observed since 2014 on the birth anniversary of former Prime Minister Atal Bihari Vajpayee; a celebration does not establish an outcome.
+- Ownership firewall: Governance owns public processes, capacity, delivery and outcomes; Polity owns detailed constitutional/statutory anatomy; Ethics owns personal probity; specialist Public Administration owns disciplinary theory.
 
 ### Frameworks, editions and exam pitfalls
 
-- World Bank WGI six: Voice and Accountability; Political Stability and Absence of Violence/Terrorism; Government Effectiveness; Regulatory Quality; Rule of Law; Control of Corruption. Perception aggregation, country-level comparison; no inferred current India rank.
-- UNDP principles supply a process checklist, not a country ranking. Second ARC supplies Indian institutional reform reasoning, not an index.
-- DARPG GGI launched 25 December 2019, ten sectors. 2019 edition: three groups. Released 2020–21 national edition (25 December 2021): four groups—Other States A, Other States B, North-East and Hill States, UTs. No later completed national edition established by the bounded search as of 1 October 2026; check DARPG before asserting any newer status.
+- World Bank WGI current six: Voice and Accountability; Political Stability; Government Effectiveness; Regulatory Quality; Rule of Law; Control of Corruption. `Political Stability and Absence of Violence/Terrorism` is the former name. The 2026 methodology uses perception aggregation, uncertainty and a fixed-reference 0–100 presentation for data through 2025; no current India rank is inferred.
+- UNDP supplies a process definition and normative principles, not a country ranking. UNESCAP supplies eight paired characteristics expressly used by the Second ARC. The Second ARC adds four pillars—Ethos, Ethics, Equity and Efficiency—and Indian institutional reform reasoning; it is not an index.
+- DARPG GGI launched 25 December 2019, ten sectors. 2019 edition: three groups. Released 2020–21 national edition (25 December 2021): four groups—Other States A, Other States B, North-East and Hill States, UTs. No later completed national edition was located in the bounded official search through 5 October 2026; check DARPG before asserting any newer status.
 - NeSDA assesses e-services; Devolution Index concerns Panchayat devolution; district GGI ≠ a new national GGI edition.
 - Five index tests: indicator validity, data comparability, outputs versus outcomes, federal/context adjustment, corrective consequences. Add transparent weights, missing-data treatment and revision history.
-- **2018 Prelims GS-I Q14:** Rule of Law Index publisher demand; local key/stem/options unverified. Distinguish the index from WGI's identically named dimension; use primary publisher verification, not a guessed letter.
+- **2018 Prelims GS-I Q14:** exact stem/options verified at `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9; official key unavailable locally. Distinguish the standalone index from WGI's identically named dimension without marking or mapping an option.
 - **2026 GS-II Q16 (“Comment”; 15 marks/250 words):** frame the trust-versus-corruption-control claim with rule of law and real citizen voice; do not discard anti-corruption or assume that public disclosure alone creates confidence. For the full question's administrative detail, study service and accountability mechanisms separately.
 - No earlier GS-II Mains question specifically defining this concept was established in the examined 2018–25 papers. The 2026 Governance Prelims questions are verified; their available answer keys, not the questions, are provisional.
 
@@ -637,9 +693,9 @@ Five-gap diagnosis: bad design → insufficient capacity → last-mile delivery 
 |---|---|---|---|
 | 1 | Basic §§1–2: government, governance, public/development administration; Indian implementation example | Advanced §2 boundary of development administration; contracted duty objection/reply | Concept check; original 10-marker |
 | 2 | Basic §§2–3 and §13.4: standards, distinction/equity and trade-offs | Advanced §§1,6: normative/process tensions; vagueness objection/reply | Concept check; original 15-marker |
-| 3 | Basic §§5,7,13.4,13.6: constitutional anchor, RTI, MGNREGA, remedies and jurisdiction | Advanced §§3–4: patchwork law and citizen-side failure | 2026 GS-II Q16 unsolved conceptual cross-link; concept check; original 10-marker |
-| 4 | Basic §§3,6–7: six WGI dimensions; UNDP principles; Prelims close-index distinction | Advanced §§2–3,5–6: perception and performance divergence | 2018 GS-I Q14 unsolved linkage; concept check; 15-marker |
-| 5 | Basic §§4–5,7,13.4: DARPG, ARC, Good Governance Day, charter, Sevottam, CPGRAMS, RTS | Advanced §§3–4: adoption and legal-status caveats | Concept check; original 15-marker |
+| 3 | Basic §§3.1,5,7,13.4,13.6: Preamble/FR/DPSP value base, capacity–performance–legitimacy–trust chain, RTI, MGNREGA, remedies and jurisdiction | Advanced §§3–4: patchwork law and citizen-side failure | Exact neutral 2026 GS-II Q16 from official local PDF p. 6; concept check; original 10-marker |
+| 4 | Basic §3 and §13.5: current six WGI dimensions/method, UNDP process frame, UNESCAP eight characteristics and source distinctions | Advanced §§2–3,5–6: perception, performance and framework divergence | Exact neutral 2018 GS-I Q14 from local PDF p. 9; concept check; 15-marker |
+| 5 | Basic §§3–5,7,13.4: Second ARC four pillars, DARPG, Good Governance Day, charter, Sevottam, CPGRAMS, RTS and ownership firewall | Advanced §§3–4: adoption and legal-status caveats | Concept check; original 15-marker |
 | 6 | Basic §§4,6–8,13.5,13.7,13.10: GGI edition/grouping and five tests; NeSDA/devolution distinction | Advanced §§2,3,5–8: index capture, comparability and federal limits | Concept check; original 15-marker |
 | 7 | Basic §§9–10,13.1–13.9 including §13.8A: complete Economic Survey behavioural mechanisms and ethical/causal limits, directives, evidence banks, five-gap chain | Advanced §§10–11: mechanism and auditability | Concept check; original 20-marker |
 | 8 | Basic principles already completed in Lessons 1–7 | Advanced §§1–12: measurement transmission, federal case, perception gap and manipulative-default boundary | Concept check; original 20-marker |
@@ -651,13 +707,13 @@ Five-gap diagnosis: bad design → insufficient capacity → last-mile delivery 
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Governance\README.md`; `Governance\basic\01_Good-Governance-Concepts-and-Frameworks.md` §§1–13; `Governance\00_Master-Framework.md`; `Governance\OFFICIAL-UPSC-SYLLABUS-MAPPING.md` |
+| Canonical Markdown | checked | Certified canonical commit `29c700c12`: `upsc-ai-kit\knowledge\Governance\README.md`; `upsc-ai-kit\knowledge\Governance\basic\01_Good-Governance-Concepts-and-Frameworks.md` §§1–13; `upsc-ai-kit\knowledge\Governance\00_Master-Framework.md`; `upsc-ai-kit\knowledge\Governance\OFFICIAL-UPSC-SYLLABUS-MAPPING.md` |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Layered/complete session | checked | Style only: `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `06-Yoga\Learning-Session-Live-Edition.md`, `07-Mimamsa\Learning-Session-Live-Edition.md`; not substantive Governance sources |
+| Layered/complete session | checked | Style only: `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`; not substantive Governance sources |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Governance\advanced\01_Good-Governance-Concepts-and-Frameworks.md` §§1–12; consulted only after Basic concepts |
-| OCR books | not available | No `books` directory exists in this worktree; canonical Markdown and primary web evidence used without Qdrant |
-| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` (2018 GS-I Q14, no locally verified official key/stem/options), `_PYQ-ROUTING-PRELIMS-2026.md` (verified questions; only local Set-A keys provisional), `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`; `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md` Q16 (ledger reports OCR verification against the official scan at `books/mains/2026/QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf`, which was not directly inspected in this pass); 2026 GS-II Q16 cross-link also checked against independent reproductions at https://www.legacyias.com/upsc-mains-2026-gs-paper-2-question-paper/ and https://superkalam.com/upsc-mains/previous-year-question-paper/2026/transparency-and-accountability-in-governance-are-not-about-controlling-corruption-but-about-creating-the-trust-of-stake-3857a7bf-cd9e-46f9-b818-383d1b1b2d70; primary conceptual owner `Governance\basic\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md` |
-| Official live sources | checked | World Bank WGI https://www.worldbank.org/en/publication/worldwide-governance-indicators accessed 1 October 2026; DARPG GGI https://darpg.gov.in/relatedlinks/good-governance-index and Sevottam https://darpg.gov.in/relatedlinks/sevottam returned HTTP 403 on direct fetch; bounded search located DARPG August 2026 CPGRAMS report published September 2026 https://darpg.gov.in/static/uploads/2026/09/ecc16bdebbb4b8a50b18333ea5c24af6.pdf; no unverified counts used |
+| Advanced dossier | checked | Certified canonical commit `29c700c12`: `upsc-ai-kit\knowledge\Governance\advanced\01_Good-Governance-Concepts-and-Frameworks.md` §§1–12; consulted only after Basic concepts |
+| OCR books | checked | Searchable local evidence checked: `books\Courseware on Indian Polity by M Laxmikanth.pdf`, PDF p. 850 (constitutional values, participation, transparency and trust illustration) and p. 1236 (good-governance/RTI reform reference); `books\Indian Polity by M Laxmikant.pdf`, PDF pp. 957–959 (participation, transparency, responsiveness and Indian good-governance pillars) and p. 1267 (good-governance/RTI reform reference). No source-grade WGI/UNDP/UNESCAP methodology or behavioural-nudge passage was attributed to these books. |
+| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`; exact 2018 GS-I Q14 stem/options directly checked at `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9, with no official key held locally and no option mapping; `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`; `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`; `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`; exact 2026 GS-II Q16 directly checked at `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf`, PDF p. 6, with no key or official marking scheme claimed; primary conceptual owner `upsc-ai-kit\knowledge\Governance\basic\08_Transparency-Accountability-Grievance-Redress-and-Social-Audit.md` |
+| Official live sources | checked | Rechecked through 5 October 2026: World Bank WGI main page https://www.worldbank.org/en/publication/worldwide-governance-indicators, documentation https://www.worldbank.org/en/publication/worldwide-governance-indicators/documentation and 2026 methodology https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202026%20Methodology.pdf; UNDP https://www.undp.org/publications/discussion-paper-governance-sustainable-development; UNESCAP https://www.unescap.org/sites/default/files/good-governance.pdf; Second ARC 12th Report https://www.darpg.gov.in/static/uploads/2025/10/edbee2541b1e696f04ade4d10a45ed14.pdf and 4th Report https://www.darpg.gov.in/static/uploads/2025/10/20a81c0a7ef93f99cbab4b734d0a317e.pdf; official GGI 2020–21 report https://www.darpg.gov.in/static/uploads/2025/11/c0407c72aff1eadc87925d99e21a5342.pdf; DARPG August 2026 CPGRAMS report, published 25 September 2026, https://www.darpg.gov.in/static/uploads/2026/09/ecc16bdebbb4b8a50b18333ea5c24af6.pdf. No current India WGI rank or unverified GGI/CPGRAMS performance claim is used. |
 
-**Evidence limits (1 October 2026):** The national GGI edition statement is qualified to the last edition confirmed in the canonical DARPG-linked audit, not a claim that no newer report can exist. The August 2026 CPGRAMS headline was located by live search; PDF data and its detailed tables were not directly checked, so no figures, causal successes or citizen-satisfaction findings are attributed to it. Legal section and ARC distinctions follow the canonical Governance Basic source; any future legal change must be checked against primary gazettes or India Code before updating dynamic claims. No PYQ objective answer is inferred from an unverified key.
+**Evidence limits (5 October 2026):** WGI's 2026 methodology and data through 2025 are current only to that published vintage; no current India rank is inferred. The national GGI statement is bounded to the latest completed national report located in official DARPG material, not a prediction that no later report can appear. The August 2026 CPGRAMS PDF and publication date were directly checked, but no registration, disposal, pendency, training, causal-success or citizen-satisfaction figure is used as proof of improved governance. Constitutional and ARC distinctions follow certified canonical commit `29c700c12` and the official reports; future legal change still requires primary gazette or India Code verification. The 2018 objective question remains unkeyed, and no answer is inferred.
