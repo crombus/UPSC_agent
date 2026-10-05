@@ -430,6 +430,6 @@ remedy or technique — no such attribution is verified in this folder.
   taxonomy and PYQs were checked for category errors, theories, displacement
   mechanisms, knowledge-system domains, regional variation and implementation
   limits.
-- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2021 Q10,
+- **Verified PYQ ownership, 2018-2026:** direct GS-I demands are 2021 Q9,
   2022 Q10 and 2025 Q20; the routed 2021 objective language item remains
   unkeyed. No official 2026 GS-I paper was available on 5 September 2026.
