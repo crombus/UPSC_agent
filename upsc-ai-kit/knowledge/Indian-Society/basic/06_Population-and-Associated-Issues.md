@@ -312,5 +312,6 @@ Geography and close with state-specific care, health, skills and gender-policy n
   divergence, gender agency, ageing, migration, policy coercion and data limits.
 - **Verified PYQ ownership, 2018-2026:** direct routes cover 2019 women's
   empowerment and population growth, 2021 population education and the 2024
-  demographic-winter demand. Cross-owner routing is disclosed and no unavailable
-  2026 GS-I demand is invented.
+  demographic-winter demand. The official 2026 GS-I paper and OCR-verified
+  routing ledger add Q19 on the challenges of demographic transition, primarily
+  owned by Geography and cross-routed here for the social-demography dimensions.
