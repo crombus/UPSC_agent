@@ -137,12 +137,15 @@ DoS (policy umbrella)
 - 📰 **10 Aug 2023 | Indian Space Policy 2023 - approved/published.** PIB said the policy was approved and released in the public domain, and that it clearly delineates the roles of IN-SPACe, ISRO, NSIL and DoS.
 - 📰 **18 Sep 2024 | Next Generation Launch Vehicle (NGLV) - approved.** Union Cabinet approved NGLV development with an outlay of ₹8,240 crore, a partially reusable configuration and a stated ~30-tonne LEO class. **Status: approved / under development — no NGLV has flown.**
 - 📰 **16 Jan 2025 | Third Launch Pad at Sriharikota - approved.** Cabinet approval at ₹3,984.86 crore with a 48-month realisation target, tied to NGLV and future human-spaceflight support needs. **Status: approved; not commissioned.**
-- 📰 **10 Sep 2025 | SSLV technology transfer to HAL - signed.** ISRO transferred SSLV technology to HAL for ₹511 crore over ten years; HAL is to build and market SSLVs. **Status: agreement executed; industry-built SSLV yet to fly (as of the source date).**
-- 📰 **21 Jun 2026 | Kulasekarapattinam launch complex - under construction.** PIB material indicated construction under way with the first SSLV launch from the new complex targeted in **FY 2026-27**. **Status: under development, not operational.**
-- 📰 **17 Dec 2025 | Operational fleet - stated officially.** PSLV, GSLV and LVM3 were described as India's operational launch vehicles; SSLV had completed its development flights.
+- 📰 **10 Sep 2025 | SSLV technology transfer to HAL - signed.** ISRO made the first full transfer of an Indian launch vehicle to industry through a ₹511-crore, ten-year SSLV agreement; HAL is to build and market SSLVs. **Status: agreement executed; industry-built SSLV yet to fly (as of the source date).**
+- 📰 **27 Aug 2025 | Kulasekarapattinam launch-pad foundation - construction milestone.** ISRO reported construction progressing across 32 of 33 major facilities and recorded the launch-pad foundation event. **Status: under development, not operational.**
+- 📰 **1 Apr 2026 | SSLV development status - stated officially.** A DoS reply said SSLV had successfully completed developmental flights and was handed over to NSIL and industry for production and launch.
 - 📰 **2025-26 launch record (use for a balanced answer, not for triumphalism):** GSLV-F16/NISAR succeeded on **30 Jul 2025** and LVM3-M5/CMS-03 on **2 Nov 2025**; **PSLV-C61/EOS-09 (18 May 2025) was unsuccessful** after a third-stage observation, and **PSLV-C62 (Jan 2026)** also saw an end-of-PS3 anomaly with expert review under way. Reliability is a live engineering variable, not a settled fact.
+- 📰 **18 Jul 2026 | Vikram-I - first private Indian-company orbital launch from Indian soil.** ISRO recorded SCOPE and Grahaa injection into LEO, a RAMAN-I liquid upper stage tested at LPSC and IN-SPACe launch clearances. **Status: one successful maiden orbital mission, not a repeat-service record.**
+- 📰 **4 Sep 2026 | GSLV-F17/EOS-05 - successful.** ISRO recorded EOS-05 placement into intended Sub-GTO. **Status: achieved mission-specific outcome, not direct final GEO placement or fleet-wide reliability.**
+- 📰 **Jul 2026 | IN-SPACe planned-re-entry norms.** Applicant risk assessment must keep expected casualty risk below 1 in 10,000; the applicant bears specified third-party/indemnity obligations and must comply with insurance prescribed at authorisation. **Status: activity-specific norms, not a comprehensive space statute.**
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Oct 2026); verify later updates before exam use.
 
 ## 9. PYQ application
 
@@ -191,6 +194,7 @@ DoS (policy umbrella)
 
 - **Institutional test:** IN-SPACe authorises, promotes and supervises non-government space activity; NSIL commercialises Indian space assets; ISRO remains the public R&D and mission anchor. A startup, an MoU or an authorisation is evidence of participation, not proof of a flown/operational national capability.
 - **Status test:** distinguish a private payload/customer, a technology-transfer agreement, an industry-built vehicle and an operational service. The SSLV–HAL agreement is a concrete industrial handover, but it is not evidence that an industry-built SSLV has flown or that a complete launch market has been captured.
+- **2026 Prelims Q46 statement test:** the official Set-A paper separately states that IN-SPACe is an autonomous agency formed to facilitate private participation, that Agnikul Cosmos launched the world's first flight using a 3D-printed rocket engine, and that Skyroot Aerospace developed liquid fuel for GSLV. Examine these against the institutional definition, PIB's precise 30 May 2024 description of Agnikul's single-piece 3D-printed semi-cryogenic engine flight, Skyroot's documented Vikram propulsion and ISRO's GSLV architecture. The locally held answer key is provisional, so this owner records evidence without statement verdicts or an answer option.
 - **Mains use:** private participation can deepen suppliers, analytics and downstream services, but requires liability, range safety, debris mitigation, insurance and predictably enforced authorisation.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
@@ -206,11 +210,13 @@ DoS (policy umbrella)
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 46 | Private-sector participation, IN-SPACe mandate, and Indian space startup achievements | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 46 | IN-SPACe's institutional status and facilitation role; Agnikul's claimed world-first 3D-printed-engine flight; stated Skyroot–GSLV propulsion relationship | Three-statement objective question; provisional 2026 Set-A key present locally, answer not inferred | Official question paper held locally at `books/prelima_question_paper_answers/2026-GS1-Set A.pdf` (SHA-256 `94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311`); local answer key remains provisional | Test each statement independently against institutional definitions and the official Agnikul, Skyroot and GSLV records without publishing a verdict sequence. |
 
 ### What this owner must now support
 
-- Private-sector participation, IN-SPACe mandate, and Indian space startup achievements
+- IN-SPACe is the autonomous DoS agency that promotes, authorises and supervises non-government space activity.
+- Agnikul's 30 May 2024 suborbital Agnibaan SOrTeD flight used a single-piece 3D-printed semi-cryogenic engine; retain the exact scope of the official world-first claim.
+- Skyroot's documented Vikram propulsion and ISRO's documented GSLV stages provide the evidence needed to examine the stated Skyroot–GSLV relationship.
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
@@ -220,7 +226,7 @@ DoS (policy umbrella)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The official 2018 GS-I key is held locally at `books/previous_papers_2013_2018/2018/answer-key-gs1.pdf` (SHA-256 `e1ae9ef3406e37c4b126c543970580903b7f0887bffc1330f796b29316c048e5`), but no option or answer is reproduced in this integration.
 
 - **Years represented:** 2018
 - **Paper(s):** Prelims GS-I
@@ -228,7 +234,7 @@ DoS (policy umbrella)
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 95 | PSLV and GSLV satellite launch vehicles India comparison | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 95 | PSLV and GSLV satellite launch vehicles India comparison | Three-statement objective question; official paper and key held locally, answer not reproduced | Official paper `books/more_previous_papers/QP-CSP-18-GS-I-C.pdf`; official key held separately | Cover the exact statement-level distinctions on mission orientation, fixed appearance in the sky and GSLV Mk III stage counting. |
 
 ### What this owner must now support
 

@@ -116,9 +116,12 @@ SLV/ASLV (technology learning)
 - 📰 **10 Aug 2023 | Indian Space Policy 2023 - approved.** PIB formally placed the policy in the public domain and clarified institutional roles.
 - 📰 **18 Sep 2024 | NGLV - approved.** Cabinet sanctioned ₹8,240 crore for a three-stage, partially reusable vehicle of the ~30-tonne-to-LEO class. **Status: approved / under development.**
 - 📰 **16 Jan 2025 | Third Launch Pad - approved.** ₹3,984.86 crore, 48-month realisation target; tied to NGLV and to standby cover for the Second Launch Pad. **Status: approved, not commissioned.**
-- 📰 **10 Sep 2025 | SSLV technology transfer to HAL - executed.** ₹511 crore, ten-year term; the first transfer of a complete Indian launch vehicle to industry. **Status: agreement signed.**
-- 📰 **21 Jun 2026 | Kulasekarapattinam SSLV complex - under construction.** First SSLV launch from the site targeted in FY 2026-27. **Status: under development.**
+- 📰 **10 Sep 2025 | SSLV technology transfer to HAL - executed.** ₹511 crore, ten-year term; the first full transfer of an Indian launch vehicle to industry. **Status: agreement signed.**
+- 📰 **27 Aug 2025 | Kulasekarapattinam SSLV complex - launch-pad foundation milestone.** ISRO reported construction progressing across 32 of 33 major facilities. **Status: under development.**
 - 📰 **2025-26 mission record.** GSLV-F16/NISAR (30 Jul 2025) and LVM3-M5/CMS-03 (2 Nov 2025) succeeded; **PSLV-C61/EOS-09 (18 May 2025) failed** after a PS3-stage observation and **PSLV-C62 (Jan 2026)** saw an end-of-PS3 anomaly under expert review.
+- 📰 **18 Jul 2026 | Vikram-I - private orbital milestone.** Skyroot's maiden orbital mission placed SCOPE and Grahaa in LEO after IN-SPACe clearances and ISRO facility support. **Status: one successful orbital flight, not repeat-service evidence.**
+- 📰 **4 Sep 2026 | GSLV-F17/EOS-05 - successful.** EOS-05 was placed in intended Sub-GTO. **Status: mission-specific success, not direct final GEO placement.**
+- 📰 **Jul 2026 | Planned-re-entry norms.** IN-SPACe requires expected casualty risk below 1 in 10,000 and sets applicant indemnity/insurance conditions. **Status: activity-specific authorisation rules, not a comprehensive statute.**
 
 | Verified current anchor | Analytical use in answers |
 |---|---|
@@ -129,7 +132,7 @@ SLV/ASLV (technology learning)
 | SSLV technology transfer to HAL converts policy into an actual industrial handover. | Use as the concrete evidence that "commercialisation" now means transferring build responsibility, and that the binding risk shifts to industrial quality assurance. |
 | Two PSLV anomalies inside twelve months alongside two clean heavy-lift successes. | Use to keep the answer balanced: reliability is an engineering variable that must be re-earned every flight, and it directly governs insurance cost and customer confidence. |
 
-⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Aug 2026); verify later updates before exam use.
+⚠️ **Currentness note:** The dated statuses above are accurate to the cited source date (latest re-verification 2 Oct 2026); verify later updates before exam use.
 
 ## 10. PYQ application
 
