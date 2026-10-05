@@ -165,13 +165,17 @@ Open an answer by separating secularism from secularisation, atheism and communa
 
 **Mains question:** Distinguish secularism from secularisation and communalism. Why do these distinctions matter in Indian Society answers? Answer in 150 words.
 
-**Mains model:** Secularism is a normative and institutional arrangement protecting freedom of conscience, equal citizenship and religious diversity. Secularisation is a sociological process in which religious authority declines, differentiates or changes in particular spheres. Communalism is the political-social mobilisation of religious identity as an antagonistic group interest.
+**Mains model:** Secularism is a normative and institutional arrangement protecting freedom of conscience, equal citizenship and religious diversity. India’s Preamble and Articles 14–16 and 25 supply named constitutional anchors for equality and conscience. Secularisation is a sociological process in which religious authority declines, differentiates or changes in particular spheres. Communalism, in Bipan Chandra’s formulation, is the political-social construction of religious communities as opposed secular interests.
 
 The distinctions matter because the three can move differently. Religious practice may remain vibrant while constitutional and civic equality deepen. Institutional differentiation may grow without eliminating discrimination. Conversely, religion can be mobilised communally even where personal observance declines.
 
 An Indian Society answer should therefore identify the mechanism being tested: lived coexistence and shared public space for secularism; change in religious authority for secularisation; and grievance, elite mobilisation, segregation or antagonism for communalism. This avoids treating religion as inherently conflictual and prevents constitutional doctrine from replacing social analysis.
 
 **Quantified rubric — 10 marks:** three definitions 3; interaction among concepts 2; Indian answer-use 3; qualification 1; conclusion 1.
+
+**Why this earns marks:** It separates three commonly conflated concepts, uses named constitutional and scholarly anchors, and converts the distinction into a clear GS-I analytical method.
+
+**Bridge to Lesson 2:** Once the concepts are separated, the next task is to locate secularism across social practice, constitutional design and political philosophy.
 
 ---
 
@@ -293,13 +297,17 @@ State the level in the introduction. Use constitutional material briefly as the 
 
 **Mains question:** Explain the relationship among lived, constitutional and philosophical secularism. Answer in 150 words.
 
-**Mains model:** Lived secularism concerns everyday coexistence through shared public space, civic cooperation and non-segregated participation. Constitutional secularism supplies the equality, conscience and institutional framework within which this coexistence should occur. Political-philosophy secularism explains when separation, recognition, engagement or reform is justified.
+**Mains model:** Lived secularism concerns everyday coexistence through shared public space, civic cooperation and non-segregated participation. Constitutional secularism supplies the equality and conscience framework through the Preamble, Articles 14–16 and 25–30; *S. R. Bommai v. Union of India* (1994) identifies secularism as part of the Constitution’s basic structure. Political-philosophy secularism explains when separation, recognition, engagement or reform is justified.
 
 The layers interact. Constitutional protection can open institutions to excluded groups; lived discrimination can expose an implementation gap; and philosophical principles can guide reform. Yet none substitutes for another. A constitutional provision does not prove social trust, a shared festival does not establish institutional neutrality, and an imported theory may not fit India’s multireligious history.
 
 For GS-I, the social layer should dominate. Constitutional and philosophical material should clarify the normative boundary and strongest objection. A robust answer therefore moves from principle to institution to lived outcome, while identifying the specific gap between them.
 
 **Quantified rubric — 10 marks:** three layers 4; interaction 2; non-substitution qualification 2; GS-I use 1; conclusion 1.
+
+**Why this earns marks:** It uses Articles and *Bommai* without allowing constitutional doctrine to replace the lived-society analysis required in GS-I.
+
+**Bridge to Lesson 3:** The three-layer model now needs a concrete social test, beginning with shared practice and equal public space.
 
 ---
 
@@ -439,6 +447,10 @@ Therefore, lived secularism should be assessed through both shared practice and 
 
 **Quantified rubric — 15 marks:** definitions 3; syncretic mechanism and evidence 3; public-space mechanism 4; limits 3; conclusion 2.
 
+**Why this earns marks:** It combines named Bhakti–Sufi evidence with a stricter equal-access test and avoids romanticising cultural mixing.
+
+**Bridge to Lesson 4:** Lived coexistence reveals what institutions must protect, enabling comparison of Indian, United States and French secular models.
+
 ---
 
 ## Lesson 4 — Indian, United States and French models
@@ -564,6 +576,10 @@ Each model has limits. Formal United States separation may miss indirect social 
 The models should therefore be treated as ideal types, not civilisational absolutes. The relevant evaluative test is whether institutional distance or engagement protects conscience, equal citizenship and minority security without allowing religious domination or state favouritism.
 
 **Quantified rubric — 15 marks:** three models accurately stated 6; historical/institutional explanation 3; comparative limits 3; anti-caricature qualification 2; conclusion 1.
+
+**Why this earns marks:** It compares named models through their historical problems and institutional tendencies while rejecting a single, uniform “Western” template.
+
+**Bridge to Lesson 5:** Model comparison leads to a social question: whether tolerance, assimilation or pluralism best converts difference into equal membership.
 
 ---
 ## Lesson 5 — Tolerance, assimilation and pluralism
@@ -702,15 +718,19 @@ Use a three-part structure: definition → contribution to secularism → limit.
 
 **Mains question:** Tolerance, assimilation and pluralism describe different relationships with social difference. Evaluate their contribution to Indian secularism. Answer in 250 words.
 
-**Mains model:** Tolerance is the minimum secular restraint against persecution. It permits disagreement and protects survival, but may remain paternalistic if one group decides which differences are acceptable. Assimilation reduces difference as a group adopts a wider or dominant pattern. It may enlarge mobility when voluntary and reciprocal, but becomes coercive when equal citizenship requires cultural surrender.
+**Mains model:** Tolerance is the minimum secular restraint against persecution. It permits disagreement and protects survival, but may remain paternalistic if one group decides which differences are acceptable. Assimilation reduces difference as a group adopts a wider or dominant pattern. It may enlarge mobility when voluntary and reciprocal, but becomes coercive when equal citizenship requires cultural surrender. Articles 29–30 provide a named constitutional reason why cultural difference need not be surrendered for citizenship.
 
-Pluralism offers the strongest democratic standard. It allows identities to remain distinct while citizens share institutions, rights and political voice. Equal access to schools, markets and public services, cultural freedom and inter-community cooperation are therefore central. Syncretic traditions may support pluralism but are not required; distinct communities can coexist without blending.
+Pluralism offers the strongest democratic standard. It allows identities to remain distinct while citizens share institutions, rights and political voice. Equal access to schools, markets and public services, cultural freedom and inter-community cooperation are therefore central. Bhakti–Sufi idioms and shared shrines illustrate syncretic contact, but pluralism does not require cultural blending.
 
 The strongest objection is that group accommodation freezes identity or strengthens conservative leadership. The reply is that pluralism must protect internal dissent, especially women, lower-status groups and non-believers within communities. Common constitutional rights set its limits.
 
 Indian secularism draws on all three processes, but they should not be conflated. Tolerance is a floor, assimilation a conditional social process and pluralism the preferred framework of equal participation with difference.
 
 **Quantified rubric — 15 marks:** precise definitions 4; contribution of each 4; Indian application 2; objection and reply 3; verdict 2.
+
+**Why this earns marks:** It distinguishes three coexistence relationships, anchors pluralism in Articles 29–30 and named syncretic traditions, and addresses the internal-minority objection.
+
+**Bridge to Lesson 6:** Plural coexistence remains vulnerable when religious identity is politically reorganised as communal antagonism.
 
 ---
 
@@ -844,15 +864,19 @@ Do not write that communalism is “caused by religion.” Trace attachment, fra
 
 **Mains question:** Secularism requires more than restraint from religious discrimination; it also requires institutions capable of preventing communal mobilisation. Analyse. Answer in 250 words.
 
-**Mains model:** Communalism is not religious belief but the organisation of religious identity as an antagonistic political-social bloc. Mobilisers may select historical grievance, frame economic or political competition as collective threat and harden boundaries through stereotypes and rumours. Segregation and weak inter-community institutions create structural vulnerability, while a local incident becomes the trigger.
+**Mains model:** Communalism is not religious belief but the organisation of religious identity as an antagonistic political-social bloc. Bipan Chandra’s opposed-interest ladder names the ideological mechanism. Mobilisers may select historical grievance, frame economic or political competition as collective threat and harden boundaries through stereotypes and rumours. Segregation and weak inter-community institutions create structural vulnerability, while a local incident becomes the trigger.
 
-Secularism therefore needs preventive institutions. Equal access to schools, markets and public services creates routine cross-cutting contact. Credible rumour verification limits escalation. Impartial policing and administration build trust only when action is even-handed and remedies are accessible. Political accountability prevents state neutrality from becoming selective passivity.
+Secularism therefore needs preventive institutions. Articles 14–16 supply the equal-citizenship benchmark; the National Integration Council illustrates a non-statutory coordination forum rather than a coercive regulator. Equal access to schools, markets and public services creates routine cross-cutting contact. Credible rumour verification limits escalation. Impartial policing and administration build trust only when action is even-handed and remedies are accessible.
 
 The counterpoint is that community grievances should not be dismissed as communal merely because they are religiously expressed. The distinction lies in mechanism: evidence-based claims seeking equal rights are democratic; portraying another community as permanently hostile or demanding unequal citizenship is communal mobilisation.
 
 Power also matters. Majority and minority mobilisation cannot be assessed without examining institutional control and insecurity. A secular response combines one equality standard with context-sensitive protection, sustained contact and transparent institutions.
 
 **Quantified rubric — 15 marks:** definition and mechanism 4; structural/trigger distinction 3; institutional response 4; grievance qualification 2; power-sensitive conclusion 2.
+
+**Why this earns marks:** It links Bipan Chandra’s ideological mechanism to structural risk, trigger and named institutional responses without dismissing legitimate grievances.
+
+**Bridge to Lesson 7:** Preventing communal mobilisation requires examining when community practices themselves conflict with equality, consent or conscience.
 
 ---
 
@@ -979,13 +1003,17 @@ Use the sequence: practice → affected right or public-space mechanism → inte
 
 **Mains question:** What kinds of cultural practices can challenge secularism, and how should reform avoid cultural stereotyping? Answer in 150 words.
 
-**Mains model:** Cultural practices challenge secularism when they deny equal status, meaningful consent, bodily integrity, public access or freedom of conscience. The problem lies in the mechanism and harm, not in culture as such. Community sanctions against dissent, discriminatory access or the use of public authority to favour one religion are relevant examples.
+**Mains model:** Cultural practices challenge secularism when they deny equal status, meaningful consent, bodily integrity, public access or freedom of conscience. Articles 14–15 and 25(2) provide named equality and reform anchors. The problem lies in the mechanism and harm, not in culture as such. Community sanctions against dissent, discriminatory access or the use of public authority to favour one religion are relevant examples.
 
 Reform must also avoid stereotyping. Religious communities contain differences of gender, caste, class, sect, tribe, region, generation and belief. Consultation limited to dominant leaders may preserve internal inequality. A majority-community practice must not be treated as the neutral universal norm.
 
 Rights-sensitive reform should identify the affected person, hear internal voices, protect voluntary belonging and use proportionate measures. Formal uniformity is insufficient where documentation, safety or household power prevents effective equality. Secular reform is strongest when it protects equal citizenship without portraying an entire community as backward.
 
 **Quantified rubric — 10 marks:** challenge mechanisms 3; internal diversity 2; reform risks 2; rights-sensitive method 2; conclusion 1.
+
+**Why this earns marks:** It identifies precise harms, uses Articles 14–15 and 25(2), and avoids stereotyping communities as internally uniform.
+
+**Bridge to Lesson 8:** Rights-sensitive reform requires a constitutional bridge that protects both religious freedom and equal citizenship.
 
 ---
 
@@ -1121,6 +1149,10 @@ The constitutional bridge therefore performs two functions. It protects religion
 Detailed doctrine and case law should remain brief in a GS-I answer, which should return quickly to access, power, trust and participation. Secularism succeeds when legal equality becomes lived civic equality.
 
 **Quantified rubric — 15 marks:** constitutional framework 5; lived-conversion mechanism 4; two-sided protection/reform analysis 3; disciplinary boundary 1; conclusion 2.
+
+**Why this earns marks:** It names the relevant constitutional clusters and basic-structure principle, then returns to the sociological implementation gap.
+
+**Bridge to Lesson 9:** Article 44 brings the protection–reform tension into the concrete social debate over a Uniform Civil Code.
 
 ---
 
@@ -1278,6 +1310,10 @@ The defensible resolution is neither absolute uniformity nor absolute autonomy. 
 
 **Quantified rubric — 20 marks:** equality argument 4; autonomy argument 4; internal diversity 3; reform architecture 4; Uttarakhand evidence with limits 3; verdict 2.
 
+**Why this earns marks:** It balances substantive equality and community autonomy, uses dated Uttarakhand evidence cautiously, and distinguishes enactment from capability and outcome.
+
+**Bridge to Lesson 10:** The UCC debate concerns reform through common rules; the Places of Worship Act illustrates a different secular strategy—stability through a legislative freeze.
+
 ---
 
 ## Lesson 10 — Places of Worship Act as a static coexistence case
@@ -1409,6 +1445,10 @@ The appropriate assessment is therefore qualified. A secular state may lawfully 
 The Act is best used as a static example of the balance between present-order stability and historical grievance. Detailed constitutional adjudication and any live court status lie outside this Society answer.
 
 **Quantified rubric — 15 marks:** statutory mechanism 4; stability rationale 3; grievance objection 3; social limits 3; qualified conclusion 2.
+
+**Why this earns marks:** It accurately states the 1991 Act’s baseline and exceptions, distinguishes freeze from adjudication and integrates the strongest grievance objection.
+
+**Bridge to Lesson 11:** A fixed statutory rule is one institutional tool; the final synthesis asks when secularism instead requires context-sensitive distance and multicultural accommodation.
 
 ---
 
@@ -1572,9 +1612,9 @@ Advanced concepts should sharpen a mechanism, not replace the answer. Use princi
 
 **Mains question:** Can principled distance and multicultural accommodation reconcile equal citizenship with religious-cultural diversity in India? Critically examine. Answer in 250 words.
 
-**Mains model:** Principled distance rejects both automatic non-interference and routine intervention. The state may separate, accommodate, regulate or reform religious practices when publicly defensible reasons linked to freedom and equality justify the choice. This suits a multireligious society where identical treatment can reproduce unequal access.
+**Mains model:** Rajeev Bhargava’s idea of principled distance rejects both automatic non-interference and routine intervention. The state may separate, accommodate, regulate or reform religious practices when publicly defensible reasons linked to freedom and equality justify the choice. This suits a multireligious society where identical treatment can reproduce unequal access.
 
-Multicultural accommodation complements it by recognising that supposedly neutral institutions may reflect dominant cultural norms. Minority educational rights, language support or proportionate accommodation of religious practice can convert formal citizenship into equal participation. Recognition, however, must accompany redistribution; symbolic respect without housing, education or employment access leaves exclusion intact.
+Multicultural accommodation complements it by recognising that supposedly neutral institutions may reflect dominant cultural norms. Articles 29–30 anchor minority cultural and educational rights; language support or proportionate accommodation of religious practice can convert formal citizenship into equal participation. Recognition, however, must accompany redistribution; symbolic respect without housing, education or employment access leaves exclusion intact.
 
 The strongest criticism is the internal-minority problem. Group protection can empower community elites over women, dissenters, lower-status members or non-believers. Accommodation must therefore preserve consent, internal voice, meaningful exit and common rights. Conversely, a uniform rule designed without minority participation may disguise assimilation as neutrality.
 
@@ -1584,11 +1624,23 @@ The two approaches can reconcile equality and diversity, but not through an auto
 
 **Quantified rubric — 20 marks:** principled distance 4; multicultural accommodation 4; recognition/redistribution 3; internal-minority critique 4; inconsistency objection/reply 3; verdict 2.
 
+**Why this earns marks:** It uses Bhargava, Articles 29–30 and the recognition–redistribution distinction while confronting internal domination and inconsistent state action.
+
 ---
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 The questions below are reproduced answer-neutrally. The approaches decode demand and structure only; no solved PYQ model is provided.
+
+## 2014 GS-I, Question 15 — 10 marks, 150 words
+
+> “How do the Indian debates on secularism differ from the debates in the West?”
+
+**Status:** Direct Topic 15 demand; exact wording and metadata checked in the identity-verified official local paper.
+
+**Demand:** Compare the historical problems, institutional responses and central controversies without treating India or the West as internally uniform.
+
+**Neutral approach:** European church–state conflict and separation debates → United States non-establishment/free exercise and French *laïcité* variation → India’s multireligious equality, minority rights and reform context → principled engagement and its risks → qualified comparison. Lesson 4’s original comparative model provides practice for this demand but is not presented as a solved PYQ answer.
 
 ## 2018 GS-I, Question 10 — 10 marks, 150 words
 
@@ -1731,7 +1783,7 @@ The questions below are reproduced answer-neutrally. The approaches decode deman
 
 **Question:** Why is equal public space a stronger test of social secularism than symbolic religious harmony? Answer in 150 words.
 
-**Model answer:** Symbolic harmony is visible in shared festivals, official greetings or public declarations. It may encourage goodwill, but it does not prove that citizens of different religions can use institutions as equals.
+**Model answer:** Symbolic harmony is visible in shared festivals, official greetings or public declarations. It may encourage goodwill, but it does not prove that citizens of different religions can use institutions as equals. Articles 14–16 provide the equal-access benchmark, while *S. R. Bommai* supplies the broader constitutional commitment to secular state conduct.
 
 Equal public space tests access to schools, housing, markets, transport, workplaces, public services and political voice. It asks whether people can participate without concealing identity, facing segregation or depending on discretionary tolerance. It also exposes the gap between constitutional equality and lived practice.
 
@@ -1741,21 +1793,25 @@ Therefore, symbolic harmony is a useful social resource, while equal and dignifi
 
 **Quantified rubric — 10 marks:** symbolic/lived distinction 2; public-space dimensions 4; access-quality qualification 2; conclusion 2.
 
+**Why this earns marks:** It replaces symbolic harmony with measurable institutional access, uses named constitutional evidence and retains a quality-of-access qualification.
+
 ## Final original question 2 — 15 marks
 
 **Question:** A secular response to cultural difference must protect communities from domination and individuals from domination within communities. Analyse. Answer in 250 words.
 
-**Model answer:** Religious and cultural communities can protect identity, solidarity and minority security. In a majoritarian environment, autonomy prevents the state or dominant culture from imposing assimilation. Minority educational and associational space can therefore make equal citizenship usable.
+**Model answer:** Religious and cultural communities can protect identity, solidarity and minority security. In a majoritarian environment, autonomy prevents the state or dominant culture from imposing assimilation. Articles 29–30 anchor minority cultural and educational space, while Article 25 protects conscience; these guarantees can make equal citizenship usable.
 
 Community protection, however, may empower internal elites. Women, lower-status groups, dissenters, converts and non-believers may face unequal property, marriage, mobility or exit conditions. “Community choice” is incomplete unless internal voice and consent are examined.
 
-A secular response must work in both directions. The state should protect communities from discrimination, permit proportionate accommodation and avoid treating majority norms as neutral. It should also secure a common floor of equality, dignity, bodily integrity and conscience. Reform should identify the precise harm, consult diverse internal voices, use the least restrictive effective measure and provide review and grievance mechanisms.
+A secular response must work in both directions. The state should protect communities from discrimination, permit proportionate accommodation and avoid treating majority norms as neutral. It should also secure the Articles 14–15 floor of equality and non-discrimination alongside dignity, bodily integrity and conscience. Reform should identify the precise harm, consult diverse internal voices, use the least restrictive effective measure and provide review and grievance mechanisms.
 
 The counter-risk is excessive state paternalism or selective reform. Transparent reasons, comparable standards and outcome evidence are therefore essential.
 
 Secular pluralism is neither absolute group autonomy nor cultural erasure. It protects voluntary community belonging while ensuring that citizenship and rights do not stop at the community boundary.
 
 **Quantified rubric — 15 marks:** external domination 3; internal domination 3; two-direction framework 4; reform safeguards 3; conclusion 2.
+
+**Why this earns marks:** It anchors both community protection and individual freedom in named constitutional provisions and gives a balanced, reviewable reform method.
 
 ## Final original question 3 — 20 marks
 
@@ -1772,6 +1828,8 @@ The objection is that context-sensitive “principled distance” permits incons
 Indian secularism is therefore a capability to sustain equal participation with difference. Doctrine supplies the standard; institutions and lived relations determine whether it becomes real.
 
 **Quantified rubric — 20 marks:** thesis and institutional capability 4; lived capability 4; three tensions 6; objection/reply 3; current evidence used carefully 1; conclusion 2.
+
+**Why this earns marks:** It integrates doctrine, institutions, lived access, internal-minority critique and dated UCC evidence into one qualified capability-based thesis.
 
 # REMEDIATION
 
@@ -2098,7 +2156,11 @@ equal citizenship with difference
   - PDF p. 99: secular Preamble and Articles 25–28.
   - PDF pp. 261–262: secularism in basic-structure discussion.
   - PDF pp. 363–365: S.R. Bommai and Article 356 bridge.
-- No dedicated permitted OCR-searchable sociology or secularism textbook was found.
+- `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\philosphy_books\Socio-Political Philosophy.pdf`
+  - SHA-256: `6a0fd33a281bded1ea4f08feaaa80d4fff2f3f5d7b0073a27518d48be69ff2e5`.
+  - PDF pp. 144–147: dedicated secularism treatment, including state–religion distance and Indian debate.
+  - PDF pp. 148–159: dedicated multiculturalism treatment, including recognition, group accommodation and internal-minority tensions.
+  - Used to deepen the principled-distance and multiculturalism discussion; constitutional and current-status claims remain controlled by official legal/government sources.
 
 ## PYQ ledgers
 
@@ -2114,16 +2176,20 @@ equal citizenship with difference
 
 | Demand | Official local paper | SHA-256 |
 |---|---|---|
+| 2014 GS-I Q15 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\previous_papers_2013_2018\2014\mains-gs1.pdf` | `0b9d2e9ea0fcb33cf7411b77c6c9bca9462db9e1d50406c81ef5c7d7cfea86eb` |
 | 2018 GS-I Q10 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf` | `7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45` |
 | 2019 GS-I Q10 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSM19-GeneralStudies-I.pdf` | `cad3ef405eec92fe7bb34b4bd3f9f543adaf97937340d1da40f3cd87d66adbd3` |
 | 2019 GS-II Q5 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSM19-GeneralStudies-II.pdf` | `c55732cd8c4ee5fe57fec1e6dcd12955a25efcef3a2eb2169ebe03cd20213e9d` |
 | 2022 GS-I Q19 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf` | `4ef93f55f8cc87c568ffb64860d6a28e6c5d896fc57cd139ed25f2dd577aefa9` |
 | 2024 GS-II Q15 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\02 UPSC 2024 Paper-II.pdf` | `e09fd90b1316063aaca652c2474a6621f3c606305835a04b71026378781de883` |
-| 2026 negative control | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` and GS-II companion | GS-I `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601`; GS-II `471efa8ae48dde452d5cea7a31241c0260c13e2cf2ec396734b97631c2599a36` |
+| 2024 GS-I negative control | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2024 GS Paper I.pdf` | `24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3` |
+| 2025 GS-I negative control | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf` | `26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42` |
+| 2026 GS-I negative control | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` | `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601` |
+| 2026 GS-II negative control | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf` | `471efa8ae48dde452d5cea7a31241c0260c13e2cf2ec396734b97631c2599a36` |
 
 Routing ledgers control ownership and neutral demand metadata. Exact displayed wording is controlled by the official papers. The 2019 GS-I ledger’s “Name and discuss” wording is not treated as a printed directive.
 
-## Exactly one official current source
+## Exactly one current linkage supported by three official records
 
 - Uttarakhand UCC official government-orders page: `https://ucc.uk.gov.in/government-orders`
 - Official commencement notification and Rules PDF: `https://ucc.uk.gov.in/server/file/uploads/shared-files/ucc-rules-2025-en.pdf`
@@ -2137,7 +2203,7 @@ Routing ledgers control ownership and neutral demand metadata. Exact displayed w
 1. Canonical owners contain stale and contradictory 2026 ordinance/Act language; the official state record controls the session’s current status.
 2. No implementation-success or failure claim is inferred from the Uttarakhand enactment or amendment.
 3. No current Supreme Court status is asserted for Places of Worship litigation; only static statutory content is used.
-4. No dedicated sociology OCR book was available; the OCR source supports only the constitutional boundary.
+4. The dedicated OCR socio-political philosophy book supports secularism and multiculturalism theory; it does not control constitutional holdings, legislation or current implementation status.
 5. The 2026 official scans and routing ledgers show no direct Topic 15 demand; no question is invented.
 6. Zero direct Prelims Topic 15 questions were found, so no objective stem, option or key appears.
 7. No official UPSC Mains model answer or marking scheme is claimed.
@@ -2148,9 +2214,9 @@ Routing ledgers control ownership and neutral demand metadata. Exact displayed w
 |---|---|---|
 | Canonical Markdown | checked | Complete Topic 15 Basic/Advanced owners, including *sarva-dharma-sama-bhava* and the live-in registration implementation example, plus framework and bounded cross-topic material |
 | Final learner package | not relevant | Permanently excluded from live-session evidence and not consulted |
-| Layered/complete session | not available | No permitted prior Topic 15 live session was available |
+| Layered/complete session | not relevant | `learning_package_final\Indian-Society\Subject-wide-Syllabus\15-Secularism\Learning-Session.md` exists but was not consulted and is excluded from live-session evidence |
 | Solved workbook | not relevant | Permanently excluded from live-session evidence and not consulted |
 | Advanced dossier | checked | Complete `upsc-ai-kit\knowledge\Indian-Society\advanced\15_Secularism.md` audited and integrated |
-| OCR books | checked | Bounded constitutional support from `Indian Polity by M Laxmikant.pdf`; no dedicated sociology book available |
-| PYQs through 2026 | checked | Mains and Prelims ledgers, official papers and hashes checked; exact/cross-owned/negative status recorded; zero direct Prelims |
+| OCR books | checked | Bounded constitutional support from `Indian Polity by M Laxmikant.pdf` plus dedicated secularism/multiculturalism theory from `Socio-Political Philosophy.pdf` |
+| PYQs through 2026 | checked | Mains and Prelims ledgers plus exact 2014/2018/2019/2022/2024 paper records and explicit 2024–2026 negative controls checked; exact/cross-owned/negative status recorded; zero direct Prelims |
 | Official live sources | checked | Exactly one Uttarakhand UCC current linkage: official commencement/Rules PDF, government-orders page and Ordinance-to-Amendment-Act record, with URLs and PDF hashes |
