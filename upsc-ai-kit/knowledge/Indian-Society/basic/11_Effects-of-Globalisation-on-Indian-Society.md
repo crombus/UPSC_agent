@@ -210,6 +210,22 @@ adaptation (glocalisation), which is why all three PYQs on this topic reward a q
 
 ## 9. PYQ application
 
+- ✅ **2013 GS-I Q17 (10 marks, 200 words, official local paper):** "Critically
+  examine the effect of globalization on the aged population in India." Route
+  through adult-child migration and changing households, remittance and
+  communication gains, care-market and digital-access changes, and unequal
+  effects by income, gender and location. Ageing itself is a demographic
+  process; globalisation modifies care and support conditions.
+- ✅ **2015 GS-I Q12 (12½ marks, 200 words, official local paper):** "Discuss
+  the positive and negative effects of globalization on women in India."
+  Balance work, income, rights vocabulary and market access against insecure
+  export work, the double burden, displacement and commodification; never
+  treat women as a uniform category.
+- ✅ **2016 GS-I Q8 (12½ marks, 200 words, official local paper):** "To what
+  extent globalization has influenced the core of cultural diversity in
+  India? Explain." Judge depth rather than assume erasure: homogenisation and
+  language/prestige pressure coexist with glocalisation, hybridisation,
+  regional-media expansion and cultural revival.
 - ✅ **2025 Q10 (10 marks):** reject the "only consumer culture" framing with a multi-domain
   argument (employment, family, digital access, glocalisation).
 - ✅ **2024 Q19 (15 marks):** analyse possible personal-freedom expansion and family
@@ -458,11 +474,15 @@ turnout, membership or vote-share figure is quoted from memory.
   taxonomy and PYQs were checked for channel separation, theory distinctions,
   Indian mechanisms, intersectionality, source periods, measurement limits and
   cross-owner boundaries.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover globalisation and
-  cultural specificity in 2018, global/local identity in 2019, pluralism in
-  2020, technology and scarce resources in 2022, women's urban migration in
-  2024, consumer culture in 2025 and the four-sphere (social/political/
-  economic/cultural) impact on youth in 2026 Q20. The 2025 fast-food demand
-  remains Social Change-owned in the audited ledger despite a local owner
-  conflict. No
-  unavailable 2026 demand, market share or migration statistic is invented.
+- **Verified PYQ ownership, 2013-2026:** direct routes cover effects on the
+  aged in 2013, differentiated effects on women in 2015, influence on the core
+  of cultural diversity in 2016, globalisation and cultural specificity in
+  2018, global/local identity in 2019, pluralism in 2020, technology and scarce
+  resources in 2022, women's urban migration in 2024, consumer culture in 2025
+  and the four-sphere (social/political/economic/cultural) impact on youth in
+  2026 Q20. The 2013, 2015 and 2016 wording and metadata are controlled by the
+  repository-held official GS-I papers under
+  `books/previous_papers_2013_2018/`; the 2024-2026 wording is controlled by
+  the locally held official GS-I papers. The 2025 fast-food demand remains
+  Social Change-owned in the audited ledger despite a local owner conflict. No
+  market share or migration statistic is invented.
