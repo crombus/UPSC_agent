@@ -5,7 +5,7 @@
 > This session begins with the physical meaning of land decline, moves through India's
 > mapped evidence and the UNCCD system, and then builds Land Degradation Neutrality,
 > drought resilience and restoration design. The complete core is taught before optional
-> advanced evaluation. Status and dated claims are current to **3 October 2026**.
+> advanced evaluation. Status and dated claims are current to **5 October 2026**.
 
 ## Roadmap
 
@@ -17,10 +17,10 @@
 | 4 | Water, vegetation, drought and land-atmosphere feedbacks | Core |
 | 5 | Ecological, livelihood, economic and social impacts | Core |
 | 6 | India's spatial evidence and the ISRO-SAC atlas | Core |
-| 7 | UNCCD purpose, principles and institutional architecture | Core |
+| 7 | UNCCD purpose, principles, regional annexes and 2018–2030 Strategic Framework | Core |
 | 8 | COP, CRIC, CST, Global Mechanism and National Action Programmes | Core |
 | 9 | Land Degradation Neutrality: baseline, targets and response hierarchy | Core |
-| 10 | LDN accounting, indicators, counterbalancing and safeguards | Core |
+| 10 | SDG 15.3.1 minimum indicators and one-out-all-out | Core |
 | 11 | Restoration, rehabilitation, reclamation and afforestation | Core |
 | 12 | Drought resilience, watershed management and agroforestry | Core |
 | 13 | Rangelands, pastoral mobility, community institutions, tenure and gender | Core |
@@ -61,7 +61,7 @@ human value without treating every dry landscape as empty land awaiting trees?**
 Progress: 1 / 15 | Stage: Foundation | Subtopic: Land degradation, desertification, drought and drylands
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Dryland and soil foundations queried
+Book context: not available — treaty definitions were checked against official UNCCD Article 1
 CA search: "official UNCCD definitions desertification drought drylands land degradation"
 CA found: No separate current-affairs linkage; official treaty definitions control this lesson
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -73,7 +73,8 @@ LAND DEGRADATION
 decline in land's biological/economic productivity or ecological complexity
         |
         `--> when it occurs in ARID + SEMI-ARID + DRY SUB-HUMID areas
-                  because of climatic variations and human activities
+                  from various factors, including climatic variations
+                  and human activities; both need not operate in every case
                   = DESERTIFICATION under the UNCCD
 
 DROUGHT
@@ -110,8 +111,12 @@ The treaty definition contains four parts:
 
 1. there is degradation, not merely natural aridity;
 2. the affected location is a dryland;
-3. climatic variations may contribute;
-4. human activities may contribute.
+3. climatic variations are among the included factors;
+4. human activities are among the included factors.
+
+The wording is not a mandatory dual-cause test. Climatic variation, human activity or their
+interaction may be relevant in a particular case; attribution needs evidence rather than an
+assumption that both must always be present.
 
 This is why a naturally sparse desert ecosystem is not automatically degraded. A healthy
 desert or steppe can be productive, biodiverse and resilient within its climatic limits.
@@ -146,7 +151,7 @@ are excluded even though they may be climatically dry.
 
 ### 5. The 2020 UPSC wording requires a qualification
 
-The question "The process of desertification does not have climate boundaries" should not
+The question "The process of desertification does not have climatic boundaries" should not
 be answered by deleting the treaty's dryland boundary. The defensible route is:
 
 ```text
@@ -183,7 +188,7 @@ inherently harmful.
 
 1. Land includes soil, vegetation, biota and ecological-hydrological processes.
 2. Desertification is land degradation in arid, semi-arid and dry sub-humid areas.
-3. Both climatic variation and human activity can contribute.
+3. Climatic variation, human activity or their interaction can contribute; both are not mandatory in every case.
 4. Drought begins with significantly below-normal precipitation.
 5. A drought-induced fall in greenness is not automatically long-term degradation.
 6. Drylands use a precipitation-to-potential-evapotranspiration ratio of 0.05–0.65.
@@ -205,13 +210,13 @@ inherently harmful.
 
 **Question (10 marks, 150 words):** Distinguish drought, aridity and desertification, and explain why the distinction matters for policy.
 
-#### Model response (134 words)
+#### Model response (147 words)
 
 Aridity is a long-term climatic condition in which precipitation is low relative to
 potential evapotranspiration. Drought is an abnormal period of significantly below-normal
-precipitation that creates hydrological imbalance. Desertification, under the UNCCD, is land
-degradation in arid, semi-arid and dry sub-humid areas caused by climatic variations and
-human activities.
+precipitation that creates hydrological imbalance. Desertification, under the UNCCD, is land degradation in arid, semi-arid and dry sub-humid
+areas resulting from various factors, including climatic variations and human activities;
+the definition does not require both factors in every case.
 
 The distinction changes intervention. Drought calls for early warning, water allocation,
 fodder and livelihood protection. Aridity requires permanent adaptation through suitable
@@ -238,7 +243,7 @@ accelerate degradation on already fragile land.
 Progress: 2 / 15 | Stage: Foundation | Subtopic: Drivers, processes, indicators and reinforcing feedbacks
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Soil-erosion and dryland-process chapters queried
+Book context: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 152–155
 CA search: "official land degradation drivers indicators feedbacks drylands"
 CA found: No separate current-affairs linkage; mechanism is established through treaty, atlas and land-science sources
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -432,7 +437,7 @@ underlying incentive together.
 Progress: 3 / 15 | Stage: Core | Subtopic: Erosion, salinity, waterlogging and soil-function decline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: OCR soil-system and erosion material queried
+Book context: `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 152–155
 CA search: "official soil erosion salinity waterlogging land degradation India"
 CA found: No separate current-affairs linkage; the lesson uses established process evidence
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -606,7 +611,7 @@ long-term soil function.
 Progress: 4 / 15 | Stage: Core | Subtopic: Water stress, vegetation change, drought and land-atmosphere feedbacks
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Drought typology and dryland ecology queried
+Book context: not available — canonical Disaster Management Markdown and official UNCCD drought sources were used
 CA search: "official drought land degradation vegetation feedback resilience"
 CA found: No separate current-affairs linkage; this lesson establishes the static resilience mechanism
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -775,7 +780,7 @@ does not produce persistent decline.
 Progress: 5 / 15 | Stage: Core | Subtopic: Ecological, livelihood, economic and social impacts
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Land-productivity and livelihood evidence queried
+Book context: not available — canonical Markdown and official UNCCD/FAO evidence were used
 CA search: "official land degradation impacts food water livelihoods migration economy"
 CA found: No separate current-affairs linkage; impact pathways are taught as structural relationships
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -939,7 +944,7 @@ benefits fairly.
 Progress: 6 / 15 | Stage: Core | Subtopic: ISRO-SAC evidence, spatial pattern and data discipline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Indian dryland geography and official atlas queried
+Book context: not available — the official ISRO-SAC Atlas and canonical Geography Markdown were used
 CA search: "official India desertification land degradation atlas spatial evidence"
 CA found: No separate current-affairs linkage; the mapped period is 2018–19 and must retain that date
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1016,31 +1021,26 @@ The mapping system combines:
 Its minimum mapping unit and satellite interpretation are suited to regional planning, not
 to deciding the condition of every individual field.
 
-### 6. What remote sensing can and cannot establish
+### 6. Basic use and limit of remote sensing
 
-Remote sensing offers repeatability, national coverage and spatial targeting. It can reveal
-cover, surface condition and productivity patterns that field surveys alone cannot map at
-scale. But interpretation needs:
+Remote sensing provides repeatable national coverage, change detection and spatial targeting.
+It shows where cover, surface condition or productivity signals have changed. It does not by
+itself establish why a field changed, who gained or lost access, or whether ecological function
+has recovered. Atlas evidence should therefore trigger field diagnosis rather than prescribe
+one automatic intervention.
 
-- co-registration and consistent classification;
-- trend comparison rather than one image;
-- rainfall and land-use context;
-- soil and groundwater sampling;
-- local knowledge about grazing, fire and management;
-- separation of natural open ecosystems from "wasteland."
-
-The atlas itself notes that visible salinity may be detected in imagery, while
-alkalinization often needs ground truth and soil analysis.
+The technical questions—classification consistency, rainfall normalization, soil sampling,
+additional indicators and uncertainty—belong to the optional advanced monitoring block in
+Lesson 15.
 
 ### 7. Objection, reply and residual
 
 **Objection:** A national atlas provides objective truth and removes the need for local
 judgement.
 
-**Reply:** It provides indispensable, standardised evidence, but every map has scale,
-classification and temporal limits. Local validation explains cause and social meaning.
-The residual policy risk is that administrative categories can convert a mapping label into
-an inappropriate intervention.
+**Reply:** It provides indispensable standardized evidence, but every map has a scale,
+classification and timeframe. Local validation explains cause, land use and social meaning.
+The map supports diagnosis; it does not replace it.
 
 ### UPSC integration
 
@@ -1061,7 +1061,7 @@ an inappropriate intervention.
 9. Wind erosion affected 5.46%.
 10. Wind dominates the arid-region process pattern.
 11. State contribution and within-State incidence use different denominators.
-12. Remote sensing must be interpreted with field and social evidence.
+12. Remote sensing supports targeting and change detection; field diagnosis establishes cause and outcome.
 
 ### Concept check
 
@@ -1075,29 +1075,25 @@ an inappropriate intervention.
 
 **Question (15 marks, 250 words):** Examine the uses and limits of remote sensing in governing land degradation in India.
 
-#### Model response (197 words)
+#### Model response (165 words)
 
 Remote sensing makes land degradation governable at national and regional scales. The
 ISRO-SAC atlas provides repeatable spatial coverage, process classes and comparable
 timeframes. For 2018–19 it mapped 97.85 million hectares, or 29.77% of India's geographical
-area, under desertification/land degradation. Such evidence identifies erosion, vegetation
-decline, salinity and other hotspots, supports State prioritisation and enables change
-detection.
+area, under desertification/land degradation. Such evidence identifies hotspots, supports
+State prioritization and enables change detection.
 
 Its limits are equally important. A satellite records surface signals, not complete causal
 or social explanations. Temporary drought may reduce greenness without persistent
-degradation. A greener pixel may be irrigated monoculture or invasive vegetation rather
-than ecological recovery. Visible salinity may be mapped, whereas alkalinization and soil
-structure require field analysis. National mapping units cannot establish every plot's
-condition, tenure conflict or distribution of benefits.
+degradation, while higher greenness may reflect irrigation, invasive vegetation or a
+monoculture. National mapping units cannot establish every plot's soil condition, tenure
+conflict or distribution of benefits.
 
-Governance should therefore combine consistent satellite classification with rainfall
-normalisation, multi-year productivity trends, soil and groundwater sampling, biodiversity
-surveys and local land-user knowledge. Open grasslands must not be labelled empty land
-solely because canopy is low. Remote sensing should trigger diagnosis and adaptive
-management, not automatically prescribe plantations. Its greatest value lies in transparent
-targeting and repeated monitoring; its greatest danger lies in mistaking a scalable proxy
-for the whole land system.
+Governance should therefore use remote sensing to ask where closer diagnosis is needed, then
+combine it with field evidence and local land-user knowledge. Open grasslands must not be
+labelled empty land solely because canopy is low. The atlas is strongest as a transparent
+screening and repeated-monitoring tool; it is weakest when a mapped proxy is treated as the
+whole land system.
 
 #### Quantified rubric — 15 marks
 
@@ -1111,14 +1107,14 @@ for the whole land system.
 
 ---
 
-## Lesson 7 — The UNCCD's constitutional design
+## Lesson 7 — The UNCCD's constitutional and strategic design
 
-Progress: 7 / 15 | Stage: Core | Subtopic: Purpose, principles, legal character and regional architecture
+Progress: 7 / 15 | Stage: Core | Subtopic: Purpose, principles, regional annexes and the 2018–2030 Strategic Framework
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Convention text and Rio-governance context queried
-CA search: "official UNCCD objective principles regional annexes legal treaty"
-CA found: No separate current-affairs linkage; treaty architecture is the subject
+Book context: not available — official Convention, Strategic Framework and PRAIS sources were used
+CA search: "official UNCCD objective principles regional annexes 2018 2030 Strategic Framework COP17 Decision 6"
+CA found: COP17 Decision 6/COP.17, 28 August 2026 — the 2018–2030 Framework remains current while post-2030 work continues
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a treaty that links global support to local action
@@ -1140,8 +1136,14 @@ CA found: No separate current-affairs linkage; treaty architecture is the subjec
                     +--> international cooperation
                     |       finance + technology + knowledge
                     |
-                    `--> regional annexes
-                            Africa receives particular priority
+                    +--> regional annexes
+                    |       Africa receives particular priority
+                    |       AU Great Green Wall = implementation example,
+                    |       not a continuous tree belt or treaty obligation
+                    |
+                    `--> 2018–2030 Strategic Framework
+                            ecosystems + people + drought
+                            global benefits + resources
 ```
 
 ### 1. Why a separate land convention emerged
@@ -1191,21 +1193,72 @@ The UNCCD is the only Rio Convention organised through this specific set of regi
 implementation annexes. The distinction is institutional: the UNFCCC and CBD differentiate
 implementation in other ways but do not reproduce the UNCCD's five-annex regional structure.
 
-### 5. Binding treaty, nationally differentiated implementation
+### 5. Great Green Wall as a bounded implementation example
+
+The **Great Green Wall** is an African Union-led landscape-restoration and rural-development
+initiative launched in 2007. It is not a continuous wall of trees and not a binding UNCCD
+instrument.
+
+Its original institutional spine covers **11 founding/intervention countries** and a
+**156-million-hectare** area from the Senegal River Basin towards the Horn of Africa. UNCCD
+also describes implementation across **22 African countries**. The updated **2024 AU
+strategy** expands the vision continent-wide while retaining the Sahel as its foundation and
+adding a Southern Great Green Wall dimension.
+
+Its 2030 ambitions are 100 million hectares restored, 250 million tonnes of carbon
+sequestered and 10 million green jobs. These are targets, not proof of achievement; the
+technical progress-data caveat is evaluated in Lesson 15.
+
+### 6. The 2018–2030 Strategic Framework
+
+Decision **7/COP.13** adopted a common strategic direction with five objectives:
+
+| Strategic objective | Core question |
+|---|---|
+| SO1: ecosystems, DLDD, sustainable land management and LDN | Is affected land condition improving? |
+| SO2: living conditions | Are affected populations becoming more secure? |
+| SO3: drought | Are vulnerable people and ecosystems more resilient? |
+| SO4: global environmental benefits | Does implementation also support climate, biodiversity and wider ecosystem services? |
+| SO5: resources and partnerships | Are sufficient financial and non-financial means being mobilized? |
+
+The Framework prevents a narrow “hectares planted” reading of the Convention. It links land
+condition to people, drought, wider environmental benefits and implementation resources.
+
+### 7. Its implementation framework
+
+The implementation framework assigns responsibilities to Parties and Convention institutions
+under three core components:
+
+```text
+POLICY AND PLANNING
+        +
+ACTIONS ON THE GROUND
+        +
+FINANCIAL AND NON-FINANCIAL RESOURCES
+```
+
+For the 2026 PRAIS reporting cycle, these elements are integrated under the strategic
+objectives rather than reported as one stand-alone block.
+
+The 2018–2030 Framework has not been replaced. COP17 decision **6/COP.17** renewed the
+Intergovernmental Working Group on the Future Strategic Framework for 2026–2028. It must
+develop a proposed post-2030 framework for consideration at COP18.
+
+### 8. Binding treaty, nationally differentiated implementation
 
 The UNCCD is legally binding as a treaty. That does not mean the COP imposes identical
 land-use commands or one compulsory hectare target on every country. Parties develop
 strategies and report implementation within a common framework, while LDN targets are
 nationally set.
 
-### 6. Land is cross-sectoral by design
+### 9. Land is cross-sectoral by design
 
 Effective implementation touches agriculture, water, forests, rural development, disaster
 risk, local government, science and finance. This creates a coordination advantage—many
 goals can converge—but also a responsibility problem when no agency controls the whole
 landscape.
 
-### 7. Strongest criticism and reply
+### 10. Strongest criticism and reply
 
 **Criticism:** The Convention is weaker than climate governance because land degradation is
 diffuse, nationally managed and less visible.
@@ -1220,6 +1273,9 @@ accountability, not replacing the land lens with climate carbon accounting.
 - Identify it as a Rio Convention and legally binding treaty.
 - Do not describe it as a global afforestation convention.
 - Explain Africa priority through the regional annex structure.
+- Describe the Great Green Wall as AU-led landscape development, not a continuous tree belt.
+- Name all five Strategic Framework objectives when the question asks about current UNCCD direction.
+- State that Decision 6/COP.17 continues post-2030 design; it does not replace the 2018–2030 Framework.
 
 ### Revision notes
 
@@ -1232,10 +1288,12 @@ accountability, not replacing the land lens with climate carbon accounting.
 7. International cooperation supports country action.
 8. Africa receives particular priority but does not monopolise the problem.
 9. Five regional implementation annexes structure differentiated action.
-10. A binding treaty does not imply identical compulsory national land targets.
-11. UNCCD implementation is inherently cross-sectoral.
-12. Carbon benefits are co-benefits, not the Convention's sole purpose.
-13. UNCCD is the only Rio Convention with this specific regional implementation-annex structure.
+10. The Strategic Framework has five objectives: ecosystems/LDN, people, drought, global benefits and resources.
+11. Its implementation framework covers policy/planning, action on the ground and resources.
+12. Decision 6/COP.17 renewed post-2030 design work for 2026–2028; the current Framework remains operative.
+13. A binding treaty does not imply identical compulsory national land targets.
+14. The Great Green Wall is AU-led landscape development, not a continuous tree wall or binding UNCCD obligation.
+15. UNCCD is the only Rio Convention with this regional-annex structure and remains inherently cross-sectoral.
 
 ### Concept check
 
@@ -1285,7 +1343,7 @@ when the people managing the land are excluded or economically undermined.
 Progress: 8 / 15 | Stage: Core | Subtopic: COP, CRIC, CST, Global Mechanism and National Action Programmes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Multilateral-institution and reporting architecture queried
+Book context: not available — official Convention governance and PRAIS sources were used
 CA search: "official UNCCD COP CRIC CST Global Mechanism National Action Programmes"
 CA found: No separate current-affairs linkage; institutional roles are taught as stable architecture
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1465,7 +1523,7 @@ but convergence and outcome accountability determine whether it reaches the land
 Progress: 9 / 15 | Stage: Core | Subtopic: LDN definition, baseline, target and response hierarchy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: UNCCD LDN conceptual framework queried
+Book context: not available — official UNCCD LDN principles and conceptual framework were used
 CA search: "official LDN definition baseline avoid reduce reverse response hierarchy"
 CA found: No separate current-affairs linkage; the official conceptual framework governs this lesson
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1531,44 +1589,38 @@ intact native rangeland threatened by conversion
 
 This hierarchy prevents LDN from becoming an unrestricted offset licence.
 
-### 4. Counterbalancing is prospective planning
+### 4. Counterbalancing comes after prevention
 
-LDN asks planners to anticipate likely losses from land-use decisions and plan gains within
-the same timeframe. Counterbalancing should occur, as far as possible, **like for like**
-within the same ecosystem-based land type. It should operate at the scale at which land-use
-decisions are made.
+Only residual anticipated losses after avoidance and reduction should enter counterbalancing
+planning. Planned gains must share the timeframe and, as far as possible, the ecosystem-based
+land type of the loss. This is a basic safeguard, not a tradable-offset market. The technical
+rules on scale, uncertainty, time lags and additional indicators belong to Lesson 15.
 
-A wetland gain cannot casually compensate a grassland loss; a plantation cannot
-automatically replace a native rangeland. Crossing land types risks altering ecosystem
-composition and hiding irreplaceable loss.
-
-### 5. Neutrality does not erase site-level damage
-
-National or subnational balance can coexist with severe harm at a particular site. This is
-why LDN principles require human-rights protection, participation, tenure safeguards,
-multi-variable assessment and attention to endangered ecosystems.
-
-### 6. Voluntary national target, common discipline
+### 5. Voluntary national target, common discipline
 
 Countries set national targets according to circumstances and sovereignty. Common
 principles, indicators and reporting provide comparability. This resembles nationally
 determined architecture, but LDN is not an NDC and the UNCCD is not the Paris Agreement.
 
-### 7. Strongest objection and reply
+National or subnational neutrality also does not erase harm at a particular site. A target
+can be voluntary and still require participation, tenure protection and transparent
+land-use decisions.
+
+### 6. Strongest objection and reply
 
 **Objection:** "No net loss" legitimises destructive development by allowing restoration
 elsewhere.
 
-**Reply:** The official hierarchy prioritises avoidance, and like-for-like,
-rights-sensitive counterbalancing constrains substitution. The objection remains powerful
-where governments treat gains as certain, ignore time lags or accept non-equivalent
-ecosystems.
+**Reply:** The official hierarchy gives priority to avoidance and reduction. Counterbalancing
+is residual and constrained, not the starting point. The objection becomes valid when
+governments skip prevention and treat promised restoration as automatic permission to damage
+intact land.
 
 ### UPSC integration
 
-- Define LDN before explaining offset-like counterbalancing.
+- Define LDN before explaining residual counterbalancing.
 - Put avoid before reduce and reverse.
-- State baseline, timeframe, scale and land type.
+- State that the baseline is the minimum target and national targets are voluntary.
 
 ### Revision notes
 
@@ -1579,11 +1631,11 @@ ecosystems.
 5. Countries may pursue net gain beyond neutrality.
 6. Avoid has priority over reduce and reverse.
 7. Prevention is generally cheaper and more reliable than repair.
-8. Anticipated losses may be counterbalanced by planned gains.
-9. Counterbalancing should normally be like for like.
-10. Balance at national scale does not erase local harm.
-11. LDN targets are nationally set within a common framework.
-12. LDN is not a licence for unrestricted ecological substitution.
+8. Only residual anticipated losses should enter counterbalancing planning.
+9. Gains should share the timeframe and, as far as possible, the ecosystem-based land type.
+10. LDN is not a tradable-offset market.
+11. Balance at national scale does not erase local harm.
+12. LDN targets are voluntary and nationally set within a common framework.
 13. SDG target 15.3 links restoration and combating desertification to the 2030 LDN objective.
 
 ### Concept check
@@ -1596,32 +1648,31 @@ ecosystems.
 
 ### Original Mains practice
 
-**Question (15 marks, 250 words):** Critically evaluate the neutrality and counterbalancing logic of Land Degradation Neutrality.
+**Question (15 marks, 250 words):** Explain why Land Degradation Neutrality is a prevention-first framework rather than a restoration-offset system.
 
-#### Model response (199 words)
+#### Model response (187 words)
 
 Land Degradation Neutrality aims to keep stable or increase the amount and quality of land
 resources needed for ecosystem functions, services and food security within defined scales
-and timeframes. Its practical strength is to place future land-use decisions on a
-balance sheet: the baseline becomes the minimum target, anticipated losses are identified,
-and planned gains are built into land-use planning.
+and timeframes. The baseline becomes the minimum target, while countries may voluntarily
+pursue a net gain.
 
-The framework is more than offsetting. Its response hierarchy requires governments first to
-avoid new degradation, then reduce ongoing decline, and only then reverse past damage.
-Counterbalancing should occur, as far as possible, within the same ecosystem-based land
-type and planning scale. Common land-cover, productivity and soil-carbon indicators create
-a minimum monitoring discipline.
+Its decisive safeguard is the response hierarchy. Governments should first avoid new
+degradation, then reduce ongoing decline and finally reverse past damage. This order matters
+because intact soil, hydrology, biodiversity and livelihood relations are usually easier to
+protect than to recreate.
 
-However, neutrality can conceal site-level injustice and ecological non-equivalence.
-Restoration gains are uncertain and delayed, while destruction is immediate. A plantation
-cannot automatically replace native grassland, wetland or culturally important common land.
-National balance can also hide concentrated losses borne by pastoralists, tenants or women.
+Counterbalancing is therefore residual planning, not the starting point. Anticipated losses
+remaining after avoidance and reduction may be matched by planned gains over the same
+timeframe and, as far as possible, within the same ecosystem-based land type. A tree
+plantation cannot automatically replace a native grassland or common pasture.
 
-LDN is therefore defensible only with strict avoidance, conservative accounting,
-like-for-like rules, tenure protection, participation and long-term outcome monitoring.
-Used this way, neutrality disciplines development planning. Used as hectare-for-hectare
-permission to degrade, it reproduces the ecological-commensurability problem familiar from
-compensatory afforestation.
+LDN targets are nationally determined and voluntary, although the UNCCD itself is a binding
+treaty. National balance also cannot erase local harm. Participation, tenure security and
+transparent land-use decisions remain necessary.
+
+Thus LDN disciplines development only when prevention comes first. If restoration promises
+are used to authorize avoidable damage, neutrality becomes misleading hectare arithmetic.
 
 #### Quantified rubric — 15 marks
 
@@ -1629,8 +1680,8 @@ compensatory afforestation.
 |---|---:|
 | Definition and baseline | 3 |
 | Response hierarchy | 3 |
-| Counterbalancing design | 3 |
-| Ecological and justice critique | 4 |
+| Prevention-first logic | 3 |
+| Counterbalancing and local-harm safeguards | 4 |
 | Conditional verdict | 2 |
 
 ---
@@ -1640,7 +1691,7 @@ compensatory afforestation.
 Progress: 10 / 15 | Stage: Core | Subtopic: Indicators, one-out-all-out rule, gains, losses and safeguards
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: LDN indicator and accounting framework queried
+Book context: not available — official UNCCD LDN principles and PRAIS4 reporting guidance were used
 CA search: "official LDN indicators one out all out land cover productivity soil organic carbon"
 CA found: No separate current-affairs linkage; accounting rules are the lesson's static core
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1648,6 +1699,11 @@ CA found: No separate current-affairs linkage; accounting rules are the lesson's
 ### Visual: the minimum indicator dashboard
 
 ```text
+SDG INDICATOR 15.3.1
+proportion of land degraded over total land area
+          =
+area classified as degraded / total land area x 100
+
 LAND UNIT
    |
    +--> LAND COVER CHANGE
@@ -1682,77 +1738,41 @@ This prevents a strong result in one metric from cancelling a warning in another
 not mean every tiny measurement fluctuation proves degradation; significance thresholds,
 data quality and context remain necessary.
 
-### 3. Minimum indicators are not maximum knowledge
+### 3. The exact SDG indicator
 
-UNCCD principles explicitly allow additional national and subnational quantitative and
-qualitative indicators. Useful additions include:
+SDG indicator **15.3.1** is the **“proportion of land that is degraded over total land
+area.”** It is an area proportion, not an average score of the three sub-indicators.
+Countries may use compliant national data, but the result must still classify land units and
+aggregate the degraded area over total land area.
 
-- erosion and sediment;
-- salinity, sodicity and compaction;
-- groundwater and streamflow;
-- species composition and habitat quality;
-- yield stability and forage quality;
-- tenure security and access;
-- gendered labour and benefit distribution.
+### 4. Minimum indicators are not complete ecosystem accounts
 
-### 4. Gains and losses must share a timeframe
+The three sub-indicators create a common minimum. They do not fully measure erosion, salinity,
+water, biodiversity, tenure or distribution. A greener pixel may represent native recovery,
+irrigated monoculture, invasive vegetation or plantation. Additional evidence interprets the
+minimum dashboard; it does not replace the common indicator.
 
-A planned degradation loss today cannot be balanced honestly by a vague restoration promise
-with no completion date. Time lags matter because ecosystem services are unavailable during
-the gap, and recovery may fail.
+### 5. Two baseline ideas must not be collapsed
 
-### 5. Leakage and burden shifting
+The **LDN conceptual baseline** means that land-based natural capital at implementation
+becomes the minimum target. The **SDG reporting baseline** is a defined statistical reference
+period used for indicator 15.3.1. Their exact reporting periods and recalculation rules are
+technical monitoring content taught in Lesson 15.
 
-Protecting one area can displace grazing, farming, fuel collection or mining to another.
-LDN planning must examine the wider landscape and avoid shifting degradation across
-districts, ecosystems, social groups or generations.
-
-### 6. Uncertainty should change decisions
-
-Monitoring contains classification error, cloud and sensor limitations, incomplete soil
-data and uncertain baselines. A responsible framework:
-
-1. documents uncertainty;
-2. uses conservative assumptions;
-3. validates locally;
-4. chooses reversible actions where evidence is weak;
-5. updates management as monitoring improves.
-
-### 7. A worked accounting example
-
-```text
-100,000 ha planning domain
-
-anticipated loss:
-2,000 ha cropland with falling productivity
-
-planned gains:
-1,200 ha degraded cropland restored
-1,000 ha native grassland converted to plantation
-
-Arithmetic area gain = 2,200 ha
-LDN conclusion = NOT automatic
-
-Why?
-- grassland-to-plantation may be non-equivalent
-- soil carbon and productivity trends are unknown
-- local access and water impacts are untested
-- time lag and restoration failure risk remain
-```
-
-### 8. Criticism and reply
+### 6. Criticism and reply
 
 **Criticism:** One-out-all-out overstates degradation and can be distorted by noisy data.
 
-**Reply:** It is deliberately conservative and should be combined with significance tests,
-additional indicators and local interpretation. The residual issue is the trade-off between
-global comparability and locally meaningful ecological detail.
+**Reply:** The rule is deliberately precautionary, but only significant negative change
+counts. Data quality and national interpretation remain necessary. The residual trade-off is
+between global comparability and locally meaningful ecological detail.
 
 ### UPSC integration
 
 - Name all three minimum indicators.
-- Explain the integration rule accurately.
-- Add like-for-like, timeframe, leakage and local validation.
+- State the exact indicator name and area formula.
+- Explain one-out-all-out accurately.
+- Distinguish the conceptual LDN baseline from the SDG reporting baseline.
 
 ### Revision notes
 
@@ -1761,13 +1781,13 @@ global comparability and locally meaningful ecological detail.
 3. Soil organic carbon is the carbon-stock proxy.
 4. One significant negative indicator creates a loss classification.
 5. A gain needs a positive indicator and no negative indicator.
-6. Significance and uncertainty still matter.
-7. Additional national and local indicators are encouraged.
-8. Biodiversity and tenure cannot be fully inferred from the minimum set.
-9. Losses and gains must be assessed over the same timeframe.
-10. Leakage can shift degradation outside the project boundary.
-11. Conservative accounting is appropriate where recovery is uncertain.
-12. Monitoring should support learning and adaptive management.
+6. SDG 15.3.1 is degraded land area divided by total land area.
+7. It is not an arithmetic average of the three sub-indicators.
+8. Significance, data quality and national interpretation still matter.
+9. Additional evidence is needed for water, biodiversity, erosion and social outcomes.
+10. Greenness alone does not prove ecological recovery.
+11. The conceptual LDN baseline and statistical SDG reporting baseline are distinct.
+12. Technical periods, leakage, uncertainty and counterbalancing safeguards belong to the optional advanced block.
 
 ### Concept check
 
@@ -1779,34 +1799,34 @@ global comparability and locally meaningful ecological detail.
 
 ### Original Mains practice
 
-**Question (10 marks, 150 words):** Explain the indicator and accounting safeguards required for credible Land Degradation Neutrality.
+**Question (10 marks, 150 words):** Explain SDG indicator 15.3.1 and the one-out-all-out method used to derive it.
 
-#### Model response (142 words)
+#### Model response (145 words)
 
-Credible LDN begins with a dated baseline and a specified planning scale. Its minimum
-dashboard comprises land-cover change, land productivity and soil organic carbon. Under the
-one-out-all-out rule, significant negative change in any one indicates loss; gain requires
-at least one positive change and no negative change in the others.
+SDG indicator 15.3.1 is the proportion of land that is degraded over total land area. Its
+minimum evidence base contains three sub-indicators: land-cover change, land-productivity
+dynamics and soil-organic-carbon stock.
 
-These indicators need safeguards. Losses and gains should be assessed over the same
-timeframe and, as far as possible, counterbalanced like for like within the same
-ecosystem-based land type. Monitoring should test leakage, time lags and reversal risk.
-Satellite trends require soil, water and biodiversity evidence plus local interpretation.
-Tenure security, livelihood access and gendered benefit distribution should supplement the
-biophysical dashboard.
+Each land unit is assessed for significant change. Under the one-out-all-out method, a
+significant negative result in any one sub-indicator classifies that unit as degraded. A gain
+requires at least one significant positive change and no significant negative result in the
+others. Stable results indicate no significant change.
 
-Uncertainty must be disclosed and handled conservatively. Thus LDN credibility comes not
-from balancing gross hectares but from comparable indicators, ecological equivalence,
-rights protection and adaptive verification of lasting function.
+The national indicator is then calculated as degraded land area divided by total land area,
+multiplied by 100. The rule is precautionary, but it does not treat every small fluctuation as
+degradation: significance, data quality and national interpretation remain necessary.
+
+The three indicators are a common minimum, not a complete ecosystem account. Water,
+biodiversity, erosion, salinity and social evidence may be needed to interpret the result.
 
 #### Quantified rubric — 10 marks
 
 | Accounting safeguard | Marks |
 |---|---:|
-| Baseline and scale | 2 |
-| Three indicators and rule | 3 |
-| Like-for-like/time/leakage | 3 |
-| Social and uncertainty safeguards | 2 |
+| Exact indicator name and formula | 2 |
+| Three sub-indicators | 3 |
+| One-out-all-out logic | 3 |
+| Significance and interpretation qualification | 2 |
 
 ---
 
@@ -1815,7 +1835,7 @@ rights protection and adaptive verification of lasting function.
 Progress: 11 / 15 | Stage: Core | Subtopic: Restoration, rehabilitation, reclamation and afforestation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Restoration-continuum and dryland ecology guidance queried
+Book context: not available — canonical Markdown and official FAO restoration guidance were used
 CA search: "official restoration rehabilitation reclamation afforestation degraded land distinctions"
 CA found: No separate current-affairs linkage; the lesson establishes an operational vocabulary
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1985,7 +2005,7 @@ all interventions as hectares "restored."
 Progress: 12 / 15 | Stage: Core | Subtopic: Drought resilience, watershed management, agroforestry and farm systems
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Watershed, dryland-farming and agroforestry material queried
+Book context: not available — canonical Markdown and official Department of Land Resources guidance were used
 CA search: "official India watershed dryland restoration agroforestry drought resilience"
 CA found: No separate current-affairs linkage; current programme status is consolidated in Lesson 14
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2154,7 +2174,7 @@ household equity.
 Progress: 13 / 15 | Stage: Core | Subtopic: Pastoralism, community institutions, tenure and gender
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Dryland pastoral and tenure guidance queried
+Book context: not available — canonical Markdown and official FAO-UNCCD tenure guidance were used
 CA search: "official pastoral mobility tenure gender rangeland restoration"
 CA found: No separate current-affairs linkage; the dated COP17 development is reserved for Lesson 15
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2326,9 +2346,9 @@ rights and equitable authority.
 Progress: 14 / 15 | Stage: Core | Subtopic: Commitments, National Action Plan, programmes and official status
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India's 2023 plan, watershed framework and official status queried
-CA search: "official India land restoration status programmes 3 October 2026"
-CA found: No separate current-affairs linkage; dated official status is treated as a policy docket
+Book context: not available — official MoEFCC NAP, ISRO-SAC Atlas, DoLR and PIB sources were used
+CA search: "official India NAP 2001 2023 Desertification Cell Bonn Challenge progress report 17 June 2026"
+CA found: PIB, 17 June 2026 — 21.76 Mha reported under restoration efforts and Second Bonn Challenge Progress Report (2011–2020) released
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: commitment must travel through programmes to measured land condition
@@ -2337,7 +2357,13 @@ CA found: No separate current-affairs linkage; dated official status is treated 
 26 Mha restoration ambition by 2030
               |
               v
-National Action Plan to Combat Desertification and Land Degradation
+2001 National Action Plan
+              |
+              v
+2023 updated plan through forestry interventions
+              |
+              +--> MoEFCC Desertification Cell: UNCCD reporting nodal cell
+              +--> DoLR: WDC-PMKSY and land-resource implementation
               |
               +--> WDC-PMKSY: watershed and rainfed/degraded land
               +--> Green India Mission: landscape greening/restoration
@@ -2360,12 +2386,12 @@ of degraded and deforested land to be brought under restoration by 2030. The com
 also framed through the Bonn Challenge. It is a restoration ambition, not proof that India
 has already achieved Land Degradation Neutrality.
 
-### 2. The 2023 National Action Plan
+### 2. The 2001–2023 National Action Plan chronology
 
+India prepared its original National Action Plan to Combat Desertification in **2001**.
 MoEFCC's **National Action Plan to Combat Desertification and Land Degradation through
-Forestry Interventions, 2023** updates the earlier plan and connects the 26-million-hectare
-goal, South-South cooperation and India's additional forest-and-tree-cover carbon-sink
-commitment.
+Forestry Interventions, 2023** updates that plan and connects the 26-million-hectare goal,
+South-South cooperation and India's additional forest-and-tree-cover carbon-sink commitment.
 
 Its valuable design features include:
 
@@ -2379,14 +2405,25 @@ Its valuable design features include:
 Its title also signals a limitation: forestry interventions are important, but India's land
 agenda also depends on agriculture, water, rangelands, mining and tenure institutions.
 
-### 3. Watershed Development Component of PMKSY
+### 3. Who coordinates and who implements?
+
+The **MoEFCC Desertification Cell** is the nodal cell for reporting to the UNCCD. It supports
+inter-ministerial coordination, capacity and knowledge sharing. The **Department of Land
+Resources (DoLR)** is a major programme implementer through watershed and land-resource
+measures, especially WDC-PMKSY. DoLR is not the UNCCD national reporting focal cell.
+
+Space Applications Centre, ISRO supplies national atlas evidence. ICFRE supports forestry and
+restoration knowledge and helped refine the updated plan. These roles overlap in purpose but
+are not institutionally interchangeable.
+
+### 4. Watershed Development Component of PMKSY
 
 WDC-PMKSY seeks to improve the productive potential of rainfed and degraded land through
 integrated watershed management, strengthen community institutions and promote livelihoods.
 Version 2.0 emphasises water productivity, biological measures, crop diversification,
 integrated farming, climate adaptation, decentralisation and springshed treatment.
 
-### 4. Other programme channels
+### 5. Other programme channels
 
 | Channel | Relevant contribution | Main caution |
 |---|---|---|
@@ -2397,33 +2434,33 @@ integrated farming, climate adaptation, decentralisation and springshed treatmen
 | Joint Forest Management | community-linked forest management | nominal committee coverage is not equal power |
 | Aravalli Green Wall | landscape-level restoration platform | corridor ecology, native systems and water need scrutiny |
 
-### 5. Official status available by 3 October 2026
+### 6. Official status available by 5 October 2026
 
-PIB reported on **17 June 2026** that:
+PIB reported on **17 June 2026** that **21.76 million hectares** had been brought under
+restoration efforts against the 26-million-hectare 2030 ambition. At the same event, MoEFCC
+released India's **Second Progress Report on the Bonn Challenge (2011–2020)**.
 
-- **21.76 million hectares** had been brought under restoration efforts against the
-  26-million-hectare 2030 target;
-- restoration activities had generated about **1.22 billion person-days** of employment;
-- more than **27 million hectares** had been treated under the Watershed Development
-  Component of PMKSY, with over **61.3 million** geo-tagged natural-resource-management
-  assets;
-- Green India Mission activity covered about **1.7 lakh hectares**;
-- CAMPA-supported afforestation covered about **3.20 lakh hectares** during the preceding
-  five years;
-- more than **1.21 lakh hectares** had been brought under agroforestry and nearly
-  **60,000 hectares** under bamboo plantations outside forests.
+The safest citation is therefore:
 
-These are official programme and restoration-effort figures. They should not be added
-together: periods, boundaries and activities overlap. Nor should "under restoration
-efforts" be rewritten as independently verified ecological recovery.
+```text
+PIB statement date: 17 June 2026
+underlying progress-report window: 2011–2020
+status phrase: under restoration efforts
+not: a fresh 2026 land-condition measurement
+not: independently verified LDN achievement
+```
 
-### 6. Mapping platforms and monitoring
+The same release contains programme-specific area, asset and employment figures. Those
+technical figures use different boundaries and periods and are reconciled only in the
+optional advanced lesson.
 
-Bhuvan, VEDAS and Yuktdhara can support geo-tagging, planning and spatial monitoring.
-Their value increases when programme records are connected to the ISRO-SAC degradation
-baseline, field indicators and repeated outcomes.
+### 7. Basic monitoring rule
 
-### 7. The target-status-outcome firewall
+Bhuvan, VEDAS and Yuktdhara can support planning and spatial monitoring, but a platform or
+geo-tagged asset remains an output. It becomes evidence of restoration only when connected to
+a dated baseline and repeated land-condition outcomes.
+
+### 8. The target-status-outcome firewall
 
 ```text
 commitment announced
@@ -2434,7 +2471,7 @@ commitment announced
       ≠ durable LDN gain
 ```
 
-### 8. Criticism and reply
+### 9. Criticism and reply
 
 **Criticism:** Convergence merely aggregates overlapping scheme numbers.
 
@@ -2446,32 +2483,33 @@ ledger matching every claimed hectare to lasting function.
 ### UPSC integration
 
 - Cite 26 million hectares as the 2030 ambition.
-- Cite 21.76 million hectares as area under restoration efforts reported on 17 June 2026.
-- Never sum overlapping scheme numbers or equate them with LDN achievement.
+- Cite 21.76 million hectares only as “under restoration efforts”, reported on 17 June 2026
+  in the context of the Second Bonn Challenge Progress Report (2011–2020).
+- Distinguish MoEFCC's reporting/focal role from DoLR's programme-implementation role.
 
 ### Revision notes
 
 1. India raised its 2030 restoration ambition to 26 million hectares at COP14.
-2. The 2023 National Action Plan emphasises forestry interventions and convergence.
-3. Landscape and micro-ecosystem planning are part of the plan.
-4. WDC-PMKSY targets productive potential of rainfed/degraded land.
-5. Version 2.0 stresses biological measures and water productivity.
-6. GIM, CAMPA, agroforestry and soil programmes contribute through different channels.
-7. PIB reported 21.76 million hectares under restoration efforts on 17 June 2026.
-8. The phrase does not prove independently verified ecological recovery.
-9. More than 27 million hectares treated under watershed programmes is not additive to 21.76 million.
-10. Geo-tagged assets are outputs, not land-condition outcomes.
-11. Bhuvan, VEDAS and Yuktdhara support spatial planning and monitoring.
-12. A common baseline and de-duplication are necessary for convergence.
-13. India still requires sectoral coordination beyond forestry.
+2. India's original National Action Plan dates to 2001.
+3. The 2023 plan updates it through a forestry-intervention and convergence lens.
+4. Landscape and micro-ecosystem planning are part of the updated plan.
+5. MoEFCC's Desertification Cell is the UNCCD reporting nodal cell.
+6. DoLR is a major implementer through WDC-PMKSY and land-resource programmes.
+7. WDC-PMKSY 2.0 stresses biological measures and water productivity.
+8. GIM, CAMPA, agroforestry and soil programmes contribute through different channels.
+9. PIB reported 21.76 million hectares under restoration efforts on 17 June 2026.
+10. The associated Second Bonn Challenge Progress Report covers 2011–2020.
+11. “Under restoration efforts” does not prove independently verified ecological recovery.
+12. Geo-tagged assets and platforms are outputs or tools, not land-condition outcomes.
+13. India still requires coordination beyond forestry.
 
 ### Concept check
 
-**Question:** Why must the reported 21.76 million hectares under restoration efforts not be added to the more than 27 million hectares treated under watershed programmes?
+**Question:** Why must the 21.76-million-hectare figure not be presented as freshly verified 2026 ecological recovery?
 
-**Model answer:** The figures use different programme boundaries, periods and concepts, and likely overlap spatially. Adding them would double count activity. Neither figure alone proves durable ecological recovery or net LDN gain.
+**Model answer:** PIB reported the figure on 17 June 2026 as land “under restoration efforts” while releasing the Second Bonn Challenge Progress Report for 2011–2020. It is programme/restoration reporting, not a new 2026 ISRO measurement or independent verification of durable land function.
 
-**Misconception to avoid:** Every official hectare figure belongs to one mutually exclusive national total.
+**Misconception to avoid:** A recent press-release date automatically makes the underlying measurement period 2026.
 
 ### Original Mains practice
 
@@ -2480,11 +2518,14 @@ ledger matching every claimed hectare to lasting function.
 #### Model response (220 words)
 
 India's architecture combines an international restoration ambition with domestic
-programmes. The 26-million-hectare target for 2030 is supported by the 2023 National Action
-Plan, WDC-PMKSY, Green India Mission, CAMPA, agroforestry, soil-health measures and landscape
-initiatives. ISRO-SAC mapping, Bhuvan, VEDAS and Yuktdhara provide a strong geospatial base.
-PIB reported 21.76 million hectares under restoration efforts by 17 June 2026, alongside
-substantial watershed treatment and employment.
+programmes. The 26-million-hectare target for 2030 is supported by India's 2001 National
+Action Plan and its updated 2023 forestry-intervention plan, WDC-PMKSY, Green India Mission,
+CAMPA, agroforestry and soil measures. The MoEFCC Desertification Cell coordinates UNCCD
+reporting, while DoLR implements major watershed measures and ISRO-SAC supplies atlas evidence.
+
+PIB reported 21.76 million hectares under restoration efforts on 17 June 2026 while releasing
+the Second Bonn Challenge Progress Report for 2011–2020. The figure is therefore an official
+effort/status claim, not a newly measured 2026 ecological outcome.
 
 The architecture's strength is convergence: soil, water, vegetation and livelihoods can be
 treated at landscape scale. Its weakness is metric fragmentation. Programme hectares
@@ -2492,13 +2533,10 @@ overlap, geo-tagged assets measure outputs, and planting does not establish soil
 native biodiversity, water sustainability or tenure justice. A forestry-heavy approach can
 also misclassify grasslands and rangelands.
 
-Credibility requires a national spatial ledger linking each claimed area to a dated
-baseline, intervention, land type and financing source. Duplicate claims should be removed.
-Monitoring should combine land cover, productivity and soil carbon with erosion, salinity,
-water, biodiversity and livelihood indicators. Open Natural Ecosystems need biome-specific
-standards. Gram-level users, pastoralists and women should participate before land
-allocation, with legitimate tenure protected. Independent sample audits and public
-dashboards should report maintenance, reversal and drought performance.
+Credibility requires common baselines, removal of duplicate claims and biome-fit standards.
+Open Natural Ecosystems must not be treated as plantation blanks. Local users, pastoralists
+and women should participate before land allocation, while monitoring should test soil,
+water, native vegetation, productive stability and rights.
 
 India has substantial programmes and scientific capability. Meeting a hectare ambition,
 however, should be treated as an intermediate milestone; success is durable recovery of
@@ -2516,17 +2554,17 @@ land function and equitable livelihood resilience.
 
 # OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-The core answer is complete. This final lesson adds economic appraisal, monitoring design
-and the single current-affairs linkage for higher-order evaluation.
+The core answer is complete. This final lesson adds economic appraisal, technical monitoring
+and one bounded current-affairs synthesis for higher-order evaluation.
 
 ## Lesson 15 — Design policy around avoided loss, credible evidence and rights
 
-Progress: 15 / 15 | Stage: Advanced | Subtopic: Economics, remote sensing, COP17 and reform design
+Progress: 15 / 15 | Stage: Advanced | Subtopic: Economics, technical monitoring, COP17, drought and implementation cases
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Economics, monitoring and governance evidence queried
-CA search: "official UNCCD COP17 outcomes drought rangelands pastoralists August 2026"
-CA found: UNCCD COP17, Ulaanbaatar, 17–28 August 2026 — drought remained under negotiation while rangelands and pastoralists gained stronger institutional focus
+Book context: not available — official UNCCD/PRAIS/COP17/FAO sources were used
+CA search: "official final UNCCD COP17 decisions 6 12 16 20 drought rangelands Great Green Wall review 2026"
+CA found: Final COP17 action report, 28 August 2026 — Decisions 6, 12, 16 and 20/COP.17; 2026 Great Green Wall review adds qualified implementation status
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a reform test from first principle to correction
@@ -2587,7 +2625,7 @@ CBD. Slow-onset, spatially diffuse land decline is often misframed as a local ag
 problem even though it affects food, water, biodiversity, carbon storage and displacement.
 This is an implementation constraint, not a legal ranking among the Rio Conventions.
 
-### 4. Monitoring architecture
+### 4. Technical monitoring and SDG reporting architecture
 
 ```text
 satellite: coverage, trend, conversion, spatial targeting
@@ -2600,14 +2638,58 @@ audit: de-duplication, counterfactual, permanence and distribution
 No layer substitutes for the others. Open data enable scrutiny, but privacy and community
 consent matter for household and tenure information.
 
-### 5. Exactly one current-affairs linkage — UNCCD COP17
+For **SDG indicator 15.3.1**, the statistical baseline period is **2000–2015**. This is
+different from the conceptual LDN principle that the target equals land-based natural capital
+at implementation. The 2026 PRAIS cycle assesses **2016–2023** and requires recalculation of
+the baseline and 2019 estimates where necessary for methodological consistency.
+
+The minimum dashboard is not maximum knowledge. National interpretation may add erosion,
+salinity, water, biodiversity, forage, tenure and distributional indicators. Losses and gains
+must share a timeframe; protection in one place must not displace degradation elsewhere; and
+uncertainty should produce conservative, revisable decisions.
+
+Remote-sensing diagnosis needs:
+
+- consistent classification and comparable spatial units;
+- multi-year trends and rainfall/land-use context;
+- soil and groundwater sampling where required;
+- local evidence on grazing, fire, tenure and management;
+- protection against misclassifying natural open ecosystems as empty “wasteland”.
+
+```text
+100,000 ha planning domain
+loss signal: 2,000 ha cropland with falling productivity
+claimed gains: 1,200 ha cropland recovery + 1,000 ha grassland plantation
+
+gross area arithmetic says 2,200 ha gain
+LDN conclusion remains open because:
+land types differ + indicators incomplete + time lag + rights/water effects untested
+```
+
+### 5. India: reconcile programme reporting before claiming outcome
+
+The 17 June 2026 PIB release reported several programme outputs:
+
+- about **1.22 billion person-days** associated with restoration activities;
+- more than **27 million hectares** treated under WDC-PMKSY;
+- over **61.3 million** geo-tagged natural-resource-management assets;
+- around **1.7 lakh hectares** under Green India Mission activity;
+- around **3.20 lakh hectares** of CAMPA-supported afforestation during the preceding
+  five years;
+- more than **1.21 lakh hectares** under agroforestry and nearly **60,000 hectares** under
+  bamboo plantations outside forests.
+
+These values are not mutually exclusive national restoration totals. A defensible spatial
+ledger records land type, baseline, programme, period, activity, finance and repeated outcome,
+then removes overlap. The 21.76-million-hectare figure remains tied to the Second Bonn
+Challenge Progress Report's **2011–2020** window and the phrase “under restoration efforts”.
+
+### 6. Current-affairs synthesis — final COP17 decisions and drought architecture
 
 UNCCD COP17 met in **Ulaanbaatar, Mongolia, from 17 to 28 August 2026**, bringing together the
 Convention's **197 Parties** against the background of UNCCD's estimate that **up to 40% of
-the world's land is degraded**. The drought negotiation inherited unfinished work from COP16
-in Riyadh, which had advanced the global drought discussion and launched the Riyadh Global
-Drought Resilience Partnership without creating a binding drought treaty. Two COP17 outcomes
-sharpen this topic.
+the world's land is degraded**. The final action report is
+`ICCD/COP(17)/14/Add.1`; the earlier L-documents are not the controlling final citations.
 
 The official UNCCD Finance Day background restated the Financial Needs Assessment launched at
 COP16: approximately **USD 355 billion is required every year from 2025 to 2030** to meet
@@ -2616,15 +2698,40 @@ Estimated annual investment is about **USD 77 billion**, leaving an annual gap o
 **USD 278 billion**. These are rounded global annual estimates, not cumulative six-year
 totals, COP17 pledges or verified disbursements.
 
-First, the drought decision continued discussions to COP18 with a view to a decision on
-proactive drought management. It made drought a stand-alone agenda item at COP18 and each
-ordinary COP thereafter, and requested continued support and consultations by the
-Secretariat and Global Mechanism. Therefore COP17 did **not** create a completed binding
-global drought protocol.
+Four adopted decisions control the current status:
 
-Second, the rangelands decision recognised pastoralists as stewards, pastoral mobility as a
-resilience strategy, the value of collectively managed pastoral commons and the importance
-of women, youth, Indigenous Peoples and local communities. The Rangelands Flagship
+1. **Decision 6/COP.17:** renewed the future-strategy working group for 2026–2028; the
+   2018–2030 Strategic Framework remains in force while a post-2030 proposal is prepared for
+   COP18.
+2. **Decision 12/COP.17:** encouraged avoid–reduce–reverse for agricultural lands and soils.
+3. **Decision 16/COP.17:** continued drought discussions to COP18, made drought a stand-alone
+   agenda item at COP18 and each ordinary COP thereafter, and requested continued Secretariat
+   and Global Mechanism support. It did **not** create a binding global drought protocol.
+4. **Decision 20/COP.17:** recognized pastoral stewardship, mobility where appropriate,
+   collectively managed commons, tenure security and inclusive rangeland governance.
+
+The wider drought architecture is proactive rather than relief-only:
+
+```text
+NATIONAL DROUGHT PLANS
+        |
+        +--> Drought Toolbox pillar 1: monitoring and early warning
+        +--> Drought Toolbox pillar 2: vulnerability and risk assessment
+        `--> Drought Toolbox pillar 3: risk mitigation measures
+
+Intergovernmental Working Group on Drought
+        -> 2019–2022 group
+        -> 2022–2024 group evaluated global policy instruments
+        -> COP16 disagreement
+        -> Decision 16/COP.17 continues discussion to COP18
+```
+
+The International Drought Resilience Alliance and Riyadh Global Drought Resilience
+Partnership are cooperation and finance channels, not treaty protocols.
+
+The rangelands decision recognized pastoralists as stewards, pastoral mobility as a
+resilience strategy where appropriate, collectively managed pastoral commons and the
+importance of women, youth, Indigenous Peoples and local communities. The Rangelands Flagship
 Initiative organised work around knowledge, investment and institutions. At its launch, FAO
 Deputy Director-General Beth Bechdol stated in FAO's official COP17 report: "Restoration
 cannot simply mean making degraded land green again. What grows matters." She added that the
@@ -2641,7 +2748,27 @@ that every grazing system is sustainable.
 drought governance, rangeland quality, mobility and institutional rights. It does not remove
 the need to verify national implementation.
 
-### 6. A reform package for India
+### 7. Great Green Wall: technical status caution
+
+The initiative's AU leadership, 11-country founding spine, 22-country implementation,
+156-million-hectare scope, 2024 continental expansion and 2030 ambitions were established in
+Lesson 7. The advanced question is how much of the current progress evidence is comparable
+and validated.
+
+The UNCCD's 2026 five-year Accelerator review reports, as of **31 December 2025**:
+
+| Indicator | Reported value | Status caution |
+|---|---:|---|
+| hectares under restoration | 1.66 million | not a complete initiative-wide total |
+| jobs created | 4.6 million | reported project data |
+| carbon sequestered | 24 million tonnes CO2-equivalent | harmonized reported data |
+
+The review identified **389 projects**, but fewer than **90** had relevant data in the
+harmonized reporting structure. It calls for fuller reporting and national validation.
+Do not combine these figures with older headline estimates as if methods and coverage were
+identical.
+
+### 8. A reform package for India
 
 1. **Prevention screen:** require an avoid-degradation analysis before approving offsets or
    restoration compensation.
@@ -2655,7 +2782,7 @@ the need to verify national implementation.
 7. **Independent sampling:** audit reported gains through field and social evidence.
 8. **Adaptive release:** continue finance only when monitoring supports correction.
 
-### 7. Strongest objection and reply
+### 9. Strongest objection and reply
 
 **Objection:** A multidimensional system is too expensive and slow for national scale.
 
@@ -2667,7 +2794,9 @@ measurement is impossible; decisions must remain conservative and revisable.
 ### UPSC integration
 
 - Use prevention economics before discussing restoration finance.
-- Present COP17 as one dated linkage, with both its decision and its limit.
+- Cite final COP17 decision numbers, not draft L-document labels.
+- Distinguish LDN conceptual baseline from the 2000–2015 SDG reporting baseline.
+- Treat Great Green Wall progress as incomplete reported data, not a verified total.
 - End reforms with measurable, rights-sensitive adaptive governance.
 
 ### Revision notes
@@ -2675,22 +2804,18 @@ measurement is impossible; decisions must remain conservative and revisable.
 1. Avoided degradation usually has lower ecological and financial risk than restoration.
 2. Cost per hectare cannot compare unlike ecosystem outcomes.
 3. Maintenance and reversal risk belong in project economics.
-4. Satellite, field, hydrological and social monitoring are complementary.
-5. Open data need privacy and consent safeguards.
-6. COP17 met in Ulaanbaatar from 17–28 August 2026; the Convention has 197 Parties and
-   frames up to 40% of global land as degraded.
-7. COP16 Riyadh advanced drought talks and launched a resilience partnership; COP17 still
-   did not adopt a binding drought protocol.
-8. Drought becomes a stand-alone item at COP18 and later ordinary COPs.
-9. The 2026 International Year highlighted rangelands' global extent, about 500 million
-   pastoral livelihoods and their contribution to up to one-sixth of humanity's nutrition.
-10. COP17 recognised pastoral stewardship, mobility and collective commons.
-11. The Rangelands Flagship Initiative has knowledge, investment and institutional components.
-12. Vegetation quality matters more than cosmetic greening.
-13. India needs biome-fit classification and a unified spatial ledger.
+4. The SDG 15.3.1 baseline is 2000–2015; the 2026 assessment period is 2016–2023.
+5. Satellite, field, hydrological and social monitoring are complementary.
+6. Timeframe, leakage, uncertainty and additional indicators qualify gross area accounting.
+7. COP17 decisions 6, 12, 16 and 20/COP.17 control strategy, agricultural land, drought and rangelands.
+8. National Drought Plans and the three-pillar Drought Toolbox support proactive management.
+9. COP17 did not adopt a binding drought protocol.
+10. Decision 20/COP.17 recognized pastoral stewardship, mobility and collective commons.
+11. Great Green Wall scope is continental landscape development, not a continuous tree belt.
+12. Its 2026 review figures cover fewer than 90 of 389 projects and need fuller validation.
+13. India needs biome-fit classification and a de-duplicated spatial ledger.
 14. Tiered monitoring can control cost without abandoning verification.
-15. Global annual need for 2025–2030 is about USD 355 billion, against about USD 77 billion
-    invested and an annual gap of about USD 278 billion; these are estimates, not COP17 pledges.
+15. Annual global need, investment and gap estimates are USD 355, 77 and 278 billion respectively; they are not COP17 pledges.
 
 ### Concept check
 
@@ -2765,7 +2890,7 @@ elimination cue or solved PYQ model is embedded in the neutral question set.
 
 ### 2020 GS-I, Question 5 — 10 marks, 150 words
 
-> The process of desertification does not have climate boundaries. Justify with examples.
+> The process of desertification does not have climatic boundaries. Justify with examples.
 
 ### 2024 Essay, Section A, Topic 1 — 125 marks, about 1000–1200 words
 
@@ -2786,12 +2911,40 @@ elimination cue or solved PYQ model is embedded in the neutral question set.
 
 ## Ownership and provenance control
 
-- The 2018 objective question is routed in the audited central Prelims ledger; the live
-  session preserves its exact neutral wording and does not display a key.
-- The 2020 question is routed to this topic in the audited central GS-I ledger.
-- The 2024 essay wording was checked against the locally held official UPSC Essay paper.
-- The 2026 question is recorded in the repository's GS-I 2026 official-paper routing file.
+- Official UPSC archive: <https://upsc.gov.in/examinations/previous-question-papers>.
+- The 2018 objective question is directly owned by Environment and Ecology Topic 23. Exact
+  wording was checked at `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF page 35,
+  against the scan-reconciled central Prelims ledger. The live session does not display its
+  answer key.
+- The 2020 question is directly owned by Environment and Ecology Topic 23. Exact wording,
+  marks and limit were checked at `books\more_previous_papers\Gen_St_P1.pdf`, PDF page 2,
+  and the official-source transcription `knowledge-export\Mains PYQ\Gen_St_P1.pdf.md`.
+- The 2024 prompt is **Essay-primary**; Topic 23 supplies a land-degradation support route.
+  Exact wording was checked at `books\mains\UPSC Mains 2024 Essay Paper.pdf`, PDF page 2.
+- The 2026 question is **Geography-primary** under
+  `Geography\basic\07_Arid-Desert-Landforms.md`; Environment Topic 23 is the support owner.
+  Exact wording, marks and limit were checked at
+  `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`, PDF page 2, with
+  repository OCR control at
+  `knowledge-export\Mains PYQ\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf.md`.
 - No solved PYQ answer is supplied here; the table gives demand and route only.
+
+### Cross-topic ownership boundaries
+
+- **Topic 23 owns:** UNCCD treaty architecture, LDN, SDG 15.3.1, India's DLD atlas, national
+  restoration governance and the land-condition meaning of drought and restoration.
+- **Geography Topic 07 owns:** aeolian geomorphology, arid landforms and the physical-process
+  core of the 2026 GS-I question.
+- **Disaster Management Topic 09 owns:** drought hazard typology, declaration, relief,
+  disaster institutions and the wider slow-onset-risk architecture. Topic 23 owns the UNCCD
+  drought-policy link and land-resilience implications.
+- **Environment Topic 12 owns:** forest law, CAMPA, Green India Mission and forest-governance
+  detail. Topic 23 uses them only as restoration channels and non-equivalence comparisons.
+- **Agriculture/Economy owners retain:** crop, irrigation, soil-input and farm-policy detail.
+  Topic 23 owns their land-degradation mechanisms and UNCCD linkage.
+- **Climate and biodiversity owners retain:** UNFCCC/NDC/carbon accounting and complete
+  biodiversity doctrine. Topic 23 uses climate and biodiversity as drivers, co-benefits and
+  safeguards without duplicating their specialist architecture.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -2801,7 +2954,8 @@ elimination cue or solved PYQ model is embedded in the neutral question set.
 
 **Model answer:** Aridity is a long-term climatic condition; drought is an abnormal
 precipitation deficit causing hydrological imbalance; desertification is land degradation
-in drylands caused by climatic variations and human activities.
+in drylands resulting from various factors, including climatic variations and human
+activities, without a mandatory dual-cause test.
 
 ## Check 2 — Process diagnosis
 
@@ -2867,7 +3021,7 @@ global drought protocol.
 **Question:** Why is the avoid–reduce–reverse hierarchy superior to a restoration-first
 approach to land degradation?
 
-**Model answer:** The avoid–reduce–reverse hierarchy recognises that intact ecological
+**Model answer (136 words):** The avoid–reduce–reverse hierarchy recognises that intact ecological
 function is easier and cheaper to conserve than to recreate. Avoidance protects soil depth,
 hydrology, native biodiversity, carbon and existing livelihood relations without a
 restoration time lag. Reduction then limits ongoing pressures through sustainable land,
@@ -2892,7 +3046,7 @@ non-equivalence and risk 3; safeguards and verdict 2.
 **Question:** "India's land-degradation challenge is spatially diverse but institutionally
 fragmented." Analyse.
 
-**Model answer:** India's degradation is not one expanding desert. The ISRO-SAC atlas for
+**Model answer (196 words):** India's degradation is not one expanding desert. The ISRO-SAC atlas for
 2018–19 mapped 97.85 million hectares, or 29.77% of national area, under
 desertification/land degradation. Water erosion affected 11.01% of total geographical area,
 vegetation degradation 9.15% and wind erosion 5.46%. Wind dominates the arid region, while
@@ -2921,15 +3075,15 @@ fragmentation 3; integrated reforms 4; synthesis 1.
 **Question:** Critically examine Land Degradation Neutrality as a framework for reconciling
 development, ecosystem recovery and livelihood justice.
 
-**Model answer:** LDN seeks to keep stable or increase the amount and quality of land
-resources needed for ecosystem functions, services and food security within defined scales
-and timeframes. It reconciles development and conservation by making the baseline a minimum
-target and requiring anticipated losses to be counterbalanced by planned gains.
+**Model answer (201 words):** LDN seeks to keep stable or increase the amount and quality of land resources
+needed for ecosystem functions, services and food security within defined scales and
+timeframes. The baseline becomes the minimum target.
 
 Its strongest safeguard is the response hierarchy: avoid new degradation, reduce ongoing
-decline and reverse past damage. The three minimum indicators—land cover, productivity and
-soil organic carbon—create a common monitoring base, while the one-out-all-out rule prevents
-one improvement from masking another significant loss.
+decline and reverse past damage. Only residual anticipated losses after avoidance and
+reduction should enter constrained counterbalancing with planned gains. The three minimum
+indicators—land cover, productivity and soil organic carbon—create a common monitoring base,
+while one-out-all-out prevents one improvement from masking another significant loss.
 
 Yet neutrality can become an offset fiction. Restoration is delayed and uncertain; equal
 area is not equal function; and national balance can hide destruction of irreplaceable
@@ -2953,6 +3107,7 @@ ecological critique 4; livelihood-justice critique 3; safeguards and verdict 4.
 | desertification = spreading desert | define degradation of productive drylands |
 | drought = desertification | separate precipitation shock from persistent land decline |
 | all dryland is degraded | distinguish natural aridity from deterioration |
+| climate and human activity must both be proved | Article 1 lists various factors, including both classes; it does not impose a dual-cause test |
 | every land-degradation statistic is current | attach atlas edition and mapped timeframe |
 | 29.77% means 2026 condition | state that it maps 2018–19 |
 | largest national contributor = highest State incidence | identify the denominator |
@@ -2961,6 +3116,7 @@ ecological critique 4; livelihood-justice critique 3; safeguards and verdict 4.
 | equal hectares = ecological equivalence | apply like-for-like and function tests |
 | LDN = zero degradation at every site | explain national/subnational balance plus site safeguards |
 | LDN permits offsets first | apply avoid before reduce and reverse |
+| conceptual LDN baseline = SDG reporting baseline | distinguish target-at-implementation from the 2000–2015 statistical baseline |
 | COP decides science, CST reviews compliance | COP decides; CST advises; CRIC reviews |
 | Global Mechanism is an automatic fund | describe resource mobilisation and investment support |
 | watershed = check-dam construction | include ridge, biology, water budgets and institutions |
@@ -2969,6 +3125,8 @@ ecological critique 4; livelihood-justice critique 3; safeguards and verdict 4.
 | programme area = ecological outcome | distinguish target, sanction, activity, output and outcome |
 | official hectares can be summed | test overlap, period and definition |
 | COP17 adopted a global drought treaty | state the continued-negotiation and recurring-agenda outcome |
+| COP17 L-documents are the final citation | cite final Decisions 6, 12, 16 and 20/COP.17 in ICCD/COP(17)/14/Add.1 |
+| Great Green Wall = one continuous tree belt | describe an AU-led landscape and rural-development initiative with incomplete project reporting |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -2979,7 +3137,7 @@ ecological critique 4; livelihood-justice critique 3; safeguards and verdict 4.
 | aridity | long-term moisture deficit relative to atmospheric demand | not an episodic drought |
 | drought | significantly below-normal precipitation causing hydrological imbalance | not automatic permanent degradation |
 | land degradation | decline in productivity, complexity or condition of land | wider policy usage may extend beyond drylands |
-| desertification | land degradation in arid, semi-arid and dry sub-humid areas | not literal desert expansion |
+| desertification | dryland degradation from various factors, including climatic variations and human activities | not literal expansion; no mandatory dual-cause test |
 | LDN | stable or increasing quantity and quality of land-based natural capital | not zero degradation at every location |
 
 ## Master degradation chain
@@ -3036,6 +3194,7 @@ maintain, correct, stop or redesign
 ```text
 COP -------- political decisions and direction
  |\
+ | +------ Strategic Framework -- five objectives through 2030
  | +------ CST -------- science and technology advice
  | +------ CRIC ------- implementation and reporting review
  | +------ Secretariat- convention process and coordination
@@ -3071,7 +3230,8 @@ wind erosion 5.46%
 
 POLICY STATUS REPORTED 17 JUNE 2026
 26 Mha restoration ambition by 2030
-21.76 Mha brought under restoration efforts
+21.76 Mha under restoration efforts
+Second Bonn Challenge Progress Report window = 2011–2020
 
 FIREWALL
 mapped degradation ≠ programme treatment ≠ verified restoration ≠ LDN achievement
@@ -3084,8 +3244,8 @@ mapped degradation ≠ programme treatment ≠ verified restoration ≠ LDN achi
 - **Land:** soil + vegetation + biota + ecological and hydrological processes.
 - **Drylands:** arid, semi-arid and dry sub-humid areas; P/PET ratio 0.05–0.65;
   polar and sub-polar regions excluded.
-- **Desertification:** land degradation in drylands from climatic variations and human
-  activities.
+- **Desertification:** land degradation in drylands resulting from various factors,
+  including climatic variations and human activities; no mandatory dual-cause test.
 - **Drought:** below-normal precipitation causing serious hydrological imbalance.
 - **Trap:** natural desert ≠ degraded land; drought episode ≠ proven desertification.
 - **2020 PYQ qualification:** degrading processes cross popular climatic stereotypes, but
@@ -3128,6 +3288,10 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
 - Relief protects life and assets after impact; resilience lowers prior vulnerability.
 - Core tools: soil cover, infiltration, water budgets, crop/livelihood diversification,
   fodder reserves, contingency plans, social protection and pastoral mobility.
+- UNCCD architecture: National Drought Plans plus Drought Toolbox pillars on early warning,
+  vulnerability/risk assessment and risk mitigation.
+- Intergovernmental working groups examined global policy options; Decision **16/COP.17**
+  continues discussions to COP18 and creates a recurring stand-alone agenda item.
 - Restoration cannot eliminate climate hazard or create unlimited water.
 
 ## India spatial evidence
@@ -3161,6 +3325,17 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
 - **Global Mechanism:** finance and investment mobilisation.
 - **NAP:** national bridge from treaty to implementation.
 
+## UNCCD 2018–2030 Strategic Framework card
+
+- **SO1:** affected ecosystems, DLDD, sustainable land management and LDN.
+- **SO2:** living conditions of affected populations.
+- **SO3:** drought mitigation, adaptation and management.
+- **SO4:** global environmental benefits.
+- **SO5:** financial and non-financial resources and partnerships.
+- Implementation framework: **policy/planning + action on the ground + resources**.
+- Decision **6/COP.17** renewed post-2030 design work for 2026–2028; the current Framework
+  remains operative pending COP18 consideration of a successor proposal.
+
 ## LDN one-page recall
 
 - Definition: land-resource quantity and quality needed for functions, services and food
@@ -3168,11 +3343,15 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
 - SDG target **15.3** calls for restoration and striving for an LDN world by 2030.
 - Baseline = minimum target; net gain may be more ambitious.
 - Hierarchy: **AVOID → REDUCE → REVERSE**.
-- Counterbalance anticipated losses with gains over the same timeframe.
+- Only residual anticipated losses after avoidance/reduction enter counterbalancing.
+- Counterbalance losses and gains over the same timeframe.
 - Prefer **like for like** within the same ecosystem-based land type.
 - Minimum indicators: land cover, productivity, soil organic carbon.
 - One-out-all-out: any significant negative indicator = loss.
 - Gain: at least one positive and none negative.
+- SDG 15.3.1 = degraded land area / total land area × 100.
+- Conceptual LDN baseline ≠ statistical SDG baseline.
+- SDG baseline **2000–2015**; 2026 PRAIS assessment period **2016–2023**.
 - Add water, erosion, salinity, biodiversity, tenure, gender and livelihood indicators.
 - National balance does not erase site-level harm.
 
@@ -3209,26 +3388,30 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
 ## India commitment and status card
 
 - COP14, 2019: ambition raised to **26 Mha by 2030**.
-- 2023 NAP: convergence, landscape and micro-ecosystem planning, prevention and remedial
+- Original National Action Plan: **2001**.
+- Updated 2023 plan: convergence, landscape and micro-ecosystem planning, prevention and remedial
   models, forestry interventions, capacity and monitoring.
+- MoEFCC Desertification Cell = UNCCD reporting nodal cell.
+- DoLR = major watershed/land-resource programme implementer.
 - WDC-PMKSY 2.0: rainfed/degraded land, water productivity, biological treatment, crop
   diversification, integrated farming, institutions and springsheds.
 - PIB, 17 June 2026: **21.76 Mha under restoration efforts**.
+- Associated Second Bonn Challenge Progress Report window: **2011–2020**.
 - Same release: over 27 Mha watershed-treated; 61.3 million geo-tagged NRM assets;
   about 1.7 lakh ha GIM; about 3.20 lakh ha CAMPA-supported afforestation over five years;
   over 1.21 lakh ha agroforestry; nearly 60,000 ha bamboo outside forests.
 - Do not add overlapping programme figures.
 - "Under restoration efforts" ≠ independently verified ecological recovery.
 
-## COP17 single-linkage card
+## COP17 current-affairs synthesis card
 
 - Ulaanbaatar, 17–28 August 2026.
 - 197 Parties; UNCCD frames up to 40% of the world's land as degraded.
-- COP16 Riyadh advanced drought negotiations and launched the Riyadh Global Drought
-  Resilience Partnership but did not complete a binding drought treaty.
-- Drought talks continued to COP18; drought becomes a stand-alone item at COP18 and later
-  ordinary COPs; no completed binding global drought protocol.
-- Rangelands decision recognised pastoral stewardship, mobility, collective commons and
+- **6/COP.17:** post-2030 strategy working group renewed; 2018–2030 Framework remains current.
+- **12/COP.17:** avoid–reduce–reverse encouraged for agricultural lands and soils.
+- **16/COP.17:** drought talks continued to COP18; drought becomes a stand-alone item at COP18
+  and later ordinary COPs; no binding global drought protocol.
+- **20/COP.17:** recognized pastoral stewardship, mobility, collective commons and
   participation of women, youth, Indigenous Peoples and local communities.
 - 2026 IYRP context: rangelands cover about half of global land; pastoralism supports around
   500 million livelihoods; rangelands and pastoralists contribute to nutrition for up to
@@ -3239,6 +3422,17 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
   **USD 77 billion invested annually** and an **annual USD 278 billion gap**.
 - Treat all three as rounded global annual estimates, not cumulative totals, COP17 pledges or
   verified disbursements.
+
+## Great Green Wall status card
+
+- African Union-led since 2007; not a continuous tree belt or binding UNCCD instrument.
+- Original spine: 11 founding/intervention countries and 156 Mha.
+- UNCCD describes 22-country implementation; 2024 AU strategy expands continent-wide while
+  retaining the Sahel foundation and adding a Southern Great Green Wall dimension.
+- 2030 ambitions: 100 Mha restored, 250 Mt carbon sequestered, 10 million green jobs.
+- 2026 review, as of 31 December 2025: 1.66 Mha under restoration, 4.6 million jobs and
+  24 Mt CO2-equivalent reported.
+- Data came from fewer than 90 of 389 projects; fuller national validation remains necessary.
 
 ## Examiner traps
 
@@ -3255,6 +3449,10 @@ yield-forage instability / sediment / biodiversity loss / livelihood stress
 - finance mobilised ≠ finance disbursed ≠ outcome;
 - mobility ≠ unmanaged open access;
 - 2021 atlas publication ≠ 2021 or 2026 measurement;
+- 17 June 2026 press-release date ≠ 2026 measurement window for 21.76 Mha;
+- LDN conceptual baseline ≠ SDG 15.3.1 statistical baseline;
+- draft L-document ≠ final numbered COP decision;
+- Great Green Wall ≠ a continuous wall of trees or fully validated initiative-wide total;
 - current official programme status ≠ LDN achieved.
 
 ## Answer-writing spine
@@ -3302,24 +3500,35 @@ verified land outcomes.
 | impacts, economics, migration and distribution | Lesson 5 | answer spine and conclusion | Lesson 5 model |
 | open ecosystems and afforestation risk | Lessons 5 and 11 | recovery vocabulary; traps | Lessons 5 and 11 checks |
 | India atlas figures and spatial pattern | Lesson 6 | India spatial evidence | Lesson 6 check/model |
-| remote-sensing capabilities and limits | Lessons 6 and 15 | India evidence; answer spine | Lessons 6 and 15 models |
+| basic remote-sensing use and limits | Lesson 6 | India spatial evidence | Lesson 6 check/model |
+| technical remote sensing, uncertainty and multi-layer verification | Lesson 15 | answer spine and advanced cards | Lesson 15 model |
 | UNCCD origin, objective, principles and regional annexes | Lesson 7 | institutional card | Lesson 7 check/model |
+| UNCCD 2018–2030 Strategic Framework and implementation framework | Lesson 7 | Strategic Framework card | Lesson 7 check/model |
+| Decision 6/COP.17 and post-2030 process | Lessons 7 and 15 | Strategic Framework and COP17 cards | Lesson 15 check |
 | COP, CST, CRIC, Secretariat and Global Mechanism | Lesson 8 | institutional card | Lesson 8 check/model |
 | National Action Programmes and participation | Lessons 7–8 | institutional card | Lesson 8 model |
 | LDN definition, SDG 15.3, baseline and hierarchy | Lesson 9 | LDN recall | Lesson 9 check/model; final 10-marker |
-| counterbalancing, like-for-like and safeguards | Lessons 9–10 | LDN recall | Lessons 9–10 checks/models |
-| land cover, productivity, SOC and one-out-all-out | Lesson 10 | LDN recall | Lesson 10 check/model |
+| basic residual counterbalancing guard | Lesson 9 | LDN recall | Lesson 9 check/model |
+| like-for-like, timeframe, leakage and uncertainty safeguards | Lesson 15 | LDN recall and advanced monitoring | final 20-marker |
+| SDG 15.3.1 name, formula, three sub-indicators and one-out-all-out | Lesson 10 | LDN recall | Lesson 10 check/model |
+| 2000–2015 baseline, 2016–2023 assessment and recalculation rule | Lesson 15 | LDN recall | Lesson 15 model |
 | restoration, rehabilitation, reclamation, afforestation | Lesson 11 | recovery vocabulary | Lesson 11 check/model |
 | watershed and drought resilience | Lesson 12 | watershed card | Lesson 12 check/model |
 | agroforestry and dryland farming | Lesson 12 | watershed card | Lesson 12 model |
 | pastoral mobility, commons and rangelands | Lesson 13 | pastoral card | Lesson 13 check/model |
 | tenure, community and gender | Lesson 13 | pastoral card | Lesson 13 model |
-| India 26 Mha commitment and 2023 NAP | Lesson 14 | India status card | Lesson 14 model |
-| WDC-PMKSY, GIM, CAMPA and allied programmes | Lesson 14 | India status card | Lesson 14 check/model |
-| official status as of 3 October 2026 | Lesson 14 | India status card | final 15-marker |
+| India 26 Mha commitment, 2001 NAP and updated 2023 plan | Lesson 14 | India status card | Lesson 14 model |
+| MoEFCC nodal role and DoLR implementation role | Lesson 14 | India status card | Lesson 14 check/model |
+| WDC-PMKSY, GIM, CAMPA and allied programmes | Lessons 14–15 | India status card | Lessons 14–15 models |
+| 21.76 Mha status and 2011–2020 reporting window | Lessons 14–15 | India status card | Lesson 14 check; final 15-marker |
 | prevention economics and monitoring reform | Lesson 15 | answer-writing spine | Lesson 15 check/model; final 20-marker |
 | UNCCD finance need, investment and annual gap | Lesson 15 | COP17 and reform cards | Lesson 15 model/reforms |
-| exactly one current-affairs linkage | Lesson 15, COP17 subsection | COP17 card | Lesson 15 check |
+| National Drought Plans, Drought Toolbox and IWG architecture | Lesson 15 | drought-resilience and COP17 cards | Lesson 15 check |
+| final COP17 Decisions 6, 12, 16 and 20/COP.17 | Lessons 7 and 15 | COP17 card | Lesson 15 check |
+| Great Green Wall scope and 2030 targets | Lesson 7 | Great Green Wall card | Lesson 7 integration |
+| Great Green Wall qualified 2026 review status | Lesson 15 | Great Green Wall card | advanced application |
+| cross-topic ownership boundaries | final PYQ provenance section | PYQ routes and source ledger | demand-approach table |
+| bounded current-affairs synthesis | Lesson 15, COP17/GGW subsections | COP17 and GGW cards | Lesson 15 check |
 | exact neutral PYQs through 2026 | final PYQ question set | PYQ routes in cards/traps | demand-approach table only |
 | 8–15 revision points and one check/model/misconception per lesson | Lessons 1–15 | consolidated cards | lesson-local sections |
 | unique quantified Mains rubrics and model ceilings | Lessons 1–15; final practice | answer spine | all original Mains blocks |
@@ -3331,27 +3540,30 @@ verified land outcomes.
 
 | Source | Material used |
 |---|---|
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\23_Desertification-UNCCD-and-Land-Degradation.md` | core distinctions, UNCCD/LDN spine, India applications and PYQ routes |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\23_Desertification-UNCCD-and-Land-Degradation.md` | counterbalancing critique, monitoring limits and governance tensions |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\23_Desertification-UNCCD-and-Land-Degradation.md`, certified commit `da6cb6be5` | complete Basic spine: Article 1 scope, aridity, Strategic Framework, institutions, LDN hierarchy, India and current COP status |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\23_Desertification-UNCCD-and-Land-Degradation.md`, certified commit `da6cb6be5` | optional technical depth: counterbalancing safeguards, SDG reporting periods, monitoring, drought and Great Green Wall implementation nuance |
 | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\03_Ecological-Succession-and-Biomes.md` | Open Natural Ecosystems and restoration-quality warning |
 | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` | compensatory-afforestation comparison, GIM/CAMPA and ecological equivalence |
 | `upsc-ai-kit\knowledge\Geography\basic\07_Arid-Desert-Landforms.md` and `upsc-ai-kit\knowledge\Geography\advanced\07_Thar-Desertification.md` | aeolian processes, Thar setting and atlas cross-check |
 | `upsc-ai-kit\knowledge\Disaster-Management\basic\09_Drought-Heat-Waves-and-Slow-Onset-Risk.md` | drought typology, slow-onset risk and watershed linkage |
-| UNCCD, Article 1 and Convention governance pages | exact definitions, institutional roles and action architecture |
-| UNCCD, LDN Conceptual Framework and 19 LDN Principles | definition, baseline, hierarchy, indicators, one-out-all-out and safeguards |
-| Space Applications Centre, ISRO, *Desertification and Land Degradation Atlas of India, 2021* | 2003–05, 2011–13 and 2018–19 national figures, process shares and spatial findings |
-| MoEFCC, *India's National Action Plan to Combat Desertification and Land Degradation through Forestry Interventions, 2023* | commitment, convergence, landscape planning and programme architecture |
-| Department of Land Resources, WDC-PMKSY 2.0 official page | objectives, biological-measure shift, water productivity, diversification and community institutions |
-| FAO, Land Restoration and Drylands and Agrosilvopastoral Systems pages | restoration continuum, integrated dryland management and people-centred design |
-| FAO, Responsible Governance of Tenure and LDN | tenure security, gender responsiveness, legitimate rights and participation |
-| UNCCD COP17 page, <https://www.unccd.int/cop17>; drought decision `ICCD/COP(17)/L.15`, <https://www.unccd.int/sites/default/files/2026-09/2612303E.pdf>; rangelands decision `ICCD/COP(17)/L.19`, <https://www.unccd.int/convention/official-documents/cop-17-ulaanbaatar-mongolia-2026/documents/iccdcop17l19> | single dated current linkage, Party/global-land context and precise decision limits |
+| UNCCD Article 1, <https://www.unccd.int/article-1-use-terms> | exact land, land-degradation, desertification, drought and aridity definitions; no mandatory dual-cause test |
+| UNCCD 2018–2030 Strategic Framework, <https://www.unccd.int/resources/other/unccd-2018-2030-strategic-framework>; PRAIS4 2026 introduction, <https://prais4-reporting-manual.unccd.int/en/2026/introduction.html> | five strategic objectives, implementation framework and current reporting treatment |
+| UNCCD LDN principles, <https://www.unccd.int/land-and-life/land-degradation-neutrality/ldn-principles>; PRAIS4 2026 SO1 guidance, <https://prais4-reporting-manual.unccd.int/en/2026/SO1.html> | LDN definition, baseline, hierarchy, indicators, one-out-all-out, 2000–2015 baseline and 2016–2023 assessment |
+| UNCCD drought overview, <https://www.unccd.int/land-and-life/drought/overview>; Drought Initiative, <https://www.unccd.int/land-and-life/drought/drought-initiative>; Drought Toolbox, <https://www.unccd.int/land-and-life/drought/toolbox/about> | National Drought Plans, three Toolbox pillars and proactive drought architecture |
+| Space Applications Centre, ISRO Atlas portal, <https://vedas.sac.gov.in/en/Desertification_Status_Mapping_(DSM)_Atlas.html> | 2003–05, 2011–13 and 2018–19 national figures, process shares and spatial findings |
+| MoEFCC, *India's National Action Plan to Combat Desertification and Land Degradation through Forestry Interventions, 2023*, <https://www.unccd.int/sites/default/files/2026-03/NAP%20India%202023_0.pdf> | 2001–2023 chronology, institutional roles, commitment, convergence and landscape planning |
+| Department of Land Resources, WDC-PMKSY official page, <https://dolr.gov.in/en/wdcpmksy/> | objectives, biological-measure shift, water productivity, diversification and community institutions |
+| FAO drylands and agrosilvopastoral systems, <https://www.fao.org/dryland-forestry/en/> | integrated dryland management, restoration and people-centred design |
+| FAO-UNCCD tenure guide, <https://openknowledge.fao.org/handle/20.500.14283/cb9656en> | tenure security, gender responsiveness, legitimate rights and participation |
+| UNCCD COP17 final action report `ICCD/COP(17)/14/Add.1`, <https://www.unccd.int/sites/default/files/2026-09/cop14add1-advance.pdf> | final Decisions 6, 12, 16 and 20/COP.17; final numbered decisions control current citation |
 | UNCCD COP17 Finance Day ministerial dialogue, <https://www.unccd.int/cop17/programme/ministerial-dialogue-resilience-innovative-financial-mechanisms-healthy-land-drought-resilience>; UNCCD, *Investing in Land's Future: Financial Needs Assessment*, <https://www.unccd.int/sites/default/files/2024-12/58587%20UNCCD_FNA_SDM_web.pdf> | annual 2025–2030 global need, current investment and finance-gap estimates, with time and status controls |
 | FAO, "FAO at COP17: Pastoralists are essential partners in rangeland restoration", <https://www.fao.org/newsroom/detail/fao-at-cop17--pastoralists-are-essential-partners-in-rangeland-restoration/en> | exact restoration-quality statement, forage and vegetation-diversity rationale, and Rangelands Flagship Initiative pillars |
 | FAO International Year of Rangelands and Pastoralists portal, <https://www.fao.org/rangelands-pastoralists-2026/about/en> | rangeland extent, pastoral livelihoods and nutrition context |
 | UNCCD COP16 drought release, <https://www.unccd.int/news-stories/press-releases/global-response-drought-takes-center-stage-un-land-conference-riyadh> | Riyadh negotiation and partnership antecedent; no completed treaty claimed |
 | PIB, 17 June 2026, <https://pib.gov.in/PressReleasePage.aspx?PRID=2273884> | India restoration-effort and programme status figures |
+| UNCCD Great Green Wall overview, <https://www.unccd.int/our-work/ggwi>; 2026 Accelerator review, <https://www.unccd.int/sites/default/files/2026-08/GGWA_5_year_review.pdf> | AU leadership, 11/22-country scope, 2024 expansion, targets and incomplete harmonized progress data |
 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 152–155 | OCR soil system, organic matter and erosion context; older global/India erosion quantities were not used as current statistics |
-| Audited central PYQ ledgers; `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`; `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2024 Essay Paper.pdf`; `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`; and `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | exact neutral PYQ wording, ownership, marks and word limits |
+| UPSC official question-paper archive, <https://upsc.gov.in/examinations/previous-question-papers>; local controls: `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` p.35; `books\more_previous_papers\Gen_St_P1.pdf` p.2; `books\mains\UPSC Mains 2024 Essay Paper.pdf` p.2; `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` p.2 | exact neutral wording, marks, limits and primary/support ownership |
 
 ## Data and uncertainty ledger
 
@@ -3361,13 +3573,15 @@ verified land outcomes.
 | 83.69 Mha desertification | official atlas dryland subset for 2018–19 |
 | process shares 11.01 / 9.15 / 5.46% | shares of India's total geographical area for 2018–19 |
 | 26 Mha by 2030 | Indian ambition announced at COP14 and carried in the 2023 NAP |
-| 21.76 Mha under restoration efforts | PIB statement dated 17 June 2026; not recast as independently verified recovery |
+| 21.76 Mha under restoration efforts | PIB statement dated 17 June 2026, tied to the Second Bonn Challenge Progress Report (2011–2020); not recast as a 2026 measurement or verified recovery |
 | scheme-specific hectare and asset figures | treated as overlapping programme outputs/status, never summed |
+| SDG 15.3.1 periods | statistical baseline 2000–2015; 2026 PRAIS assessment 2016–2023; distinct from conceptual LDN baseline |
 | 197 Parties / up to 40% of global land degraded | UNCCD COP17 official context; Party count and rounded global framing, not a national restoration-performance measure |
 | USD 355 billion / USD 77 billion / USD 278 billion | UNCCD global annual estimates for 2025–2030 need, current annual investment and annual gap respectively; rounded arithmetic, not cumulative totals, COP17 pledges or verified disbursements |
 | rangeland/IYRP scale figures | FAO global context; approximate extent, livelihood and nutrition figures, not proof that every pastoral system is sustainable |
 | FAO restoration-quality statement | exact official FAO COP17 report and attributed speaker; used as a qualitative principle, not as a measured restoration outcome |
-| COP17 drought outcome | official draft decision text: continued discussions and recurring agenda item; no completed binding protocol claimed |
+| COP17 final decisions | final action report: 6/COP.17 future strategy, 12/COP.17 agricultural hierarchy, 16/COP.17 drought and 20/COP.17 rangelands |
+| Great Green Wall review | 1.66 Mha, 4.6 million jobs and 24 Mt CO2-equivalent reported from fewer than 90 of 389 projects as of 31 December 2025; fuller national validation required |
 | restoration terminology | presented as operational distinctions; mixed projects may legitimately span categories |
 | causal attribution | site-specific climate–management attribution requires field evidence |
 
@@ -3375,11 +3589,11 @@ verified land outcomes.
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | Complete Basic and Advanced owners plus relevant Environment, Geography and Disaster Management cross-topic owners listed above |
+| Canonical Markdown | checked | Certified Basic and Advanced Topic 23 owners at commit `da6cb6be5`, plus bounded cross-topic owners listed above |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Layered/complete session | checked | `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` and `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` supplied the mandatory structural benchmark |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\23_Desertification-UNCCD-and-Land-Degradation.md` and bounded cross-topic Advanced owners |
-| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 152–155, plus exact official-paper paths listed above |
-| PYQs through 2026 | checked | Audited 2018 and 2020 ledgers, `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2024 Essay Paper.pdf` and `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` |
-| Official live sources | checked | UNCCD, FAO, ISRO-SAC, MoEFCC, DoLR and PIB sources current through 3 October 2026 |
+| OCR books | checked | `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 152–155, used only for Lessons 2–3; every other lesson truthfully records `not available` |
+| PYQs through 2026 | checked | UPSC official archive plus local controls: 2018 p.35, 2020 p.2, 2024 Essay p.2 and 2026 GS-I p.2; audited central routing ledgers preserve ownership |
+| Official live sources | checked | Persistent UNCCD, PRAIS, FAO, ISRO-SAC, MoEFCC, DoLR, PIB and UPSC URLs listed above, current through 5 October 2026 |
