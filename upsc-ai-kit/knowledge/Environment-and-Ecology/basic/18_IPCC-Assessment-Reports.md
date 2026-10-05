@@ -56,9 +56,12 @@ providing the scientific foundation on which UNFCCC negotiations (Topic 19) are 
    government representatives in session with the report's scientist-authors, giving it
    both scientific credibility and government-endorsed authority — a distinctive
    institutional design feature.
-4. IPCC AR6 Synthesis Report (2023) confirmed with high confidence that human activities
-   have unequivocally caused global warming of approximately 1.1°C above pre-industrial
-   levels, and that risks escalate substantially with every additional increment of warming.
+4. The IPCC AR6 Synthesis Report (2023) states that human activities have unequivocally
+   caused global warming, with global surface temperature reaching 1.1°C above 1850–1900 in
+   2011–2020. **Unequivocally** is the report's headline assessment wording, not a synonym for
+   **high confidence**; separate findings retain the formal confidence or likelihood
+   qualifiers attached to them. AR6 also assesses that risks escalate with every additional
+   increment of warming.
 5. IPCC findings directly underpin the scientific basis for UNFCCC negotiations (Topic 19),
    national climate policies (Topic 20), and international climate-finance/mitigation-target
    discussions, functioning as the common scientific reference point across the entire

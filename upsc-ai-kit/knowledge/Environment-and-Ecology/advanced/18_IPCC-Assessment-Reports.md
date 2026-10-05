@@ -10,18 +10,18 @@
 
 ## 1. The IPCC's "consensus-through-negotiation" design and its analytical implications
 
-⚠️ A sophisticated point often missed: the IPCC's Summary for Policymakers approval process
-is not merely a formality — it is a deliberate institutional design where government
-delegates (including those representing fossil-fuel-producing or climate-vulnerable
-economies with divergent interests) must reach line-by-line consensus with scientist-authors
-on the exact wording of key findings. This can, on one hand, occasionally lead to more
-cautious or conservative phrasing than some underlying scientific literature might support
-(a documented critique that IPCC reports can be "conservative by design" due to the need for
-unanimous government sign-off), while on the other hand giving the final text unmatched
-political legitimacy and buy-in across the full range of UN member states — a genuine
-trade-off between scientific boldness and political universality that advanced answers
-should articulate rather than treating IPCC reports as either purely objective science or
-purely political documents.
+⚠️ A sophisticated point often missed: IPCC endorsement procedures distinguish report
+components. The underlying Working Group report is **accepted**, meaning that it is recognised
+as a comprehensive, objective and balanced assessment without line-by-line or
+section-by-section agreement. Its Summary for Policymakers is **approved line by line** by
+participating government representatives in dialogue with the scientist-authors, who must
+ensure that the approved wording remains consistent with the underlying assessment. For the
+Synthesis Report, the Summary for Policymakers is approved line by line and the longer report
+is **adopted section by section**. This process can favour cautious wording, but it does not
+give governments unanimous sign-off over every sentence of the underlying reports. Its
+analytical trade-off is between scientific responsibility, careful consensus language and
+broad political usability — not between purely scientific and wholly government-authored
+documents.
 
 ## 2. Confidence and likelihood language: the IPCC's calibrated-uncertainty framework
 
@@ -40,7 +40,7 @@ purely political documents.
 
 | Special Report | Focus | Key contribution |
 |---|---|---|
-| ✅ Special Report on Global Warming of 1.5°C (SR1.5, 2018) | Impacts of and pathways to limiting warming to 1.5°C versus 2°C. | Provided the scientific basis widely cited in strengthening the Paris Agreement's 1.5°C aspirational goal (Topic 19). |
+| ✅ Special Report on Global Warming of 1.5°C (SR1.5, 2018) | Impacts of and pathways to limiting warming to 1.5°C versus 2°C. | Prepared after COP21 invited the IPCC following adoption of the Paris Agreement in 2015; after acceptance in 2018, it informed subsequent implementation and science-policy understanding of the 1.5°C goal (Topic 19). |
 | ✅ Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC, 2019) | Ocean warming, sea-level rise, glacier/ice-sheet melt, permafrost thaw. | Directly relevant to India's Himalayan glacier and coastal/marine vulnerability analysis (cross-refer Topic 24). |
 | ✅ Special Report on Climate Change and Land (SRCCL, 2019) | Land degradation, desertification, food security and land-based mitigation. | Connects directly to India's land-degradation and agriculture-climate policy discussions (cross-refer Topic 23). |
 
@@ -91,8 +91,9 @@ IPCC's institutional design is responsive, not purely mechanical/periodic.
 - ✅ IPCC uses a calibrated dual-language system: qualitative confidence levels (evidence/
   agreement-based) and quantitative likelihood terms (probability-based) to communicate
   uncertainty precisely.
-- ✅ The Special Report on Global Warming of 1.5°C (2018) directly informed the Paris
-  Agreement's strengthened 1.5°C goal.
+- ✅ The Paris Agreement was adopted in 2015, after which COP21 invited the IPCC to prepare
+  the Special Report on Global Warming of 1.5°C; accepted in 2018, SR1.5 informed subsequent
+  implementation and science-policy understanding rather than the original adopted goal.
 - ✅ The IPCC's mandate is explicitly "policy-relevant but not policy-prescriptive."
 - ✅ IPCC assessments are inherently time-bound to their literature cut-off date, creating an
   acknowledged lag before newer research is incorporated in the next cycle or a Special
