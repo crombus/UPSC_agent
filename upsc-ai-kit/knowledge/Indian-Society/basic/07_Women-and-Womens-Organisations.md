@@ -350,5 +350,7 @@ flexibility-versus-protection trade-off and the agency conclusion.
   and legal-data boundaries.
 - **Verified PYQ ownership, 2018-2026:** direct routes cover 2018 movement reach,
   2019 challenges across time and space, 2021 gig work, 2023 young-women
-  self-harm and 2024 equality-equity-empowerment. No official 2026 demand or
-  unsupported causal attribution is invented.
+  self-harm and 2024 equality-equity-empowerment. The official 2026 GS-I paper
+  contains no direct Topic 07 question. The 2024 skilled-young-women migration
+  demand is cross-owned with Family and Globalisation and should be used here
+  only for its gender-agency and family-relationship dimensions.
