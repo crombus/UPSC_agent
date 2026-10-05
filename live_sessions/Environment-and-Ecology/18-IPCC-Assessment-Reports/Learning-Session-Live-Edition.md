@@ -17,7 +17,7 @@ The IPCC is best understood as a **global assessment system**. It does not negot
 | 9 | Core | What does the AR6 Synthesis Report add? |
 | 10 | Core | How should India and South Asia use IPCC findings? |
 | 11 | Advanced | Where are the IPCC's strengths, limits and institutional tensions? |
-| 12 | Advanced | What is the AR7 transition status as of 3 October 2026? |
+| 12 | Advanced | What is the AR7 transition status as of 5 October 2026? |
 
 ```text
 INSTITUTION
@@ -464,15 +464,15 @@ Low confidence may reflect limited evidence, disagreement or both. It signals th
 
 ### 5. Risk language
 
-WGII often assesses risk through interaction:
+WGII defines climate risk through dynamic interactions:
 
 ```text
-CLIMATE HAZARD × EXPOSURE × VULNERABILITY
-                  ↓
-                RISK
+CLIMATE-RELATED HAZARD ─┐
+EXPOSURE ───────────────┼─ dynamic interactions ─→ RISK
+VULNERABILITY ──────────┘
 ```
 
-A hazard can intensify while risk changes differently across places because exposure, poverty, infrastructure and adaptive capacity differ. This is why global climate information cannot be mechanically converted into an India-specific damage number.
+This is a conceptual interaction, not a literal multiplicative equation. A hazard can intensify while risk changes differently across places because exposure, poverty, infrastructure and adaptive capacity differ. This is why global climate information cannot be mechanically converted into an India-specific damage number.
 
 ### UPSC application
 
@@ -786,10 +786,9 @@ CA Found: None used in this lesson.
 ### Visual: risk can be reduced, transferred or left residual
 
 ```text
-HAZARD × EXPOSURE × VULNERABILITY
-              ↓
-            RISK
-              ↓
+HAZARD ────────┐
+EXPOSURE ──────┼─ dynamic interactions ─→ RISK
+VULNERABILITY ─┘                         ↓
      ┌────────┴─────────┐
      ▼                  ▼
 ADAPTATION          MITIGATION
@@ -805,11 +804,11 @@ and near-term risk  hazard escalation
       LOSSES AND DAMAGES
 ```
 
-Mitigation, adaptation and loss-and-damage responses answer different parts of the risk chain.
+The interaction is not a literal product. Mitigation, adaptation and loss-and-damage responses answer different parts of the risk chain.
 
 ### 1. Unequal vulnerability
 
-The AR6 Synthesis Report assessed that approximately **3.3–3.6 billion people** live in contexts highly vulnerable to climate change. Vulnerable communities that contributed least to current climate change are disproportionately affected.
+The AR6 Synthesis Report assessed with **high confidence** that approximately **3.3–3.6 billion people** live in contexts highly vulnerable to climate change. Vulnerable communities that contributed least to current climate change are disproportionately affected.
 
 This does not mean every person in that range faces the same hazard. Vulnerability is shaped by poverty, marginalisation, infrastructure, governance, health, ecosystem condition and access to finance.
 
@@ -862,9 +861,9 @@ WGII links adaptation with mitigation and sustainable development. Inclusive gov
 
 ### Revision notes
 
-1. About 3.3–3.6 billion people live in highly vulnerable contexts.
+1. About 3.3–3.6 billion people live in highly vulnerable contexts (high confidence).
 2. Flood-, drought- and storm-related mortality was 15 times higher in highly vulnerable than very-low-vulnerability regions during 2010–2020.
-3. Climate risk combines hazard, exposure and vulnerability.
+3. Climate risk results from dynamic interactions among hazard, exposure and vulnerability.
 4. Climate change has already caused increasingly irreversible ecosystem losses.
 5. Adaptation progress exists but is uneven.
 6. Many measures remain fragmented and incremental.
@@ -935,13 +934,13 @@ Carbon dioxide removal complements deep cuts; it does not erase the need to redu
 
 ### 1. The 2019 emissions baseline
 
-WGIII assessed global net anthropogenic greenhouse-gas emissions at **59 ± 6.6 GtCO₂-eq in 2019**. This was about **12% higher than 2010** and **54% higher than 1990**. Average annual emissions in 2010–2019 were higher than in any previous decade, although their growth rate slowed.
+WGIII assessed with **high confidence** that global net anthropogenic greenhouse-gas emissions were **59 ± 6.6 GtCO₂-eq in 2019**. This was about **12% higher than 2010** and **54% higher than 1990**. Average annual emissions in 2010–2019 were higher than in any previous decade, although their growth rate slowed.
 
 ### 2. The policy and NDC gap
 
 WGIII assessed that global 2030 emissions associated with NDCs announced before COP26 would make it **likely** that warming exceeds 1.5°C during the twenty-first century and would require rapid post-2030 acceleration to keep warming below 2°C. Policies implemented by the end of 2020 were projected to produce still higher emissions.
 
-The AR6 Synthesis Report translates the implemented-policy literature into a temperature outcome: **3.2°C warming by 2100, with a 2.2–3.5°C range** (**medium confidence**). This is conditional on the assessed policy set and literature cut-off, not a forecast immune to later policy change.
+The AR6 Synthesis Report translates the implemented-policy literature into a temperature outcome: **3.2°C warming by 2100 relative to 1850–1900, with a 2.2–3.5°C range** (**medium confidence**). This is conditional on the assessed policy set and literature cut-off, not a forecast immune to later policy change.
 
 ### 3. Pathways consistent with temperature limits
 
@@ -952,13 +951,15 @@ In modelled pathways with immediate action:
 | Limit warming to 2°C (>67%) | −27% [13–45%] | −63% [52–76%] |
 | Limit warming to 1.5°C (>50%), no/limited overshoot | −43% [34–60%] | −84% [73–98%] |
 
+These modelled pathway reductions are assessed with **high confidence**.
+
 Global net-zero CO₂ is reached in the **early 2050s** in pathways limiting warming to 1.5°C with no or limited overshoot, and around the **early 2070s** in pathways limiting warming to 2°C.
 
 These are global modelled pathways, not identical national quotas.
 
 ### 4. Feasible mitigation potential
 
-WGIII estimated that options costing **USD 100 per tCO₂-eq or less** could reduce global emissions by at least half of the 2019 level by 2030. More than half of this assessed potential came from options below USD 20 per tCO₂-eq. Large contributions include solar and wind, efficiency, reduced conversion of natural ecosystems and methane reductions.
+WGIII estimated with **high confidence** that options costing **USD 100 per tCO₂-eq or less** could reduce global emissions by at least half of the 2019 level by 2030. More than half of this assessed potential came from options below USD 20 per tCO₂-eq. Large contributions include solar and wind, efficiency, reduced conversion of natural ecosystems and methane reductions.
 
 Cost estimates vary by region and context. A global marginal-cost estimate is not a project tender price for India.
 
@@ -991,18 +992,18 @@ Average annual modelled mitigation investment requirements for 2020–2030 in pa
 
 ### Revision notes
 
-1. Global net anthropogenic emissions were 59 ± 6.6 GtCO₂-eq in 2019.
+1. Global net anthropogenic emissions were 59 ± 6.6 GtCO₂-eq in 2019 (high confidence).
 2. They were 12% above 2010 and 54% above 1990.
 3. Pre-COP26 NDC emissions make twenty-first-century exceedance of 1.5°C likely.
-4. End-2020 implemented policies were assessed as leading to 3.2°C [2.2–3.5°C] by 2100.
-5. A 1.5°C no/limited-overshoot pathway cuts global net GHGs 43% by 2030 from 2019.
+4. End-2020 implemented policies were assessed as leading to 3.2°C [2.2–3.5°C] by 2100 relative to 1850–1900 (medium confidence).
+5. The high-confidence pathway assessment gives a 43% cut in global net GHGs by 2030 from 2019 for 1.5°C no/limited-overshoot pathways.
 6. The corresponding 2050 reduction is 84%.
-7. A 2°C pathway gives 27% and 63% reductions.
+7. The high-confidence 2°C pathway assessment gives 27% and 63% reductions.
 8. Net-zero CO₂ occurs in the early 2050s in 1.5°C pathways.
 9. Global pathway percentages are not national quotas.
 10. Many low-cost and demand-side options already exist.
 11. CDR addresses residual emissions but carries limits.
-12. Mitigation investment requirements are three to six times current levels in modelled 1.5°C/2°C pathways.
+12. Mitigation investment requirements are three to six times current levels in modelled 1.5°C/2°C pathways (medium confidence).
 13. Feasibility includes social, financial and institutional conditions.
 14. Equity is part of pathway assessment.
 
@@ -1018,9 +1019,9 @@ Average annual modelled mitigation investment requirements for 2020–2030 in pa
 
 **Mains prompt:** Examine the mitigation message of AR6 WGIII beyond the slogan of “net zero.”
 
-**Illustrative model:** AR6 WGIII begins with a rising-emissions baseline: global net anthropogenic emissions reached 59 ± 6.6 GtCO₂-eq in 2019, 12% above 2010. Pathways limiting warming to 1.5°C with no or limited overshoot reduce global net greenhouse-gas emissions by 43% from 2019 by 2030 and reach global net-zero CO₂ in the early 2050s. Hence, a distant net-zero date without deep near-term reductions is inadequate.
+**Illustrative model:** AR6 WGIII begins with a high-confidence rising-emissions baseline: global net anthropogenic emissions reached 59 ± 6.6 GtCO₂-eq in 2019, 12% above 2010. Its high-confidence pathway assessment finds that pathways limiting warming to 1.5°C with no or limited overshoot reduce global net greenhouse-gas emissions by 43% from 2019 by 2030 and reach global net-zero CO₂ in the early 2050s. Hence, a distant net-zero date without deep near-term reductions is inadequate.
 
-The response is portfolio-based. It combines low- or zero-carbon energy, efficiency, electrification, methane reduction, protection of ecosystems, material and demand-side changes, and carbon dioxide removal. WGIII assessed that options costing USD 100 per tCO₂-eq or less could reduce emissions by at least half of the 2019 level by 2030, although regional costs differ.
+The response is portfolio-based. It combines low- or zero-carbon energy, efficiency, electrification, methane reduction, protection of ecosystems, material and demand-side changes, and carbon dioxide removal. WGIII assessed with high confidence that options costing USD 100 per tCO₂-eq or less could reduce emissions by at least half of the 2019 level by 2030, although regional costs differ.
 
 CDR is necessary for residual emissions in modelled pathways but cannot substitute for gross reductions because storage durability, land, water, biodiversity and scale constrain it. Feasibility also depends on finance, institutions, technology, public acceptance and justice.
 
@@ -1072,7 +1073,7 @@ Deep, rapid and sustained mitigation, together with accelerated adaptation in th
 - increases reliance on removals;
 - increases losses and damages.
 
-The implemented-policy assessment points to **3.2°C [2.2–3.5°C] by 2100** (**medium confidence**). This gap explains why distant net-zero claims cannot substitute for policies that alter the near-term emissions trajectory.
+The implemented-policy assessment points to **3.2°C [2.2–3.5°C] by 2100 relative to 1850–1900** (**medium confidence**). This gap explains why distant net-zero claims cannot substitute for policies that alter the near-term emissions trajectory.
 
 ### 3. Existing infrastructure and the carbon budget
 
@@ -1101,7 +1102,7 @@ The report informs:
 
 It does not automatically determine any of these decisions. Scientific assessment can identify consequences and options; it cannot allocate burdens or compel implementation.
 
-Finance is part of the feasibility judgement. Average annual modelled mitigation investment requirements for 2020–2030 in 1.5°C or 2°C pathways are **three to six times current levels**, even though the Synthesis Report assesses sufficient global capital and liquidity to close investment gaps if barriers are reduced.
+Finance is part of the feasibility judgement. Average annual modelled mitigation investment requirements for 2020–2030 in 1.5°C or 2°C pathways are **three to six times current levels** (**medium confidence**), even though the Synthesis Report assesses sufficient global capital and liquidity to close investment gaps if barriers are reduced.
 
 ### 6. A disciplined answer formula
 
@@ -1126,14 +1127,14 @@ finding + confidence
 2. It integrates WGI, WGII and WGIII.
 3. Warming reached 1.1°C in 2011–2020 relative to 1850–1900.
 4. The best estimate places 1.5°C reach in the 2021–2040 near term.
-5. Implemented policies were assessed as leading to 3.2°C [2.2–3.5°C] by 2100.
+5. Implemented policies were assessed as leading to 3.2°C [2.2–3.5°C] by 2100 relative to 1850–1900 (medium confidence).
 6. Every increment of warming increases risks.
 7. Near-term mitigation reduces long-term losses and dependence on removals.
 8. Accelerated adaptation is also required now.
 9. Delay locks in infrastructure and raises costs.
 10. Existing unabated fossil infrastructure threatens the 1.5°C budget with high confidence.
 11. Mitigation and adaptation are complementary.
-12. Modelled mitigation investment needs are three to six times current levels.
+12. Modelled mitigation investment needs are three to six times current levels (medium confidence).
 13. Development choices alter exposure and vulnerability.
 14. Assessment informs policy but does not compel it.
 
@@ -1426,7 +1427,7 @@ The IPCC is strongest as a common evidentiary platform: scientifically bounded, 
 
 ---
 
-## Lesson 12 — Transition to AR7 and Status on 3 October 2026
+## Lesson 12 — Transition to AR7 and Status on 5 October 2026
 
 Progress: 12 / 12 | Stage: Advanced | Subtopic: AR7 products, timetable and status discipline
 
@@ -1473,7 +1474,7 @@ The cycle includes:
 
 At IPCC-64 in Bangkok, 24–27 March 2026, the Panel discussed the AR7 timeline but made no formal decision on dates for the individual Working Group reports. Governments indicated that they wanted the timeline agreed at a subsequent session. This does not alter the official commitment to a Synthesis Report by late 2029.
 
-IPCC-65 was scheduled for **12–16 October 2026 in Addis Ababa**, after this session's status date. Therefore, as of **3 October 2026**, no later plenary decision could be used to fill the unresolved Working Group publication dates; posted agendas and work-plan documents remained preparatory material.
+IPCC-65 was scheduled for **12–16 October 2026 in Addis Ababa**, after this session's status date. Therefore, as of **5 October 2026**, no later plenary decision could be used to fill the unresolved Working Group publication dates; posted agendas and work-plan documents remained preparatory material.
 
 Therefore:
 
@@ -1492,7 +1493,7 @@ not yet known from an approved AR7 report: new scientific conclusions
 
 ### 5. Status verdict
 
-As of **3 October 2026**:
+As of **5 October 2026**:
 
 1. AR6, completed in March 2023, remains the latest completed assessment baseline.
 2. No AR7 Working Group report has been published.
@@ -1517,10 +1518,10 @@ As of **3 October 2026**:
 6. The SLCF Methodology Report is planned for the second half of 2027.
 7. A CDR/CCUS inventory Methodology Report is also planned for 2027.
 8. IPCC-64 did not formally settle individual Working Group publication dates.
-9. IPCC-65 was scheduled for 12–16 October 2026 and had not occurred by the 3 October status date.
+9. IPCC-65 was scheduled for 12–16 October 2026 and had not occurred by the 5 October status date.
 10. The Bhopal author meeting occurred on 3–7 August 2026.
 11. Review comments are evidence of process depth, not report findings.
-12. AR6 remains the latest completed findings baseline on 3 October 2026.
+12. AR6 remains the latest completed findings baseline on 5 October 2026.
 13. Never attribute a conclusion to an unpublished AR7 draft.
 
 ### Concept check
@@ -1535,7 +1536,7 @@ As of **3 October 2026**:
 
 **Mains prompt:** What does the transition from AR6 to AR7 require from a careful policy analyst?
 
-**Illustrative model:** A careful analyst must separate completed findings from production milestones. AR6, completed in March 2023, remains the latest completed assessment. AR7 began in July 2023; its Working Group outlines are agreed and drafting is under way, but no AR7 Working Group report has been published as of 3 October 2026. The Cities Special Report is scheduled for March 2027, two inventory Methodology Reports for 2027, and the Synthesis Report by late 2029. An outline, author meeting or reviewed draft may establish scope and process status, but cannot support a new scientific conclusion. Later observations can supplement AR6 when clearly dated and sourced. The governing rule is therefore temporal traceability: cite AR6 for assessed findings, AR7 pages for institutional status, and never write “AR7 finds” before formal publication and endorsement.
+**Illustrative model:** A careful analyst must separate completed findings from production milestones. AR6, completed in March 2023, remains the latest completed assessment. AR7 began in July 2023; its Working Group outlines are agreed and drafting is under way, but no AR7 Working Group report has been published as of 5 October 2026. The Cities Special Report is scheduled for March 2027, two inventory Methodology Reports for 2027, and the Synthesis Report by late 2029. An outline, author meeting or reviewed draft may establish scope and process status, but cannot support a new scientific conclusion. Later observations can supplement AR6 when clearly dated and sourced. The governing rule is therefore temporal traceability: cite AR6 for assessed findings, AR7 pages for institutional status, and never write “AR7 finds” before formal publication and endorsement.
 
 **Quantified rubric (10):** AR6 baseline 2; AR7 products 3; milestone/finding distinction 3; temporal-source discipline 2.
 
@@ -1647,9 +1648,9 @@ Misuse occurs when RCP8.5 is called inevitable business as usual, forcing number
 
 **Model answer:** AR6 gives climate governance an integrated evidentiary structure. WGI established unequivocal human influence and assessed 1.09°C warming in 2011–2020 relative to 1850–1900. Its remaining carbon budget—500 GtCO₂ from the start of 2020 for a 50% likelihood of limiting warming to 1.5°C—translated temperature ambition into a finite cumulative constraint.
 
-WGII connected hazard with exposure and vulnerability. It estimated 3.3–3.6 billion people live in highly vulnerable contexts, identified widening adaptation gaps, distinguished soft from hard limits, and showed how maladaptation can lock in risk. This supplied the analytical basis for treating losses and damages as residual economic and non-economic harm rather than as a synonym for adaptation.
+WGII connected risk to dynamic interactions among hazard, exposure and vulnerability. It assessed with high confidence that 3.3–3.6 billion people live in highly vulnerable contexts, identified widening adaptation gaps, distinguished soft from hard limits, and showed how maladaptation can lock in risk. This supplied the analytical basis for treating losses and damages as residual economic and non-economic harm rather than as a synonym for adaptation.
 
-WGIII assessed both urgency and options. Global net anthropogenic emissions reached 59 ± 6.6 GtCO₂-eq in 2019. Modelled 1.5°C pathways with no or limited overshoot reduce global net greenhouse gases 43% from 2019 by 2030 and reach net-zero CO₂ in the early 2050s. It also assessed demand-side measures, sectoral options, finance and CDR constraints.
+WGIII assessed both urgency and options. With high confidence, global net anthropogenic emissions reached 59 ± 6.6 GtCO₂-eq in 2019, and modelled 1.5°C pathways with no or limited overshoot reduce global net greenhouse gases 43% from 2019 by 2030. These pathways reach net-zero CO₂ in the early 2050s. WGIII also assessed demand-side measures, sectoral options, finance and CDR constraints.
 
 The Synthesis Report connected these findings to lock-in and climate-resilient development. Its limits remain important: global pathways are not national quotas, IPCC reports do not allocate burdens, and dated assessments require later evidence for current conditions. AR6's contribution is therefore to define consequences and feasible ranges of action, enabling—but not substituting for—equitable political choice.
 
@@ -1697,7 +1698,9 @@ GHG ACCUMULATION AND WARMING
       ↓
 PHYSICAL CHANGES AND EXTREMES
       ↓
-HAZARD × EXPOSURE × VULNERABILITY
+HAZARD ────────┐
+EXPOSURE ──────┼─ dynamic interactions
+VULNERABILITY ─┘
       ↓
 UNEQUAL RISKS, LOSSES AND DAMAGES
       ├───────────────┐
@@ -1821,9 +1824,9 @@ decision → scoping → outline → nominations → author selection
 
 ## AR6 WGII essentials
 
-- **3.3–3.6 billion** people live in highly vulnerable contexts.
-- Mortality from floods, droughts and storms was **15 times higher** in highly vulnerable regions than in very-low-vulnerability regions during 2010–2020.
-- Risk = hazard × exposure × vulnerability.
+- **3.3–3.6 billion** people live in highly vulnerable contexts (**high confidence**).
+- Mortality from floods, droughts and storms was **15 times higher** in highly vulnerable regions than in very-low-vulnerability regions during 2010–2020 (**high confidence**).
+- Risk results from dynamic interactions among climate-related hazards, exposure and vulnerability; it is not a literal multiplicative equation.
 - Climate change has caused substantial damages and increasingly irreversible ecosystem losses.
 - Adaptation is increasing but gaps remain uneven and are growing.
 - **Soft limit:** potentially overcome; **hard limit:** no feasible adaptation avoids intolerable risk.
@@ -1833,26 +1836,26 @@ decision → scoping → outline → nominations → author selection
 
 ## AR6 WGIII essentials
 
-- 2019 global net anthropogenic GHG emissions: **59 ± 6.6 GtCO₂-eq**.
+- 2019 global net anthropogenic GHG emissions: **59 ± 6.6 GtCO₂-eq** (**high confidence**).
 - 12% above 2010; 54% above 1990.
 - Pre-COP26 NDC emissions make twenty-first-century exceedance of 1.5°C likely.
-- Implemented policies assessed in AR6 lead to **3.2°C [2.2–3.5°C] by 2100**.
-- 1.5°C no/limited-overshoot pathways: **−43% [34–60%] by 2030**, **−84% [73–98%] by 2050**, relative to 2019.
-- 2°C pathways: −27% by 2030; −63% by 2050.
+- Implemented policies assessed in AR6 lead to **3.2°C [2.2–3.5°C] by 2100 relative to 1850–1900** (**medium confidence**).
+- 1.5°C no/limited-overshoot pathways: **−43% [34–60%] by 2030**, **−84% [73–98%] by 2050**, relative to 2019 (**high confidence**).
+- 2°C pathways: −27% by 2030; −63% by 2050 (**high confidence**).
 - Net-zero CO₂: early 2050s for 1.5°C pathways; early 2070s for 2°C pathways.
-- Options costing ≤USD 100/tCO₂-eq could reduce at least half of 2019 emissions by 2030.
-- Average annual modelled mitigation investment needs for 2020–2030 are **three to six times current levels** in 1.5°C/2°C pathways.
+- Options costing ≤USD 100/tCO₂-eq could reduce at least half of 2019 emissions by 2030 (**high confidence**).
+- Average annual modelled mitigation investment needs for 2020–2030 are **three to six times current levels** in 1.5°C/2°C pathways (**medium confidence**).
 - CDR supports residual balancing; it does not excuse delayed gross cuts.
 
 ## AR6 synthesis and policy use
 
-- Completed in March 2023; latest completed assessment on 3 October 2026.
+- Completed in March 2023; latest completed assessment on 5 October 2026.
 - Best-estimate 1.5°C reach lies in the 2021–2040 near term across considered scenarios and pathways.
-- Implemented policies imply 3.2°C [2.2–3.5°C] by 2100 in the assessed literature.
+- Implemented policies imply 3.2°C [2.2–3.5°C] by 2100 relative to 1850–1900 in the assessed literature (medium confidence).
 - Near-term mitigation and adaptation reduce losses, damages and future costs.
 - Delay locks in emissions, vulnerability, stranded assets and higher removal dependence.
 - Existing unabated fossil infrastructure threatens the 1.5°C carbon budget.
-- Finance exists globally, but modelled mitigation investment needs remain three to six times current levels and access barriers are unequal.
+- Finance exists globally, but modelled mitigation investment needs remain three to six times current levels (**medium confidence**) and access barriers are unequal.
 - IPCC evidence informs the Global Stocktake, NDCs, long-term strategies and adaptation plans but does not determine political burdens.
 
 ## India and South Asia
@@ -1864,7 +1867,7 @@ decision → scoping → outline → nominations → author selection
 - Equity frame: historical responsibility + capability + development space + finance, alongside domestic adaptation and mitigation responsibility.
 - Global mean sea level is not local relative sea level.
 
-## AR7 status — 3 October 2026
+## AR7 status — 5 October 2026
 
 - Cycle began July 2023.
 - IPCC-60 agreed three Working Group reports; IPCC-62 agreed outlines.
@@ -1873,7 +1876,7 @@ decision → scoping → outline → nominations → author selection
 - CDR/CCUS inventory Methodology Report planned for 2027.
 - Synthesis Report due by late 2029.
 - IPCC-64 did not formally settle individual Working Group report dates.
-- IPCC-65 was scheduled for 12–16 October 2026; it had not occurred by the 3 October status date.
+- IPCC-65 was scheduled for 12–16 October 2026; it had not occurred by the 5 October status date.
 - No AR7 Working Group report had been published; write **“AR7 is under way,” not “AR7 finds.”**
 
 ## Rapid traps
@@ -1925,9 +1928,9 @@ decision → scoping → outline → nominations → author selection
 | Exact directly owned PYQ | Lesson 10; verified PYQ section | Complete |
 | Common UPSC traps | Every lesson; remediation; register notes | Complete |
 | Institutional strengths and limits | Lesson 11 | Complete |
-| AR7 transition and 3 October 2026 status | Lesson 12 | Complete |
+| AR7 transition and 5 October 2026 status | Lesson 12 | Complete |
 | Exactly one dated current linkage | Lesson 12 only | Complete |
-| Lesson revision points | 8–12 points in every lesson | Complete |
+| Lesson revision points | 10–14 points in every lesson, within the required 8–15 range | Complete |
 | Lesson concept check/model/misconception | Exactly one set in every lesson | Complete |
 | Lesson Mains model and quantified rubric | One in every lesson | Complete |
 | Final 10/15/20-mark models | Final Mains practice | Complete |
@@ -1939,14 +1942,14 @@ decision → scoping → outline → nominations → author selection
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\18_IPCC-Assessment-Reports.md` and relevant Topics 17 and 19 were audited. |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\18_IPCC-Assessment-Reports.md` and relevant Topics 17 and 19 were audited; the repaired Topic 18 Basic owner is certified at commit `3648718df`. |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
-| Layered/complete session | not available | No permitted pre-existing live session for Topic 18 existed at the target path. |
+| Layered/complete session | not relevant | A permitted optional session exists at `learning_package_final\Environment-and-Ecology\Subject-wide-Syllabus\18-IPCC-Assessment-Reports\Learning-Session.md`; it was not used as a controlling source because canonical Markdown and official evidence govern this repair. |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\18_IPCC-Assessment-Reports.md` was audited completely. |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\18_IPCC-Assessment-Reports.md` was audited completely; the repaired owner is certified at commit `3648718df`. |
 | OCR books | not available | The accessible local book inventory contained no topic-specific environment or climate-assessment volume. |
-| PYQs through 2026 | checked | Routing ledgers through 2026 were checked; the directly owned 2023 GS-III Q18 wording was cross-checked against the locally retained official-paper text. |
-| Official live sources | checked | Official IPCC institutional, procedure, AR6, AR7 and dated 2026 pages listed below were checked through 3 October 2026. |
+| PYQs through 2026 | checked | Routing ledgers through 2026 were checked; 2023 GS-III Q18 wording, marks and word limit were verified directly from `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf`, PDF page 4 of 4. |
+| Official live sources | checked | Official IPCC institutional, procedure, AR6, AR7 and dated 2026 pages listed below were checked through 5 October 2026. |
 
 ## Primary knowledge files
 
@@ -1956,13 +1959,14 @@ decision → scoping → outline → nominations → author selection
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\17_Climate-Change-Science-Greenhouse-Effect.md`
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md`
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md`
+- Certified repaired Topic 18 canonical baseline: commit `3648718df`.
 
 ## PYQ evidence
 
+- `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf` — official 2023 GS-III paper, Q18 on PDF page 4 of 4; exact wording, 15 marks and 250-word limit verified directly.
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
 - `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`
-- `live_sessions\Environment-and-Ecology\17-Climate-Change-Science-Greenhouse-Effect\Learning-Session-Live-Edition.md` — exact retained 2023 question text only; Topic 17 doctrine was not duplicated.
 
 ## Official institutional and procedure sources
 
@@ -1973,7 +1977,7 @@ decision → scoping → outline → nominations → author selection
 - IPCC, “Procedures”: https://www.ipcc.ch/documentation/procedures/
 - IPCC Working Groups I, II and III: https://www.ipcc.ch/working-group/wg1/ ; https://www.ipcc.ch/working-group/wg2/ ; https://www.ipcc.ch/working-group/wg3/
 - IPCC Task Force on National Greenhouse Gas Inventories: https://www.ipcc.ch/working-group/tfi/
-- IPCC, Guidance Note for Consistent Treatment of Uncertainties.
+- IPCC, “Guidance Note for Lead Authors of the IPCC Fifth Assessment Report on Consistent Treatment of Uncertainties”: https://www.ipcc.ch/site/assets/uploads/2018/05/uncertainty-guidance-note.pdf
 
 ## Official AR6 evidence
 
@@ -1982,6 +1986,10 @@ decision → scoping → outline → nominations → author selection
 - IPCC AR6 WGII Asia Fact Sheet, 2022: https://www.ipcc.ch/report/ar6/wg2/downloads/outreach/IPCC_AR6_WGII_FactSheet_Asia.pdf
 - IPCC AR6 WGIII Summary for Policymakers, 2022: https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf
 - IPCC AR6 Synthesis Report Summary for Policymakers, 2023: https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_SPM.pdf
+- IPCC, “Global Warming of 1.5°C” (SR1.5, 2018): https://www.ipcc.ch/sr15/
+- IPCC, “Climate Change and Land” (SRCCL, 2019): https://www.ipcc.ch/srccl/
+- IPCC, “The Ocean and Cryosphere in a Changing Climate” (SROCC, 2019): https://www.ipcc.ch/srocc/
+- IPCC TFI, “2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories”: https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html
 
 ## Official AR7 status and the single dated linkage
 
