@@ -159,7 +159,7 @@ Open a Mains answer with the phrase **“EIA is a decision-forcing, preventive i
 
 ## Lesson 2 — The EIA Notification architecture, categories and authorities
 
-Progress: 2/12 | Stage: Foundation | Subtopic: Current legal framework as at 3 October 2026
+Progress: 2/12 | Stage: Foundation | Subtopic: Current legal framework as at 5 October 2026
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -167,7 +167,7 @@ Book context: The Environment (Protection) Act, 1986 supplies the enabling power
 
 CA search: "MoEFCC e-Gazette current EIA Notification 2006 amendments October 2026"
 
-CA found: No final notification replacing the 2006 framework was identified.
+CA found: The 2006 framework remains operative, but **S.O. 5189(E), 21 September 2026** amended the validity of ECs for ports, harbours, breakwaters and dredging projects.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -189,7 +189,7 @@ MoEFCC + EAC                   SEIAA + SEAC
 
 ### 1. Current status
 
-As at **3 October 2026**, the operative general framework remains the **EIA Notification, 2006, as amended**. The Draft EIA Notification, 2020 did not replace it. The Supreme Court’s 29 July 2026 decision in *Vanashakti v. Union of India* also treated the 2006 Notification’s prior-clearance regime as governing law.
+As at **5 October 2026**, the operative general framework remains the **EIA Notification, 2006, as amended**. The Draft EIA Notification, 2020 did not replace it. The Supreme Court’s 29 July 2026 decision in *Vanashakti v. Union of India* also treated the 2006 Notification’s prior-clearance regime as governing law.
 
 Prior environmental clearance applies to:
 
@@ -203,7 +203,7 @@ Projects outside the Schedule are not brought into the notification merely becau
 
 Two Gazette notifications must be read together. **S.O. 3862(E), dated 13 July 2026**, amended the EIA Notification, 2006. **S.O. 3863(E), issued on the same date**, constituted the standing bodies and prescribed their composition.
 
-| Question | Position as at 3 October 2026 |
+| Question | Position as at 5 October 2026 |
 |---|---|
 | Regular tenure | The text substituted **four years** for three years for EACs, SEIAAs and SEACs and removed the earlier power to extend the term by up to twelve months |
 | Prospective operation | MoEFCC’s Office Memorandum of 29 July 2026 clarifies that existing bodies continue on their original three-year term; four years applies to EACs, SEIAAs and SEACs constituted after the amendment came into force |
@@ -224,7 +224,19 @@ The SCEIA Chairperson may also **co-opt expert(s) or institutions of repute to a
 
 The SPCB or UTPCC serves as secretariat, with the State or Union Territory administration supplying manpower and logistics. These are **time-limited continuity mechanisms**, not substitutes for screening, EIA where required, consultation, appraisal or a reasoned clearance decision. Continuity therefore has to be balanced against the scientific independence expected from expert appraisal.
 
-### 3. Category A and Category B
+### 3. September 2026 validity amendment
+
+**S.O. 5189(E), dated 21 September 2026**, amended paragraph 9 of the EIA Notification for **ports, harbours, breakwaters and dredging**:
+
+| Stage | Current position |
+|---|---|
+| Initial EC validity | **20 years** |
+| First extension | up to **5 years** beyond 20 years, after the concerned EAC or SEAC examines the adequacy of existing safeguards and recommends any additional EMP safeguards |
+| Further extension | in deserving cases where the project could not become operational within the extended period, a further period of up to **5 years**, again after committee examination and safeguard review |
+
+This is a longer implementation window, not a waiver of prior EC, appraisal, CRZ requirements where applicable, or compliance with clearance conditions.
+
+### 4. Category A and Category B
 
 | Feature | Category A | Category B |
 |---|---|---|
@@ -236,13 +248,13 @@ The SPCB or UTPCC serves as secretariat, with the State or Union Territory admin
 
 **EAC and SEAC recommend; MoEFCC and SEIAA decide.** A recommendation is not itself the clearance order.
 
-### 4. General Condition
+### 5. General Condition
 
 The notification’s General Condition can elevate specified Category B projects to Category A when they are located within the notified distance of sensitive boundaries such as protected areas, critically polluted areas, notified eco-sensitive areas or inter-State/international boundaries. Apply it only where the Schedule makes it applicable.
 
 The Supreme Court held on 5 August 2025 that the General Condition was not applicable to Schedule entries **8(a)** and **8(b)**. This is a specific legal distinction, not a general exemption from prior clearance.
 
-### 5. Building and area-development position after the 2025 judgment
+### 6. Building and area-development position after the 2025 judgment
 
 S.O. 523(E) of 29 January 2025 substituted Entry 8:
 
@@ -252,7 +264,7 @@ S.O. 523(E) of 29 January 2025 substituted Entry 8:
 
 The notification attempted to exclude industrial sheds, schools, colleges and hostels for educational institutions through Note 1 to Entry 8(a). The Supreme Court in *Vanashakti v. Union of India* (5 August 2025) quashed that Note as arbitrary, while upholding the remainder of the notification and the connected 30 January 2025 Office Memorandum.
 
-### 6. Draft EIA Notification, 2020: proposal versus operative law
+### 7. Draft EIA Notification, 2020: proposal versus operative law
 
 The 2020 draft was a proposed replacement, not an amendment that silently became law. Its important differences from the operative 2006 design as understood in the 2020 debate were:
 
@@ -268,7 +280,7 @@ The 2020 draft was a proposed replacement, not an amendment that silently became
 
 The exam-safe conclusion is not that every proposal was “dilution” or “reform.” It is that the draft proposed a differentiated EC/EP architecture, an EMP for every B2 project, shorter hearing notice, annual default reporting, broader specified exemptions, longer construction/installation windows and a continuing violation-processing clause. None of those draft provisions became current law merely because it appeared in S.O. 1199(E).
 
-### 7. Instrument hierarchy
+### 8. Instrument hierarchy
 
 ```text
 STATUTE
@@ -282,6 +294,19 @@ PROJECT-SPECIFIC CLEARANCE AND CONDITIONS
 Lower instrument cannot contradict the higher one.
 Binding constitutional-court judgment controls their interpretation.
 ```
+
+### 9. EC, CTE, CTO and other green approvals
+
+These permissions answer different legal questions:
+
+| Instrument | Core question and authority | Current boundary |
+|---|---|---|
+| Prior Environmental Clearance (EC) | Should a scheduled project proceed, at what location and with what safeguards? Decided by MoEFCC or SEIAA under the EIA Notification | Required before commencement for covered projects; it is not an operating consent |
+| Consent to Establish (CTE) | May a pollution-generating unit be established under the Water and Air Act consent regimes? Ordinarily administered by the SPCB/PCC | G.S.R. 702(E) and 703(E), 12 November 2024, exempt projects that have obtained prior EC from obtaining a **separate CTE**; SPCB/PCC comments and conditions are integrated into appraisal. Non-EC projects remain governed by the applicable consent route |
+| Consent to Operate (CTO) | May the established unit begin or continue operation while meeting emission, effluent and control conditions? Administered by the SPCB/PCC | The EC-project CTE exemption does **not** remove CTO. White-category industries are exempt from both CTE and CTO under the current consent notifications |
+| Forest, wildlife and CRZ approvals | Does the proposal lawfully use forest land, affect a protected-area/wildlife approval route, or fall within a regulated coastal zone? | These are independent statutory regimes. EC, an integrated CTE route or a PARIVESH filing does not substitute for an approval that is separately triggered |
+
+The sequence is therefore not “one green approval clears everything.” A proposal may use one portal and coordinated appraisal while still having to satisfy each applicable statute and notification.
 
 **Objection:** categorisation by thresholds is administratively simple but ecologically crude.
 
@@ -308,8 +333,11 @@ Never write “Category A means environmentally harmful and Category B means har
 11. SAEIA and SCEIA temporarily discharge unavailable SEIAA and SEAC functions for six months initially, extendable once by up to six months.
 12. SAEIA comprises the Chief Secretary or Advisor to the Administrator or Lt. Governor as Chairperson; the Principal Chief Conservator of Forest (Head of Forest Force) as Member; and an Environment Department Special Secretary, Joint Secretary or Deputy Secretary as Member Secretary.
 13. SCEIA comprises the Environment Department Administrative Secretary; Chief Wildlife Warden; Director General or Director, State Health Services; Member Secretary of the State Pollution Control Board or Union territory Pollution Control Committee; the Director or Principal of an in-State/UT Indian Institute of Technology or National Institute of Technology or their nominee as required, or a domain expert nominated by the Director of the National Environmental Engineering Research Institute if neither institution exists there; and an Environment Department Special Secretary, Joint Secretary or Deputy Secretary as Member Secretary.
-14. The General Condition applies only where the Schedule says so, not to entries 8(a) and 8(b); Entry 8(b) is B1 and requires an EIA report.
-15. The 2025 exemption for industrial sheds and educational buildings was quashed; category still allocates procedure, not ecological safety.
+14. S.O. 5189(E), 21 September 2026, gives ports, harbours, breakwaters and dredging projects 20-year EC validity, extendable by five years and, in deserving cases, a further five years after safeguard review.
+15. The General Condition applies only where the Schedule says so, not to entries 8(a) and 8(b); Entry 8(b) is B1 and requires an EIA report.
+16. The 2025 exemption for industrial sheds and educational buildings was quashed; category still allocates procedure, not ecological safety.
+17. Prior EC, CTE and CTO answer different questions; EC projects are exempt from a separate CTE under the November 2024 notifications, but CTO continues.
+18. Forest, wildlife and CRZ approvals remain independent where their legal triggers apply.
 
 ### Concept check
 
@@ -323,9 +351,9 @@ Never write “Category A means environmentally harmful and Category B means har
 
 **Mains prompt:** Explain the federal and legal architecture of the EIA Notification, 2006, while identifying its principal classification limits.
 
-**Model:** The EIA Notification, 2006, issued under the Environment (Protection) Act, creates a schedule-based prior-clearance regime. Category A proposals are decided by MoEFCC on EAC recommendations; Category B proposals ordinarily go to SEIAA on SEAC recommendations, with B1 requiring an EIA report and B2 following its prescribed reduced route. The General Condition can elevate only specified B entries. The Supreme Court clarified in 2025 that it does not apply to entries 8(a) and 8(b), and quashed the attempted exemption for large industrial sheds and educational buildings. S.O. 3862(E) gives bodies constituted after 13 July 2026 four-year tenure, removes the former extra-year extension and requires reconstitution to begin six months before expiry; earlier bodies retain three years under the 29 July clarification. SAEIA and SCEIA provide a six-month, once-extendable fallback when regular State bodies are unavailable, while S.O. 3863(E) supplies their ex-officio composition. Draft EIA 2020 proposals such as prior-EP, shorter hearing notice, annual reporting and a continuing violation route never replaced current law. The architecture combines national minimum rules with State appraisal, but thresholds, variable capacity and temporary official-led fallback can weaken location-sensitive expertise. Predictable categories need transparent reasons, stable expertise and cumulative evidence.
+**Model:** The EIA Notification, 2006, issued under the Environment (Protection) Act, creates a schedule-based prior-clearance regime. Category A proposals are decided by MoEFCC on EAC recommendations; Category B proposals ordinarily go to SEIAA on SEAC recommendations, with B1 requiring an EIA report and B2 following its prescribed reduced route. The General Condition can elevate only specified B entries. The Supreme Court clarified in 2025 that it does not apply to entries 8(a) and 8(b), and quashed the attempted exemption for industrial sheds and educational buildings. S.O. 3862(E) gives bodies constituted after 13 July 2026 four-year tenure and requires advance reconstitution; SAEIA and SCEIA provide a time-limited fallback under S.O. 3863(E). S.O. 5189(E), 21 September 2026, gives ports, harbours, breakwaters and dredging projects 20-year EC validity, extendable by five years and, in deserving cases, another five after safeguard review. EC must also be distinguished from pollution consent: an EC project is exempt from a separate CTE under the November 2024 notifications, but CTO continues, while forest, wildlife and CRZ approvals remain independently applicable. Draft EIA 2020 proposals such as prior-EP, shorter hearing notice, annual reporting and a continuing violation route never became law. The architecture combines predictable national rules with contextual appraisal, but thresholds and uneven capacity still require cumulative evidence and transparent reasons.
 
-**Unique quantified rubric (15):** statutory basis 2; A/B/B1/B2 architecture 3; 2026 continuity amendment 3; 2025 status 2; Draft 2020 distinction 2; limits and reform 3.
+**Unique quantified rubric (15):** statutory basis 2; A/B/B1/B2 architecture 2; 2026 amendments 3; EC/consent/other-approval boundary 2; 2025 status 1; Draft 2020 distinction 2; limits and reform 3.
 
 ---
 
@@ -660,7 +688,7 @@ EIA consultation does not absorb every other legal process:
 
 ### 5. Neutral 2024 PYQ prompt
 
-> What role do environment NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details.
+> What role do environment NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important detais.
 
 Begin by identifying the mechanism of influence—information, representation, participation, independent expertise and litigation—and then use each case only for what it actually established.
 
@@ -729,11 +757,11 @@ Progress: 6/12 | Stage: Core | Subtopic: Reasoned decision, accountability and c
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-Book context: Appraisal tests the final EIA, consultation record and conditions; monitoring tests whether predicted and promised performance occurs.
+Book context: Queried — *Economic Survey 2025-26*, Chapter 10, printed pages 411–413 (PDF pages 462–464), on ex-ante EIA, PARIVESH 3.0, audit reform, consent reform and weak post-clearance monitoring.
 
 CA search: "official MoEFCC EIA consultant accountability post-clearance compliance 2026"
 
-CA found: None in the current six-month window.
+CA found: No separate six-month appraisal amendment beyond the September 2026 EC-validity change already mapped in Lesson 2.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -816,6 +844,8 @@ The 2006 Notification requires half-yearly compliance reports, originally due on
 
 The platform can improve traceability and reduce repetitive filing. It does not alter a statutory threshold, waive public consultation or convert an incomplete appraisal into a lawful clearance. Digital availability is valuable only when underlying documents, reasons and compliance data are intelligible and complete.
 
+The portal also does not erase the legal boundary between approvals. For projects requiring prior EC, the November 2024 Air and Water Act notifications remove a **separate CTE** and integrate SPCB/PCC comments into EC appraisal; the **CTO mechanism continues** before operation. Forest, wildlife and CRZ approvals remain independently necessary where their own legal triggers apply.
+
 ### 6. Environment Audit Rules, 2025
 
 The **Environment Audit Rules, 2025**, notified through **S.O. 3973(E) on 29 August 2025**, commenced on publication. The Central Government designates an **Environment Audit Designated Agency (EADA)**, while persons or organisations qualify and register as **Registered Environment Auditors (REAs)** to perform assigned audit functions. The framework is:
@@ -884,12 +914,14 @@ Distinguish **report accreditation**, **appraisal independence** and **complianc
 7. Half-yearly compliance reports under the operative 2006 framework are public documents.
 8. PARIVESH 3.0 supports common filing, GIS-assisted scrutiny, tracking and compliance management.
 9. A digital portal does not waive statutory appraisal or consultation.
-10. S.O. 3973(E), 29 August 2025, brought the Environment Audit Rules, 2025 into force.
-11. EADA manages certification, registration, capacity building and performance oversight.
-12. REAs may sample, audit, verify self-reports and report non-compliance.
-13. REA registration lasts five years, subject to renewal and disciplinary control.
-14. Random assignment supports independence for audits allocated under the Rules.
-15. Third-party audit supplements; it does not replace government inspection and enforcement.
+10. An EC project is exempt from a separate CTE under G.S.R. 702(E) and 703(E), but CTO continues.
+11. Forest, wildlife and CRZ approvals remain independent where triggered.
+12. S.O. 3973(E), 29 August 2025, brought the Environment Audit Rules, 2025 into force.
+13. EADA manages certification, registration, capacity building and performance oversight.
+14. REAs may sample, audit, verify self-reports and report non-compliance.
+15. REA registration lasts five years, subject to renewal and disciplinary control.
+16. Random assignment supports independence for audits allocated under the Rules.
+17. Third-party audit supplements; it does not replace government inspection and enforcement.
 
 ### Concept check
 
@@ -947,12 +979,15 @@ The NGT was established under the **National Green Tribunal Act, 2010** for effe
 
 ### 2. Composition: legal judgment plus environmental expertise
 
-| Component | Statutory design |
+Section 10A of the NGT Act now routes qualifications, appointment and service conditions to the **Tribunals Reforms Act, 2026**. The current qualification routes are in **Rule 25(XI)** of the *National Tribunals Commission and Qualification, Selection, and Conditions of Service of Chairperson and Members of Tribunals Rules, 2026*, notified by **G.S.R. 856(E), 30 September 2026**. These provisions supersede the repealed 2021 framework and the unamended Section 5 criteria.
+
+| Component | Current appointment design |
 |---|---|
-| Chairperson | A person who is or has been a Judge of the Supreme Court or Chief Justice of a High Court |
-| Judicial Members | Section 5(1) permits the Supreme Court Judge route and the High Court Chief Justice route stated for the Chairperson or Judicial Member; its proviso additionally makes a person who is or has been a Judge of a High Court eligible specifically as a Judicial Member |
-| Expert Members — technical route | A Master of Science degree in physical sciences or life sciences **with a Doctorate degree**, or a Master of Engineering or Master of Technology, plus **15 years’ experience in the relevant field**, including **five years’ practical experience in environment and forests**—including pollution control, hazardous-substance management, EIA, climate-change management, biological-diversity management and forest conservation—in a reputed national-level institution |
-| Expert Members — administrative route | **15 years’ administrative experience**, including **five years dealing with environmental matters**, in the Central Government, a State Government, or a reputed national- or State-level institution |
+| Chairperson | Rule 25(XI)(a): a person who is or has been a Judge of the Supreme Court, or is or has been Chief Justice of a High Court |
+| Judicial Members | Rule 25(XI)(b): a person who is or has been a Judge of a High Court; has served for a combined **10 years as District Judge and Additional District Judge**; has been an advocate for **10 years with substantial environmental and forest litigation experience** before the NGT, a High Court or the Supreme Court; or is or has been an **Indian Legal Service member in Grade I or above** |
+| Expert Members — technical route | Rule 25(XI)(c)(i): a degree, postgraduate degree or doctorate in Science plus **25 years’ experience in the relevant field**, including **five years’ practical experience in environment and forests**—including pollution control, hazardous-substance management, EIA, climate-change management, biological-diversity management and forest conservation—in a reputed national-level institution |
+| Expert Members — administrative route | Rule 25(XI)(c)(ii): **20 years’ administrative experience**, including **five years dealing with environmental matters**, in the Central Government, a State Government, or a reputed national-level institution |
+| Age and tenure | Rule 25(XI) contains **no minimum-age floor**. Section 17 of the 2026 Act gives the Chairperson five years or age 70, whichever is earlier, and a Member five years or age 67, whichever is earlier |
 | Authorised complement | Not fewer than 10 and not more than 20 full-time Judicial Members, and the same range of full-time Expert Members; the authorised design must not be confused with posts actually filled at a given date |
 | Hearing balance | Section 4 requires the number of Expert Members hearing an application or appeal to equal the number of Judicial Members |
 
@@ -1022,20 +1057,22 @@ NGT       = adjudicatory tribunal
 ### Revision notes
 
 1. NGT is a statutory specialised tribunal under the 2010 Act.
-2. Its Chairperson must be or have been a Supreme Court Judge or Chief Justice of a High Court.
-3. A Judicial Member may use the Supreme Court Judge or High Court Chief Justice route, while the Section 5 proviso also qualifies a serving or former High Court Judge.
-4. The technical Expert route requires a Master of Science in physical or life sciences with a Doctorate, or a Master of Engineering or Master of Technology, plus 15 years’ relevant experience including five practical years in environment and forests at a reputed national-level institution.
-5. The administrative Expert route requires 15 years’ administrative experience including five years dealing with environmental matters in government or a reputed national/State-level institution.
-6. The Act authorises 10–20 full-time Judicial and 10–20 full-time Expert Members; authorised complement is not proof of posts filled.
-7. Section 4 requires equal Judicial and Expert numbers at a hearing and separately permits invited specialists to assist a particular case without making them Tribunal Members.
-8. Principal Bench is at New Delhi; zonal benches sit at Bhopal, Pune, Kolkata and Chennai.
-9. Section 14 requires a civil case and substantial environmental question.
-10. The question must arise from Schedule I implementation.
-11. The original Schedule listed seven enactments; the Water Cess Act was repealed in 2017.
-12. Wildlife Protection Act and Indian Forest Act are not Schedule I laws.
-13. Section 16 contains a specific appellate list, including applicable EC orders.
-14. Section 18 gives broad representative standing.
-15. The Supreme Court recognised NGT suo motu power in 2021, bounded by natural justice and jurisdiction.
+2. Section 10A routes current appointment qualifications to the Tribunals Reforms Act, 2026 and G.S.R. 856(E), Rule 25(XI).
+3. Its Chairperson must be or have been a Supreme Court Judge or Chief Justice of a High Court.
+4. A Judicial Member may be a serving/former High Court Judge, a person with a combined ten years as District and Additional District Judge, a ten-year advocate with substantial environmental/forest litigation experience before the NGT, High Court or Supreme Court, or a serving/former Indian Legal Service member in Grade I or above.
+5. The technical Expert route requires a Science degree, postgraduate degree or doctorate and 25 years’ relevant experience, including five practical years in environment and forests at a reputed national-level institution.
+6. The administrative Expert route requires 20 years’ administrative experience including five years dealing with environmental matters in government or a reputed national-level institution.
+7. Rule 25(XI) has no minimum-age floor; Section 17 instead controls the five-year/age-70 Chairperson and five-year/age-67 Member tenure ceilings.
+8. The Act authorises 10–20 full-time Judicial and 10–20 full-time Expert Members; authorised complement is not proof of posts filled.
+9. Section 4 requires equal Judicial and Expert numbers at a hearing and separately permits invited specialists to assist a particular case without making them Tribunal Members.
+10. Principal Bench is at New Delhi; zonal benches sit at Bhopal, Pune, Kolkata and Chennai.
+11. Section 14 requires a civil case and substantial environmental question.
+12. The question must arise from Schedule I implementation.
+13. The original Schedule listed seven enactments; the Water Cess Act was repealed in 2017.
+14. Wildlife Protection Act and Indian Forest Act are not Schedule I laws.
+15. Section 16 contains a specific appellate list, including applicable EC orders.
+16. Section 18 gives broad representative standing.
+17. The Supreme Court recognised NGT suo motu power in 2021, bounded by natural justice and jurisdiction.
 
 ### Concept check
 
@@ -1420,11 +1457,11 @@ Progress: 11/12 | Stage: Advanced | Subtopic: Why sound legal design can still f
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-Book context: Environmental outcomes depend on information, capacity, incentives and enforcement across several institutions.
+Book context: Queried — *Economic Survey 2025-26*, Chapter 10, printed pages 412–413 (PDF pages 463–464), on overlapping clearances, weak post-clearance monitoring, SPCB capacity and inter-State variation.
 
 CA search: "official India EIA NGT implementation constraints 2026"
 
-CA found: None in the current six-month window.
+CA found: **29 July 2026, *Vanashakti v. Union of India* — the instrument-hierarchy dispute illustrates how weak preventive compliance and unlawful regularisation routes generate prolonged litigation and remedial uncertainty.**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1536,11 +1573,11 @@ Progress: 12/12 | Stage: Advanced | Subtopic: Designing faster, fairer and more 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-Book context: Reform must strengthen the entire chain from early alternatives to enforceable restoration.
+Book context: Queried — *Economic Survey 2025-26*, Chapter 10, printed pages 412–413 (PDF pages 463–464), on risk-based regulation, PARIVESH 3.0, environmental audit and consent reform.
 
 CA search: "official India EIA NGT reform design October 2026"
 
-CA found: None in the current six-month window.
+CA found: **S.O. 5189(E), 21 September 2026 — EC validity for ports, harbours, breakwaters and dredging was changed to 20 years, extendable by five years and, in deserving cases, a further five years after safeguard review.**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1581,6 +1618,8 @@ Time can be saved by:
 - publishing reasoned decisions promptly.
 
 Time should not be saved by eliminating material alternatives, baseline seasons, consultation or expert scrutiny.
+
+The September 2026 port-sector amendment illustrates the distinction. A longer EC-validity window may reflect long gestation and phased construction, but the two possible five-year extensions require EAC/SEAC examination of existing safeguards and any additional EMP conditions. Longer validity is therefore not permission to defer environmental control.
 
 ### 2. Better evidence
 
@@ -1644,7 +1683,8 @@ Use a balanced verdict:
 12. Restoration needs endpoints, finance and independent verification.
 13. Digitalisation is not accountability without disclosure.
 14. Compensation cannot replace prior permission.
-15. Predictability and rigour can reduce stranded investment and litigation.
+15. Longer EC validity for port-sector projects does not waive safeguard review for extensions.
+16. Predictability and rigour can reduce stranded investment and litigation.
 
 ### Concept check
 
@@ -1734,7 +1774,7 @@ The question text is presented first without answer cues. The demand and route f
 
 **Demand:** compare a draft proposal with the operative notification as it stood in 2020.
 
-**Answer approach:** use a two-column comparison of categorisation, consultation, reporting and violation treatment, clearly stating that a draft is not operative law. For a present-day answer, add that the 2006 Notification as amended still governs on 3 October 2026.
+**Answer approach:** use a two-column comparison of categorisation, consultation, reporting and violation treatment, clearly stating that a draft is not operative law. For a present-day answer, add that the 2006 Notification as amended still governs on 5 October 2026.
 
 ## 2022 GS-II, Question 1 — 10 marks, 150 words
 
@@ -1746,7 +1786,7 @@ The question text is presented first without answer cues. The demand and route f
 
 ## 2024 GS-III, Question 8 — 10 marks, 150 words
 
-> What role do environment NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details.
+> What role do environment NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important detais.
 
 **Demand:** explain mechanisms of influence and provide four accurate, bounded examples.
 
@@ -1768,9 +1808,29 @@ The question text is presented first without answer cues. The demand and route f
 
 **Answer approach:** avoid a security-versus-environment binary → identify secrecy and participation constraints → propose proportionate appraisal, independent expertise, mitigation, monitoring and reasoned exceptions.
 
+## 2026 GS-III, Question 7 — 10 marks, 150 words — necessary cross-link
+
+> Discuss how the contradiction between "rapid infrastructure development" and "disaster-risk reduction" in ecologically-sensitive areas of India can be managed, with suitable examples.
+
+**Primary ownership:** Disaster Management. Topic 16 supplies only the EIA, cumulative-impact, carrying-capacity, siting and enforceable-condition dimensions; it does not displace the Disaster Management owner.
+
+**Demand:** reconcile infrastructure need with risk-sensitive location, design, construction and lifecycle governance.
+
+**Answer approach:** hazard and exposure mapping → cumulative EIA and carrying capacity → avoid/no-go and safer alternatives → resilient design and ecosystem buffers → monitoring, community participation and enforceable correction.
+
+## 2026 GS-IV, Question 1(b) — 10 marks, 150 words — necessary cross-link
+
+> A business house is working on a project that could displace a forest community from their habitat. As the administrative officer of that district, what ethical challenges are you likely to face?
+
+**Primary ownership:** Ethics. Topic 16 supplies only the EIA-disclosure, forest-rights, consultation-versus-consent and approval-boundary dimensions; it does not convert the question into a purely environmental-law answer.
+
+**Demand:** identify the officer's ethical conflicts among development, legality, forest-community rights, livelihood, culture, procedural fairness and public order.
+
+**Answer approach:** map stakeholders and non-fungible losses → distinguish EIA consultation from rights/consent processes → identify conflict of roles and manufactured-consent risk → propose lawful, transparent and participatory decision-making without prejudging the project.
+
 ## 2026 status
 
-The official 2026 General Studies papers were checked. No directly owned EIA/NGT question was identified; no question has been reconstructed or invented.
+The official 2026 General Studies papers were checked. No directly owned EIA/NGT question was identified. The two necessary cross-links above retain their Disaster Management and Ethics primary ownership; no question has been reconstructed or invented.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -1850,9 +1910,12 @@ The official 2026 General Studies papers were checked. No directly owned EIA/NGT
 | Draft EIA 2020 shortened every operative deadline | It remained a draft; compare each proposal with current amended law |
 | More conditions mean stronger clearance | Test measurability, ownership and triggers |
 | PARIVESH grants approval automatically | It manages workflow and information; statutory authority still decides |
+| EC replaces every other environmental permission | EC projects are exempt from a separate CTE, but CTO and independently triggered forest, wildlife and CRZ approvals remain |
+| Port-sector EC now lasts indefinitely | S.O. 5189(E) gives 20 years plus conditional five-year and further five-year extensions after safeguard review |
 | Third-party audit replaces regulators | The 2025 Rules expressly make it supplementary to public inspection and enforcement |
 | NGT hears every environmental matter | Apply Sections 14/16 and Schedule I |
 | NGT is only a bench of judges | Its statutory design combines Judicial and Expert Members |
+| Old NGT Act Section 5 or repealed 2021 qualifications remain current | Apply Section 10A, the Tribunals Reforms Act, 2026 and G.S.R. 856(E), Rule 25(XI) |
 | All NGT claims have six months | Use the remedy-specific limitation clock |
 | NGT follows CPC and Evidence Act | It follows natural justice and has specified civil-court powers |
 | Polluter Pays permits pollution | It allocates prevention/remediation cost and liability |
@@ -1894,8 +1957,12 @@ EAC/SEAC reasoned recommendation
 9. DECISION
 grant with conditions / reject with reasons
         ↓
-10. POST-CLEARANCE
-half-yearly public reports + PARIVESH record + inspection/audit + correction
+10. PARALLEL/SEQUENTIAL APPROVAL BOUNDARIES
+EC-project separate CTE exemption ≠ CTO exemption
+forest / wildlife / CRZ approvals remain independent where triggered
+        ↓
+11. POST-CLEARANCE
+CTO where applicable + half-yearly reports + PARIVESH + inspection/audit + correction
 ```
 
 ## EIA–NGT comparison
@@ -1958,7 +2025,7 @@ precaution + live alternatives + public role
 - Precaution addresses credible serious risk despite incomplete certainty.
 - Compensation and restoration do not always reproduce lost ecological function.
 
-## Legal architecture as at 3 October 2026
+## Legal architecture as at 5 October 2026
 
 - EIA Notification, 2006, S.O. 1533(E), remains the general operative framework as amended.
 - Draft EIA 2020 is not the governing replacement.
@@ -1976,11 +2043,15 @@ precaution + live alternatives + public role
 - SAEIA's notified offices are: Chief Secretary or Advisor to the Administrator or Lt. Governor as Chairperson; Principal Chief Conservator of Forest (Head of Forest Force) as Member; and an Environment Department Special Secretary, Joint Secretary or Deputy Secretary as Member Secretary.
 - SCEIA's notified offices are: Environment Department Administrative Secretary as Chairperson; Chief Wildlife Warden; Director General or Director, State Health Services; Member Secretary of the State Pollution Control Board or Union territory Pollution Control Committee; the Director or Principal of an Indian Institute of Technology or National Institute of Technology located in the State/UT or their nominee as required, with a domain expert nominated by the Director of the National Environmental Engineering Research Institute where neither institution exists; and an Environment Department Special Secretary, Joint Secretary or Deputy Secretary as Member Secretary.
 - The SCEIA Chairperson may co-opt expert(s) or institutions of repute to assist in particular matters; this does not alter the notified composition.
+- S.O. 5189(E), 21 September 2026: EC for ports, harbours, breakwaters and dredging is valid for 20 years, extendable by five years and, in deserving cases, another five years after EAC/SEAC safeguard review.
 - General Condition elevates only entries to which it applies.
 - It does not apply to entries 8(a) and 8(b).
 - Entry 8(a): at least 20,000 and below 150,000 square metres built-up area.
 - Entry 8(b): at least 50 hectares and/or at least 150,000 square metres; EIA and B1 appraisal.
 - Supreme Court quashed the 2025 Note exempting industrial sheds, schools, colleges and educational hostels.
+- EC answers project acceptability; CTE/CTO belong to the Air and Water Act pollution-consent system.
+- Projects with prior EC are exempt from a separate CTE under G.S.R. 702(E) and 703(E), 12 November 2024; CTO continues, while white-category industries are exempt from both.
+- Forest diversion, wildlife and CRZ approvals remain independent where their own legal triggers apply.
 - Statute outranks notification; notification outranks inconsistent OM/circular.
 
 ## Study design
@@ -2008,7 +2079,7 @@ precaution + live alternatives + public role
 - Material concerns must receive an issue-wise response.
 - Consultation is not universal.
 - Hearing is not automatically consent.
-- Forest, wildlife, land, pollution-consent and tribal-rights processes remain legally distinct.
+- Forest, wildlife, CRZ, land, pollution-consent and tribal-rights processes remain legally distinct.
 - Gram Sabha authority depends on the applicable statute and territorial context.
 - Local knowledge can reveal seasonal and livelihood evidence missed by consultants.
 - Mopa: disclosure/appraisal defects led to suspension and fresh expert review, not permanent cancellation.
@@ -2028,6 +2099,7 @@ precaution + live alternatives + public role
 - Monitoring needs independent checks and corrective triggers.
 - PARIVESH—Pro-Active and Responsive facilitation by Interactive, Virtuous and Environmental Single-window Hub—supports common application data, approval guidance, GIS decision support, workflow tracking and compliance management.
 - PARIVESH does not change legal thresholds or replace hearing and appraisal.
+- Single-window filing does not merge EC, CTO, forest, wildlife and CRZ legal tests.
 - Environment Audit Rules, 2025 took effect through S.O. 3973(E), 29 August 2025.
 - EADA certifies, registers and monitors REAs; registration is valid for five years subject to renewal.
 - REAs may audit, sample, verify self-compliance and report violations; random assignment applies to allocated audits.
@@ -2036,10 +2108,12 @@ precaution + live alternatives + public role
 ## NGT jurisdiction and institution
 
 - Statutory tribunal under NGT Act, 2010.
+- Section 10A makes the Tribunals Reforms Act, 2026 and G.S.R. 856(E), Rule 25(XI), controlling for current qualifications, appointment and service conditions.
 - Chairperson: serving or former Supreme Court Judge, or serving or former Chief Justice of a High Court.
-- Judicial Member: the Supreme Court Judge or High Court Chief Justice routes in Section 5(1), plus the proviso's serving-or-former High Court Judge route.
-- Technical Expert Member: Master of Science in physical or life sciences with a Doctorate, or Master of Engineering or Master of Technology, plus 15 years’ relevant experience including five practical years in environment and forests at a reputed national-level institution.
-- Administrative Expert Member: 15 years’ administrative experience including five years dealing with environmental matters in the Union/State Government or a reputed national/State-level institution.
+- Judicial Member: serving/former High Court Judge; combined ten years as District and Additional District Judge; ten years as an advocate with substantial environmental/forest litigation experience before the NGT, High Court or Supreme Court; or serving/former Indian Legal Service member in Grade I or above.
+- Technical Expert Member: Science degree, postgraduate degree or doctorate plus 25 years’ relevant experience, including five practical years in environment and forests at a reputed national-level institution.
+- Administrative Expert Member: 20 years’ administrative experience including five years dealing with environmental matters in the Union/State Government or a reputed national-level institution.
+- Rule 25(XI) has no minimum-age floor; Section 17 sets five-year terms subject to age 70 for the Chairperson and age 67 for a Member.
 - The Act authorises 10–20 full-time Judicial Members and 10–20 full-time Expert Members; actual vacancies are a separate capacity question.
 - An application or appeal must be heard by equal numbers of Judicial and Expert Members.
 - Section 4 permits the Chairperson to invite specialised persons to assist in a particular case; an invitee is not thereby appointed a Member or granted voting status.
@@ -2100,10 +2174,11 @@ precaution + live alternatives + public role
 | Required unit | Lesson(s) | Practice/retrieval location |
 |---|---|---|
 | EIA rationale and preventive logic | 1 | Cumulative Check 1; register notes |
-| Current EIA Notification status | 2 | 2020 PYQ route; legal-architecture notes |
+| Current EIA Notification status, including S.O. 5189(E) | 2, 12 | 2020 PYQ route; legal-architecture notes; reform guardrail |
 | Draft EIA 2020 substantive differences and non-operative status | 2 | Cumulative Check 5; remediation |
 | Category A/B/B1/B2 and authorities | 2 | Lesson 2 check; master process |
 | S.O. 3862(E)/3863(E), prospective four-year tenure, activation, exact SAEIA/SCEIA offices, rank alternatives, domain-expert nomination and fallback | 2 | Cumulative Check 6; legal-architecture notes |
+| EC/CTE/CTO distinction and independent forest/wildlife/CRZ regimes | 2, 5, 6 | Lesson 2 approval table; master EIA process; remediation |
 | Screening and scoping | 3 | Cumulative Check 1 |
 | Baseline and data quality | 3, 6 | Lesson 3 model; accountability notes |
 | Impact prediction and significance | 4 | Master EIA process |
@@ -2116,7 +2191,7 @@ precaution + live alternatives + public role
 | Consultant and proponent accountability | 6 | Lesson 6 check |
 | Appraisal and post-clearance monitoring | 6 | Accountability-loop visual |
 | PARIVESH 3.0 and Environment Audit Rules, 2025 | 6 | Register notes; remediation |
-| NGT Sections 4–5: exact Judicial and Expert eligibility routes, authorised complement, equal hearing balance, specialist-assistance provision, jurisdiction and benches | 7 | 2018 Prelims route; register notes |
+| NGT Section 4/10A, Tribunals Reforms Act, 2026 and G.S.R. 856(E) Rule 25(XI): current Judicial and Expert eligibility routes, authorised complement, equal hearing balance, specialist assistance, jurisdiction and benches | 7 | 2018 Prelims route; register notes |
 | Standing and suo motu power | 7 | Lesson 7 model |
 | Limitation periods | 8 | Cumulative Check 3 |
 | Section 20 principles | 8 | NGT clocks/principles notes |
@@ -2128,8 +2203,8 @@ precaution + live alternatives + public role
 | Ex post facto jurisprudence through 2026 | 10 | Cumulative Check 4; argument map |
 | Implementation constraints | 11 | Lesson 11 model |
 | Reform design | 12 | Final 20-mark model |
-| Exact official PYQs and neutrality | Final PYQ section | Questions precede all demand clues; objective keys withheld |
-| One genuine current-affairs linkage | 10 only | 29 July 2026 *Vanashakti* |
+| Exact official PYQs, neutrality and ownership | Final PYQ section | Questions precede demand clues; objective keys withheld; 2026 GS-III Q7 and GS-IV Q1(b) retain Disaster Management/Ethics primary ownership |
+| Genuine current-affairs linkages | 2, 10, 12 | S.O. 5189(E), 21 September 2026; *Vanashakti*, 29 July 2026 |
 | Consolidated final retrieval | Final register notes | Last teaching/practice section |
 
 # SOURCE LEDGER
@@ -2138,15 +2213,15 @@ precaution + live alternatives + public role
 
 ### Knowledge provenance and topic boundaries
 
-| Category | Status | Provenance |
+| Category | Status | Evidence or reason |
 |---|---|---|
 | Canonical Markdown | checked | Exact Core and cross-topic owner paths are listed below |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Layered/complete session | not relevant | No separate permitted complete-session source was required for this topic |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | Exact Advanced owner path is listed below |
-| OCR books | not available | Legal propositions rest on the official instruments and judgments listed below |
-| PYQs through 2026 | checked | Exact routing-ledger paths are listed below; no direct 2026 Topic 16 question was identified |
+| OCR books | checked | `books\economic-survey-2025-26.pdf`, Chapter 10, printed pages 411–413 (PDF pages 462–464), corroborates ex-ante EIA, PARIVESH 3.0, audit/consent reform, overlapping clearances, weak post-clearance monitoring and SPCB capacity constraints |
+| PYQs through 2026 | checked | Exact routing-ledger and official-scan paths are listed below; no directly owned 2026 Topic 16 question was found, while two necessary cross-links retain their primary owners |
 | Official live sources | checked | Exact notifications, Act, releases and judgments are listed below |
 
 | Exact owner path | Substantive provenance used here |
@@ -2166,7 +2241,9 @@ precaution + live alternatives + public role
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` | 2024 NGO/activist, 2025 mining and 2025 border-clearance question routing |
 | `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | Official 2026 GS-I check; no directly owned question found |
 | `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md` | Official 2026 GS-II check; no directly owned question found |
-| `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md` | Official 2026 GS-III check; no directly owned question found |
+| `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md` | Official 2026 GS-III check; Question 7 retained as a Disaster Management-owned necessary cross-link |
+| `upsc-ai-kit\knowledge\Ethics\_PYQ-GS4-SectionA-2026.md` | Official 2026 GS-IV Section A check; Question 1(b) retained as an Ethics-owned necessary cross-link |
+| `upsc-ai-kit\knowledge\Ethics\_PYQ-GS4-SectionB-2026.md` | Official 2026 GS-IV Section B check; no additional Topic 16 cross-link found |
 
 ## Primary legal and official sources used
 
@@ -2179,9 +2256,15 @@ precaution + live alternatives + public role
 | S.O. 3862(E), 13 July 2026, Gazette No. 3700, CG-DL-E-14072026-274485, official copy at `https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1001_16072026094223.pdf` | four-year EAC/SEIAA/SEAC tenure, removal of the former extra-year extension, advance reconstitution, SAEIA/SCEIA fallback and omission of the earlier Central default route |
 | S.O. 3863(E), 13 July 2026, Gazette No. 3701, CG-DL-E-14072026-274486, official copy at `https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1017_16072026095050.pdf` | exact SAEIA/SCEIA offices, Special/Joint/Deputy Secretary alternatives, IIT/NIT representative and Director-NEERI nomination design, matter-specific SCEIA assistance, activation definitions, functions, duration and secretariat |
 | MoEFCC Office Memorandum IA3-22/15/2026-IA.III, 29 July 2026, official copy at `https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1002_29072026022216.pdf` | prospective tenure clarification: four years for bodies constituted after 13 July 2026; original three years for earlier bodies |
+| S.O. 5189(E), 21 September 2026, official copy at `https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1018_22092026055736.pdf` | 20-year EC validity for ports, harbours, breakwaters and dredging; conditional five-year and further five-year extensions after EAC/SEAC safeguard review |
+| G.S.R. 702(E) and G.S.R. 703(E), 12 November 2024; MoEFCC OM, 14 November 2024; PIB PRIDs 2073234, 2086122 and 2099128 | white-category CTE/CTO exemption; separate-CTE exemption for projects with prior EC; integration of SPCB/PCC conditions into EC; continued CTO mechanism |
+| Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980; Wildlife (Protection) Act, 1972; CRZ Notification S.O. 37(E), 18 January 2019, read with the applicable coastal-zone plan and transition position | independent forest-diversion, wildlife/protected-area and coastal-regulation legal triggers; no substitution by EC, consent integration or PARIVESH filing |
 | PIB release PRID 2041465, 5 August 2024 | PARIVESH 3.0 single-window scope and KYA, common-form, GIS/DSS and compliance functions |
 | Environment Audit Rules, 2025, S.O. 3973(E), 29 August 2025 | EADA/REA framework, functions, five-year registration, random assignment and supplementary character |
-| National Green Tribunal Act, 2010, Act 19 of 2010, official India Code record at `https://www.indiacode.nic.in/handle/123456789/2025?col=123456789/1362` | Sections 4–5 composition, exact Judicial/Expert eligibility routes, equal hearing balance and invited-specialist assistance; Sections 14–22, Schedule I, standing, principles, remedies and appeal |
+| *Economic Survey 2025-26*, Chapter 10, printed pages 411–413 (local OCR PDF pages 462–464) | ex-ante EIA architecture; PARIVESH 3.0; Environment Audit Rules; uniform consent reform; official acknowledgement of overlapping clearances, weak monitoring, SPCB capacity constraints, inter-State variation and litigation uncertainty |
+| National Green Tribunal Act, 2010, Act 19 of 2010, official India Code record at `https://www.indiacode.nic.in/handle/123456789/2025?col=123456789/1362` | Section 4 composition/hearing balance/specialist assistance; Section 10A bridge; Sections 14–22, Schedule I, standing, principles, remedies and appeal |
+| Tribunals Reforms Act, 2026, Act 17 of 2026, `https://egazette.gov.in/WriteReadData/2026/275447.pdf`; commencement S.O. 4713(E), `https://egazette.gov.in/WriteReadData/2026/275749.pdf` | repeal of the 2021 Act, current Section 10A personnel bridge, commencement on 25 August 2026, and Section 17 tenure ceilings |
+| *National Tribunals Commission and Qualification, Selection, and Conditions of Service of Chairperson and Members of Tribunals Rules, 2026*, G.S.R. 856(E), 30 September 2026, Rule 25(XI), `https://egazette.gov.in/WriteReadData/2026/276693.pdf` | current Chairperson, four Judicial Member routes including Indian Legal Service Grade I, Expert Member 25/20-year routes, and absence of a minimum-age floor |
 | *Municipal Corporation of Greater Mumbai v. Ankita Sinha*, Supreme Court, 7 October 2021 | NGT suo motu power and natural-justice safeguard |
 | *Hanuman Laxman Aroskar v. Union of India*, Supreme Court, 29 March 2019 and 16 January 2020 | Mopa disclosure/appraisal defects, fresh review and later conditional continuation |
 | *Orissa Mining Corporation v. Ministry of Environment and Forest*, Supreme Court, 18 April 2013 | Niyamgiri Gram Sabha determination of community, cultural and religious forest rights |
@@ -2189,5 +2272,5 @@ precaution + live alternatives + public role
 | *T.N. Godavarman Thirumulpad/K.M. Chinnappa v. Union of India*, Supreme Court, 30 October 2002 | Kudremukh protected-area phase-out, closure and reclamation directions |
 | *Vanashakti v. Union of India*, Supreme Court, 16 May 2025 | first 2025 ruling on the 2017 notification and 2021 OM |
 | CREDAI review in *Vanashakti*, Supreme Court, 18 November 2025 | recall of the May 2025 judgment and restoration of proceedings |
-| *Vanashakti v. Union of India*, Supreme Court, 29 July 2026, 2026 INSC 761 | controlling ex post facto clearance position as at 3 October 2026 |
-| Official UPSC question papers, 2018–2026 | exact PYQ wording, marks and word limits |
+| *Vanashakti v. Union of India*, Supreme Court, 29 July 2026, 2026 INSC 761 | controlling ex post facto clearance position as at 5 October 2026 |
+| Official UPSC question papers, 2018–2026, including `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` and `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-IV.pdf` | exact PYQ wording, marks and word limits; 2026 cross-link ownership verified against the routing ledgers |
