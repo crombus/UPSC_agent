@@ -1,7 +1,7 @@
 # UNFCCC, COP, Kyoto Protocol and Paris Agreement — Live Session Edition
 
 > **Scope:** GS-III Environment, Prelims, and the climate-governance dimension of GS-II.
-> **Status date:** 3 October 2026. COP31/CMP21/CMA8 are scheduled for November 2026; this edition attributes no outcome to those future sessions.
+> **Status date:** 5 October 2026. COP31/CMP21/CMA8 are scheduled for November 2026; this edition attributes no outcome to those future sessions.
 
 ## Roadmap
 
@@ -12,13 +12,13 @@
 | 3 | Core | What exactly did Kyoto bind, and why are Annex I, Annex II and Annex B not interchangeable? |
 | 4 | Core | How did Kyoto's flexibility mechanisms work, and what survives after Doha? |
 | 5 | Core | What are Paris's goals, and which parts of the Agreement are legally binding? |
-| 6 | Core | How do NDCs, progression, transparency, stocktake and compliance form one cycle? |
-| 7 | Core | What do Articles 6.2, 6.4 and 6.8 do, and why is accounting integrity decisive? |
+| 6 | Core | How do NDC common time frames, BTRs, transparency, stocktake and compliance form one cycle? |
+| 7 | Core | What do Articles 6.2, 6.4 and 6.8 do, and what was operational by 5 October 2026? |
 | 8 | Core | How do adaptation and loss and damage differ from mitigation? |
-| 9 | Core | How is climate finance organised, and what is the legal status of headline finance figures? |
+| 9 | Core | How is climate finance organised, reported ex ante/ex post, and separated from headline figures? |
 | 10 | Core | How do technology transfer and capacity-building convert promises into implementation? |
-| 11 | Core | Which negotiated milestones matter from Rio to Belém, and what was still pending on 3 October 2026? |
-| 12 | Core | How does India connect equity, carbon space, NDCs and LT-LEDS to its negotiating position? |
+| 11 | Core | Which legal bodies adopted the major outcomes from Rio to Belém, and what remained pending on 5 October 2026? |
+| 12 | Core | How can India illustrate Paris treaty categories without duplicating Topic 20's domestic-policy treatment? |
 | 13 | Advanced | What are the regime's deepest design tensions, traps and defensible reforms? |
 
 The sequence completes the treaty and institutional core before moving to advanced evaluation.
@@ -29,8 +29,8 @@ Progress: 1 / 13 | Stage: Foundation | Subtopic: Objective, principles, commitme
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical treaty chapter and official Convention text queried
-CA search: "UNFCCC objective principles CBDR-RC official status 3 October 2026"
-CA found: No separate current-affairs linkage; the Convention's legal text is the teaching anchor
+CA search: "UNFCCC objective principles CBDR-RC official text current 5 October 2026"
+CA found: None; the current official Convention text, rather than a dated news event, is the controlling anchor
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: from planetary problem to differentiated action
@@ -58,13 +58,13 @@ climate action cannot erase poverty-eradication and development needs
 
 The Convention joins a common environmental objective to differentiated burdens; it does not choose between universality and equity.
 
-### 1. Start with the actual problem
+### The governance puzzle
 
 A stable climate is a global public good. One country cannot secure it alone, while the benefits of another country's mitigation are shared widely. That creates incentives to free-ride. The 1992 United Nations Framework Convention on Climate Change (UNFCCC) therefore supplies a durable framework for cooperation, reporting, finance, science and later legal instruments.
 
 The UNFCCC is a **framework convention**. It establishes the constitutional architecture of climate governance. More specific rules were later added through the Kyoto Protocol, the Paris Agreement and decisions of their governing bodies.
 
-### 2. The Article 2 objective
+### Article 2: objective and safeguards
 
 The ultimate objective is to stabilise greenhouse-gas concentrations at a level that prevents dangerous anthropogenic interference with the climate system. The Convention adds three safeguards to the time frame:
 
@@ -74,7 +74,7 @@ The ultimate objective is to stabilise greenhouse-gas concentrations at a level 
 
 This is not a quantified concentration ceiling. It is a governing objective against which later instruments develop more specific obligations.
 
-### 3. Article 3 principles
+### Article 3: the equity architecture
 
 | Principle | Meaning | What it prevents |
 |---|---|---|
@@ -87,7 +87,7 @@ This is not a quantified concentration ceiling. It is a governing objective agai
 
 **CBDR-RC is not an exemption from action.** "Common" means all Parties act. "Differentiated" means the type, timing and support conditions may differ. "Respective capabilities" makes differentiation dynamic rather than permanently binary.
 
-### 4. Principles are not the same as operative commitments
+### From principle to operative duty
 
 The legal grammar matters:
 
@@ -98,13 +98,13 @@ The legal grammar matters:
 
 Article 4.1 creates commitments for **all Parties**, including inventories, mitigation and adaptation programmes, technology cooperation, conservation of sinks, research, education and implementation reporting. Article 4.2 adds leadership commitments for Annex I Parties. Articles 4.3–4.5 establish finance and technology-support responsibilities of developed countries.
 
-### 5. Example and its limit
+### A two-country stress test
 
 Suppose a high-income state and a low-income climate-vulnerable state both prepare emissions inventories. That is common responsibility. If the high-income state also provides finance and technology while undertaking earlier economy-wide mitigation, responsibility is differentiated.
 
 The analogy has a limit: treaty duties are not calculated by a single moral formula. Negotiated annexes, articles, national circumstances and later agreements determine the operative burden.
 
-### 6. Objection, reply and residual
+### Can differentiation become a permanent exemption?
 
 **Objection:** Differentiation freezes the world into 1992 categories and lets emerging emitters avoid ambition.
 
@@ -155,8 +155,8 @@ Progress: 2 / 13 | Stage: Core | Subtopic: Institutions, party groupings, COP pr
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical institution sections and official UNFCCC process material queried
-CA search: "UNFCCC party groupings COP CMP CMA negotiation process official 2026"
-CA found: No separate linkage; current group lists were used only to verify institutional status
+CA search: "UNFCCC COP31 CMP21 CMA8 notification 17 July 2026 Antalya official"
+CA found: UNFCCC notification dated 17 July 2026 scheduled COP31, CMP21 and CMA8 for 9–20 November 2026 in Antalya
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one conference venue, three legal rooms
@@ -177,7 +177,7 @@ UN CLIMATE CONFERENCE
 
 The meetings often occur together, but their membership, mandate and decision numbers remain legally separate.
 
-### 1. Permanent institutional spine
+### The permanent institutional spine
 
 | Body | Core function |
 |---|---|
@@ -190,7 +190,7 @@ The meetings often occur together, but their membership, mandate and decision nu
 
 Constituted bodies add specialist functions: the Adaptation Committee, Standing Committee on Finance, Technology Executive Committee, Paris Committee on Capacity-building, Warsaw International Mechanism Executive Committee and Paris compliance committee, among others.
 
-### 2. COP, CMP and CMA
+### Three governing rooms: COP, CMP and CMA
 
 | Feature | COP | CMP | CMA |
 |---|---|---|---|
@@ -201,7 +201,7 @@ Constituted bodies add specialist functions: the Adaptation Committee, Standing 
 
 The COP did not become the CMA merely because Paris was adopted at COP21. The Convention COP adopted the Paris Agreement; once Paris entered into force, the COP **serving as the meeting of the Parties to the Paris Agreement** became the CMA.
 
-### 3. Formal categories versus negotiating coalitions
+### Legal categories are not negotiating coalitions
 
 Treaty annexes allocate legal roles. Negotiating groups coordinate political positions. They are not interchangeable.
 
@@ -220,7 +220,7 @@ Treaty annexes allocate legal roles. Negotiating groups coordinate political pos
 
 Membership overlaps. India can speak through India, BASIC, LMDC and G77 and China depending on the issue. A coalition statement is not a treaty obligation.
 
-### 4. How text becomes a decision
+### Decision pipeline: from agenda item to numbered outcome
 
 ```text
 agenda item
@@ -235,7 +235,7 @@ agenda item
 
 UNFCCC practice seeks consensus. Consensus means no formal objection preventing adoption, not that every Party considers every sentence ideal. The Presidency brokers compromise; the secretariat supports but does not impose the political bargain.
 
-### 5. What can mislead a learner
+### Status test for conference outputs
 
 - A **Presidency text** is a negotiating proposal until adopted.
 - A **high-level declaration** signed by some states is not automatically a COP decision.
@@ -243,7 +243,7 @@ UNFCCC practice seeks consensus. Consensus means no formal objection preventing 
 - A decision can be authoritative for implementation without amending the treaty.
 - "The COP agreed" must identify which governing body adopted which text.
 
-### 6. Objection, reply and residual
+### Consensus: legitimacy gained, deliberation lost?
 
 **Objection:** Consensus gives every Party a veto and produces lowest-common-denominator language.
 
@@ -294,8 +294,8 @@ Progress: 3 / 13 | Stage: Core | Subtopic: Annex distinctions, quantified target
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical Kyoto sections and official Protocol text queried
-CA search: "Kyoto Protocol Annex I Annex II Annex B compliance official current status"
-CA found: No separate linkage; post-2020 status is treated as treaty legacy, not a new event
+CA search: "Kyoto Protocol Annex B Doha Amendment current status no third commitment period official 2026"
+CA found: None; official Kyoto, Doha and CMP records confirm treaty continuity but no post-2020 commitment period
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: three annex labels, three different jobs
@@ -313,13 +313,13 @@ industrialised states + economies in transition
 
 Annex II is a subset of Convention Annex I; Kyoto Annex B is the Protocol's target schedule. The labels answer different questions.
 
-### 1. Kyoto's central design
+### The target architecture
 
 The 1997 Kyoto Protocol translated developed-country leadership into quantified commitments. For the first commitment period, participating Annex I Parties had assigned amounts based on percentages listed in Annex B, with an aggregate aim of at least 5 per cent below 1990 levels during 2008–2012.
 
 The target was not "each country cuts exactly 5 per cent." Annex B contained differentiated percentages: some Parties reduced more, some stabilised, and some were permitted an increase relative to the base year.
 
-### 2. Who was legally bound?
+### The participation gate
 
 The safe sequence is:
 
@@ -331,7 +331,7 @@ Saying "all Annex I countries were bound" is overbroad. The United States signed
 
 India was a non-Annex I Party under the Convention and did not receive a Kyoto quantified emissions target. It still had Convention duties and could host Clean Development Mechanism projects.
 
-### 3. Assigned amount and accounting
+### The assigned-amount ledger
 
 ```text
 base-year emissions
@@ -344,13 +344,13 @@ base-year emissions
 
 Kyoto covered a basket of greenhouse gases listed in Annex A and used carbon-dioxide-equivalent accounting. National systems, inventories, registries and expert review were therefore central, not administrative afterthoughts.
 
-### 4. Bindingness and compliance
+### Compliance architecture versus environmental effect
 
 Kyoto imposed legally binding quantified commitments on participating developed-country Parties. Reporting under Articles 5, 7 and 8 supported review. The Marrakesh Accords developed a Compliance Committee with facilitative and enforcement branches.
 
 Binding law did not guarantee effectiveness. Participation gaps, surplus assigned amounts, economic change and limited coverage constrained environmental impact.
 
-### 5. Why developing countries had no quantified Kyoto targets
+### Equity rationale and its coverage cost
 
 The design followed a strong reading of CBDR-RC: industrialised countries had produced most historical emissions and were expected to act first. Developing countries retained development space and continued their Convention commitments without Annex B caps.
 
@@ -360,7 +360,7 @@ The design followed a strong reading of CBDR-RC: industrialised countries had pr
 
 **Residual:** A static binary architecture became increasingly difficult to sustain as the emissions distribution changed, helping drive the Paris shift.
 
-### 6. Example and limit
+### Worked percentage example—and why it is incomplete
 
 A country with an Annex B figure of 92 would have an assigned amount corresponding broadly to 92 per cent of its base-year emissions over the period, subject to detailed accounting. The example clarifies the percentage logic.
 
@@ -415,8 +415,8 @@ Progress: 4 / 13 | Stage: Core | Subtopic: Emissions trading, JI, CDM, second co
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Official Kyoto and Doha texts plus canonical mechanism coverage queried
-CA search: "Kyoto mechanisms Doha Amendment CDM transition Article 6 official 2026"
-CA found: No separate linkage; mechanism transition is a legal-status issue
+CA search: "UNFCCC first A6.4ER issuance 26 February 2026 CDM transition Myanmar official"
+CA found: UNFCCC approved the first A6.4ER issuance on 26 February 2026 for a Myanmar clean-cooking programme transitioned from the CDM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: three flexibility routes
@@ -438,23 +438,23 @@ KYOTO PARTY NEEDS COMPLIANCE UNITS
 
 The mechanisms changed where reductions occurred; they did not erase the buyer's quantified obligation.
 
-### 1. Cost-efficiency logic
+### Why flexibility entered the Kyoto bargain
 
 If reducing one tonne costs less in one location than another, cooperation can lower the total cost of meeting a given cap. Kyoto therefore allowed eligible units to move across Parties or arise from approved projects.
 
 The environmental condition is decisive: a traded unit must represent a real, additional and correctly counted reduction or permitted allowance. Otherwise cost-efficiency becomes paper compliance.
 
-### 2. International emissions trading
+### Route A — International emissions trading
 
 Article 17 allowed Annex B Parties to trade eligible units. Trading was supplemental to domestic action. The assigned-amount architecture created the unit base.
 
 **Trap:** It was not an unrestricted global voluntary offset market. Eligibility, registries, reporting and Protocol accounting controlled use.
 
-### 3. Joint Implementation
+### Route B — Joint Implementation
 
 Article 6 allowed one Annex I Party to obtain Emission Reduction Units from an additional project in another Annex I Party. Both host and acquiring sides were within the developed-country accounting system.
 
-### 4. Clean Development Mechanism
+### Route C — Clean Development Mechanism
 
 Article 12 allowed projects in non-Annex I countries to generate Certified Emission Reductions for use by Annex I Parties. It had two purposes:
 
@@ -463,13 +463,13 @@ Article 12 allowed projects in non-Annex I countries to generate Certified Emiss
 
 India became a major CDM host. Yet project additionality, uneven distribution, local sustainable-development quality and low credit prices became major criticisms.
 
-### 5. Doha Amendment
+### Doha closes the commitment-period arc
 
 The 2012 Doha Amendment established a second commitment period from 2013 to 2020. Participating Parties' aggregate commitments aimed at least 18 per cent below 1990 levels. It entered into force on 31 December 2020, the last day of that period, illustrating the cost of delayed acceptance.
 
 Not every first-period participant accepted a second-period target. The second period therefore had still narrower coverage.
 
-### 6. What is "current" about Kyoto?
+### Kyoto's legal status on 5 October 2026
 
 Kyoto remains a treaty in force, and the CMP continues to meet. But its quantified commitment periods ended in 2020. The honest formulation is:
 
@@ -478,9 +478,9 @@ Kyoto remains a treaty in force, and the CMP continues to meet. But its quantifi
 - **yes:** accounting, institutions, records and mechanism-transition questions continue;
 - **yes:** Paris Article 6 now provides the main architecture for new international cooperation.
 
-Some CDM activities and credits may transition only under agreed Paris rules. Transition is not automatic equivalence.
+CDM transition into Article 6.4 required the agreed Paris process, host-Party approval and updated standards; it was not automatic equivalence. By 30 June 2026, host Parties had approved 418 transition requests, and the first A6.4ER issuance had been approved on 26 February 2026.
 
-### 7. Objection, reply and residual
+### Do markets reduce cost or postpone structural transition?
 
 **Objection:** Carbon trading lets wealthy states buy their way out of domestic transition.
 
@@ -532,8 +532,8 @@ Progress: 5 / 13 | Stage: Core | Subtopic: Goals, universal participation and le
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Certified Paris Agreement text and canonical core queried
-CA search: "Paris Agreement legal character obligations NDC goals official status 2026"
-CA found: No separate linkage; treaty clauses control this lesson
+CA search: "Paris Agreement Article 4 legal obligations nationally determined targets official 2026"
+CA found: None; Articles 2 and 4 remain the controlling legal sources, with no 2026 event altering their operative verbs
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: what Paris binds and what it leaves nationally determined
@@ -553,7 +553,7 @@ LEGALLY BINDING TREATY
 
 Paris binds a cycle of conduct, communication, accounting and review more clearly than it binds achievement of each nationally chosen number.
 
-### 1. Article 2 has three connected goals
+### Article 2's three connected goals
 
 The Agreement aims to strengthen the global response by:
 
@@ -565,7 +565,7 @@ The 1.5°C clause is treaty text, not an optional slogan. Yet Article 2 does not
 
 Article 2.2 requires implementation to reflect equity and CBDR-RC in the light of different national circumstances.
 
-### 2. The architecture is universal but differentiated
+### Universal participation with contextual differentiation
 
 Kyoto negotiated quantified commitments for a subset of developed countries. Paris requires every Party to participate through nationally determined contributions (NDCs), while differentiation continues through:
 
@@ -576,7 +576,7 @@ Kyoto negotiated quantified commitments for a subset of developed countries. Par
 - recognition of least developed countries and small island developing states;
 - national circumstances.
 
-### 3. Legal grammar of Article 4
+### Read Article 4 by operative verb
 
 | Clause | Legal signal | Meaning |
 |---|---|---|
@@ -588,17 +588,17 @@ Kyoto negotiated quantified commitments for a subset of developed countries. Par
 
 Paris does not make each NDC's numerical outcome internationally enforceable in the same way as Kyoto's Annex B assigned amount. The obligation is often described as binding **process** plus nationally determined **substance**.
 
-### 4. Treaty, NDC and domestic law are separate layers
+### Keep treaty, NDC and domestic law in separate boxes
 
 A Party's NDC is an international communication under Paris. Its domestic implementation may rely on legislation, regulation, budgets and schemes. Failure to enact a particular domestic policy is not automatically the same legal question as non-compliance with a Paris procedural obligation.
 
 Likewise, a political announcement at a COP is not automatically inserted into an NDC. It becomes part of the formal NDC only when communicated as such.
 
-### 5. Withdrawal and durability
+### Durability, withdrawal and institutional continuity
 
 Paris is a treaty with entry-into-force and withdrawal clauses. A Party may withdraw only after the specified treaty period and notice. Political reversals can therefore affect participation, but the institutional framework persists.
 
-### 6. Objection, reply and residual
+### Legal-character stress test: is Paris merely voluntary?
 
 **Objection:** If national target achievement is not internationally enforceable, Paris is merely voluntary.
 
@@ -649,8 +649,8 @@ Progress: 6 / 13 | Stage: Core | Subtopic: NDC progression, transparency, Global
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Paris Articles 4, 13, 14 and 15 plus canonical ratchet analysis queried
-CA search: "Paris NDC cycle enhanced transparency Global Stocktake compliance official 2026"
-CA found: No separate linkage; implementation status is used only to explain the treaty cycle
+CA search: "UNFCCC Decision 6/CMA.3 common time frames first BTR 31 December 2024 ETF official"
+CA found: Decision 6/CMA.3 aligned the 2025 NDC round with a 2035 end date; first BTRs were due by 31 December 2024 under the ETF
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the five-year ratchet
@@ -676,13 +676,15 @@ next NDC informed by GST, progression and highest possible ambition
 
 Paris attempts to turn repeated information, review and political comparison into rising ambition.
 
-### 1. NDC sequence
+### NDC calendar and common time frames
 
 Article 4 requires an NDC every five years. Each successive contribution is expected to progress beyond the previous one and reflect highest possible ambition. The Global Stocktake informs, but does not dictate, the next nationally determined contribution.
 
 A Party may adjust its NDC at any time with a view to enhancing ambition. The Agreement does not authorise a downward adjustment as the purpose of that clause.
 
-### 2. Enhanced Transparency Framework
+Decision 6/CMA.3 adds a **common-time-frame decision rule**: it encourages Parties to communicate in 2025 an NDC with an end date of 2035, in 2030 an NDC with an end date of 2040, and so forth every five years. "Encourages" is the decision's verb; the rule aligns end dates without converting nationally determined targets into an internationally allocated percentage.
+
+### ETF reporting lane: from BUR/BR to BTR
 
 Article 13 establishes one framework for action and support with flexibility for developing countries that need it in light of capacity.
 
@@ -695,13 +697,15 @@ Developed countries shall provide information on finance, technology-transfer an
 
 **BTR** means Biennial Transparency Report. It is a backward-looking reporting vehicle, not a forward pledge.
 
-### 3. Global Stocktake
+Decision 18/CMA.1 required Paris Parties to submit their first BTR, and a stand-alone national inventory report where applicable, no later than **31 December 2024**, and thereafter every two years. Least developed countries and small island developing States may submit at their discretion. The BTR/ETF system supersedes the earlier biennial reports for developed countries and biennial update reports for developing countries; a final BUR and a BTR are therefore different instruments even where their transition deadlines coincide.
+
+### GST lane: collective course correction
 
 The CMA assesses **collective**, not individual, progress across mitigation, adaptation and means of implementation and support, in light of equity and best available science. The first GST concluded in 2023; subsequent stocktakes occur every five years unless otherwise decided.
 
 The GST does not issue national penalties or rewrite NDCs. Its outcome informs Parties as they update actions and support.
 
-### 4. Compliance mechanism
+### Article 15 lane: facilitation rather than punishment
 
 Article 15 creates an expert-based committee that is:
 
@@ -712,7 +716,7 @@ Article 15 creates an expert-based committee that is:
 
 It pays attention to national capabilities and circumstances. This differs sharply from a court imposing damages or a Kyoto-style enforcement consequence.
 
-### 5. Four mechanisms, four functions
+### Do not interchange the four mechanisms
 
 | Mechanism | Unit of attention | Function |
 |---|---|---|
@@ -723,7 +727,7 @@ It pays attention to national capabilities and circumstances. This differs sharp
 
 Conflating them causes poor answers. A BTR is not a new NDC; a GST is not an individual compliance trial.
 
-### 6. Objection, reply and residual
+### Can transparency substitute for sanctions?
 
 **Objection:** Transparency without sanctions cannot close the emissions gap.
 
@@ -740,18 +744,19 @@ Conflating them causes poor answers. A BTR is not a new NDC; a GST is not an ind
 ### Revision notes
 
 1. NDCs are communicated every five years.
-2. Successive NDCs are expected to progress.
-3. Highest possible ambition is nationally contextual.
+2. Decision 6/CMA.3 encourages a 2035 end date for the 2025 NDC round.
+3. Successive NDCs are expected to progress and reflect highest possible ambition.
 4. Article 13 creates the Enhanced Transparency Framework.
-5. All Parties report inventories and NDC progress.
-6. Capacity-based flexibility is available to developing countries that need it.
-7. Technical expert review is not a political punishment.
-8. BTRs report implementation; they do not replace NDCs.
-9. GST assesses collective progress.
-10. The first GST concluded in 2023.
-11. GST outcomes inform the next NDC round.
-12. Article 15 compliance is facilitative and non-punitive.
-13. Transparent implementation can still be collectively inadequate.
+5. First BTRs were due by 31 December 2024; subsequent reports are biennial.
+6. LDCs and SIDS may submit ETF information at their discretion.
+7. BTRs supersede BR/BUR reporting under the Paris transition.
+8. All Parties report inventories and NDC progress, subject to applicable flexibility.
+9. Technical expert review is not a political punishment.
+10. BTRs report implementation; they do not replace NDCs.
+11. GST assesses collective progress; the first concluded in 2023.
+12. GST outcomes inform the next NDC round.
+13. Article 15 compliance is facilitative and non-punitive.
+14. Transparent implementation can still be collectively inadequate.
 
 ### Concept check
 
@@ -765,7 +770,7 @@ Conflating them causes poor answers. A BTR is not a new NDC; a GST is not an ind
 
 **Question (15 marks, 250 words):** Evaluate the Paris Agreement's ratchet mechanism as an answer to weak initial ambition.
 
-**Mains model:** Paris cannot impose a uniform national emissions target, so it relies on a recursive ambition cycle. Each Party must communicate an NDC every five years, pursue domestic measures and provide inventories and progress information under the Enhanced Transparency Framework. Technical expert review and multilateral consideration improve comparability and expose implementation gaps. The Global Stocktake then assesses collective mitigation, adaptation and support in light of equity and science; its outcome informs the next NDC round. Progression and "highest possible ambition" seek to prevent stagnation.
+**Mains model:** Paris cannot impose a uniform national emissions target, so it relies on a recursive ambition cycle. Each Party must communicate an NDC every five years, pursue domestic measures and provide inventories and progress information under the Enhanced Transparency Framework. Decision 6/CMA.3 encourages the 2025 round to use a 2035 end date, aligning successive cycles. First BTRs were due by 31 December 2024 and then biennially, replacing the earlier BR/BUR reporting tracks. Technical expert review and multilateral consideration improve comparability and expose implementation gaps. The Global Stocktake then assesses collective mitigation, adaptation and support in light of equity and science; its outcome informs the next NDC round. Progression and "highest possible ambition" seek to prevent stagnation.
 
 This design has three strengths. It preserves sovereignty, secures broad participation and creates repeated political opportunities to raise ambition. Common reporting also makes unsupported claims harder.
 
@@ -781,8 +786,8 @@ Progress: 7 / 13 | Stage: Core | Subtopic: Cooperative approaches, UN crediting 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Paris Article 6, official COP29 implementation summary and carbon-market companion queried
-CA search: "Paris Article 6.2 6.4 6.8 official corresponding adjustment 2026"
-CA found: No separate linkage; dated operational guidance is part of the treaty's implementation history
+CA search: "UNFCCC Article 6 first A6.4ER issuance interim registry 26 February 2026 official"
+CA found: First A6.4ER issuance approved on 26 February 2026; official September 2026 guidance still described an interim Article 6.4 registry pending the final system
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: three branches of Article 6
@@ -804,7 +809,7 @@ VOLUNTARY INTERNATIONAL COOPERATION
 
 Article 6 is broader than carbon trading because one of its three branches is explicitly non-market.
 
-### 1. Article 6.2
+### Party-led cooperation under Article 6.2
 
 Parties may use internationally transferred mitigation outcomes (ITMOs) through voluntary cooperative approaches. Participating Parties must:
 
@@ -814,9 +819,9 @@ Parties may use internationally transferred mitigation outcomes (ITMOs) through 
 - apply robust accounting; and
 - avoid double counting.
 
-A **corresponding adjustment** prevents both seller and buyer from claiming the same transferred outcome toward their NDCs.
+Authorization must identify the cooperative approach, mitigation outcomes and permitted use. The use may be toward another Party's NDC or an authorized **other international mitigation purpose**. A **corresponding adjustment** protects the host/transferring Party's account against double claiming after first transfer; it is required for authorized international use even where the acquiring use is not another Party's NDC.
 
-### 2. Article 6.4
+### CMA-supervised crediting under Article 6.4
 
 Article 6.4 creates a centralised mechanism under CMA authority and supervision. It aims to:
 
@@ -826,17 +831,40 @@ Article 6.4 creates a centralised mechanism under CMA authority and supervision.
 - permit another Party to use authorised reductions; and
 - deliver an overall mitigation in global emissions.
 
-If another Party uses a reduction, the host cannot also use it to demonstrate achievement of its NDC. A share of proceeds supports administration and adaptation in particularly vulnerable developing countries.
+An A6.4 emission reduction authorized for international use can become an ITMO and requires a corresponding adjustment. A non-authorized unit may remain a **mitigation contribution unit** for domestic or voluntary contribution use; it cannot be silently promoted into an internationally authorized offset. A share of proceeds supports administration and adaptation in particularly vulnerable developing countries.
 
 The Paris Agreement Crediting Mechanism is a successor in function, not a legal copy, of the CDM.
 
-### 3. Article 6.8
+### Cooperation without unit transfer under Article 6.8
 
 Non-market approaches coordinate mitigation, adaptation, finance, technology transfer and capacity-building without trading units. Examples may include cooperative policies, technology partnerships or integrated resilience programmes.
 
 **Trap:** "Non-market" does not mean "no cooperation" or "no finance." It means cooperation is not organised through transfer of a mitigation outcome as a tradable unit.
 
-### 4. Integrity tests
+### Authorization and accounting decision path
+
+```text
+mitigation outcome created
+        |
+        v
+Has the host Party authorized international use?
+   | no  -> domestic/voluntary contribution route; no ITMO claim
+   |
+   yes
+        |
+        v
+first transfer under the applicable rule
+        |
+        v
+corresponding adjustment + reporting + review
+        |
+        v
+use toward another Party's NDC OR an authorized other international mitigation purpose
+```
+
+Authorization, registry recording and a corresponding adjustment perform different jobs. Authorization permits a stated use; the registry records events; the adjustment protects the emissions balance. None alone proves that the underlying mitigation was additional or durable.
+
+### Integrity tests across all market routes
 
 | Risk | Question |
 |---|---|
@@ -849,11 +877,20 @@ Non-market approaches coordinate mitigation, adaptation, finance, technology tra
 
 Low-cost credits are not automatically high-integrity credits.
 
-### 5. COP29 implementation significance
+### Rulebook and registry status on 5 October 2026
 
-COP29/CMA6 supplied further guidance on authorisation, first transfer, reporting, inconsistencies and registries under 6.2; it also advanced methodological, removal, registry and transition work under 6.4 and completed the first phase of the 6.8 work programme. These were implementation decisions, not amendments to Article 6.
+COP29/CMA6 supplied further guidance through decision 4/CMA.6 on authorization, first transfer, reporting, inconsistencies and registry services under Article 6.2; it advanced the Article 6.4 rulebook and completed the first phase of the Article 6.8 work programme. These were implementation decisions, not amendments to Article 6.
 
-### 6. Objection, reply and residual
+The mechanism then crossed an operational threshold without becoming fully mature:
+
+- on **26 February 2026**, the first issuance of A6.4ERs was approved for a Myanmar clean-cooking programme transitioned from the CDM; **648,783 tCO2e** were verified for 2021–2022, about 40 per cent below what the CDM would have credited;
+- CARP was publishing Article 6.2 reports and authorization material, while the secretariat's International Registry and Additional Registry Services still relied on interim/offline operations during development of the full digital system;
+- the Article 6.4 **Interim Mechanism Registry** was active; its September 2026 user guide provided for automatic migration when the final registry became operational; and
+- no cited official source verified that the final Article 6.4 registry was already live on 5 October 2026.
+
+This is operational progress, not proof of deep liquidity, universal participation, flawless interoperability or high integrity in every credit.
+
+### Can market cooperation substitute for domestic transition?
 
 **Objection:** Markets commodify the atmosphere and let purchasers postpone domestic decarbonisation.
 
@@ -871,35 +908,36 @@ COP29/CMA6 supplied further guidance on authorisation, first transfer, reporting
 
 1. Article 6 cooperation is voluntary.
 2. Article 6.2 uses cooperative approaches and ITMOs.
-3. Authorisation is essential for transferred outcomes.
-4. Corresponding adjustments prevent double counting.
-5. Article 6.4 is supervised under CMA authority.
-6. Article 6.4 aims at overall mitigation in global emissions.
-7. A share of proceeds supports adaptation.
-8. Article 6.8 covers non-market approaches.
-9. Non-market approaches can include finance, technology and capacity.
-10. Additionality and baseline quality determine credit integrity.
-11. Removal credits require reversal and permanence safeguards.
-12. Article 6 cannot repair an unambitious NDC by itself.
-13. COP29 guidance operationalised rather than rewrote the treaty.
+3. Authorization may cover NDC use or another international mitigation purpose.
+4. Corresponding adjustments protect against double claiming after authorized transfer/use.
+5. Registry recording is necessary but does not prove environmental integrity.
+6. Article 6.4 is supervised under CMA authority.
+7. Authorized A6.4ERs and non-authorized mitigation contribution units have different uses.
+8. Article 6.4 aims at overall mitigation in global emissions.
+9. A share of proceeds supports adaptation.
+10. Article 6.8 covers non-market approaches.
+11. Additionality, conservative baselines and permanence determine credit integrity.
+12. First A6.4ER issuance was approved on 26 February 2026.
+13. Interim registry operations must not be described as a fully mature global market.
+14. Article 6 cannot repair an unambitious NDC by itself.
 
 ### Concept check
 
-**Question:** What problem does a corresponding adjustment solve?
+**Question:** Why is a corresponding adjustment required even when an authorized ITMO is used for an international mitigation purpose other than another Party's NDC?
 
-**Model answer:** It prevents the same mitigation outcome from being counted by both the transferring host Party and the acquiring Party toward their NDCs, thereby protecting accounting integrity.
+**Model answer:** The host Party must not retain the same mitigation benefit in its emissions balance after authorizing and first-transferring it for another international use. The adjustment therefore prevents double claiming whether the authorized use is another Party's NDC or another international mitigation purpose.
 
-**Misconception to avoid:** Treating registry transfer alone as proof that double counting has been avoided.
+**Misconception to avoid:** Treating registry transfer alone as proof that authorization, corresponding adjustment and environmental integrity have all been satisfied.
 
 ### Original Mains practice
 
 **Question (15 marks, 250 words):** Compare Articles 6.2, 6.4 and 6.8 and assess the conditions for environmental integrity.
 
-**Mains model:** Article 6 offers three voluntary cooperation routes. Article 6.2 covers Party-led cooperative approaches using internationally transferred mitigation outcomes; authorisation, robust accounting and corresponding adjustments are central. Article 6.4 creates a CMA-supervised crediting mechanism that must foster sustainable development, permit authorised participation, avoid dual use by host and buyer, deliver overall mitigation and contribute a share of proceeds for adaptation. Article 6.8 establishes non-market cooperation across mitigation, adaptation, finance, technology and capacity-building without trading mitigation outcomes.
+**Mains model:** Article 6 offers three voluntary cooperation routes. Article 6.2 covers Party-led cooperative approaches using internationally transferred mitigation outcomes; authorization, robust accounting and corresponding adjustments are central. Authorized use may be toward another Party's NDC or another international mitigation purpose. Article 6.4 creates a CMA-supervised crediting mechanism that must foster sustainable development, distinguish internationally authorized reductions from mitigation contribution units, deliver overall mitigation and contribute a share of proceeds for adaptation. Article 6.8 establishes non-market cooperation across mitigation, adaptation, finance, technology and capacity-building without trading mitigation outcomes.
 
 Integrity depends less on the label than on design. Baselines must be conservative, reductions additional, removals durable, leakage controlled and affected communities protected. Registries and corresponding adjustments must prevent double counting. Transparent authorisation and review are equally necessary.
 
-Article 6 can lower costs and mobilise resources, but it cannot substitute for strong NDCs or domestic transition. Weak targets plus abundant low-quality credits would produce formal compliance without adequate atmospheric benefit.
+Article 6 can lower costs and mobilise resources, but it cannot substitute for strong NDCs or domestic transition. The first A6.4ER issuance was approved in February 2026, while interim registry arrangements remained in use; this proves institutional movement, not market maturity. Weak targets plus abundant low-quality credits would produce formal compliance without adequate atmospheric benefit.
 
 **Quantified rubric (15):** accurate three-way comparison 6; accounting concepts 3; social/environmental integrity 2; benefits and risks 2; qualified conclusion 2.
 
@@ -909,8 +947,8 @@ Progress: 8 / 13 | Stage: Core | Subtopic: Global Goal on Adaptation, communicat
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Paris Articles 7 and 8, canonical climate-governance coverage and official COP outcomes queried
-CA search: "Global Goal on Adaptation loss and damage fund official status 2026"
-CA found: No separate linkage; institutional evolution is treated chronologically
+CA search: "CMA7 decision 12/CMA.7 Belém Adaptation Indicators WIM review 11/CP.30 22/CMA.7 official"
+CA found: CMA7 adopted the Belém Adaptation Indicators in decision 12/CMA.7; COP30 and CMA7 jointly concluded the WIM review through decisions 11/CP.30 and 22/CMA.7
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: three responses to climate risk
@@ -928,7 +966,7 @@ RESIDUAL / UNAVOIDABLE HARM
 
 The categories overlap in policy, but their purposes and finance demands differ.
 
-### 1. Paris adaptation architecture
+### Adaptation planning and communication
 
 Article 7 establishes a global goal of enhancing adaptive capacity, strengthening resilience and reducing vulnerability. Adaptation is country-driven, participatory, gender-responsive and informed by science as well as relevant traditional, Indigenous and local knowledge.
 
@@ -936,19 +974,19 @@ Each Party shall, as appropriate, engage in adaptation planning and implementati
 
 Unlike mitigation, adaptation lacks one universal tonne-based metric. Water security, heat resilience, health systems and coastal protection require context-specific indicators.
 
-### 2. Global Goal on Adaptation
+### Measuring collective resilience without ranking countries
 
-The Global Goal on Adaptation (GGA) supplies collective direction. COP28 adopted the UAE Framework for Global Climate Resilience. COP30 concluded the UAE–Belém indicator work by adopting Belém Adaptation Indicators and established further work to refine and operationalise them.
+The Global Goal on Adaptation (GGA) supplies collective direction. CMA5 adopted the UAE Framework for Global Climate Resilience in decision 2/CMA.5. CMA7 adopted the Belém Adaptation Indicators in decision 12/CMA.7 and established the Belém–Addis Vision for further refinement and operationalisation.
 
-An indicator is a measurement tool, not proof that finance or resilience has been delivered.
+The decision characterises the indicators as voluntary, non-prescriptive, non-punitive, facilitative and global. They are not a country-ranking system, an additional reporting burden or a condition for finance access. An indicator is a measurement tool, not proof that finance or resilience has been delivered.
 
-### 3. Loss and damage
+### Residual harm: the loss-and-damage architecture
 
 Article 8 recognises the importance of averting, minimising and addressing loss and damage from extreme and slow-onset events. Areas include early warning, emergency preparedness, irreversible harm, risk assessment, insurance, non-economic loss and livelihood resilience.
 
-The Warsaw International Mechanism (WIM), created at COP19, develops knowledge, coordination and support. The Santiago Network supplies technical assistance.
+The Warsaw International Mechanism (WIM), created at COP19, develops knowledge, coordination and support. The Santiago Network supplies technical assistance. Its third review was concluded jointly at Belém through decisions 11/CP.30 and 22/CMA.7.
 
-### 4. Fund for Responding to Loss and Damage
+### Fund, support and the liability boundary
 
 COP27 agreed to establish new funding arrangements and a dedicated fund. COP28 operationalised the fund. It is distinct from:
 
@@ -959,13 +997,13 @@ COP27 agreed to establish new funding arrangements and a dedicated fund. COP28 o
 
 Decision 1/CP.21 states that Paris Article 8 does not provide a basis for liability or compensation. This does not erase the political and ethical case for solidarity or finance.
 
-### 5. Example and limit
+### Functional classification: cyclone shelter versus relocation
 
 Building cyclone shelters before a storm is adaptation. Financing relocation after permanent salinisation makes habitation impossible may address loss and damage.
 
 The line is not always clean. One project can contain adaptation, disaster-risk reduction and loss-and-damage elements. Classification should follow the function of expenditure, not its label.
 
-### 6. Objection, reply and residual
+### Does a third pillar fragment scarce finance?
 
 **Objection:** A separate loss-and-damage pillar fragments scarce climate finance.
 
@@ -986,14 +1024,15 @@ The line is not always clean. One project can contain adaptation, disaster-risk 
 3. Adaptation communications are not identical to NDC mitigation targets.
 4. Adaptation is country-driven and context-specific.
 5. COP28 adopted the UAE resilience framework.
-6. COP30 adopted Belém Adaptation Indicators.
+6. Decision 12/CMA.7 adopted the Belém Adaptation Indicators.
 7. Article 8 recognises loss and damage.
 8. WIM began at COP19.
 9. Santiago Network provides technical assistance.
-10. The dedicated fund was agreed at COP27.
-11. The fund was operationalised at COP28.
-12. Loss and damage is distinct from adaptation.
-13. Article 8 does not create a liability-and-compensation basis.
+10. Decisions 11/CP.30 and 22/CMA.7 concluded the third WIM review.
+11. The dedicated fund was agreed at COP27.
+12. The fund was operationalised at COP28.
+13. Loss and damage is distinct from adaptation.
+14. Article 8 does not create a liability-and-compensation basis.
 
 ### Concept check
 
@@ -1017,8 +1056,8 @@ Progress: 9 / 13 | Stage: Core | Subtopic: Financial Mechanism, funds, Article 9
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Convention Article 11, Paris Article 9, official NCQG decision and canonical finance analysis queried
-CA search: "UNFCCC climate finance architecture NCQG 300 billion 1.3 trillion official"
-CA found: No separate linkage; adopted finance decisions are part of the treaty chronology
+CA search: "UNFCCC decision 1/CMA.6 NCQG Article 9.5 9.7 CMA7 climate finance work programme official"
+CA found: CMA6 adopted the NCQG in 2024; decision 1/CMA.7 in 2025 established a two-year finance work programme including Article 9.1 in the context of Article 9 as a whole
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: finance from obligation to delivery
@@ -1046,13 +1085,13 @@ new/additional? predictable? accessible? balanced? actually disbursed?
 
 A headline goal is only one layer of climate finance; legal source, contributor base, instrument, access and delivery must be separately identified.
 
-### 1. Treaty foundation
+### Treaty duty and contributor structure
 
 The Convention requires developed countries to provide financial resources and establishes a Financial Mechanism under COP guidance. Paris Article 9.1 continues this obligation: developed-country Parties **shall provide** financial resources to assist developing countries for mitigation and adaptation.
 
 Other Parties are encouraged to provide support voluntarily. Developed countries should lead mobilisation from a wide variety of sources, while public and grant-based resources remain especially important for adaptation and vulnerable countries.
 
-### 2. Institutional architecture
+### Financial Mechanism and specialised channels
 
 | Entity | Function |
 |---|---|
@@ -1066,13 +1105,13 @@ Other Parties are encouraged to provide support voluntarily. Developed countries
 
 Institutions may serve more than one instrument, but their governing guidance must still be traced accurately.
 
-### 3. The USD 100 billion goal
+### Legacy benchmark: the USD 100 billion goal
 
 The USD 100 billion per year figure originated as a developed-country political commitment in the Copenhagen/Cancun process and was later extended through 2025. It is not a numeric clause written into Paris Article 9.
 
 This distinction matters: political goals and COP decisions can structure expectations without becoming treaty amendments.
 
-### 4. COP29 New Collective Quantified Goal
+### CMA6's two-tier NCQG structure
 
 Decision 1/CMA.6:
 
@@ -1081,7 +1120,18 @@ Decision 1/CMA.6:
 
 The two figures are not the same promise. USD 300 billion is the negotiated core goal; USD 1.3 trillion is a broader scaling call. Neither figure proves annual disbursement.
 
-### 5. Legal-status ladder
+### Article 9 reporting: future intention versus delivered support
+
+Article 9 contains two separate biennial information tracks:
+
+| Provision | Direction of information | Core duty |
+|---|---|---|
+| Article 9.5 | **Ex ante**: expected future support | Developed-country Parties shall communicate indicative quantitative and qualitative information, including projected levels of public financial resources where available; other providing Parties are encouraged to communicate voluntarily |
+| Article 9.7 | **Ex post**: support actually provided and mobilised through public interventions | Developed-country Parties shall provide transparent and consistent information biennially; other providing Parties are encouraged to do so |
+
+Article 9.5 improves predictability; Article 9.7 enables accountability through the Enhanced Transparency Framework. Neither should be confused with an NDC, a fund pledge or proof of recipient-country disbursement.
+
+### Legal-status ladder
 
 | Statement | Correct classification |
 |---|---|
@@ -1092,7 +1142,7 @@ The two figures are not the same promise. USD 300 billion is the negotiated core
 | Money transferred and verified | Delivery/disbursement |
 | Presidency roadmap | Political implementation initiative unless adopted as a decision |
 
-### 6. Quality questions
+### Quality filters beyond volume
 
 Finance adequacy is not only about volume. Ask:
 
@@ -1103,7 +1153,7 @@ Finance adequacy is not only about volume. Ask:
 - Can vulnerable states access it without prohibitive transaction costs?
 - Is mobilised private finance counted transparently?
 
-### 7. Objection, reply and residual
+### Can a broad source base preserve Article 9.1 leadership?
 
 **Objection:** A broad source base is necessary because public budgets cannot meet trillions in need.
 
@@ -1124,14 +1174,15 @@ Finance adequacy is not only about volume. Ask:
 3. Paris Article 9.1 uses "shall provide" for developed countries.
 4. Other Parties may support voluntarily.
 5. Public and grant finance is especially important for adaptation.
-6. The USD 100 billion goal was political/decision-based, not treaty text.
-7. COP29's NCQG was adopted as decision 1/CMA.6.
-8. USD 300 billion per year by 2035 is the core collective goal.
-9. Developed countries are to take the lead.
-10. USD 1.3 trillion is the wider all-actor scaling call.
-11. A goal, pledge and disbursement are different facts.
-12. Loans and private mobilisation cannot be treated as equivalent to grants.
-13. Access and debt effects determine developmental value.
+6. Article 9.5 is ex-ante biennial information on expected support.
+7. Article 9.7 is ex-post biennial information on support provided and mobilised.
+8. The USD 100 billion goal was political/decision-based, not treaty text.
+9. COP29's NCQG was adopted as decision 1/CMA.6.
+10. USD 300 billion per year by 2035 is the core collective goal.
+11. Developed-country Parties are to take the lead.
+12. USD 1.3 trillion is the wider all-actor scaling call.
+13. A goal, communication, pledge and disbursement are different facts.
+14. Access, debt effects and grant equivalence determine developmental value.
 
 ### Concept check
 
@@ -1145,7 +1196,7 @@ Finance adequacy is not only about volume. Ask:
 
 **Question (15 marks, 250 words):** Critically examine the climate-finance architecture after COP29.
 
-**Mains model:** Climate finance rests on both treaty duties and institutional channels. Under Paris Article 9.1, developed countries shall provide resources for developing-country mitigation and adaptation; the GCF and GEF operate the Financial Mechanism, supported by specialised funds and the Standing Committee on Finance.
+**Mains model:** Climate finance rests on treaty duties, information obligations and institutional channels. Under Paris Article 9.1, developed countries shall provide resources for developing-country mitigation and adaptation; the GCF and GEF operate the Financial Mechanism, supported by specialised funds and the Standing Committee on Finance. Article 9.5 requires biennial ex-ante information on expected support, while Article 9.7 requires biennial ex-post information on support provided and mobilised.
 
 COP29's decision 1/CMA.6 replaced the older USD 100 billion era with two distinct figures. It set a collective goal of at least USD 300 billion annually by 2035 for developing countries, with developed countries taking the lead and finance drawn from varied sources. Separately, it called on all actors to scale flows to at least USD 1.3 trillion annually by 2035. The latter is broader and should not be presented as identical public finance.
 
@@ -1161,8 +1212,8 @@ Progress: 10 / 13 | Stage: Core | Subtopic: Technology Mechanism, finance linkag
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Paris Articles 10–12, official constituted-body material and India strategy documents queried
-CA search: "UNFCCC technology mechanism TEC CTCN PCCB implementation official 2026"
-CA found: No separate linkage; institutional mandates are the lesson's focus
+CA search: "decision 18/CMA.7 Belém Technology Implementation Programme official 2025"
+CA found: CMA7 adopted the Belém Technology Implementation Programme in decision 18/CMA.7
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: from technology need to sustained capability
@@ -1189,13 +1240,13 @@ DEPLOYMENT, MAINTENANCE AND LOCAL INNOVATION
 
 Technology transfer succeeds only when equipment, finance, skills, institutions and local adaptation move together.
 
-### 1. Paris Article 10
+### Article 10's long-term technology vision
 
 Parties share a long-term vision of fully realising technology development and transfer for mitigation and adaptation. The Technology Mechanism established under the Convention serves Paris, guided by a technology framework.
 
 Support, including financial support, shall be provided to developing countries for implementation. Innovation, collaborative research and access at early stages of the technology cycle are expressly relevant.
 
-### 2. Two arms of the Technology Mechanism
+### TEC and CTCN perform different jobs
 
 | Arm | Function |
 |---|---|
@@ -1204,7 +1255,7 @@ Support, including financial support, shall be provided to developing countries 
 
 TEC is not a project bank; CTCN is not a treaty legislature. Their functions complement the Financial Mechanism.
 
-### 3. Article 11 capacity-building
+### Article 11: capability, not equipment alone
 
 Capacity-building should help developing countries:
 
@@ -1216,7 +1267,7 @@ Capacity-building should help developing countries:
 
 It should be country-driven, responsive to national needs, participatory and gender-responsive. The Paris Committee on Capacity-building (PCCB) addresses gaps and coordination.
 
-### 4. Why finance, technology and capacity cannot be separated
+### The multiplicative implementation chain
 
 A concessional loan for a grid technology is insufficient if a country lacks system planners, standards, maintenance capability or data systems. Conversely, training without finance leaves plans unimplemented.
 
@@ -1227,17 +1278,17 @@ finance without access       -> undisbursed promise
 technology without fit       -> maladaptation or stranded asset
 ```
 
-### 5. Intellectual property and development tension
+### Intellectual property, access and endogenous innovation
 
 Developing countries often seek affordable access, favourable terms and collaborative research. Technology holders emphasise innovation incentives and intellectual-property protection.
 
 The strongest answer avoids slogans. It asks which technologies require licensing, open standards, patent pools, public procurement, joint ventures, local manufacturing or public research support.
 
-### 6. COP30 institutional development
+### CMA7 institutional development
 
-COP30 adopted the Belém Technology Implementation Programme, shifting emphasis from identifying needs toward addressing transfer barriers, financing, innovation systems and implementation. This is an adopted programme; it does not make every technology automatically available or waive intellectual-property rights.
+CMA7 adopted the Belém Technology Implementation Programme in decision 18/CMA.7, shifting emphasis from identifying needs toward addressing transfer barriers, financing, innovation systems and implementation. This is an adopted programme; it does not make every technology automatically available or waive intellectual-property rights.
 
-### 7. Objection, reply and residual
+### Delivery test: institution created, technology diffused?
 
 **Objection:** "Technology transfer" becomes a permanent demand that discounts domestic innovation.
 
@@ -1264,7 +1315,7 @@ COP30 adopted the Belém Technology Implementation Programme, shifting emphasis 
 9. Technology access includes deployment and local capability.
 10. Intellectual-property questions vary by technology and instrument.
 11. Equipment transfer without maintenance capacity is incomplete.
-12. COP30 adopted a technology implementation programme.
+12. Decision 18/CMA.7 adopted the Belém Technology Implementation Programme.
 13. An adopted programme is not proof of universal access or delivery.
 
 ### Concept check
@@ -1279,18 +1330,18 @@ COP30 adopted the Belém Technology Implementation Programme, shifting emphasis 
 
 **Question (10 marks, 150 words):** Explain how the UNFCCC Technology Mechanism and capacity-building architecture support implementation.
 
-**Mains model:** The Technology Mechanism combines the Technology Executive Committee, which provides policy guidance, with the Climate Technology Centre and Network, which offers technical assistance and connects developing countries to expertise. Paris Article 10 makes this Convention mechanism serve the Agreement and links technology cooperation to financial support and innovation. Article 11 adds country-driven capacity-building for mitigation, adaptation, finance access, technology deployment and transparent reporting; the PCCB identifies gaps and improves coordination. These pillars are interdependent. Hardware without trained institutions may be underused, while skills without finance cannot deliver projects. Technology cooperation must therefore include local adaptation, maintenance, standards, research and absorptive capacity. COP30's Belém Technology Implementation Programme strengthened the implementation focus, but an institutional decision does not itself remove finance, intellectual-property or deployment barriers.
+**Mains model:** The Technology Mechanism combines the Technology Executive Committee, which provides policy guidance, with the Climate Technology Centre and Network, which offers technical assistance and connects developing countries to expertise. Paris Article 10 makes this Convention mechanism serve the Agreement and links technology cooperation to financial support and innovation. Article 11 adds country-driven capacity-building for mitigation, adaptation, finance access, technology deployment and transparent reporting; the PCCB identifies gaps and improves coordination. These pillars are interdependent. Hardware without trained institutions may be underused, while skills without finance cannot deliver projects. Technology cooperation must therefore include local adaptation, maintenance, standards, research and absorptive capacity. CMA7's decision 18/CMA.7 strengthened the implementation focus, but an institutional decision does not itself remove finance, intellectual-property or deployment barriers.
 
 **Quantified rubric (10):** TEC/CTCN distinction 3; Article 10 support link 2; Article 11/PCCB 2; interdependence example 2; implementation qualification 1.
 
 ## Lesson 11 — From Rio to Belém: outcome discipline
 
-Progress: 11 / 13 | Stage: Core | Subtopic: Major negotiated milestones and status on 3 October 2026
+Progress: 11 / 13 | Stage: Core | Subtopic: Major negotiated milestones and status on 5 October 2026
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Canonical chronology, official treaty texts and official COP outcome records queried
-CA search: "major UNFCCC negotiated outcomes through COP30 status 3 October 2026 official"
-CA found: No separate file-level linkage; this is a dated legal-status chronology
+CA search: "UNFCCC CMA7 decisions 1/CMA.7 2/CMA.7 12/CMA.7 18/CMA.7 COP31 notification official"
+CA found: Final CMA7 reports identify the Mutirão, just-transition, adaptation-indicator and technology decisions; COP31 remained scheduled for November 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: architecture-changing milestones
@@ -1298,7 +1349,7 @@ CA found: No separate file-level linkage; this is a dated legal-status chronolog
 ```text
 1992 UNFCCC -> framework, principles, institutions
   |
-1997 Kyoto  -> developed-country quantified commitments
+1997 Kyoto  -> Annex B quantified commitments for participating Parties
   |
 2001 Marrakesh -> Kyoto rulebook and compliance architecture
   |
@@ -1316,14 +1367,14 @@ CA found: No separate file-level linkage; this is a dated legal-status chronolog
   |
 2024 Baku   -> NCQG + further Article 6 operational guidance
   |
-2025 Belém  -> implementation package, adaptation indicators, just-transition mechanism
+2025 Belém  -> CMA7/COP30 implementation decisions with body-specific legal status
   |
-3 OCT 2026  -> COP31 outcomes do not yet exist
+5 OCT 2026  -> COP31 outcomes do not yet exist
 ```
 
 The key is not memorising every COP; it is knowing which meetings changed treaty architecture, implementation rules or political direction.
 
-### 1. Pre-Paris steps that changed the pathway
+### Before Paris: mandate, rulebook and failed bridge
 
 - **COP1 Berlin Mandate (1995):** launched negotiation of stronger developed-country commitments.
 - **COP3 Kyoto (1997):** adopted the Protocol.
@@ -1333,7 +1384,7 @@ The key is not memorising every COP; it is knowing which meetings changed treaty
 - **Durban Platform (2011):** launched negotiation of an instrument applicable to all Parties.
 - **Doha Amendment (2012):** established Kyoto's second period.
 
-### 2. Paris and its rulebook
+### Paris adoption and implementation rulebook
 
 - **COP21 Paris (2015):** adopted the Paris Agreement and decision 1/CP.21.
 - **Katowice (2018):** adopted much of the Paris implementation rulebook, including transparency and NDC guidance.
@@ -1341,14 +1392,14 @@ The key is not memorising every COP; it is knowing which meetings changed treaty
 
 Glasgow's "phase-down" language was a COP/CMA political decision outcome, not an amendment imposing a national coal-closure schedule.
 
-### 3. Loss, stocktake and transition
+### Loss, stocktake and energy-transition language
 
 - **COP27 Sharm el-Sheikh (2022):** decided to establish funding arrangements and a fund for loss and damage.
 - **COP28 Dubai (2023):** operationalised the fund and concluded the first GST. The UAE Consensus called on Parties to contribute to transitioning away from fossil fuels in energy systems, tripling renewable capacity and doubling the average annual rate of energy-efficiency improvement by 2030.
 
 The phrase was "transitioning away", not "binding fossil-fuel phase-out".
 
-### 4. Baku and Belém
+### Baku: finance and Article 6
 
 **COP29/CMA6, Baku (2024):**
 
@@ -1356,19 +1407,19 @@ The phrase was "transitioning away", not "binding fossil-fuel phase-out".
 - called for scaling finance to at least USD 1.3 trillion annually by 2035;
 - advanced Article 6 operational guidance.
 
-**COP30, Belém (2025):**
+### Belém: identify the legal body before naming the outcome
 
-- adopted 56 consensual decisions across COP, CMP and CMA;
-- the Mutirão Decision called for tripling adaptation finance by 2035 and recognised the Baku-to-Belém finance roadmap;
-- adopted Belém Adaptation Indicators;
-- agreed to develop a just-transition mechanism;
-- established further Article 9 finance work;
-- adopted the Belém Technology Implementation Programme;
-- concluded the third review of the Warsaw International Mechanism.
+The conference adopted **56 decisions across COP30, CMP20 and CMA7**; that is a conference-wide count, not one COP decision. The principal outcomes used here were:
+
+- **Decision 1/CMA.7, Global Mutirão:** called for efforts to at least triple adaptation finance by 2035 and established a two-year climate-finance work programme including Article 9.1 in the context of Article 9 as a whole;
+- **Decision 2/CMA.7, UAE Just Transition Work Programme:** advanced the work programme and the development of a just-transition mechanism;
+- **Decision 12/CMA.7, Global goal on adaptation:** adopted the Belém Adaptation Indicators and the Belém–Addis Vision;
+- **Decision 18/CMA.7, Belém Technology Implementation Programme:** created the named technology-implementation programme; and
+- **Decisions 11/CP.30 and 22/CMA.7:** jointly concluded the third review of the Warsaw International Mechanism.
 
 The COP30 Presidency separately committed to develop roadmaps on transitioning away from fossil fuels and halting and reversing deforestation. The official executive report states that consensus on fossil-fuel treatment remained difficult. A Presidency roadmap is not the same as adopted treaty-body language.
 
-### 5. Status freeze: 3 October 2026
+### Status freeze: 5 October 2026
 
 Official notification schedules:
 
@@ -1380,7 +1431,7 @@ Official notification schedules:
 
 for Antalya, Türkiye, beginning 9 November 2026. Therefore this edition attributes **no COP31 negotiated outcome**. A provisional agenda, Presidency statement or pre-COP declaration cannot be written as an adopted decision.
 
-### 6. Objection, reply and residual
+### From accumulated text to delivered transformation
 
 **Objection:** COPs produce language but not implementation.
 
@@ -1402,15 +1453,15 @@ for Antalya, Türkiye, beginning 9 November 2026. Therefore this edition attribu
 4. Copenhagen was politically important but not a new adopted treaty.
 5. Durban launched the pathway to Paris.
 6. Katowice built the Paris rulebook.
-7. Glasgow completed key Article 6 rules.
-8. Glasgow used coal "phase-down" language.
-9. COP27 agreed to establish the loss-and-damage fund.
-10. COP28 operationalised it and concluded the first GST.
-11. COP28 used "transitioning away" from fossil fuels in energy systems.
-12. COP29 adopted the NCQG.
-13. COP30 advanced adaptation, just transition, technology and implementation.
+7. Glasgow completed key Article 6 rules and used coal "phase-down" language.
+8. COP27 agreed to establish the loss-and-damage fund; COP28 operationalised it.
+9. COP28 concluded the first GST and used "transitioning away" language.
+10. COP29/CMA6 adopted the NCQG.
+11. Decision 1/CMA.7 is the Global Mutirão decision.
+12. Decisions 12/CMA.7 and 18/CMA.7 cover adaptation indicators and technology implementation.
+13. The WIM review used paired decisions 11/CP.30 and 22/CMA.7.
 14. Presidency roadmaps are not automatically adopted decisions.
-15. No COP31 outcome existed on 3 October 2026.
+15. No COP31 outcome existed on 5 October 2026.
 
 ### Concept check
 
@@ -1424,160 +1475,131 @@ for Antalya, Türkiye, beginning 9 November 2026. Therefore this edition attribu
 
 **Question (15 marks, 250 words):** Trace the evolution of global climate governance from Kyoto to the implementation phase after the first Global Stocktake.
 
-**Mains model:** Kyoto created legally binding quantified commitments for participating developed-country Parties, supported by accounting, market mechanisms and compliance rules. Its precision was weakened by narrow participation. Paris responded with universal NDCs: Parties choose targets but must communicate, maintain, report and update them within a common transparency and stocktake cycle.
+**Mains model:** Kyoto created legally binding quantified commitments for participating Annex B Parties, supported by accounting, market mechanisms and compliance rules. Its precision was weakened by narrow participation. Paris responded with universal NDCs: Parties choose targets but must communicate, maintain, report and update them within a common transparency and stocktake cycle.
 
-The post-Paris phase built implementation. Katowice elaborated the rulebook; Glasgow completed key Article 6 rules and introduced coal phase-down language. Sharm el-Sheikh agreed to establish a loss-and-damage fund, which Dubai operationalised. COP28 also concluded the first Global Stocktake and called for transitioning away from fossil fuels in energy systems. Baku set the NCQG and advanced Article 6 operations. Belém adopted adaptation indicators, a just-transition mechanism pathway, technology implementation and further finance work.
+The post-Paris phase built implementation. Katowice elaborated the rulebook; Glasgow completed key Article 6 rules and introduced coal phase-down language. Sharm el-Sheikh agreed to establish a loss-and-damage fund, which Dubai operationalised. COP28 also concluded the first Global Stocktake and called for transitioning away from fossil fuels in energy systems. Baku's CMA6 set the NCQG and advanced Article 6 operations. At Belém, CMA7 adopted the Mutirão, just-transition, adaptation-indicator and technology decisions, while COP30 and CMA7 jointly concluded the WIM review.
 
-The evolution is therefore from top-down targets to universal iterative governance and then to implementation institutions. Yet complexity does not guarantee adequacy. Finance delivery, stronger NDCs and domestic execution remain the tests. As of 3 October 2026, COP31 had not occurred; no future outcome should be inferred.
+The evolution is therefore from top-down targets to universal iterative governance and then to implementation institutions. Yet complexity does not guarantee adequacy. Finance delivery, stronger NDCs and domestic execution remain the tests. As of 5 October 2026, COP31 had not occurred; no future outcome should be inferred.
 
 **Quantified rubric (15):** Kyoto architecture 3; Paris shift 3; post-Paris milestones 5; implementation critique 2; status-date discipline 2.
 
-## Lesson 12 — India: equity, carbon space and formal commitments
+## Lesson 12 — India as a treaty-classification example
 
-Progress: 12 / 13 | Stage: Core | Subtopic: Negotiating position, NDC evolution and LT-LEDS
+Progress: 12 / 13 | Stage: Core | Subtopic: India as a treaty example—document status and equity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India 2022 updated NDC, 2022 LT-LEDS, 2026 NDC and cross-topic India-climate material queried
-CA search: "India NDC 2031-2035 official UNFCCC April 2026 equity carbon space"
-CA found: India communicated its NDC for 2031–2035 in April 2026, with 47% emissions-intensity, about 60% non-fossil installed-capacity and 3.5–4.0 billion tCO2e carbon-sink targets
+Book context: Official treaty architecture and the UNFCCC NDC registry queried; detailed India-policy treatment remains in Topic 20
+CA search: "UNFCCC India NDC 2031-2035 submission 24 April 2026 official registry"
+CA found: The UNFCCC registry records India's NDC for 2031–2035 as submitted on 24 April 2026; this lesson uses only its treaty significance and status
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Exactly one current-affairs linkage
-
-**India's April 2026 NDC for 2031–2035** is the sole current-affairs linkage in this session. It demonstrates the Paris ratchet in operation and must be distinguished from the 2022 NDC, the 2022 LT-LEDS and political announcements.
-
-### Visual: India's four-document ladder
+### Visual: from treaty rule to country document
 
 ```text
-2015 FIRST NDC
-2030 targets: intensity + non-fossil capacity + sink
+PARIS AGREEMENT RULE
+all Parties prepare, communicate and maintain NDCs
         |
         v
-2021 PANCHAMRIT
-five political announcements at COP26
+OFFICIAL SUBMISSION STATUS
+India lodged an NDC for 2031-2035 on 24 April 2026
         |
-        v
-2022 UPDATED FIRST NDC + LT-LEDS
-formal 2030 update | strategic net-zero-2070 pathway
+        +-- Topic 19 asks:
+        |   What kind of instrument is it?
+        |   How does it fit progression, transparency and CBDR-RC?
         |
-        v
-APRIL 2026 NDC FOR 2031-2035
-47% intensity | ~60% non-fossil capacity | 3.5-4.0 bn tCO2e sink
+        `-- Topic 20 asks:
+            What are India's detailed targets, missions,
+            sector pathways and implementation results?
 ```
 
-Each step has a different legal and policy function; chronology alone does not make them interchangeable.
+The international legal category belongs here; the detailed domestic-policy package belongs in Topic 20.
 
-### 1. India's equity frame
+### Four document types that must not be merged
 
-India's official LT-LEDS argues that cumulative emissions determine warming and that the global carbon budget should be shared equitably. Its position combines:
+| Document or statement | Legal-policy role | Topic 19 use |
+|---|---|---|
+| Political announcement | Leader- or government-level commitment according to its own terms | Test whether it was later placed in a formal submission |
+| NDC | Paris communication containing nationally determined contribution | Explain Article 4 status, timing, progression, accounting and transparency |
+| LT-LEDS | Long-term low-emission development strategy encouraged by Article 4.19 | Distinguish a long-horizon strategy from the five-year NDC cycle |
+| Transparency report | Backward-looking information on inventories, implementation and support | Distinguish reporting from a forward pledge |
 
-- low historical contribution and below-average per-capita emissions;
-- poverty eradication and energy-access needs;
-- CBDR-RC and climate justice;
-- a fair share of carbon and development space;
-- developed-country finance, technology and capacity obligations; and
-- domestic low-carbon development consistent with national circumstances.
+A political announcement does not become treaty text merely because it was made at a COP. An LT-LEDS does not replace an NDC, and a transparency report does not create the next contribution.
 
-"Carbon space" is an equity argument about cumulative emissions and development opportunity. It is not a treaty entitlement quantified for India by an agreed UNFCCC formula.
+### What the April 2026 submission demonstrates
 
-### 2. 2015 and 2022 NDCs
+The registry entry is evidence that the Paris cycle continued after the first Global Stocktake. It is a **Party submission**, not a COP31 outcome and not an internationally allocated target. Decision 6/CMA.3 encouraged the 2025 round to use a 2035 end date; a later submission date does not change the document's nationally determined legal character.
 
-India's first NDC included, among other elements:
+This lesson deliberately does not reproduce India's quantitative targets. Their denominators, domestic policy translation and implementation evidence require the dedicated India-climate treatment in Topic 20.
 
-- 33–35 per cent emissions-intensity reduction from 2005 by 2030;
-- about 40 per cent cumulative electric-power installed capacity from non-fossil sources by 2030, conditional on technology and finance; and
-- an additional 2.5–3 billion tonnes CO2-equivalent forest/tree carbon sink.
+### Equity and support in India's treaty position
 
-The 2022 update formally strengthened two quantified 2030 targets:
-
-- 45 per cent emissions-intensity reduction from 2005; and
-- about 50 per cent cumulative electric-power installed capacity from non-fossil sources.
-
-It retained the sink target and integrated Mission LiFE. It did not convert every Panchamrit announcement into a quantified NDC target.
-
-### 3. Panchamrit and LT-LEDS
-
-Panchamrit included 500 GW non-fossil capacity, 50 per cent of energy requirements from renewables, one billion tonnes reduction in projected emissions, 45 per cent emissions-intensity reduction and net zero by 2070.
-
-These are mixed target types. The 2022 LT-LEDS is a strategic pathway toward net zero by 2070 across electricity, transport, industry, urbanisation, carbon removal and forests. Article 4.19 says Parties should strive to formulate long-term strategies; an LT-LEDS is not a punitive treaty commitment or an NDC substitute.
-
-### 4. April 2026 NDC for 2031–2035
-
-India communicated:
-
-- **47 per cent** reduction in emissions intensity of GDP by 2035 from 2005;
-- **about 60 per cent** cumulative electric-power installed capacity from non-fossil sources by 2035, with technology and low-cost international finance;
-- **3.5–4.0 billion tonnes CO2-equivalent** carbon sink through forest and tree cover by 2035 compared with 2005;
-- qualitative commitments on adaptation, LiFE, finance, technology and capacity.
-
-The target period begins in 2031. These are nationally determined commitments, not COP31 outcomes.
-
-### 5. India's negotiating positions
-
-Across recent negotiations, India has stressed:
+India's international argument commonly invokes:
 
 - equity and CBDR-RC;
-- developed-country leadership in mitigation;
-- Article 9.1 finance obligations;
-- public, grant and concessional finance rather than debt-heavy relabelling;
-- affordable technology access and collaborative research;
-- adaptation and development needs;
-- just transitions shaped by national circumstances; and
-- protection against unilateral climate-linked trade measures that disregard equity.
+- historical and per-capita responsibility;
+- poverty eradication and development needs;
+- developed-country leadership and Article 9.1 finance;
+- technology and capacity support; and
+- nationally shaped just-transition pathways.
 
-India criticised the COP29 USD 300 billion finance goal as inadequate. This is a national negotiating position, not a rule that invalidates the adopted decision.
+"Carbon space" is an equity argument about cumulative emissions and development opportunity, not a UNFCCC-allocated national quota. India's criticism of the COP29 finance outcome was a negotiating position; it did not invalidate decision 1/CMA.6.
 
-### 6. Strength and critique
+### Answer boundary: classify here, study policy detail in Topic 20
 
-**Strength:** Intensity and capacity targets accommodate development while driving structural change; India has repeatedly increased formal ambition.
+For Topic 19, the correct answer route is:
 
-**Critique:** Intensity can fall while absolute emissions rise. Installed capacity is not generation. Forest-sink measurement is difficult. Finance conditionality can be legitimate yet cannot excuse avoidable domestic implementation gaps.
+```text
+identify the instrument
+  -> state its Paris legal function
+  -> distinguish announcement / NDC / LT-LEDS / report
+  -> connect equity and support duties
+  -> route target detail and domestic delivery to Topic 20
+```
 
-**Balanced verdict:** Equity and ambition are not opposites. India's strongest case combines fair burden-sharing with transparent domestic delivery.
+This protects both completeness and precision: the learner can classify the Indian document here without turning a treaty lesson into a second domestic-policy chapter.
+
+### Balanced treaty-level assessment
+
+**Strength:** India's successive formal submissions illustrate how a nationally determined system can accommodate development circumstances while remaining inside common communication, accounting and transparency rules.
+
+**Qualification:** Submission proves neither implementation nor aggregate adequacy. Equity claims become stronger when paired with transparent inventories, credible domestic measures and clear support accounting.
 
 ### UPSC application
 
-- **Prelims trap:** 50 per cent energy requirements, 50 per cent installed capacity and 50 per cent electricity generation are the same. They are different denominators.
-- **Mains line:** India's climate diplomacy converts CBDR-RC into claims about carbon space, support and development-compatible target design.
-- **PYQ linkage:** UPSC 2025 GS-III and 2026 Prelims directly test document and target distinctions.
+- **Prelims trap:** NDC, LT-LEDS, political announcement and BTR/BUR are interchangeable documents.
+- **Mains line:** India illustrates Paris's core bargain—nationally determined substance inside common procedural, transparency and support architecture.
+- **PYQ linkage:** For the India-target questions reproduced later, use this lesson for treaty classification and equity, then use Topic 20 for the detailed answer.
 
 ### Revision notes
 
-1. India's equity case emphasises cumulative and per-capita emissions.
-2. Carbon space is a negotiating concept, not an allocated UN quota.
-3. The 2015 NDC had intensity, capacity and sink targets.
-4. The 2022 update formalised 45 per cent intensity reduction.
-5. It formalised about 50 per cent non-fossil installed capacity.
-6. It retained the forest/tree sink target.
-7. Panchamrit contains five differently structured announcements.
-8. Not every Panchamrit number entered the 2022 NDC.
-9. LT-LEDS is a strategic net-zero-2070 pathway.
-10. The April 2026 NDC covers 2031–2035.
-11. Its quantified targets are 47 per cent, about 60 per cent and 3.5–4.0 billion tCO2e.
-12. Installed capacity is not generation or total energy requirement.
-13. India links ambition to finance, technology and capacity support.
-14. India criticised, but did not legally nullify, the COP29 finance decision.
-15. Domestic transparency strengthens the equity claim.
+1. Every Paris Party must prepare, communicate and maintain successive NDCs.
+2. NDC content is nationally determined; its communication and accounting sit within treaty rules.
+3. Decision 6/CMA.3 encouraged the 2025 round to use a 2035 end date.
+4. India's 2031–2035 NDC was submitted on 24 April 2026.
+5. The submission is not a COP31 outcome.
+6. A political announcement is not automatically an NDC entry.
+7. LT-LEDS is a long-term strategy, not an NDC substitute.
+8. A transparency report records implementation; it is not a forward contribution.
+9. India invokes equity, CBDR-RC, finance, technology and development space.
+10. Carbon space is an argument, not an allocated treaty quota.
+11. Criticism of an adopted decision does not nullify it.
+12. Detailed Indian targets and implementation belong in Topic 20.
 
 ### Concept check
 
-**Question:** Why must Panchamrit, the 2022 updated NDC, LT-LEDS and the 2026 NDC be kept separate?
+**Question:** What does Topic 19 need to establish about India's April 2026 NDC without reproducing Topic 20?
 
-**Model answer:** Panchamrit is a political announcement package; the 2022 update is a formal 2030 NDC; LT-LEDS is a strategic pathway to net zero by 2070; and the April 2026 NDC communicates targets for 2031–2035. Their content, time horizon and legal function differ.
+**Model answer:** It should establish that the document is an official Party NDC for 2031–2035, submitted within the Paris cycle, and distinguish it from a political announcement, LT-LEDS and transparency report. Quantitative targets and domestic implementation should be taken from Topic 20.
 
-**Misconception to avoid:** Assuming every announced target automatically becomes an NDC obligation or that an LT-LEDS replaces the five-year NDC cycle.
+**Misconception to avoid:** Treating document classification as if it supplied the quantitative and implementation detail required for a full India-policy answer.
 
 ### Original Mains practice
 
-**Question (20 marks, 250 words):** Critically evaluate India's climate negotiating position through the concepts of equity, carbon space and progressive NDCs.
+**Question (10 marks, 150 words):** Explain how an NDC, an LT-LEDS, a political announcement and a transparency report differ in climate governance.
 
-**Mains model:** India's position begins from cumulative responsibility. Its LT-LEDS argues that developed regions consumed a disproportionate share of the global carbon budget, while India retains major poverty-eradication and energy-access needs. It therefore invokes equity, CBDR-RC, per-capita emissions and fair development space, while demanding finance, technology and capacity support.
+**Mains model:** An NDC is a formal Paris communication containing nationally determined action; Parties must prepare, communicate and maintain successive NDCs and report progress. An LT-LEDS is a longer-horizon development strategy encouraged by Article 4.19, not a substitute for the five-year NDC cycle. A political announcement has only the status created by its wording and participants unless it is incorporated into a formal submission or law. A transparency report is backward-looking: it records inventories, implementation, support and progress rather than setting the next contribution. India's April 2026 NDC submission illustrates the first category, while its detailed targets and domestic-policy pathway require the dedicated India-climate topic. Accurate answers should identify the instrument, governing article, time horizon and whether the claim is a pledge, strategy, report or verified delivery.
 
-This frame shapes nationally determined targets. The 2015 NDC used emissions intensity, non-fossil installed capacity and a forest sink rather than an absolute cap. The 2022 update raised the intensity target to 45 per cent below 2005 and non-fossil installed capacity to about 50 per cent by 2030. LT-LEDS mapped a net-zero-2070 pathway. India's April 2026 NDC for 2031–2035 progressed to 47 per cent intensity reduction, about 60 per cent non-fossil installed capacity and a 3.5–4.0 billion tCO2e sink.
-
-The position is development-compatible and progressively formalised. Yet intensity may decline while absolute emissions rise; capacity is not generation; sink accounting and implementation finance remain difficult. Equity is therefore most persuasive when paired with transparent reporting, credible domestic measures and leadership in affordable low-carbon development.
-
-**Quantified rubric (20):** equity/carbon-space reasoning 5; accurate NDC chronology and figures 6; finance/technology position 3; critical limitations 4; balanced verdict 2.
+**Quantified rubric (10):** four document distinctions 5; Paris article/timing 2; India example without target duplication 1; status discipline and conclusion 2.
 
 ## Lesson 13 — Advanced synthesis: redesign without destroying legitimacy
 
@@ -1586,7 +1608,7 @@ Progress: 13 / 13 | Stage: Advanced | Subtopic: Design tensions, legal traps and
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Advanced canonical dossier, treaty texts and complete lesson evidence queried
 CA search: "UNFCCC reform consensus finance transparency equity analytical proposals"
-CA found: No additional linkage; reform is derived from the completed treaty analysis
+CA found: None; the reform synthesis uses the dated official outcomes already verified in Lessons 6–11
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the regime's five structural tensions
@@ -1601,7 +1623,7 @@ CONSENSUS    <-> SPEED AND CLARITY
 
 Every serious reform proposal improves one side while risking damage to another; analysis must expose the trade-off.
 
-### 1. Kyoto versus Paris is not "binding versus non-binding"
+### Reframe Kyoto versus Paris beyond a false binary
 
 Kyoto used binding quantified outcomes for a narrower group, plus reporting and enforcement architecture. Paris uses a binding treaty containing procedural duties and nationally determined mitigation substance for all Parties. The real comparison is:
 
@@ -1613,7 +1635,7 @@ Kyoto used binding quantified outcomes for a narrower group, plus reporting and 
 | Assigned-amount compliance | Transparency, stocktake and facilitative compliance |
 | Binary differentiation | Universal action with contextual differentiation |
 
-### 2. Law, decision, pledge and declaration
+### Legal-status ladder: treaty, decision, submission and declaration
 
 ```text
 TREATY OBLIGATION
@@ -1634,7 +1656,7 @@ verified policy, finance or emissions outcome
 
 The lower categories can influence behaviour, but none should be silently promoted into the category above.
 
-### 3. Common negotiation traps
+### Error diagnostics before writing
 
 1. Treating COP numbering as the age of the Paris Agreement.
 2. Calling every COP output legally binding.
@@ -1649,7 +1671,7 @@ The lower categories can influence behaviour, but none should be silently promot
 11. Treating adaptation and loss and damage as synonyms.
 12. Announcing future COP outcomes from draft text or diplomatic statements.
 
-### 4. Reform package
+### Reform menu matched to five structural tensions
 
 **A. Stronger ambition without externally imposed national quotas**
 
@@ -1689,7 +1711,7 @@ The lower categories can influence behaviour, but none should be silently promot
 - evaluate funds by access and outcomes, not announcements;
 - make just-transition support country-driven and worker/community responsive.
 
-### 5. Strongest objection and reply
+### Counterargument: do integrity rules burden weaker states?
 
 **Objection:** More reporting and integrity rules burden developing countries and reduce participation.
 
@@ -1697,7 +1719,7 @@ The lower categories can influence behaviour, but none should be silently promot
 
 **Residual:** Reform can become technocratic. Climate legitimacy still depends on distributive bargains over fossil-fuel use, development, finance and historical responsibility.
 
-### 6. Qualified verdict
+### Qualified verdict: differentiated integrity
 
 The regime's weakness is not simply lack of law. It is the gap between law, ambition, support and delivery. The defensible reform principle is **differentiated integrity**: common transparency and anti-double-counting standards, flexible support-sensitive implementation, and stronger obligations where responsibility and capability are greatest.
 
@@ -1752,6 +1774,25 @@ The answer is not uniform burdens. A principle of differentiated integrity shoul
 
 The printed question is presented before any demand note. Objective questions remain answer-neutral: no answer letter, truth marking or elimination is supplied.
 
+The verbatim question text below is attributed to the identified UPSC paper and reproduced for educational analysis. No official or provisional answer key is copied into this session.
+
+## Local official-paper provenance and ownership
+
+| PYQ | Local source PDF | PDF page | Topic status |
+|---|---|---:|---|
+| 2018 Prelims Q35 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` | 17 | Direct Topic 19 institutional/legal-character linkage |
+| 2018 Prelims Q83 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` | 35 | Direct Topic 19 institutional-origin linkage |
+| 2018 Prelims Q88 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` | 39 | Direct Topic 19 secretariat/initiative linkage |
+| 2021 GS-III Q17 | `books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf` | 4 | Direct for COP26 outcomes; India-target detail cross-owned by Topic 20 |
+| 2022 GS-II Q20 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf` | 5 | Cross-owned by International Relations; Topic 19 supplies treaty architecture |
+| 2022 GS-III Q17 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` | 5 | Direct for Kyoto measures; warming science cross-owned by Topic 17 |
+| 2022 Prelims Q41 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | 21 | Direct Topic 19 official-body versus independent-coalition distinction |
+| 2022 Prelims Q42 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` | 21 | Direct Topic 19 official-body versus private-network distinction |
+| 2025 Prelims Q32 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | 15 | Direct Topic 19 legal-character linkage |
+| 2025 Prelims Q34 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | 17 | Cross-owned by Topic 21; Topic 19 supplies Article 6 treaty architecture |
+| 2025 GS-III Q18 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` | 4 | Cross-owned by Topic 20; Topic 19 supplies Paris/COP classification |
+| 2026 Prelims Q21 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | 11 | Cross-owned by Topic 20; Topic 19 supplies NDC/reporting distinctions |
+
 ## 2018 Prelims GS-I, Question 35
 
 > With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct?
@@ -1803,7 +1844,7 @@ The printed question is presented before any demand note. Objective questions re
 
 **Directive and demand:** "Describe" requires an accurate two-part account: negotiated COP26 outcomes and India's separately announced commitments. Do not merge the Glasgow Climate Pact, Article 6 decisions and Panchamrit into one legal category.
 
-**Answer approach:** Brief context → Glasgow Pact language and Article 6/rulebook outcomes → adaptation/finance elements → separate Panchamrit block → equity and implementation qualification.
+**Answer approach:** Brief context → Glasgow Pact language and Article 6/rulebook outcomes → adaptation/finance elements → identify India's announcement as a separate national category → route its quantitative detail to Topic 20 → equity and implementation qualification.
 
 **Concept location:** Lessons 7, 9, 11 and 12.
 
@@ -1813,7 +1854,7 @@ The printed question is presented before any demand note. Objective questions re
 
 **Directive and demand:** "Describe briefly" still requires change over time and a geopolitical lens. Link India's NDC evolution, BASIC/LMDC/G77 diplomacy, finance and technology positions, energy security, trade pressures and strategic coalitions.
 
-**Answer approach:** Policy evolution → negotiating coalitions and CBDR-RC → clean-energy diplomacy → finance/technology and trade tensions → balanced assessment of autonomy and cooperation.
+**Answer approach:** International-fora chronology → negotiating coalitions and CBDR-RC → clean-energy diplomacy → finance/technology and trade tensions → route domestic-target detail to Topic 20 → balanced assessment of autonomy and cooperation.
 
 **Concept location:** Lessons 2, 9, 10 and 12.
 
@@ -1909,9 +1950,9 @@ The printed question is presented before any demand note. Objective questions re
 
 **Directive and demand:** "Review" requires accurate chronology plus evaluation. Separate the first NDC, Panchamrit announcements and the two quantified 2022 NDC upgrades.
 
-**Answer approach:** 2015 targets → COP26 five announcements by target type → 2022 formal update → implementation evidence with dated denominators → finance, technology and sink/accounting limitations → reasoned verdict.
+**Answer approach:** Paris legal frame → separate the first NDC, COP26 political announcement and 2022 formal update as document categories → route all quantitative target and implementation detail to Topic 20 → finance/technology qualification → reasoned verdict.
 
-**Concept location:** Lesson 12.
+**Concept location:** Lesson 12 for treaty classification; quantitative answer content is cross-owned by Topic 20.
 
 ## 2026 Prelims GS-I, Question 21
 
@@ -1938,7 +1979,7 @@ The printed question is presented before any demand note. Objective questions re
 
 **Demand after the question:** Test each factual proposition and then the three stated relationships. The locally held key is provisional; this live edition states no answer or elimination.
 
-**Concept location:** Lessons 6 and 12.
+**Concept location:** Lessons 6 and 12 for NDC/reporting distinctions; substantive India-policy content is cross-owned by Topic 20.
 
 ## PYQ completeness index
 
@@ -1947,15 +1988,15 @@ The printed question is presented before any demand note. Objective questions re
 | 2018 | Prelims 35 | Voluntary climate alliance | This section; Lessons 2, 13 |
 | 2018 | Prelims 83 | PAGE institutional origin | This section; Lesson 2 |
 | 2018 | Prelims 88 | Climate Neutral Now originator | This section; Lesson 2 |
-| 2021 | GS-III 17 | COP26 outcomes and India commitments | This section; Lessons 7, 9, 11, 12 |
-| 2022 | GS-II 20 | India climate diplomacy and geopolitics | This section; Lessons 2, 9, 10, 12 |
+| 2021 | GS-III 17 | COP26 outcomes and India commitments | Direct COP route: Lessons 7, 9, 11; India detail cross-owned by Topic 20 |
+| 2022 | GS-II 20 | India climate diplomacy and geopolitics | Cross-owned by IR; Topic 19 support in Lessons 2, 9, 10, 12 |
 | 2022 | GS-III 17 | Global warming and Kyoto measures | This section; Lessons 3, 4 |
 | 2022 | Prelims 41 | Climate Action Tracker identity | This section; Lessons 2, 13 |
 | 2022 | Prelims 42 | Climate Group, EP100 and Under2 | This section; Lessons 2, 13 |
 | 2025 | Prelims 32 | COP28 declaration and legal character | This section; Lessons 11, 13 |
-| 2025 | Prelims 34 | Paris Article 6 | This section; Lesson 7 |
-| 2025 | GS-III 18 | India Paris/COP26/2022 NDC | This section; Lesson 12 |
-| 2026 | Prelims 21 | LT-LEDS, BUR-4 and resilience | This section; Lessons 6, 12 |
+| 2025 | Prelims 34 | Paris Article 6 | Cross-owned by Topic 21; Topic 19 support in Lesson 7 |
+| 2025 | GS-III 18 | India Paris/COP26/2022 NDC | Cross-owned by Topic 20; treaty classification in Lesson 12 |
+| 2026 | Prelims 21 | LT-LEDS, BUR-4 and resilience | Cross-owned by Topic 20; reporting distinctions in Lessons 6 and 12 |
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -1991,9 +2032,9 @@ The printed question is presented before any demand note. Objective questions re
 
 ## Check 6 — India
 
-**Question:** What are the three quantified targets in India's April 2026 NDC?
+**Question:** What treaty-level fact about India's April 2026 submission belongs in Topic 19, and what must be routed to Topic 20?
 
-**Model answer:** By 2035 from a 2005 reference, India communicates a 47 per cent emissions-intensity reduction, about 60 per cent cumulative installed electric-power capacity from non-fossil sources, and a 3.5–4.0 billion tCO2e forest/tree carbon sink.
+**Model answer:** Topic 19 should establish that India submitted an official NDC for 2031–2035 on 24 April 2026 and classify it within Article 4's NDC cycle. Its quantitative targets, domestic missions, sector pathways and implementation evidence belong in Topic 20.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -2128,16 +2169,14 @@ x transparent accounting
 x verified delivery
 ```
 
-## India answer spine
+## Treaty-to-India cross-link
 
 ```text
-historical responsibility + per-capita equity
-        -> CBDR-RC and carbon-space claim
-        -> intensity/capacity/sink target design
-        -> progressive NDCs (2015 -> 2022 -> 2026)
-        -> LT-LEDS net-zero pathway
-        -> finance + technology + capacity conditions
-        -> domestic delivery and transparency qualification
+Paris Article 4 category
+        -> official NDC submission status
+        -> distinguish NDC / LT-LEDS / announcement / transparency report
+        -> connect CBDR-RC + finance + technology
+        -> route quantitative targets and domestic delivery to Topic 20
 ```
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
@@ -2182,8 +2221,11 @@ historical responsibility + per-capita equity
 
 ## Transparency, stocktake and compliance
 
+- Decision 6/CMA.3: 2025 NDC round encouraged to use a 2035 end date; 2030 round a 2040 end date.
 - Article 13 ETF: inventories, NDC progress, support information, expert review and multilateral consideration.
 - Flexibility is available to developing countries that need it in light of capacity.
+- First BTRs were due by 31 December 2024 and then biennially; LDCs/SIDS may report at discretion.
+- BTR reporting supersedes the earlier BR/BUR tracks; a BUR is not an NDC or LT-LEDS.
 - BTR = implementation report; NDC = forward contribution.
 - Article 14 GST = collective assessment every five years; first concluded 2023.
 - Article 15 committee = expert, facilitative, transparent, non-adversarial and non-punitive.
@@ -2191,18 +2233,21 @@ historical responsibility + per-capita equity
 ## Article 6
 
 - 6.2: Party-led cooperative approaches and ITMOs.
-- Corresponding adjustments prevent double claiming.
-- 6.4: CMA-supervised crediting; sustainable development, overall mitigation and adaptation share of proceeds.
+- Authorization may cover another Party's NDC or another international mitigation purpose.
+- Corresponding adjustments prevent the host retaining an internationally authorized outcome.
+- 6.4: CMA-supervised crediting; authorized A6.4ERs and mitigation contribution units have different uses.
 - 6.8: non-market approaches across mitigation, adaptation, finance, technology and capacity.
 - Integrity tests: additionality, conservative baselines, no double counting, leakage control, permanence and safeguards.
+- First A6.4ER issuance approved: 26 February 2026; interim registries did not yet prove final-system maturity.
 
 ## Adaptation and loss and damage
 
 - Article 7 GGA: adaptive capacity, resilience and reduced vulnerability.
 - Adaptation is country-driven and context-specific.
-- COP28 UAE framework; COP30 Belém Adaptation Indicators.
+- Decision 2/CMA.5: UAE framework; decision 12/CMA.7: Belém Adaptation Indicators.
 - Article 8 recognises loss and damage.
 - WIM: COP19; Santiago Network: technical assistance.
+- Third WIM review: decisions 11/CP.30 and 22/CMA.7.
 - Dedicated fund agreed COP27, operationalised COP28.
 - Decision 1/CP.21 excludes liability/compensation basis under Article 8.
 
@@ -2213,8 +2258,10 @@ historical responsibility + per-capita equity
 - USD 100 billion was a political/decision-based goal, not Article 9 text.
 - Decision 1/CMA.6: at least USD 300bn/year by 2035, developed countries taking the lead.
 - Separate call: at least USD 1.3tn/year by 2035 from all actors and sources.
+- Article 9.5 = ex-ante biennial communication; Article 9.7 = ex-post biennial reporting.
 - Goal ≠ pledge ≠ disbursement.
 - TEC gives policy advice; CTCN provides technical assistance; PCCB supports capacity coherence.
+- Decision 18/CMA.7 adopted the Belém Technology Implementation Programme.
 - Means of implementation work as a package: finance + technology + capacity.
 
 ## Milestone wording
@@ -2223,20 +2270,21 @@ historical responsibility + per-capita equity
 - COP27: fund agreement; COP28: fund operationalisation.
 - COP28 GST: "transitioning away from fossil fuels in energy systems"; not binding national phase-out schedules.
 - COP29: NCQG and Article 6 operations.
-- COP30: 56 consensual decisions; adaptation indicators, just-transition mechanism development, Article 9 work and technology implementation.
+- Belém conference: 56 decisions across COP30, CMP20 and CMA7, not one legal body.
+- Decision 1/CMA.7: Global Mutirão and Article 9 work; decision 2/CMA.7: just-transition work.
+- Decisions 12/CMA.7 and 18/CMA.7: adaptation indicators and technology implementation.
+- Decisions 11/CP.30 and 22/CMA.7: third WIM review.
 - COP30 Presidency fossil-fuel/forest roadmaps are not identical to adopted consensus decisions.
-- On 3 October 2026, COP31/CMP21/CMA8 were scheduled for 9–20 November; no outcome existed.
+- On 5 October 2026, COP31/CMP21/CMA8 were scheduled for 9–20 November; no outcome existed.
 
-## India: equity and target control
+## India: bounded treaty cross-link
 
-- Equity frame: cumulative emissions, low per-capita contribution, development needs and fair carbon space.
+- Equity frame: cumulative emissions, per-capita responsibility, development needs and fair carbon space.
 - Carbon space is a negotiating argument, not a UN-allocated quota.
-- 2022 updated NDC: 45% intensity reduction from 2005 by 2030; about 50% non-fossil installed electric capacity; sink target retained.
-- Panchamrit announcements must not be conflated with formal NDC entries.
-- LT-LEDS: strategic net-zero-2070 pathway.
-- April 2026 NDC for 2031–2035: 47% intensity reduction; about 60% non-fossil installed capacity; 3.5–4.0 billion tCO2e sink.
-- India stresses Article 9.1, public/concessional finance, technology access, CBDR-RC and nationally shaped just transitions.
-- Installed capacity, generation and total energy requirement are different denominators.
+- India submitted an NDC for 2031–2035 on 24 April 2026.
+- NDC, LT-LEDS, political announcement and transparency report are different instruments.
+- Use this topic for treaty classification, CBDR-RC and support architecture.
+- Use Topic 20 for quantitative targets, domestic missions, sector pathways and implementation evidence.
 
 ## Rapid answer formula
 
@@ -2267,29 +2315,29 @@ define instrument
 | Doha Amendment and Kyoto legacy | Core | Lesson 4 | Lesson 4 revision/model |
 | Paris Article 2 goals | Core | Lesson 5 | Lesson 5 check |
 | Paris legal character and operative verbs | Core | Lesson 5 | Final 10-marker |
-| NDC cycle, progression and five-year timing | Core | Lessons 5–6 | Lesson 6 15-marker |
-| Enhanced Transparency Framework and BTR | Core | Lesson 6 | Cumulative Check 3 |
+| NDC cycle, progression, common time frames and five-year timing | Core | Lessons 5–6 | Lesson 6 15-marker |
+| Enhanced Transparency Framework, BTR cadence and BUR transition | Core | Lesson 6 | Cumulative Check 3 |
 | Global Stocktake | Core | Lesson 6 | Lesson 6 check |
 | Article 15 compliance | Core | Lesson 6 | Lesson 6 model |
-| Article 6.2, 6.4 and 6.8 | Core | Lesson 7 | 2025 Prelims Q34; Lesson 7 model |
-| Corresponding adjustments and integrity | Core | Lesson 7 | Lesson 7 check |
-| Adaptation and GGA | Core | Lesson 8 | Lesson 8 check |
-| Loss and damage, WIM, Santiago Network and fund | Core | Lesson 8 | Lesson 8 model |
+| Article 6.2, 6.4 and 6.8 | Core | Lesson 7 | Cross-owned 2025 Prelims Q34; Lesson 7 model |
+| Authorization, corresponding adjustments, registries and current status | Core | Lesson 7 | Lesson 7 check/model |
+| Adaptation communications, GGA and decision 12/CMA.7 | Core | Lesson 8 | Lesson 8 check |
+| Loss and damage, WIM joint review, Santiago Network and fund | Core | Lesson 8 | Lesson 8 model |
 | Financial Mechanism, GEF, GCF and special funds | Core | Lesson 9 | Lesson 9 15-marker |
-| Article 9 and NCQG figures/status | Core | Lesson 9 | Cumulative Check 5 |
+| Article 9.1, 9.5, 9.7 and NCQG figures/status | Core | Lesson 9 | Cumulative Check 5 |
 | Technology Mechanism, TEC and CTCN | Core | Lesson 10 | Lesson 10 check |
 | Capacity-building and PCCB | Core | Lesson 10 | Lesson 10 model |
-| Major outcomes through COP30 | Core | Lesson 11 | Lesson 11 model |
-| Status on 3 October 2026 and no future guessing | Core | Lesson 11 | Lesson 11 check |
-| India equity and carbon space | Core | Lesson 12 | Final 15-marker |
-| India 2015/2022 NDC, Panchamrit and LT-LEDS | Core | Lesson 12 | 2025 GS-III PYQ route |
-| India April 2026 NDC | Core | Lesson 12 | Cumulative Check 6 |
-| Exactly one genuine CA linkage | Core | Lesson 12 only | Pre-teach block and dedicated CA block |
+| COP30/CMA7/CMP20 body-specific outcomes | Core | Lesson 11 | Lesson 11 model |
+| Status on 5 October 2026 and no future guessing | Core | Lesson 11 | Lesson 11 check |
+| India equity and carbon-space treaty frame | Core | Lesson 12 | Final 15-marker |
+| India document classification and bounded Topic 20 cross-link | Core | Lesson 12 | Cross-owned 2025/2026 PYQ routes |
+| India April 2026 NDC submission status only | Core | Lesson 12 | Cumulative Check 6 |
+| Honest dated CA fields | Core/Advanced | Every lesson | Thirteen pre-teach blocks |
 | Treaty/decision/pledge/declaration distinctions | Advanced | Lesson 13 | Final 10-marker |
 | Negotiation traps | Advanced | Lesson 13; remediation | Remediation table |
 | Sovereignty–ambition and universality–stringency trade-offs | Advanced | Lesson 13 | Final 20-marker |
 | Analytical reform | Advanced | Lesson 13 | Lesson 13 model |
-| All routed exact PYQs through 2026 | Core/Advanced | Verified PYQ section | PYQ completeness index |
+| All direct and necessary cross-owned exact PYQs through 2026 | Core/Advanced | Verified PYQ section | Provenance/ownership table and completeness index |
 | 8–15 revision points per lesson | Core/Advanced | Every lesson | Thirteen revision blocks |
 | One check/model/misconception per lesson | Core/Advanced | Every lesson | Thirteen concept-check blocks |
 | Unique quantified rubrics and model ceilings | Core/Advanced | Every lesson and final Mains set | Thirteen local + three final rubrics |
@@ -2301,46 +2349,55 @@ define instrument
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` and cross-topic files 20 and 21 were audited |
+| Canonical Markdown | checked | Certified Topic 19 Basic owner and its exact treaty/COP scope at commit `85b86d8ed`; Topic 20 was used only as a bounded cross-link and supplied no pending quantitative content |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Layered/complete session | not relevant | Learner-v2 and excluded derived sessions were not used; mandatory Philosophy benchmark sessions supplied style only |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` plus relevant advanced files 20 and 21 |
-| OCR books | not available | No permitted OCR book/source-PDF path used for this topic exists in this worktree; COP30 claims were verified directly against the official UNFCCC records identified below |
-| PYQs through 2026 | checked | Local official UPSC papers for 2018, 2021, 2022, 2025 and 2026 plus local PYQ ledgers; 2026 objective key remains provisional and no answer is supplied |
-| Official live sources | checked | Official UNFCCC treaty texts, COP30 report, COP31 notification, Article 6 and NCQG records, and India's official NDC/LT-LEDS submissions |
+| Advanced dossier | checked | Certified Topic 19 Advanced owner at commit `85b86d8ed`; Article 6 and COP30 current status were independently checked against the official records below |
+| OCR books | not available | No topic-specific OCR book was needed or available for the disputed legal/current claims; official treaty, decision, registry and local-paper PDFs controlled them |
+| PYQs through 2026 | checked | Every displayed PYQ is mapped above to an exact local official-paper path and PDF page; direct and cross-owned status is explicit; the 2026 objective key remains provisional and unused |
+| Official live sources | checked | Persistent UNFCCC URLs, document symbols, decisions, registry guidance and retrieval dates are recorded below; currentness frozen at 5 October 2026 |
 
-## Primary documentary evidence
+## Persistent official source ledger
 
-| Source | Use |
-|---|---|
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | Canonical Core inventory and routed PYQs |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | Design tensions, finance and Article 6 advanced analysis |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | India document and target distinctions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | Equity, development and implementation tensions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` | Article 6 cross-topic accounting distinctions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` | MRV, additionality and integrity analysis |
-| UNFCCC Convention official text | Articles 2–4 and institutional provisions |
-| Kyoto Protocol official text and Doha Amendment | Targets, mechanisms, commitment periods and annex logic |
-| UN Treaty Collection certified Paris Agreement text | Articles 2, 4, 6–11 and 13–16 |
-| UNFCCC, decision 1/CMA.6 | NCQG wording and the two finance figures |
-| UNFCCC, COP29 Article 6 outcomes | Operational guidance status |
-| UNFCCC, COP30 Executive Report, <https://unfccc.int/sites/default/files/resource/COP_30_executive_report.pdf> | Number and overview of 2025 outcomes; Presidency-initiative distinction |
-| UNFCCC, COP30 official outcomes page, <https://unfccc.int/cop30/auvs> | Adopted and advance-unedited COP/CMP/CMA decision texts used for the Belém outcome claims |
-| UNFCCC COP31 notification dated 17 July 2026 | Future-session schedule and 3 October 2026 status control |
-| India Updated First NDC (2022) | 2030 formal targets |
-| India LT-LEDS (2022) | Equity, carbon budget and net-zero pathway |
-| India NDC for 2031–2035 (April 2026) | Current formal targets and sole CA linkage |
+| Source and stable location | Exact control used | Retrieved/currentness |
+|---|---|---|
+| Certified Basic owner, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | Core scope, Annex distinctions, treaty architecture, routed PYQs; commit `85b86d8ed` | Verified 5 October 2026 |
+| Certified Advanced owner, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | Legal-character, finance and sovereignty–ambition analysis; commit `85b86d8ed` | Verified 5 October 2026 |
+| UNFCCC Convention, <https://unfccc.int/resource/docs/convkp/conveng.pdf> | Articles 2–4: objective, principles and commitments; Articles 7–10: COP, secretariat and subsidiary bodies | Retrieved 5 October 2026 |
+| Kyoto Protocol, <https://unfccc.int/resource/docs/convkp/kpeng.pdf> | Article 3 and Annex B commitments; Articles 5, 7–8 accounting/review; Articles 6, 12 and 17 mechanisms | Retrieved 5 October 2026 |
+| Doha Amendment, decision 1/CMP.8, `FCCC/KP/CMP/2012/13/Add.1`, <https://unfccc.int/resource/docs/2012/cmp8/eng/13a01.pdf> | Annex I amendment text and Article 3.1 bis: second commitment period and aggregate 18 per cent formulation | Retrieved 5 October 2026 |
+| Paris Agreement official text, <https://unfccc.int/documents/54061> | Articles 2, 4, 6–11 and 13–15; Article 9.5 ex ante and 9.7 ex post wording | Retrieved 5 October 2026 |
+| Common time frames, decision 6/CMA.3, `FCCC/PA/CMA/2021/L.12`, <https://unfccc.int/sites/default/files/resource/cma2021_L12_adv.pdf> | Operative paragraphs 1–2; paragraph 2 contains the 2035/2040 rolling end-date rule | Retrieved 5 October 2026 |
+| ETF modalities, decision 18/CMA.1, <https://unfccc.int/resource/tet/0/00mpg.pdf> | Operative paragraph 3: first BTR/NIR deadline of 31 December 2024; annex: biennial reporting, review and flexibility | Retrieved 5 October 2026 |
+| UNFCCC ETF transition pages, <https://unfccc.int/first-biennial-transparency-reports> and <https://unfccc.int/FAQ-moving-towards-the-ETF> | BTR cadence; LDC/SIDS discretion; transition from BR/BUR to BTR | Retrieved 5 October 2026 |
+| NCQG, decision 1/CMA.6, `FCCC/PA/CMA/2024/17/Add.1`, <https://unfccc.int/sites/default/files/resource/cma2024_17a01_adv.pdf> | Paragraphs 7–10: USD 1.3 trillion scaling call, USD 300 billion goal, source structure and voluntary developing-country contributions | Retrieved 5 October 2026 |
+| Article 6.2 guidance, decision 4/CMA.6, `FCCC/PA/CMA/2024/L.15`, <https://unfccc.int/sites/default/files/resource/cma2024_L15_adv.pdf> | Authorization, first transfer, changes, inconsistencies and registry-service guidance | Retrieved 5 October 2026 |
+| Article 6.2 International Registry/ARS information, <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6/article-62/international-registry-and-ars> and <https://unfccc.int/sites/default/files/resource/19Jun_Info_Session_International_Registry.pdf> | Interim/offline secretariat operations during full-system development; no mature-system overclaim | Currentness checked 5 October 2026 |
+| Article 6.4 first-issuance status, <https://unfccc.int/sites/default/files/resource/Accelerating_A6.4_Engagement_BakuClimateWeek2026.pdf> | Slides headed “Where PACM stands”: first issuance approved 26 February 2026; 648,783 tCO2e; transition and regulatory status | Published September 2026; retrieved 5 October 2026 |
+| Article 6.4 Interim Mechanism Registry guide, <https://unfccc.int/sites/default/files/resource/UserGuide_Interim_Mechanism_Registry.pdf> | Interim registry operation and automatic migration to the final registry; no final launch date claimed | Version 2.0, September 2026; retrieved 5 October 2026 |
+| CMA7 report addendum 1, `FCCC/PA/CMA/2025/19/Add.1`, <https://unfccc.int/sites/default/files/resource/cma2025_19_a01.pdf> | Decision 1/CMA.7, pp. 2–8; decision 2/CMA.7, pp. 9–14 | Retrieved 5 October 2026 |
+| CMA7 report addendum 2, `FCCC/PA/CMA/2025/19/Add.2`, <https://unfccc.int/sites/default/files/resource/cma2025_19_a02.pdf> | Decision 12/CMA.7, pp. 2–10; decision 18/CMA.7, pp. 30–33 | Retrieved 5 October 2026 |
+| WIM review, decisions 11/CP.30 and 22/CMA.7, <https://unfccc.int/documents/655268> and <https://unfccc.int/documents/655275> | Joint Convention/Paris conclusion of the third Warsaw International Mechanism review | Retrieved 5 October 2026 |
+| COP30 Executive Report, <https://unfccc.int/sites/default/files/resource/COP_30_executive_report.pdf> | Conference-wide count of 56 decisions and separation of Presidency roadmaps from negotiated decisions | Retrieved 5 October 2026 |
+| COP31 notification, <https://unfccc.int/sites/default/files/resource/notification_to_parties_and_observer_states_cop31.pdf> | Notification dated 17 July 2026, p. 1: COP31/CMP21/CMA8, Antalya, 9–20 November 2026 | Currentness checked 5 October 2026 |
+| India NDC registry record, <https://unfccc.int/documents/611410> | Submission status and date only: NDC for 2031–2035 submitted 24 April 2026; no quantitative target imported | Retrieved 5 October 2026 |
+
+## Local PYQ provenance control
+
+The exact local paths, PDF pages and direct/cross-owned status for all twelve displayed PYQs are recorded in the provenance table immediately under `# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES`. Those paper scans, not coaching reproductions, control wording. No objective answer is stated or inferred.
 
 ## Claim-control ledger
 
 | Claim family | Control |
 |---|---|
 | Treaty obligations | Exact article text and operative verbs |
-| COP outcomes | Adopted decision/report status separated from Presidency initiatives |
-| Finance | Treaty duty, collective goal, scaling call, pledge and delivery separated |
-| India targets | 2015, Panchamrit, 2022 NDC, LT-LEDS and 2026 NDC separated |
+| Kyoto participation | Annex I, Annex II and Annex B separated; ratification, withdrawal and commitment-period status preserved |
+| Article 6 | Authorization, first transfer, corresponding adjustment, registry recording, credit integrity and final-system maturity separated |
+| COP30 outcomes | CMA7, COP30 and joint decisions identified by decision number; Presidency initiatives kept separate |
+| Finance | Article 9.1 duty, 9.5 ex ante information, 9.7 ex post reporting, collective goal, scaling call, pledge and delivery separated |
+| India cross-link | Only official submission status and treaty classification retained; all target and domestic-policy detail routed to Topic 20 |
 | Future status | No COP31 outcome attributed before the scheduled November 2026 sessions |
-| Objective PYQs | Exact printed options retained; no key or elimination supplied |
-| Mains PYQs | Exact printed wording, directive, marks and word ceiling retained |
+| Objective PYQs | Exact printed options retained with local path/page attribution; no key or elimination supplied |
+| Mains PYQs | Exact printed wording, directive, marks, word ceiling, source page and ownership retained |
 | Analytical statements | Presented as evaluation, objection, reply or qualified verdict rather than treaty fact |
