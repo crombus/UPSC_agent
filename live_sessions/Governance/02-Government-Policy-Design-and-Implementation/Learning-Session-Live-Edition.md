@@ -28,7 +28,7 @@ Progress: 1 / 10 | Stage: Foundation | Subtopic: Problem definition and agenda s
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR-searchable *Indian Polity* by M. Laxmikanth, PDF p. 1211 (pressure groups influencing policymaking); the book does not supply a detailed policy-cycle framework.
 CA search: "NITI Aayog Aspirational Districts Programme convergence collaboration competition official 2026"
-CA found: NITI Aayog, “Aspirational Districts Programme / Aspirational Blocks Programme” (official programme page, accessed 1 October 2026; page publication date not established).
+CA found: NITI Aayog, “Aspirational Districts Programme / Aspirational Blocks Programme” (official programme page, accessed 5 October 2026). The live page describes 117 selected Aspirational Districts, while the Annual Report 2025–26 reports a 112-district operational/reporting denominator; this source difference is handled in Lesson 6.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -99,7 +99,7 @@ Progress: 2 / 10 | Stage: Core | Subtopic: Evidence, consultation, alternatives 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR *Indian Polity*, PDF p. 1211 discusses participation through associations, but does not independently establish the full design framework.
 CA search: "pre legislative consultation policy 2014 30 days parliamentary reply government 2025"
-CA found: No verified headline in the past six months; relevant earlier Lok Sabha reply on pre-legislative consultation dated 12 December 2025 (accessed 1 October 2026).
+CA found: No verified headline in the past six months; relevant earlier Lok Sabha reply on pre-legislative consultation dated 12 December 2025 (rechecked 5 October 2026).
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Design question | A practical answer | Failure if omitted |
@@ -120,9 +120,23 @@ The Union's **Pre-Legislative Consultation Policy (2014)** is an executive polic
 
 **Theory of change:** Input (budget and staff) → activity (inspections, provision or transfers) → output (services delivered) → outcome (changed access or behaviour) → impact (lasting welfare or integrity). At each arrow write the assumption: a transfer requires working payment access; an inspection requires an official able to act. A plausible chain is not evidence that those assumptions have been satisfied.
 
+**Pilot-to-scale learning:** A pilot asks whether the mechanism can work under bounded conditions. Scaling asks whether it still works with ordinary staff, routine procurement, complete fiscal cost, diverse States and citizens, weaker supervisory attention and a functioning grievance route.
+
+```text
+Pilot question → did the causal mechanism work here?
+        ↓ test fidelity + cost + equity + failure cases
+Adapt the design → record what changed and why
+        ↓ phased rollout across different capacities
+Scale question → did outcomes survive ordinary administration?
+        ↓
+continue / redesign / pause / sunset
+```
+
+A pilot with unusually skilled staff or intensive monitoring can overstate scalability. Before expansion, pre-specify output, outcome, equity and failure indicators; test heterogeneous sites; calculate recurrent rather than launch cost; preserve feedback; and make a stop/redesign decision possible. Replicating the same activity is not proof that the causal effect scaled.
+
 **Criticism and reply:** Deliberation costs time and organised interests can dominate comments. Use time-bound windows and accessible formats; document which feedback was accepted, rejected or unresolved. An emergency exception needs a reason and later review, not a false claim that an unconsulted policy was exhaustively tested.
 
-**Verified PYQ, 2018 GS-II Q6 (10 marks, 150 words):** **Directive: comment with relevant illustrations. Demand:** explain how contradictory sectoral policies can produce environmental degradation. The full printed wording is not reliably available here, so this is a paraphrase. **Unsolved approach:** contrast water-intensive cropping incentives with groundwater-conservation goals, explain the neglected cross-department externality, then distinguish a coordination defect from a genuine livelihoods–ecology conflict. Do not present an invented statistic or a generic climate-policy catalogue as the answer.
+**Verified PYQ, 2018 GS-II Q6 (10 marks, 150 words):** Verified normalised transcription from `books\more_previous_papers\GENERAL-STUDIES-PAPER-II.pdf`, PDF p. 2: “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. **Unsolved approach:** contrast water-intensive cropping incentives with groundwater-conservation goals, explain the neglected cross-department externality, then distinguish a coordination defect from a genuine livelihoods–ecology conflict. Do not present an invented statistic or a generic climate-policy catalogue as the answer.
 
 **UPSC trap:** RIA, consultation and approval are distinct; consultation does not bind the State to accept every comment, nor does approving a bill deliver the promised outcome.
 
@@ -138,6 +152,8 @@ The Union's **Pre-Legislative Consultation Policy (2014)** is an executive polic
 8. RIA is an appraisal tool, not a uniformly binding procedure across Indian regulators.
 9. A theory of change links input → activity → output → outcome → impact and states the assumption at every arrow.
 10. The defensible sequence is diagnose → compare → test capacity and cost → consult → explain the response → decide → review effects.
+11. Pilot success may reflect exceptional staff, narrow selection or close supervision rather than scalable capacity.
+12. Scale in phases only after testing fidelity, recurrent cost, equity, ordinary administration and a stop/redesign rule.
 
 ### Concept check
 
@@ -169,14 +185,14 @@ Progress: 3 / 10 | Stage: Core | Subtopic: Legal authority, statutory scope and 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth provides institutional context, but not the Act's authority definition; consult the dated India Code record for that legal distinction.
-CA search: "India Code Public Examinations Prevention of Unfair Means Act 2024 section 2 schedule notification commencement"
-CA found: India Code record of the Act and commencement S.O. 2422(E), 21 June 2024 (existing official record; accessed 1 October 2026); direct site fetch returned 403, so no later expansion is claimed.
+CA search: "Public Examinations Prevention of Unfair Means Amendment Act 2026 Act 10 Gazette 31 July official"
+CA found: Gazette of India, **Public Examinations (Prevention of Unfair Means) Amendment Act, 2026**, Act 10 of 2026, presidential assent and publication on 31 July 2026, Gazette **CG-DL-E-31072026-275035**. The 2024 principal Act's authority-based coverage remains a separate question.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
 Public aim: credible examinations
            ↓
-Choice of legal instrument: Act (offences and authority)
+Principal Act, 2024: offences + authority-based coverage
            ↓
 Commencement notification: 21 June 2024
            ↓
@@ -184,22 +200,26 @@ Scope test: WHO conducts this examination?
            ├─ authority in statutory Schedule → within statutory framework
            └─ other authority → check specific Central notification or other law
            ↓
-Rules + secured centres + investigation + adjudication
+Amendment Act, 2026: stronger penalties + time-bound investigation/trial
+           ↓
+Rules + secured centres + investigation + adjudication + appeal
            ↓
 Deterrence and credibility: require separate outcome evidence
 ```
 
 *Territorial application tells us where a law can operate; the authority definition tells us which examinations it governs.*
 
-A **policy** is a course of action; an **Act** supplies enacted legal authority; a **rule** supplies subordinate legal detail within that authority; a **scheme** allocates administrative responsibilities and benefits; a **guideline** or **order** may direct implementation within its legal limits; a **budget** authorises resource choices but does not itself prove that a service was delivered. Do not call a draft, Cabinet approval, enacted Act, commencement and functioning enforcement interchangeable.
+A **policy** is a course of action; a **programme** coordinates activities or schemes towards an objective; a **scheme** gives an administrative benefit, service or incentive an operational design; an **Act** supplies enacted legal authority; a **rule** is delegated legislation made within the parent Act; a **guideline** or **order** operates only within lawful executive or statutory authority; and a **budget** authorises resource choices but does not prove delivery. A rule cannot exceed its parent Act, and a guideline cannot silently amend a statute. Do not call a draft, Cabinet approval, enactment, commencement and functioning enforcement interchangeable.
 
 ✅ The **Public Examinations (Prevention of Unfair Means) Act, 2024** addresses unfair means including leaks, impersonation and tampering in public examinations covered by its authority framework. It came into force on **21 June 2024**, by **S.O. 2422(E)**. Its Schedule names authorities including the Union Public Service Commission (UPSC), Staff Selection Commission (SSC), Railway Recruitment Boards (RRBs), Institute of Banking Personnel Selection (IBPS), National Testing Agency (NTA), and relevant Central Government departments and attached offices. For an additional authority, verify a specific Central Government Gazette notification. Do **not** infer that every university or State Education Board examination is covered because the Act extends throughout India. A separate State statute is another legal route; executive rhetoric alone is not a Gazette notification.
 
-Step through a case: identify the body conducting the examination → read the Act's authority definition and Schedule → verify any relevant notification → check commencement and applicable rules → ask whether centre staff, security and investigators can implement them → measure integrity outcomes cautiously. This sequence answers both **aim** and **scope**, and distinguishes enforcement capacity from legislation.
+✅ The **Public Examinations (Prevention of Unfair Means) Amendment Act, 2026** is **Act 10 of 2026**, assented to and published on **31 July 2026** in Gazette **CG-DL-E-31072026-275035**. It strengthens penalties and inserts time-bound investigation, Special Fast Track Courts, Special Public Prosecutors and an appeal route. It amends enforcement machinery; it does **not** replace the principal Act's Schedule/notification test or automatically cover every State-board or university examination.
+
+Step through a case: identify the body conducting the examination → read the principal Act's authority definition and Schedule → verify any relevant notification → distinguish the 2024 commencement from the 2026 amendment → check applicable delegated rules → ask whether centre staff, security, investigators, designated courts and prosecutors can implement the law → measure integrity outcomes cautiously. This sequence answers both **aim** and **scope**, and distinguishes enforcement capacity from legislation.
 
 **Strong objection:** Criminal penalties may deter misconduct but do not prevent leaks originating in insecure printing, custody or contracting. **Reply:** A statute creates authority and sanctions while operations supply preventive controls, recorded custody and investigation. Neither limb alone proves the absence of unfair means. Do not assert a fall in leaks without an evaluation.
 
-**Verified PYQ, 2024 GS-II Q11 (15 marks, 250 words):** The official OCR English line reads, with obvious scan spelling errors retained in the source: “What are the aims and objects of recently passed and enforced, The Public Emamination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examminations, too, are covered under the Act?” The printed stem is interrogative; **directive: explain aims and determine scope**. **Demand:** two halves, not a generic description. **Unsolved approach:** state purpose, test statutory authority and Schedule/notification, distinguish territorial extent and actual exam coverage, then mention implementation controls. This is an answer route, not a PYQ solution.
+**Verified PYQ, 2024 GS-II Q11 (15 marks, 250 words):** Verified normalised transcription from local official paper `books\mains\02 UPSC 2024 Paper-II.pdf`, PDF p. 3: “What are the aims and objects of the recently passed and enforced Public Examinations (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?” Obvious OCR spelling noise is normalised; no wording is reconstructed from memory. The stem is interrogative; **directive: explain aims and determine scope**. **Demand:** two halves, not a generic description. **Unsolved approach:** state purpose, test statutory authority and Schedule/notification, distinguish territorial extent and actual exam coverage, then mention the 2026 amendment only as a current enforcement update. This is an answer route, not a PYQ solution.
 
 **Revision:**
 
@@ -211,8 +231,10 @@ Step through a case: identify the body conducting the examination → read the A
 6. Coverage turns on the conducting authority named in the statutory definition, Schedule or a verified Central notification.
 7. Territorial extension throughout India does not by itself cover every university or State Education Board examination.
 8. Any claimed later expansion of covered authorities requires a specific verified Gazette notification.
-9. Statutory sanctions require rules, secure procedures, trained staff, investigation and adjudication to operate.
-10. Neither enactment nor enforcement activity alone proves deterrence or restored examination credibility.
+9. Act 10 of 2026, published 31 July 2026, strengthens penalties and time-bound investigation/trial machinery but does not erase the principal Act's authority-based coverage test.
+10. Delegated rules must stay within the parent Act; a guideline or executive statement cannot expand statutory coverage by itself.
+11. Statutory sanctions require secure procedures, trained staff, investigation, adjudication and appeal to operate.
+12. Neither enactment nor enforcement activity alone proves deterrence or restored examination credibility.
 
 ### Concept check
 
@@ -226,7 +248,7 @@ Step through a case: identify the body conducting the examination → read the A
 
 **Mains prompt:** Analyse why statutory enactment is a necessary but insufficient step in an examination-integrity intervention.
 
-**Suggested answer:** Enactment gives an intervention enforceable form but does not complete its operational chain. The Public Examinations (Prevention of Unfair Means) Act, 2024, commenced on 21 June 2024, defines offences and a public-examination-authority framework. For a particular examination, the administrator must establish that its conducting authority falls within the Schedule or an applicable notification; territorial extent alone does not establish coverage. Officials must then secure paper custody, guide centre staff and investigate alleged misconduct according to law. A delayed rule, inadequate staffing or vulnerable procurement can leave the intended deterrence unrealised. Conversely, secure procedures may help even where criminal enforcement is rare. The State should publish responsibilities, train staff, provide reporting channels and monitor independently verified incidents while protecting due process. Therefore, judge statutory design by precise coverage and the chain of lawful, capable implementation, not by enactment alone.
+**Suggested answer:** Enactment gives an intervention enforceable form but does not complete its operational chain. The Public Examinations (Prevention of Unfair Means) Act, 2024, commenced on 21 June 2024, defines offences and an authority-based framework. For a particular examination, the conducting authority must fall within the Schedule or an applicable notification; territorial extent alone does not establish coverage. Amendment Act 10 of 2026 strengthens penalties and time-bound investigation/trial machinery without changing that basic scope test. Officials must still secure paper custody, guide centre staff and investigate lawfully. Rules must stay within the parent Act, while staffing or procurement failure can leave deterrence unrealised. Therefore, judge the intervention by precise coverage and capable, reviewable implementation, not enactment alone.
 
 **Why this earns marks (10):** Legal-status distinction (2); statute-specific scope (3); operational mechanism (3); qualified outcome and due process (2).
 
@@ -240,8 +262,8 @@ Progress: 4 / 10 | Stage: Core | Subtopic: Targeting, distribution, funding and 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth PDF p. 1211 concerns groups affecting public policy, not targeting or PPP contract design.
-CA search: "PIB PM GatiShakti infrastructure shared GIS states planning government private sector 2025"
-CA found: No verified new headline in the past six months; relevant earlier PIB PM GatiShakti planning update (2025, PRID 2152521; accessed 1 October 2026). No current project total verified.
+CA search: "site:pib.gov.in PM GatiShakti integrated planning NPG Lok Sabha August 2026"
+CA found: PIB Lok Sabha reply, **11 August 2026**, PRID **2297818**: PM GatiShakti remains an integrated planning framework without a separate budgetary provision; the Network Planning Group evaluates critical Central infrastructure projects at the planning stage. Dated operating figures are not treated as outcome evidence.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Choice | What it buys | What can go wrong | Safeguard |
@@ -308,8 +330,8 @@ Progress: 5 / 10 | Stage: Core | Subtopic: Authority, rules, agency, capacity, c
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR *Indian Polity* PDF p. 1211 discusses policymaking and implementation; it does not itself establish the six-stage diagnostic map.
-CA search: "India Code Public Examinations Act 2024 commencement implementation scheduled authorities 2026"
-CA found: No verified new headline in the past six months; relevant continuing India Code Act/commencement record dated 21 June 2024 (live search 1 October 2026); no later authority expansion verified.
+CA search: "Public Examinations Amendment Act 2026 Act 10 Gazette Special Fast Track Courts official"
+CA found: Gazette **CG-DL-E-31072026-275035**, 31 July 2026: Amendment Act 10 of 2026 adds stronger penalties and time-bound investigation/trial machinery. No amendment to the principal Act's Schedule-based authority test was identified.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -328,9 +350,24 @@ CA found: No verified new headline in the past six months; relevant continuing I
 
 *A break at any arrow can separate a formally approved policy from a usable entitlement.*
 
+A policy also moves through institutions whose roles cannot be merged:
+
+| Actor | Proper function | Boundary |
+|---|---|---|
+| Cabinet / Council of Ministers | Major executive policy decision and collective responsibility | Cabinet approval is not legislation, appropriation, commencement or delivery |
+| Line ministry / department | Diagnose, formulate, draft law/rules, coordinate and steward the programme | A ministry cannot acquire another body's statutory or State power through a guideline |
+| Ministry of Finance / Department of Expenditure / Budget Division | Fiscal appraisal, budget architecture and expenditure control | Allocation ≠ release ≠ expenditure ≠ outcome |
+| Parliament / State legislature | Enact parent law, authorise expenditure and scrutinise executive/delegated legislation | The legislature does not implement; an executive rule cannot exceed the parent Act |
+| NITI Aayog / DMEO | Advice, cooperative coordination, knowledge, monitoring and evaluation | No general power to bind States, allocate the divisible pool or execute every programme |
+| Finance Commission | Article 280 recommendations on tax devolution, grants and local-body augmentation | It does not design or administer Centrally Sponsored Schemes |
+| CAG → legislature/PAC | Ex-post audit within constitutional/statutory mandate and legislative follow-up | The CAG is not a pre-auditor, policy approver, prosecutor or recovery authority |
+| State / district / local / frontline actor | Adapt and execute within assigned law, funds, functions and staff | A Union announcement or dashboard does not displace lawful State/local competence |
+
 Take a welfare transfer. Stage 1 may be an executive scheme rather than a universal statutory right. Stage 2 states eligibility and corrections. Stage 3 assigns identification to the State or district and funds to a designated payment route. Stage 4 checks trained staff and systems. Stage 5 asks whether a person can actually apply without losing a day's wages. Stage 6 provides a review when the person is refused. A portal registration proves neither receipt nor recourse.
 
 **Capacity** is not simply an approved budget. Compare sanctioned and filled posts, training, timing of funds, technological reliability and the authority to resolve exceptions. A centrally sponsored scheme needs coordinated Union and State functions; a local body without **funds, functions and functionaries** cannot deliver an assignment simply because a circular says it should. Monitoring must follow funds and data across the chain, not only count final applications.
+
+The fiscal-federal route also matters. A **Finance Commission** recommendation concerns constitutional tax devolution, grants and local-body augmentation; it is not a Centrally Sponsored Scheme design. A **CSS** is designed, budgeted and implemented through the competent Union ministry, Finance/expenditure machinery, States and delivery agencies. Constitutional transfer, scheme approval, fund release and field execution are distinct events.
 
 **Design-stage versus delivery-stage diagnosis:** If the rule demands a document that eligible people cannot obtain, the defect began in design; if the rule is accessible but the office remains closed or poorly staffed, delivery capacity is the closer cause. Both may coexist. A six-stage map helps isolate, not automatically prove, causation.
 
@@ -350,6 +387,8 @@ Take a welfare transfer. Stage 1 may be an executive scheme rather than a univer
 8. “Approved”, “notified”, “funded”, “staffed”, “accessed” and “evaluated” describe different claims.
 9. Match the correction to the stage that failed instead of prescribing another portal for every problem.
 10. Count citizen costs and excluded eligible people, not only departmental expenditure and completed applications.
+11. Cabinet, ministry, Finance, legislature, NITI Aayog, Finance Commission and CAG exercise different forms of authority; none proves delivery.
+12. CAG audit is ex post, while CSS design/implementation belongs to the competent executive and Union–State chain, not the Finance Commission.
 
 ### Concept check
 
@@ -363,7 +402,7 @@ Take a welfare transfer. Stage 1 may be an executive scheme rather than a univer
 
 **Mains prompt:** Explain how to diagnose the specific stage at which a government scheme loses intended beneficiaries.
 
-**Suggested answer:** Start with authority: is the benefit an enacted entitlement or an executive scheme, and who qualifies? Next test the rule and procedure against documents an eligible applicant can obtain. Trace the responsible State and district agencies, staffing, fund-flow and system reliability. Finally follow a real applicant through travel, language, rejection, correction and appeal. A Direct Benefit Transfer dashboard can show a completed transaction while excluding an eligible resident whose authentication failed; this is an interface problem unless the eligibility rule itself caused the rejection. The Public Examinations Act, 2024 similarly illustrates that commencement and enforceable scope precede centre-level implementation; an Act does not secure an examination room by itself. Compare eligible population, completed access and reasoned rejections over time, then attach each corrective to the failing stage. Do not prescribe another portal for a staffing deficit.
+**Suggested answer:** Start with authority: is the benefit an enacted entitlement or an executive scheme, and who qualifies? Test whether delegated rules stay within the parent law and whether the procedure demands accessible documents. Trace the line ministry, Finance route, State/district agencies, staffing and systems, then follow a citizen through rejection, correction and appeal. A DBT dashboard can show a transaction while excluding an eligible resident whose authentication failed. The Public Examinations principal Act and its 2026 amendment similarly show that law, scope, rules, investigators and courts are separate stages. Compare eligible population, access and reasoned rejections, then attach each correction to the actor and stage that failed.
 
 **Why this earns marks (10):** Stage map (3); two named applications with causal use (3); design/delivery distinction (2); targeted correction and conclusion (2).
 
@@ -377,8 +416,8 @@ Progress: 6 / 10 | Stage: Core | Subtopic: Centre–State roles, convergence and
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth supplies broad institutional background, not ADP's operating mechanism; NITI Aayog supplies the programme description.
-CA search: "site:niti.gov.in aspirational districts programme 112 49 indicators convergence collaboration competition"
-CA found: NITI Aayog's Sampoornata Abhiyan 2.0 launch, 28 January 2026 (PIB PRID 2219753): the release reports 513 Aspirational Blocks and 112 Aspirational Districts; historical status anchor, not a new October event.
+CA search: "site:niti.gov.in Aspirational Districts Programme 117 112 Annual Report 2025-26 official"
+CA found: NITI Aayog's live programme webpage, accessed 5 October 2026, describes **117 selected Aspirational Districts**. Its Annual Report 2025–26 and Sampoornata Abhiyan 2.0 announcement use **112** as the operational/reporting district denominator; the two source-specific counts must not be silently substituted.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -397,26 +436,31 @@ Local body + frontline: actual delivery and citizen response
 
 Consider a district where groundwater policy funds conservation while separate incentives favour thirsty crops. One department can meet its target while the overall ecological outcome deteriorates. **Silos** are separate objectives, data, budgets and timelines. **Convergence** makes agencies identify the shared result, sequence actions and settle who decides a disputed trade-off. Merely naming a committee cannot replace functional authority or local knowledge.
 
-✅ NITI Aayog's **Aspirational Districts Programme (ADP)** focuses on **112 districts** with **49 indicators across five themes**: health and nutrition; education; agriculture and water resources; financial inclusion and skill development; basic infrastructure. Its **three Cs** operate differently: **convergence** aligns Union and State schemes around the district's needs; **collaboration** links the district collector and State administration with an assigned Central **Prabhari (in-charge) Officer**, who follows progress, raises cross-department bottlenecks and facilitates coordination rather than replacing the collector or the State's legal authority; **competition** compares the pace of improvement through **delta ranking**, not just absolute position. The **Champions of Change** dashboard makes progress visible. ⚠️ Indicator improvement and programme causation are not identical: data quality, other policies and variation within a district matter. A district average may hide a severely underserved block. The **Aspirational Blocks Programme (ABP)** is a distinct, finer-scale intervention: NITI Aayog's **28 January 2026** Sampoornata Abhiyan 2.0 announcement reported **513 Aspirational Blocks** alongside the **112 Aspirational Districts**. A block is not a district or an additional district KPI; the count is dated to that announcement, not a claim of independently measured coverage in October.
+✅ NITI Aayog's live **Aspirational Districts Programme (ADP)** webpage, accessed **5 October 2026**, describes **117 selected Aspirational Districts**. The **Annual Report 2025–26** describes programme operation/reporting across **112 districts**, tracking **49 indicators across five themes**: health and nutrition; education; agriculture and water resources; financial inclusion and skill development; basic infrastructure. Treat 117 as the dated selected-programme universe stated on the live page and 112 as the dated operational/reporting denominator in the annual report; do not invent one timeless count.
+
+The programme's **three Cs** operate differently: **convergence** aligns Union and State schemes around the district's needs; **collaboration** links the district collector and State administration with an assigned Central **Prabhari (in-charge) Officer**, who follows progress, raises cross-department bottlenecks and facilitates coordination rather than replacing the collector or the State's legal authority; **competition** compares the pace of improvement through **delta ranking**, not just absolute position. NITI Aayog coordinates, advises and monitors; it does not acquire line-ministry, State or district executive authority. The **Champions of Change** dashboard makes measured progress visible. ⚠️ Indicator improvement and programme causation are not identical: data quality, other policies and variation within a district matter.
+
+A district average may hide a severely underserved block. The **Aspirational Blocks Programme (ABP)** is a distinct, finer-scale intervention: NITI Aayog's **28 January 2026** Sampoornata Abhiyan 2.0 announcement reported **513 Aspirational Blocks** alongside a **112-district operational/reporting denominator**. A block is not a district or an additional district KPI; every count needs its source, date and unit.
 
 ✅ **PM GatiShakti** uses a shared GIS-based National Master Plan for multimodal connectivity: planners can see roads, utilities and potential intersections before projects are sequenced. ⚠️ Information visibility can reduce duplicated planning and uncertainty for private parties; it does not itself grant land rights, settle State approvals or transfer the necessary funds. A shared map coordinates **information**, whereas institutional agreements allocate **authority**.
 
 **Federal objection and reply:** Central standards can protect a common entitlement but overlook varied terrain and administrative capacity. Set entitlement and reporting criteria transparently, while letting States and districts choose feasible delivery routes with recorded reasons; do not equate uniform treatment with equal access. Reducing approval steps may also suppress legitimate environmental or local scrutiny: simplify duplication, not safeguards.
 
-**Verified PYQ links:** 2018 GS-I Q17 (15 marks, 250 words), on transformation of aspirational districts and the convergence strategy. The available scanned wording is partly illegible; **directive: mention and explain; demand:** distinguish objectives from the convergence mechanism. **Unsolved approach:** connect district targeting, scheme convergence, Prabhari–State–district collaboration, delta-ranked competition and the separate block-level intervention's limit on district averages. 2022 GS-II Q6 (10 marks, 150 words), **directive: discuss**, on PM GatiShakti coordination between government and private sector; the full exact wording has not been recovered here. **Unsolved approach:** identify the shared planning-data mechanism, private predictability and the remaining State/contractual approvals. Neither neutral rendering is a verbatim quotation.
+**Verified PYQ links:** **2018 GS-I Q17** (15 marks, 250 words), verified normalised transcription from `books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf`, PDF p. 4: “Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.” **Unsolved approach:** connect district targeting, scheme convergence, Prabhari–State–district collaboration, delta-ranked competition and the separate block-level intervention's limit on district averages. **2022 GS-II Q6** (10 marks, 150 words), verified normalised transcription from `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf`, PDF p. 2: “The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the goal of connectivity. Discuss.” **Unsolved approach:** identify the shared planning-data mechanism, private predictability and the remaining State/contractual approvals.
 
 **Revision:**
 
 1. Convergence aligns Union and State schemes around a shared district outcome.
 2. Collaboration links the Central Prabhari Officer, State administration and district collector without displacing lawful State authority.
 3. Competition uses delta ranking to compare the pace of improvement rather than only absolute position.
-4. ADP covers 112 districts and tracks 49 indicators across five themes.
+4. NITI's live page states 117 selected ADP districts, while the Annual Report 2025–26 uses a 112-district operational/reporting denominator; state the source and date.
 5. Delta ranking records measured change; it is not proof that ADP caused the change.
 6. District averages can conceal unequal access among blocks, habitations and vulnerable groups.
 7. The Aspirational Blocks Programme is a distinct finer-scale intervention; 513 blocks were reported on 28 January 2026.
 8. PM GatiShakti's shared GIS layer coordinates planning information but does not itself grant land or utility approval.
 9. Common standards can coexist with State and district adaptation when responsibilities and reasons are recorded.
 10. Union funding, State staffing, district coordination, local delivery and citizen access must each be established separately.
+11. NITI Aayog and the Central Prabhari Officer coordinate and escalate; they do not replace lawful State, district or line-ministry authority.
 
 ### Concept check
 
@@ -430,7 +474,7 @@ Consider a district where groundwater policy funds conservation while separate i
 
 **Mains prompt:** Analyse the conditions under which district-level convergence improves the implementation of multi-sector development policies.
 
-**Suggested answer:** Convergence helps where several departments contribute to one local outcome but are rewarded for separate outputs. In NITI Aayog's Aspirational Districts Programme, Union and State schemes are aligned at district level; a Central Prabhari Officer coordinates with State officials and the district collector, while delta ranking creates attention to improvement across indicators. This can expose, for example, why school attendance depends on health and transport, not only classroom construction. It does not require inventing another scheme or assuming more spending alone. The distinct Aspirational Blocks Programme, reported at 513 blocks in January 2026, addresses finer-scale needs obscured by district averages.
+**Suggested answer:** Convergence helps where several departments contribute to one local outcome but are rewarded for separate outputs. In NITI Aayog's Aspirational Districts Programme, Union and State schemes are aligned at district level; a Central Prabhari Officer coordinates with State officials and the district collector, while delta ranking creates attention to improvement. NITI's live page states 117 selected districts, whereas its Annual Report 2025–26 reports a 112-district operational/reporting denominator; either figure needs its source. This can expose why school attendance depends on health and transport, not only classrooms. The distinct Aspirational Blocks Programme, reported at 513 blocks in January 2026, addresses finer-scale needs hidden by district averages.
 
 The conditions are a common outcome and baseline; a district actor empowered to sequence departmental actions; timely State support for staff and funds; reliable data; and local bodies able to report access barriers. PM GatiShakti illustrates a narrower mechanism: shared GIS planning can reveal infrastructure conflicts, but States retain substantive land and utility decisions. Thus a shared dashboard or map coordinates information, not authority.
 
@@ -518,7 +562,7 @@ Progress: 8 / 10 | Stage: Core | Subtopic: Outputs, outcomes, impact, evaluation
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth does not provide a specialised impact-evaluation model; use the stated causal assumptions and NITI Aayog's programme description.
 CA search: "site:niti.gov.in aspirational districts dashboard delta ranking monitoring outcome 2026"
-CA found: NITI Aayog's official Aspirational Districts Programme page (historical programme description, accessed 1 October 2026; no verified new results attributed to 2026).
+CA found: NITI Aayog's live ADP page, accessed 5 October 2026, states 117 selected districts; Annual Report 2025–26 reports 112 operational/reporting districts and quarterly tracking. No district outcome or causal success metric is inferred from either source.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -541,7 +585,7 @@ Run an evaluation on a hypothetical water intervention:
 4. Test alternatives: rainfall, crop prices and unrelated regulation may also change groundwater use.
 5. Feed back: if a high-output programme has no improvement, examine the original incentive, the supply chain and local enforcement rather than publishing only a success count.
 
-For the ADP, **delta ranking** rewards the pace of improvement; it is not the same as an absolute welfare level or causal impact. Self-reporting and district-level averages demand verification and sub-district checks. For PM GatiShakti, a shared GIS layer is a **planning output**; evidence of shorter, fairly obtained approvals and better connectivity would be distinct outcomes. For a statutory examination intervention, an enactment or case count alone does not prove deterrence.
+For the ADP, **delta ranking** rewards the pace of improvement; it is not the same as an absolute welfare level or causal impact. The current live webpage's 117 selected districts and Annual Report's 112 operational/reporting denominator answer different source questions, not whether outcomes improved. Self-reporting and district-level averages demand verification and sub-district checks. For PM GatiShakti, a shared GIS layer is a **planning output**; evidence of shorter, fairly obtained approvals and better connectivity would be distinct outcomes. For a statutory examination intervention, enactment, amendment or a case count alone does not prove deterrence.
 
 **Objection and reply:** Randomised impact studies are often impractical or ethically unsuitable for an entitlement. Use credible before–after and comparison evidence where possible, process tracing, independent audits and citizen feedback; state uncertainty. A grievance count rising after a new accessible channel may signify better reporting, not necessarily worse delivery.
 
@@ -590,8 +634,8 @@ Progress: 9 / 10 | Stage: Advanced | Subtopic: Pressman–Wildavsky, clearance p
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth PDF p. 1211 does not cover Pressman–Wildavsky and Lipsky; their arguments require their own conceptual treatment.
-CA search: "site:pib.gov.in PM GatiShakti state network planning GIS coordination 2025"
-CA found: No verified new headline in the past six months; relevant earlier PIB PM GatiShakti update (2025, PRID 2152521; accessed 1 October 2026). No current project total verified.
+CA search: "site:pib.gov.in PM GatiShakti integrated planning NPG Lok Sabha August 2026"
+CA found: PIB Lok Sabha reply, **11 August 2026**, PRID **2297818**: PM GatiShakti is an integrated planning framework without a separate budgetary provision, and the Network Planning Group evaluates critical Central infrastructure projects at the planning stage. No operating count is carried forward as outcome evidence.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Lens | First question | What it exposes | What it can overlook |
@@ -607,6 +651,8 @@ CA found: No verified new headline in the past six months; relevant earlier PIB 
 **Lipsky** reverses the observation point. Instead of asking only whether orders were followed, ask what frontline staff actually produced under caseload pressure. A worker who serves easily documented households first may improve a departmental throughput measure and leave vulnerable households waiting. The “real” policy experienced by citizens diverges from the intended rule. Yet a local official's adaptation may also help a genuine claimant; discretion must be guided rather than eradicated.
 
 **Apply both to one case:** Under the 2024 examinations law, the authority framework and commencement define the top-down path, while staff custody practices and legally compliant enforcement shape what happens at centres. Under a centrally sponsored scheme, Union–State–district finance and permissions may delay action, while the frontline official decides whether a resident with an imperfect record gets a correction path. Establish facts before diagnosing either mechanism in a particular case.
+
+The 2026 amendment sharpens the first example: Act 10 of 2026 adds time-bound investigation, Special Fast Track Courts, prosecutors and appeals, creating additional lawful hand-offs that must operate without being confused with the principal Act's coverage test. PM GatiShakti supplies a different coordination example: the August 2026 PIB reply confirms an NPG planning mechanism, not transfer of State approvals or proof of project outcomes.
 
 **Strong objection and reply:** A multiplicative explanation sounds like a universal formula. It is not: stages are dependent and can be redesigned. “Bottom-up” also risks excusing arbitrary behaviour; recorded reasons, adequate staffing and appeal maintain answerability. Neither theorist substitutes for identifying the specific decision or field constraint.
 
@@ -656,7 +702,7 @@ Progress: 10 / 10 | Stage: Advanced | Subtopic: Legitimacy, speed, realism and a
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — OCR Laxmikanth PDF p. 1211 concerns group participation, not the speed/discretion trade-off.
 CA search: "site:legislative.gov.in pre legislative consultation public feedback 2025 ministry law"
-CA found: No verified new headline in the past six months; relevant earlier Lok Sabha parliamentary reply dated 12 December 2025 on pre-legislative consultation; no later uniform RIA mandate verified as of 1 October 2026.
+CA found: No verified new headline in the past six months; relevant earlier Lok Sabha parliamentary reply dated 12 December 2025 on pre-legislative consultation; no later uniform RIA mandate verified as of 5 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -674,6 +720,8 @@ Each balance needs: reasons → evidence → appeal → review date
 Why consultation matters even when a law can be passed quickly: people expected to comply may expose operational conditions the drafter missed. The **2014 pre-legislative consultation policy** concerns the process before a law, while **RIA** examines alternatives and impacts; neither is proof of later adoption of comments or a universal legal veto. In time-sensitive integrity reform, a shorter process may be defensible only if the reason is recorded and review follows. Formal publication without a substantive response can preserve the appearance of consent while leaving a design defect intact.
 
 **Design realism versus ambition** asks whether targets, dates, human resources and incentives agree. The Public Examinations Act, 2024 illustrates that legislative deterrence needs operational protocols and capable centre-level application. Its statutory aim and authority-based coverage must be read separately. A law's broad social purpose is not permission to extend its coverage beyond the actual text.
+
+**Pilot realism versus scalable capacity** asks whether a result survives beyond exceptional conditions. Use a bounded pilot to test the causal mechanism, cost, equity and failure cases; adapt it; then expand across different administrative capacities in phases. A pilot is learning evidence, not an entitlement to nationwide replication.
 
 **Local autonomy versus safeguards:** Convergence through district committees can improve sequencing, but without real delegated functions, funds and staff it adds clearance points instead of removing them. Conversely, removal of every approval may sacrifice environmental review or accountable spending. Define which approval checks a genuine right or risk and which duplicates another agency. In a public-health case, the State's primary-care staffing and oversight of private provision both matter: a uniform national financing promise does not guarantee uniform access.
 
@@ -693,6 +741,8 @@ Why consultation matters even when a law can be passed quickly: people expected 
 8. Removing duplicate approvals can improve speed; removing rights, safety or federal safeguards can damage legitimacy.
 9. Proposal, approval, enactment, commencement, staffing, funding and measured effect must be verified separately.
 10. A Second ARC recommendation is historical advice, not proof that a later programme enacted or operationalised it.
+11. Pilot success must be retested under ordinary staffing, recurrent cost and heterogeneous State/local conditions before scale.
+12. Cabinet, ministries, Finance, legislature, NITI Aayog, Finance Commission and CAG have separate decision, transfer, implementation and audit roles.
 
 ### Concept check
 
@@ -708,11 +758,11 @@ Why consultation matters even when a law can be passed quickly: people expected 
 
 **Suggested answer:** Implementation succeeds when legal reach, capacity, coordination and citizen access reinforce one another; each corrective can impose another cost. The 2014 Pre-Legislative Consultation Policy can surface a beneficiary's documentation burden before a law is finalised, but lengthy or unrepresentative consultation can obstruct urgent action. The remedy is accessible, time-bound engagement with a reasoned response and later review, not consultation as ritual.
 
-NITI Aayog's Aspirational Districts Programme joins convergence, collaboration and competition to focus district effort. Delta rankings encourage improvement, but district averages can conceal excluded habitations; disaggregated evidence and local participation remain necessary. PM GatiShakti makes infrastructure plans visible across departments and to stakeholders, while State land and utility authorities must still decide matters within their powers. Eliminating every clearance could sacrifice scrutiny; retaining duplicate clearances wastes time.
+NITI Aayog's Aspirational Districts Programme joins convergence, collaboration and competition; cite 117 selected districts or the 112-district operational/reporting denominator only with its source. Delta rankings can hide excluded habitations. PM GatiShakti makes plans visible, while State authorities retain land and utility powers. Eliminating every clearance could sacrifice scrutiny; retaining duplicates wastes time.
 
-At the counter, Lipsky's street-level official can adapt a general entitlement to hardship or ration difficult cases under pressure. DBT verification may reduce ineligible inclusion while excluding eligible households without an assisted correction route. Meanwhile, the Public Examinations Act, 2024 supplies offences and defined authority-based coverage, but secure operations and lawful enforcement are still required. Better legislation is not identical to lower misconduct.
+At the counter, Lipsky's official can adapt an entitlement or ration difficult cases under pressure. DBT verification may reduce ineligible inclusion while excluding eligible households without correction. The Public Examinations principal Act supplies authority-based coverage; Act 10 of 2026 strengthens enforcement machinery, but neither secures operations by itself. Better legislation is not identical to lower misconduct.
 
-Therefore, begin with the actual bottleneck: authority, procedure, staffing, citizen cost or feedback. Match each change to measurable access and an appeal, then ask what safeguard it threatens. A policy is effective when its benefits survive these trade-offs for the least easily served citizen, not merely when its announcement or dashboard looks complete.
+Therefore, locate authority, procedure, staffing, citizen cost or feedback; test pilots under ordinary capacity before scale; and match each correction to a measurable result and appeal. Policy succeeds when benefits survive these trade-offs for the least easily served citizen, not when an announcement or dashboard looks complete.
 
 **Why this earns marks (20):** Qualified thesis and criteria (3); consultation and legal design (4); ADP/federal coordination (4); frontline and exclusion mechanism (4); statutory case and limits (3); conditional verdict (2).
 
@@ -720,17 +770,17 @@ Therefore, begin with the actual bottleneck: authority, procedure, staffing, cit
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-These are **unsolved routes**. Where printed wording could not be reliably recovered, the demand is paraphrased rather than quoted. Neither an official Mains marking scheme nor a Prelims key is claimed.
+These are **unsolved routes**. The four directly owned stems use verified normalised transcriptions from locally held official papers; obvious OCR spelling and word-limit noise is normalised transparently, and no wording is reconstructed from memory. Neither an official Mains marking scheme nor a Prelims key is claimed.
 
 | PYQ and status | Demand and directive | Lesson | Unsolved local approach |
 |---|---|---:|---|
-| 2018 GS-I Q17, 15 marks, 250 words; scanned stem partly word-scrambled; no verbatim extract used | **Mention and explain** aspirational-district transformation and convergence; paraphrase | 1, 6 | State ADP objectives; explain scheme convergence, Central Prabhari–State–district collaboration and delta-ranked competition; qualify district indicators with separately targeted blocks. Do not invent unreadable wording. |
-| 2018 GS-II Q6, 10 marks, 150 words; exact full stem not available here | **Comment with relevant illustrations** on policy contradictions across sectors and environmental degradation | 2, 6, 8 | Explain the externality between departmental incentives; illustrate the water-conservation/cropping conflict; distinguish irreducible value conflict from fixable silos. Paraphrase, not quotation. |
-| 2022 GS-II Q6, 10 marks, 150 words; exact full stem not available here | **Discuss** PM GatiShakti coordination between government and private sector | 6, 9 | Explain shared GIS information, private planning predictability, and distinct State/contractual approval authority; do not invent outcome statistics. Paraphrase, not quotation. |
-| 2024 GS-II Q11, 15 marks, 250 words; official OCR exact wording with scan spelling errors in Lesson 3 | Interrogative: aims and objects of Public Examinations Act, 2024 **and** university/State-board coverage | 3, 5 | Answer both stated purpose and authority-based scope, distinguish commencement, Schedule and notification; then show operational prerequisites. |
-| 2024 GS-II Q17, 15 marks, 250 words; **related Social Justice question** | “In a crucial domain like the public healthcare system the Indian State should paly a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.” **Directive: suggest.** | 4, 7 | Use this governance lens for financing/regulation and State/frontline capacity; a full response also needs health-system detail. |
+| 2018 GS-I Q17, 15 marks, 250 words — `books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf`, PDF p. 4 | “Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.” **Directive: mention and explain.** | 1, 6 | State the programme objective; explain convergence, Central Prabhari–State–district collaboration and delta-ranked competition; state whether 117 selected or 112 operational/reporting is being cited and qualify district averages with block-level variation. |
+| 2018 GS-II Q6, 10 marks, 150 words — `books\more_previous_papers\GENERAL-STUDIES-PAPER-II.pdf`, PDF p. 2 | “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. | 2, 6, 8 | Explain the externality between departmental incentives; illustrate the water-conservation/cropping conflict; distinguish irreducible value conflict from fixable silos. |
+| 2022 GS-II Q6, 10 marks, 150 words — `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf`, PDF p. 2 | “The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the goal of connectivity. Discuss.” | 6, 9 | Explain shared GIS information, private planning predictability and distinct State/contractual approval authority; use the 11 August 2026 PIB update only for current institutional operation, not outcomes. |
+| 2024 GS-II Q11, 15 marks, 250 words — `books\mains\02 UPSC 2024 Paper-II.pdf`, PDF p. 3 | “What are the aims and objects of the recently passed and enforced Public Examinations (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?” | 3, 5 | Answer stated purpose and authority-based scope; distinguish commencement, Schedule and notification; add Act 10 of 2026 only as the current enforcement amendment. |
+| 2024 GS-II Q17, 15 marks, 250 words — same local official paper, PDF p. 3; **related Social Justice question** | “In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.” **Directive: suggest.** | 4, 7 | Use this governance lens for financing/regulation and State/frontline capacity; a full response also needs health-system detail. |
 
-The checked 2026 GS-II questions contain **no additional direct question on this topic**. No direct objective question was identified for this topic. If a clean official copy of a partly legible older question becomes available, verify its exact wording before quoting it.
+The checked 2026 GS-II questions contain **no additional direct question on this topic**. No direct objective question was identified for this topic.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -738,6 +788,8 @@ The checked 2026 GS-II questions contain **no additional direct question on this
 2. **Authority or information?** A shared GIS map identifies a utility conflict. **Model:** Planning information improves; land and utility agencies still exercise lawful approval powers. **Avoid:** equating platform visibility with legal clearance.
 3. **Count or effect?** ADP's delta rank rises while remote habitations report exclusion. **Model:** Compare absolute and subgroup indicators, check data and alternative causes, then adjust delivery. **Avoid:** treating rank as impact.
 4. **Speed or fairness?** Emergency action skips broad consultation. **Model:** Record the urgency, preserve minimum safeguards, invite affected feedback promptly and schedule revision. **Avoid:** assuming either delay or silence is intrinsically virtuous.
+5. **Pilot or scale?** A closely supervised district pilot meets its outcome target. **Model:** Before expansion, test recurrent cost, ordinary staffing, diverse sites, equity and failure cases; adapt and scale in phases with a stop/redesign rule. **Avoid:** treating replication of activity as proof that impact scaled.
+6. **Institution or authority?** NITI recommends, Finance concurs and CAG later audits. **Model:** The line ministry and competent Union–State machinery still own design and implementation; NITI advice, fiscal control, constitutional transfer and ex-post audit are distinct. **Avoid:** turning coordination or audit into executive command.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -755,9 +807,9 @@ These are new whole-topic exercises, different from the questions in individual 
 
 **Question:** Discuss how a Union-designed policy can preserve common development goals while adapting implementation to State and district conditions.
 
-**Model answer:** A common policy goal needs a clear minimum entitlement and reporting standard, not identical administrative routines everywhere. The Union can define the benefit and provide resources; States assign staff and adapt procedures; districts coordinate departments and local bodies provide citizen-facing services. A policy cycle should specify these actors before announcement and capture their feedback after delivery.
+**Model answer:** A common policy goal needs a clear minimum entitlement and reporting standard, not identical administrative routines everywhere. The Union line ministry can define the benefit and steward the programme; Finance supplies the lawful fiscal route; States assign staff and adapt procedures; districts coordinate departments and local bodies provide citizen-facing services. A policy cycle should specify these actors before announcement and capture their feedback after delivery.
 
-NITI Aayog's Aspirational Districts Programme illustrates convergence of Union and State schemes, collaboration across levels and attention to change through delta ranking. This helps locate a lagging district but does not show that each block improved or that the programme alone caused every outcome. PM GatiShakti's shared GIS layer illustrates a different gain: States and ministries can see connected infrastructure plans, but the map does not transfer State land-approval powers. Frontline staff need discretion for local hardship, guided by transparent reasons and appeal so adaptation does not become arbitrary exclusion.
+NITI Aayog's Aspirational Districts Programme illustrates convergence, collaboration and attention to change through delta ranking. Its live page states 117 selected districts, while the Annual Report 2025–26 uses a 112-district operational/reporting denominator; neither proves causation. PM GatiShakti's shared GIS layer illustrates a different gain: States and ministries can see connected infrastructure plans, but the map does not transfer State land-approval powers. Frontline staff need discretion for local hardship, guided by transparent reasons and appeal.
 
 There is a real trade-off: central standardisation can secure a right yet understate local costs; extensive local approval may slow urgent work. Fix a common result, allocate functions, funds and staff, remove duplicate rather than protective approvals, and compare subgroup access and grievance outcomes. Federal adaptation then becomes an accountable route to the common objective, not a vague exemption from it.
 
@@ -767,11 +819,11 @@ There is a real trade-off: central standardisation can secure a right yet unders
 
 **Question:** Critically analyse the claim that improving policy design alone is sufficient to achieve equitable outcomes in a new public-health intervention.
 
-**Model answer:** Design is indispensable but not self-executing. A health policy must diagnose whether poor access follows price, distance, shortages or staff absence, compare direct provision and regulated private participation, appraise fiscal and distributional costs, then consult intended users. A theory of change links clinics and staff to actual treatment, not merely to buildings. The 2014 Pre-Legislative Consultation Policy exemplifies a route to detecting burdens before a law is finalised; procedural publication alone does not establish meaningful representation.
+**Model answer:** Design is indispensable but not self-executing. A health policy must diagnose whether poor access follows price, distance, shortages or staff absence, compare direct provision and regulated private participation, appraise fiscal and distributional costs, then consult intended users. A theory of change links clinics and staff to treatment, not merely buildings. A pilot should test this mechanism, recurrent cost and exclusion under ordinary staffing before phased scale; exceptional pilot support is not national capacity.
 
-Implementation requires a distinct chain: legal authority or scheme rules, State and district roles, funds and filled posts, citizen access and correction of refusals. A PPP may add capacity but needs affordable prices, measured standards and disclosed contingent liabilities. DBT-style identity checks may reduce inclusion error yet raise exclusion error for an eligible patient; provide assisted fallback. Lipsky's frontline insight explains why an overworked worker can both adapt humanely and ration harder cases, while inter-agency clearances may delay supplies despite adequate funds.
+Implementation requires a distinct chain: Cabinet choice where required, line-ministry stewardship, lawful rules, Finance and legislative authority, State/district roles, funds and filled posts, citizen access and correction of refusals. A PPP may add capacity but needs affordable prices, measured standards and disclosed contingent liabilities. DBT-style checks may reduce inclusion error yet raise exclusion error; provide assisted fallback. Lipsky explains how an overworked worker may both adapt humanely and ration harder cases.
 
-Evaluate treatment access by locality, care quality and who is left out, not just clinics opened. The 2024 GS-II health question primarily belongs to Social Justice, but its design-versus-delivery tension is a transferable governance lens. Better design reduces foreseeable failure; only State capacity, guided discretion, grievance redress and independently tested outcomes can establish equitable success. Even then, distinguish policy contribution from unrelated improvements.
+Evaluate access by locality, quality and who is left out, not just clinics opened. NITI/DMEO evidence is advisory; CAG audit is ex post; neither implements the programme. The 2024 health question primarily belongs to Social Justice, but its design-versus-delivery tension is transferable. Better design reduces foreseeable failure; only capable implementation, grievance redress and independently tested outcomes can establish equitable success.
 
 **Why this earns marks (20):** Diagnosis and instrument criteria (4); consultation and fiscal/regulatory design (4); State/frontline execution (4); exclusion and PPP trade-offs (4); evaluation, ownership and qualified verdict (4).
 
@@ -785,6 +837,9 @@ Evaluate treatment access by locality, care quality and who is left out, not jus
 | “The ARC report implemented this scheme” | A recommendation does not prove adoption or operational delivery. | Verify each later legal and administrative step separately. |
 | “The dashboard shows impact” | Outputs and rankings cannot alone establish attribution. | Add baseline, subgroup outcomes and alternative causes. |
 | “Remove all approvals for convergence” | Some approvals protect federal powers, rights or safety. | Remove duplication, specify lead actor, retain necessary safeguards. |
+| “The pilot worked, so national scale will work” | Exceptional staff, selection and monitoring can disappear at scale. | Test ordinary capacity, recurrent cost, heterogeneous sites, equity and a stop/redesign rule. |
+| “Cabinet/NITI/Finance/CAG implemented the policy” | Decision, advice, fiscal control, implementation and ex-post audit are distinct functions. | Name the line ministry and Union–State delivery chain; keep Finance Commission transfers separate from CSS. |
+| “The 2026 amendment expanded the Act to all examinations” | Act 10 of 2026 changes penalties and enforcement machinery, not the principal authority/Schedule test. | Analyse 2024 coverage and 2026 enforcement changes separately. |
 
 **Retry prompt:** Choose a policy. In six short lines give its authority, procedure, agency, capacity, interface and remedy; identify one likely break and name evidence that would disprove your diagnosis.
 
@@ -807,6 +862,11 @@ PROBLEM → EVIDENCE/CONSULTATION → INSTRUMENT/LEGAL SCOPE
 | Convergence / centralisation | Align actors toward a result | Move decision upward | Has lawful authority or local knowledge been lost? |
 | ADP delta rank / absolute status | Pace of change | Current level of welfare | Does a better rank mean everyone benefits? |
 | GatiShakti planning / approval | Common information layer | Lawful decision by competent actor | Did a shared map settle the land question? |
+| Pilot / scale | Bounded test with exceptional controls possible | Performance under ordinary, diverse administration | Did mechanism, cost and equity survive expansion? |
+| Policy / programme / scheme | Governing choice / coordinated portfolio / operational design | Not necessarily a statutory entitlement | What authority creates the duty or benefit? |
+| Parent law / delegated rule / guideline | Enacted authority / subordinate legal detail / administrative direction | Each has a different legal ceiling | Did the executive exceed or merely implement the parent law? |
+| Finance Commission transfer / CSS | Constitutional devolution and grants / executive programme route | Different authority and implementation chains | Who designed, financed and delivered the intervention? |
+| CAG audit / executive control | Ex-post reporting to legislature / prior or ongoing administration | Audit does not approve policy before execution | Who can correct, recover or prosecute after the finding? |
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
@@ -815,12 +875,14 @@ PROBLEM → EVIDENCE/CONSULTATION → INSTRUMENT/LEGAL SCOPE
 - Syllabus spine: development interventions **and** design/implementation problems. Agenda = selection of a public problem; formulation = alternatives; decision = authorised choice; implementation = actions; evaluation = tested effects and feedback.
 - Define the affected population, baseline, plausible cause and alternative explanation **before** choosing an instrument. Political salience is not causal diagnosis.
 - Theory of change: input → activity → output → outcome → impact; state and test an assumption at each arrow.
+- Pilot-to-scale: test fidelity, recurrent cost, equity and failure under ordinary capacity; adapt, expand in phases and retain a stop/redesign decision.
 - Consultation under the Union's 2014 executive policy normally allows at least 30 days of public comment; publication is not incorporation of feedback. RIA appraises alternatives, costs, equity and enforceability; it is **not uniformly mandatory**.
 
 ## From legal form to reach
 
-- Differentiate policy, Act, subordinate rule, executive scheme, guideline, administrative order and appropriation. Adoption, enactment, commencement, notification and actual operation are separate statuses.
-- Public Examinations (Prevention of Unfair Means) Act, 2024: in force **21 June 2024, S.O. 2422(E)**; aim: deter unfair means including leaks, impersonation and tampering. Authority-based Schedule and any verified Central notification determine exam coverage; territorial extent does not automatically cover a State board or university examination.
+- Differentiate policy, programme, executive scheme, Act, subordinate rule, guideline, administrative order and appropriation. Adoption, Cabinet approval, enactment, commencement, notification and actual operation are separate statuses.
+- Public Examinations principal Act, 2024: in force **21 June 2024, S.O. 2422(E)**; aim: deter unfair means including leaks, impersonation and tampering. Authority-based Schedule and any verified Central notification determine exam coverage; territorial extent does not automatically cover a State board or university examination.
+- Amendment **Act 10 of 2026**, assented to and published **31 July 2026**, Gazette **CG-DL-E-31072026-275035**: stronger penalties plus time-bound investigation, Special Fast Track Courts, prosecutors and appeal. It changes enforcement machinery, not the principal coverage test.
 - Six-step field map: legal authority → accessible rules/SOPs → named responsible agency → adequate staff/funds/data → usable citizen interface → reasoned remedy and outcome review.
 - Scope stem: address objective and covered authority separately; never substitute a crime list for an authority test.
 
@@ -834,8 +896,9 @@ PROBLEM → EVIDENCE/CONSULTATION → INSTRUMENT/LEGAL SCOPE
 ## Federal, district and frontline machinery
 
 - Union standard and finance, State adaptation and personnel, district convergence, local functions and citizen feedback must be assigned rather than presumed. Funds–functions–functionaries travel together.
-- ADP: NITI Aayog; **112 districts**, **49 indicators**, **five themes**; scheme convergence + collaboration through a Central Prabhari Officer with State officials and the district collector + delta-ranked competition. The Prabhari coordinates and escalates bottlenecks, not supplants State powers. ABP is a **distinct block-level programme**: NITI Aayog reported **513 Aspirational Blocks on 28 January 2026**; district averages cannot reveal all block-level exclusion. Separate absolute welfare, within-district distribution, indicator reliability and programme attribution.
-- PM GatiShakti: shared GIS planning layer for multimodal infrastructure; it makes information visible but does not replace State land/utility authority or contractual accountability.
+- Institutional boundary: Cabinet chooses major executive policy; line ministries steward programmes; Finance handles fiscal/expenditure architecture; legislatures enact and appropriate; delegated rules stay within parent law; NITI advises/coordinates/evaluates; the Finance Commission recommends constitutional transfers rather than CSS design; CAG audits ex post and reports to legislatures.
+- ADP: NITI Aayog's live page accessed 5 October 2026 states **117 selected districts**; Annual Report 2025–26 uses **112 operational/reporting districts**, with **49 indicators** and **five themes**. Scheme convergence + collaboration through a Central Prabhari Officer with State officials and the district collector + delta-ranked competition. NITI/Prabhari coordinates and escalates; neither supplants State or line-ministry powers. ABP is a **distinct block-level programme**: 513 blocks were reported on 28 January 2026.
+- PM GatiShakti: shared GIS planning layer for multimodal infrastructure; PIB PRID **2297818**, 11 August 2026, confirms the NPG planning architecture and no separate budgetary provision. It makes information visible but does not replace State land/utility authority or prove outcomes.
 - Sectoral water-conservation and water-intensive-cropping incentives can conflict because each ministry optimises its metric; some conflicts remain genuine livelihood–ecology choices.
 - Lipsky: discretion under caseload can produce rationing, “creaming” and informal rule-bending. Do not infer individual corruption without evidence; guide discretion through capacity, records, reasons and appeal.
 - Pressman–Wildavsky: each necessary joint-action/clearance point can compound delays; streamline duplication without erasing rights or federal checks.
@@ -855,47 +918,50 @@ PROBLEM → EVIDENCE/CONSULTATION → INSTRUMENT/LEGAL SCOPE
 | Official GS-II clause; policy-cycle stages; agenda bias and problem definition | Lessons 1–2; cumulative 1; register result chain |
 | Baseline, theory of change, ex-ante options and instruments | Lessons 1–3, 8; local 10/15-mark practice |
 | 2014 consultation, comment window, depth versus compliance and uneven RIA | Lessons 2, 10; final 20-marker |
-| Act/rule/scheme distinction, legal scope, 2024 Public Examinations Act, commencement and Schedule | Lessons 3, 5, 9–10; 2024 Q11 route |
+| Policy/programme/scheme/Act/rule/guideline distinction, delegated-legislation limits, 2024 principal Public Examinations Act, 2026 Amendment Act, commencement and Schedule | Lessons 3, 5, 9–10; 2024 Q11 route; register legal form |
 | Fiscal realism, universalism/targeting, E1/E2, DBT, PPP, VGF and HAM construction/O&M versus public annuity and traffic risk | Lesson 4 and its original 15-marker; register incentives |
 | Six-stage implementation chain, actors, funds/functions/functionaries, citizen costs | Lessons 5–6; global 10/15-marker |
-| Convergence and silos; ADP's three Cs and Central Prabhari–State–collector collaboration; 112/49/five themes, delta ranking; distinct ABP 513-block scale dated 28 January 2026 and limits | Lessons 1, 6, 8; 2018 GS-I Q17 route; register federal machinery |
+| Convergence and silos; ADP's three Cs and Central Prabhari–State–collector collaboration; 117 selected versus 112 operational/reporting denominator, 49 indicators/five themes, delta ranking; distinct ABP 513-block scale and limits | Lessons 1, 6, 8; 2018 GS-I Q17 route; register federal machinery |
 | Sectoral policy contradictions, environment externalities and value conflicts | Lessons 2, 6, 10; 2018 GS-II Q6 route |
 | GatiShakti GIS coordination, private predictability and retained State powers | Lessons 6, 8–9; 2022 GS-II Q6 route |
 | Frontline discretion, rationing, creaming, guided decisions and appeal | Lessons 5, 7, 9–10; local 10/15-mark practice |
 | Monitoring/evaluation, output/outcome/impact, attribution and feedback | Lessons 1, 8; cumulative 3; global 20-marker |
 | Advanced top-down/bottom-up disagreement, clearance probabilities, speed/consultation and central/local trade-offs | Lessons 9–10; local 15/20-marker |
+| Pilot-to-scale criteria, implementation learning, phased expansion and stop/redesign decision | Lessons 2, 10; cumulative check 5; register result chain |
+| Cabinet, line ministry, Finance, legislature, delegated legislation, NITI, Finance Commission/CSS and CAG ex-post boundaries | Lessons 3, 5–6, 8–10; cumulative check 6; institutional map and register |
 | Cross-owned 2024 GS-II Q17 healthcare marketisation | Lessons 1, 4, 7; unsolved link in index |
 | All four direct routed Mains demands (2018 × 2, 2022, 2024); no direct 2026/objective routing | Lessons 2, 3, 6; final unsolved PYQ index and register routes |
 
 # SOURCE LEDGER
 
-**Checked 1 October 2026 (Asia/Kolkata).** “✅” below means the cited source directly supports the stated record or textual claim; “⚠️” denotes an inference needing outcome evidence. A historical programme webpage accessed today is not falsely dated as an October 2026 announcement.
+**Checked 5 October 2026 (Asia/Kolkata).** “✅” below means the cited source directly supports the stated record or textual claim; “⚠️” denotes an inference needing outcome evidence. Access date, publication date and programme denominator are kept separate.
 
 | Source and access/status | What it substantiates; boundary |
 |---|---|
-| `upsc-ai-kit\knowledge\Governance\basic\02_Government-Policy-Design-and-Implementation.md`, §§1–13, read 1 October 2026 | Entire Core: cycle, law and consultation, application, six-stage map, PPP, targeted errors, Indian cases and all four direct Mains demand routes. §8 has an older **21 July 2026** status; §13 India Code record rechecked there on **5 September 2026**. |
-| `upsc-ai-kit\knowledge\Governance\advanced\02_Government-Policy-Design-and-Implementation.md`, §§1–13 and 2018–2023 block | Top-down/bottom-up argument, clearance points, Lipsky's coping routines, consultation-depth and speed/adaptation trade-offs; analytically integrated **after** complete Core teaching. |
+| `upsc-ai-kit\knowledge\Governance\basic\02_Government-Policy-Design-and-Implementation.md`, §§1–13, certified/released in canonical set at commit `77702d4a5` | Entire Core: cycle, instrument taxonomy, pilot-to-scale learning, institutional responsibility boundaries, 2024 principal examination law plus 2026 amendment, six-stage map, targeting/PPP and all four direct Mains demand routes. |
+| `upsc-ai-kit\knowledge\Governance\advanced\02_Government-Policy-Design-and-Implementation.md`, §§1–13 and 2018–2023 block, same certified canonical set | Top-down/bottom-up argument, clearance points, Lipsky's coping routines, pilot fidelity/scalability, institutional-authority boundary and speed/adaptation trade-offs; analytically integrated **after** complete Core teaching. |
 | `upsc-ai-kit\knowledge\Governance\README.md`; `Governance\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`; `upsc-ai-kit\knowledge\OFFICIAL-UPSC-CSE-SYLLABUS-VERBATIM.md` | Exact GS-II clause and subject boundaries; Core suffices for answer, Advanced enriches. |
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`; 2024–2025 analogue; `_PYQ-GS2-2026.md`, `PYQ-INTEGRATION-AUDIT-2026.md`; Governance Core §13 | Four direct demands and cross-owned health link. 2018 GS-I stem partly word-scrambled; other 2018/2022 exact full stems unavailable in accessed ledger, so none is quoted. No extra Topic 02 direct 2026 demand identified; no official Mains marking scheme. |
-| OCR local book `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian Polity by M Laxmikant.pdf`, PDF page 1211, checked 1 October 2026 | Pressure groups act through debate, lobbying and other routes to influence policymaking and implementation. **Does not** independently verify Lipsky, ADP or the Act; original author pagination may differ from PDF page. |
-| Official OCR `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\02 UPSC 2024 Paper-II.pdf`, PDF page 3, checked 1 October 2026 | Q11 question wording as printed by OCR (including `Emamination`/`examminations` errors), 15 marks/250 words; no official answer supplied. |
-| India Code Act record: https://www.indiacode.nic.in/handle/123456789/20100?view_type=search&col=123456789/1362 ; Core §13.10 | Existing official India Code record confirms Act and commencement **S.O. 2422(E)** on 21 June 2024; live direct fetch returned **403**, so no later expansion or new operational result claimed. |
-| NITI Aayog https://www.niti.gov.in/aspirational-districts-programme ; NITI Aayog *Annual Report 2025–26* https://www.niti.gov.in/sites/default/files/2026-05/Annual%20Report%20of%20NITI%20Aayog%202025-26%20%28English%29.pdf ; discovered in official-domain search 1 October 2026 | ADP's three Cs, district indicators and the Prabhari Officer's intergovernmental coordination. The programme webpage is undated; the annual report is a dated account, **not evidence that a Prabhari replaces State/district legal authority**. Direct fetch of NITI resources returned 403; do not infer 2026 outcome statistics. |
-| NITI Aayog, “Launch of Sampoornata Abhiyan 2.0”, **28 January 2026**, https://www.niti.gov.in/node/2158 ; PIB https://pib.gov.in/PressReleasePage.aspx?PRID=2219753&reg=3&lang=1 ; discovered in official-domain search 1 October 2026 | The dated official announcement reports **513 Aspirational Blocks** and **112 Aspirational Districts**; ABP is a distinct finer-scale programme. Direct page fetch returned 403. This is a January announcement count, **not independently remeasured October operating coverage**. |
-| PIB, “Hybrid Annuity Model for National Highways”, https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1592673 ; official-domain search 1 October 2026 | HAM concessionaire construction and operation/maintenance duties versus public construction support and scheduled annuities; public side retains traffic/toll-revenue risk. Direct PIB fetch returned 403; project-specific agreements may vary and no project performance is asserted. |
-| PIB https://pib.gov.in/PressReleseDetailm.aspx?PRID=2152521 ; discovered by live search 1 October 2026 | GatiShakti shared GIS and multimodal planning; direct PIB fetch **403**. Avoid volatile numbers and outcome attribution. |
-| Parliamentary reply https://www.sansad.in/getFile/loksabhaquestions/annex/186/AU2110_008KJB.pdf?source=pqals ; live search 1 October 2026 | Parliamentary discussion of pre-legislative consultation, dated 12 December 2025; policy rule and executive status also in Core. This is not evidence of universal compliance. |
+| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`; 2024–2025 analogue; `_PYQ-GS2-2026.md`; `PYQ-INTEGRATION-AUDIT-2026.md`; Governance Core §13 | Four direct demands and cross-owned health link; no extra direct 2026/objective routing and no official Mains marking scheme. Exact normalised transcriptions are controlled by the locally held official papers in the next row. |
+| Local official papers: `books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf` p. 4; `books\more_previous_papers\GENERAL-STUDIES-PAPER-II.pdf` p. 2; `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-II-190922.pdf` p. 2; `books\mains\02 UPSC 2024 Paper-II.pdf` p. 3 | Verified normalised stems for 2018 GS-I Q17, 2018 GS-II Q6, 2022 GS-II Q6 and 2024 GS-II Q11/Q17. Obvious OCR spelling/word-limit noise is normalised transparently; no answer key or response mapping is inferred. |
+| OCR local book `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian Polity by M Laxmikant.pdf`, PDF page 1211, checked 5 October 2026 | Pressure groups act through debate, lobbying and other routes to influence policymaking and implementation. **Does not** independently verify Lipsky, ADP, institutional boundaries or the examination statutes; original author pagination may differ from PDF page. |
+| India Code principal Act/commencement: https://www.indiacode.nic.in/handle/123456789/20100?view_type=search&col=123456789/1362 ; Gazette Amendment Act: https://egazette.gov.in/WriteReadData/2026/275035.pdf | The 2024 principal Act commenced through **S.O. 2422(E)** on 21 June 2024. Amendment **Act 10 of 2026** received assent and was published on **31 July 2026**, Gazette **CG-DL-E-31072026-275035**; it changes penalties and investigation/trial machinery, not the principal authority/Schedule coverage test. |
+| NITI Aayog live programme page https://www.niti.gov.in/aspirational-districts-programme , accessed 5 October 2026; *Annual Report 2025–26* https://www.niti.gov.in/sites/default/files/2026-05/Annual%20Report%20of%20NITI%20Aayog%202025-26%20%28English%29.pdf | Live page: **117 selected districts**. Annual report: **112 operational/reporting districts**, 49 KPIs/five themes and Central Prabhari coordination. The denominators are source-specific; neither proves outcomes or transfers executive authority to NITI/Prabhari. |
+| NITI Aayog, “Launch of Sampoornata Abhiyan 2.0”, **28 January 2026**, https://www.niti.gov.in/node/2158 ; PIB https://pib.gov.in/PressReleasePage.aspx?PRID=2219753&reg=3&lang=1 | The dated announcement reports **513 Aspirational Blocks** and a **112-district operational/reporting denominator**; ABP is a distinct finer-scale programme. |
+| PIB, “Hybrid Annuity Model for National Highways”, https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1592673 ; rechecked 5 October 2026 | HAM concessionaire construction and operation/maintenance duties versus public construction support and scheduled annuities; public side retains traffic/toll-revenue risk. Project-specific agreements may vary and no project performance is asserted. |
+| PIB Lok Sabha reply, **11 August 2026**, https://pib.gov.in/PressReleasePage.aspx?PRID=2297818 | PM GatiShakti's integrated planning/NPG architecture and absence of a separate budgetary provision. Dated project/data-layer figures are not carried forward and no outcome attribution is made. |
+| Constitution and official institutional sources: https://www.legislative.gov.in/constitution-of-india ; https://cabsec.gov.in/allocationofbusinessrules/ ; https://cabsec.gov.in/transactionofbusiness/transactionofbusinessrules/ ; https://cag.gov.in/en/audit-report ; https://pfms.nic.in/SitePages/aboutus.aspx ; https://www.indiabudget.gov.in/ ; https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf | Cabinet/ministerial business, legislative and appropriation authority, delegated-rule limits, Finance/expenditure functions, Article 280 transfers, and CAG's ex-post reporting route. These sources do not make NITI an executive authority, the Finance Commission a CSS designer or CAG a pre-auditor. |
+| Parliamentary reply https://www.sansad.in/getFile/loksabhaquestions/annex/186/AU2110_008KJB.pdf?source=pqals ; rechecked 5 October 2026 | Parliamentary discussion of pre-legislative consultation, dated 12 December 2025; policy rule and executive status also in Core. This is not evidence of universal compliance. |
 | Second ARC reports discussed in Governance `README.md` physical-notes index, notably *Organisational Structure of Government of India*, *Citizen-Centric Administration* and *Local Governance* | Historical recommendations only. The named Pavneet Singh physical notes were **not** located as an OCR PDF in the available book folders; no assertion that a proposal became law from ARC resemblance. |
 
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Governance\basic\02_Government-Policy-Design-and-Implementation.md`, complete §§1–13; README and syllabus mapping. |
+| Canonical Markdown | checked | Certified/released Governance Topic 02 Basic owner, complete §§1–13, at canonical commit `77702d4a5`; README and syllabus mapping. |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule. |
 | Layered/complete session | checked | Mandatory structural benchmarks: `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `06-Yoga\Learning-Session-Live-Edition.md`, `07-Mimamsa\Learning-Session-Live-Edition.md`; no Governance Topic 02 predecessor available. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule. |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Governance\advanced\02_Government-Policy-Design-and-Implementation.md`, complete §§1–13 and 2018–2023 block. |
-| OCR books | checked | Local OCR *Indian Polity by M Laxmikant.pdf* p. 1211; locally held official 2024 GS-II PDF p. 3. No topic-specific ARC OCR book identified. |
-| PYQs through 2026 | checked | 2018–2023 and 2024–2025 Mains routing ledgers plus 2026 GS-II/integration audit and official 2024 paper; four directly routed demands and cross-owned 2024 health route, with scan/wording limits disclosed. |
-| Official live sources | checked | India Code Act/commencement; NITI ADP and January 2026 513-block Sampoornata announcement, NITI 2025–26 annual report on Prabhari coordination, PIB HAM risk allocation and GatiShakti release, Parliament PLCP reply; exact URLs, dates and 403 fetch limits listed above. |
+| Advanced dossier | checked | Certified/released Governance Topic 02 Advanced owner, complete §§1–13 and 2018–2023 block, at canonical commit `77702d4a5`. |
+| OCR books | checked | Local OCR *Indian Polity by M Laxmikant.pdf* p. 1211; locally held official 2018 GS-I/GS-II, 2022 GS-II and 2024 GS-II paper pages listed above. No topic-specific ARC OCR book identified. |
+| PYQs through 2026 | checked | Exact normalised stems and local official-paper pages for four direct demands; 2018–2023 and 2024–2025 routing ledgers plus 2026 GS-II/integration audit; cross-owned 2024 health route; no key/marking scheme inferred. |
+| Official live sources | checked | India Code principal Act/commencement; Gazette Act 10 of 2026; NITI live ADP page and Annual Report 2025–26 denominator control; January 2026 ABP announcement; PIB HAM and 11 August 2026 GatiShakti reply; Constitution/Cabinet/CAG/Finance/Finance Commission institutional sources; Parliament PLCP reply. Exact URLs and boundaries are listed above. |
