@@ -340,5 +340,7 @@ rights-plus-capability verdict.
   overlap, implementation boundary and data limitation.
 - **Verified PYQ ownership, 2018-2026:** the owner's direct answer routes cover
   the 2024 affirmative-action outcome gap and the 2025 Phule demand, with
-  cross-owner routing disclosed. No official 2026 demand, group prevalence or
-  scheme success rate is invented.
+  cross-owner routing disclosed. The official 2026 papers add direct GS-I
+  demands on disability and digital social empowerment, plus relevant GS-II
+  demands on transgender privacy, tribal equity and rights-based welfare.
+  No group prevalence or scheme success rate is invented.
