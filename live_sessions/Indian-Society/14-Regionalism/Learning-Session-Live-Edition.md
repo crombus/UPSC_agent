@@ -1716,10 +1716,12 @@ The questions below are displayed without solved answers, answer keys or elimina
 | 2026 · GS-I · Q8 | unity in diversity despite communalism and regionalism | Exact official question exists; regionalism is one qualified dimension | Test whether accommodation preserves common citizenship and internal minorities |
 | 2026 · GS-I · Q12 | linguistic reorganisation driven by popular pressure from below | Exact official question exists; chronology is central | Use Andhra, the SRC and the integration mechanism |
 | 2026 · GS-I · Q13 | planned economy and regional imbalances left by colonial rule | Exact official question exists; disparity concepts are relevant | Apply cumulative causation and scale limits without reducing the demand to regionalism |
+| 2026 · GS-II · Q13 | “How far has the Indian federal framework been successful in accommodating regional and cultural diversities? Highlight the role of asymmetric federalism and suggest measures to make dispute resolution mechanisms more effective.” | Exact official question; 15 marks · 250 words; Polity-owned | Topic 14 contributes identity, accommodation and regional-demand diagnosis; Federal System and Special Provisions own constitutional design and dispute-resolution doctrine |
 
 ## Status control
 
-- The official 2026 GS-I paper contains no direct Topic 14 question.
+- The official 2026 GS-I paper contains no sole-owner Topic 14 question; Q8 explicitly names regionalism as one shared dimension, while Q12 and Q13 provide bounded historical and disparity cross-links.
+- Official 2026 GS-II Q13 is Polity-owned but directly tests federal accommodation of regional and cultural diversity; Topic 14 supplies bounded sociological support rather than constitutional ownership.
 - Statehood, autonomy and secession remain parallel demand forms.
 - The objective cross-links remain answer-neutral and are used only for conceptual discrimination.
 - The 2026 Prelims Q57 cross-link is likewise presented without a solution.
@@ -2094,6 +2096,7 @@ Define exact concept
 - 2020 Q10: cultural assertiveness → regionalism → other drivers → qualified verdict.
 - 2024 Q17: disparity definition → diversity distinction → seriousness with dated evidence.
 - 2022 GS-II Q13: combine regional-party bargaining with centralisation, State autonomy and institutional federalism.
+- 2026 GS-II Q13, quoted exactly in the final PYQ index: assess federal accommodation of regional/cultural diversity → identify asymmetric devices → diagnose negotiation/adjudication gaps → propose stronger dispute-resolution institutions; retain Polity ownership.
 - 2024 GS-I Q20: cultural diversity does not prove socio-economic marginality; test correlation with territorial and class/caste/gender/tribe disaggregation.
 - 2025 Q53/Q56: distinguish legal bases and Fifth/Sixth Schedule arrangements without treating the cross-links as solved questions.
 - 2026 Prelims Q57: distinguish schedules, safeguards and representation; no solution is provided.
@@ -2148,7 +2151,8 @@ Define exact concept
 | 2025 Prelims Q53, ISC/NSC/Zonal Councils | Lesson 11; final PYQ index | Neutral objective support; Centre-State Relations primary; no answer shown |
 | 2025 Prelims Q56, Fifth Schedule | Lesson 9; final PYQ index | Neutral objective support; Scheduled and Tribal Areas primary; no answer shown |
 | 2026 Prelims Q57, SC/ST safeguards and schedules | Lesson 9; final PYQ index | Neutral objective support; provisional key; no answer recorded or inferred |
-| 2026 GS-I Q8/Q12/Q13 | Lessons 4, 7, 14; final PYQ index | Adjacent cross-links; zero direct Topic 14 |
+| 2026 GS-I Q8/Q12/Q13 | Lessons 4, 7, 14; final PYQ index | Shared/adjacent cross-links; no sole-owner Topic 14 route |
+| 2026 GS-II Q13, federal accommodation of regional/cultural diversity | Lessons 9–11 and 14; final PYQ index | Exact official wording is displayed in the final PYQ index; Polity Federal System primary, Topic 14 bounded support |
 
 # SOURCE LEDGER
 
@@ -2207,7 +2211,8 @@ These sources control legal/institutional distinctions. The learner-facing sessi
 | 2022 Mains | Official paper in `books\more_previous_papers\`, controlled by the verified 2018–2023 routing ledger | Official-paper routing record; neutral demand only | GS-II Q13 support mapping; exact stem not displayed |
 | 2024 | `https://www.upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf` | `9c7a61d0c187551858a99f0c61957c070eb95cb86279d00b8c1f865e7a5e45fd` | Q17 exact wording; Q20 neutral cross-owner demand |
 | 2025 Prelims | Local official Set-A paper/key, controlled by `_PYQ-ROUTING-PRELIMS-2024-2025.md` | Official key available locally; no answer letter recorded here | Q53 and Q56 neutral support mappings |
-| 2026 Mains | `https://www.upsc.gov.in/sites/default/files/QP-CSM-26-010926-GENERAL%20STUDIES%20PAPER%20-%20I.pdf` | `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601` | Complete paper checked; no direct Topic 14 question |
+| 2026 GS-I | `https://www.upsc.gov.in/sites/default/files/QP-CSM-26-010926-GENERAL%20STUDIES%20PAPER%20-%20I.pdf` | `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601` | Complete paper checked; Q8 is a shared regionalism dimension and Q12/Q13 are bounded cross-links, with no sole-owner Topic 14 question |
+| 2026 GS-II | `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf` | `471efa8ae48dde452d5cea7a31241c0260c13e2cf2ec396734b97631c2599a36` | Controls the exact Q13 wording displayed in the final PYQ index and its 15-mark/250-word metadata; Polity-owned federal accommodation route with bounded Topic 14 support |
 | 2026 Prelims | Official Set-A scan, controlled by `_PYQ-ROUTING-PRELIMS-2026.md` | Provisional key available locally; no answer letter recorded or inferred | Q57 neutral support mapping |
 
 Routing records used for neutral cross-links and ownership boundaries:
@@ -2217,10 +2222,11 @@ Routing records used for neutral cross-links and ownership boundaries:
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`
 - `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
+- `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`
 
 The 2018–2023 ledger used a general Mains-tier policy and therefore pointed 2020 GS-I Q10 to `Indian-Society\advanced\14_Regionalism.md`. The current answer-complete route is `Indian-Society\basic\14_Regionalism.md`; the Advanced owner is supporting refinement only. This live edition follows that Basic-over-Advanced boundary.
 
-Only 2020 GS-I Q10 and 2024 GS-I Q17 are displayed as exact direct Topic 14 Mains questions. The 2018/2022 History demands, 2022 GS-II Q13, 2024 GS-I Q20, 2025 objective items, 2026 Prelims Q57 and 2026 adjacent Mains questions remain neutral or bounded support links; no solved answer or objective key is supplied.
+Only 2020 GS-I Q10 and 2024 GS-I Q17 are displayed as exact sole-owner Topic 14 Mains questions. The 2018/2022 History demands, 2022 GS-II Q13, 2024 GS-I Q20, 2025 objective items, 2026 Prelims Q57 and 2026 GS-I/GS-II shared or adjacent questions remain neutral or bounded support links; no solved answer or objective key is supplied.
 
 ## Limitations
 
@@ -2243,5 +2249,5 @@ Only 2020 GS-I Q10 and 2024 GS-I Q17 are displayed as exact direct Topic 14 Main
 | Solved workbook | not relevant | Permanently excluded from live-session source use by the governing rule |
 | Advanced dossier | checked | Topic 14 Advanced plus Geography Topic 29 and Polity Political Parties/Federal System Advanced owners were used as bounded support; no Advanced-only route controls a demand |
 | OCR books | not available | No topic-specific OCR-searchable regionalism book was present in the local books inventory |
-| PYQs through 2026 | checked | Official-paper records and routing ledgers cover 2020 Q10, 2022 GS-II Q13, 2024 Q17/Q20, 2025 Prelims Q52/Q53/Q56, 2026 Prelims Q57 and 2026 Mains adjacencies; no objective answer is shown or inferred |
+| PYQs through 2026 | checked | Official-paper records and routing ledgers cover 2020 Q10, 2022 GS-II Q13, 2024 Q17/Q20, 2025 Prelims Q52/Q53/Q56, 2026 Prelims Q57, 2026 GS-I shared/adjacent routes and the exactly displayed Polity-owned GS-II Q13; no objective answer is shown or inferred |
 | Official live sources | checked | Exactly one current linkage: NITI Aayog SDG India Index 2023–24 methodology, with no rank, causal or sub-state overclaim |
