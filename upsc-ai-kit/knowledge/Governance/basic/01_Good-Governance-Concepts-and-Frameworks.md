@@ -3,8 +3,9 @@
 > **Subject:** Governance | **Tier:** Must-Do (foundation) | **GS Paper:** GS-II.
 > **Core area:** Governance vs government; the meaning and measurement of "good governance."
 > **Grounded in:** 2nd ARC 12th Report *Citizen-Centric Administration* and 4th Report *Ethics in
-> Governance* (2007); World Bank Worldwide Governance Indicators (WGI); UNDP governance
-> principles; DARPG Good Governance Day/Index material; official UPSC GS-II syllabus.
+> Governance* (2007); World Bank Worldwide Governance Indicators (WGI); UNDP's governance
+> framework; the UNESCAP characteristics expressly used by the 2nd ARC; DARPG Good Governance
+> Day/Index material; official UPSC GS-II syllabus.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor.
 > *Companion: `advanced/01_Good-Governance-Concepts-and-Frameworks.md`.*
 
@@ -13,13 +14,14 @@
 ## 1. Visual foundation
 
 ```text
-GOVERNMENT                         GOVERNANCE
-(who holds formal authority?)      (how is collective decision-making done?)
+GOVERNMENT                         PUBLIC GOVERNANCE
+(who holds formal authority?)      (how is public authority exercised,
+                                    coordinated, scrutinised and corrected?)
         |                                   |
         v                                   v
- Legislature, Executive,          State + market + civil society jointly
- Judiciary (constitutional            steer, coordinate and deliver
-        bodies)                          public action
+ institutions and office-holders   public authorities remain duty-holders;
+ authorised by Constitution/law    citizens, civil society and firms may
+                                   participate, deliver, inform or scrutinise
         |                                   |
         +-----------------+-----------------+
                            |
@@ -47,27 +49,91 @@ measured against such normative standards, not merely functioning.
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Government** | The formal, constitutionally mandated set of institutions (legislature, executive, judiciary) that holds legitimate public authority. |
-| ✅ **Governance** | The wider process by which state and non-state actors (market, civil society, citizens) together make, implement and enforce collective decisions — government is one actor within governance, not the whole of it. |
-| ✅ **Good governance** | Governance judged against normative standards — rule of law, transparency, accountability, participation, responsiveness, equity, effectiveness and consensus orientation (World Bank/UNDP synthesis, echoed in 2nd ARC). |
+| ✅ **Government** | The formal institutions and office-holders authorised by the Constitution and law to exercise public power; it includes, but is not exhausted by, the legislature, executive and judiciary. |
+| ✅ **Public governance** | The mechanisms, institutions and processes through which public authority is exercised and collective decisions are made, implemented, contested and corrected. Citizens, civil society and firms may participate in or support these processes, but their involvement does not automatically transfer the State's legal duties or make every actor a co-governor. |
+| ✅ **Good governance** | A normative judgment about public governance against criteria such as rule of law, participation, transparency, accountability, responsiveness, equity, effectiveness and efficiency. The frameworks below group and measure these criteria differently; they are not one universal weighted index. |
 | ⚠️ **Public administration** | The organisational and procedural machinery (civil service, rules, departments) through which government executes decisions — the "how" of implementation within governance. |
 | ⚠️ **Development administration** | Public administration deliberately directed at social and economic transformation rather than routine regulatory maintenance. |
+
+**Source-specific definition control:** ✅ The World Bank defines governance through the
+traditions and institutions by which authority in a country is exercised. The UNDP formulation
+quoted by the 2nd ARC describes the mechanisms, processes and institutions through which
+collective decisions are made and implemented and citizens articulate interests, exercise rights,
+meet obligations and mediate differences. This GS-II owner uses the narrower **public-governance**
+scope: the exercise and correction of public authority. It does not claim that corporate
+governance, global governance and every form of social coordination are identical.
 
 ## 3. Frameworks used to define/measure good governance (mechanism)
 
 1. ✅ **World Bank Worldwide Governance Indicators (WGI):** six dimensions — Voice and
-   Accountability; Political Stability and Absence of Violence; Government Effectiveness;
-   Regulatory Quality; Rule of Law; Control of Corruption. Countries are scored on each
-   dimension using perception-based aggregated data.
-2. ✅ **UNDP governance principles:** participation, rule of law, transparency, responsiveness,
-   consensus orientation, equity and inclusiveness, effectiveness and efficiency,
-   accountability, and strategic vision — a normative checklist rather than a numeric index.
-3. ✅ **2nd ARC framing:** good governance requires efficient, transparent and accountable
-   institutions that guarantee the realisation of citizens' rights while curbing abuse of
-   public power.
-4. ⚠️ **Synthesis for Mains use:** WGI gives a comparative, measurable frame; UNDP gives a
-   normative-process frame; the 2nd ARC gives an India-specific institutional-reform frame.
-   Combine the three rather than reciting only one.
+   Accountability; Political Stability; Government Effectiveness; Regulatory Quality; Rule
+   of Law; Control of Corruption. The current 2026 WGI naming uses **Political Stability**;
+   **Political Stability and Absence of Violence/Terrorism** is the former dimension name.
+   WGI aggregates
+   household, firm and expert **perception** sources through an Unobserved Components Model.
+   It reports six separate governance estimates and an absolute 0–100 presentation anchored
+   to fixed reference points; source coverage, model uncertainty and margins of error limit
+   country and time comparisons. It is not direct observation of every public transaction and
+   it does not assign equal normative weight to one combined "good governance" score.
+2. ✅ **UNDP governance framework:** the 1997 process definition quoted by the 2nd ARC centres
+   mechanisms, processes and institutions, citizen voice, rights, obligations and mediation.
+   The associated principles — participation, rule of law, transparency, responsiveness,
+   consensus orientation, equity, effectiveness and efficiency, accountability, and strategic
+   vision — form a normative process checklist, not a UNDP country ranking.
+3. ✅ **UNESCAP's eight characteristics, as used by the 2nd ARC:** participatory, consensus
+   oriented, accountable, transparent, responsive, effective and efficient, equitable and
+   inclusive, and following the rule of law. UNESCAP pairs some terms and does not list
+   "strategic vision" as a ninth characteristic; do not label this eight-part formulation as
+   the WGI or silently merge it with the UNDP checklist.
+4. ✅ **2nd ARC's India-specific framing:** the 12th Report adopts the UNESCAP eight-attribute
+   figure and identifies four pillars of citizen-centric good governance — **Ethos** (service
+   to the citizen), **Ethics** (honesty, integrity and transparency), **Equity** (equal
+   treatment with empathy for weaker sections), and **Efficiency** (speedy and effective
+   service without harassment, increasingly using ICT). Its 4th Report supplies the
+   institutional anti-abuse and ethics diagnosis. These are dated reform analyses and
+   recommendations, not a numerical index or self-executing law.
+5. ⚠️ **Synthesis for Mains use:** WGI supplies comparative perception-based measurement;
+   UNDP supplies a process and participation frame; UNESCAP supplies the eight characteristics
+   explicitly cited by the 2nd ARC; and the 2nd ARC supplies Indian constitutional,
+   citizen-centric and institutional reform reasoning. Keep all four source identities visible.
+
+### 3.1 Constitutional, capacity, legitimacy and trust chain
+
+```text
+PREAMBLE + FUNDAMENTAL RIGHTS + DIRECTIVE PRINCIPLES
+justice, liberty, equality, fraternity/dignity; non-arbitrariness; welfare
+                              |
+                              v
+ lawful rule + named duty-holder + administrative capacity
+ staff, records, finance, coordination and accessible delivery
+                              |
+                              v
+ performance for citizens + participation + reasons + usable correction
+                              |
+                              v
+ JUSTIFIED TRUST and LEGITIMACY
+ earned provisionally; neither popularity nor a dashboard score proves it
+```
+
+- ✅ The 2nd ARC links the Constitution's Fundamental Rights and Directive Principles to
+  citizen-centric administration and treats fair elections, accountability, transparency,
+  effective services, empowered lower levels, rule of law and inclusion as foundations of
+  governmental and State legitimacy.
+- ⚠️ **State capacity** is the ability to formulate, coordinate and implement lawful public
+  decisions. Capacity can improve performance, but capable administration is not necessarily
+  participatory, equitable or accountable.
+- ⚠️ **Justified trust** is confidence supported by predictable law, competent performance,
+  meaningful participation, reasons and correction. Publicity, compliance or fast disposal
+  alone cannot establish it.
+- ⚠️ **Legitimacy** concerns whether the exercise of public authority is accepted as
+  justifiable under democratic and constitutional standards. Electoral authorisation is
+  necessary but continuing legitimacy also depends on lawful, inclusive and answerable
+  performance.
+- **Ownership firewall:** Governance owns the public process from authority through capacity,
+  delivery, participation, accountability and outcomes. Polity owns detailed constitutional
+  and statutory anatomy; Ethics owns personal probity and conduct; specialist Public
+  Administration theory owns its disciplinary debates. This file uses only the minimum
+  cross-owner concepts needed for a GS-II governance answer.
 
 ## 4. Institutions and tools (India)
 
@@ -80,7 +146,7 @@ measured against such normative standards, not merely functioning.
 - ✅ **Good Governance Index (GGI):** launched by DARPG on 25 December 2019 as a composite,
   diagnostic tool assessing state/UT governance performance across ten sectors, with
   states/UTs grouped into comparison categories rather than one undifferentiated national
-  list. The latest completed national edition located on DARPG as of **13 August 2026** is
+  list. The latest completed national edition located on DARPG as of **5 October 2026** is
   **GGI 2020-21**, released on **25 December 2021**. Do not convert a workshop, district
   index, proposed cycle or Good Governance Day event into a released national edition.
   **Edition-specific grouping:** GGI 2019 used **three** groups; GGI 2020-21 used **four** —
@@ -97,8 +163,9 @@ measured against such normative standards, not merely functioning.
 
 - ⚠️ A state topping the GGI's "economic governance" sector but lagging in "judiciary" shows
   why good governance must be read sector-wise, not as one aggregate score.
-- ⚠️ RTI, e-governance and social audit (see `05`, `06`, `08`) are the operational instruments
-  through which the abstract WGI/UNDP principles are actually implemented in India.
+- ⚠️ RTI, e-governance and social audit (see `05`, `06`, `08`) are Indian instruments through
+  which disclosure, participation and correction can be operationalised. They do not
+  "implement WGI" or prove that every UNDP/UNESCAP principle has been satisfied.
 - ✅ 2nd ARC's own 15 reports (see `10`) are, collectively, the most detailed Indian
   institutional roadmap for converting the good-governance normative frame into reform.
 
@@ -110,8 +177,8 @@ measured against such normative standards, not merely functioning.
   completed national edition located is **GGI 2020-21**, released on 25 December 2021.
 - ✅ GGI grouping changed by edition: **three groups in 2019**; **four in 2020-21** —
   Other States Group A, Other States Group B, North-East and Hill States, and UTs.
-- ✅ WGI has six dimensions: Voice & Accountability, Political Stability, Government
-  Effectiveness, Regulatory Quality, Rule of Law, Control of Corruption.
+- ✅ WGI's current six dimension names are Voice & Accountability, Political Stability,
+  Government Effectiveness, Regulatory Quality, Rule of Law, and Control of Corruption.
 - ✅ DARPG is the nodal department for administrative reforms and good governance
   measurement in the Union government; it functions under the Ministry of Personnel, Public
   Grievances and Pensions.
@@ -120,16 +187,18 @@ measured against such normative standards, not merely functioning.
 ## 7. UPSC traps
 
 - ❌ Government and governance are interchangeable terms. -> Government is a formal
-  institutional set; governance is the broader process of collective decision-making
-  involving state and non-state actors.
+  public-authority structure; public governance is the broader process through which that
+  authority is exercised, implemented, contested and corrected. Non-state participation is
+  possible without making every participant a public duty-holder.
 - ❌ Good governance is only about corruption control. -> Corruption control (WGI's "Control
-  of Corruption") is one of several dimensions; responsiveness, rule of law and
-  effectiveness are equally weighted in the standard frameworks.
+  of Corruption") is one of six separately reported WGI dimensions and one concern within
+  wider normative frameworks. WGI's source weights are model-derived, while UNDP, UNESCAP and
+  the 2nd ARC do not create one universal equal-weighted composite across these principles.
 - ❌ GGI produces one single, static national ranking. -> GGI publishes sector-wise scores
   for states/UTs across comparison categories, revised in each new edition; no single fixed
   state rank is asserted here, since the ranking changes with every edition.
 - ❌ GGI is published every year. -> It is not an annual series. Use only a released
-  edition and date it; as of 13 August 2026 the latest completed national edition located is
+  edition and date it; as of 5 October 2026 the latest completed national edition located is
   GGI 2020-21.
 - ❌ The District Good Governance Index (DGGI) is a later national GGI edition. -> DGGI is a
   separate sub-national exercise developed for particular states/UTs; it does not supersede
@@ -140,7 +209,7 @@ measured against such normative standards, not merely functioning.
 
 ## 8. 📰 Current anchor
 
-- 📰 **Status checked 13 August 2026:** Good Governance Day remains 25 December. The latest
+- 📰 **Status checked 5 October 2026:** Good Governance Day remains 25 December. The latest
   completed national GGI edition located on DARPG is **GGI 2020-21, released 25 December
   2021**. District-level indices, workshops and later Good Governance Day events are separate
   and must not be substituted for a released national GGI edition.
@@ -152,14 +221,15 @@ measured against such normative standards, not merely functioning.
   an institution or reform "provides good governance" (e.g., 2024 Q5 on local bodies —
   see `12`) — always open such answers with the rule-of-law/transparency/accountability/
   responsiveness frame from this file before moving to the specific institution.
-- ⚠️ Use this file's WGI + UNDP + ARC synthesis as the conceptual opening paragraph whenever
-  a question asks you to "assess," "evaluate" or "analyse" the quality of governance of any
-  specific mechanism across Topics `02`-`15`.
+- ⚠️ Use this file's source-specific WGI / UNDP / UNESCAP / 2nd ARC distinction as the
+  conceptual opening whenever a question asks you to "assess," "evaluate" or "analyse" the
+  quality of governance of a mechanism across Topics `02`-`15`.
 
 ## 10. Mains angles
 
-- ⚠️ Frame every governance-institution answer around a testable question: which WGI/UNDP
-  dimension does this institution strengthen, and which does it still fail on?
+- ⚠️ Frame every governance-institution answer around a testable question: which WGI
+  dimension or UNDP/UNESCAP/ARC criterion does the institution strengthen, and which does it
+  still fail on?
 - ⚠️ Distinguish "government reform" (institutional restructuring) from "governance reform"
   (process, participation and accountability redesign) when a question asks for both.
 - ⚠️ Use the five-gap governance results chain from `00_Master-Framework.md` (design,
@@ -207,22 +277,23 @@ measured against such normative standards, not merely functioning.
 | "Distinguish government from governance" | Category discipline: institution-set vs decision-process | Define both, then name the **third** term (good governance) as the normative test applied to the second |
 | "Is good governance achievable / a Western import?" | Whether the norms are contextual or universal | Concede the measurement critique, defend the substantive norms, refuse both extremes |
 | "Critically examine \<index\>" | Indicator validity, not index praise | State what the index can and cannot see before any rank |
-| "Assess whether \<institution\> delivers good governance" | Ability to pick the right dimension | Name **which** WGI/UNDP dimension the institution is supposed to move, then test only that |
+| "Assess whether \<institution\> delivers good governance" | Ability to pick the right criterion | Identify the relevant WGI dimension or UNDP/UNESCAP/ARC principle, preserve its source, then test the institution against it |
 | "Why does governance fail despite \<X\>?" | Causal staging | Locate failure at design / capacity / delivery / accountability / learning (see `00_Master-Framework.md` §3) |
 | "Ethics/probity in governance" (Governance half) | Boundary discipline | Answer the **institutional** half; cross-link Ethics for personal probity rather than duplicating it |
 
 ⚠️ **Directive discipline.** *Discuss* permits a balanced survey; *examine* requires
 inspecting the parts; *critically examine* requires a stated verdict on soundness;
 *evaluate* requires a graded judgment against criteria you name first; *comment* permits a
-short, opinionated position. A "good governance" answer that recites the eight UNDP
-principles under every directive is answering none of them.
+short, opinionated position. A "good governance" answer that recites a generic principles
+list — or calls the UNESCAP eight characteristics the "eight UNDP principles" — under every
+directive is answering none of them.
 
 ### 13.2 Qualified theses (choose and adapt — never write an unqualified one)
 
 - **T1 (definitional):** "Good governance is not a description of what governments do but a
-  normative standard against which the exercise of public authority — by state *and*
-  non-state actors — is judged; conflating it with efficient government is the commonest
-  analytical error."
+  normative standard against which the exercise of public authority and the public-governance
+  processes surrounding it are judged; non-state participation can inform, deliver or
+  scrutinise without dissolving the State's legal responsibility."
 - **T2 (measurement-sceptical, norm-defending):** "The measurement of good governance is
   genuinely contestable — perception-based, aggregation-heavy and weakly outcome-linked —
   but the contestability of the *measure* is not an argument against the *norms*, which are
@@ -247,8 +318,9 @@ principles under every directive is answering none of them.
 **15 marks (250 words) — evaluative demands on an index or a principle**
 
 1. Thesis (T2 or T3).
-2. What the framework claims to measure — WGI's six dimensions / UNDP's principles /
-   2nd ARC's institutional framing, kept as three *different* kinds of frame.
+2. Keep the source-specific frames distinct: WGI's six measured dimensions; UNDP's process
+   definition and normative principles; UNESCAP's eight characteristics used by the 2nd ARC;
+   and the 2nd ARC's four citizen-centric pillars and reform diagnosis.
 3. Indian conversion mechanisms, named: RTI s.4 disclosure, state RTS Acts, MGNREGA s.17
    social audit, CPGRAMS, Sevottam, CAG audit.
 4. Five-test critique of any index (§13.7).
@@ -288,9 +360,10 @@ Bank B in place of Bank A rows; they answer different demands.
 
 | Instrument | What it measures | Governance function | Limitation you must state |
 |---|---|---|---|
-| ✅ **WGI (World Bank)** — Voice & Accountability, Political Stability, Government Effectiveness, Regulatory Quality, Rule of Law, Control of Corruption | Cross-country comparison | Enables benchmarking over time | Largely **perception-based, aggregated** from other sources; not a direct outcome measure |
-| ✅ **UNDP principles** | Nothing — it is a normative checklist, not an index | Supplies the process vocabulary | ⚠️ Cannot rank; treating it as a scoring system is an error |
-| ✅ **2nd ARC framing** | Nothing numeric — an institutional-reform diagnosis | Supplies India-specific reform routes (see `10`) | Dated 2006–09 recommendations ≠ current law |
+| ✅ **WGI (World Bank)** — Voice & Accountability, Political Stability, Government Effectiveness, Regulatory Quality, Rule of Law, Control of Corruption | Cross-country comparison across six separately reported dimensions | Enables benchmarking with estimates, uncertainty and a fixed-reference 0–100 presentation | **Perception-based aggregate** from multiple sources using an Unobserved Components Model; not a direct transaction-level outcome measure or one equal-weighted governance score |
+| ✅ **UNDP framework** | No single country score here — process definition plus normative principles | Supplies the language of citizen voice, rights, mediation and process quality | Cannot rank countries by reciting the principles; do not relabel it as UNESCAP's eight-part figure |
+| ✅ **UNESCAP characteristics** | No numeric index — eight paired characteristics | Supplies the eight-attribute formulation expressly used by the 2nd ARC | Not WGI and not identical to the UNDP list: paired terms alter the count and strategic vision is not a ninth item |
+| ✅ **2nd ARC framing** | Nothing numeric — four pillars (Ethos, Ethics, Equity, Efficiency) plus an institutional-reform diagnosis | Connects constitutional values and citizen-centric administration to Indian reform routes (see `10`) | Dated 2006–09 recommendations ≠ current law; detailed probity remains Ethics-owned |
 | ✅ **GGI (DARPG)** — ten sectors, comparison categories | State/UT sectoral governance | Diagnostic, sector-wise | Latest completed national edition located: **GGI 2020-21**; not annual; no rank quotable without its edition year |
 | ✅ **NeSDA (DARPG)** | e-service delivery depth (see `05`) | Benchmarks end-service delivery | Portal-level, not whole-of-governance |
 | ✅ **Devolution Index (Ministry of Panchayati Raj)** | Panchayat devolution (see `12`) | Fiscal/functional devolution | Panchayat-specific; does not cover urban local bodies |
@@ -311,6 +384,8 @@ NORM (e.g. transparency)
    -> CITIZEN SIDE    : awareness, access, cost, language, literacy     <-- stage 5
    -> REMEDY          : is failure correctable, and by whom?            <-- stage 6
    -> FEEDBACK        : is the failure counted and used for redesign?   <-- stage 7
+   -> LEGITIMACY      : did lawful, capable and participatory performance
+                        earn justified trust rather than publicity alone? <-- stage 8
 ```
 
 ⚠️ **Use this, not a list.** For any "why does governance remain poor despite X" stem, name
@@ -386,7 +461,10 @@ enforcement or a wrongly designed entitlement.
 
 ### 13.10 Factual and current-status controls
 
-- ✅ Safe to assert: WGI's six dimensions by name; UNDP's principles as a checklist; GGI
+- ✅ Safe to assert: WGI's six dimensions by name and its perception-based aggregate
+  methodology; UNDP's process definition and principles as a non-ranking framework; UNESCAP's
+  eight characteristics as the formulation cited by the 2nd ARC; the 2nd ARC's four pillars
+  of Ethos, Ethics, Equity and Efficiency; GGI
   launch date 25 December 2019; latest completed national edition located as GGI 2020-21,
   released 25 December 2021; Good Governance Day since
   2014; DARPG's nodal role under the Ministry of Personnel, Public Grievances and Pensions;
@@ -407,7 +485,8 @@ enforcement or a wrongly designed entitlement.
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The exact 2018 stem and options are locally readable, but the official
+> answer key is not held locally; no option letter or option-to-answer mapping is recorded.
 
 - **Years represented:** 2018
 - **Paper(s):** Prelims GS-I
@@ -415,11 +494,21 @@ enforcement or a wrongly designed entitlement.
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 14 | Organization that releases Rule of Law Index annually | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 14 | `"Rule of Law Index" is released by which of the following?` | Exact objective stem/options verified at `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9; official key unavailable locally | Exact unkeyed paper provenance; no option mapping | Distinguish the standalone index from WGI's `Rule of Law` dimension without presenting an answer key. |
+
+**Exact local options (unkeyed; no option is marked or mapped):**
+
+> (a) Amnesty International
+>
+> (b) International Court of Justice
+>
+> (c) The Office of UN Commissioner for Human Rights
+>
+> (d) World Justice Project
 
 ### What this owner must now support
 
-- Organization that releases Rule of Law Index annually
+- Publisher-identification distinction for the standalone `"Rule of Law Index"`
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
@@ -429,8 +518,22 @@ enforcement or a wrongly designed entitlement.
 - **Official syllabus/index and owned core:** Good governance converts legitimate public authority into rights-respecting, effective, equitable and accountable outcomes through participation, rule of law, transparency, responsiveness, efficiency and answerability; the principles are mutually reinforcing but can create real trade-offs.
 - **Indispensable distinction and prerequisite taxonomy:** Government is the formal authority structure, governance is the wider process and actor network, and good governance is a normative quality test; efficiency is not effectiveness, transparency is not accountability, participation is not consent, and legality alone does not prove fairness.
 - **Mechanism, implementation and evidence control:** Use constitutional values, citizen charters, social audit, Sevottam and outcome evidence with named duty-holders and remedies; an index, award, portal or scheme launch is evidence of an instrument, not automatic proof of improved governance.
-- **✅ Verified current fact (official sources rechecked 5 September 2026):**
-  Rechecked 2026-09-05: DARPG remains the official owner for the Good Governance Index, Sevottam and citizen-charter material. The latest completed national GGI edition located remains GGI 2020-21; later district indices, events or awards are not substituted for a national edition. Sources: https://www.darpg.gov.in/relatedlinks/good-governance-index; https://darpg.gov.in/relatedlinks/sevottam; https://darpg.gov.in/relatedlinks/citizen-charter
+- **✅ Verified current fact and framework sources (official sources rechecked 5 October 2026):**
+  DARPG remains the official owner for the Good Governance Index, Sevottam and
+  citizen-charter material. The latest completed national GGI edition located remains GGI
+  2020-21; later district indices, events or awards are not substituted for a national edition.
+  The World Bank's current WGI page and documentation describe six perception-based aggregate
+  dimensions, model uncertainty and the fixed-reference 0–100 presentation. The 2nd ARC's
+  12th Report supplies the UNDP process definition, the UNESCAP eight-attribute figure and the
+  four pillars; its 4th Report reproduces the UNESCAP characteristics in its ethics analysis.
+  Sources: https://www.worldbank.org/en/publication/worldwide-governance-indicators;
+  https://www.worldbank.org/en/publication/worldwide-governance-indicators/documentation;
+  https://www.worldbank.org/content/dam/sites/govindicators/doc/The%20Worldwide%20Governance%20Indicators%202026%20Methodology.pdf;
+  https://www.undp.org/publications/discussion-paper-governance-sustainable-development;
+  https://www.unescap.org/sites/default/files/good-governance.pdf;
+  https://www.darpg.gov.in/static/uploads/2025/10/edbee2541b1e696f04ade4d10a45ed14.pdf;
+  https://www.darpg.gov.in/static/uploads/2025/10/20a81c0a7ef93f99cbab4b734d0a317e.pdf;
+  https://www.darpg.gov.in/static/uploads/2025/11/c0407c72aff1eadc87925d99e21a5342.pdf
 - **⚠️ Analytical inference:** institutional design, allocation, a portal, a
   registration, a report, a training completion, a disposal count or a ranking
   can support a causal argument only after authority, capacity, incentives,
@@ -439,11 +542,12 @@ enforcement or a wrongly designed entitlement.
 - **Canonical and cross-owner boundary:** this Governance owner teaches the
   authority-to-delivery-to-remedy chain. Detailed constitutional doctrine stays
   with Polity; sector entitlement design stays with Social Justice; macro-fiscal
-  doctrine stays with Economy; ethics theory stays with Ethics. Cross-owner
-  evidence may be routed but is not silently duplicated or re-owned.
+  doctrine stays with Economy; personal probity and ethical conduct stay with
+  Ethics; specialist disciplinary debates stay with Public Administration.
+  Cross-owner evidence may be routed but is not silently duplicated or re-owned.
 - **Four-ledger hostile audit:** literal syllabus, indispensable prerequisites,
   standard public-administration/governance taxonomy and complete verified PYQ
   demands were checked for absent concepts, institutions, mechanisms,
   classifications, exceptions, comparisons, criticisms, current status,
   answer architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** No direct General Studies Mains demand is routed to this owner in the audited 2018-2023 or 2024-2025 Mains ledgers. The audited 2018-2023 Preliminary ledger routes one objective demand to this owner, namely the organisation that releases the Rule of Law Index annually, and that ledger itself records the official key as unavailable locally. The printed wording of that objective question could not be confirmed in the locally held OCR-searchable 2018 Preliminary paper, whose scan does not yield searchable text for the item, so no option set, no official key and no verbatim stem is reproduced or inferred. The owner therefore carries the examinable distinction - the Rule of Law Index is published by the World Justice Project and not by the World Bank - without converting an unkeyed objective question into a solved answer. The six original Mains answers below are authored practice, not previous-year questions, and the Basic owner records that this topic functions mainly as the conceptual opening for evaluative demands owned by Topics 02 to 15 rather than as a standalone Mains topic.
+- **Verified PYQ ownership, 2018-2026:** No direct General Studies Mains demand is routed to this owner in the audited 2018-2023 or 2024-2025 Mains ledgers. The audited 2018-2023 Preliminary ledger routes one objective demand to this owner: 2018 GS-I Q14 on the publisher of the `"Rule of Law Index"`. Its exact stem and four printed options are locally readable at `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 9. The official key is not held locally, so the provenance block remains unkeyed: no answer letter, option marking, elimination or option-to-answer mapping is supplied. The owner separately teaches the factual distinction between the standalone World Justice Project index and the World Bank WGI dimension without representing that teaching as an official UPSC key. The six original Mains answers are authored practice, not previous-year questions, and the Basic owner records that this topic functions mainly as the conceptual opening for evaluative demands owned by Topics 02 to 15 rather than as a standalone Mains topic.
