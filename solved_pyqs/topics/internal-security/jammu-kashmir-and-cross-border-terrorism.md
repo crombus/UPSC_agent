@@ -6,12 +6,21 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2023, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-III: 3
-- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Constitutional Change and Mainstreaming; Conflict Resolution; Over-ground networks
+- **Released years represented:** 2018, 2019, 2023, 2026
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-III: 4
+- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Constitutional Change and Mainstreaming; Conflict Resolution; Over-ground networks; CPEC sovereignty and security
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** CPEC sovereignty and security
 
 ## 2019 concentration
 
@@ -56,3 +65,14 @@
 #### Mains GS-III
 
 - [Q9. Over-ground workers and terrorism](../../papers/2019/mains-gs3.md#2019-mains-gs3-q09) — Over-ground networks · 10 marks
+
+### 2018
+
+#### Mains GS-III
+
+- [Q9. CPEC and India’s objections](../../papers/2018/mains-gs3.md#2018-mains-gs3-q09) — CPEC sovereignty and security · 10 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2016 · Mains GS-III · Q17. Strategic impact of hot pursuit and surgical strikes](../../papers/2016/mains-gs3.md#2016-mains-gs3-q17) — Cross-border kinetic response

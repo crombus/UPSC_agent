@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 9
-- **Stable linked anchors:** 9
-- **Paper concentration:** Philosophy Paper II: 9
-- **Marks represented:** 135 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Plato · *Republic* and the kallipolis · functional justice versus individual rights; Rights and duties · correlativity; Social contract theory · origin and development; Plato and Aristotle on person and polis; Rights, duties and accountability; Unconditional rights and political order; Social contract and human rights; Indian tradition · individual rights · human rights; rights · duties · accountability · India
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 17
+- **Stable linked anchors:** 17
+- **Paper concentration:** Philosophy Paper II: 17
+- **Marks represented:** 245 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Plato · *Republic* and the kallipolis · functional justice versus individual rights; Rights and duties · correlativity; Social contract theory · origin and development; Plato and Aristotle on person and polis; Rights, duties and accountability; Unconditional rights and political order; Social contract and human rights; Indian tradition · individual rights · human rights; rights · duties · accountability · India; human rights · dignity · universality · culture; rights · duties · accountability; human rights · inalienability · dignity; free speech · judicial independence · separation of powers; civil disobedience · democratic legitimacy; individual rights · group rights; human rights · individual and collective rights; rights and duties · citizenship
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** rights and duties · citizenship
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** human rights · individual and collective rights
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** civil disobedience · democratic legitimacy; individual rights · group rights
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** human rights · inalienability · dignity; free speech · judicial independence · separation of powers
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** rights · duties · accountability
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** human rights · dignity · universality · culture
 
 ## 2019 concentration
 
@@ -127,3 +175,41 @@
 #### Philosophy Paper II
 
 - [Q2(a). Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q2a) — rights · duties · accountability · India · 20 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q4(a). “Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q4a) — human rights · dignity · universality · culture · 20 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q1(d). Out of rights and duties, which one is prior to the other? Discuss in the context of accountability.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q1d) — rights · duties · accountability · 10 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q1(d). Evaluate the statement that all human beings have certain unalienable rights.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q1d) — human rights · inalienability · dignity · 10 marks
+- [Q2(c). “The right of free speech implies the genuine independence of the judiciary and its complete separation from the executive.” Evaluate.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q2c) — free speech · judicial independence · separation of powers · 20 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q1(b). Is civil disobedience in a democratic State justifiable? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q1b) — civil disobedience · democratic legitimacy · 10 marks
+- [Q1(d). How are individual and group rights reconciled in democracy? Explain.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q1d) — individual rights · group rights · 10 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q4(a). “All human rights are centred on individual rights.” Discuss.](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q4a) — human rights · individual and collective rights · 20 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q1(b). What is the significance of including duties of citizens in the Indian Constitution?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q1b) — rights and duties · citizenship · 10 marks

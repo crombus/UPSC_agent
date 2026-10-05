@@ -6,12 +6,26 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2022, 2023, 2025, 2026
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 6
+- **Released years represented:** 2014, 2018, 2021, 2022, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 8
 - **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Stealth technology, radar cross-section, absorbing materials, and detection; Mission Sudarshan Chakra and India's integrated air and missile defence; BIS bomb-disposal standard, interoperability, and technology development collaboration; CL-20, HMX and LLM-105 - military explosives; Ballistic missiles vs cruise missiles Agni BrahMos classification; Fractional Orbital Bombardment System space weapon concept; Air defence
+- **Subtopics represented:** Stealth technology, radar cross-section, absorbing materials, and detection; Mission Sudarshan Chakra and India's integrated air and missile defence; BIS bomb-disposal standard, interoperability, and technology development collaboration; CL-20, HMX and LLM-105 - military explosives; Ballistic missiles vs cruise missiles Agni BrahMos classification; Fractional Orbital Bombardment System space weapon concept; Air defence; THAAD Terminal High Altitude Area Defense system description; Agni-IV Missile, which of the following statements is/are correct?
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Agni-IV Missile, which of the following statements is/are correct?
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** THAAD Terminal High Altitude Area Defense system description
 
 ## 2021 concentration
 
@@ -82,3 +96,15 @@
 #### Mains GS-III
 
 - [Q5. Technical strengths of the S-400](../../papers/2021/mains-gs3.md#2021-mains-gs3-q05) — Air defence · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q43. THAAD Terminal High Altitude Area Defense system description](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q43) — THAAD Terminal High Altitude Area Defense system description
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q37. Agni-IV Missile, which of the following statements is/are correct?](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q037) — Agni-IV Missile, which of the following statements is/are correct?

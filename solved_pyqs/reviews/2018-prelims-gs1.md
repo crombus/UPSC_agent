@@ -48,3 +48,11 @@
 - Shared catalogues, topic files, status files, and the central review log were intentionally not
   edited because this assignment expressly limits ownership to the paper and this review.
 - No blocker remains within the two-file assigned scope.
+
+## 2026-10-05 shared historical-merit integration addendum
+
+The deferred shared integration is complete. All **100** routed anchors now use canonical
+topic-page routes, have exact reverse links, appear in every cross-year index, and preserve the
+paper-specific source, marks and key qualifications recorded above.
+
+**Final release conclusion: PASS.**

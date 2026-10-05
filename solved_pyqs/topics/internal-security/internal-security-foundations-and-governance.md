@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2023, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-III: 2; Prelims GS-I: 2
-- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Zero FIR under BNSS and police jurisdiction for reported offences; Official Secrets Act Arms Act legal actions and coverage; Threat ecosystem; Population-centric area management
+- **Released years represented:** 2017, 2020, 2021, 2023, 2026
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 2
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Zero FIR under BNSS and police jurisdiction for reported offences; Official Secrets Act Arms Act legal actions and coverage; Threat ecosystem; Population-centric area management; Public order and mob violence
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Public order and mob violence
 
 ## 2020 concentration
 
@@ -68,3 +76,9 @@
 #### Mains GS-III
 
 - [Q10. Border-area management and local support](../../papers/2020/mains-gs3.md#2020-mains-gs3-q10) — Population-centric area management · 10 marks
+
+### 2017
+
+#### Mains GS-III
+
+- [Q19. Causes and consequences of mob violence](../../papers/2017/mains-gs3.md#2017-mains-gs3-q19) — Public order and mob violence · 15 marks

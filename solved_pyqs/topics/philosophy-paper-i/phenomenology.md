@@ -6,12 +6,45 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Philosophy Paper I: 5
-- **Marks represented:** 65 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** bracketing and reduction; anti-psychologism · transcendental phenomenology; natural attitude, epoché and reduction; critique of psychologism and phenomenological method; intentionality and hallucination
+- **Released years represented:** 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Philosophy Paper I: 9
+- **Marks represented:** 115 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** bracketing and reduction; anti-psychologism · transcendental phenomenology; natural attitude, epoché and reduction; critique of psychologism and phenomenological method; intentionality and hallucination; phenomenological reduction; philosophy as rigorous science; epoché and reduction
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** epoché and reduction
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** epoché and reduction
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** philosophy as rigorous science
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** phenomenological reduction
 
 ## 2019 concentration
 
@@ -84,3 +117,33 @@
 #### Philosophy Paper I
 
 - [Q1(b). Can hallucination be regarded as an intentional act by Husserl? Explain.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q1b) — intentionality and hallucination · 10 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q1(b). Explain Husserl’s reasons for advocating phenomenological reductionism.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1b) — phenomenological reduction · 10 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q4(a). What, according to Husserl, is the task of a philosopher? Do you think his methods are relevant to philosophy? Discuss.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q4a) — philosophy as rigorous science · 20 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q1(c). Husserl’s notion of ‘bracketing’.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1c) — epoché and reduction · 10 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q1(c). Explain the significance of ‘bracketing’ in Husserl phenomenology.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q1c) — epoché and reduction · 10 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2015 · Philosophy Paper I · Q2(b). Discuss why Heidegger introduces the concept of *Dasein* in his metaphysics.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q2b) — Heidegger’s Dasein
+- [2014 · Philosophy Paper I · Q4(b). State and evaluate Heidegger’s claim that temporality is the horizon against which the being of any entity is understood.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q4b) — Heidegger on temporality and Being

@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2024
+- **Released years represented:** 2015, 2024
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-I: 2
+- **Marks represented:** 27.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Balance of power; German responsibility across both wars
+
+## 2015 concentration
+
 - **Solved answerable questions/parts:** 1
 - **Stable linked anchors:** 1
 - **Paper concentration:** Mains GS-I: 1
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Balance of power
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** German responsibility across both wars
 
 ## 2024 concentration
 
@@ -28,3 +36,9 @@
 #### Mains GS-I
 
 - [Q12. How far is it correct to say that the First World War was fought essentially for the preservation of balance of power?](../../papers/2024/mains-gs1.md#2024-mains-gs1-q12) — Balance of power · 15 marks
+
+### 2015
+
+#### Mains GS-I
+
+- [Q7. To what extent can Germany be held responsible for causing the two World Wars? Discuss critically.](../../papers/2015/mains-gs1.md#2015-mains-gs1-q07) — German responsibility across both wars · 12.5 marks

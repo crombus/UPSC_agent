@@ -6,11 +6,53 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 62
-- **Stable linked anchors:** 62
-- **Paper concentration:** Prelims CSAT: 62
-- **Subtopics represented:** Rates/Motion/Time/Geometry → Displacement → linear equations; Rates/Motion/Time → Relative speed → crossing; Geometry → Plane cuts → piece-count bounds; Motion → Circular track → relative laps; Rates/Motion/Time → Sound and travel time; Rates/Motion/Time → Segment times → speed comparison; Geometry → One-dimensional tiling → integer optimisation; Rates/Motion/Time → Piecewise speeds; Run-rate time relation; Painted-cube partition; Circular-track encounters; Overtaking relative speed; Pipes-and-cistern rate; Fractional work rates; Cube partition cuts; Work-rate scaling; Alternating-worker schedule; Metric-unit conversion; Clock-hand coincidence; Calendar repetition; Clock-hand angle; Interior cubes; Cyclic work schedule; Triangles from boundary points; Large-exponent weekday; Traffic-signal synchronisation; Rectangle tile packing; Painted cuboid counts; Direction distance tracking; Calendar day finding; Circular track overtaking; Time unit total conversion; Clock route time comparison; Work rate comparison; Rectangle cut feasibility; Clock hand coincidence; Bounce count sequence; Direction-distance path; Net displacement direction; Two walkers meeting point; Calendar day calculation; Clock-hand angle timing; Collinear-points ratio count; Volume unit conversion; LCM calendar meeting day; Work-rate remaining days; Compass direction tracking; Cube volume density ratio; Combined work-rate fraction; Multi-leg average speed; Circle-square intersection count; Upstream-downstream speed ratio; Jump-sequence well climb; Calendar Day Determination; Race Distance Inference; Right-Triangle Distance; LCM Cycle Coincidence; Race Start Scaling; Fast Clock Time Correction; Path Displacement Distance; Calendar Year Repeat
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 101
+- **Stable linked anchors:** 101
+- **Paper concentration:** Prelims CSAT: 101
+- **Subtopics represented:** Rates/Motion/Time/Geometry → Displacement → linear equations; Rates/Motion/Time → Relative speed → crossing; Geometry → Plane cuts → piece-count bounds; Motion → Circular track → relative laps; Rates/Motion/Time → Sound and travel time; Rates/Motion/Time → Segment times → speed comparison; Geometry → One-dimensional tiling → integer optimisation; Rates/Motion/Time → Piecewise speeds; Run-rate time relation; Painted-cube partition; Circular-track encounters; Overtaking relative speed; Pipes-and-cistern rate; Fractional work rates; Cube partition cuts; Work-rate scaling; Alternating-worker schedule; Metric-unit conversion; Clock-hand coincidence; Calendar repetition; Clock-hand angle; Interior cubes; Cyclic work schedule; Triangles from boundary points; Large-exponent weekday; Traffic-signal synchronisation; Rectangle tile packing; Painted cuboid counts; Direction distance tracking; Calendar day finding; Circular track overtaking; Time unit total conversion; Clock route time comparison; Work rate comparison; Rectangle cut feasibility; Clock hand coincidence; Bounce count sequence; Direction-distance path; Net displacement direction; Two walkers meeting point; Calendar day calculation; Clock-hand angle timing; Collinear-points ratio count; Volume unit conversion; LCM calendar meeting day; Work-rate remaining days; Compass direction tracking; Cube volume density ratio; Combined work-rate fraction; Multi-leg average speed; Circle-square intersection count; Upstream-downstream speed ratio; Jump-sequence well climb; Calendar Day Determination; Race Distance Inference; Right-Triangle Distance; LCM Cycle Coincidence; Race Start Scaling; Fast Clock Time Correction; Path Displacement Distance; Calendar Year Repeat; Velocity-time distance ratio; Train crossing time; Painted-cube face geometry; Circular track speed ratio; Inscribed triangle count; Calendar date sequence; Rectangle diagonal geometry; Net-rate with final step; Clock drift; Interval counting; Relative speed; Painted cube; Three-dimensional Pythagoras; Displacement; Scheduling; Surface area; Pythagoras; Solid geometry; Mensuration; Area probability; Race speed ratio; Clock-hand timing; Round-trip average speed; Parallel and perpendicular lines; Collinear villages; Next clock-hand overlap; Walking distance; North-east shortest distance; Two cars meeting time; Policeman catches thief; Original train speed; Men-days inverse relation; Maximum average speed from payment data; Garrison food; Petrol with higher daily use; Walking and driving times
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims CSAT: 7
+- **Subtopics represented:** Policeman catches thief; Original train speed; Men-days inverse relation; Maximum average speed from payment data; Garrison food; Petrol with higher daily use; Walking and driving times
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Prelims CSAT: 5
+- **Subtopics represented:** Collinear villages; Next clock-hand overlap; Walking distance; North-east shortest distance; Two cars meeting time
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Prelims CSAT: 4
+- **Subtopics represented:** Race speed ratio; Clock-hand timing; Round-trip average speed; Parallel and perpendicular lines
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Prelims CSAT: 10
+- **Subtopics represented:** Displacement; Scheduling; Surface area; Pythagoras; Solid geometry; Mensuration; Relative speed; Area probability
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Prelims CSAT: 6
+- **Subtopics represented:** Net-rate with final step; Clock drift; Interval counting; Relative speed; Painted cube; Three-dimensional Pythagoras
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims CSAT: 7
+- **Subtopics represented:** Velocity-time distance ratio; Train crossing time; Painted-cube face geometry; Circular track speed ratio; Inscribed triangle count; Calendar date sequence; Rectangle diagonal geometry
 
 ## 2019 concentration
 
@@ -171,3 +213,72 @@
 - [Q49. Fast Clock Time Correction](../../papers/2019/prelims-csat.md#2019-prelims-csat-q49) — Fast Clock Time Correction
 - [Q57. Path Displacement Distance](../../papers/2019/prelims-csat.md#2019-prelims-csat-q57) — Path Displacement Distance
 - [Q59. Calendar Year Repeat](../../papers/2019/prelims-csat.md#2019-prelims-csat-q59) — Calendar Year Repeat
+
+### 2018
+
+#### Prelims CSAT
+
+- [Q5. Velocity-time distance ratio](../../papers/2018/prelims-csat.md#2018-prelims-csat-q05-solution) — Velocity-time distance ratio
+- [Q6. Train crossing time](../../papers/2018/prelims-csat.md#2018-prelims-csat-q06-solution) — Train crossing time
+- [Q35. Painted-cube face geometry](../../papers/2018/prelims-csat.md#2018-prelims-csat-q35-solution) — Painted-cube face geometry
+- [Q40. Circular track speed ratio](../../papers/2018/prelims-csat.md#2018-prelims-csat-q40-solution) — Circular track speed ratio
+- [Q58. Inscribed triangle count](../../papers/2018/prelims-csat.md#2018-prelims-csat-q58-solution) — Inscribed triangle count
+- [Q59. Calendar date sequence](../../papers/2018/prelims-csat.md#2018-prelims-csat-q59-solution) — Calendar date sequence
+- [Q60. Rectangle diagonal geometry](../../papers/2018/prelims-csat.md#2018-prelims-csat-q60-solution) — Rectangle diagonal geometry
+
+### 2017
+
+#### Prelims CSAT
+
+- [Q16. Climbing pillars with slips](../../papers/2017/prelims-csat.md#2017-prelims-csat-q016-solution) — Net-rate with final step
+- [Q31. Fast and slow watches](../../papers/2017/prelims-csat.md#2017-prelims-csat-q031-solution) — Clock drift
+- [Q33. Clock striking time](../../papers/2017/prelims-csat.md#2017-prelims-csat-q033-solution) — Interval counting
+- [Q39. Train catch-up distance](../../papers/2017/prelims-csat.md#2017-prelims-csat-q039-solution) — Relative speed
+- [Q58. Unpainted inner cubes](../../papers/2017/prelims-csat.md#2017-prelims-csat-q058-solution) — Painted cube
+- [Q75. Distance from ceiling in a corner](../../papers/2017/prelims-csat.md#2017-prelims-csat-q075-solution) — Three-dimensional Pythagoras
+
+### 2016
+
+#### Prelims CSAT
+
+- [Q9. Grid return route](../../papers/2016/prelims-csat.md#2016-prelims-csat-q009-solution) — Displacement
+- [Q38. Trains for daily shuttle](../../papers/2016/prelims-csat.md#2016-prelims-csat-q038-solution) — Scheduling
+- [Q39. Cube from rectangular tin](../../papers/2016/prelims-csat.md#2016-prelims-csat-q039-solution) — Surface area
+- [Q49. Perpendicular hill movements](../../papers/2016/prelims-csat.md#2016-prelims-csat-q049-solution) — Pythagoras
+- [Q57. Broken-tree height](../../papers/2016/prelims-csat.md#2016-prelims-csat-q057-solution) — Pythagoras
+- [Q58. Net walking displacement](../../papers/2016/prelims-csat.md#2016-prelims-csat-q058-solution) — Displacement
+- [Q59. Painted small cubes with one face](../../papers/2016/prelims-csat.md#2016-prelims-csat-q059-solution) — Solid geometry
+- [Q73. Water remaining after filling cylinder](../../papers/2016/prelims-csat.md#2016-prelims-csat-q073-solution) — Mensuration
+- [Q75. Opposite-direction circular meetings](../../papers/2016/prelims-csat.md#2016-prelims-csat-q075-solution) — Relative speed
+- [Q79. Archery red-region probability](../../papers/2016/prelims-csat.md#2016-prelims-csat-q079-solution) — Area probability
+
+### 2015
+
+#### Prelims CSAT
+
+- [Q34. Race speed ratio](../../papers/2015/prelims-csat.md#2015-prelims-csat-q034-solution) — Race speed ratio
+- [Q68. Clock-hand timing](../../papers/2015/prelims-csat.md#2015-prelims-csat-q068-solution) — Clock-hand timing
+- [Q71. Round-trip average speed](../../papers/2015/prelims-csat.md#2015-prelims-csat-q071-solution) — Round-trip average speed
+- [Q76. Parallel and perpendicular lines](../../papers/2015/prelims-csat.md#2015-prelims-csat-q076-solution) — Parallel and perpendicular lines
+
+### 2014
+
+#### Prelims CSAT
+
+- [Q10. Collinear villages](../../papers/2014/prelims-csat.md#2014-prelims-csat-q010-solution) — Collinear villages
+- [Q12. Next clock-hand overlap](../../papers/2014/prelims-csat.md#2014-prelims-csat-q012-solution) — Next clock-hand overlap
+- [Q50. Walking distance](../../papers/2014/prelims-csat.md#2014-prelims-csat-q050-solution) — Walking distance
+- [Q68. North-east shortest distance](../../papers/2014/prelims-csat.md#2014-prelims-csat-q068-solution) — North-east shortest distance
+- [Q69. Two cars meeting time](../../papers/2014/prelims-csat.md#2014-prelims-csat-q069-solution) — Two cars meeting time
+
+### 2013
+
+#### Prelims CSAT
+
+- [Q35. Policeman catches thief](../../papers/2013/prelims-csat.md#2013-prelims-csat-q035-solution) — Policeman catches thief
+- [Q36. Original train speed](../../papers/2013/prelims-csat.md#2013-prelims-csat-q036-solution) — Original train speed
+- [Q47. Men-days inverse relation](../../papers/2013/prelims-csat.md#2013-prelims-csat-q047-solution) — Men-days inverse relation
+- [Q49. Maximum average speed from payment data](../../papers/2013/prelims-csat.md#2013-prelims-csat-q049-solution) — Maximum average speed from payment data
+- [Q64. Garrison food](../../papers/2013/prelims-csat.md#2013-prelims-csat-q064-solution) — Garrison food
+- [Q65. Petrol with higher daily use](../../papers/2013/prelims-csat.md#2013-prelims-csat-q065-solution) — Petrol with higher daily use
+- [Q66. Walking and driving times](../../papers/2013/prelims-csat.md#2013-prelims-csat-q066-solution) — Walking and driving times

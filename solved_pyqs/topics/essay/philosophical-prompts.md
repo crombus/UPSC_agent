@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 64
-- **Stable linked anchors:** 64
-- **Paper concentration:** Mains Essay: 64
-- **Marks represented:** 8000 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Paradox, contradiction and irony; Gratitude, reciprocity and justice; Adversity, adaptation and lost possibility; Externalised costs of conflict; Nature, meaning and ecological ethics; Inquiry, humility and action; Delay, responsibility and difficult choice; Responsive, distributed leadership; Truth, identity and objectivity; Conflict prevention, strategy and just peace; Discovery, imagination and social construction; Adversity, reflection and learning; Restraint, timing and intervention; Time, experience and historical perspective; Process, purpose and achievement; Sufficiency, aspiration and consumption; Ecology, civilisation and regenerative development; Knowledge, imagination and power; Process, flourishing and social conditions; Scientific temper, doubt and correction; Youth, platform design and mental well-being; Power, character and accountability; Simplicity, scale and implementation; Action, uncertainty and responsible experimentation; Opposition, dialogue and disciplined thought; Intuition, reason and practical wisdom; Exploration, purpose and non-linear progress; Attention, imagination and everyday innovation; Gender socialisation, freedom and care; Pattern, abstraction and rational beauty; Justice, rights and social solidarity; Learning, character and lifelong capability; Ecology, economy and regenerative systems; Imagination, language and moral change; Reason, imagination and human progress; Purpose, courage and responsible risk; Foresight, prevention and institutional resilience; Change, identity and adaptive continuity; Communication, ambiguity and human relationship; Choice, moral judgment and structural alternatives; Technology, identity and reflective agency; Perception, relationship and self-awareness; Desire, sufficiency and human flourishing; Reality, reason and transformative freedom; Care, socialisation and generational power; Inquiry, uncertainty and disciplined discovery; Historical memory, repetition and political imitation; Context, learning and adaptive governance; Human existence, moral growth and humane agency; Attention, values and inner tranquillity; Adversity, internal resilience and institutional integrity; Simplicity, complexity and intelligent design; Culture, civilisation and ethical identity; Prosperity, distribution and substantive justice; Patriarchy, normalisation and intersecting inequality; Technology, power and international order; Wisdom, inquiry and truth; Values, moral aspiration and human conduct; Individual choice, collective welfare and institutions; Acceptance, improvement and success; South Asian pluralism, identity and state; Human development, primary services and national progress; Media bias, public reason and democracy; Artificial intelligence, work and capability transition
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 108
+- **Stable linked anchors:** 108
+- **Paper concentration:** Mains Essay: 108
+- **Marks represented:** 14000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Paradox, contradiction and irony; Gratitude, reciprocity and justice; Adversity, adaptation and lost possibility; Externalised costs of conflict; Nature, meaning and ecological ethics; Inquiry, humility and action; Delay, responsibility and difficult choice; Responsive, distributed leadership; Truth, identity and objectivity; Conflict prevention, strategy and just peace; Discovery, imagination and social construction; Adversity, reflection and learning; Restraint, timing and intervention; Time, experience and historical perspective; Process, purpose and achievement; Sufficiency, aspiration and consumption; Ecology, civilisation and regenerative development; Knowledge, imagination and power; Process, flourishing and social conditions; Scientific temper, doubt and correction; Youth, platform design and mental well-being; Power, character and accountability; Simplicity, scale and implementation; Action, uncertainty and responsible experimentation; Opposition, dialogue and disciplined thought; Intuition, reason and practical wisdom; Exploration, purpose and non-linear progress; Attention, imagination and everyday innovation; Gender socialisation, freedom and care; Pattern, abstraction and rational beauty; Justice, rights and social solidarity; Learning, character and lifelong capability; Ecology, economy and regenerative systems; Imagination, language and moral change; Reason, imagination and human progress; Purpose, courage and responsible risk; Foresight, prevention and institutional resilience; Change, identity and adaptive continuity; Communication, ambiguity and human relationship; Choice, moral judgment and structural alternatives; Technology, identity and reflective agency; Perception, relationship and self-awareness; Desire, sufficiency and human flourishing; Reality, reason and transformative freedom; Care, socialisation and generational power; Inquiry, uncertainty and disciplined discovery; Historical memory, repetition and political imitation; Context, learning and adaptive governance; Human existence, moral growth and humane agency; Attention, values and inner tranquillity; Adversity, internal resilience and institutional integrity; Simplicity, complexity and intelligent design; Culture, civilisation and ethical identity; Prosperity, distribution and substantive justice; Patriarchy, normalisation and intersecting inequality; Technology, power and international order; Wisdom, inquiry and truth; Values, moral aspiration and human conduct; Individual choice, collective welfare and institutions; Acceptance, improvement and success; South Asian pluralism, identity and state; Human development, primary services and national progress; Media bias, public reason and democracy; Artificial intelligence, work and capability transition; Climate resilience, technology and just transition; Love, knowledge and human flourishing; Poverty, interdependence and shared prosperity; Borders, security and cooperative statecraft; Custom, morality and constitutional reason; Memory, identity and moral inheritance; Privilege, principle and political legitimacy; Ideal, reality and moral progress; Agrarian viability, dignity and structural transformation; Fiscal federalism, reform and cooperative bargaining; Education, citizenship and national capability; Non-alignment, strategic autonomy and Global South cooperation; Joy, gratitude and reciprocal flourishing; Gender modernity, agency and structural inequality; Human agency, natural limits and ecological responsibility; Social media, selfhood and platform power; Gender justice, capability and sustainable development; Need, greed and moral ecology; River federalism, scarcity and cooperative governance; Innovation, productivity and inclusive welfare; Cooperative federalism, interdependence and constitutional trust; Internet, human agency and digital civilisation; Employment, structural transformation and reform; Digital economy, access and distributive power; Agency, welfare and enabling solidarity; Speed, constancy and adaptive action; Leadership, institutional culture and constitutional restraint; Knowledge, moral agency and humane education; Technology, work and irreducible human agency; Moral economy, institutions and development; National aspiration, constitutional duty and restless citizenship; Markets, inclusion and democratic social contract; Power, trusteeship and accountable authority; Competition, capability and youth flourishing; Assessment, learning and educational justice; Language, truth and non-violent power; Policy design, state capacity and implementation; Investigative journalism, privacy and public interest; Sporting excellence, public health and institutional reform; Sustainable tourism, livelihoods and cultural stewardship; Moral example, agency and structural change; Decolonisation, institutional inheritance and confident modernity; Growth, happiness and multidimensional well-being; Technology, inclusive development and comprehensive security
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains Essay: 4
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Moral example, agency and structural change; Decolonisation, institutional inheritance and confident modernity; Growth, happiness and multidimensional well-being; Technology, inclusive development and comprehensive security
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains Essay: 8
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Power, trusteeship and accountable authority; Competition, capability and youth flourishing; Assessment, learning and educational justice; Language, truth and non-violent power; Policy design, state capacity and implementation; Investigative journalism, privacy and public interest; Sporting excellence, public health and institutional reform; Sustainable tourism, livelihoods and cultural stewardship
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains Essay: 8
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Agency, welfare and enabling solidarity; Speed, constancy and adaptive action; Leadership, institutional culture and constitutional restraint; Knowledge, moral agency and humane education; Technology, work and irreducible human agency; Moral economy, institutions and development; National aspiration, constitutional duty and restless citizenship; Markets, inclusion and democratic social contract
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains Essay: 8
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Gender justice, capability and sustainable development; Need, greed and moral ecology; River federalism, scarcity and cooperative governance; Innovation, productivity and inclusive welfare; Cooperative federalism, interdependence and constitutional trust; Internet, human agency and digital civilisation; Employment, structural transformation and reform; Digital economy, access and distributive power
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains Essay: 8
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Agrarian viability, dignity and structural transformation; Fiscal federalism, reform and cooperative bargaining; Education, citizenship and national capability; Non-alignment, strategic autonomy and Global South cooperation; Joy, gratitude and reciprocal flourishing; Gender modernity, agency and structural inequality; Human agency, natural limits and ecological responsibility; Social media, selfhood and platform power
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains Essay: 8
+- **Marks represented:** 1000 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Climate resilience, technology and just transition; Love, knowledge and human flourishing; Poverty, interdependence and shared prosperity; Borders, security and cooperative statecraft; Custom, morality and constitutional reason; Memory, identity and moral inheritance; Privilege, principle and political legitimacy; Ideal, reality and moral progress
 
 ## 2019 concentration
 
@@ -182,3 +230,77 @@
 - [Section B — Q6. Neglect of primary health care and education in India are reasons for its backwardness.](../../papers/2019/mains-essay.md#2019-mains-essay-q6) — Human development, primary services and national progress · 125 marks
 - [Section B — Q7. Biased media is a real threat to Indian democracy.](../../papers/2019/mains-essay.md#2019-mains-essay-q7) — Media bias, public reason and democracy · 125 marks
 - [Section B — Q8. Rise of Artificial Intelligence: the threat of jobless future or better job opportunities through reskilling and upskilling.](../../papers/2019/mains-essay.md#2019-mains-essay-q8) — Artificial intelligence, work and capability transition · 125 marks
+
+### 2018
+
+#### Mains Essay
+
+- [Section A — Q1. Alternative technologies for a climate change resilient India](../../papers/2018/mains-essay.md#2018-mains-essay-q1) — Climate resilience, technology and just transition · 125 marks
+- [Section A — Q2. A good life is one inspired by love and guided by knowledge](../../papers/2018/mains-essay.md#2018-mains-essay-q2) — Love, knowledge and human flourishing · 125 marks
+- [Section A — Q3. Poverty anywhere is a threat to prosperity everywhere](../../papers/2018/mains-essay.md#2018-mains-essay-q3) — Poverty, interdependence and shared prosperity · 125 marks
+- [Section A — Q4. Management of Indian border disputes — a complex task](../../papers/2018/mains-essay.md#2018-mains-essay-q4) — Borders, security and cooperative statecraft · 125 marks
+- [Section B — Q5. Customary morality cannot be a guide to modern life](../../papers/2018/mains-essay.md#2018-mains-essay-q5) — Custom, morality and constitutional reason · 125 marks
+- [Section B — Q6. 'The past' is a permanent dimension of human consciousness and values](../../papers/2018/mains-essay.md#2018-mains-essay-q6) — Memory, identity and moral inheritance · 125 marks
+- [Section B — Q7. A people that values its privileges above its principles loses both](../../papers/2018/mains-essay.md#2018-mains-essay-q7) — Privilege, principle and political legitimacy · 125 marks
+- [Section B — Q8. Reality does not conform to the ideal, but confirms it](../../papers/2018/mains-essay.md#2018-mains-essay-q8) — Ideal, reality and moral progress · 125 marks
+
+### 2017
+
+#### Mains Essay
+
+- [Section A — Q1. Farming has lost the ability to be a source of subsistence for majority of farmers in India.](../../papers/2017/mains-essay.md#2017-mains-essay-q1) — Agrarian viability, dignity and structural transformation · 125 marks
+- [Section A — Q2. Impact of the new economic measures on fiscal ties between the union and states in India.](../../papers/2017/mains-essay.md#2017-mains-essay-q2) — Fiscal federalism, reform and cooperative bargaining · 125 marks
+- [Section A — Q3. Destiny of a nation is shaped in its classrooms.](../../papers/2017/mains-essay.md#2017-mains-essay-q3) — Education, citizenship and national capability · 125 marks
+- [Section A — Q4. Has the Non-Alignment Movement (NAM) lost its relevance in a multipolar world ?](../../papers/2017/mains-essay.md#2017-mains-essay-q4) — Non-alignment, strategic autonomy and Global South cooperation · 125 marks
+- [Section B — Q5. Joy is the simplest form of gratitude.](../../papers/2017/mains-essay.md#2017-mains-essay-q5) — Joy, gratitude and reciprocal flourishing · 125 marks
+- [Section B — Q6. Fulfilment of ‘new woman’ in India is a myth.](../../papers/2017/mains-essay.md#2017-mains-essay-q6) — Gender modernity, agency and structural inequality · 125 marks
+- [Section B — Q7. We may brave human laws but cannot resist natural laws.](../../papers/2017/mains-essay.md#2017-mains-essay-q7) — Human agency, natural limits and ecological responsibility · 125 marks
+- [Section B — Q8. ‘Social media’ is inherently a selfish medium.](../../papers/2017/mains-essay.md#2017-mains-essay-q8) — Social media, selfhood and platform power · 125 marks
+
+### 2016
+
+#### Mains Essay
+
+- [Section A — Q1. If development is not engendered, it is endangered](../../papers/2016/mains-essay.md#2016-mains-essay-q1) — Gender justice, capability and sustainable development · 125 marks
+- [Section A — Q2. Need brings greed, if greed increases it spoils breed](../../papers/2016/mains-essay.md#2016-mains-essay-q2) — Need, greed and moral ecology · 125 marks
+- [Section A — Q3. Water disputes between States in federal India](../../papers/2016/mains-essay.md#2016-mains-essay-q3) — River federalism, scarcity and cooperative governance · 125 marks
+- [Section A — Q4. Innovation is the key determinant of economic growth and social welfare](../../papers/2016/mains-essay.md#2016-mains-essay-q4) — Innovation, productivity and inclusive welfare · 125 marks
+- [Section B — Q5. Cooperative federalism : Myth or reality](../../papers/2016/mains-essay.md#2016-mains-essay-q5) — Cooperative federalism, interdependence and constitutional trust · 125 marks
+- [Section B — Q6. Cyberspace and Internet : Blessing or curse to the human civilization in the long run](../../papers/2016/mains-essay.md#2016-mains-essay-q6) — Internet, human agency and digital civilisation · 125 marks
+- [Section B — Q7. Near jobless growth in India : An anomaly or an outcome of economic reforms](../../papers/2016/mains-essay.md#2016-mains-essay-q7) — Employment, structural transformation and reform · 125 marks
+- [Section B — Q8. Digital economy : A leveller or a source of economic inequality](../../papers/2016/mains-essay.md#2016-mains-essay-q8) — Digital economy, access and distributive power · 125 marks
+
+### 2015
+
+#### Mains Essay
+
+- [Section A — Q1. Lending hands to someone is better than giving a dole.](../../papers/2015/mains-essay.md#2015-mains-essay-q1) — Agency, welfare and enabling solidarity · 125 marks
+- [Section A — Q2. Quick but steady wins the race.](../../papers/2015/mains-essay.md#2015-mains-essay-q2) — Speed, constancy and adaptive action · 125 marks
+- [Section A — Q3. Character of an institution is reflected in its leader.](../../papers/2015/mains-essay.md#2015-mains-essay-q3) — Leadership, institutional culture and constitutional restraint · 125 marks
+- [Section A — Q4. Education without values, as useful as it is, seems rather to make a man more clever devil.](../../papers/2015/mains-essay.md#2015-mains-essay-q4) — Knowledge, moral agency and humane education · 125 marks
+- [Section B — Q5. Technology cannot replace manpower.](../../papers/2015/mains-essay.md#2015-mains-essay-q5) — Technology, work and irreducible human agency · 125 marks
+- [Section B — Q6. Crisis faced in India – moral or economic.](../../papers/2015/mains-essay.md#2015-mains-essay-q6) — Moral economy, institutions and development · 125 marks
+- [Section B — Q7. Dreams which should not let India sleep.](../../papers/2015/mains-essay.md#2015-mains-essay-q7) — National aspiration, constitutional duty and restless citizenship · 125 marks
+- [Section B — Q8. Can capitalism bring inclusive growth ?](../../papers/2015/mains-essay.md#2015-mains-essay-q8) — Markets, inclusion and democratic social contract · 125 marks
+
+### 2014
+
+#### Mains Essay
+
+- [Section A — Q1. With greater power comes greater responsibility.](../../papers/2014/mains-essay.md#2014-mains-essay-q1) — Power, trusteeship and accountable authority · 125 marks
+- [Section A — Q2. Is the growing level of competition good for the youth?](../../papers/2014/mains-essay.md#2014-mains-essay-q2) — Competition, capability and youth flourishing · 125 marks
+- [Section A — Q3. Are the standardized tests good measure of academic ability or progress ?](../../papers/2014/mains-essay.md#2014-mains-essay-q3) — Assessment, learning and educational justice · 125 marks
+- [Section A — Q4. Words are sharper than the two-edged sword.](../../papers/2014/mains-essay.md#2014-mains-essay-q4) — Language, truth and non-violent power · 125 marks
+- [Section B — Q5. Was it the policy paralysis or the paralysis of implementation which slowed the growth of our country ?](../../papers/2014/mains-essay.md#2014-mains-essay-q5) — Policy design, state capacity and implementation · 125 marks
+- [Section B — Q6. Is sting operation an invasion on privacy ?](../../papers/2014/mains-essay.md#2014-mains-essay-q6) — Investigative journalism, privacy and public interest · 125 marks
+- [Section B — Q7. Fifty Golds in Olympics: Can this be a reality for India ?](../../papers/2014/mains-essay.md#2014-mains-essay-q7) — Sporting excellence, public health and institutional reform · 125 marks
+- [Section B — Q8. Tourism: Can this be the next big thing for India ?](../../papers/2014/mains-essay.md#2014-mains-essay-q8) — Sustainable tourism, livelihoods and cultural stewardship · 125 marks
+
+### 2013
+
+#### Mains Essay
+
+- [Q1. Be the change you want to see in others – Gandhiji.](../../papers/2013/mains-essay.md#2013-mains-essay-q1) — Moral example, agency and structural change · 250 marks
+- [Q2. Is the Colonial mentality hindering India’s success ?](../../papers/2013/mains-essay.md#2013-mains-essay-q2) — Decolonisation, institutional inheritance and confident modernity · 250 marks
+- [Q3. GDP (Gross Domestic Product) along with GDH (Gross Domestic Happiness) would be the right indices for judging the well-being of a country.](../../papers/2013/mains-essay.md#2013-mains-essay-q3) — Growth, happiness and multidimensional well-being · 250 marks
+- [Q4. Science and Technology is the panacea for the growth and security of the nation.](../../papers/2013/mains-essay.md#2013-mains-essay-q4) — Technology, inclusive development and comprehensive security · 250 marks

@@ -6,12 +6,44 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 15
-- **Stable linked anchors:** 19
-- **Paper concentration:** Mains GS-IV: 15
-- **Marks represented:** 90 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Functional neutrality, proportionality and auditable symmetry; Public duty, family duty and continuity of command; Q7(a). Options; Q7(b). Stakeholders, values and conflicts; Q7(c). Evaluation of options; Q7(d). Recommended action and safeguards; Minimum force, negotiation and lawful custody; Options; Ethical dilemmas; Justified course; Precautions with women protesters; Consent and power asymmetry; Fair compensation and negotiated settlement; Options available; Critical examination; Course of action
+- **Released years represented:** 2013, 2014, 2015, 2016, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 22
+- **Stable linked anchors:** 26
+- **Paper concentration:** Mains GS-IV: 22
+- **Marks represented:** 235 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Functional neutrality, proportionality and auditable symmetry; Public duty, family duty and continuity of command; Q7(a). Options; Q7(b). Stakeholders, values and conflicts; Q7(c). Evaluation of options; Q7(d). Recommended action and safeguards; Minimum force, negotiation and lawful custody; Options; Ethical dilemmas; Justified course; Precautions with women protesters; Consent and power asymmetry; Fair compensation and negotiated settlement; Options available; Critical examination; Course of action; domestic violence, hierarchy and duty of care; political coercion and organisational integrity; caste prejudice and social persuasion; disaster triage and impartiality; gender justice, safety and social persuasion; due process under retaliatory complaint; workplace sexual harassment and due process
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** workplace sexual harassment and due process
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** due process under retaliatory complaint
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-IV: 4
+- **Marks represented:** 85 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** political coercion and organisational integrity; caste prejudice and social persuasion; disaster triage and impartiality; gender justice, safety and social persuasion
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** domestic violence, hierarchy and duty of care
 
 ## 2022 concentration
 
@@ -98,3 +130,30 @@
 - [Q11(b). Critical examination](../../papers/2022/mains-gs4.md#2022-mains-gs4-q11b) — Critical examination
 - [Q11(c). Ethical dilemmas](../../papers/2022/mains-gs4.md#2022-mains-gs4-q11c) — Ethical dilemmas
 - [Q11(d). Course of action](../../papers/2022/mains-gs4.md#2022-mains-gs4-q11d) — Course of action
+
+### 2016
+
+#### Mains GS-IV
+
+- [Q12. Domestic violence by a respected superior](../../papers/2016/mains-gs4.md#2016-mains-gs4-q12) — domestic violence, hierarchy and duty of care · 20 marks
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q9. Political mob gate-crashes a private factory](../../papers/2015/mains-gs4.md#2015-mains-gs4-q09) — political coercion and organisational integrity · 20 marks
+- [Q10. Dalit cook, caste prejudice and school attendance](../../papers/2015/mains-gs4.md#2015-mains-gs4-q10) — caste prejudice and social persuasion · 20 marks
+- [Q12. Ethical rescue prioritisation during a disaster](../../papers/2015/mains-gs4.md#2015-mains-gs4-q12) — disaster triage and impartiality · 20 marks
+- [Q14. Girls' education, safety and patriarchal backlash](../../papers/2015/mains-gs4.md#2015-mains-gs4-q14) — gender justice, safety and social persuasion · 25 marks
+
+### 2014
+
+#### Mains GS-IV
+
+- [Q11. Retaliatory sexual-harassment complaint](../../papers/2014/mains-gs4.md#2014-mains-gs4-q11) — due process under retaliatory complaint · 20 marks
+
+### 2013
+
+#### Mains GS-IV
+
+- [Q14. Star performer accused of sexual harassment](../../papers/2013/mains-gs4.md#2013-mains-gs4-q14) — workplace sexual harassment and due process · 20 marks

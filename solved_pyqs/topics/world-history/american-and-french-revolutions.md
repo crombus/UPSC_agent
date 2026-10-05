@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019
+- **Released years represented:** 2013, 2019
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Foundations of the modern world; American Revolution
+
+## 2013 concentration
+
 - **Solved answerable questions/parts:** 1
 - **Stable linked anchors:** 1
 - **Paper concentration:** Mains GS-I: 1
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Foundations of the modern world
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** American Revolution
 
 ## 2019 concentration
 
@@ -28,3 +36,9 @@
 #### Mains GS-I
 
 - [Q13. Explain how the foundations of the modern world were laid by the American and French Revolutions.](../../papers/2019/mains-gs1.md#2019-mains-gs1-q13) — Foundations of the modern world · 15 marks
+
+### 2013
+
+#### Mains GS-I
+
+- [Q13. “American Revolution was an economic revolt against mercantilism.” Substantiate.](../../papers/2013/mains-gs1.md#2013-mains-gs1-q13) — American Revolution · 10 marks

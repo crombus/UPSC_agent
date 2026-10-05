@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 20
-- **Stable linked anchors:** 20
-- **Paper concentration:** Mains GS-IV: 20
-- **Marks represented:** 190 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Positive duties, charity and supererogation; Attitude, agency and structural constraint; Dimensions of ethical action; Intention, duty and legality; Justice, context and principled revision; Substantive equality and institutional fairness; Intuition and deliberation; Conscience, law and public duty; Ethical ends and conflict resolution; Law, conscience and moral restraint; Ends, means and flourishing; Relational ethics and solidarity; Integrity and moral agency; Moral emotions and conscience; Laws, rules and conscience; Reason, emotion and moral objectivity; Constitutional morality and public reason; Conscience and conflicting duties; Socratic self-examination; Ethical competence
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 42
+- **Stable linked anchors:** 42
+- **Paper concentration:** Mains GS-IV: 42
+- **Marks represented:** 420 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Positive duties, charity and supererogation; Attitude, agency and structural constraint; Dimensions of ethical action; Intention, duty and legality; Justice, context and principled revision; Substantive equality and institutional fairness; Intuition and deliberation; Conscience, law and public duty; Ethical ends and conflict resolution; Law, conscience and moral restraint; Ends, means and flourishing; Relational ethics and solidarity; Integrity and moral agency; Moral emotions and conscience; Laws, rules and conscience; Reason, emotion and moral objectivity; Constitutional morality and public reason; Conscience and conflicting duties; Socratic self-examination; Ethical competence; legality, discretion and ethical means; deontology and consequentialism; proportionality and policy trade-offs; conceptions of the good life; distributive justice; trust and institutional morality; ethics and human well-being; Rawls and distributive justice; law, conscience and social order; distributive and restorative justice; applied ethical distinctions; truth, reason and moral courage; legality, conscience and discretion; justice and inclusive growth; happiness, flourishing and the good life; ethics and public power; competence and moral character; Kantian dignity and technology; values, ethics and competence; relativism and universal values; conscience and moral reflection; virtue, temperance and self-mastery
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-IV: 4
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** values, ethics and competence; relativism and universal values; conscience and moral reflection; virtue, temperance and self-mastery
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-IV: 4
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** happiness, flourishing and the good life; ethics and public power; competence and moral character; Kantian dignity and technology
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-IV: 4
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** applied ethical distinctions; truth, reason and moral courage; legality, conscience and discretion; justice and inclusive growth
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-IV: 4
+- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** ethics and human well-being; Rawls and distributive justice; law, conscience and social order; distributive and restorative justice
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-IV: 3
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** conceptions of the good life; distributive justice; trust and institutional morality
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-IV: 3
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** legality, discretion and ethical means; deontology and consequentialism; proportionality and policy trade-offs
 
 ## 2019 concentration
 
@@ -138,3 +186,55 @@
 - [Q3(b). Crisis of conscience in public life](../../papers/2019/mains-gs4.md#2019-mains-gs4-q3b) — Conscience and conflicting duties · 10 marks
 - [Q6(a). Socrates on the examined life](../../papers/2019/mains-gs4.md#2019-mains-gs4-q6a) — Socratic self-examination · 10 marks
 - [Q12(b). Strengthening ethical competence](../../papers/2019/mains-gs4.md#2019-mains-gs4-q12b) — Ethical competence
+
+### 2018
+
+#### Mains GS-IV
+
+- [Q4(a). Are all non-prohibited means permitted in doing good?](../../papers/2018/mains-gs4.md#2018-mains-gs4-q04a) — legality, discretion and ethical means · 10 marks
+- [Q4(b). Means and ends](../../papers/2018/mains-gs4.md#2018-mains-gs4-q04b) — deontology and consequentialism · 10 marks
+- [Q6(a). Lincoln on weighing good and evil in public policy](../../papers/2018/mains-gs4.md#2018-mains-gs4-q06a) — proportionality and policy trade-offs · 10 marks
+
+### 2017
+
+#### Mains GS-IV
+
+- [Q7(a). Narrow perceptions of the good life and ethical crisis](../../papers/2017/mains-gs4.md#2017-mains-gs4-q07a) — conceptions of the good life · 10 marks
+- [Q7(b). Unequal gains from increased national wealth](../../papers/2017/mains-gs4.md#2017-mains-gs4-q07b) — distributive justice · 10 marks
+- [Q8(b). Shared moral values and functioning institutions](../../papers/2017/mains-gs4.md#2017-mains-gs4-q08b) — trust and institutional morality · 10 marks
+
+### 2016
+
+#### Mains GS-IV
+
+- [Q1(a). Ethics and social and human well-being](../../papers/2016/mains-gs4.md#2016-mains-gs4-q01a) — ethics and human well-being · 10 marks
+- [Q3(a). Rawlsian social justice in the Indian context](../../papers/2016/mains-gs4.md#2016-mains-gs4-q03a) — Rawls and distributive justice · 10 marks
+- [Q5. Law and ethics as tools for controlling human conduct](../../papers/2016/mains-gs4.md#2016-mains-gs4-q05) — law, conscience and social order · 10 marks
+- [Q10. Just compensation and rehabilitation for displaced communities](../../papers/2016/mains-gs4.md#2016-mains-gs4-q10) — distributive and restorative justice · 20 marks
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q1(b). Four distinctions in applied ethics](../../papers/2015/mains-gs4.md#2015-mains-gs4-q01b) — applied ethical distinctions · 10 marks
+- [Q2(b). Fear of light and intellectual courage](../../papers/2015/mains-gs4.md#2015-mains-gs4-q02b) — truth, reason and moral courage · 10 marks
+- [Q3(a). Legal compliance and ethical sensitivity](../../papers/2015/mains-gs4.md#2015-mains-gs4-q03a) — legality, conscience and discretion · 10 marks
+- [Q4(a). Social values, economic values and inclusive growth](../../papers/2015/mains-gs4.md#2015-mains-gs4-q04a) — justice and inclusive growth · 10 marks
+
+### 2014
+
+#### Mains GS-IV
+
+- [Q1(a). Happiness and the good life](../../papers/2014/mains-gs4.md#2014-mains-gs4-q01a) — happiness, flourishing and the good life · 10 marks
+- [Q1(b). What ethics promotes and why administration needs it](../../papers/2014/mains-gs4.md#2014-mains-gs4-q01b) — ethics and public power · 10 marks
+- [Q3(a). Integrity and knowledge](../../papers/2014/mains-gs4.md#2014-mains-gs4-q03a) — competence and moral character · 10 marks
+- [Q3(b). Treating persons as ends in a techno-economic society](../../papers/2014/mains-gs4.md#2014-mains-gs4-q03b) — Kantian dignity and technology · 10 marks
+
+### 2013
+
+#### Mains GS-IV
+
+- [Q1. Values, ethics and professional competence](../../papers/2013/mains-gs4.md#2013-mains-gs4-q01) — values, ethics and competence · 10 marks
+- [Q3. Changing and universal human values](../../papers/2013/mains-gs4.md#2013-mains-gs4-q03) — relativism and universal values · 10 marks
+- [Q5(a). Voice of conscience](../../papers/2013/mains-gs4.md#2013-mains-gs4-q05a) — conscience and moral reflection · 10 marks
+- [Q6(c). Mastery over desire as courage](../../papers/2013/mains-gs4.md#2013-mains-gs4-q06c) — virtue, temperance and self-mastery · 10 marks

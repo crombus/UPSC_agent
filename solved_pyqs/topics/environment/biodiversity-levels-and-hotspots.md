@@ -6,11 +6,32 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2023, 2025
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Prelims GS-I: 2
-- **Subtopics represented:** EU Nature Restoration Law (NRL); Invasive Species Specialist Group and parent organization
+- **Released years represented:** 2015, 2016, 2018, 2023, 2025
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Prelims GS-I: 5
+- **Subtopics represented:** EU Nature Restoration Law (NRL); Invasive Species Specialist Group and parent organization; Sixth mass extinction causes and human activities impact; FAO Globally Important Agricultural Heritage Systems; An organization known as 'BirdLife International', which of the following statements...
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** An organization known as 'BirdLife International', which of the following statements...
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** FAO Globally Important Agricultural Heritage Systems
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Sixth mass extinction causes and human activities impact
 
 ## 2023 concentration
 
@@ -39,3 +60,21 @@
 #### Prelims GS-I
 
 - [Q13. Invasive Species Specialist Group and parent organization](../../papers/2023/prelims-gs1.md#2023-prelims-gs1-q13) — Invasive Species Specialist Group and parent organization
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q60. Sixth mass extinction causes and human activities impact](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q60) — Sixth mass extinction causes and human activities impact
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q27. FAO Globally Important Agricultural Heritage Systems](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q027) — FAO Globally Important Agricultural Heritage Systems
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q76. An organization known as 'BirdLife International', which of the following statements...](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q076) — An organization known as 'BirdLife International', which of the following statements...

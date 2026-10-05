@@ -6,12 +6,61 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 23
-- **Stable linked anchors:** 23
-- **Paper concentration:** Philosophy Paper I: 23
-- **Marks represented:** 305 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** 2026-philosophy-p1-q5a; 2026-philosophy-p1-q5d; 2026-philosophy-p1-q6c; 2026-philosophy-p1-q8a; knowledge-instrument and result · Nyāya–Buddhist debate; non-pre-existence of effect · causal types; Gautama · perception · sense-object contact; self · Gautama's six marks; absence (*abhāva*) · relational versus absolute difference; absence and counterpositive; perception · universals; inference · valid reason and fallacies; prior absence · causation controversy; universal (*sāmānya*) · categories; inference · pervasion · Cārvāka challenge; causation and non-pre-existence of effect; verbal testimony; inherence; causation and causal relevance; particularity as a category; absence as a category; extraordinary perception and error; proofs of God
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 37
+- **Stable linked anchors:** 37
+- **Paper concentration:** Philosophy Paper I: 37
+- **Marks represented:** 502.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** 2026-philosophy-p1-q5a; 2026-philosophy-p1-q5d; 2026-philosophy-p1-q6c; 2026-philosophy-p1-q8a; knowledge-instrument and result · Nyāya–Buddhist debate; non-pre-existence of effect · causal types; Gautama · perception · sense-object contact; self · Gautama's six marks; absence (*abhāva*) · relational versus absolute difference; absence and counterpositive; perception · universals; inference · valid reason and fallacies; prior absence · causation controversy; universal (*sāmānya*) · categories; inference · pervasion · Cārvāka challenge; causation and non-pre-existence of effect; verbal testimony; inherence; causation and causal relevance; particularity as a category; absence as a category; extraordinary perception and error; proofs of God; inherence and conjunction; cognition of absence; categories and their marks; five marks of a valid reason; definition of perception; substance and qualities; Nyāya theory of error; extraordinary perception; extrinsic validity; invariable concomitance and hypothetical reasoning; inference to the self
+- **Justified secondary-route anchors:** 4 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Philosophy Paper I: 4
+- **Marks represented:** 47.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** extrinsic validity; inherence; invariable concomitance and hypothetical reasoning; inference to the self
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** extraordinary perception
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** substance and qualities; Nyāya theory of error
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** absence as a category
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper I: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** categories and their marks; five marks of a valid reason; definition of perception
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper I: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** inherence and conjunction; cognition of absence; proofs of God
 
 ## 2019 concentration
 
@@ -141,3 +190,55 @@
 - [Q5(a). Justify the status of Abhāva as a category in Vaiśeṣika philosophy.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q5a) — absence as a category · 10 marks
 - [Q6(b). What is the role of Jñānalakṣaṇa-pratyakṣa in explaining Anyathākhyāti?](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q6b) — extraordinary perception and error · 15 marks
 - [Q7(a). How does Udayana prove the existence of God through Kāryāt, Āyojanāt, Dhṛtyādeḥ and Śruteḥ? Discuss.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q7a) — proofs of God · 20 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q5(a). How do the Vaiśeṣika philosophers explain the difference of the relationships in the two cases—(i) the brown colour of the table and (ii) the book on the table? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q5a) — inherence and conjunction · 10 marks
+- [Q5(d). How do the Buddhists and the Nyāya philosophers explain our knowledge of 'the absence of the jar on the table'? Answer in detail.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q5d) — cognition of absence · 10 marks
+- [Q6(a). How do the Naiyāyikas prove the existence of God? Do the Yoga philosophers prove God in the same way? If yes, how? And if no, why? Give reasons for your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q6a) — proofs of God · 20 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q5(b). What are the necessary characteristics of padārtha according to Vaiśeṣika philosophy?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q5b) — categories and their marks · 10 marks
+- [Q5(c). Explain the conditions of valid hetu as propounded in Nyāya philosophy.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q5c) — five marks of a valid reason · 10 marks
+- [Q6(a). Explain the early Nyāya definition of perception. Why is this definition considered inadequate by the later Naiyāyikas?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q6a) — definition of perception · 20 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q8(a). How do the Naiyāyikas justify the introduction of ‘Abhāva’ as an independent category? Explain.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q8a) — absence as a category · 20 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q6(b). ‘Our knowledge is confined to *gunas* alone’. Examine this statement in the light of Vaisesika and Buddhist controversy.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q6b) — substance and qualities · 15 marks
+- [Q6(c). Is *anyathākhyātivāda* an adequate explanation of error ? Elaborate.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q6c) — Nyāya theory of error · 15 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q7(a). Bring out the philosophical implications of introducing extraordinary (alaukika) perception in Nyāya philosophy.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q7a) — extraordinary perception · 20 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q5(c). How is the pramanya (validity/truth) of a statement determined ? Examine, in this context, the theory of paratah-pramanyavada.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q5c) — extrinsic validity · 10 marks
+- [Q6(b). What is samavaya ? What are the grounds for accepting samavaya as a distinct padartha ? Discuss.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q6b) — inherence · 12.5 marks
+- [Q7(a). Analyse the Nyaya concept of vyapti and examine its relation to tarka.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q7a) — invariable concomitance and hypothetical reasoning · 12.5 marks
+- [Q7(c). Examine the Nyaya-Vaisesika arguments for the existence of jivatma (soul).](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q7c) — inference to the self · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2016 · Philosophy Paper I · Q7(b). What would be Cārvāka’s view on Vyāpti? Can this view be acceptable to the Naiyāyikas? Give reasons for your answer.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q7b) — critique of inference and pervasion
+- [2015 · Philosophy Paper I · Q6(a). Elaborate Nyaya-Mimamsa debate on *Pramanyavada*.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q6a) — intrinsic and extrinsic validity
+- [2014 · Philosophy Paper I · Q6(a). How is the theory of causation central to the theories of Reality in classical Indian tradition ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q6a) — causation across Indian schools
+- [2014 · Philosophy Paper I · Q6(c). How is an absence of an object known according to Naiyāyikās and Mīmāṁsakas ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q6c) — non-cognition and absence

@@ -1,6 +1,6 @@
 # Years Index
 
-The catalogue covers exactly the latest eight available years: **2019–2026**.
+The catalogue covers the complete **2019–2026** corpus plus the **2013–2018 historical merit tiers** (nine papers per year; no qualifying Hindi or English).
 
 | Year | Paper files | Answerable units | Routed anchors | Topics | Release |
 |---:|---:|---:|---:|---:|---|
@@ -12,6 +12,12 @@ The catalogue covers exactly the latest eight available years: **2019–2026**.
 | 2021 | 11 | 428 | 451 | 157 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2021-complete-release) |
 | 2020 | 11 | 425 | 448 | 171 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2020-complete-release) |
 | 2019 | 11 | 421 | 444 | 179 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2019-complete-release) |
+| 2018 | 9 | 323 | 323 | 161 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2018-complete-release) |
+| 2017 | 9 | 323 | 323 | 155 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2017-complete-release) |
+| 2016 | 9 | 322 | 322 | 163 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2016-complete-release) |
+| 2015 | 9 | 322 | 322 | 164 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2015-complete-release) |
+| 2014 | 9 | 328 | 328 | 160 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2014-complete-release) |
+| 2013 | 9 | 347 | 347 | 162 | [**Complete — shared release PASS**](PAPERWISE-INDEX.md#2013-complete-release) |
 
 ## Direct paper and review links
 
@@ -142,3 +148,87 @@ The catalogue covers exactly the latest eight available years: **2019–2026**.
 - [Philosophy Paper II](../papers/2019/philosophy-paper-2.md) · [review](../reviews/2019-philosophy-paper-2.md)
 
 - **Key/source caveat:** Both Prelims Series-A keys are official-final; no item was dropped.
+
+### 2018
+
+- [Prelims GS-I](../papers/2018/prelims-gs1.md) · [review](../reviews/2018-prelims-gs1.md)
+- [Prelims CSAT](../papers/2018/prelims-csat.md) · [review](../reviews/2018-prelims-csat.md)
+- [Mains Essay](../papers/2018/mains-essay.md) · [review](../reviews/2018-mains-essay.md)
+- [Mains GS-I](../papers/2018/mains-gs1.md) · [review](../reviews/2018-mains-gs1.md)
+- [Mains GS-II](../papers/2018/mains-gs2.md) · [review](../reviews/2018-mains-gs2.md)
+- [Mains GS-III](../papers/2018/mains-gs3.md) · [review](../reviews/2018-mains-gs3.md)
+- [Mains GS-IV](../papers/2018/mains-gs4.md) · [review](../reviews/2018-mains-gs4.md)
+- [Philosophy Paper I](../papers/2018/philosophy-paper-1.md) · [review](../reviews/2018-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2018/philosophy-paper-2.md) · [review](../reviews/2018-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.
+
+### 2017
+
+- [Prelims GS-I](../papers/2017/prelims-gs1.md) · [review](../reviews/2017-prelims-gs1.md)
+- [Prelims CSAT](../papers/2017/prelims-csat.md) · [review](../reviews/2017-prelims-csat.md)
+- [Mains Essay](../papers/2017/mains-essay.md) · [review](../reviews/2017-mains-essay.md)
+- [Mains GS-I](../papers/2017/mains-gs1.md) · [review](../reviews/2017-mains-gs1.md)
+- [Mains GS-II](../papers/2017/mains-gs2.md) · [review](../reviews/2017-mains-gs2.md)
+- [Mains GS-III](../papers/2017/mains-gs3.md) · [review](../reviews/2017-mains-gs3.md)
+- [Mains GS-IV](../papers/2017/mains-gs4.md) · [review](../reviews/2017-mains-gs4.md)
+- [Philosophy Paper I](../papers/2017/philosophy-paper-1.md) · [review](../reviews/2017-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2017/philosophy-paper-2.md) · [review](../reviews/2017-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.
+
+### 2016
+
+- [Prelims GS-I](../papers/2016/prelims-gs1.md) · [review](../reviews/2016-prelims-gs1.md)
+- [Prelims CSAT](../papers/2016/prelims-csat.md) · [review](../reviews/2016-prelims-csat.md)
+- [Mains Essay](../papers/2016/mains-essay.md) · [review](../reviews/2016-mains-essay.md)
+- [Mains GS-I](../papers/2016/mains-gs1.md) · [review](../reviews/2016-mains-gs1.md)
+- [Mains GS-II](../papers/2016/mains-gs2.md) · [review](../reviews/2016-mains-gs2.md)
+- [Mains GS-III](../papers/2016/mains-gs3.md) · [review](../reviews/2016-mains-gs3.md)
+- [Mains GS-IV](../papers/2016/mains-gs4.md) · [review](../reviews/2016-mains-gs4.md)
+- [Philosophy Paper I](../papers/2016/philosophy-paper-1.md) · [review](../reviews/2016-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2016/philosophy-paper-2.md) · [review](../reviews/2016-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.
+
+### 2015
+
+- [Prelims GS-I](../papers/2015/prelims-gs1.md) · [review](../reviews/2015-prelims-gs1.md)
+- [Prelims CSAT](../papers/2015/prelims-csat.md) · [review](../reviews/2015-prelims-csat.md)
+- [Mains Essay](../papers/2015/mains-essay.md) · [review](../reviews/2015-mains-essay.md)
+- [Mains GS-I](../papers/2015/mains-gs1.md) · [review](../reviews/2015-mains-gs1.md)
+- [Mains GS-II](../papers/2015/mains-gs2.md) · [review](../reviews/2015-mains-gs2.md)
+- [Mains GS-III](../papers/2015/mains-gs3.md) · [review](../reviews/2015-mains-gs3.md)
+- [Mains GS-IV](../papers/2015/mains-gs4.md) · [review](../reviews/2015-mains-gs4.md)
+- [Philosophy Paper I](../papers/2015/philosophy-paper-1.md) · [review](../reviews/2015-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2015/philosophy-paper-2.md) · [review](../reviews/2015-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; GS-I has no dropped item and CSAT Q51 was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.
+
+### 2014
+
+- [Prelims GS-I](../papers/2014/prelims-gs1.md) · [review](../reviews/2014-prelims-gs1.md)
+- [Prelims CSAT](../papers/2014/prelims-csat.md) · [review](../reviews/2014-prelims-csat.md)
+- [Mains Essay](../papers/2014/mains-essay.md) · [review](../reviews/2014-mains-essay.md)
+- [Mains GS-I](../papers/2014/mains-gs1.md) · [review](../reviews/2014-mains-gs1.md)
+- [Mains GS-II](../papers/2014/mains-gs2.md) · [review](../reviews/2014-mains-gs2.md)
+- [Mains GS-III](../papers/2014/mains-gs3.md) · [review](../reviews/2014-mains-gs3.md)
+- [Mains GS-IV](../papers/2014/mains-gs4.md) · [review](../reviews/2014-mains-gs4.md)
+- [Philosophy Paper I](../papers/2014/philosophy-paper-1.md) · [review](../reviews/2014-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2014/philosophy-paper-2.md) · [review](../reviews/2014-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; GS-I scored all 100 items, while the CSAT final table scored 74 items with Q70-Q75 blank and nil formally dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.
+
+### 2013
+
+- [Prelims GS-I](../papers/2013/prelims-gs1.md) · [review](../reviews/2013-prelims-gs1.md)
+- [Prelims CSAT](../papers/2013/prelims-csat.md) · [review](../reviews/2013-prelims-csat.md)
+- [Mains Essay](../papers/2013/mains-essay.md) · [review](../reviews/2013-mains-essay.md)
+- [Mains GS-I](../papers/2013/mains-gs1.md) · [review](../reviews/2013-mains-gs1.md)
+- [Mains GS-II](../papers/2013/mains-gs2.md) · [review](../reviews/2013-mains-gs2.md)
+- [Mains GS-III](../papers/2013/mains-gs3.md) · [review](../reviews/2013-mains-gs3.md)
+- [Mains GS-IV](../papers/2013/mains-gs4.md) · [review](../reviews/2013-mains-gs4.md)
+- [Philosophy Paper I](../papers/2013/philosophy-paper-1.md) · [review](../reviews/2013-philosophy-paper-1.md)
+- [Philosophy Paper II](../papers/2013/philosophy-paper-2.md) · [review](../reviews/2013-philosophy-paper-2.md)
+
+- **Key/source caveat:** Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English. The inaugural Mains pattern is preserved exactly.

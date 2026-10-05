@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2024, 2025
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 1
+- **Released years represented:** 2017, 2024, 2025
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 2
 - **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Ancient ruler bearing titles Mattavilasa, Vichitrachitta, Gunabhara (Pallava); Pallava cultural contribution
+- **Subtopics represented:** Ancient ruler bearing titles Mattavilasa, Vichitrachitta, Gunabhara (Pallava); Pallava cultural contribution; Motupalli port under the Kakatiyas
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Motupalli port under the Kakatiyas
 
 ## 2024 concentration
 
@@ -41,3 +48,9 @@
 #### Mains GS-I
 
 - [Q2. Estimate the contribution of Pallavas of Kanchi for the development of art and literature of South India.](../../papers/2024/mains-gs1.md#2024-mains-gs1-q02) — Pallava cultural contribution · 10 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q51. Motupalli port under the Kakatiyas](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q051) — Motupalli port under the Kakatiyas

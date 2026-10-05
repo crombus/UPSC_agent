@@ -6,12 +6,52 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Philosophy Paper II: 8
-- **Marks represented:** 125 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Augustine · privation of good (privatio boni), free will and Fall · moral/natural evil; Process Theodicy; Dependence on the God-concept; Augustinian theodicy; Divine creation and human responsibility; Omnipotence paradox and evil; logical problem of evil · free-will defence; evil · profane · sacred · religious foundation
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 14
+- **Stable linked anchors:** 14
+- **Paper concentration:** Philosophy Paper II: 14
+- **Marks represented:** 210 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Augustine · privation of good (privatio boni), free will and Fall · moral/natural evil; Process Theodicy; Dependence on the God-concept; Augustinian theodicy; Divine creation and human responsibility; Omnipotence paradox and evil; logical problem of evil · free-will defence; evil · profane · sacred · religious foundation; non-theological evil · suffering · wrongdoing; omnipotence · moral evil · natural evil · theodicy; natural evil · creation · theodicy; logical and evidential evil · theodicy; benevolence · theodicy; natural evil · contrast theory
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** natural evil · contrast theory
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** benevolence · theodicy
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** natural evil · creation · theodicy; logical and evidential evil · theodicy
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** omnipotence · moral evil · natural evil · theodicy
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** non-theological evil · suffering · wrongdoing
 
 ## 2019 concentration
 
@@ -126,3 +166,34 @@
 #### Philosophy Paper II
 
 - [Q6(b). What role do the concepts of evil and profane play to provide a firm foundation to religion?](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q6b) — evil · profane · sacred · religious foundation · 15 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q5(b). How do you define a non-theological concept of evil? Explain.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q5b) — non-theological evil · suffering · wrongdoing · 10 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q8(a). “If God is all-powerful, God must wish to abolish all evils; but moral and natural evils are rampant in the world.” How would a theist react to this?](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q8a) — omnipotence · moral evil · natural evil · theodicy · 20 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q5(d). Is God the cause of natural evil? Explain.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q5d) — natural evil · creation · theodicy · 10 marks
+- [Q7(a). Do you think that evil is a bitter pill which no theist can easily swallow? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q7a) — logical and evidential evil · theodicy · 15 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q7(a). Is evil reconcilable with the benevolent God?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q7a) — benevolence · theodicy · 20 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q5(d). Do theists succeed in explaining the natural evil in the world as a necessary counterpart to good?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q5d) — natural evil · contrast theory · 10 marks

@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 14
-- **Stable linked anchors:** 14
-- **Paper concentration:** Philosophy Paper I: 14
-- **Marks represented:** 205 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** G. E. Moore · external-world proof · scepticism; Wittgenstein, Russell and later Tarski · metalanguage hierarchy; Russell · theory of descriptions · non-denoting expressions; G. E. Moore · refutation of idealism · act-object distinction; Moore · common-sense truisms · comparative certainty; Russell · incomplete symbols · logical constructions and atomism; Russell · theory of descriptions; Russell · logical analysis · logical atomism; early Wittgenstein · picture theory · logical form; common sense and scepticism; limits of language in the *Tractatus*; Moore’s refutation of idealism; Russell’s logical atomism; common-sense realism
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 25
+- **Stable linked anchors:** 25
+- **Paper concentration:** Philosophy Paper I: 25
+- **Marks represented:** 355.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** G. E. Moore · external-world proof · scepticism; Wittgenstein, Russell and later Tarski · metalanguage hierarchy; Russell · theory of descriptions · non-denoting expressions; G. E. Moore · refutation of idealism · act-object distinction; Moore · common-sense truisms · comparative certainty; Russell · incomplete symbols · logical constructions and atomism; Russell · theory of descriptions; Russell · logical analysis · logical atomism; early Wittgenstein · picture theory · logical form; common sense and scepticism; limits of language in the *Tractatus*; Moore’s refutation of idealism; Russell’s logical atomism; common-sense realism; early Wittgenstein · saying and showing; Russell · descriptions and logical atomism; incomplete symbols and descriptions; picture theory and transition to use; logical constructions and neutral monism; Moore’s realism; Russell’s logical constructions; logical atomism and the *Tractatus*; Moore’s common-sense realism; logical atomism and truth; common sense and ordinary propositions
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** logical atomism and truth; common sense and ordinary propositions
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** logical atomism and the *Tractatus*; Moore’s common-sense realism
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Moore’s realism; Russell’s logical constructions
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** logical constructions and neutral monism
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** incomplete symbols and descriptions; picture theory and transition to use
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** early Wittgenstein · saying and showing; Russell · descriptions and logical atomism
 
 ## 2019 concentration
 
@@ -132,3 +180,44 @@
 #### Philosophy Paper I
 
 - [Q3(c). Why is Moore’s philosophy called common-sense realism?](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q3c) — common-sense realism · 15 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q3(c). How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q3c) — early Wittgenstein · saying and showing · 15 marks
+- [Q4(c). How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q4c) — Russell · descriptions and logical atomism · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q1(c). How is the statement, “I met a man”, semantically problematic for Russell? How does he account for the meaningfulness of this statement?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1c) — incomplete symbols and descriptions · 10 marks
+- [Q2(b). What is Wittgenstein’s picture theory of meaning? What are his reasons for giving up this theory and suggesting the use theory of meaning?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q2b) — picture theory and transition to use · 15 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q3(c). Explain Russell’s view that “the physical object is a logical construction from sense-data”. Why does he call his metaphysical view ‘neutral monism’?](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q3c) — logical constructions and neutral monism · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q1(e). G.E. Moore’s refutation of idealism.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1e) — Moore’s realism · 10 marks
+- [Q3(c). What do we understand by incomplete symbols ? What role do they play in Russell’s theory of meaning ? Discuss.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q3c) — Russell’s logical constructions · 15 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q3(b). Why does Wittgenstein disagree with Bertrand Russell’s interpretation of atomism in the philosophy of Tractatus ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q3b) — logical atomism and the *Tractatus* · 15 marks
+- [Q3(c). Are G.E. Moore’s arguments in defence of common sense satisfactory ? Give reasons.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q3c) — Moore’s common-sense realism · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q2(c). Distinguish between atomic and general propositions. Show how they are justified true.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q2c) — logical atomism and truth · 12.5 marks
+- [Q4(a). Comment : ‘Moore’s defence of common sense essentially is defence of ordinary language.’](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q4a) — common sense and ordinary propositions · 12.5 marks

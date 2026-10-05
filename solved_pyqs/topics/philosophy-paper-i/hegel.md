@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2025, 2026
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Philosophy Paper I: 7
-- **Marks represented:** 85 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Hegel · Being–Nothing–Becoming · Absolute as subject; Hegel · critique of Kantian dualism · thing-in-itself; dialectic · history and freedom; dialectical method · Absolute; dialectic and Absolute idealism; Absolute idealism and the phenomenal world; dialectic and truth
+- **Released years represented:** 2013, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Philosophy Paper I: 10
+- **Marks represented:** 122.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Hegel · Being–Nothing–Becoming · Absolute as subject; Hegel · critique of Kantian dualism · thing-in-itself; dialectic · history and freedom; dialectical method · Absolute; dialectic and Absolute idealism; Absolute idealism and the phenomenal world; dialectic and truth; identity-in-difference; Absolute Spirit, history and empire; contradiction and dialectic
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** contradiction and dialectic
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Absolute Spirit, history and empire
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** identity-in-difference
 
 ## 2019 concentration
 
@@ -112,3 +136,21 @@
 #### Philosophy Paper I
 
 - [Q1(c). What is the role of dialectics in realizing the truth in Hegel’s philosophy?](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q1c) — dialectic and truth · 10 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q1(a). Elaborate Hegel’s dictum: “All identity is identity and difference.”](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1a) — identity-in-difference · 10 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q4(b). What is Hegel’s view on God? Do you think that his interpretation of God was contributive to the colonial and imperial expansionist designs? Explain.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q4b) — Absolute Spirit, history and empire · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q3(b). Comment : ‘Movement is contradiction itself.’ Examine, in this context, Hegel’s dialectical method.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q3b) — contradiction and dialectic · 12.5 marks

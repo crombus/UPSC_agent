@@ -6,12 +6,53 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Philosophy Paper I: 8
-- **Marks represented:** 110 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** 2026-philosophy-p1-q5e; special self · devotion to God · isolation/liberation; *citta-vṛtti* · misidentification · discriminative knowledge; mind-field and its modifications · cessation and isolation; meditative absorption · God; afflictions and liberation; stages of concentration and samādhi; levels of mind
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 13
+- **Stable linked anchors:** 13
+- **Paper concentration:** Philosophy Paper I: 13
+- **Marks represented:** 182.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** 2026-philosophy-p1-q5e; special self · devotion to God · isolation/liberation; *citta-vṛtti* · misidentification · discriminative knowledge; mind-field and its modifications · cessation and isolation; meditative absorption · God; afflictions and liberation; stages of concentration and samādhi; levels of mind; cessation of mental modifications; afflictions and their elimination; bondage and liberation; cognitive and seedless meditative integration; mental modifications and restraint
+- **Justified secondary-route anchors:** 4 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** mental modifications and restraint
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** cognitive and seedless meditative integration
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** bondage and liberation
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** afflictions and their elimination
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** cessation of mental modifications
 
 ## 2019 concentration
 
@@ -126,3 +167,41 @@
 #### Philosophy Paper I
 
 - [Q7(b). How would Yoga philosophy comprehend the Citta-levels of a Scientist, a God-realized Devotee and a Self-realized Yogi? Justify your answer.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q7b) — levels of mind · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q5(d). What is meant by “yogaścittavṛttinirodhaḥ”? Explain cittavṛtti and its effects according to Yoga philosophy.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q5d) — cessation of mental modifications · 10 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q8(b). What are Kleśas? How can these be eliminated? Explain.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q8b) — afflictions and their elimination · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q8(a). What is bondage according to yoga philosophy ? Explain the method of attaining *Kaivalya* in Patanjali’s *yogasutra*.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q8a) — bondage and liberation · 20 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q7(b). Explain the nature and levels of samprajñāta samādhi. How does each level lead more towards asamprajñāta samādhi ?](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q7b) — cognitive and seedless meditative integration · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q8(d). Give a critical account of the concept of cittavrtti in Yoga philosophy.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q8d) — mental modifications and restraint · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2016 · Philosophy Paper I · Q5(a). Differentiate the concept of ‘Kaivalya’ as discussed in Jaina and Yoga philosophies.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q5a) — liberation and omniscience
+- [2016 · Philosophy Paper I · Q7(a). Discuss Aurobindo’s views on ‘Evolution’ and ‘Involution’. How do they differ from traditional Yoga philosophy?](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q7a) — involution, evolution and Integral Yoga
+- [2014 · Philosophy Paper I · Q8(c). How is Sri Aurobindo’s integral yoga an advancement over Pātañjala yoga ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q8c) — Integral Yoga and Pātañjala Yoga
+- [2013 · Philosophy Paper I · Q5(d). Explain the possibility of jivanmukti. Critically compare it with the Yoga account of kaivalya.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q5d) — liberation while living

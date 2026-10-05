@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2023, 2024, 2026
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 3
+- **Released years represented:** 2017, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 4
 - **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Rigvedic irrigation, wells, draught animals, and supporting textual evidence; Vedic river names and their modern river identifications; Vedic textual origin and usage of the term kshetra-patni; Early-to-Later Vedic transition; Early Vedic baseline
+- **Subtopics represented:** Rigvedic irrigation, wells, draught animals, and supporting textual evidence; Vedic river names and their modern river identifications; Vedic textual origin and usage of the term kshetra-patni; Early-to-Later Vedic transition; Early Vedic baseline; Rigvedic Aryans and Indus Valley cultural differences
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Rigvedic Aryans and Indus Valley cultural differences
 
 ## 2023 concentration
 
@@ -57,3 +64,9 @@
 #### Mains GS-I
 
 - [Q11. What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?](../../papers/2023/mains-gs1.md#2023-mains-gs1-q11) — Early Vedic baseline · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q2. Rigvedic Aryans and Indus Valley cultural differences](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q002) — Rigvedic Aryans and Indus Valley cultural differences

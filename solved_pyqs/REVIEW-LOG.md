@@ -1,5 +1,225 @@
 # Solved PYQ Review Log
 
+## 2026-10-05 — Definitive 2013–2026 release audit
+
+- **Pass type:** Full release regeneration, source-hash verification, link/anchor audit,
+  accounting reconciliation and idempotence review.
+- **Scope:** 142 papers and reviews; 357 canonical topic pages; all generated catalogues; 54
+  historical merit question-paper slots and 11 historical final-key records.
+- **Completeness:** **5,381 answerable units / 5,565 routed anchors / 6,046 explicit anchors /
+  48,800 represented marks** reconciled exactly.
+- **Historical tier:** Six years × nine merit papers; qualifying Hindi and English correctly
+  absent and not treated as missing.
+- **Integrity:** **40,359** relative Markdown link occurrences / **7,172** unique local targets;
+  zero missing files or anchors, duplicate IDs, orphan routes or non-canonical topic slugs.
+- **Provenance:** **65/65** historical records matched local SHA-256 hashes. The 2026 keys remain
+  provisional and GS-I Q64 remains dropped (`X`).
+- **Idempotence:** Complete generation run twice; second pass changed **0** files.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — 2013 historical merit shared-release integration
+
+- **Pass type:** Canonical-route verification, bidirectional linking, inaugural-pattern count/marks
+  reconciliation, catalogue generation and mandatory post-pass review.
+- **Scope:** Nine merit papers and nine mandatory reviews for 2013; all affected canonical topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status, queue and release files.
+- **Completeness:** Reconciled **347 answerable units / 347 routed anchors / 427 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 4 Essay + 30 GS-I + 25 GS-II + 28 GS-III + 18 GS-IV + 34
+  Philosophy I + 28 Philosophy II. The extra 80 explicit CSAT anchors preserve booklet
+  transcription targets.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. Hindi and English are correctly absent.
+- **Inaugural-pattern fidelity:** Preserved the unsectioned one-of-four 250-mark Essay; GS-I's 25
+  numbered questions/30 answer-parts; GS-II's 25 × 10-mark structure; GS-III's split Q9/Q16/Q17;
+  and GS-IV's exact 18-unit theory/case-study architecture, including Q11 as one 25-mark case.
+- **Key provenance:** Both 2013 Series-A keys remain official-final, with nil dropped items.
+- **Defects found and corrected:** Expanded the generator/audit window to 2013, added exact
+  year/paper navigation and reverse links, regenerated metadata, indexes, concentration tables,
+  quality checks, audit and the exact 2013 changed-path manifest.
+- **Regression review:** All 133 previously released papers and reviews from 2014–2026 retain their
+  counts, marks, routes, key qualifications and substantive paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Fourteen-year catalogue integrity review
+
+- **Inventory:** **142 papers / 142 reviews** across the complete 2019–2026 corpus and 2013–2018
+  historical merit tiers.
+- **Accounting:** **5,381 answerable units, 5,565 routed anchors, 6,046 explicit anchors, 357
+  canonical topics, 48,800 represented marks and 5,565 exact primary reverse links**.
+- **Markdown integrity:** **40,358** relative link occurrences and **7,171** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **142/142** year × paper-family spot checks PASS; topic pages retain metadata and
+  links only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
+## 2026-10-05 — 2014 historical merit shared-release integration
+
+- **Pass type:** Canonical-route verification, bidirectional linking, exact count/marks
+  reconciliation, catalogue generation and mandatory post-pass review.
+- **Scope:** Nine merit papers and nine mandatory reviews for 2014; all affected canonical topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status, queue and release files.
+- **Completeness:** Reconciled **328 answerable units / 328 routed anchors / 408 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 8 Essay + 25 GS-I + 20 each in GS-II/III + 19 GS-IV units + 28
+  parts in each Philosophy paper. The extra 80 explicit CSAT anchors preserve booklet transcription.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. Hindi and English are correctly absent.
+- **Key provenance:** Both 2014 Series-A keys remain official-final. GS-I scores all 100 items.
+  The CSAT final table scores 74, leaves Q70-Q75 blank and records nil formally dropped.
+- **Defects found and corrected:** Expanded the generator/audit window to 2014, preserved the
+  25-question GS-I structure, generated exact reverse links and year/paper navigation, and rebuilt
+  metadata, indexes, concentration tables, quality checks and the exact 2014 changed-path manifest.
+- **Regression review:** All 124 previously released papers and reviews from 2015–2026 retain their
+  counts, marks, routes, key qualifications and substantive paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Thirteen-year catalogue integrity review
+
+- **Inventory:** **133 papers / 133 reviews** across the complete 2019–2026 corpus and 2014–2018
+  historical merit tiers.
+- **Accounting:** **5,034 answerable units, 5,218 routed anchors, 5,619 explicit anchors, 357
+  canonical topics, 46,000 represented marks and 5,218 exact primary reverse links**.
+- **Markdown integrity:** **37,758** relative link occurrences and **6,720** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **133/133** year × paper-family spot checks PASS; topic pages retain metadata and
+  links only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
+## 2026-10-05 — 2015 historical merit shared-release integration
+
+- **Pass type:** Canonical-route verification, bidirectional linking, exact count/marks
+  reconciliation, catalogue generation and mandatory post-pass review.
+- **Scope:** Nine merit papers and nine mandatory reviews for 2015; all affected canonical topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status, queue and release files.
+- **Completeness:** Reconciled **322 answerable units / 322 routed anchors / 402 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 8 Essay + 20 each in GS-I/II/III + 18 GS-IV units + 28 parts in
+  each Philosophy paper. The extra 80 explicit CSAT anchors preserve booklet-transcription targets.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. The 12½ marks attached to every 2015 GS-I/II/III question are preserved in metadata.
+- **Key provenance:** Both 2015 Series-A keys remain labelled official-final; GS-I has nil dropped
+  items and CSAT Q51 remains dropped exactly as the Commission final key records.
+- **Defects found and corrected:** Expanded the generator/audit window to 2015; generated exact
+  reverse links and year/paper navigation; regenerated all metadata, indexes, concentration tables,
+  quality checks and the exact 2015 changed-path manifest.
+- **Regression review:** All 115 previously released papers and reviews from 2016–2026 retain their
+  counts, marks, routes, key qualifications and substantive paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Twelve-year catalogue integrity review
+
+- **Inventory:** **124 papers / 124 reviews** across the complete 2019–2026 corpus and 2015–2018
+  historical merit tiers.
+- **Accounting:** **4,706 answerable units, 4,890 routed anchors, 5,211 explicit anchors, 357
+  canonical topics, 43,200 represented marks and 4,890 exact primary reverse links**.
+- **Markdown integrity:** **35,291** relative link occurrences and **6,278** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **124/124** year × paper-family spot checks PASS; topic pages retain metadata and
+  links only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
+## 2026-10-05 — 2016 historical merit shared-release integration
+
+- **Pass type:** Canonical-route verification, bidirectional linking, exact count/marks
+  reconciliation, catalogue generation and mandatory post-pass review.
+- **Scope:** Nine merit papers and nine mandatory reviews for 2016; all affected canonical topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status, queue and release files.
+- **Completeness:** Reconciled **322 answerable units / 322 routed anchors / 402 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 8 Essay + 20 each in GS-I/II/III + 18 GS-IV units + 28 parts in
+  each Philosophy paper. The extra 80 explicit CSAT anchors preserve booklet-transcription targets.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. The 12½ marks attached to every 2016 GS-I/II/III question are preserved in metadata.
+- **Key provenance:** Both 2016 Prelims/CSAT Series-A keys remain labelled official-final; no item
+  was dropped.
+- **Defects found and corrected:** Expanded the generator/audit window to 2016; added exact reverse
+  links and year/paper navigation; taught marks extraction to retain 12½-mark units; regenerated
+  all metadata, indexes, concentration tables, quality checks and manifests.
+- **Regression review:** All 106 previously released papers and reviews from 2017–2026 retain their
+  counts, marks, routes, key qualifications and substantive paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Eleven-year catalogue integrity review
+
+- **Inventory:** **115 papers / 115 reviews** across the complete 2019–2026 corpus and 2016–2018
+  historical merit tiers.
+- **Accounting:** **4,384 answerable units, 4,568 routed anchors, 4,809 explicit anchors, 357
+  canonical topics, 40,400 represented marks and 4,568 exact primary reverse links**.
+- **Markdown integrity:** **32,878** relative link occurrences and **5,843** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **115/115** year × paper-family spot checks PASS; topic pages retain metadata and
+  links only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
+## 2026-10-05 — 2017 historical merit shared-release integration
+
+- **Pass type:** Canonical-route normalisation, bidirectional linking, count/marks reconciliation,
+  catalogue generation and mandatory post-pass review.
+- **Scope:** Exactly nine merit papers and nine reviews under the 2017 scope; all affected topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status and queue files.
+- **Completeness:** Reconciled **323 answerable units / 323 routed anchors / 403 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 8 Essay + 20 each in GS-I/II/III + 19 GS-IV units + 28 parts in
+  each Philosophy paper. The extra 80 explicit CSAT anchors preserve booklet-transcription targets.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. Hindi and English are correctly absent from this historical merit tier.
+- **Key provenance:** Both 2017 Prelims/CSAT Series-A keys remain labelled official-final; no item
+  was dropped.
+- **Defects found and corrected:** Replaced the residual GS-I knowledge-owner route with the
+  canonical decolonization topic route; added exact reverse links; expanded the generator and audit
+  to cover both historical years; corrected labelled split-mark parsing for GS-III Q12.
+- **Regression review:** All 97 previously released papers and reviews from 2018–2026 retain their
+  counts, marks, key qualifications and paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Ten-year catalogue integrity review
+
+- **Inventory:** **106 papers / 106 reviews** across the complete 2019–2026 corpus and 2017–2018
+  historical merit tiers.
+- **Accounting:** **4,062 answerable units, 4,246 routed anchors, 4,407 explicit anchors, 357
+  canonical topics, 37,600 represented marks and 4,246 exact primary reverse links**.
+- **Markdown integrity:** **30,475** relative link occurrences and **5,406** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **106/106** year × paper-family spot checks PASS; topic pages retain metadata and
+  links only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
+## 2026-10-05 — 2018 historical merit shared-release integration
+
+- **Pass type:** Canonical-route normalisation, bidirectional linking, count/marks reconciliation,
+  catalogue generation and mandatory post-pass review.
+- **Scope:** Exactly nine merit papers and nine reviews under the 2018 scope; all affected topic
+  pages, indexes, concentration analysis, corpus metadata/audit, status and queue files.
+- **Completeness:** Reconciled **323 answerable units / 323 routed anchors / 403 explicit anchors**:
+  100 Prelims GS-I + 80 CSAT + 8 Essay + 20 each in GS-I/II/III + 19 GS-IV units + 28 parts in
+  each Philosophy paper. The extra 80 explicit CSAT anchors preserve booklet-transcription targets.
+- **Marks:** **2,800 represented marks**: Essay 1,000; GS-I to GS-IV 250 each; Philosophy I and II
+  400 each. Hindi and English are correctly absent from this historical merit tier.
+- **Key provenance:** Both 2018 Prelims/CSAT Series-A keys remain labelled official-final; no item
+  was dropped. The held booklet/key source labels and hashes remain paper-specific.
+- **Defects found and corrected:** Converted residual owner/plain-text routes to canonical topic
+  links; added missing GS-IV per-question backlinks; added exact reverse topic links; introduced
+  only three defensible missing canonical topics; taught the generator the nine-paper historical
+  tier, 2018 GS-IV structure and CSAT transcription-anchor exception.
+- **Regression review:** All 88 papers and reviews from 2019–2026 retain their counts, marks, key
+  qualifications and paper content.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 — Nine-year catalogue integrity review
+
+- **Inventory:** **97 papers / 97 reviews** across the complete 2019–2026 corpus and 2018 historical
+  merit tier.
+- **Accounting:** **3,739 answerable units, 3,923 routed anchors, 4,004 explicit anchors, 356
+  canonical topics, 34,800 represented marks and 3,923 exact primary reverse links**.
+- **Markdown integrity:** **28,093** relative link occurrences and **4,964** unique local targets;
+  zero missing files and zero missing anchors.
+- **Quality:** **97/97** year × paper-family spot checks PASS; topic pages retain metadata and links
+  only, with no duplicated full solutions.
+- **Reviewer conclusion:** **PASS — no material integration or regression defect remains**
+
 ## 2026-10-05 — Final 2019 shared-release integration
 
 - **Pass type:** Classification, canonical-route normalisation, bidirectional linking, count

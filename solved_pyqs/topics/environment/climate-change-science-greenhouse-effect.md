@@ -6,13 +6,42 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2023, 2025
-- **Solved answerable questions/parts:** 10
-- **Stable linked anchors:** 10
-- **Paper concentration:** Mains GS-I: 2; Mains GS-III: 2; Prelims GS-I: 6
-- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Cement-industry carbon emissions; limestone and clinker; India's CO2 emissions per capita and largest sources; Sea-level rise and island vulnerability; Food-system impacts; IPCC Sea-level Risk; Crops as anthropogenic sources of methane and nitrous oxide; System of Rice Intensification methane reduction and inputs; Warming impacts; Geoengineering techniques to counter global warming effects; Methane hydrate deposits characteristics and climate linkage
+- **Released years represented:** 2014, 2016, 2017, 2018, 2019, 2022, 2023, 2025
+- **Solved answerable questions/parts:** 18
+- **Stable linked anchors:** 18
+- **Paper concentration:** Mains GS-I: 2; Mains GS-III: 3; Prelims GS-I: 13
+- **Marks represented:** 65 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Cement-industry carbon emissions; limestone and clinker; India's CO2 emissions per capita and largest sources; Sea-level rise and island vulnerability; Food-system impacts; IPCC Sea-level Risk; Crops as anthropogenic sources of methane and nitrous oxide; System of Rice Intensification methane reduction and inputs; Warming impacts; Geoengineering techniques to counter global warming effects; Methane hydrate deposits characteristics and climate linkage; Carbon fertilization effect on plant growth and atmosphere; Potential sites for carbon sequestration; Global Climate Change Alliance; Climate and Clean Air Coalition; India’s climate vulnerability; Greenhouse Gas Protocol; The scientific view is that the increase in global temperature should not exceed 2 °C above...; the following statements regarding 'Earth Hour':
 - **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** The scientific view is that the increase in global temperature should not exceed 2 °C above...; the following statements regarding 'Earth Hour':
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Greenhouse Gas Protocol
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 3
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Potential sites for carbon sequestration; Global Climate Change Alliance; Climate and Clean Air Coalition; India’s climate vulnerability
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Carbon fertilization effect on plant growth and atmosphere
 
 ## 2019 concentration
 
@@ -85,6 +114,37 @@
 
 - [Q25. Geoengineering techniques to counter global warming effects](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q25) — Geoengineering techniques to counter global warming effects
 - [Q34. Methane hydrate deposits characteristics and climate linkage](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q34) — Methane hydrate deposits characteristics and climate linkage
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q65. Carbon fertilization effect on plant growth and atmosphere](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q65) — Carbon fertilization effect on plant growth and atmosphere
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q25. Potential sites for carbon sequestration](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q025) — Potential sites for carbon sequestration
+- [Q52. Global Climate Change Alliance](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q052) — Global Climate Change Alliance
+- [Q65. Climate and Clean Air Coalition](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q065) — Climate and Clean Air Coalition
+
+#### Mains GS-III
+
+- [Q17. Climate-change impacts on India, the Himalayas and coasts](../../papers/2017/mains-gs3.md#2017-mains-gs3-q17) — India’s climate vulnerability · 15 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q55. Greenhouse Gas Protocol](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q055) — Greenhouse Gas Protocol
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q53. The scientific view is that the increase in global temperature should not exceed 2 °C above...](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q053) — The scientific view is that the increase in global temperature should not exceed 2 °C above...
+- [Q79. the following statements regarding 'Earth Hour':](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q079) — the following statements regarding 'Earth Hour':
 
 ## Secondary-routed PYQs
 

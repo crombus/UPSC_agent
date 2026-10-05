@@ -10,6 +10,7 @@
 
 ## Section A
 
+
 <a id="2018-philosophy-p1-q1a"></a>
 ### Q1(a). Are the two truths—'The Sun will rise tomorrow' and '2+2=4' of the same necessity for Hume? Give reasons in favour of your answer.
 **Primary route:** Philosophy Paper I → [Empiricism](../../topics/philosophy-paper-i/empiricism.md) → Hume · relations of ideas and matters of fact · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -36,6 +37,7 @@ The prediction depends on the principle that nature will remain uniform. That pr
 **Why this earns marks:** It states Hume’s fork, the conceivability test and the problem of induction.
 
 ---
+
 
 <a id="2018-philosophy-p1-q1b"></a>
 ### Q1(b). Is there any place for freedom in Leibniz's philosophy, when he speaks of 'pre-established harmony'? Discuss.
@@ -64,6 +66,7 @@ An act is free when it has spontaneity, intelligence and contingency. It proceed
 
 ---
 
+
 <a id="2018-philosophy-p1-q1c"></a>
 ### Q1(c). How does the notion of 'family resemblance' help Wittgenstein to uphold that 'Language is a game'? Discuss.
 **Primary route:** Philosophy Paper I → [Later Wittgenstein](../../topics/philosophy-paper-i/later-wittgenstein.md) → language-games and family resemblance · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -90,6 +93,7 @@ The analogy also explains flexibility. Rules guide moves but need not predetermi
 **Why this earns marks:** It connects overlapping similarity, rule-following, use and forms of life.
 
 ---
+
 
 <a id="2018-philosophy-p1-q1d"></a>
 ### Q1(d). How does Sartre connect inauthenticity with bad faith? Why does Sartre show that inauthenticity and bad faith lead to alienation? Discuss.
@@ -118,6 +122,7 @@ This flight produces alienation. Self-objectification makes one’s role, past o
 
 ---
 
+
 <a id="2018-philosophy-p1-q1e"></a>
 ### Q1(e). How does Strawson explain the concept of person in his philosophy? Discuss.
 **Primary route:** Philosophy Paper I → [Quine–Strawson](../../topics/philosophy-paper-i/quine-strawson.md) → Strawson · person as a primitive particular · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -144,6 +149,7 @@ Persons are basic particulars in our identifying framework because they are publ
 **Why this earns marks:** It explains primitive personhood, M/P predicates, identification and other minds.
 
 ---
+
 
 <a id="2018-philosophy-p1-q2a"></a>
 ### Q2(a). What is the reason for the difference in the definitions and classifications of substances made by Descartes, Spinoza and Leibniz in spite of the fact that they all belonged to the rationalist school of thought? Discuss.
@@ -176,6 +182,7 @@ Thus Descartes relaxes independence for created kinds; Spinoza insists on absolu
 
 ---
 
+
 <a id="2018-philosophy-p1-q2b"></a>
 ### Q2(b). Explain the significance of the Kantian dictum, 'Understanding makes Nature'. How far do you agree that Hegel's Absolutism is the culmination of the Kantian Dualism? Discuss. Give reasons in favour of your answer.
 **Primary route:** Philosophy Paper I → [Kant](../../topics/philosophy-paper-i/kant.md) → transcendental idealism and Hegelian culmination · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -205,6 +212,7 @@ Hegel is therefore a culmination insofar as he universalises Kant’s constituti
 
 ---
 
+
 <a id="2018-philosophy-p1-q2c"></a>
 ### Q2(c). How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.
 **Primary route:** Philosophy Paper I → [Quine–Strawson](../../topics/philosophy-paper-i/quine-strawson.md) → Quine · rejection of the a priori · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -231,6 +239,7 @@ Quine also rejects statement-by-statement reductionism. Experience tests the cor
 **Why this earns marks:** It distinguishes Kant’s thesis from Quine’s direct target and joins the circularity argument to confirmation holism.
 
 ---
+
 
 <a id="2018-philosophy-p1-q3a"></a>
 ### Q3(a). How does Berkeley establish that Mind and its ideas alone are real? How do Moore and Russell react to Berkeley's view in this regard? Do you find any difference between Moore's reaction and Russell's one? Discuss.
@@ -263,6 +272,7 @@ Quine also rejects statement-by-statement reductionism. Experience tests the cor
 
 ---
 
+
 <a id="2018-philosophy-p1-q3b"></a>
 ### Q3(b). How do the logical positivists show that metaphysical sentences are meaningless? Can their verification theory of meaning account for the meaningfulness of all scientific sentences? Discuss.
 **Primary route:** Philosophy Paper I → [Logical Positivism](../../topics/philosophy-paper-i/logical-positivism.md) → verification and rejection of metaphysics · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -290,6 +300,7 @@ Strict verification creates difficulties. No finite observations conclusively ve
 
 ---
 
+
 <a id="2018-philosophy-p1-q3c"></a>
 ### Q3(c). How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer.
 **Primary route:** Philosophy Paper I → [Moore–Russell–Early Wittgenstein](../../topics/philosophy-paper-i/moore-russell-early-wittgenstein.md) → early Wittgenstein · saying and showing · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -316,6 +327,7 @@ The same limit governs the “decisive problems.” The metaphysical subject is 
 **Why this earns marks:** It connects picture theory, logical form, ethics, the mystical, clarification, silence and the self-referential objection.
 
 ---
+
 
 <a id="2018-philosophy-p1-q4a"></a>
 ### Q4(a). What is 'Epoché'? How does Heidegger reject this method of phenomenological reduction? Explain Heidegger's concept of 'being in the world' as opposed to the concept of a transcendental ego.
@@ -348,6 +360,7 @@ By contrast, the transcendental ego appears as the constituting pole left after 
 
 ---
 
+
 <a id="2018-philosophy-p1-q4b"></a>
 ### Q4(b). Is the relation between the Idea and the World as discussed by Plato logically consistent? Discuss Aristotle's views regarding this and also give arguments in favour of your answer.
 **Primary route:** Philosophy Paper I → [Plato–Aristotle](../../topics/philosophy-paper-i/plato-aristotle.md) → Forms, participation and Aristotle’s criticism · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -376,6 +389,7 @@ Aristotle therefore argues that universals do not exist as separately numbered s
 **Why this earns marks:** It analyses participation, Third Man and causal separation, then evaluates Aristotle’s hylomorphic remedy.
 
 ---
+
 
 <a id="2018-philosophy-p1-q4c"></a>
 ### Q4(c). How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer.
@@ -412,6 +426,7 @@ This supports logical atomism in three ways. First, it distinguishes surface gra
 
 ## Section B
 
+
 <a id="2018-philosophy-p1-q5a"></a>
 ### Q5(a). How do the Vaiśeṣika philosophers explain the difference of the relationships in the two cases—(i) the brown colour of the table and (ii) the book on the table? Discuss.
 **Primary route:** Philosophy Paper I → [Nyāya–Vaiśeṣika](../../topics/philosophy-paper-i/nyaya-vaisesika.md) → inherence and conjunction · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -438,6 +453,7 @@ The book and table, however, are independently existing substances. Their contac
 **Why this earns marks:** It identifies both categories, their relata, separability and the regress objection.
 
 ---
+
 
 <a id="2018-philosophy-p1-q5b"></a>
 ### Q5(b). How do the Mādhyamika Buddhists apply the notion of Pratītyasamutpāda to establish their doctrine of Śūnyatā? Discuss.
@@ -466,6 +482,7 @@ Emptiness is not another absolute substance. It too is empty: it names the absen
 
 ---
 
+
 <a id="2018-philosophy-p1-q5c"></a>
 ### Q5(c). What is the difference between the indescribability (Anirvacanīyatā) of Brahman and the indescribability (Anirvacanīyatā) of Māyā in the Advaita Vedānta system? Discuss.
 **Primary route:** Philosophy Paper I → [Vedānta](../../topics/philosophy-paper-i/vedanta.md) → Advaita · Brahman and Māyā · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -493,6 +510,7 @@ Māyā is empirically experienced as the world-order and has practical efficacy,
 
 ---
 
+
 <a id="2018-philosophy-p1-q5d"></a>
 ### Q5(d). How do the Buddhists and the Nyāya philosophers explain our knowledge of 'the absence of the jar on the table'? Answer in detail.
 **Primary route:** Philosophy Paper I → [Nyāya–Vaiśeṣika](../../topics/philosophy-paper-i/nyaya-vaisesika.md) → cognition of absence · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -519,6 +537,7 @@ Buddhist nominalists reject a separate negative entity enduring in a locus. Dign
 **Why this earns marks:** It states the rival ontologies and their exact epistemic mechanisms.
 
 ---
+
 
 <a id="2018-philosophy-p1-q5e"></a>
 ### Q5(e). Is Puruṣa one or many? Explain the Sāṃkhya position in this regard and give arguments in support of your answer.
@@ -550,6 +569,7 @@ Mind, ego and intellect are evolutes of primordial nature (*prakṛti*), not con
 **Why this earns marks:** It gives the classical proofs, mind/consciousness distinction and principal objection.
 
 ---
+
 
 <a id="2018-philosophy-p1-q6a"></a>
 ### Q6(a). How do the Naiyāyikas prove the existence of God? Do the Yoga philosophers prove God in the same way? If yes, how? And if no, why? Give reasons for your answer.
@@ -589,6 +609,7 @@ Yoga may use inference from gradation—limited knowledge suggests unsurpassed o
 
 ---
 
+
 <a id="2018-philosophy-p1-q6b"></a>
 ### Q6(b). Is it consistent for the Buddhists to admit the theory of Nairātmyavāda and the doctrine of Nirvāṇa simultaneously? Give reasons in favour of your answer.
 **Primary route:** Philosophy Paper I → [Buddhism](../../topics/philosophy-paper-i/buddhism.md) → no-self and nirvāṇa · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -618,6 +639,7 @@ Madhyamaka deepens the reply: both person and nirvāṇa are empty of intrinsic 
 
 ---
 
+
 <a id="2018-philosophy-p1-q6c"></a>
 ### Q6(c). How do the Jaina philosophers explain 'bondage'? What, according to them, is the distinction between 'liberated soul' and 'bound soul'? What do the Jainas think about the condition of the 'liberated soul'? Discuss.
 **Primary route:** Philosophy Paper I → [Jainism](../../topics/philosophy-paper-i/jainism.md) → bondage and liberation · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -646,6 +668,7 @@ A **liberated soul** has destroyed all ghātiyā and aghātiyā karmas. It is di
 **Why this earns marks:** It covers bondage’s mechanism, its causes, the liberation process and the exact condition of the *siddha*.
 
 ---
+
 
 <a id="2018-philosophy-p1-q7a"></a>
 ### Q7(a). Give a comparative exposition of the concept of Mokṣa as found in the systems of Viśiṣṭādvaita, Dvaita, Śuddhādvaita and Acintyabhedābheda.
@@ -681,6 +704,7 @@ A **liberated soul** has destroyed all ghātiyā and aghātiyā karmas. It is di
 
 ---
 
+
 <a id="2018-philosophy-p1-q7b"></a>
 ### Q7(b). How do the Advaita Vedāntins react to the Prakṛtipariṇāmavāda of the Sāṃkhya philosophy? How do the Sāṃkhyas defend their own position in this regard? Discuss.
 **Primary route:** Philosophy Paper I → [Sāṃkhya](../../topics/philosophy-paper-i/samkhya.md) → transformation of primordial nature and Advaita criticism · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -709,6 +733,7 @@ Sāṃkhya’s effect-pre-existence theory (*satkāryavāda*) holds that the eff
 **Why this earns marks:** It reconstructs both sides through *satkāryavāda*, the three qualities, purposiveness, non-duality, *pariṇāma* and *vivarta*.
 
 ---
+
 
 <a id="2018-philosophy-p1-q7c"></a>
 ### Q7(c). How does Rāmānuja refute the doctrine of Māyā as propounded by Śaṅkara? Why is Māyā needed by both Rāmānuja and Śaṅkara to establish their doctrines? Discuss.
@@ -749,6 +774,7 @@ Why, then, “needed by both”? For Śaṅkara, Māyā reconciles experienced p
 
 ---
 
+
 <a id="2018-philosophy-p1-q8a"></a>
 ### Q8(a). Does the admission of Svayaṃprakāśavāda necessarily lead to the admission of Svataḥprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāṃsakas and the Advaita Vedāntins.
 **Primary route:** Philosophy Paper I → [Mīmāṃsā](../../topics/philosophy-paper-i/mimamsa.md) → self-luminosity and intrinsic validity · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -780,6 +806,7 @@ Why, then, “needed by both”? For Śaṅkara, Māyā reconciles experienced p
 
 ---
 
+
 <a id="2018-philosophy-p1-q8b"></a>
 ### Q8(b). Is Cārvāka rejection of inference acceptable to the other systems of Indian philosophy? If not, why? Do you think the views of other systems to be justified? Give reasons for your answer.
 **Primary route:** Philosophy Paper I → [Cārvāka](../../topics/philosophy-paper-i/carvaka.md) → critique and defence of inference · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -808,6 +835,7 @@ The rivals are right that finite cognition can be rationally warranted without i
 **Why this earns marks:** It fairly states the *vyāpti/upādhi* challenge, rival mechanisms and a qualified independent judgement.
 
 ---
+
 
 <a id="2018-philosophy-p1-q8c"></a>
 ### Q8(c). What is Evolution according to Sri Aurobindo? Describe the process of triple transformation and the nature of gnostic being in his philosophy.

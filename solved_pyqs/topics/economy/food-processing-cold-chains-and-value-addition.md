@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 1
-- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Industry scope and significance; Palm oil origin uses and biodiesel production; Farmer income; Government policy
+- **Released years represented:** 2013, 2015, 2017, 2019, 2020, 2021, 2022
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-III: 5; Prelims GS-I: 2
+- **Marks represented:** 55 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Industry scope and significance; Palm oil origin uses and biodiesel production; Farmer income; Government policy; Decentralised processing; Marketing and supply-chain bottlenecks; With reference to the usefulness of the by-products of sugar industry, which of the following statemen...
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** With reference to the usefulness of the by-products of sugar industry, which of the following statemen...
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Marketing and supply-chain bottlenecks
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Decentralised processing
 
 ## 2019 concentration
 
@@ -69,3 +93,27 @@
 #### Mains GS-III
 
 - [Q14. Policy for food-processing challenges](../../papers/2019/mains-gs3.md#2019-mains-gs3-q14) — Government policy · 15 marks
+
+### 2017
+
+#### Mains GS-III
+
+- [Q5. Small food-processing units and poor farmers](../../papers/2017/mains-gs3.md#2017-mains-gs3-q05) — Decentralised processing · 10 marks
+
+### 2015
+
+#### Mains GS-III
+
+- [Q6. Food-processing supply chains and e-commerce](../../papers/2015/mains-gs3.md#2015-mains-gs3-q06) — Marketing and supply-chain bottlenecks · 10 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q13. With reference to the usefulness of the by-products of sugar industry, which of the following statemen...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q013) — With reference to the usefulness of the by-products of sugar industry, which of the following statemen...
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2017 · Mains GS-III · Q15. Subsidies, crop choice and small farmers](../../papers/2017/mains-gs3.md#2017-mains-gs3-q15) — Production incentives and distortions
+- [2013 · Mains GS-III · Q6. Pink revolution, nutrition and health](../../papers/2013/mains-gs3.md#2013-mains-gs3-q06) — Meat and poultry value chains

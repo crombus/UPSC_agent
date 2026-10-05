@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 14
-- **Stable linked anchors:** 14
-- **Paper concentration:** Mains GS-III: 9; Prelims GS-I: 5
-- **Marks represented:** 110 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Green Revolution and Diversification; Land reforms; Land Ceilings; Diversification and Demand; Least water-efficient crop among major agricultural crops; Agrarian equity; Diversification; Public investment categories in Indian agriculture sector; Pulse production black gram green gram kharif rabi; Science-based agricultural change; Rice-wheat system; Land reforms legislation in post-independence India; Kharif crop cultivation area statistics in India; Agricultural transformation
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 24
+- **Stable linked anchors:** 24
+- **Paper concentration:** Mains GS-III: 17; Prelims GS-I: 7
+- **Marks represented:** 205.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Green Revolution and Diversification; Land reforms; Land Ceilings; Diversification and Demand; Least water-efficient crop among major agricultural crops; Agrarian equity; Diversification; Public investment categories in Indian agriculture sector; Pulse production black gram green gram kharif rabi; Science-based agricultural change; Rice-wheat system; Land reforms legislation in post-independence India; Kharif crop cultivation area statistics in India; Agricultural transformation; NSSO 70th Round Agricultural Household Survey data; Organic farming NPOP APEDA and Sikkim first organic state; Crop incentives and millet revival; Post-independence agricultural transformation; Rice–wheat system sustainability; Biological crop interactions; Agrarian reform; Tenancy and operational consolidation; Land acquisition and agrarian rights; Agrarian structure
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Agrarian structure
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Land acquisition and agrarian rights
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Tenancy and operational consolidation
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-III: 2
+- **Marks represented:** 25.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Biological crop interactions; Agrarian reform
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-III: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Post-independence agricultural transformation; Rice–wheat system sustainability
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 2
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** NSSO 70th Round Agricultural Household Survey data; Organic farming NPOP APEDA and Sikkim first organic state; Crop incentives and millet revival
 
 ## 2019 concentration
 
@@ -115,3 +163,46 @@
 #### Mains GS-III
 
 - [Q5. Visvesvaraya and Swaminathan](../../papers/2019/mains-gs3.md#2019-mains-gs3-q05) — Agricultural transformation · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q3. NSSO 70th Round Agricultural Household Survey data](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q03) — NSSO 70th Round Agricultural Household Survey data
+- [Q100. Organic farming NPOP APEDA and Sikkim first organic state](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q100) — Organic farming NPOP APEDA and Sikkim first organic state
+
+#### Mains GS-III
+
+- [Q14. Cropping-pattern changes and millets](../../papers/2018/mains-gs3.md#2018-mains-gs3-q14) — Crop incentives and millet revival · 15 marks
+
+### 2017
+
+#### Mains GS-III
+
+- [Q4. Agricultural revolutions, poverty and food security](../../papers/2017/mains-gs3.md#2017-mains-gs3-q04) — Post-independence agricultural transformation · 10 marks
+- [Q14. Declining rice–wheat yield and crop diversification](../../papers/2017/mains-gs3.md#2017-mains-gs3-q14) — Rice–wheat system sustainability · 15 marks
+
+### 2016
+
+#### Mains GS-III
+
+- [Q8. Allelopathy in irrigated cropping systems](../../papers/2016/mains-gs3.md#2016-mains-gs3-q08) — Biological crop interactions · 12.5 marks
+- [Q9. Land reforms and agricultural development](../../papers/2016/mains-gs3.md#2016-mains-gs3-q09) — Agrarian reform · 12.5 marks
+
+### 2015
+
+#### Mains GS-III
+
+- [Q3. Contract farming and land leasing](../../papers/2015/mains-gs3.md#2015-mains-gs3-q03) — Tenancy and operational consolidation · 10 marks
+
+### 2014
+
+#### Mains GS-III
+
+- [Q5. Land acquisition, rehabilitation and development](../../papers/2014/mains-gs3.md#2014-mains-gs3-q05) — Land acquisition and agrarian rights · 10 marks
+
+### 2013
+
+#### Mains GS-III
+
+- [Q8. Land reform, productivity and poverty](../../papers/2013/mains-gs3.md#2013-mains-gs3-q08) — Agrarian structure · 10 marks

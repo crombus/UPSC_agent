@@ -6,12 +6,26 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Mains GS-II: 4; Prelims GS-I: 3
+- **Released years represented:** 2016, 2017, 2020, 2021, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-II: 4; Prelims GS-I: 5
 - **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Revamped Rashtriya Gram Swaraj Abhiyan objectives, duration, and funding; Service delivery and rural–urban transition; Urban decentralisation; India Sanitation Coalition and National Institute of Urban Affairs; Grassroots decentralisation; Right to the City concept and UN-Habitat; Institutional functionality
+- **Subtopics represented:** Revamped Rashtriya Gram Swaraj Abhiyan objectives, duration, and funding; Service delivery and rural–urban transition; Urban decentralisation; India Sanitation Coalition and National Institute of Urban Affairs; Grassroots decentralisation; Right to the City concept and UN-Habitat; Institutional functionality; Local self-government as democratic decentralisation; Gram Nyayalayas
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Gram Nyayalayas
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Local self-government as democratic decentralisation
 
 ## 2020 concentration
 
@@ -100,3 +114,15 @@
 #### Mains GS-II
 
 - [Q13. The strength and sustenance of local institutions in India has shifted from their formative phase of ‘Functions, Functionaries and Funds’ to the contemporary stage of ‘Functionality’. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times.](../../papers/2020/mains-gs2.md#2020-mains-gs2-q13) — Institutional functionality · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q16. Local self-government as democratic decentralisation](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q016) — Local self-government as democratic decentralisation
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q40. Gram Nyayalayas](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q040) — Gram Nyayalayas

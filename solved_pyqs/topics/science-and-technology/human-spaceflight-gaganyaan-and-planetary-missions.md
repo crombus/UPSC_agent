@@ -6,12 +6,41 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Mains GS-III: 4; Prelims GS-I: 3
-- **Marks represented:** 55 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Space missions supporting microgravity research (Axiom-4, SpaDeX, Gaganyaan); Radioisotope thermoelectric generators (RTGs); Planetary defence; Lunar Missions; Space observatories; LISA spacecraft trio formation gravitational wave experiment; Indian space station
+- **Released years represented:** 2014, 2015, 2016, 2017, 2019, 2020, 2022, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 11
+- **Stable linked anchors:** 11
+- **Paper concentration:** Mains GS-III: 5; Prelims GS-I: 6
+- **Marks represented:** 65 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Space missions supporting microgravity research (Axiom-4, SpaDeX, Gaganyaan); Radioisotope thermoelectric generators (RTGs); Planetary defence; Lunar Missions; Space observatories; LISA spacecraft trio formation gravitational wave experiment; Indian space station; Human-spaceflight capability; Mangalyaan; Goldilocks Zone' is often seen in the news in the context of; Which of the following pair is/are correctly matched?
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Which of the following pair is/are correctly matched?
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Goldilocks Zone' is often seen in the news in the context of
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Mangalyaan
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Human-spaceflight capability
 
 ## 2019 concentration
 
@@ -100,3 +129,27 @@
 #### Mains GS-III
 
 - [Q6. India's proposed space station](../../papers/2019/mains-gs3.md#2019-mains-gs3-q06) — Indian space station · 10 marks
+
+### 2017
+
+#### Mains GS-III
+
+- [Q7. Obstacles to a manned space mission](../../papers/2017/mains-gs3.md#2017-mains-gs3-q07) — Human-spaceflight capability · 10 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q91. Mangalyaan](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q091) — Mangalyaan
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q45. Goldilocks Zone' is often seen in the news in the context of](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q045) — Goldilocks Zone' is often seen in the news in the context of
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q68. Which of the following pair is/are correctly matched?](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q068) — Which of the following pair is/are correctly matched?

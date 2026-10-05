@@ -6,12 +6,52 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Philosophy Paper I: 7
-- **Marks represented:** 100 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Wittgenstein · ideational theory of meaning · normativity; Wittgenstein · picture theory to meaning-as-use; private-language argument · rule-following; picture theory to meaning-as-use; language-games · form of life; private-language argument; solipsism and private language
+- **Released years represented:** 2013, 2014, 2015, 2016, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 12
+- **Stable linked anchors:** 12
+- **Paper concentration:** Philosophy Paper I: 12
+- **Marks represented:** 160 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Wittgenstein · ideational theory of meaning · normativity; Wittgenstein · picture theory to meaning-as-use; private-language argument · rule-following; picture theory to meaning-as-use; language-games · form of life; private-language argument; solipsism and private language; language-games and family resemblance; language-games and forms of life; language-games and meaning-as-use
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** private-language argument
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** language-games and meaning-as-use
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** language-games and forms of life
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** private-language argument
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** language-games and family resemblance
 
 ## 2019 concentration
 
@@ -112,3 +152,33 @@
 #### Philosophy Paper I
 
 - [Q3(b). Show how Wittgenstein’s critique of solipsism culminates in the critique of private language.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q3b) — solipsism and private language · 15 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q1(c). How does the notion of 'family resemblance' help Wittgenstein to uphold that 'Language is a game'? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q1c) — language-games and family resemblance · 10 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q1(c). Why does Wittgenstein reject the possibility of private language?](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q1c) — private-language argument · 10 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q3(a). Bring out the relationship between language games and forms of life.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q3a) — language-games and forms of life · 20 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q1(b). Bring out the significance of ‘language games’ in Wittgenstein’s use theory of meaning.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q1b) — language-games and meaning-as-use · 10 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q1(b). Explain Wittgenstein’s arguments against the possibility of private language.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1b) — private-language argument · 10 marks

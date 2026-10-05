@@ -146,3 +146,11 @@ The owned 2018 Mains GS-IV paper is source-reconciled, contains all 19 answer un
 
 **Remaining blockers within owned scope:** None.  
 **Reviewer conclusion:** **PASS**
+
+## 2026-10-05 shared historical-merit integration addendum
+
+The deferred shared integration is complete. All **19** routed anchors now use canonical
+topic-page routes, have exact reverse links, appear in every cross-year index, and preserve the
+paper-specific source, marks and key qualifications recorded above.
+
+**Final release conclusion: PASS.**

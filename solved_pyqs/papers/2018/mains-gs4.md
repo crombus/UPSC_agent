@@ -11,13 +11,14 @@
 
 # Section A — Theory (130 marks)
 
+
 <a id="2018-mains-gs4-q01a"></a>
 ## Q1(a). Three universal values in civil services
 
 **Official question:** State the three basic values, universal in nature, in the context of civil services and bring out their importance. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q1(a) · Directive: State and explain importance · Difficulty: Moderate  
-**Primary route:** Ethics → Aptitude and foundational civil-service values → integrity, impartiality and compassion  
+**Primary route:** Ethics → [Work Culture and Public Funds](../../topics/ethics/work-culture-and-public-funds.md) → integrity, impartiality and compassion · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/04_Aptitude-and-Foundational-Values-for-Civil-Service](../../../upsc-ai-kit/knowledge/Ethics/basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md)
 
 ### Demand decoding
@@ -42,13 +43,14 @@ Choose defensible universal values, define them in public-service terms, and sho
 
 ---
 
+
 <a id="2018-mains-gs4-q01b"></a>
 ## Q1(b). Code of ethics and code of conduct
 
 **Official question:** Distinguish between “Code of ethics” and “Code of conduct” with suitable examples. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q1(b) · Directive: Distinguish with examples · Difficulty: Easy-Moderate  
-**Primary route:** Ethics → Codes → ethics versus conduct  
+**Primary route:** Ethics → [Corruption and Administrative Ethics](../../topics/ethics/corruption-and-administrative-ethics.md) → ethics versus conduct · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/16_Codes-of-Ethics-and-Codes-of-Conduct](../../../upsc-ai-kit/knowledge/Ethics/basic/16_Codes-of-Ethics-and-Codes-of-Conduct.md)
 
 ### Demand decoding
@@ -77,13 +79,14 @@ Draw clear bases of distinction—nature, content, enforceability and function�
 
 ---
 
+
 <a id="2018-mains-gs4-q02a"></a>
 ## Q2(a). Public interest: meaning, principles and procedure
 
 **Official question:** What is meant by public interest? What are the principles and procedures to be followed by the civil servants in public interest? (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q2(a) · Directive: Define and prescribe · Difficulty: Moderate  
-**Primary route:** Ethics → Public-service values → public interest and responsible discretion  
+**Primary route:** Ethics → [Service Delivery and Regulatory Ethics](../../topics/ethics/service-delivery-and-regulatory-ethics.md) → public interest and responsible discretion · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas](../../../upsc-ai-kit/knowledge/Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md)
 
 ### Demand decoding
@@ -109,13 +112,14 @@ Define public interest without equating it with majority preference or governmen
 
 ---
 
+
 <a id="2018-mains-gs4-q02b"></a>
 ## Q2(b). RTI and the redefinition of accountability
 
 **Official question:** “The Right to Information Act is not all about citizens’ empowerment alone, it essentially redefines the concept of accountability.” Discuss. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q2(b) · Directive: Discuss · Difficulty: Moderate  
-**Primary route:** Ethics → Transparency and RTI → answerability and enforceability  
+**Primary route:** Ethics → [Transparency, Accountability, RTI, Grievance Redress and Social Audit](../../topics/governance/transparency-accountability-grievance-redress-and-social-audit.md) → answerability and enforceability · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/15_Transparency-RTI-and-Information-Sharing](../../../upsc-ai-kit/knowledge/Ethics/basic/15_Transparency-RTI-and-Information-Sharing.md)
 
 ### Demand decoding
@@ -146,13 +150,14 @@ Thus RTI empowers citizens precisely by transforming accountability from periodi
 
 ---
 
+
 <a id="2018-mains-gs4-q03a"></a>
 ## Q3(a). Actual and potential conflicts of interest
 
 **Official question:** What is meant by conflict of interest? Illustrate with examples, the difference between the actual and potential conflicts of interest. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q3(a) · Directive: Define, distinguish and illustrate · Difficulty: Easy-Moderate  
-**Primary route:** Ethics → Ethical dilemmas → conflict of interest  
+**Primary route:** Ethics → [Emotional Intelligence and Ethical Dilemmas](../../topics/ethics/emotional-intelligence-and-ethical-dilemmas.md) → conflict of interest · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas](../../../upsc-ai-kit/knowledge/Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md)
 
 ### Demand decoding
@@ -180,13 +185,14 @@ An **apparent** conflict, separately, exists where a reasonable observer may sus
 
 ---
 
+
 <a id="2018-mains-gs4-q03b"></a>
 ## Q3(b). Integrity before intelligence and energy
 
 **Official question:** “In looking for people to hire, you look for three qualities: integrity, intelligence and energy. And if they do not have the first, the other two will kill you.” — Warren Buffett. What do you understand by this statement in the present-day scenario? Explain. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q3(b) · Directive: Interpret and apply · Difficulty: Moderate  
-**Primary route:** Ethics → Foundational values → integrity as the governing value of competence  
+**Primary route:** Ethics → [Corruption and Administrative Ethics](../../topics/ethics/corruption-and-administrative-ethics.md) → integrity as the governing value of competence · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/04_Aptitude-and-Foundational-Values-for-Civil-Service](../../../upsc-ai-kit/knowledge/Ethics/basic/04_Aptitude-and-Foundational-Values-for-Civil-Service.md)
 
 ### Demand decoding
@@ -214,13 +220,14 @@ The quotation is thus a warning that morally unguided talent converts organisati
 
 ---
 
+
 <a id="2018-mains-gs4-q04a"></a>
 ## Q4(a). Are all non-prohibited means permitted in doing good?
 
 **Official question:** “In doing a good thing, everything is permitted which is not prohibited expressly or by clear implication.” Examine the statement with suitable examples in the context of a public servant discharging his/her duties. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q4(a) · Directive: Examine · Difficulty: High  
-**Primary route:** Ethics → Moral theories → legality, discretion and ethical means  
+**Primary route:** Ethics → [Moral Theories](../../topics/ethics/moral-theories.md) → legality, discretion and ethical means · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics](../../../upsc-ai-kit/knowledge/Ethics/basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md)
 
 ### Demand decoding
@@ -248,13 +255,14 @@ Hence absence of prohibition is insufficient; public action requires positive au
 
 ---
 
+
 <a id="2018-mains-gs4-q04b"></a>
 ## Q4(b). Means and ends
 
 **Official question:** With regard to morality of actions, one view is that means are of paramount importance and the other view is that the ends justify the means. Which view do you think is more appropriate? Justify your answer. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q4(b) · Directive: Choose and justify · Difficulty: Moderate-High  
-**Primary route:** Ethics → Moral theories → deontology and consequentialism  
+**Primary route:** Ethics → [Moral Theories](../../topics/ethics/moral-theories.md) → deontology and consequentialism · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics](../../../upsc-ai-kit/knowledge/Ethics/basic/08_Moral-Theories-Deontology-Consequentialism-Virtue-Ethics.md)
 
 ### Demand decoding
@@ -281,13 +289,14 @@ Thus good ends must be pursued through defensible means, with consequences used 
 
 ---
 
+
 <a id="2018-mains-gs4-q05a"></a>
 ## Q5(a). Rational policy for a dam affecting forests and ethnic communities
 
 **Official question:** Suppose the Government of India is thinking of constructing a dam in a mountain valley bound by forests and inhabited by ethnic communities. What rational policy should it resort to in dealing with unforeseen contingencies? (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q5(a) · Directive: Suggest policy · Difficulty: High  
-**Primary route:** Ethics → Environmental ethics → precaution, participation and just transition  
+**Primary route:** Ethics → [Environmental and Administrative Ethics](../../topics/ethics/environmental-and-administrative-ethics.md) → precaution, participation and just transition · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/13_Emerging-Ethics-Technology-AI-and-Environment](../../../upsc-ai-kit/knowledge/Ethics/basic/13_Emerging-Ethics-Technology-AI-and-Environment.md)
 
 ### Demand decoding
@@ -318,13 +327,14 @@ Design a rational policy under uncertainty, not decide abstractly for or against
 
 ---
 
+
 <a id="2018-mains-gs4-q05b"></a>
 ## Q5(b). Resolving ethical dilemmas in public administration
 
 **Official question:** Explain the process of resolving ethical dilemmas in Public Administration. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q5(b) · Directive: Explain a process · Difficulty: Moderate  
-**Primary route:** Ethics → Public-service dilemmas → structured resolution  
+**Primary route:** Ethics → [Emotional Intelligence and Ethical Dilemmas](../../topics/ethics/emotional-intelligence-and-ethical-dilemmas.md) → structured resolution · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas](../../../upsc-ai-kit/knowledge/Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md)
 
 ### Demand decoding
@@ -355,13 +365,14 @@ Provide an operational sequence that distinguishes fact, value, option and revie
 
 ---
 
+
 <a id="2018-mains-gs4-q06a"></a>
 ## Q6(a). Lincoln on weighing good and evil in public policy
 
 **Official question:** What do each of the following quotations mean to you in the present context? (a) “The true rule, in determining to embrace, or reject any thing, is not whether it has any evil in it; but whether it has more evil than good. There are few things wholly evil or wholly good. Almost every thing, especially of governmental policy, is an inseparable compound of the two; so that our best judgment of the preponderance between them is continually demanded.” — Abraham Lincoln. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q6(a) · Directive: Interpret in present context · Difficulty: High  
-**Primary route:** Ethics → Western thinkers and applied moral reasoning → proportionality and policy trade-offs  
+**Primary route:** Ethics → [Moral Theories](../../topics/ethics/moral-theories.md) → proportionality and policy trade-offs · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/07_Western-Moral-Philosophers-and-Thinkers](../../../upsc-ai-kit/knowledge/Ethics/basic/07_Western-Moral-Philosophers-and-Thinkers.md)
 
 ### Model answer
@@ -382,13 +393,14 @@ The quotation calls for humility, evidence and continuous review: policy is ethi
 
 ---
 
+
 <a id="2018-mains-gs4-q06b"></a>
 ## Q6(b). Gandhi on anger, intolerance and understanding
 
 **Official question:** What do each of the following quotations mean to you in the present context? (b) “Anger and intolerance are the enemies of correct understanding.” — Mahatma Gandhi. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q6(b) · Directive: Interpret in present context · Difficulty: Moderate  
-**Primary route:** Ethics → Indian thinkers → non-violence, tolerance and epistemic humility  
+**Primary route:** Ethics → [Indian Moral Thinkers](../../topics/ethics/indian-moral-thinkers.md) → non-violence, tolerance and epistemic humility · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/06_Indian-Moral-Thinkers-and-Philosophers](../../../upsc-ai-kit/knowledge/Ethics/basic/06_Indian-Moral-Thinkers-and-Philosophers.md)
 
 ### Model answer
@@ -409,13 +421,14 @@ Thus understanding requires empathy, self-restraint and willingness to revise on
 
 ---
 
+
 <a id="2018-mains-gs4-q06c"></a>
 ## Q6(c). Tirukkural on falsehood and unblemished common good
 
 **Official question:** What do each of the following quotations mean to you in the present context? (c) “Falsehood takes the place of truth when it results in unblemished common good.” — Tirukkural. (150 words, 10 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section A · Official Q6(c) · Directive: Interpret in present context · Difficulty: High  
-**Primary route:** Ethics → Indian thinkers → truth, intention and exceptional moral conflict  
+**Primary route:** Ethics → [Indian Moral Thinkers](../../topics/ethics/indian-moral-thinkers.md) → truth, intention and exceptional moral conflict · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owner:** [Ethics/basic/06_Indian-Moral-Thinkers-and-Philosophers](../../../upsc-ai-kit/knowledge/Ethics/basic/06_Indian-Moral-Thinkers-and-Philosophers.md)
 
 ### Model answer
@@ -438,6 +451,7 @@ The quotation therefore does not celebrate falsehood; it tests whether compassio
 
 # Section B — Case Studies (120 marks)
 
+
 <a id="2018-mains-gs4-q07"></a>
 ## Q7. Rakesh and eligibility under a senior-citizen healthcare scheme
 
@@ -451,7 +465,7 @@ The quotation therefore does not celebrate falsehood; it tests whether compassio
 One day, an old couple visited Rakesh’s office with their application. They have been the residents of a village in his district since their birth. The old man is diagnosed with a rare condition that causes obstruction in the large intestine. As a consequence, he has severe abdominal pain frequently that prevents him from doing any physical labour. The couple have no children to support them. The expert surgeon whom they contacted is willing to do the surgery without charging any fee. However, the couple will have to bear the cost of incidental charges, such as medicines, hospitalization, etc., to the tune of ₹1 lakh. The couple fulfills all the criteria except criterion ‘b’. However, any financial aid would certainly make a significant difference in their quality of life. **How should Rakesh respond to the situation?** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q7 · Demand: resolve eligibility-versus-need dilemma · Difficulty: Moderate  
-**Primary route:** Ethics → Case-study method → compassion within legality  
+**Primary route:** Ethics → [Service Delivery and Regulatory Ethics](../../topics/ethics/service-delivery-and-regulatory-ethics.md) → compassion within legality · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Public-service dilemmas](../../../upsc-ai-kit/knowledge/Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md)
 
 ### Stakeholders and values
@@ -487,6 +501,7 @@ No fabrication, preferential queue-jumping or informal cash handling; written ap
 
 ---
 
+
 <a id="2018-mains-gs4-q08"></a>
 ## Q8. Ministerial pressure, road realignment and insider benefit
 
@@ -497,7 +512,7 @@ Meanwhile, the Minister concerned insists that you realign the road in such a wa
 However, by the act of realignment, a lot of agricultural land has to be acquired, thereby causing considerable financial burden on the government, and also displacement of the farmers. As if this is not enough, it will involve cutting down of a large number of trees, denuding the area of its green cover. Faced with this situation, **what will you do? Critically examine various conflicts of interest and explain what are your responsibilities as a public servant.** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q8 · Demand: identify conflicts, duties and action · Difficulty: High  
-**Primary route:** Ethics → Case-study method → corruption, confidential information and public trust  
+**Primary route:** Ethics → [Corruption and Administrative Ethics](../../topics/ethics/corruption-and-administrative-ethics.md) → corruption, confidential information and public trust · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Public funds and corruption](../../../upsc-ai-kit/knowledge/Ethics/basic/18_Utilization-of-Public-Funds-and-Challenges-of-Corruption.md)
 
 ### Stakeholders and competing values
@@ -529,6 +544,7 @@ Serve public interest, protect confidentiality, tender fearless advice, conserve
 
 ---
 
+
 <a id="2018-mains-gs4-q09"></a>
 ## Q9. Illicit liquor in a prohibition district
 
@@ -537,7 +553,7 @@ Serve public interest, protect confidentiality, tender fearless advice, conserve
 Your inspections show that the parts of the district where the distillation flourishes are economically, industrially and educationally backward. Agriculture is badly affected by poor irrigation facilities. Frequent clashes among communities gave boost to illicit distillation. No major initiatives had taken place in the past either from the government’s side or from social organizations to improve the lot of the people. **Which new approach will you adopt to bring the problem under control?** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q9 · Demand: propose an integrated new approach · Difficulty: Moderate-High  
-**Primary route:** Ethics → Case-study method → humane and preventive policing  
+**Primary route:** Ethics → [Security Ethics](../../topics/ethics/security-ethics.md) → humane and preventive policing · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Public-service dilemmas](../../../upsc-ai-kit/knowledge/Ethics/basic/09_Public-Service-Values-Status-and-Ethical-Dilemmas.md)
 
 ### Stakeholders and values
@@ -568,6 +584,7 @@ No collective punishment, fabricated cases, extortion or harassment of families.
 
 ---
 
+
 <a id="2018-mains-gs4-q10"></a>
 ## Q10. Polluting chemical factory, closure and unemployment
 
@@ -578,7 +595,7 @@ The pollution caused by the industrial effluents was affecting the land, water a
 The closure of the factory resulted in the unemployment of not only those workers who were engaged in the factory but also those who were working in the ancillary units. It also very badly affected those industries which depended on the chemicals manufactured by it. **As a senior officer entrusted with the responsibility of handling this issue, how are you going to address it?** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q10 · Demand: reconcile environment, health, livelihood and order · Difficulty: High  
-**Primary route:** Ethics → Case-study method → environmental justice and just transition  
+**Primary route:** Ethics → [Environmental and Administrative Ethics](../../topics/ethics/environmental-and-administrative-ethics.md) → environmental justice and just transition · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Environmental ethics](../../../upsc-ai-kit/knowledge/Ethics/basic/13_Emerging-Ethics-Technology-AI-and-Environment.md)
 
 ### Stakeholders and values
@@ -605,6 +622,7 @@ Escrowed remediation funds, third-party monitoring with community representation
 
 ---
 
+
 <a id="2018-mains-gs4-q11"></a>
 ## Q11. Dr X, substantial tax liability and technical defaults
 
@@ -622,7 +640,7 @@ There are two options before you:
 **As the head of the tax agency, which course of action will you opt for and why?** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q11 · Demand: choose and justify between stated courses · Difficulty: High  
-**Primary route:** Ethics → Case-study method → proportionality, consistency and reasoned discretion  
+**Primary route:** Ethics → [Service Delivery and Regulatory Ethics](../../topics/ethics/service-delivery-and-regulatory-ethics.md) → proportionality, consistency and reasoned discretion · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Probity](../../../upsc-ai-kit/knowledge/Ethics/basic/14_Probity-Concept-and-Philosophical-Basis-of-Governance.md)
 
 ### Stakeholders and values
@@ -649,6 +667,7 @@ Obtain legal opinion, disclose any conflict, use a speaking order, apply the sam
 
 ---
 
+
 <a id="2018-mains-gs4-q12"></a>
 ## Q12. Edward Snowden: legality, privacy and national security
 
@@ -659,7 +678,7 @@ Yet, despite the fact that he broke the law, Snowden argued that he had a moral 
 Many agreed with Snowden. Few argued that he broke the law and compromised national security, for which he should be held accountable. **Do you agree that Snowden’s actions were ethically justified even if legally prohibited? Why or why not? Make an argument by weighing the competing values in this case.** (250 words, 20 marks)
 
 **Metadata:** 2018 · Mains · GS-IV · Section B · Official Q12 · Demand: take a position by weighing competing values · Difficulty: High  
-**Primary route:** Ethics → Case-study method → whistle-blowing, conscience, privacy and security  
+**Primary route:** Ethics → [Security Ethics](../../topics/ethics/security-ethics.md) → whistle-blowing, conscience, privacy and security · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 **Canonical owners:** [Case-study method](../../../upsc-ai-kit/knowledge/Ethics/basic/22_Case-Study-Method-and-Answer-Architecture.md) · [Named cases](../../../upsc-ai-kit/knowledge/Ethics/basic/23_Comparative-and-Named-Real-Case-Studies.md) · [Law, rules and conscience](../../../upsc-ai-kit/knowledge/Ethics/basic/10_Sources-of-Ethical-Guidance-Laws-Rules-Conscience.md)
 
 ### Stakeholders and competing values

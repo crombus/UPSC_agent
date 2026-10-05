@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 15
-- **Stable linked anchors:** 15
-- **Paper concentration:** Philosophy Paper II: 15
-- **Marks represented:** 190 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** John Rawls · justice as fairness · lexical priority of liberty, opportunity and the difference principle; Isaiah Berlin, T. H. Green and republicanism · non-interference, self-mastery and non-domination; J. S. Mill · liberal equality; relation among equality, liberty and justice; Plato · justice as harmony and functional specialisation; Liberty and equality; Rawls · justice as fairness; Liberty, equality and order; Marx · equality and equity; Nozick · entitlement theory; Rousseau · natural and moral/political inequality; Rawls and Sen · transcendental institutionalism and comparative justice; technological power · positive and negative liberty; Plato · Rawls · justice; liberty · equality · justice
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 27
+- **Stable linked anchors:** 27
+- **Paper concentration:** Philosophy Paper II: 27
+- **Marks represented:** 360 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** John Rawls · justice as fairness · lexical priority of liberty, opportunity and the difference principle; Isaiah Berlin, T. H. Green and republicanism · non-interference, self-mastery and non-domination; J. S. Mill · liberal equality; relation among equality, liberty and justice; Plato · justice as harmony and functional specialisation; Liberty and equality; Rawls · justice as fairness; Liberty, equality and order; Marx · equality and equity; Nozick · entitlement theory; Rousseau · natural and moral/political inequality; Rawls and Sen · transcendental institutionalism and comparative justice; technological power · positive and negative liberty; Plato · Rawls · justice; liberty · equality · justice; liberty · equality · democracy; democratic equality · Marxian equality; justice · Marx · Gandhi · Sen; Rawls · justice as fairness · well-ordered society; liberty · positive freedom · equality; equality · formal and substantive equality; equality · liberty · fraternity; justice · Sen; corruption · justice; Aristotle · justice; Sen and Rawls · justice
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Philosophy Paper II: 4
+- **Marks represented:** 60 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** corruption · justice; Aristotle · justice; Rawls · justice as fairness; Sen and Rawls · justice
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** justice · Sen
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** equality · formal and substantive equality; equality · liberty · fraternity
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Rawls · justice as fairness · well-ordered society; liberty · positive freedom · equality
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** democratic equality · Marxian equality; justice · Marx · Gandhi · Sen
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** liberty · equality · democracy
 
 ## 2019 concentration
 
@@ -133,3 +181,45 @@
 
 - [Q1(a). How far do you think John Rawls is continuing with Plato's concept of justice?](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q1a) — Plato · Rawls · justice · 10 marks
 - [Q4(b). Does liberty put limitations to equality? Discuss.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q4b) — liberty · equality · justice · 15 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q2(a). How far can liberty and equality be considered as distinctive features of democracy? Discuss.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q2a) — liberty · equality · democracy · 20 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q1(e). Discuss the different aspects of the fundamental distinction between democratic equality and the Marxian notion of equality.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q1e) — democratic equality · Marxian equality · 10 marks
+- [Q4(b). How far do Marx, Gandhi and Amartya Sen agree and disagree on the concept of justice in the Indian democracy? Discuss.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q4b) — justice · Marx · Gandhi · Sen · 15 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q1(b). A well-ordered society, according to Rawls, is effectively regulated by a public conception of justice. Do you agree? Give reasons.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q1b) — Rawls · justice as fairness · well-ordered society · 10 marks
+- [Q2(a). Is liberty a positive and equal opportunity of self-realization? Discuss.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q2a) — liberty · positive freedom · equality · 15 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q1(a). “Equality does not mean treating everyone equal.” Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q1a) — equality · formal and substantive equality · 10 marks
+- [Q4(b). “Equality will be of no value without fraternity and liberty.” Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q4b) — equality · liberty · fraternity · 15 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q3(c). Discuss Amartya Sen’s principle of Nīti as a critique of Nyāya.](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q3c) — justice · Sen · 15 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q1(a). Does corruption have not only a moral dimension but also an economic dimension?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q1a) — corruption · justice · 10 marks
+- [Q4(a). Explain and evaluate Aristotle’s conception of justice.](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q4a) — Aristotle · justice · 15 marks
+- [Q4(b). What is meant by ‘justice as fairness’? Explain the basic tenets of Rawls’ theory of justice.](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q4b) — Rawls · justice as fairness · 15 marks
+- [Q4(c). How is Amartya Sen’s approach to justice different from that of Rawls?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q4c) — Sen and Rawls · justice · 20 marks

@@ -6,12 +6,56 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2025
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Mains GS-II: 1; Mains GS-III: 2; Prelims GS-I: 4
-- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** ED, DRI and Directorate General of Systems and Data Management — functions and parent ministries; Taxation of allied agricultural income; rural agricultural land as a capital asset; Fifteenth Finance Commission horizontal tax devolution criteria; GST federalism; Indirect transfer of shares and assets taxation India; GST compensation; GST design and revenue
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2025
+- **Solved answerable questions/parts:** 15
+- **Stable linked anchors:** 15
+- **Paper concentration:** Mains GS-II: 1; Mains GS-III: 3; Prelims GS-I: 11
+- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** ED, DRI and Directorate General of Systems and Data Management — functions and parent ministries; Taxation of allied agricultural income; rural agricultural land as a capital asset; Fifteenth Finance Commission horizontal tax devolution criteria; GST federalism; Indirect transfer of shares and assets taxation India; GST compensation; GST design and revenue; Equalization tax on non-resident online advertising services India; Items exempted under Goods and Services Tax India; Prohibition of Benami Property Transactions Act; Advantages of Goods and Services Tax; Base Erosion and Profit Shifting; A decrease in tax to GDP ratio of a country indicates which of the following?; The sales tax you pay while purchasing a toothpaste is a; GST design and federal bargaining
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** GST design and federal bargaining
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** The sales tax you pay while purchasing a toothpaste is a
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** A decrease in tax to GDP ratio of a country indicates which of the following?
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Base Erosion and Profit Shifting
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Prohibition of Benami Property Transactions Act; Advantages of Goods and Services Tax
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Equalization tax on non-resident online advertising services India; Items exempted under Goods and Services Tax India
 
 ## 2019 concentration
 
@@ -87,3 +131,47 @@
 #### Mains GS-III
 
 - [Q1. Taxes subsumed in GST and revenue implications](../../papers/2019/mains-gs3.md#2019-mains-gs3-q01) — GST design and revenue · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q8. Equalization tax on non-resident online advertising services India](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q08) — Equalization tax on non-resident online advertising services India
+- [Q97. Items exempted under Goods and Services Tax India](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q97) — Items exempted under Goods and Services Tax India
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q20. Prohibition of Benami Property Transactions Act](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q020) — Prohibition of Benami Property Transactions Act
+- [Q81. Advantages of Goods and Services Tax](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q081) — Advantages of Goods and Services Tax
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q60. Base Erosion and Profit Shifting](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q060) — Base Erosion and Profit Shifting
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q4. A decrease in tax to GDP ratio of a country indicates which of the following?](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q004) — A decrease in tax to GDP ratio of a country indicates which of the following?
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q27. The sales tax you pay while purchasing a toothpaste is a](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q027) — The sales tax you pay while purchasing a toothpaste is a
+
+### 2013
+
+#### Mains GS-III
+
+- [Q10. GST rationale and delayed rollout](../../papers/2013/mains-gs3.md#2013-mains-gs3-q10) — GST design and federal bargaining · 10 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2013 · Mains GS-III · Q2. FRBM Act: rationale, design and effectiveness](../../papers/2013/mains-gs3.md#2013-mains-gs3-q02) — Fiscal rules
+- [2013 · Mains GS-III · Q3. Tax expenditure and housing policy](../../papers/2013/mains-gs3.md#2013-mains-gs3-q03) — Tax expenditure

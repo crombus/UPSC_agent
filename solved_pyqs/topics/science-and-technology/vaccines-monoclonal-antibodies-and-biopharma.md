@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2025
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 4
+- **Released years represented:** 2013, 2014, 2020, 2021, 2022, 2025
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 4
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Monoclonal antibodies; COVID-19 vaccine platforms mRNA vector inactivated pathogen; Vaccine platforms; Recombinant vector vaccine development genetic engineering; Pneumococcal Conjugate Vaccines importance and benefits in India; Antimicrobial resistance; Drug formulation and rational use
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Drug formulation and rational use
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Monoclonal antibodies; COVID-19 vaccine platforms mRNA vector inactivated pathogen; Vaccine platforms; Recombinant vector vaccine development genetic engineering; Pneumococcal Conjugate Vaccines importance and benefits in India
+- **Subtopics represented:** Antimicrobial resistance
 
 ## 2020 concentration
 
@@ -71,3 +87,15 @@
 #### Prelims GS-I
 
 - [Q45. Pneumococcal Conjugate Vaccines importance and benefits in India](../../papers/2020/prelims-gs1.md#2020-prelims-gs1-q45) — Pneumococcal Conjugate Vaccines importance and benefits in India
+
+### 2014
+
+#### Mains GS-III
+
+- [Q11. Antibiotic misuse and antimicrobial resistance](../../papers/2014/mains-gs3.md#2014-mains-gs3-q11) — Antimicrobial resistance · 15 marks
+
+### 2013
+
+#### Mains GS-III
+
+- [Q14. Fixed-dose drug combinations](../../papers/2013/mains-gs3.md#2013-mains-gs3-q14) — Drug formulation and rational use · 10 marks

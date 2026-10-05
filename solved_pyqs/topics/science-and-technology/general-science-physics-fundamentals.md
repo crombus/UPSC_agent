@@ -6,12 +6,49 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 11
-- **Stable linked anchors:** 11
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 10
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Aircraft black-box recorders, underwater detection, and crash-survivable memory; Activities in which radar can be used; Accelerometer device functions crash tilt free-fall detection; Astronomical objects cepheids nebulae pulsars descriptions; Short-range wireless communication technologies classification; Pressure cooker temperature and physics principles; Sodium lamps versus LED lamps street lighting; Light-year unit for measuring astronomical distances; Semiconductor light emission; Visible Light Communication VLC technology properties and range; Black hole merger and gravitational waves observation
+- **Released years represented:** 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 21
+- **Stable linked anchors:** 21
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 18
+- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Aircraft black-box recorders, underwater detection, and crash-survivable memory; Activities in which radar can be used; Accelerometer device functions crash tilt free-fall detection; Astronomical objects cepheids nebulae pulsars descriptions; Short-range wireless communication technologies classification; Pressure cooker temperature and physics principles; Sodium lamps versus LED lamps street lighting; Light-year unit for measuring astronomical distances; Semiconductor light emission; Visible Light Communication VLC technology properties and range; Black hole merger and gravitational waves observation; Einstein General Theory of Relativity key scientific predictions; Quantum statistics; Event horizon, singularity, string theory and Standard Model; Li-Fi data transmission; In the context of modern scientific research, consider the following statements about...; Ball bearings are used in bicycles, cars, etc., because; Consider the following phenomena: 1. Size of the sun at dusk 2. Colour of the sun at dawn 3. Moon bein...; Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena ar...; The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuc...; Sports technology and sensing
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 4
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Ball bearings are used in bicycles, cars, etc., because; Consider the following phenomena: 1. Size of the sun at dusk 2. Colour of the sun at dawn 3. Moon bein...; Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena ar...; The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuc...; Sports technology and sensing
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** In the context of modern scientific research, consider the following statements about...
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Li-Fi data transmission
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Event horizon, singularity, string theory and Standard Model
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Einstein General Theory of Relativity key scientific predictions; Quantum statistics
 
 ## 2019 concentration
 
@@ -113,3 +150,44 @@
 #### Prelims GS-I
 
 - [Q97. Black hole merger and gravitational waves observation](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q97) — Black hole merger and gravitational waves observation
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q62. Einstein General Theory of Relativity key scientific predictions](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q62) — Einstein General Theory of Relativity key scientific predictions
+
+#### Mains GS-III
+
+- [Q5. Bose–Einstein statistics and the revolution in physics](../../papers/2018/mains-gs3.md#2018-mains-gs3-q05) — Quantum statistics · 10 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q44. Event horizon, singularity, string theory and Standard Model](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q044) — Event horizon, singularity, string theory and Standard Model
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q5. Li-Fi data transmission](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q005) — Li-Fi data transmission
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q30. In the context of modern scientific research, consider the following statements about...](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q030) — In the context of modern scientific research, consider the following statements about...
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q88. Ball bearings are used in bicycles, cars, etc., because](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q088) — Ball bearings are used in bicycles, cars, etc., because
+- [Q89. Consider the following phenomena: 1. Size of the sun at dusk 2. Colour of the sun at dawn 3. Moon bein...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q089) — Consider the following phenomena: 1. Size of the sun at dusk 2. Colour of the sun at dawn 3. Moon bein...
+- [Q90. Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena ar...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q090) — Rainbow is produced when sunlight falls on drops of rain. Which of the following physical phenomena ar...
+- [Q95. The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuc...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q095) — The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuc...
+
+#### Mains GS-III
+
+- [Q15. Umpire Decision Review System](../../papers/2013/mains-gs3.md#2013-mains-gs3-q15) — Sports technology and sensing · 10 marks

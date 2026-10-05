@@ -6,11 +6,46 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 66
-- **Stable linked anchors:** 66
-- **Paper concentration:** Prelims CSAT: 66
-- **Subtopics represented:** Algebra/Inequalities/Data Sufficiency → Data sufficiency → finite-case enumeration; Algebra/Inequalities/Data Sufficiency → Inequalities → counterexample testing; Algebra/Inequalities/Data Sufficiency → Parity → combined sufficiency; Algebra/Inequalities/Data Sufficiency → Set-membership logic → parity; Algebra/Inequalities/Data Sufficiency → Factorisation → primality; Algebra → Simultaneous equations → comparison; Algebra/Inequalities → Monotonicity → interval testing; Algebra → Simultaneous linear equations → marks; Algebra/Inequalities → Rate constraint → guaranteed threshold; Chained-inequality validation; Bounded-expression ratio; Data sufficiency: factor count; Data sufficiency: digit product; Data sufficiency: family relation; Data sufficiency: match outcome; Data sufficiency: positivity; Quantitative comparison: ratio; Quantitative comparison: product; Quantitative comparison: set; Unit-interval inequalities; Reversed-digit equation; Linear-cost validation; Data sufficiency: integers; Data sufficiency: transfer rate; Data sufficiency: integer pair; Data sufficiency: shares; Data sufficiency: class size; Data sufficiency: prime triple; Data sufficiency: integrality; Data sufficiency: article prices; Data sufficiency: score comparison; Data sufficiency: reversed ages; Coded inequalities; Inequality data sufficiency; Expression-comparison sufficiency; Beverage-set data sufficiency; Three-digit-number sufficiency; Age-progression sufficiency; Two-statement sufficiency; Reverse chain equation; Percentage inequality comparison; Consecutive integer equation; Exponential model identification; Two-variable score algebra; Age-relation algebra; Equal-expression ordering; Digit-constraint sum puzzle; Vessel weight linear equation; Age Ratio Equations; Bounded Inequality Range; Age Variable Algebra; Fraction Comparison Property; Two-Statement Sufficiency; Piece-Length Ratio Algebra
+- **Released years represented:** 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 82
+- **Stable linked anchors:** 82
+- **Paper concentration:** Prelims CSAT: 82
+- **Subtopics represented:** Algebra/Inequalities/Data Sufficiency → Data sufficiency → finite-case enumeration; Algebra/Inequalities/Data Sufficiency → Inequalities → counterexample testing; Algebra/Inequalities/Data Sufficiency → Parity → combined sufficiency; Algebra/Inequalities/Data Sufficiency → Set-membership logic → parity; Algebra/Inequalities/Data Sufficiency → Factorisation → primality; Algebra → Simultaneous equations → comparison; Algebra/Inequalities → Monotonicity → interval testing; Algebra → Simultaneous linear equations → marks; Algebra/Inequalities → Rate constraint → guaranteed threshold; Chained-inequality validation; Bounded-expression ratio; Data sufficiency: factor count; Data sufficiency: digit product; Data sufficiency: family relation; Data sufficiency: match outcome; Data sufficiency: positivity; Quantitative comparison: ratio; Quantitative comparison: product; Quantitative comparison: set; Unit-interval inequalities; Reversed-digit equation; Linear-cost validation; Data sufficiency: integers; Data sufficiency: transfer rate; Data sufficiency: integer pair; Data sufficiency: shares; Data sufficiency: class size; Data sufficiency: prime triple; Data sufficiency: integrality; Data sufficiency: article prices; Data sufficiency: score comparison; Data sufficiency: reversed ages; Coded inequalities; Inequality data sufficiency; Expression-comparison sufficiency; Beverage-set data sufficiency; Three-digit-number sufficiency; Age-progression sufficiency; Two-statement sufficiency; Reverse chain equation; Percentage inequality comparison; Consecutive integer equation; Exponential model identification; Two-variable score algebra; Age-relation algebra; Equal-expression ordering; Digit-constraint sum puzzle; Vessel weight linear equation; Age Ratio Equations; Bounded Inequality Range; Age Variable Algebra; Fraction Comparison Property; Two-Statement Sufficiency; Piece-Length Ratio Algebra; Series equation solving; Range inequality deduction; Expression magnitude comparison; Digit-constraint algebra; Inequality chain deduction; Algebraic revenue expression; Equation implication deduction; Linear relations; Algebraic comparison; Inequality ordering; Linear equations; Quadratic equation; Optimisation; Magazine-set relations; Maximum money holding
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims CSAT: 1
+- **Subtopics represented:** Maximum money holding
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims CSAT: 1
+- **Subtopics represented:** Magazine-set relations
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Prelims CSAT: 3
+- **Subtopics represented:** Linear equations; Quadratic equation; Optimisation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Prelims CSAT: 4
+- **Subtopics represented:** Linear relations; Algebraic comparison; Inequality ordering; Linear equations
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims CSAT: 7
+- **Subtopics represented:** Series equation solving; Range inequality deduction; Expression magnitude comparison; Digit-constraint algebra; Inequality chain deduction; Algebraic revenue expression; Equation implication deduction
 
 ## 2019 concentration
 
@@ -175,3 +210,44 @@
 - [Q50. Fraction Comparison Property](../../papers/2019/prelims-csat.md#2019-prelims-csat-q50) — Fraction Comparison Property
 - [Q58. Two-Statement Sufficiency](../../papers/2019/prelims-csat.md#2019-prelims-csat-q58) — Two-Statement Sufficiency
 - [Q69. Piece-Length Ratio Algebra](../../papers/2019/prelims-csat.md#2019-prelims-csat-q69) — Piece-Length Ratio Algebra
+
+### 2018
+
+#### Prelims CSAT
+
+- [Q2. Series equation solving](../../papers/2018/prelims-csat.md#2018-prelims-csat-q02-solution) — Series equation solving
+- [Q23. Range inequality deduction](../../papers/2018/prelims-csat.md#2018-prelims-csat-q23-solution) — Range inequality deduction
+- [Q24. Expression magnitude comparison](../../papers/2018/prelims-csat.md#2018-prelims-csat-q24-solution) — Expression magnitude comparison
+- [Q34. Digit-constraint algebra](../../papers/2018/prelims-csat.md#2018-prelims-csat-q34-solution) — Digit-constraint algebra
+- [Q37. Inequality chain deduction](../../papers/2018/prelims-csat.md#2018-prelims-csat-q37-solution) — Inequality chain deduction
+- [Q38. Algebraic revenue expression](../../papers/2018/prelims-csat.md#2018-prelims-csat-q38-solution) — Algebraic revenue expression
+- [Q77. Equation implication deduction](../../papers/2018/prelims-csat.md#2018-prelims-csat-q77-solution) — Equation implication deduction
+
+### 2017
+
+#### Prelims CSAT
+
+- [Q14. Income inequality comparison](../../papers/2017/prelims-csat.md#2017-prelims-csat-q014-solution) — Linear relations
+- [Q30. Weighted-percentage comparison](../../papers/2017/prelims-csat.md#2017-prelims-csat-q030-solution) — Algebraic comparison
+- [Q40. Highest-marks data sufficiency](../../papers/2017/prelims-csat.md#2017-prelims-csat-q040-solution) — Inequality ordering
+- [Q74. Income-expense-savings equations](../../papers/2017/prelims-csat.md#2017-prelims-csat-q074-solution) — Linear equations
+
+### 2016
+
+#### Prelims CSAT
+
+- [Q14. Flowers and bees equations](../../papers/2016/prelims-csat.md#2016-prelims-csat-q014-solution) — Linear equations
+- [Q29. Charity contribution class size](../../papers/2016/prelims-csat.md#2016-prelims-csat-q029-solution) — Quadratic equation
+- [Q50. Maximum rectangle area](../../papers/2016/prelims-csat.md#2016-prelims-csat-q050-solution) — Optimisation
+
+### 2015
+
+#### Prelims CSAT
+
+- [Q51. Magazine-set relations](../../papers/2015/prelims-csat.md#2015-prelims-csat-q051-solution) — Magazine-set relations
+
+### 2014
+
+#### Prelims CSAT
+
+- [Q65. Maximum money holding](../../papers/2014/prelims-csat.md#2014-prelims-csat-q065-solution) — Maximum money holding

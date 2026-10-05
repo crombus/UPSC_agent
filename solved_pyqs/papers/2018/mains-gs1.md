@@ -9,6 +9,7 @@
 
 ---
 
+
 <a id="2018-mains-gs1-q01"></a>
 ## Q1. Safeguarding the Indian art heritage is the need of the moment. Discuss.
 **Primary route:** Indian Art and Culture → [Heritage Conservation, Institutions and UNESCO](../../topics/art-and-culture/heritage-conservation-institutions-and-unesco.md) → Safeguarding tangible and intangible heritage · **Canonical owner:** [Heritage Conservation, Institutions and UNESCO](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/advanced/14_Heritage-Conservation-Institutions-and-UNESCO.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -37,6 +38,7 @@ India’s art heritage—monuments, sculptures, manuscripts, crafts and living t
 **Why this earns marks:** It establishes urgency, uses named legal institutions and balances physical preservation with community ownership.
 
 ---
+
 
 <a id="2018-mains-gs1-q02"></a>
 ## Q2. Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India.
@@ -67,6 +69,7 @@ However, pilgrims privileged Buddhist institutions; merchants emphasised ports; 
 **Why this earns marks:** It assesses evidentiary contribution through named texts and travellers and expressly qualifies source bias.
 
 ---
+
 
 <a id="2018-mains-gs1-q03"></a>
 ## Q3. Throw light on the significance of the thoughts of Mahatma Gandhi in the present times.
@@ -99,6 +102,7 @@ His village ideal and treatment of caste and gender require critical updating.
 **Why this earns marks:** It applies named Gandhian concepts to present problems and avoids uncritical glorification.
 
 ---
+
 
 <a id="2018-mains-gs1-q04"></a>
 ## Q4. Why is Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation?
@@ -133,6 +137,7 @@ IRNSS, operationally named **NavIC**, gives India an independent position, navig
 
 ---
 
+
 <a id="2018-mains-gs1-q05"></a>
 ## Q5. Why is India taking keen interest in resources of Arctic Region?
 **Primary route:** Geography → [Mineral and Energy Resources: World and India](../../topics/geography/mineral-energy-resources-world-and-india.md) → Arctic resources · **Canonical owner:** [Mineral and Energy Resources: World and India](../../../upsc-ai-kit/knowledge/Geography/advanced/31_Mineral-Energy-Resources-World-and-India.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -164,6 +169,7 @@ Yet high costs, oil-spill risks, fragile ecosystems, indigenous rights and the l
 
 ---
 
+
 <a id="2018-mains-gs1-q06"></a>
 ## Q6. Define mantle plume and explain its role in plate tectonics.
 **Primary route:** Geography → [Vulcanism and Earthquakes](../../topics/geography/vulcanism-and-earthquakes.md) → Mantle plumes and hotspots · **Canonical owner:** [Vulcanism and Earthquakes](../../../upsc-ai-kit/knowledge/Geography/basic/03_Vulcanism-and-Earthquakes.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -193,6 +199,7 @@ However, plate motion is driven principally by slab pull, ridge forces and mantl
 **Why this earns marks:** It defines the concept, traces the mechanism and uses named examples with a scientifically necessary qualification.
 
 ---
+
 
 <a id="2018-mains-gs1-q07"></a>
 ## Q7. What are the consequences of spreading of ‘Dead Zones’ on marine ecosystem?
@@ -225,6 +232,7 @@ Some zones are naturally oxygen-poor, but rapid coastal expansion is largely ant
 
 ---
 
+
 <a id="2018-mains-gs1-q08"></a>
 ## Q8. “Caste system is assuming new identities and associational forms. Hence, caste system cannot be eradicated in India.” Comment.
 **Primary route:** Indian Society → [Caste System: Structure and Contemporary Dynamics](../../topics/indian-society/caste-system-structure-and-contemporary-dynamics.md) → Politicisation and associational forms · **Canonical owner:** [Caste System: Structure and Contemporary Dynamics](../../../upsc-ai-kit/knowledge/Indian-Society/advanced/02_Caste-System-Structure-and-Contemporary-Dynamics.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -255,6 +263,7 @@ Therefore, persistence does not prove impossibility of eradication. Constitution
 **Why this earns marks:** It comments on both persistence and change and rejects the question’s deterministic inference.
 
 ---
+
 
 <a id="2018-mains-gs1-q09"></a>
 ## Q9. ‘Despite implementation of various programmes for eradication of poverty by the government in India, poverty is still existing.’ Explain by giving reasons.
@@ -288,6 +297,7 @@ Programmes such as MGNREGA, the Public Distribution System and self-help groups 
 
 ---
 
+
 <a id="2018-mains-gs1-q10"></a>
 ## Q10. How the Indian concept of secularism is different from the western model of secularism? Discuss.
 **Primary route:** Indian Society → [Secularism](../../topics/indian-society/secularism.md) → Indian and Western models · **Canonical owner:** [Secularism](../../../upsc-ai-kit/knowledge/Indian-Society/advanced/15_Secularism.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -319,6 +329,7 @@ Practice faces communal mobilisation and selective intervention.
 **Why this earns marks:** It provides a structured comparison, constitutional anchors and a qualification about diversity within Western practice.
 
 ---
+
 
 <a id="2018-mains-gs1-q11"></a>
 ## Q11. The Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. Discuss.
@@ -354,6 +365,7 @@ Chaitanya did not originate Bhakti or wholly dissolve caste and patriarchy. Gaud
 **Why this earns marks:** It explains re-orientation through doctrine, practice, institutions and culture while preserving historical continuity and limits.
 
 ---
+
 
 <a id="2018-mains-gs1-q12"></a>
 ## Q12. Discuss whether formation of new states in recent times is beneficial or not for the economy of India.
@@ -395,6 +407,7 @@ Experiences diverge: Uttarakhand gained from services and connectivity but retai
 
 ---
 
+
 <a id="2018-mains-gs1-q13"></a>
 ## Q13. Why indentured labour was taken by the British from India to other colonies? Have they been able to preserve their cultural identity over there?
 **Primary route:** Modern History → [Economic Impact of British Rule](../../topics/modern-history/economic-impact-of-british-rule.md) → Indentured labour · **Canonical owners:** [Economic Impact of British Rule](../../../upsc-ai-kit/knowledge/Modern-Indian-History/advanced/07_Economic-Impact-of-British-Rule.md) · [Migration Theories and Patterns: India](../../../upsc-ai-kit/knowledge/Geography/advanced/27_Migration-Theories-and-Patterns-India.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -431,6 +444,7 @@ Preservation was not static. Scarce women and caste disruption altered kinship; 
 
 ---
 
+
 <a id="2018-mains-gs1-q14"></a>
 ## Q14. “The ideal solution of depleting ground water resources in India is water harvesting system.” How can it be made effective in urban areas?
 **Primary route:** Geography → [Weathering, Mass Movement and Groundwater](../../topics/geography/weathering-massmovement-groundwater.md) → Urban groundwater recharge · **Canonical owner:** [India: Erosion, Landslides and Groundwater](../../../upsc-ai-kit/knowledge/Geography/advanced/04_India-Erosion-Landslides-Groundwater.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -466,6 +480,7 @@ Traditional systems—Delhi’s *baolis*, Rajasthan’s tanks and Bengaluru’s 
 **Why this earns marks:** It supplies an implementable urban framework and directly qualifies the claim that harvesting is sufficient by itself.
 
 ---
+
 
 <a id="2018-mains-gs1-q15"></a>
 ## Q15. Defining blue revolution, explain the problems and strategies for pisciculture development in India.
@@ -508,6 +523,7 @@ The **Blue Revolution** denotes rapid, sustainable growth of fisheries and aquac
 **Why this earns marks:** It defines the term, covers farm-to-market constraints and offers institutionally and ecologically grounded strategies.
 
 ---
+
 
 <a id="2018-mains-gs1-q16"></a>
 ## Q16. What is the significance of Industrial Corridors in India? Identifying industrial corridors, explain their main characteristics.
@@ -557,6 +573,7 @@ However, land acquisition, displacement, ecological stress, speculative real est
 
 ---
 
+
 <a id="2018-mains-gs1-q17"></a>
 ## Q17. Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success.
 **Primary route:** Governance → [Government Policy Design and Implementation](../../topics/governance/government-policy-design-and-implementation.md) → Aspirational Districts Programme · **Canonical owner:** [Government Policy Design and Implementation](../../../upsc-ai-kit/knowledge/Governance/advanced/02_Government-Policy-Design-and-Implementation.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -598,6 +615,7 @@ Data quality, frequent transfers, weak local capacity and “teaching to the ind
 
 ---
 
+
 <a id="2018-mains-gs1-q18"></a>
 ## Q18. “Women’s movement in India has not addressed the issues of women of lower social strata.” Substantiate your view.
 **Primary route:** Indian Society → [Women, Gender and Social Distress](../../topics/indian-society/women-gender-and-social-distress.md) → Intersectionality in women’s movements · **Canonical owner:** [Women and Women’s Organisations](../../../upsc-ai-kit/knowledge/Indian-Society/advanced/07_Women-and-Womens-Organisations.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -638,6 +656,7 @@ Movements should ensure leadership from marginalised groups; link bodily autonom
 
 ---
 
+
 <a id="2018-mains-gs1-q19"></a>
 ## Q19. “Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society.” Elucidate.
 **Primary route:** Indian Society → [Effects of Globalisation on Indian Society](../../topics/indian-society/effects-of-globalisation-on-indian-society.md) → Homogenisation and cultural particularisation · **Canonical owner:** [Effects of Globalisation on Indian Society](../../../upsc-ai-kit/knowledge/Indian-Society/advanced/11_Effects-of-Globalisation-on-Indian-Society.md) · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -675,6 +694,7 @@ This is not pure preservation. Cultural forms are selected, repackaged and hybri
 **Why this earns marks:** It elucidates the paradox through clear mechanisms, named Indian examples and a qualification about power and commodification.
 
 ---
+
 
 <a id="2018-mains-gs1-q20"></a>
 ## Q20. ‘Communalism arises either due to power struggle or relative deprivation.’ Argue by giving suitable illustrations.

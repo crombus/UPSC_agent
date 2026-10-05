@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Philosophy Paper I: 8
-- **Marks represented:** 125 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Integral Yoga · psychic, spiritual and supramental transformation; integral philosophy · Spirit and Matter; Integral Yoga · ascent and descent · transformation; Supermind · involution and evolution; integral yoga · triple transformation · evolution; psychic transformation and conscious evolution; divine life and spiritual evolution; Supermind
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 14
+- **Stable linked anchors:** 14
+- **Paper concentration:** Philosophy Paper I: 14
+- **Marks represented:** 210 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Integral Yoga · psychic, spiritual and supramental transformation; integral philosophy · Spirit and Matter; Integral Yoga · ascent and descent · transformation; Supermind · involution and evolution; integral yoga · triple transformation · evolution; psychic transformation and conscious evolution; divine life and spiritual evolution; Supermind; evolution, triple transformation and gnostic being; integral Yoga and Supermind; involution, evolution and Integral Yoga; Integral Yoga; Integral Yoga and Pātañjala Yoga; spiritual evolution and cosmic salvation
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** spiritual evolution and cosmic salvation
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Integral Yoga and Pātañjala Yoga
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Integral Yoga
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** involution, evolution and Integral Yoga
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** integral Yoga and Supermind
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** evolution, triple transformation and gnostic being
 
 ## 2019 concentration
 
@@ -126,3 +174,39 @@
 #### Philosophy Paper I
 
 - [Q8(b). Explain the unique position of the Supermind in the metaphysical scheme of Aurobindo’s philosophy.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q8b) — Supermind · 15 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q8(c). What is Evolution according to Sri Aurobindo? Describe the process of triple transformation and the nature of gnostic being in his philosophy.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q8c) — evolution, triple transformation and gnostic being · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q7(b). How does Sri Aurobindo’s integral yoga help in the realization of supramental consciousness? Discuss.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q7b) — integral Yoga and Supermind · 15 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q7(a). Discuss Aurobindo’s views on ‘Evolution’ and ‘Involution’. How do they differ from traditional Yoga philosophy?](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q7a) — involution, evolution and Integral Yoga · 20 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q5(e). Sri Aurobindo’s Integral Yoga.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q5e) — Integral Yoga · 10 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q8(c). How is Sri Aurobindo’s integral yoga an advancement over Pātañjala yoga ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q8c) — Integral Yoga and Pātañjala Yoga · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q5(e). Explain Sri Aurobindo’s conception of cosmic salvation through spiritual evolution of the individual.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q5e) — spiritual evolution and cosmic salvation · 10 marks

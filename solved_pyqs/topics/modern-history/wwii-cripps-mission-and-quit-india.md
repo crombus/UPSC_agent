@@ -6,11 +6,25 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2022
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Prelims GS-I: 3
-- **Subtopics represented:** Cripps Mission proposals for Indian constitution and provinces; Quit India Resolution adopted August 1942 AICC; Indian National Army officers colonial India history
+- **Released years represented:** 2013, 2016, 2021, 2022
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Prelims GS-I: 5
+- **Subtopics represented:** Cripps Mission proposals for Indian constitution and provinces; Quit India Resolution adopted August 1942 AICC; Indian National Army officers colonial India history; Cripps proposals; Quit India Movement was launched in response to
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Quit India Movement was launched in response to
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Cripps proposals
 
 ## 2021 concentration
 
@@ -40,3 +54,15 @@
 
 - [Q43. Quit India Resolution adopted August 1942 AICC](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q43) — Quit India Resolution adopted August 1942 AICC
 - [Q47. Indian National Army officers colonial India history](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q47) — Indian National Army officers colonial India history
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q93. Cripps proposals](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q093) — Cripps proposals
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q40. Quit India Movement was launched in response to](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q040) — Quit India Movement was launched in response to

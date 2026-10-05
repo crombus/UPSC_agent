@@ -8,6 +8,7 @@
 
 ## Section A — Socio-Political Philosophy
 
+
 <a id="2018-philosophy-p2-q1a"></a>
 ## Q1(a). What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context.
 **Primary route:** Philosophy Paper II → [Forms of Government](../../topics/philosophy-paper-ii/forms-of-government.md) → liberal democracy · social cohesion · India · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -36,6 +37,7 @@ Rights, however, need social conditions that sustain them. In India, caste hiera
 **Why this earns marks:** It defines the regime, identifies the cohesion problem and gives an India-specific, non-majoritarian solution.
 
 ---
+
 
 <a id="2018-philosophy-p2-q1b"></a>
 ## Q1(b). Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer.
@@ -66,6 +68,7 @@ Yet cultural recognition is legitimate only when joined to the dignity of each p
 
 ---
 
+
 <a id="2018-philosophy-p2-q1c"></a>
 ## Q1(c). It is said that the traditional hold of caste-based groups on Indian social behaviour has survived all attempts to build alternate identities. Discuss in the light of M. K. Gandhi.
 **Primary route:** Philosophy Paper II → [Caste Discrimination: Gandhi and Ambedkar](../../topics/philosophy-paper-ii/caste-discrimination-gandhi-and-ambedkar.md) → Gandhi · caste · alternate identities · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -94,6 +97,7 @@ His position was nevertheless ambivalent. Gandhi increasingly rejected hereditar
 **Why this earns marks:** It uses Gandhi critically rather than reducing him either to defender or destroyer of caste.
 
 ---
+
 
 <a id="2018-philosophy-p2-q1d"></a>
 ## Q1(d). Discuss Kautilya's concept of sovereignty in the light of 'Danda-neety'.
@@ -124,6 +128,7 @@ Yet *daṇḍa* is not arbitrary terror. Punishment must be proportionate, infor
 
 ---
 
+
 <a id="2018-philosophy-p2-q1e"></a>
 ## Q1(e). What measures do you suggest to eradicate corruption in Indian democracy?
 **Primary route:** Philosophy Paper II → [Crime and Punishment](../../topics/philosophy-paper-ii/crime-and-punishment.md) → corruption · democratic accountability · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -152,6 +157,7 @@ First, reduce discretion without accountability through simple rules, transparen
 **Why this earns marks:** It supplies a coherent institutional and ethical strategy.
 
 ---
+
 
 <a id="2018-philosophy-p2-q2a"></a>
 ## Q2(a). How far can liberty and equality be considered as distinctive features of democracy? Discuss.
@@ -186,6 +192,7 @@ The ideals are thus not simple rivals. Equal liberty means that each receives a 
 
 ---
 
+
 <a id="2018-philosophy-p2-q2b"></a>
 ## Q2(b). Critically evaluate Laski's view on sovereignty as a satisfactory position in political theory.
 **Primary route:** Philosophy Paper II → [Sovereignty](../../topics/philosophy-paper-ii/sovereignty.md) → Laski · pluralism · sovereignty · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -216,6 +223,7 @@ Its weakness is the problem of final coordination. Associations can oppress memb
 **Why this earns marks:** It separates legal finality from unlimited moral sovereignty and reaches a balanced verdict.
 
 ---
+
 
 <a id="2018-philosophy-p2-q2c"></a>
 ## Q2(c). Do you subscribe to the political ideology of Anarchists? Justify your answer.
@@ -248,6 +256,7 @@ I do not accept the immediate abolition of all public authority. Large, plural s
 
 ---
 
+
 <a id="2018-philosophy-p2-q3a"></a>
 ## Q3(a). What do you understand by multi-culturalism? How are globalization and multi-culturalism related? How does their relationship affect cultural changes?
 **Primary route:** Philosophy Paper II → [Humanism, Secularism and Multiculturalism](../../topics/philosophy-paper-ii/humanism-secularism-and-multiculturalism.md) → multiculturalism · globalization · cultural change · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -279,6 +288,7 @@ Their relationship produces several cultural changes. First, hybridisation creat
 
 ---
 
+
 <a id="2018-philosophy-p2-q3b"></a>
 ## Q3(b). Are Marxian Socialism and individual freedom consistent? Discuss critically.
 **Primary route:** Philosophy Paper II → [Political Ideologies](../../topics/philosophy-paper-ii/political-ideologies.md) → Marxian socialism · freedom · alienation · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -308,6 +318,7 @@ Thus Marxian socialism and freedom are conceptually compatible. Shorter necessar
 
 ---
 
+
 <a id="2018-philosophy-p2-q3c"></a>
 ## Q3(c). What form of humanism do you approve as relevant in the present day context? Discuss in detail.
 **Primary route:** Philosophy Paper II → [Humanism, Secularism and Multiculturalism](../../topics/philosophy-paper-ii/humanism-secularism-and-multiculturalism.md) → humanism · dignity · pluralism · ecology · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -336,6 +347,7 @@ It is critical because institutions and traditions remain open to public justifi
 **Why this earns marks:** It identifies a definite form, supplies contemporary applications and answers a central objection.
 
 ---
+
 
 <a id="2018-philosophy-p2-q4a"></a>
 ## Q4(a). “Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss.
@@ -368,6 +380,7 @@ Cultural relativists rightly warn that a single civilisation may disguise its in
 
 ---
 
+
 <a id="2018-philosophy-p2-q4b"></a>
 ## Q4(b). How do you evaluate gender discrimination in the context of female foeticide?
 **Primary route:** Philosophy Paper II → [Gender Discrimination](../../topics/philosophy-paper-ii/gender-discrimination.md) → female foeticide · patriarchy · technology · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -398,6 +411,7 @@ Effective response requires equal inheritance, education, social security, safet
 **Why this earns marks:** It links act, structure, technology and autonomy without reducing the issue to any one factor.
 
 ---
+
 
 <a id="2018-philosophy-p2-q4c"></a>
 ## Q4(c). Is feminism an ideology for empowerment or for equality? Discuss.
@@ -430,6 +444,7 @@ Different feminisms weight the terms differently. Liberal feminism emphasises eq
 
 ## Section B — Philosophy of Religion
 
+
 <a id="2018-philosophy-p2-q5a"></a>
 ## Q5(a). In what sense is the secular use of language different from the religious use of language? Discuss.
 **Primary route:** Philosophy Paper II → [Religious Language](../../topics/philosophy-paper-ii/religious-language.md) → secular language · religious language · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -458,6 +473,7 @@ It therefore employs analogy, symbol, myth and negation, and functions within pr
 **Why this earns marks:** It states a nuanced functional difference without granting religious language immunity from evaluation.
 
 ---
+
 
 <a id="2018-philosophy-p2-q5b"></a>
 ## Q5(b). How far is it plausible to argue that the anti-theistic religions' stand on the concept of rebirth is philosophically significant?
@@ -488,6 +504,7 @@ These accounts challenge the assumption that only a creator-God can secure cosmi
 
 ---
 
+
 <a id="2018-philosophy-p2-q5c"></a>
 ## Q5(c). Can you justify religion without God? Support your answer.
 **Primary route:** Philosophy Paper II → [Religion without God](../../topics/philosophy-paper-ii/religion-without-god.md) → non-theistic religion · practice · liberation · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -514,6 +531,7 @@ Religion can be justified without a creator God if religion is understood as an 
 **Why this earns marks:** It gives a criterion, examples and a direct response to the definitional objection.
 
 ---
+
 
 <a id="2018-philosophy-p2-q5d"></a>
 ## Q5(d). Can one claim that there is an inter-relatedness between 'religiosity' and 'immorality'? Discuss.
@@ -544,6 +562,7 @@ The Euthyphro problem sharpens the issue: if an act is right only because comman
 
 ---
 
+
 <a id="2018-philosophy-p2-q5e"></a>
 ## Q5(e). Is Hinduism poly-theistic? Give reasons for your answer.
 **Primary route:** Philosophy Paper II → [Notions of God](../../topics/philosophy-paper-ii/notions-of-god.md) → Hinduism · polytheism · Brahman · deity · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -572,6 +591,7 @@ Some traditions treat one deity as supreme while recognising others; this is dev
 **Why this earns marks:** It gives reasons across practice and doctrine rather than forcing Hindu diversity into one category.
 
 ---
+
 
 <a id="2018-philosophy-p2-q6a"></a>
 ## Q6(a). Distinguish between Exclusivism, Inclusivism and Pluralism with regard to the conflicting truth-claims of different religions.
@@ -606,6 +626,7 @@ Religious diversity creates both a soteriological question—who can attain salv
 
 ---
 
+
 <a id="2018-philosophy-p2-q6b"></a>
 ## Q6(b). “Truth is one, yet people perceive differently.” Critically evaluate by considering the present Indian context.
 **Primary route:** Philosophy Paper II → [Religious Pluralism](../../topics/philosophy-paper-ii/religious-pluralism.md) → one truth · many perceptions · India · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -636,6 +657,7 @@ Yet the maxim can become facile. Claims about one God, many gods and no creator 
 **Why this earns marks:** It combines metaphysical, epistemic and political evaluation in the requested context.
 
 ---
+
 
 <a id="2018-philosophy-p2-q6c"></a>
 ## Q6(c). Does the concept of God entail the existence of God? Examine from the perspective of ontological argument.
@@ -668,6 +690,7 @@ Modal versions argue that if a maximally great being is possible, it exists nece
 
 ---
 
+
 <a id="2018-philosophy-p2-q7a"></a>
 ## Q7(a). The terms 'Sacred' and 'Holy' have come to serve as generic names for the object of religion. Do you agree that one can have God as the object of religion? Discuss.
 **Primary route:** Philosophy Paper II → [Religious Experience](../../topics/philosophy-paper-ii/religious-experience.md) → sacred · holy · God · object of religion · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -698,6 +721,7 @@ However, God is not the only possible religious object. Buddhism directs practic
 **Why this earns marks:** It distinguishes phenomenological, theological and sociological senses and reaches a qualified conclusion.
 
 ---
+
 
 <a id="2018-philosophy-p2-q7b"></a>
 ## Q7(b). Critically examine Braithwaite's non-cognitive theory of religious language.
@@ -730,6 +754,7 @@ Its cost is reductionism. Believers ordinarily intend claims about God, creation
 
 ---
 
+
 <a id="2018-philosophy-p2-q7c"></a>
 ## Q7(c). Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.
 **Primary route:** Philosophy Paper II → [Soul, Immortality, Rebirth and Liberation](../../topics/philosophy-paper-ii/soul-immortality-rebirth.md) → devotion · liberation · grace · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -760,6 +785,7 @@ A further limitation is that non-theistic and non-dual traditions conceptualise 
 **Why this earns marks:** It explains mechanism, doctrinal setting, objections and a qualified comparative judgment.
 
 ---
+
 
 <a id="2018-philosophy-p2-q8a"></a>
 ## Q8(a). Compare St. Thomas Aquinas' five ways of knowing God with the arguments of the Nyaya School of Indian Philosophy for the existence of God.
@@ -794,6 +820,7 @@ The common structure is cosmological and teleological: dependent, ordered realit
 
 ---
 
+
 <a id="2018-philosophy-p2-q8b"></a>
 ## Q8(b). Critically evaluate the Buddhistic arguments against the existence of God as the creator of the world.
 **Primary route:** Philosophy Paper II → [Proofs for God](../../topics/philosophy-paper-ii/proofs-for-god.md) → Buddhist critique · creator God · dependent origination · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -822,6 +849,7 @@ A permanent, changeless creator faces a dilemma: if creation is a new act, chang
 **Why this earns marks:** It presents multiple arguments, the strongest theistic reply and a discriminating verdict.
 
 ---
+
 
 <a id="2018-philosophy-p2-q8c"></a>
 ## Q8(c). Explain the significance of religious symbols as transcendent referent that mediates into the cultural, spatial and temporal world.

@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Philosophy Paper I: 8
-- **Marks represented:** 125 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** P. F. Strawson · person as primitive · M- and P-predicates; Quine · confirmation holism · web of belief; Quine · analyticity and reductionism; persons as basic particulars · anti-dualism; descriptive metaphysics and basic particulars; critique of empiricism and confirmation holism; basic particulars and identification; critique of analyticity
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 16
+- **Stable linked anchors:** 16
+- **Paper concentration:** Philosophy Paper I: 16
+- **Marks represented:** 220 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** P. F. Strawson · person as primitive · M- and P-predicates; Quine · confirmation holism · web of belief; Quine · analyticity and reductionism; persons as basic particulars · anti-dualism; descriptive metaphysics and basic particulars; critique of empiricism and confirmation holism; basic particulars and identification; critique of analyticity; Strawson · person as a primitive particular; Quine · rejection of the a priori; two dogmas and confirmation holism; first dogma of empiricism; concept of person; analyticity and synonymy; critique of empiricism’s dogmas; persons as basic particulars
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** persons as basic particulars
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** critique of empiricism’s dogmas
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** concept of person; analyticity and synonymy
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** first dogma of empiricism
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** two dogmas and confirmation holism
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Strawson · person as a primitive particular; Quine · rejection of the a priori
 
 ## 2019 concentration
 
@@ -113,3 +161,41 @@
 #### Philosophy Paper I
 
 - [Q1(e). Explain Quine’s arguments against synthetic-analytic distinction.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q1e) — critique of analyticity · 10 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q1(e). How does Strawson explain the concept of person in his philosophy? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q1e) — Strawson · person as a primitive particular · 10 marks
+- [Q2(c). How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q2c) — Quine · rejection of the a priori · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q3(c). What are the two dogmas of empiricism that Quine attacks? What are his arguments against what he calls the second dogma?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q3c) — two dogmas and confirmation holism · 15 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q1(e). Discuss Quine’s attack on the analytic-synthetic distinction.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q1e) — first dogma of empiricism · 10 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q1(d). Strawson’s distinction between ‘M’ and ‘P’ predicates.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1d) — concept of person · 10 marks
+- [Q2(c). Elucidate Quine’s arguments to show that analyticity is not synonymity.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q2c) — analyticity and synonymy · 15 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q1(e). How far are Quine’s arguments in “Two Dogmas of Empiricism” justified ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q1e) — critique of empiricism’s dogmas · 10 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q1(a). Explain and evaluate Strawson’s arguments for his conception of the nature of a person.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1a) — persons as basic particulars · 10 marks

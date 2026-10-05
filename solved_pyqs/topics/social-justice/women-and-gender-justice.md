@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2021, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Mains GS-I: 1; Mains GS-II: 6; Prelims GS-I: 1
-- **Marks represented:** 90 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Political representation; Social capital and empowerment; Gender-responsive policy; Constitutional gender justice; Transforming patriarchal norms; Maternity Benefit Amendment Act 2017 key provisions; Women’s political representation
+- **Released years represented:** 2015, 2017, 2019, 2021, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 12
+- **Stable linked anchors:** 12
+- **Paper concentration:** Mains GS-I: 1; Mains GS-II: 8; Prelims GS-I: 3
+- **Marks represented:** 117.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Political representation; Social capital and empowerment; Gender-responsive policy; Constitutional gender justice; Transforming patriarchal norms; Maternity Benefit Amendment Act 2017 key provisions; Women’s political representation; Global Gender Gap Index publisher; National Commission for Women; Beijing Declaration and Platform for Action', often seen in the news, is; Honour crimes and Khap Panchayats
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Beijing Declaration and Platform for Action', often seen in the news, is; Honour crimes and Khap Panchayats
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Global Gender Gap Index publisher; National Commission for Women
 
 ## 2019 concentration
 
@@ -103,3 +119,23 @@
 #### Mains GS-II
 
 - [Q13. “The reservation of seats for women in the institutions of local self-government has had a limited impact on the patriarchal character of the Indian Political Process.” Comment.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q13) — Women’s political representation · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q9. Global Gender Gap Index publisher](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q009) — Global Gender Gap Index publisher
+
+#### Mains GS-II
+
+- [Q15. Is the National Commission for Women able to strategize and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q15) — National Commission for Women · 15 marks
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q79. Beijing Declaration and Platform for Action', often seen in the news, is](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q079) — Beijing Declaration and Platform for Action', often seen in the news, is
+
+#### Mains GS-II
+
+- [Q4. Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard.](../../papers/2015/mains-gs2.md#2015-mains-gs2-q04) — Honour crimes and Khap Panchayats · 12.5 marks

@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2024, 2025
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-II: 3
-- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Rationalisation and independence; Alternative dispute resolution; CAT’s status and judicial independence
+- **Released years represented:** 2018, 2019, 2024, 2025
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 4
+- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Rationalisation and independence; Alternative dispute resolution; CAT’s status and judicial independence; Tribunal jurisdiction and constitutional validity
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Tribunal jurisdiction and constitutional validity
 
 ## 2019 concentration
 
@@ -56,3 +64,9 @@
 #### Mains GS-II
 
 - [Q2. “The Central Administrative Tribunal which was established for redressal of grievances and complaints by or against central government employees, nowadays is exercising its powers as an independent judicial authority.” Explain.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q02) — CAT’s status and judicial independence · 10 marks
+
+### 2018
+
+#### Mains GS-II
+
+- [Q12. How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India.](../../papers/2018/mains-gs2.md#2018-mains-gs2-q12) — Tribunal jurisdiction and constitutional validity · 15 marks

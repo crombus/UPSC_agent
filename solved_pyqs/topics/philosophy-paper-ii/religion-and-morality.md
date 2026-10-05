@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 12
-- **Stable linked anchors:** 12
-- **Paper concentration:** Philosophy Paper II: 12
-- **Marks represented:** 155 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Kant, Euthyphro and divine command theory · autonomy versus heteronomy; M. K. Gandhi · Truth (satya), non-violence (ahiṃsā) and moral religion; Nietzsche · genealogy of morality; God-reference and moral obligation; possibility of religion without morality; Mutual influence; Independence and dependence of religion and morality; Dependence and autonomy; religious belief · practice · moral behaviour; religious violence · just war · non-violence; religious commitment · social morality; secular ethics · moral motivation · normativity
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 21
+- **Stable linked anchors:** 21
+- **Paper concentration:** Philosophy Paper II: 21
+- **Marks represented:** 270 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Kant, Euthyphro and divine command theory · autonomy versus heteronomy; M. K. Gandhi · Truth (satya), non-violence (ahiṃsā) and moral religion; Nietzsche · genealogy of morality; God-reference and moral obligation; possibility of religion without morality; Mutual influence; Independence and dependence of religion and morality; Dependence and autonomy; religious belief · practice · moral behaviour; religious violence · just war · non-violence; religious commitment · social morality; secular ethics · moral motivation · normativity; religiosity · immorality · moral motivation; religious commitment · social morality · conscience; secular ethics · absolute values · authority; autonomy · divine command · motivation · public ethics; divine command · moral autonomy; atheism · moral character · religious identity; fact-value distinction · naturalism; divine command · autonomy · freedom; autonomy · freedom
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** autonomy · freedom
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** fact-value distinction · naturalism; divine command · autonomy · freedom
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** divine command · moral autonomy; atheism · moral character · religious identity
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** autonomy · divine command · motivation · public ethics
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** religious commitment · social morality · conscience; secular ethics · absolute values · authority
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** religiosity · immorality · moral motivation
 
 ## 2019 concentration
 
@@ -130,3 +178,42 @@
 - [Q5(c). Can there be a philosophical argument to support violence in the name of religion? Discuss.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q5c) — religious violence · just war · non-violence · 10 marks
 - [Q5(d). Does a devoted commitment to a religious way of life make man go astray from social morality? Examine.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q5d) — religious commitment · social morality · 10 marks
 - [Q7(b). Secular ethics cannot fully resolve as to why one should be moral all the time. Examine.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q7b) — secular ethics · moral motivation · normativity · 15 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q5(d). Can one claim that there is an inter-relatedness between 'religiosity' and 'immorality'? Discuss.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q5d) — religiosity · immorality · moral motivation · 10 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q5(a). Does a committed religious person go against social morality? Discuss from the moral perspective.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q5a) — religious commitment · social morality · conscience · 10 marks
+- [Q7(b). What will be the authority and acceptance of the absolute ethical values in the non-theological system of social practices? Discuss.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q7b) — secular ethics · absolute values · authority · 15 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q7(b). “Moral principles function better when they remain independent and unconnected with religion.” Discuss.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q7b) — autonomy · divine command · motivation · public ethics · 15 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q5(c). Is morality necessarily based on religion? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q5c) — divine command · moral autonomy · 10 marks
+- [Q8(a). “An atheist may be a better man than a religious person bereft of moral values.” Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q8a) — atheism · moral character · religious identity · 15 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q5(b). On what grounds, the dichotomy between ‘is’ and ‘ought’ can either be justified or rejected?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q5b) — fact-value distinction · naturalism · 10 marks
+- [Q6(a). How far can religious morality incorporate individual freedom?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q6a) — divine command · autonomy · freedom · 20 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q5(b). Is religious morality consistent with individual freedom?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q5b) — autonomy · freedom · 10 marks

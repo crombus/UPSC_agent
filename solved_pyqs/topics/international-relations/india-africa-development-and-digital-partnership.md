@@ -6,12 +6,27 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 2
-- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Digital development partnership; Instability and military coups in the Sahel region; Military coups in Chad Guinea Mali Sudan West Africa; India’s influence in Africa
+- **Released years represented:** 2015, 2016, 2021, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 3
+- **Marks represented:** 32.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Digital development partnership; Instability and military coups in the Sahel region; Military coups in Chad Guinea Mali Sudan West Africa; India’s influence in Africa; India-Africa Summit; India’s Africa engagement
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** India’s Africa engagement
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** India-Africa Summit
 
 ## 2021 concentration
 
@@ -68,3 +83,15 @@
 #### Mains GS-II
 
 - [Q9. “If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.” In the light of this statement, examine India’s influence in Africa in recent years.](../../papers/2021/mains-gs2.md#2021-mains-gs2-q09) — India’s influence in Africa · 10 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q42. India-Africa Summit](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q042) — India-Africa Summit
+
+### 2015
+
+#### Mains GS-II
+
+- [Q17. Increasing interest of India in Africa has its pros and cons. Critically examine.](../../papers/2015/mains-gs2.md#2015-mains-gs2-q17) — India’s Africa engagement · 12.5 marks

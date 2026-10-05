@@ -8,9 +8,10 @@
 **Catalogue backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 
 ---
+
 <a id="2018-prelims-gs1-q01"></a>
 ## Q1. First Lok Sabha opposition party and Leader of Opposition history
-**Primary route:** Polity → Parliament → First Lok Sabha opposition party and Leader of Opposition history  
+**Primary route:** Polity → [Parliament](../../topics/polity/parliament.md) → First Lok Sabha opposition party and Leader of Opposition history
 **Primary classification:** Polity → Parliament → First Lok Sabha opposition party and Leader of Opposition history  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q1 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Polity/basic/Parliament](../../../upsc-ai-kit/knowledge/Polity/basic/Parliament.md)  
@@ -53,9 +54,10 @@ Statement 1 is incorrect: the First Lok Sabha existed from 1952 to 1957, while t
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q02"></a>
 ## Q2. Desert plant leaf adaptations to inhibit water loss
-**Primary route:** Science and Technology → General Science Biology and Physiology → Desert plant leaf adaptations to inhibit water loss  
+**Primary route:** Science and Technology → [General Science: Biology and Physiology](../../topics/science-and-technology/general-science-biology-and-physiology.md) → Desert plant leaf adaptations to inhibit water loss
 **Primary classification:** Science and Technology → General Science Biology and Physiology → Desert plant leaf adaptations to inhibit water loss  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q2 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/23_General-Science-Biology-and-Physiology](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md)  
@@ -98,9 +100,10 @@ All three listed modifications are crucial adaptations in desert plants, commonl
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q03"></a>
 ## Q3. NSSO 70th Round Agricultural Household Survey data
-**Primary route:** Economy → Land Reforms Green Revolution and Cropping Systems → NSSO 70th Round Agricultural Household Survey data  
+**Primary route:** Economy → [Land Reforms, Green Revolution and Cropping Systems](../../topics/economy/land-reforms-green-revolution-and-cropping-systems.md) → NSSO 70th Round Agricultural Household Survey data
 **Primary classification:** Economy → Land Reforms Green Revolution and Cropping Systems → NSSO 70th Round Agricultural Household Survey data  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q3 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems](../../../upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md)  
@@ -143,9 +146,10 @@ The question pertains to the findings of the NSSO 70th Round "Situation Assessme
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q04"></a>
 ## Q4. National Green Tribunal versus Central Pollution Control Board
-**Primary route:** Environment and Ecology → Environmental Impact Assessment and NGT → National Green Tribunal versus Central Pollution Control Board  
+**Primary route:** Environment and Ecology → [Environmental Impact Assessment and NGT](../../topics/environment/environmental-impact-assessment-and-ngt.md) → National Green Tribunal versus Central Pollution Control Board
 **Primary classification:** Environment and Ecology → Environmental Impact Assessment and NGT → National Green Tribunal versus Central Pollution Control Board  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q4 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/16_Environmental-Impact-Assessment-and-NGT.md)  
@@ -187,9 +191,10 @@ Statement 1 is incorrect. The National Green Tribunal (NGT) was indeed establish
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q05"></a>
 ## Q5. Ninth Schedule laws and judicial review in Constitution
-**Primary route:** Polity → Amendment and Basic Structure → Ninth Schedule laws and judicial review in Constitution  
+**Primary route:** Polity → [Amendment of the Constitution & Basic Structure](../../topics/polity/amendment-and-basic-structure.md) → Ninth Schedule laws and judicial review in Constitution
 **Primary classification:** Polity → Amendment and Basic Structure → Ninth Schedule laws and judicial review in Constitution  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q5 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Polity/basic/Amendment-and-Basic-Structure](../../../upsc-ai-kit/knowledge/Polity/basic/Amendment-and-Basic-Structure.md)  
@@ -230,9 +235,10 @@ Statement 1 is correct. The Parliament of India has the power to amend the Const
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q06"></a>
 ## Q6. Merchant Discount Rate meaning in digital payments context
-**Primary route:** Economy → Services Digital Economy Fintech and Platform Markets → Merchant Discount Rate meaning in digital payments context  
+**Primary route:** Economy → [Services, Digital Economy, Fintech and Platform Markets](../../topics/economy/services-digital-economy-fintech-and-platform-markets.md) → Merchant Discount Rate meaning in digital payments context
 **Primary classification:** Economy → Services Digital Economy Fintech and Platform Markets → Merchant Discount Rate meaning in digital payments context  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q6 · Difficulty: Moderate · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets](../../../upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md)  
@@ -266,9 +272,10 @@ Merchant Discount Rate (MDR) is the fee charged to a merchant by a bank for prov
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q07"></a>
 ## Q7. Nuclear Suppliers Group membership consequences for a country
-**Primary route:** International Relations → Regional Global and Minilateral Groupings → Nuclear Suppliers Group membership consequences for a country  
+**Primary route:** International Relations → [Regional, Global and Minilateral Groupings](../../topics/international-relations/regional-global-and-minilateral-groupings.md) → Nuclear Suppliers Group membership consequences for a country
 **Primary classification:** International Relations → Regional Global and Minilateral Groupings → Nuclear Suppliers Group membership consequences for a country  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q7 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings](../../../upsc-ai-kit/knowledge/International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md)  
@@ -309,9 +316,10 @@ Statement 1 is correct. The Nuclear Suppliers Group (NSG) is a group of nuclear 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q08"></a>
 ## Q8. Equalization tax on non-resident online advertising services India
-**Primary route:** Economy → Taxation GST Finance Commission and Fiscal Federalism → Equalization tax on non-resident online advertising services India  
+**Primary route:** Economy → [Taxation, GST, Finance Commission and Fiscal Federalism](../../topics/economy/taxation-gst-finance-commission-and-fiscal-federalism.md) → Equalization tax on non-resident online advertising services India
 **Primary classification:** Economy → Taxation GST Finance Commission and Fiscal Federalism → Equalization tax on non-resident online advertising services India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q8 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism](../../../upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md)  
@@ -351,9 +359,10 @@ Statement 1 is incorrect. The Equalization Levy (often termed 'Google Tax') was 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q09"></a>
 ## Q9. FRBM Review Committee debt-GDP ratio recommendations
-**Primary route:** Economy → Union Budget Fiscal Policy and Deficit Indicators → FRBM Review Committee debt-GDP ratio recommendations  
+**Primary route:** Economy → [Union Budget, Fiscal Policy and Deficit Indicators](../../topics/economy/union-budget-fiscal-policy-and-deficit-indicators.md) → FRBM Review Committee debt-GDP ratio recommendations
 **Primary classification:** Economy → Union Budget Fiscal Policy and Deficit Indicators → FRBM Review Committee debt-GDP ratio recommendations  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q9 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators](../../../upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md)  
@@ -396,9 +405,10 @@ Statement 1: The Fiscal Responsibility and Budget Management (FRBM) Review Commi
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q10"></a>
 ## Q10. Imported edible oils versus domestic production and customs duty
-**Primary route:** Economy → Foreign Trade WTO FTAs and Protectionism → Imported edible oils versus domestic production and customs duty  
+**Primary route:** Economy → [Foreign Trade, WTO, FTAs and Protectionism](../../topics/economy/foreign-trade-wto-ftas-and-protectionism.md) → Imported edible oils versus domestic production and customs duty
 **Primary classification:** Economy → Foreign Trade WTO FTAs and Protectionism → Imported edible oils versus domestic production and customs duty  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q10 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism](../../../upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md)  
@@ -439,9 +449,10 @@ Statement 1 is correct. India is one of the largest importers of edible oils glo
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q11"></a>
 ## Q11. Nationalist leader who wrote biographies of Mazzini and Garibaldi
-**Primary route:** Modern History → Militant Nationalism and Swadeshi → Nationalist leader who wrote biographies of Mazzini and Garibaldi  
+**Primary route:** Modern History → [Militant Nationalism and Swadeshi](../../topics/modern-history/militant-nationalism-and-swadeshi.md) → Nationalist leader who wrote biographies of Mazzini and Garibaldi
 **Primary classification:** Modern History → Militant Nationalism and Swadeshi → Nationalist leader who wrote biographies of Mazzini and Garibaldi  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q11 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/15_Militant-Nationalism-and-Swadeshi](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/15_Militant-Nationalism-and-Swadeshi.md)  
@@ -475,9 +486,10 @@ The question describes the distinct attributes of a prominent Indian nationalist
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q12"></a>
 ## Q12. Aadhaar card as citizenship proof and deactivation rules
-**Primary route:** Governance → Digital Public Infrastructure and Data Governance → Aadhaar card as citizenship proof and deactivation rules  
+**Primary route:** Governance → [Digital Public Infrastructure and Data Governance](../../topics/governance/digital-public-infrastructure-and-data-governance.md) → Aadhaar card as citizenship proof and deactivation rules
 **Primary classification:** Governance → Digital Public Infrastructure and Data Governance → Aadhaar card as citizenship proof and deactivation rules  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q12 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Governance/basic/06_Digital-Public-Infrastructure-and-Data-Governance](../../../upsc-ai-kit/knowledge/Governance/basic/06_Digital-Public-Infrastructure-and-Data-Governance.md)  
@@ -518,9 +530,10 @@ Statement 1 is incorrect. The Unique Identification Authority of India (UIDAI) a
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q13"></a>
 ## Q13. Aral Sea Lake Baikal shrinkage due to human activities
-**Primary route:** Geography → Lakes → Aral Sea Lake Baikal shrinkage due to human activities  
+**Primary route:** Geography → [Lakes: Formation & Types](../../topics/geography/lakes.md) → Aral Sea Lake Baikal shrinkage due to human activities
 **Primary classification:** Geography → Lakes → Aral Sea Lake Baikal shrinkage due to human activities  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q13 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Geography/basic/09_Lakes](../../../upsc-ai-kit/knowledge/Geography/basic/09_Lakes.md)  
@@ -562,9 +575,10 @@ The Aral Sea is a well-documented example of a large inland lake that has shrunk
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q14"></a>
 ## Q14. Organization that releases Rule of Law Index annually
-**Primary route:** Governance → Good Governance Concepts and Frameworks → Organization that releases Rule of Law Index annually  
+**Primary route:** Governance → [Good Governance Concepts and Frameworks](../../topics/governance/good-governance-concepts-and-frameworks.md) → Organization that releases Rule of Law Index annually
 **Primary classification:** Governance → Good Governance Concepts and Frameworks → Organization that releases Rule of Law Index annually  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q14 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Governance/basic/01_Good-Governance-Concepts-and-Frameworks](../../../upsc-ai-kit/knowledge/Governance/basic/01_Good-Governance-Concepts-and-Frameworks.md)  
@@ -598,9 +612,10 @@ The correct answer is (D) World Justice Project. The 'Rule of Law Index' is an a
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q15"></a>
 ## Q15. Institution linking all ATMs across India
-**Primary route:** Economy → Services Digital Economy Fintech and Platform Markets → Institution linking all ATMs across India  
+**Primary route:** Economy → [Services, Digital Economy, Fintech and Platform Markets](../../topics/economy/services-digital-economy-fintech-and-platform-markets.md) → Institution linking all ATMs across India
 **Primary classification:** Economy → Services Digital Economy Fintech and Platform Markets → Institution linking all ATMs across India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q15 · Difficulty: Moderate · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets](../../../upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md)  
@@ -634,9 +649,10 @@ The correct answer is National Payments Corporation of India (NPCI). NPCI is an 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q16"></a>
 ## Q16. Capital Adequacy Ratio banking regulation and determination
-**Primary route:** Economy → NPAs Basel Norms Resolution and Financial Inclusion → Capital Adequacy Ratio banking regulation and determination  
+**Primary route:** Economy → [Banking Structure, NBFCs and Financial Regulation](../../topics/economy/banking-structure-nbfcs-and-financial-regulation.md) → Capital Adequacy Ratio banking regulation and determination
 **Primary classification:** Economy → NPAs Basel Norms Resolution and Financial Inclusion → Capital Adequacy Ratio banking regulation and determination  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q16 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion](../../../upsc-ai-kit/knowledge/Economy/basic/06_NPAs-Basel-Norms-Resolution-and-Financial-Inclusion.md)  
@@ -677,9 +693,10 @@ Statement 1 is correct. Capital Adequacy Ratio (CAR), also known as Capital to R
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q17"></a>
 ## Q17. Aadhaar Open APIs electronic integration and biometric authentication
-**Primary route:** Science and Technology → Digital India and India Stack UPI Aadhaar → Aadhaar Open APIs electronic integration and biometric authentication  
+**Primary route:** Science and Technology → [Digital India, India Stack and Digital Infrastructure](../../topics/science-and-technology/digital-india-india-stack-and-digital-infrastructure.md) → Aadhaar Open APIs electronic integration and biometric authentication
 **Primary classification:** Science and Technology → Digital India and India Stack UPI Aadhaar → Aadhaar Open APIs electronic integration and biometric authentication  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q17 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar.md)  
@@ -721,9 +738,10 @@ Statement 1: The term 'open Application Programming Interfaces (APIs)' implies t
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q18"></a>
 ## Q18. Countries facing severe famine due to war and conflict
-**Primary route:** International Relations → UN and International Institutions Global Governance → Countries facing severe famine due to war and conflict  
+**Primary route:** International Relations → [UN and International Institutions: Global Governance](../../topics/international-relations/un-and-international-institutions-global-governance.md) → Countries facing severe famine due to war and conflict
 **Primary classification:** International Relations → UN and International Institutions Global Governance → Countries facing severe famine due to war and conflict  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q18 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [International-Relations/basic/12_UN-and-International-Institutions-Global-Governance](../../../upsc-ai-kit/knowledge/International-Relations/basic/12_UN-and-International-Institutions-Global-Governance.md)  
@@ -757,9 +775,10 @@ The question specifically asks about 'very recently' (referring to the mid-to-la
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q19"></a>
 ## Q19. Wood's Dispatch provisions on education in colonial India
-**Primary route:** Modern History → Social and Cultural Policy Education Press → Wood's Dispatch provisions on education in colonial India  
+**Primary route:** Modern History → [Macaulay’s Minute and Colonial Education](../../topics/modern-history/macaulays-minute-colonial-education.md) → Wood's Dispatch provisions on education in colonial India
 **Primary classification:** Modern History → Social and Cultural Policy Education Press → Wood's Dispatch provisions on education in colonial India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q19 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press.md)  
@@ -801,9 +820,10 @@ Wood's Dispatch of 1854 was a significant milestone in the history of education 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q20"></a>
 ## Q20. Parliamentary Committee scrutinizing delegated legislation India
-**Primary route:** Polity → Parliament → Parliamentary Committee scrutinizing delegated legislation India  
+**Primary route:** Polity → [Parliament](../../topics/polity/parliament.md) → Parliamentary Committee scrutinizing delegated legislation India
 **Primary classification:** Polity → Parliament → Parliamentary Committee scrutinizing delegated legislation India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q20 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Polity/basic/Parliament](../../../upsc-ai-kit/knowledge/Polity/basic/Parliament.md)  
@@ -837,9 +857,10 @@ The question specifically asks for the Parliamentary Committee that scrutinizes 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q21"></a>
 ## Q21. Right to Education Act teacher qualification eligibility provisions
-**Primary route:** Social Justice → Education and Human Resource Development → Right to Education Act teacher qualification eligibility provisions  
+**Primary route:** Social Justice → [Education and Human Resource Development](../../topics/social-justice/education-and-human-resource-development.md) → Right to Education Act teacher qualification eligibility provisions
 **Primary classification:** Social Justice → Education and Human Resource Development → Right to Education Act teacher qualification eligibility provisions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q21 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Social-Justice/basic/04_Education-and-Human-Resource-Development](../../../upsc-ai-kit/knowledge/Social-Justice/basic/04_Education-and-Human-Resource-Development.md)  
@@ -882,9 +903,10 @@ This statement is incorrect. Section 23(1) of the Right of Children to Free and 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q22"></a>
 ## Q22. Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions
-**Primary route:** Art and Culture → Crafts Textiles Folk and Tribal Traditions → Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions  
+**Primary route:** Art and Culture → [Crafts, Textiles, Folk and Tribal Traditions](../../topics/art-and-culture/crafts-textiles-folk-and-tribal-traditions.md) → Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions
 **Primary classification:** Art and Culture → Crafts Textiles Folk and Tribal Traditions → Chapchar Kut Khongjom Parba Thang-Ta folk cultural traditions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q22 · Difficulty: Moderate · Demand: pair matching · elimination  
 **Canonical owner:** [Indian-Art-and-Culture/basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md)  
@@ -926,9 +948,10 @@ Let's evaluate each pair: Chapchar Kut festival | Mizoram: This pair is correct.
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q23"></a>
 ## Q23. Food Safety and Standards Act 2006 and FSSAI structure
-**Primary route:** Governance → Regulatory Governance and Independent Regulators → Food Safety and Standards Act 2006 and FSSAI structure  
+**Primary route:** Governance → [Regulatory Governance and Independent Regulators](../../topics/governance/regulatory-governance-and-independent-regulators.md) → Food Safety and Standards Act 2006 and FSSAI structure
 **Primary classification:** Governance → Regulatory Governance and Independent Regulators → Food Safety and Standards Act 2006 and FSSAI structure  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q23 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Governance/basic/11_Regulatory-Governance-and-Independent-Regulators](../../../upsc-ai-kit/knowledge/Governance/basic/11_Regulatory-Governance-and-Independent-Regulators.md)  
@@ -970,9 +993,10 @@ Statement 1 is correct. The Food Safety and Standards Act (FSSA), 2006 was enact
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q24"></a>
 ## Q24. Two-state solution in international affairs context
-**Primary route:** International Relations → West Asia Energy Security and Connectivity → Two-state solution in international affairs context  
+**Primary route:** International Relations → [West Asia, Energy Security and Connectivity](../../topics/international-relations/west-asia-energy-security-and-connectivity.md) → Two-state solution in international affairs context
 **Primary classification:** International Relations → West Asia Energy Security and Connectivity → Two-state solution in international affairs context  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q24 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity](../../../upsc-ai-kit/knowledge/International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity.md)  
@@ -1006,9 +1030,10 @@ The term "two-state solution" refers to a proposed framework for resolving the I
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q25"></a>
 ## Q25. National Food Security Act 2013 beneficiary categories and provisions
-**Primary route:** Social Justice → Poverty Hunger Food and Nutrition Security → National Food Security Act 2013 beneficiary categories and provisions  
+**Primary route:** Social Justice → [Food and Nutrition Security](../../topics/social-justice/food-and-nutrition-security.md) → National Food Security Act 2013 beneficiary categories and provisions
 **Primary classification:** Social Justice → Poverty Hunger Food and Nutrition Security → National Food Security Act 2013 beneficiary categories and provisions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q25 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Social-Justice/basic/02_Poverty-Hunger-Food-and-Nutrition-Security](../../../upsc-ai-kit/knowledge/Social-Justice/basic/02_Poverty-Hunger-Food-and-Nutrition-Security.md)  
@@ -1051,9 +1076,10 @@ Statement 1 is incorrect. The National Food Security Act (NFSA), 2013, aims to p
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q26"></a>
 ## Q26. Geographical Indications of Goods Act 1999 treaty compliance
-**Primary route:** Economy → Foreign Trade WTO FTAs and Protectionism → Geographical Indications of Goods Act 1999 treaty compliance  
+**Primary route:** Economy → [Foreign Trade, WTO, FTAs and Protectionism](../../topics/economy/foreign-trade-wto-ftas-and-protectionism.md) → Geographical Indications of Goods Act 1999 treaty compliance
 **Primary classification:** Economy → Foreign Trade WTO FTAs and Protectionism → Geographical Indications of Goods Act 1999 treaty compliance  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q26 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism](../../../upsc-ai-kit/knowledge/Economy/basic/20_Foreign-Trade-WTO-FTAs-and-Protectionism.md)  
@@ -1087,9 +1113,10 @@ The correct answer is WTO. India enacted The Geographical Indications of Goods (
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q27"></a>
 ## Q27. State government mineral mining rights and distribution India
-**Primary route:** Geography → Mineral Energy Resources World and India → State government mineral mining rights and distribution India  
+**Primary route:** Geography → [Mineral & Energy Resources: Classification, World Belts & Strategic Significance](../../topics/geography/mineral-energy-resources-world-and-india.md) → State government mineral mining rights and distribution India
 **Primary classification:** Geography → Mineral Energy Resources World and India → State government mineral mining rights and distribution India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q27 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Geography/basic/31_Mineral-Energy-Resources-World-and-India](../../../upsc-ai-kit/knowledge/Geography/basic/31_Mineral-Energy-Resources-World-and-India.md)  
@@ -1132,9 +1159,10 @@ Let's evaluate each statement: This statement is incorrect. The Mines and Minera
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q28"></a>
 ## Q28. BHIM app UPI transfers and digital payment authentication factors
-**Primary route:** Economy → Services Digital Economy Fintech and Platform Markets → BHIM app UPI transfers and digital payment authentication factors  
+**Primary route:** Economy → [Services, Digital Economy, Fintech and Platform Markets](../../topics/economy/services-digital-economy-fintech-and-platform-markets.md) → BHIM app UPI transfers and digital payment authentication factors
 **Primary classification:** Economy → Services Digital Economy Fintech and Platform Markets → BHIM app UPI transfers and digital payment authentication factors  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q28 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets](../../../upsc-ai-kit/knowledge/Economy/basic/24_Services-Digital-Economy-Fintech-and-Platform-Markets.md)  
@@ -1175,9 +1203,10 @@ Statement 1: The BHIM (Bharat Interface for Money) app is developed by the Natio
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q29"></a>
 ## Q29. Indian cities on longitude closest to Delhi
-**Primary route:** Geography → Indian Political Geography Boundaries and Neighbours → Indian cities on longitude closest to Delhi  
+**Primary route:** Geography → [Political Geography: Boundaries, Frontiers & Geopolitical Theories](../../topics/geography/indian-political-geography-boundaries-and-neighbours.md) → Indian cities on longitude closest to Delhi
 **Primary classification:** Geography → Indian Political Geography Boundaries and Neighbours → Indian cities on longitude closest to Delhi  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q29 · Difficulty: Easy · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours](../../../upsc-ai-kit/knowledge/Geography/basic/35_Indian-Political-Geography-Boundaries-and-Neighbours.md)  
@@ -1211,9 +1240,10 @@ To determine which city lies on a longitude closest to that of Delhi, we need to
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q30"></a>
 ## Q30. ILO Conventions 138 and 182 subject matter
-**Primary route:** Social Justice → Children and Child Protection → ILO Conventions 138 and 182 subject matter  
+**Primary route:** Social Justice → [Children and Child Protection](../../topics/social-justice/children-and-child-protection.md) → ILO Conventions 138 and 182 subject matter
 **Primary classification:** Social Justice → Children and Child Protection → ILO Conventions 138 and 182 subject matter  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q30 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Social-Justice/basic/06_Children-and-Child-Protection](../../../upsc-ai-kit/knowledge/Social-Justice/basic/06_Children-and-Child-Protection.md)  
@@ -1247,9 +1277,10 @@ The International Labour Organization (ILO) Conventions 138 and 182 are foundati
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q31"></a>
 ## Q31. Money Bill constitutional provisions and definitions India
-**Primary route:** Polity → Parliament → Money Bill constitutional provisions and definitions India  
+**Primary route:** Polity → [Parliament](../../topics/polity/parliament.md) → Money Bill constitutional provisions and definitions India
 **Primary classification:** Polity → Parliament → Money Bill constitutional provisions and definitions India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q31 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Polity/basic/Parliament](../../../upsc-ai-kit/knowledge/Polity/basic/Parliament.md)  
@@ -1283,9 +1314,10 @@ The question asks for the statement that is NOT correct regarding a Money Bill. 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q32"></a>
 ## Q32. President of India election vote values for MLAs and MPs
-**Primary route:** Polity → President and Vice President → President of India election vote values for MLAs and MPs  
+**Primary route:** Polity → [President & Vice-President (Art 52–73)](../../topics/polity/president-and-vice-president.md) → President of India election vote values for MLAs and MPs
 **Primary classification:** Polity → President and Vice President → President of India election vote values for MLAs and MPs  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q32 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Polity/basic/President-and-Vice-President](../../../upsc-ai-kit/knowledge/Polity/basic/President-and-Vice-President.md)  
@@ -1326,9 +1358,10 @@ The election of the President of India is conducted by an electoral college cons
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q33"></a>
 ## Q33. India IAEA Additional Protocol ratification and implications
-**Primary route:** International Relations → Regional Global and Minilateral Groupings → India IAEA Additional Protocol ratification and implications  
+**Primary route:** International Relations → [Regional, Global and Minilateral Groupings](../../topics/international-relations/regional-global-and-minilateral-groupings.md) → India IAEA Additional Protocol ratification and implications
 **Primary classification:** International Relations → Regional Global and Minilateral Groupings → India IAEA Additional Protocol ratification and implications  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q33 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings](../../../upsc-ai-kit/knowledge/International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md)  
@@ -1362,9 +1395,10 @@ The correct answer is A. India's ratification of the Additional Protocol with th
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q34"></a>
 ## Q34. ASEAN free-trade partner countries identification
-**Primary route:** International Relations → Regional Global and Minilateral Groupings → ASEAN free-trade partner countries identification  
+**Primary route:** International Relations → [Regional, Global and Minilateral Groupings](../../topics/international-relations/regional-global-and-minilateral-groupings.md) → ASEAN free-trade partner countries identification
 **Primary classification:** International Relations → Regional Global and Minilateral Groupings → ASEAN free-trade partner countries identification  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q34 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings](../../../upsc-ai-kit/knowledge/International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md)  
@@ -1410,9 +1444,10 @@ ASEAN (Association of Southeast Asian Nations) has established several 'ASEAN Pl
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q35"></a>
 ## Q35. Global Alliance for Climate-Smart Agriculture features and membership
-**Primary route:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Global Alliance for Climate-Smart Agriculture features and membership  
+**Primary route:** Environment and Ecology → [UNFCCC COP Kyoto Paris Agreement](../../topics/environment/unfccc-cop-kyoto-paris-agreement.md) → Global Alliance for Climate-Smart Agriculture features and membership
 **Primary classification:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Global Alliance for Climate-Smart Agriculture features and membership  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q35 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md)  
@@ -1454,9 +1489,10 @@ Statement 1 is incorrect. The Global Alliance for Climate-Smart Agriculture (GAC
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q36"></a>
 ## Q36. Digital India Plan government aims and objectives
-**Primary route:** Governance → E Governance Models and User Centricity → Digital India Plan government aims and objectives  
+**Primary route:** Governance → [E-Governance Models and User-Centricity](../../topics/governance/e-governance-models-and-user-centricity.md) → Digital India Plan government aims and objectives
 **Primary classification:** Governance → E Governance Models and User Centricity → Digital India Plan government aims and objectives  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q36 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Governance/basic/05_E-Governance-Models-and-User-Centricity](../../../upsc-ai-kit/knowledge/Governance/basic/05_E-Governance-Models-and-User-Centricity.md)  
@@ -1499,9 +1535,10 @@ The 'Digital India' programme is a flagship initiative of the Government of Indi
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q37"></a>
 ## Q37. Conflict zone towns and their correct country matching
-**Primary route:** International Relations → West Asia Energy Security and Connectivity → Conflict zone towns and their correct country matching  
+**Primary route:** International Relations → [West Asia, Energy Security and Connectivity](../../topics/international-relations/west-asia-energy-security-and-connectivity.md) → Conflict zone towns and their correct country matching
 **Primary classification:** International Relations → West Asia Energy Security and Connectivity → Conflict zone towns and their correct country matching  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q37 · Difficulty: Hard · Demand: pair matching · elimination  
 **Canonical owner:** [International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity](../../../upsc-ai-kit/knowledge/International-Relations/basic/06_West-Asia-Energy-Security-and-Connectivity.md)  
@@ -1545,9 +1582,10 @@ Consider the following pairs: (Towns sometimes mentioned in news — Country)
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q38"></a>
 ## Q38. Government of India Act 1935 residuary powers allocation
-**Primary route:** Modern History → Government of India Act 1935 and Congress Ministries → Government of India Act 1935 residuary powers allocation  
+**Primary route:** Modern History → [Government of India Act 1935 and Congress Ministries](../../topics/modern-history/government-of-india-act-1935-and-congress-ministries.md) → Government of India Act 1935 residuary powers allocation
 **Primary classification:** Modern History → Government of India Act 1935 and Congress Ministries → Government of India Act 1935 residuary powers allocation  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q38 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/24_Government-of-India-Act-1935-and-Congress-Ministries](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/24_Government-of-India-Act-1935-and-Congress-Ministries.md)  
@@ -1581,9 +1619,10 @@ The Government of India Act of 1935 was a significant step towards a federal str
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q39"></a>
 ## Q39. Speaker of Legislative Assembly office vacation provisions
-**Primary route:** Polity → State Legislature → Speaker of Legislative Assembly office vacation provisions  
+**Primary route:** Polity → [State Legislatures](../../topics/polity/state-legislatures.md) → Speaker of Legislative Assembly office vacation provisions
 **Primary classification:** Polity → State Legislature → Speaker of Legislative Assembly office vacation provisions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q39 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Polity/basic/State-Legislature](../../../upsc-ai-kit/knowledge/Polity/basic/State-Legislature.md)  
@@ -1624,9 +1663,10 @@ Statement 1 is correct. Article 179(a) of the Indian Constitution clearly states
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q40"></a>
 ## Q40. Conceptual relationship between law and liberty
-**Primary route:** Polity → Salient Features → Conceptual relationship between law and liberty  
+**Primary route:** Polity → [Salient Features and Constitutional Parts](../../topics/polity/salient-features-and-constitutional-parts.md) → Conceptual relationship between law and liberty
 **Primary classification:** Polity → Salient Features → Conceptual relationship between law and liberty  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q40 · Difficulty: Hard · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Polity/basic/Salient-Features](../../../upsc-ai-kit/knowledge/Polity/basic/Salient-Features.md)  
@@ -1660,9 +1700,10 @@ The correct answer is B. This option reflects the fundamental and most appropria
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q41"></a>
 ## Q41. Governor of State criminal proceedings and emoluments protection
-**Primary route:** Polity → Governor and CM → Governor of State criminal proceedings and emoluments protection  
+**Primary route:** Polity → [Governor, Chief Minister & State Council of Ministers](../../topics/polity/governor-and-cm.md) → Governor of State criminal proceedings and emoluments protection
 **Primary classification:** Polity → Governor and CM → Governor of State criminal proceedings and emoluments protection  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q41 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Polity/basic/Governor-and-CM](../../../upsc-ai-kit/knowledge/Polity/basic/Governor-and-CM.md)  
@@ -1703,9 +1744,10 @@ Statement 1 is correct. Article 361 (Protection of President and Governors and R
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q42"></a>
 ## Q42. Bani Thani painting and its Rajasthani school attribution
-**Primary route:** Art and Culture → Painting Traditions → Bani Thani painting and its Rajasthani school attribution  
+**Primary route:** Art and Culture → [Painting Traditions](../../topics/art-and-culture/painting-traditions.md) → Bani Thani painting and its Rajasthani school attribution
 **Primary classification:** Art and Culture → Painting Traditions → Bani Thani painting and its Rajasthani school attribution  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q42 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Indian-Art-and-Culture/basic/07_Painting-Traditions](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/basic/07_Painting-Traditions.md)  
@@ -1739,9 +1781,10 @@ The painting 'Bani Thani' is a widely recognized Indian miniature painting that 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q43"></a>
 ## Q43. THAAD Terminal High Altitude Area Defense system description
-**Primary route:** Science and Technology → Defence RandD DRDO and Missile Systems → THAAD Terminal High Altitude Area Defense system description  
+**Primary route:** Science and Technology → [Defence R&D, DRDO and Missile Systems](../../topics/science-and-technology/defence-randd-drdo-and-missile-systems.md) → THAAD Terminal High Altitude Area Defense system description
 **Primary classification:** Science and Technology → Defence RandD DRDO and Missile Systems → THAAD Terminal High Altitude Area Defense system description  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q43 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/06_Defence-RandD-DRDO-and-Missile-Systems](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/06_Defence-RandD-DRDO-and-Missile-Systems.md)  
@@ -1775,9 +1818,10 @@ Terminal High Altitude Area Defense (THAAD) is a mobile anti-ballistic missile s
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q44"></a>
 ## Q44. Tyagaraja Kritis Annamacharya kirtanas facts in classical music
-**Primary route:** Art and Culture → Indian Music → Tyagaraja Kritis Annamacharya kirtanas facts in classical music  
+**Primary route:** Art and Culture → [Indian Music](../../topics/art-and-culture/indian-music.md) → Tyagaraja Kritis Annamacharya kirtanas facts in classical music
 **Primary classification:** Art and Culture → Indian Music → Tyagaraja Kritis Annamacharya kirtanas facts in classical music  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q44 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Indian-Art-and-Culture/basic/08_Indian-Music](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/basic/08_Indian-Music.md)  
@@ -1821,9 +1865,10 @@ Statement 1: Most of the Tyagaraja Kritis are devotional songs in praise of Lord
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q45"></a>
 ## Q45. Rule of Law main features and principles
-**Primary route:** Polity → Salient Features → Rule of Law main features and principles  
+**Primary route:** Polity → [Salient Features and Constitutional Parts](../../topics/polity/salient-features-and-constitutional-parts.md) → Rule of Law main features and principles
 **Primary classification:** Polity → Salient Features → Rule of Law main features and principles  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q45 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Polity/basic/Salient-Features](../../../upsc-ai-kit/knowledge/Polity/basic/Salient-Features.md)  
@@ -1867,9 +1912,10 @@ The concept of 'Rule of Law' was propounded by A.V. Dicey, a British jurist. Acc
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q46"></a>
 ## Q46. Legal tender money definition and characteristics
-**Primary route:** Economy → RBI Monetary Policy and Liquidity Management → Legal tender money definition and characteristics  
+**Primary route:** Economy → [RBI, Monetary Policy and Liquidity Management](../../topics/economy/rbi-monetary-policy-and-liquidity-management.md) → Legal tender money definition and characteristics
 **Primary classification:** Economy → RBI Monetary Policy and Liquidity Management → Legal tender money definition and characteristics  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q46 · Difficulty: Moderate · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management](../../../upsc-ai-kit/knowledge/Economy/basic/04_RBI-Monetary-Policy-and-Liquidity-Management.md)  
@@ -1903,9 +1949,10 @@ Legal tender money refers to any form of payment that is recognized by a legal s
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q47"></a>
 ## Q47. Opportunity cost when government provides commodity free
-**Primary route:** Economy → Union Budget Fiscal Policy and Deficit Indicators → Opportunity cost when government provides commodity free  
+**Primary route:** Economy → [Union Budget, Fiscal Policy and Deficit Indicators](../../topics/economy/union-budget-fiscal-policy-and-deficit-indicators.md) → Opportunity cost when government provides commodity free
 **Primary classification:** Economy → Union Budget Fiscal Policy and Deficit Indicators → Opportunity cost when government provides commodity free  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q47 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators](../../../upsc-ai-kit/knowledge/Economy/basic/09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md)  
@@ -1939,9 +1986,10 @@ In economics, nothing is truly 'free'. Every good or service produced requires t
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q48"></a>
 ## Q48. GNP per capita not connoting economic development conditions
-**Primary route:** Economy → Growth Development HDI IHDI and MPI → GNP per capita not connoting economic development conditions  
+**Primary route:** Economy → [Growth, Development, HDI, IHDI and MPI](../../topics/economy/growth-development-hdi-ihdi-and-mpi.md) → GNP per capita not connoting economic development conditions
 **Primary classification:** Economy → Growth Development HDI IHDI and MPI → GNP per capita not connoting economic development conditions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q48 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI](../../../upsc-ai-kit/knowledge/Economy/basic/02_Growth-Development-HDI-IHDI-and-MPI.md)  
@@ -1975,9 +2023,10 @@ Economic growth, typically measured by an increase in Gross National Product (GN
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q49"></a>
 ## Q49. Human capital formation concept and its meaning
-**Primary route:** Economy → Employment Labour Codes Skills and Demographic Dividend → Human capital formation concept and its meaning  
+**Primary route:** Economy → [Employment, Labour Codes, Skills and Demographic Dividend](../../topics/economy/employment-labour-codes-skills-and-demographic-dividend.md) → Human capital formation concept and its meaning
 **Primary classification:** Economy → Employment Labour Codes Skills and Demographic Dividend → Human capital formation concept and its meaning  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q49 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend](../../../upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md)  
@@ -2022,9 +2071,10 @@ Human capital formation refers to the process of acquiring and increasing the nu
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q50"></a>
 ## Q50. High saving economy low output and capital-output ratio
-**Primary route:** Economy → National Income GDP GVA and Measurement → High saving economy low output and capital-output ratio  
+**Primary route:** Economy → [National Income, GDP, GVA and Measurement](../../topics/economy/national-income-gdp-gva-and-measurement.md) → High saving economy low output and capital-output ratio
 **Primary classification:** Economy → National Income GDP GVA and Measurement → High saving economy low output and capital-output ratio  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q50 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/01_National-Income-GDP-GVA-and-Measurement](../../../upsc-ai-kit/knowledge/Economy/basic/01_National-Income-GDP-GVA-and-Measurement.md)  
@@ -2058,9 +2108,10 @@ The correct answer is (D) high capital-output ratio. Capital formation refers to
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q51"></a>
 ## Q51. Colonial government measures after Santhal Uprising subsided
-**Primary route:** Modern History → Economic Impact of British Rule → Colonial government measures after Santhal Uprising subsided  
+**Primary route:** Modern History → [Economic Impact of British Rule](../../topics/modern-history/economic-impact-of-british-rule.md) → Colonial government measures after Santhal Uprising subsided
 **Primary classification:** Modern History → Economic Impact of British Rule → Colonial government measures after Santhal Uprising subsided  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q51 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule.md)  
@@ -2100,9 +2151,10 @@ The Santhal Uprising (1855-1856), led by Sidhu and Kanhu Murmu, was a significan
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q52"></a>
 ## Q52. Economic results of British rule in 19th century India
-**Primary route:** Modern History → Economic Impact of British Rule → Economic results of British rule in 19th century India  
+**Primary route:** Modern History → [Economic Impact of British Rule](../../topics/modern-history/economic-impact-of-british-rule.md) → Economic results of British rule in 19th century India
 **Primary classification:** Modern History → Economic Impact of British Rule → Economic results of British rule in 19th century India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q52 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule.md)  
@@ -2136,9 +2188,10 @@ The correct answer is (C) commercialization of Indian agriculture. British rule 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q53"></a>
 ## Q53. Article 356 President's Rule consequences in a state
-**Primary route:** Polity → Emergency Provisions → Article 356 President's Rule consequences in a state  
+**Primary route:** Polity → [Emergency Provisions](../../topics/polity/emergency-provisions.md) → Article 356 President's Rule consequences in a state
 **Primary classification:** Polity → Emergency Provisions → Article 356 President's Rule consequences in a state  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q53 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Polity/basic/Emergency-Provisions](../../../upsc-ai-kit/knowledge/Polity/basic/Emergency-Provisions.md)  
@@ -2172,9 +2225,10 @@ Article 356 of the Indian Constitution deals with the imposition of 'President's
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q54"></a>
 ## Q54. Regional textile craft heritage Puthukuli Sujni Uppada pairs
-**Primary route:** Art and Culture → Crafts Textiles Folk and Tribal Traditions → Regional textile craft heritage Puthukuli Sujni Uppada pairs  
+**Primary route:** Art and Culture → [Crafts, Textiles, Folk and Tribal Traditions](../../topics/art-and-culture/crafts-textiles-folk-and-tribal-traditions.md) → Regional textile craft heritage Puthukuli Sujni Uppada pairs
 **Primary classification:** Art and Culture → Crafts Textiles Folk and Tribal Traditions → Regional textile craft heritage Puthukuli Sujni Uppada pairs  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q54 · Difficulty: Moderate · Demand: pair matching · elimination  
 **Canonical owner:** [Indian-Art-and-Culture/basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/basic/12_Crafts-Textiles-Folk-and-Tribal-Traditions.md)  
@@ -2216,9 +2270,10 @@ Puthukkuli shawls - Tamil Nadu : This pair is correct. Puthukkuli shawls, also k
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q55"></a>
 ## Q55. GPS technology applications in mobile banking power grids
-**Primary route:** Science and Technology → Satellites NavIC GAGAN and Applications → GPS technology applications in mobile banking power grids  
+**Primary route:** Science and Technology → [Satellites, NavIC, GAGAN and Applications](../../topics/science-and-technology/satellites-navic-gagan-and-applications.md) → GPS technology applications in mobile banking power grids
 **Primary classification:** Science and Technology → Satellites NavIC GAGAN and Applications → GPS technology applications in mobile banking power grids  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q55 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/02_Satellites-NavIC-GAGAN-and-Applications](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/02_Satellites-NavIC-GAGAN-and-Applications.md)  
@@ -2260,9 +2315,10 @@ GPS (Global Positioning System) technology is a satellite-based navigation syste
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q56"></a>
 ## Q56. RBI management of government securities and treasury bills
-**Primary route:** Economy → Money Market Capital Market and Financial Instruments → RBI management of government securities and treasury bills  
+**Primary route:** Economy → [Money Market, Capital Market and Financial Instruments](../../topics/economy/money-market-capital-market-and-financial-instruments.md) → RBI management of government securities and treasury bills
 **Primary classification:** Economy → Money Market Capital Market and Financial Instruments → RBI management of government securities and treasury bills  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q56 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments](../../../upsc-ai-kit/knowledge/Economy/basic/07_Money-Market-Capital-Market-and-Financial-Instruments.md)  
@@ -2305,9 +2361,10 @@ The Reserve Bank of India manages and services Government of India Securities bu
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q57"></a>
 ## Q57. Earth magnetic field reversal early atmosphere and life modification
-**Primary route:** Geography → The Earths Crust Rocks → Earth magnetic field reversal early atmosphere and life modification  
+**Primary route:** Geography → [The Earths Crust Rocks](../../topics/geography/the-earths-crust-rocks.md) → Earth magnetic field reversal early atmosphere and life modification
 **Primary classification:** Geography → The Earths Crust Rocks → Earth magnetic field reversal early atmosphere and life modification  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q57 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Geography/basic/02_The-Earths-Crust-Rocks](../../../upsc-ai-kit/knowledge/Geography/basic/02_The-Earths-Crust-Rocks.md)  
@@ -2350,9 +2407,10 @@ Statement 1 is correct. Geological evidence from studies of paleomagnetism in ro
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q58"></a>
 ## Q58. WannaCry Petya EternalBlue terms in technology news
-**Primary route:** Internal Security → Cyber Security CII and Cybercrime → WannaCry Petya EternalBlue terms in technology news  
+**Primary route:** Internal Security → [Cyber Security, Critical Information Infrastructure and Cybercrime](../../topics/internal-security/cyber-security-cii-and-cybercrime.md) → WannaCry Petya EternalBlue terms in technology news
 **Primary classification:** Internal Security → Cyber Security CII and Cybercrime → WannaCry Petya EternalBlue terms in technology news  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q58 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime](../../../upsc-ai-kit/knowledge/Internal-Security/basic/08_Cyber-Security-CII-and-Cybercrime.md)  
@@ -2386,9 +2444,10 @@ The terms 'WannaCry,' 'Petya' (also known as NotPetya), and 'EternalBlue' are al
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q59"></a>
 ## Q59. Conservation Agriculture practices minimum tillage and crop rotations
-**Primary route:** Economy → Irrigation Inputs Credit Insurance and Sustainable Agriculture → Conservation Agriculture practices minimum tillage and crop rotations  
+**Primary route:** Economy → [Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture](../../topics/economy/irrigation-inputs-credit-insurance-and-sustainable-agriculture.md) → Conservation Agriculture practices minimum tillage and crop rotations
 **Primary classification:** Economy → Irrigation Inputs Credit Insurance and Sustainable Agriculture → Conservation Agriculture practices minimum tillage and crop rotations  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q59 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture](../../../upsc-ai-kit/knowledge/Economy/basic/14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md)  
@@ -2434,9 +2493,10 @@ Conservation Agriculture (CA) is a sustainable agricultural system based on thre
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q60"></a>
 ## Q60. Sixth mass extinction causes and human activities impact
-**Primary route:** Environment and Ecology → Biodiversity Levels and Hotspots → Sixth mass extinction causes and human activities impact  
+**Primary route:** Environment and Ecology → [Biodiversity Levels and Hotspots](../../topics/environment/biodiversity-levels-and-hotspots.md) → Sixth mass extinction causes and human activities impact
 **Primary classification:** Environment and Ecology → Biodiversity Levels and Hotspots → Sixth mass extinction causes and human activities impact  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q60 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/04_Biodiversity-Levels-and-Hotspots](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/04_Biodiversity-Levels-and-Hotspots.md)  
@@ -2470,9 +2530,10 @@ The term "sixth mass extinction," also known as the Holocene extinction or Anthr
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q61"></a>
 ## Q61. IRNSS satellite system orbits and coverage area India
-**Primary route:** Science and Technology → Satellites NavIC GAGAN and Applications → IRNSS satellite system orbits and coverage area India  
+**Primary route:** Science and Technology → [Satellites, NavIC, GAGAN and Applications](../../topics/science-and-technology/satellites-navic-gagan-and-applications.md) → IRNSS satellite system orbits and coverage area India
 **Primary classification:** Science and Technology → Satellites NavIC GAGAN and Applications → IRNSS satellite system orbits and coverage area India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q61 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Science-and-Technology/basic/02_Satellites-NavIC-GAGAN-and-Applications](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/02_Satellites-NavIC-GAGAN-and-Applications.md)  
@@ -2515,9 +2576,10 @@ Statement 1: IRNSS has three satellites in geostationary and four satellites in 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q62"></a>
 ## Q62. Einstein General Theory of Relativity key scientific predictions
-**Primary route:** Science and Technology → General Science Physics Fundamentals → Einstein General Theory of Relativity key scientific predictions  
+**Primary route:** Science and Technology → [General Science: Physics Fundamentals](../../topics/science-and-technology/general-science-physics-fundamentals.md) → Einstein General Theory of Relativity key scientific predictions
 **Primary classification:** Science and Technology → General Science Physics Fundamentals → Einstein General Theory of Relativity key scientific predictions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q62 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/21_General-Science-Physics-Fundamentals](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/21_General-Science-Physics-Fundamentals.md)  
@@ -2559,9 +2621,10 @@ Albert Einstein's General Theory of Relativity (GR), published in 1915, revoluti
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q63"></a>
 ## Q63. GM mustard developed in India genes and properties
-**Primary route:** Science and Technology → Genetic Engineering GM Crops and CRISPR → GM mustard developed in India genes and properties  
+**Primary route:** Science and Technology → [Genetic Engineering, GM Crops and CRISPR](../../topics/science-and-technology/genetic-engineering-gm-crops-and-crispr.md) → GM mustard developed in India genes and properties
 **Primary classification:** Science and Technology → Genetic Engineering GM Crops and CRISPR → GM mustard developed in India genes and properties  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q63 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Science-and-Technology/basic/14_Genetic-Engineering-GM-Crops-and-CRISPR](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/14_Genetic-Engineering-GM-Crops-and-CRISPR.md)  
@@ -2604,9 +2667,10 @@ Statement 1 is incorrect. Dhara Mustard Hybrid-11 (DMH-11), the GM mustard devel
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q64"></a>
 ## Q64. Technology terms Belle II Blockchain CRISPR-Cas9 context identification
-**Primary route:** Science and Technology → Genetic Engineering GM Crops and CRISPR → Technology terms Belle II Blockchain CRISPR-Cas9 context identification  
+**Primary route:** Science and Technology → [Genetic Engineering, GM Crops and CRISPR](../../topics/science-and-technology/genetic-engineering-gm-crops-and-crispr.md) → Technology terms Belle II Blockchain CRISPR-Cas9 context identification
 **Primary classification:** Science and Technology → Genetic Engineering GM Crops and CRISPR → Technology terms Belle II Blockchain CRISPR-Cas9 context identification  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q64 · Difficulty: Moderate · Demand: pair matching · elimination  
 **Canonical owner:** [Science-and-Technology/basic/14_Genetic-Engineering-GM-Crops-and-CRISPR](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/14_Genetic-Engineering-GM-Crops-and-CRISPR.md)  
@@ -2649,9 +2713,10 @@ Belle II experiment | Artificial Intelligence: This pair is incorrectly matched.
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q65"></a>
 ## Q65. Carbon fertilization effect on plant growth and atmosphere
-**Primary route:** Environment and Ecology → Climate Change Science Greenhouse Effect → Carbon fertilization effect on plant growth and atmosphere  
+**Primary route:** Environment and Ecology → [Climate Change Science Greenhouse Effect](../../topics/environment/climate-change-science-greenhouse-effect.md) → Carbon fertilization effect on plant growth and atmosphere
 **Primary classification:** Environment and Ecology → Climate Change Science Greenhouse Effect → Carbon fertilization effect on plant growth and atmosphere  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q65 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/17_Climate-Change-Science-Greenhouse-Effect](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/17_Climate-Change-Science-Greenhouse-Effect.md)  
@@ -2685,9 +2750,10 @@ Carbon fertilization refers to the increased rate of photosynthesis in plants du
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q66"></a>
 ## Q66. Internet of Things smart connected devices scenario description
-**Primary route:** Science and Technology → Digital India and India Stack UPI Aadhaar → Internet of Things smart connected devices scenario description  
+**Primary route:** Science and Technology → [Digital India, India Stack and Digital Infrastructure](../../topics/science-and-technology/digital-india-india-stack-and-digital-infrastructure.md) → Internet of Things smart connected devices scenario description
 **Primary classification:** Science and Technology → Digital India and India Stack UPI Aadhaar → Internet of Things smart connected devices scenario description  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q66 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/08_Digital-India-and-India-Stack-UPI-Aadhaar.md)  
@@ -2722,9 +2788,10 @@ The scenario vividly describes a network of interconnected physical objects, a s
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q67"></a>
 ## Q67. Solar power production silicon wafers and tariff regulation India
-**Primary route:** Environment and Ecology → Renewable Energy and Green Hydrogen → Solar power production silicon wafers and tariff regulation India  
+**Primary route:** Environment and Ecology → [Renewable Energy and Green Hydrogen](../../topics/environment/renewable-energy-and-green-hydrogen.md) → Solar power production silicon wafers and tariff regulation India
 **Primary classification:** Environment and Ecology → Renewable Energy and Green Hydrogen → Solar power production silicon wafers and tariff regulation India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q67 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/25_Renewable-Energy-and-Green-Hydrogen](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/25_Renewable-Energy-and-Green-Hydrogen.md)  
@@ -2766,9 +2833,10 @@ Statement 1 is incorrect. India is not the third largest in the world in the man
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q68"></a>
 ## Q68. East India Company export commodities from Bengal mid-century
-**Primary route:** Modern History → Economic Impact of British Rule → East India Company export commodities from Bengal mid-century  
+**Primary route:** Modern History → [Economic Impact of British Rule](../../topics/modern-history/economic-impact-of-british-rule.md) → East India Company export commodities from Bengal mid-century
 **Primary classification:** Modern History → Economic Impact of British Rule → East India Company export commodities from Bengal mid-century  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q68 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/07_Economic-Impact-of-British-Rule.md)  
@@ -2802,9 +2870,10 @@ During the middle of the 18th century, particularly after the Battle of Plassey 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q69"></a>
 ## Q69. Champaran Satyagraha significance for Indian National Movement
-**Primary route:** Modern History → Gandhis Rise Rowlatt and Jallianwala → Champaran Satyagraha significance for Indian National Movement  
+**Primary route:** Modern History → [Gandhian Movements and Mass Mobilisation](../../topics/modern-history/gandhian-mass-mobilisation.md) → Champaran Satyagraha significance for Indian National Movement
 **Primary classification:** Modern History → Gandhis Rise Rowlatt and Jallianwala → Champaran Satyagraha significance for Indian National Movement  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q69 · Difficulty: Hard · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Modern-Indian-History/basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/19_Gandhis-Rise-Rowlatt-and-Jallianwala.md)  
@@ -2838,9 +2907,10 @@ The Champaran Satyagraha (1917) was Mahatma Gandhi's first major satyagraha in I
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q70"></a>
 ## Q70. Founders of Hind Mazdoor Sabha labour organisation 1948
-**Primary route:** Post-Independence India → Economy Land Society and State A Post Independence Synthesis → Founders of Hind Mazdoor Sabha labour organisation 1948  
+**Primary route:** Post-Independence India → [Left, Peasant, Workers' & States' Peoples' Movements](../../topics/modern-history/left-peasant-workers-and-states-peoples-movements.md) → Founders of Hind Mazdoor Sabha labour organisation 1948
 **Primary classification:** Post-Independence India → Economy Land Society and State A Post Independence Synthesis → Founders of Hind Mazdoor Sabha labour organisation 1948  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q70 · Difficulty: Hard · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/38_Economy-Land-Society-and-State-A-Post-Independence-Synthesis.md)  
@@ -2874,9 +2944,10 @@ The Hind Mazdoor Sabha (HMS) was established in Calcutta (now Kolkata) on Decemb
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q71"></a>
 ## Q71. Sthanakvasi sect and its religious affiliation
-**Primary route:** Ancient History → Jainism and Buddhism → Sthanakvasi sect and its religious affiliation  
+**Primary route:** Ancient History → [Jainism and Buddhism](../../topics/ancient-history/jainism-and-buddhism.md) → Sthanakvasi sect and its religious affiliation
 **Primary classification:** Ancient History → Jainism and Buddhism → Sthanakvasi sect and its religious affiliation  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q71 · Difficulty: Easy · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Ancient-Indian-History/basic/10_Jainism-and-Buddhism](../../../upsc-ai-kit/knowledge/Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md)  
@@ -2910,9 +2981,10 @@ The 'Sthanakvasi' sect is a sub-sect within Jainism, specifically belonging to t
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q72"></a>
 ## Q72. Architectural materials at Fatehpur Sikri and Lucknow monuments
-**Primary route:** Art and Culture → Indo Islamic and Regional Architecture → Architectural materials at Fatehpur Sikri and Lucknow monuments  
+**Primary route:** Art and Culture → [Indo-Islamic and Regional Architecture](../../topics/art-and-culture/indo-islamic-and-regional-architecture.md) → Architectural materials at Fatehpur Sikri and Lucknow monuments
 **Primary classification:** Art and Culture → Indo Islamic and Regional Architecture → Architectural materials at Fatehpur Sikri and Lucknow monuments  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q72 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Indian-Art-and-Culture/basic/04_Indo-Islamic-and-Regional-Architecture](../../../upsc-ai-kit/knowledge/Indian-Art-and-Culture/basic/04_Indo-Islamic-and-Regional-Architecture.md)  
@@ -2953,9 +3025,10 @@ Statement 1 is incorrect. The Buland Darwaza at Fatehpur Sikri, built by Emperor
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q73"></a>
 ## Q73. Foreign traveler who discussed diamonds and diamond mines India
-**Primary route:** Medieval History → Mughal Society Economy Culture → Foreign traveler who discussed diamonds and diamond mines India  
+**Primary route:** Medieval History → [Mughal Society, Economy and Culture](../../topics/medieval-history/mughal-society-economy-and-culture.md) → Foreign traveler who discussed diamonds and diamond mines India
 **Primary classification:** Medieval History → Mughal Society Economy Culture → Foreign traveler who discussed diamonds and diamond mines India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q73 · Difficulty: Moderate · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Medieval-Indian-History/basic/24_Mughal-Society-Economy-Culture](../../../upsc-ai-kit/knowledge/Medieval-Indian-History/basic/24_Mughal-Society-Economy-Culture.md)  
@@ -2989,9 +3062,10 @@ Jean-Baptiste Tavernier was a renowned 17th-century French gem merchant and trav
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q74"></a>
 ## Q74. Maitreya as future Buddha in Buddhist tradition
-**Primary route:** Ancient History → Jainism and Buddhism → Maitreya as future Buddha in Buddhist tradition  
+**Primary route:** Ancient History → [Jainism and Buddhism](../../topics/ancient-history/jainism-and-buddhism.md) → Maitreya as future Buddha in Buddhist tradition
 **Primary classification:** Ancient History → Jainism and Buddhism → Maitreya as future Buddha in Buddhist tradition  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q74 · Difficulty: Moderate · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Ancient-Indian-History/basic/10_Jainism-and-Buddhism](../../../upsc-ai-kit/knowledge/Ancient-Indian-History/basic/10_Jainism-and-Buddhism.md)  
@@ -3025,9 +3099,10 @@ The question asks to identify the future Buddha, who is yet to appear to save th
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q75"></a>
 ## Q75. Subsidiary Alliance introduced by Lord Wellesley provisions
-**Primary route:** Modern History → British Territorial Expansion → Subsidiary Alliance introduced by Lord Wellesley provisions  
+**Primary route:** Modern History → [British Territorial Expansion](../../topics/modern-history/british-territorial-expansion.md) → Subsidiary Alliance introduced by Lord Wellesley provisions
 **Primary classification:** Modern History → British Territorial Expansion → Subsidiary Alliance introduced by Lord Wellesley provisions  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q75 · Difficulty: Hard · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Modern-Indian-History/basic/05_British-Territorial-Expansion](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/05_British-Territorial-Expansion.md)  
@@ -3061,9 +3136,10 @@ The Subsidiary Alliance system, introduced by Lord Wellesley (Governor-General f
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q76"></a>
 ## Q76. Introduction of English education in colonial India factors
-**Primary route:** Modern History → Social and Cultural Policy Education Press → Introduction of English education in colonial India factors  
+**Primary route:** Modern History → [Macaulay’s Minute and Colonial Education](../../topics/modern-history/macaulays-minute-colonial-education.md) → Introduction of English education in colonial India factors
 **Primary classification:** Modern History → Social and Cultural Policy Education Press → Introduction of English education in colonial India factors  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q76 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press.md)  
@@ -3105,9 +3181,10 @@ All three statements are correct and collectively led to the introduction of Eng
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q77"></a>
 ## Q77. Artificial lake identification among given Indian water bodies
-**Primary route:** Geography → Lakes → Artificial lake identification among given Indian water bodies  
+**Primary route:** Geography → [Lakes: Formation & Types](../../topics/geography/lakes.md) → Artificial lake identification among given Indian water bodies
 **Primary classification:** Geography → Lakes → Artificial lake identification among given Indian water bodies  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q77 · Difficulty: Easy · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Geography/basic/09_Lakes](../../../upsc-ai-kit/knowledge/Geography/basic/09_Lakes.md)  
@@ -3141,9 +3218,10 @@ Kodaikanal Lake, located in Kodaikanal, Tamil Nadu, is an artificial, star-shape
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q78"></a>
 ## Q78. Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry
-**Primary route:** Economy → Employment Labour Codes Skills and Demographic Dividend → Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry  
+**Primary route:** Economy → [Employment, Labour Codes, Skills and Demographic Dividend](../../topics/economy/employment-labour-codes-skills-and-demographic-dividend.md) → Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry
 **Primary classification:** Economy → Employment Labour Codes Skills and Demographic Dividend → Pradhan Mantri Kaushal Vikas Yojana scope provisions and ministry  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q78 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend](../../../upsc-ai-kit/knowledge/Economy/basic/22_Employment-Labour-Codes-Skills-and-Demographic-Dividend.md)  
@@ -3186,9 +3264,10 @@ Statement 1 is incorrect. The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is the
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q79"></a>
 ## Q79. All India Home Rule League renamed Swarajya Sabha 1920
-**Primary route:** Modern History → WWI Home Rule and Lucknow Pact → All India Home Rule League renamed Swarajya Sabha 1920  
+**Primary route:** Modern History → [First World War, Home Rule League & the Lucknow Pact](../../topics/modern-history/wwi-home-rule-and-lucknow-pact.md) → All India Home Rule League renamed Swarajya Sabha 1920
 **Primary classification:** Modern History → WWI Home Rule and Lucknow Pact → All India Home Rule League renamed Swarajya Sabha 1920  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q79 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/18_WWI-Home-Rule-and-Lucknow-Pact](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/18_WWI-Home-Rule-and-Lucknow-Pact.md)  
@@ -3222,9 +3301,10 @@ The correct answer is (A) All India Home Rule League. In 1920, Mahatma Gandhi wa
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q80"></a>
 ## Q80. Chronological order of 19th century socio-religious reform events
-**Primary route:** Modern History → Socio Religious Reform Movements → Chronological order of 19th century socio-religious reform events  
+**Primary route:** Modern History → [Socio-Religious Reform Movements](../../topics/modern-history/socio-religious-reform-movements.md) → Chronological order of 19th century socio-religious reform events
 **Primary classification:** Modern History → Socio Religious Reform Movements → Chronological order of 19th century socio-religious reform events  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q80 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/10_Socio-Religious-Reform-Movements](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/10_Socio-Religious-Reform-Movements.md)  
@@ -3258,9 +3338,10 @@ To determine the earliest event, we need to establish the dates for each option:
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q81"></a>
 ## Q81. Heavy sand mining riverbeds environmental and groundwater consequences
-**Primary route:** Environment and Ecology → Water Pollution and River Cleaning Missions → Heavy sand mining riverbeds environmental and groundwater consequences  
+**Primary route:** Environment and Ecology → [Water Pollution and River Cleaning Missions](../../topics/environment/water-pollution-and-river-cleaning-missions.md) → Heavy sand mining riverbeds environmental and groundwater consequences
 **Primary classification:** Environment and Ecology → Water Pollution and River Cleaning Missions → Heavy sand mining riverbeds environmental and groundwater consequences  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q81 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/14_Water-Pollution-and-River-Cleaning-Missions](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/14_Water-Pollution-and-River-Cleaning-Missions.md)  
@@ -3302,9 +3383,10 @@ Decreased salinity in the river: This statement is incorrect. Heavy sand mining,
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q82"></a>
 ## Q82. Agricultural soil organic matter sulfur cycle and salinization
-**Primary route:** Environment and Ecology → Desertification UNCCD and Land Degradation → Agricultural soil organic matter sulfur cycle and salinization  
+**Primary route:** Environment and Ecology → [Desertification, UNCCD and Land Degradation](../../topics/environment/desertification-unccd-and-land-degradation.md) → Agricultural soil organic matter sulfur cycle and salinization
 **Primary classification:** Environment and Ecology → Desertification UNCCD and Land Degradation → Agricultural soil organic matter sulfur cycle and salinization  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q82 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/23_Desertification-UNCCD-and-Land-Degradation](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/23_Desertification-UNCCD-and-Land-Degradation.md)  
@@ -3347,9 +3429,10 @@ This statement is incorrect. Organic matter acts like a sponge, significantly th
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q83"></a>
 ## Q83. Partnership for Action on Green Economy PAGE UN mechanism
-**Primary route:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Partnership for Action on Green Economy PAGE UN mechanism  
+**Primary route:** Environment and Ecology → [UNFCCC COP Kyoto Paris Agreement](../../topics/environment/unfccc-cop-kyoto-paris-agreement.md) → Partnership for Action on Green Economy PAGE UN mechanism
 **Primary classification:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Partnership for Action on Green Economy PAGE UN mechanism  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q83 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md)  
@@ -3383,9 +3466,10 @@ The Partnership for Action on Green Economy (PAGE) was launched in 2012 at the U
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q84"></a>
 ## Q84. 3D printing technology applications across multiple sectors
-**Primary route:** Science and Technology → Nanotechnology and Applications → 3D printing technology applications across multiple sectors  
+**Primary route:** Science and Technology → [Nanotechnology and Applications](../../topics/science-and-technology/nanotechnology-and-applications.md) → 3D printing technology applications across multiple sectors
 **Primary classification:** Science and Technology → Nanotechnology and Applications → 3D printing technology applications across multiple sectors  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q84 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/16_Nanotechnology-and-Applications](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/16_Nanotechnology-and-Applications.md)  
@@ -3431,9 +3515,10 @@ Let's evaluate each statement regarding the applications of 3D printing: Prepara
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q85"></a>
 ## Q85. Barren Island active volcano location and eruption history
-**Primary route:** Geography → Vulcanism and Earthquakes → Barren Island active volcano location and eruption history  
+**Primary route:** Geography → [Vulcanism and Earthquakes](../../topics/geography/vulcanism-and-earthquakes.md) → Barren Island active volcano location and eruption history
 **Primary classification:** Geography → Vulcanism and Earthquakes → Barren Island active volcano location and eruption history  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q85 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Geography/basic/03_Vulcanism-and-Earthquakes](../../../upsc-ai-kit/knowledge/Geography/basic/03_Vulcanism-and-Earthquakes.md)  
@@ -3476,9 +3561,10 @@ Statement 1 is correct. Barren Island is indeed India's only confirmed active vo
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q86"></a>
 ## Q86. Prosopis juliflora invasive plant ecological biodiversity impact
-**Primary route:** Environment and Ecology → Species and Current Affairs Tracker → Prosopis juliflora invasive plant ecological biodiversity impact  
+**Primary route:** Environment and Ecology → [Species and Current Affairs Tracker](../../topics/environment/species-and-current-affairs-tracker.md) → Prosopis juliflora invasive plant ecological biodiversity impact
 **Primary classification:** Environment and Ecology → Species and Current Affairs Tracker → Prosopis juliflora invasive plant ecological biodiversity impact  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q86 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/28_Species-and-Current-Affairs-Tracker.md)  
@@ -3512,9 +3598,10 @@ Why is a plant called *Prosopis juliflora* often mentioned in news?
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q87"></a>
 ## Q87. Coral reef global distribution tropical waters and biodiversity
-**Primary route:** Geography → Islands and Coral Reefs → Coral reef global distribution tropical waters and biodiversity  
+**Primary route:** Geography → [Islands and Coral Reefs](../../topics/geography/islands-and-coral-reefs.md) → Coral reef global distribution tropical waters and biodiversity
 **Primary classification:** Geography → Islands and Coral Reefs → Coral reef global distribution tropical waters and biodiversity  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q87 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Geography/basic/11_Islands-and-Coral-Reefs](../../../upsc-ai-kit/knowledge/Geography/basic/11_Islands-and-Coral-Reefs.md)  
@@ -3557,9 +3644,10 @@ Let's evaluate each statement: Statement 1: Most of the world's coral reefs are 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q88"></a>
 ## Q88. Momentum for Change Climate Neutral Now initiative and originator
-**Primary route:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Momentum for Change Climate Neutral Now initiative and originator  
+**Primary route:** Environment and Ecology → [UNFCCC COP Kyoto Paris Agreement](../../topics/environment/unfccc-cop-kyoto-paris-agreement.md) → Momentum for Change Climate Neutral Now initiative and originator
 **Primary classification:** Environment and Ecology → UNFCCC COP Kyoto Paris Agreement → Momentum for Change Climate Neutral Now initiative and originator  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q88 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/19_UNFCCC-COP-Kyoto-Paris-Agreement.md)  
@@ -3593,9 +3681,10 @@ The "Momentum for Change: Climate Neutral Now" initiative was launched by the Un
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q89"></a>
 ## Q89. Colonial educational institutions founders matching pairs India
-**Primary route:** Modern History → Social and Cultural Policy Education Press → Colonial educational institutions founders matching pairs India  
+**Primary route:** Modern History → [Macaulay’s Minute and Colonial Education](../../topics/modern-history/macaulays-minute-colonial-education.md) → Colonial educational institutions founders matching pairs India
 **Primary classification:** Modern History → Social and Cultural Policy Education Press → Colonial educational institutions founders matching pairs India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q89 · Difficulty: Moderate · Demand: pair matching · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/09_Social-and-Cultural-Policy-Education-Press.md)  
@@ -3637,9 +3726,10 @@ Let's evaluate each pair: Pair 1: Sanskrit College at Benaras - William Jones Th
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q90"></a>
 ## Q90. Separatist regional areas matched with correct countries in news
-**Primary route:** International Relations → Regional Global and Minilateral Groupings → Separatist regional areas matched with correct countries in news  
+**Primary route:** International Relations → [Regional, Global and Minilateral Groupings](../../topics/international-relations/regional-global-and-minilateral-groupings.md) → Separatist regional areas matched with correct countries in news
 **Primary classification:** International Relations → Regional Global and Minilateral Groupings → Separatist regional areas matched with correct countries in news  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q90 · Difficulty: Hard · Demand: pair matching · elimination  
 **Canonical owner:** [International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings](../../../upsc-ai-kit/knowledge/International-Relations/basic/10_Regional-Global-and-Minilateral-Groupings.md)  
@@ -3683,9 +3773,10 @@ The question asks to identify the correctly matched pairs of regions frequently 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q91"></a>
 ## Q91. Post-independence India key events chronological sequence
-**Primary route:** Post-Independence India → The Nehru Era Hope Foreign Policy and Legacy → Post-independence India key events chronological sequence  
+**Primary route:** Post-Independence India → [Party Politics, 1947–67: Congress System and Opposition](../../topics/post-independence-history/party-politics-1947-67-congress-system-and-opposition.md) → Post-independence India key events chronological sequence
 **Primary classification:** Post-Independence India → The Nehru Era Hope Foreign Policy and Legacy → Post-independence India key events chronological sequence  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q91 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Modern-Indian-History/basic/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy](../../../upsc-ai-kit/knowledge/Modern-Indian-History/basic/32_The-Nehru-Era-Hope-Foreign-Policy-and-Legacy.md)  
@@ -3723,9 +3814,10 @@ Let's determine the year for each event to establish the correct chronological o
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q92"></a>
 ## Q92. Right to Privacy protected under Article 21 and Part III
-**Primary route:** Polity → Fundamental Rights → Right to Privacy protected under Article 21 and Part III  
+**Primary route:** Polity → [Fundamental Rights](../../topics/polity/fundamental-rights.md) → Right to Privacy protected under Article 21 and Part III
 **Primary classification:** Polity → Fundamental Rights → Right to Privacy protected under Article 21 and Part III  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q92 · Difficulty: Moderate · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Polity/basic/Fundamental-Rights](../../../upsc-ai-kit/knowledge/Polity/basic/Fundamental-Rights.md)  
@@ -3759,9 +3851,10 @@ The correct answer is C. The Supreme Court of India, in its landmark judgment in
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q93"></a>
 ## Q93. MSP for crops announced by Cabinet Committee Economic Affairs
-**Primary route:** Economy → MSP Procurement Buffer Stocks PDS and Food Security → MSP for crops announced by Cabinet Committee Economic Affairs  
+**Primary route:** Economy → [MSP, Procurement, Buffer Stocks, PDS and Food Security](../../topics/economy/msp-procurement-buffer-stocks-pds-and-food-security.md) → MSP for crops announced by Cabinet Committee Economic Affairs
 **Primary classification:** Economy → MSP Procurement Buffer Stocks PDS and Food Security → MSP for crops announced by Cabinet Committee Economic Affairs  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q93 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security](../../../upsc-ai-kit/knowledge/Economy/basic/12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md)  
@@ -3807,9 +3900,10 @@ The Minimum Support Price (MSP) is a policy by the Government of India to safegu
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q94"></a>
 ## Q94. Pakhui Wildlife Sanctuary state location in India
-**Primary route:** Environment and Ecology → Protected Area Network India → Pakhui Wildlife Sanctuary state location in India  
+**Primary route:** Environment and Ecology → [Protected Area Network India](../../topics/environment/protected-area-network-india.md) → Pakhui Wildlife Sanctuary state location in India
 **Primary classification:** Environment and Ecology → Protected Area Network India → Pakhui Wildlife Sanctuary state location in India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q94 · Difficulty: Easy · Demand: single-best answer · factual discrimination  
 **Canonical owner:** [Environment-and-Ecology/basic/06_Protected-Area-Network-India](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/06_Protected-Area-Network-India.md)  
@@ -3843,9 +3937,10 @@ Pakhui Wildlife Sanctuary, also widely known as Pakke Wildlife Sanctuary or Pakk
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q95"></a>
 ## Q95. PSLV and GSLV satellite launch vehicles India comparison
-**Primary route:** Science and Technology → Space Programme ISRO Launch Vehicles → PSLV and GSLV satellite launch vehicles India comparison  
+**Primary route:** Science and Technology → [Space Programme, ISRO, Launch Vehicles and Space Governance](../../topics/science-and-technology/space-programme-isro-launch-vehicles.md) → PSLV and GSLV satellite launch vehicles India comparison
 **Primary classification:** Science and Technology → Space Programme ISRO Launch Vehicles → PSLV and GSLV satellite launch vehicles India comparison  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q95 · Difficulty: Hard · Demand: statement evaluation · elimination  
 **Canonical owner:** [Science-and-Technology/basic/01_Space-Programme-ISRO-Launch-Vehicles](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/01_Space-Programme-ISRO-Launch-Vehicles.md)  
@@ -3888,9 +3983,10 @@ Statement 1: PSLVs launch the satellites useful for Earth resources monitoring w
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q96"></a>
 ## Q96. Public sector banking governance capital infusion and SBI merger
-**Primary route:** Economy → Banking Structure NBFCs and Financial Regulation → Public sector banking governance capital infusion and SBI merger  
+**Primary route:** Economy → [Banking Structure, NBFCs and Financial Regulation](../../topics/economy/banking-structure-nbfcs-and-financial-regulation.md) → Public sector banking governance capital infusion and SBI merger
 **Primary classification:** Economy → Banking Structure NBFCs and Financial Regulation → Public sector banking governance capital infusion and SBI merger  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q96 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation](../../../upsc-ai-kit/knowledge/Economy/basic/05_Banking-Structure-NBFCs-and-Financial-Regulation.md)  
@@ -3931,9 +4027,10 @@ Statement 1 is incorrect. Capital infusion into Public Sector Banks (PSBs) by th
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q97"></a>
 ## Q97. Items exempted under Goods and Services Tax India
-**Primary route:** Economy → Taxation GST Finance Commission and Fiscal Federalism → Items exempted under Goods and Services Tax India  
+**Primary route:** Economy → [Taxation, GST, Finance Commission and Fiscal Federalism](../../topics/economy/taxation-gst-finance-commission-and-fiscal-federalism.md) → Items exempted under Goods and Services Tax India
 **Primary classification:** Economy → Taxation GST Finance Commission and Fiscal Federalism → Items exempted under Goods and Services Tax India  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q97 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism](../../../upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md)  
@@ -3977,9 +4074,10 @@ Let's analyze each item based on the GST exemption notifications by the Central 
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q98"></a>
 ## Q98. Forest Rights Act Critical Wildlife Habitat and Baiga rights
-**Primary route:** Environment and Ecology → Forest Types and Forest Rights Act → Forest Rights Act Critical Wildlife Habitat and Baiga rights  
+**Primary route:** Environment and Ecology → [Forest Types and the Forest Rights Act](../../topics/environment/forest-types-and-forest-rights-act.md) → Forest Rights Act Critical Wildlife Habitat and Baiga rights
 **Primary classification:** Environment and Ecology → Forest Types and Forest Rights Act → Forest Rights Act Critical Wildlife Habitat and Baiga rights  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q98 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Environment-and-Ecology/basic/11_Forest-Types-and-Forest-Rights-Act](../../../upsc-ai-kit/knowledge/Environment-and-Ecology/basic/11_Forest-Types-and-Forest-Rights-Act.md)  
@@ -4022,9 +4120,10 @@ Statement 1 is correct. The Scheduled Tribes and Other Traditional Forest Dwelle
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q99"></a>
 ## Q99. Vectors spreading plant diseases birds dust rain and wind
-**Primary route:** Science and Technology → General Science Biology and Physiology → Vectors spreading plant diseases birds dust rain and wind  
+**Primary route:** Science and Technology → [General Science: Biology and Physiology](../../topics/science-and-technology/general-science-biology-and-physiology.md) → Vectors spreading plant diseases birds dust rain and wind
 **Primary classification:** Science and Technology → General Science Biology and Physiology → Vectors spreading plant diseases birds dust rain and wind  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q99 · Difficulty: Hard · Demand: multiple-statement/application · elimination  
 **Canonical owner:** [Science-and-Technology/basic/23_General-Science-Biology-and-Physiology](../../../upsc-ai-kit/knowledge/Science-and-Technology/basic/23_General-Science-Biology-and-Physiology.md)  
@@ -4068,9 +4167,10 @@ All four options listed are known factors contributing to the spread of plant di
 **Answer provenance:** UPSC official-final Series-A scan · **Verification status:** official-final key plus independent evidence reconciliation · **Confidence:** High · **Ambiguity:** No scoring ambiguity; UPSC dropped no Series-A item.
 
 ---
+
 <a id="2018-prelims-gs1-q100"></a>
 ## Q100. Organic farming NPOP APEDA and Sikkim first organic state
-**Primary route:** Economy → Land Reforms Green Revolution and Cropping Systems → Organic farming NPOP APEDA and Sikkim first organic state  
+**Primary route:** Economy → [Land Reforms, Green Revolution and Cropping Systems](../../topics/economy/land-reforms-green-revolution-and-cropping-systems.md) → Organic farming NPOP APEDA and Sikkim first organic state
 **Primary classification:** Economy → Land Reforms Green Revolution and Cropping Systems → Organic farming NPOP APEDA and Sikkim first organic state  
 **Metadata:** 2018 · Prelims · GS-I · Series A · Official Q100 · Difficulty: Moderate · Demand: statement evaluation · elimination  
 **Canonical owner:** [Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems](../../../upsc-ai-kit/knowledge/Economy/basic/11_Land-Reforms-Green-Revolution-and-Cropping-Systems.md)  

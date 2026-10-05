@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 11
-- **Stable linked anchors:** 13
-- **Paper concentration:** Mains GS-IV: 11
-- **Marks represented:** 110 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Realism, national interest and restraint; Responsible arms export, complicity and due diligence; War, politics and ethical restraint; Peace, arms trade and responsible power; Aid, power and global justice; Just war and civilian protection; Refugees and non-refoulement; Power and moral restraint; Responsible arms trade; Ethical issues; Decision criteria
+- **Released years represented:** 2015, 2017, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 14
+- **Stable linked anchors:** 16
+- **Paper concentration:** Mains GS-IV: 14
+- **Marks represented:** 140 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Realism, national interest and restraint; Responsible arms export, complicity and due diligence; War, politics and ethical restraint; Peace, arms trade and responsible power; Aid, power and global justice; Just war and civilian protection; Refugees and non-refoulement; Power and moral restraint; Responsible arms trade; Ethical issues; Decision criteria; stakeholder and corporate responsibility; power, peace and common security; ethical statecraft and cooperation
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** ethical statecraft and cooperation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** stakeholder and corporate responsibility; power, peace and common security
 
 ## 2020 concentration
 
@@ -118,3 +134,16 @@
 - [Q8. Ethical responsibility in arms exports](../../papers/2020/mains-gs4.md#2020-mains-gs4-q8) — Responsible arms trade · 20 marks
 - [Q8(a). Ethical issues](../../papers/2020/mains-gs4.md#2020-mains-gs4-q8a) — Ethical issues
 - [Q8(b). Five ethical decision factors and action](../../papers/2020/mains-gs4.md#2020-mains-gs4-q8b) — Decision criteria
+
+### 2017
+
+#### Mains GS-IV
+
+- [Q4(b). Corporate social responsibility, profitability and sustainability](../../papers/2017/mains-gs4.md#2017-mains-gs4-q04b) — stakeholder and corporate responsibility · 10 marks
+- [Q6(b). Strength, peace and security in international relations](../../papers/2017/mains-gs4.md#2017-mains-gs4-q06b) — power, peace and common security · 10 marks
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q7. Ethical considerations in international relations](../../papers/2015/mains-gs4.md#2015-mains-gs4-q07) — ethical statecraft and cooperation · 10 marks

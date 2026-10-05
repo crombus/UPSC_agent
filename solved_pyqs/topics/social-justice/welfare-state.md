@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2023, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-II: 3
-- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Rights-based welfare; Targeted welfare and substantive equality; Participation in welfare-scheme policy
+- **Released years represented:** 2014, 2019, 2023, 2026
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 4
+- **Marks represented:** 57.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Rights-based welfare; Targeted welfare and substantive equality; Participation in welfare-scheme policy; Protection, mobility and urban enterprise
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Protection, mobility and urban enterprise
 
 ## 2019 concentration
 
@@ -56,3 +64,9 @@
 #### Mains GS-II
 
 - [Q18. Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q18) — Participation in welfare-scheme policy · 15 marks
+
+### 2014
+
+#### Mains GS-II
+
+- [Q11. Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?](../../papers/2014/mains-gs2.md#2014-mains-gs2-q11) — Protection, mobility and urban enterprise · 12.5 marks

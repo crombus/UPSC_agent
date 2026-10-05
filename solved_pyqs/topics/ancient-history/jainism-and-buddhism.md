@@ -6,11 +6,53 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 10
-- **Stable linked anchors:** 10
-- **Paper concentration:** Prelims GS-I: 10
-- **Subtopics represented:** Jain classification of the four principal forms of existence; Epithets of Gautama Buddha (Nayaputta, Shakyamuni, Tathagata); Sanghabhuti's commentary (Sarvastivada Vinaya); Dhanyakataka Buddhist centre Mahasanghikas regional location; Jainism belief souls in rocks water natural objects; Jaina canonical texts identification from ancient literature; Buddhist sects Sthaviravadins Mahasanghika and Mahayana links; Paramitas as perfections on Bodhisattva path in Buddhism; Cultural terms Parivrajaka Shramana Upasaka ancient India; Mahayana Buddhism doctrines and characteristic features
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 18
+- **Stable linked anchors:** 18
+- **Paper concentration:** Prelims GS-I: 18
+- **Subtopics represented:** Jain classification of the four principal forms of existence; Epithets of Gautama Buddha (Nayaputta, Shakyamuni, Tathagata); Sanghabhuti's commentary (Sarvastivada Vinaya); Dhanyakataka Buddhist centre Mahasanghikas regional location; Jainism belief souls in rocks water natural objects; Jaina canonical texts identification from ancient literature; Buddhist sects Sthaviravadins Mahasanghika and Mahayana links; Paramitas as perfections on Bodhisattva path in Buddhism; Cultural terms Parivrajaka Shramana Upasaka ancient India; Mahayana Buddhism doctrines and characteristic features; Sthanakvasi sect and its religious affiliation; Maitreya as future Buddha in Buddhist tradition; Sautrantika, Sammitiya and Buddhist schools; Bodhisattva and Maitreya; Kingdoms were associated with the life of the Buddha?; Which of the following Kingdoms were associated With the life of the Buddha?; Which one of the following describes best the concept of Nirvana in Buddhism?; Which of the following statements is/are applicable to Jain doctrine? 1. The surest way of annihilatin...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Which one of the following describes best the concept of Nirvana in Buddhism?; Which of the following statements is/are applicable to Jain doctrine? 1. The surest way of annihilatin...
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Which of the following Kingdoms were associated With the life of the Buddha?
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Kingdoms were associated with the life of the Buddha?
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Bodhisattva and Maitreya
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Sautrantika, Sammitiya and Buddhist schools
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Sthanakvasi sect and its religious affiliation; Maitreya as future Buddha in Buddhist tradition
 
 ## 2019 concentration
 
@@ -95,3 +137,41 @@
 #### Prelims GS-I
 
 - [Q9. Mahayana Buddhism doctrines and characteristic features](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q09) — Mahayana Buddhism doctrines and characteristic features
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q71. Sthanakvasi sect and its religious affiliation](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q71) — Sthanakvasi sect and its religious affiliation
+- [Q74. Maitreya as future Buddha in Buddhist tradition](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q74) — Maitreya as future Buddha in Buddhist tradition
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q53. Sautrantika, Sammitiya and Buddhist schools](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q053) — Sautrantika, Sammitiya and Buddhist schools
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q50. Bodhisattva and Maitreya](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q050) — Bodhisattva and Maitreya
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q39. Kingdoms were associated with the life of the Buddha?](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q039) — Kingdoms were associated with the life of the Buddha?
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q25. Which of the following Kingdoms were associated With the life of the Buddha?](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q025) — Which of the following Kingdoms were associated With the life of the Buddha?
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q37. Which one of the following describes best the concept of Nirvana in Buddhism?](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q037) — Which one of the following describes best the concept of Nirvana in Buddhism?
+- [Q47. Which of the following statements is/are applicable to Jain doctrine? 1. The surest way of annihilatin...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q047) — Which of the following statements is/are applicable to Jain doctrine? 1. The surest way of annihilatin...

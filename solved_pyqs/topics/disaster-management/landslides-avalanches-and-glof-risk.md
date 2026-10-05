@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2021, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-I: 1; Mains GS-III: 3
-- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Ecologically Sensitive Areas; Regional landslide causation; Causes, effects and national strategy; Hazard zonation
+- **Released years represented:** 2016, 2019, 2021, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-I: 2; Mains GS-III: 4
+- **Marks represented:** 75.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Ecologically Sensitive Areas; Regional landslide causation; Causes, effects and national strategy; Hazard zonation; Himalayan landslides; Mountain extreme-rainfall risk
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-I: 1; Mains GS-III: 1
+- **Marks represented:** 25.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Himalayan landslides; Mountain extreme-rainfall risk
 
 ## 2019 concentration
 
@@ -60,3 +68,13 @@
 #### Mains GS-III
 
 - [Q18. Landslide hazard-zonation mapping](../../papers/2019/mains-gs3.md#2019-mains-gs3-q18) — Hazard zonation · 15 marks
+
+### 2016
+
+#### Mains GS-I
+
+- [Q14. “The Himalayas are highly prone to landslides.” Discuss the causes and suggest suitable measures of mitigation.](../../papers/2016/mains-gs1.md#2016-mains-gs1-q14) — Himalayan landslides · 12.5 marks
+
+#### Mains GS-III
+
+- [Q16. Uttarakhand cloudbursts and mitigation](../../papers/2016/mains-gs3.md#2016-mains-gs3-q16) — Mountain extreme-rainfall risk · 12.5 marks

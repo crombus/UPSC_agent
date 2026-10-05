@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 3
+- **Released years represented:** 2015, 2019, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 4
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Alternative-powertrain vehicles (battery EV, hydrogen fuel-cell, hybrid); Fuel-Cell Electric Vehicle exhaust emission (water vapour); Lifecycle Decarbonisation; Hydrogen-enriched CNG fuel advantages for public transport
+- **Subtopics represented:** Alternative-powertrain vehicles (battery EV, hydrogen fuel-cell, hybrid); Fuel-Cell Electric Vehicle exhaust emission (water vapour); Lifecycle Decarbonisation; Hydrogen-enriched CNG fuel advantages for public transport; Fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity,...
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity,...
 
 ## 2019 concentration
 
@@ -67,3 +74,9 @@
 #### Prelims GS-I
 
 - [Q43. Hydrogen-enriched CNG fuel advantages for public transport](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q43) — Hydrogen-enriched CNG fuel advantages for public transport
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q95. Fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity,...](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q095) — Fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity,...

@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2023, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 2
-- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Fast Breeder Reactors; Uranium enrichment levels and electricity generation dependency; IAEA safeguards on nuclear reactors domestic versus imported
+- **Released years represented:** 2017, 2018, 2020, 2023, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Fast Breeder Reactors; Uranium enrichment levels and electricity generation dependency; IAEA safeguards on nuclear reactors domestic versus imported; Energy expansion and risk; Nuclear Security Summits and nuclear-material governance; Fast breeder reactors
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Nuclear Security Summits and nuclear-material governance; Fast breeder reactors
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Energy expansion and risk
 
 ## 2020 concentration
 
@@ -54,3 +70,19 @@
 #### Prelims GS-I
 
 - [Q55. IAEA safeguards on nuclear reactors domestic versus imported](../../papers/2020/prelims-gs1.md#2020-prelims-gs1-q55) — IAEA safeguards on nuclear reactors domestic versus imported
+
+### 2018
+
+#### Mains GS-III
+
+- [Q16. Expansion of nuclear energy](../../papers/2018/mains-gs3.md#2018-mains-gs3-q16) — Energy expansion and risk · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q28. Nuclear Security Summits and nuclear-material governance](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q028) — Nuclear Security Summits and nuclear-material governance
+
+#### Mains GS-III
+
+- [Q16. Nuclear science and the fast breeder programme](../../papers/2017/mains-gs3.md#2017-mains-gs3-q16) — Fast breeder reactors · 15 marks

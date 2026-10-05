@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 13
-- **Stable linked anchors:** 13
-- **Paper concentration:** Philosophy Paper II: 13
-- **Marks represented:** 195 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** R. B. Braithwaite · moral-policy account · religious stories; R. M. Hare · blik · falsification challenge; Symbolic language; Advaita · indescribability and indirect indication; Analogical language; Cognitivism, non-cognitivism and Braithwaite; Wittgenstein · language-game; Paul Tillich · symbol; Cognitivism and non-cognitivism; Braithwaite · non-cognitivism and policy; Tillich · symbol and ultimate concern; cognitive content · verification · falsification · analogy; symbol · participation · mysticism
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 23
+- **Stable linked anchors:** 23
+- **Paper concentration:** Philosophy Paper II: 23
+- **Marks represented:** 355 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** R. B. Braithwaite · moral-policy account · religious stories; R. M. Hare · blik · falsification challenge; Symbolic language; Advaita · indescribability and indirect indication; Analogical language; Cognitivism, non-cognitivism and Braithwaite; Wittgenstein · language-game; Paul Tillich · symbol; Cognitivism and non-cognitivism; Braithwaite · non-cognitivism and policy; Tillich · symbol and ultimate concern; cognitive content · verification · falsification · analogy; symbol · participation · mysticism; secular language · religious language; Braithwaite · non-cognitivism · intention; religious symbol · transcendence · mediation; analogy · symbol · intelligibility; analogy · symbol · verification · language-game; verification · falsification · eschatological verification; non-cognitivism · function; non-cognitivism; verification · eschatological verification; falsification · cognitivism
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper II: 3
+- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** non-cognitivism; verification · eschatological verification; falsification · cognitivism
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** non-cognitivism · function
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** verification · falsification · eschatological verification
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** analogy · symbol · verification · language-game
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** analogy · symbol · intelligibility
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper II: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** secular language · religious language; Braithwaite · non-cognitivism · intention; religious symbol · transcendence · mediation
 
 ## 2019 concentration
 
@@ -131,3 +179,43 @@
 #### Philosophy Paper II
 
 - [Q6(a). Discuss whether and how does religious symbolism lead to mysticism.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q6a) — symbol · participation · mysticism · 20 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q5(a). In what sense is the secular use of language different from the religious use of language? Discuss.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q5a) — secular language · religious language · 10 marks
+- [Q7(b). Critically examine Braithwaite's non-cognitive theory of religious language.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q7b) — Braithwaite · non-cognitivism · intention · 15 marks
+- [Q8(c). Explain the significance of religious symbols as transcendent referent that mediates into the cultural, spatial and temporal world.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q8c) — religious symbol · transcendence · mediation · 15 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q7(a). Is not the language of analogies more confusing and the language of symbols more unintelligible? Evaluate it in the case of a religious language.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q7a) — analogy · symbol · intelligibility · 20 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q8(b). Among the different views of religious language, which one is more satisfactory and why?](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q8b) — analogy · symbol · verification · language-game · 15 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q6(a). How can the religious language be verified? Is it correct to say that religious language is verified because it cannot be falsified? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q6a) — verification · falsification · eschatological verification · 20 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q6(b). How do you formulate religious language as non-cognitive?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q6b) — non-cognitivism · function · 15 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q8(a). What is meant by saying that religious language is non-cognitive?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q8a) — non-cognitivism · 15 marks
+- [Q8(b). Can religious language be said to be verifiable?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q8b) — verification · eschatological verification · 15 marks
+- [Q8(c). Do cognitivists provide a cogent answer to the objection based on falsifiability?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q8c) — falsification · cognitivism · 20 marks

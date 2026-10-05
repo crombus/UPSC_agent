@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2025
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 1
+- **Released years represented:** 2013, 2019, 2022, 2025
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 2
 - **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Attorney General of India; Attorney General and Solicitor General constitutional position; Constitutional role and limits
+- **Subtopics represented:** Attorney General of India; Attorney General and Solicitor General constitutional position; Constitutional role and limits; Consider the following statements: Attorney General of India can 1. take part in the proceedings of th...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Consider the following statements: Attorney General of India can 1. take part in the proceedings of th...
 
 ## 2019 concentration
 
@@ -55,3 +62,9 @@
 #### Mains GS-II
 
 - [Q14. “The Attorney-General is the chief legal adviser and lawyer of the Government of India.” Discuss.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q14) — Constitutional role and limits · 15 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q12. Consider the following statements: Attorney General of India can 1. take part in the proceedings of th...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q012) — Consider the following statements: Attorney General of India can 1. take part in the proceedings of th...

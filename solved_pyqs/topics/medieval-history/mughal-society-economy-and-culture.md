@@ -6,12 +6,26 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 4
+- **Released years represented:** 2015, 2018, 2019, 2020, 2021, 2022
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 6
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Yogavasistha Persian translation during Mughal reign; Mughal administrative hierarchy paragana sarkar suba order; Mughal era terms Aurang Banian Mirasidar roles; Persian sources and historical method; Jagirdar and Zamindar differences in Mughal India
+- **Subtopics represented:** Yogavasistha Persian translation during Mughal reign; Mughal administrative hierarchy paragana sarkar suba order; Mughal era terms Aurang Banian Mirasidar roles; Persian sources and historical method; Jagirdar and Zamindar differences in Mughal India; Foreign traveler who discussed diamonds and diamond mines India; Consider the following
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Consider the following
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Foreign traveler who discussed diamonds and diamond mines India
 
 ## 2019 concentration
 
@@ -71,3 +85,15 @@
 #### Prelims GS-I
 
 - [Q1. Jagirdar and Zamindar differences in Mughal India](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q01) — Jagirdar and Zamindar differences in Mughal India
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q73. Foreign traveler who discussed diamonds and diamond mines India](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q73) — Foreign traveler who discussed diamonds and diamond mines India
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q41. Consider the following](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q041) — Consider the following

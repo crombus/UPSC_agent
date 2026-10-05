@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2023, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-II: 3
-- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Soft power, economy and knowledge networks; Diaspora diplomacy; Political and economic influence
+- **Released years represented:** 2017, 2020, 2023, 2026
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 4
+- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Soft power, economy and knowledge networks; Diaspora diplomacy; Political and economic influence; South-East Asia
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** South-East Asia
 
 ## 2020 concentration
 
@@ -56,3 +64,9 @@
 #### Mains GS-II
 
 - [Q10. ‘Indian diaspora has a decisive role to play in the politics and economy of America and European Countries.’ Comment with examples.](../../papers/2020/mains-gs2.md#2020-mains-gs2-q10) — Political and economic influence · 10 marks
+
+### 2017
+
+#### Mains GS-II
+
+- [Q20. Indian diaspora has an important role to play in South-East Asian countries’ economy and society. Appraise the role of Indian diaspora in South-East Asia in this context.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q20) — South-East Asia · 15 marks

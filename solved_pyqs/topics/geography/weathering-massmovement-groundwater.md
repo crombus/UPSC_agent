@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 4
+- **Released years represented:** 2013, 2018, 2021, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-I: 3; Prelims GS-I: 6
+- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Permeability of chalk versus clay (effect of water on rocks); Rainfall and weathering of rocks; rainwater composition; Aquifer depletion and food systems; India groundwater withdrawal global share UN report; Black cotton soil formation from volcanic geological rock; Urban groundwater recharge; On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining fres...; Which of the following statements regarding laterite soils of India are correct? 1. They are generally...; Himalayan and Western Ghats landslides
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 2
+- **Marks represented:** 5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining fres...; Which of the following statements regarding laterite soils of India are correct? 1. They are generally...; Himalayan and Western Ghats landslides
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Permeability of chalk versus clay (effect of water on rocks); Rainfall and weathering of rocks; rainwater composition; Aquifer depletion and food systems; India groundwater withdrawal global share UN report; Black cotton soil formation from volcanic geological rock
+- **Subtopics represented:** Urban groundwater recharge
 
 ## 2021 concentration
 
@@ -71,3 +87,20 @@
 #### Prelims GS-I
 
 - [Q64. Black cotton soil formation from volcanic geological rock](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q64) — Black cotton soil formation from volcanic geological rock
+
+### 2018
+
+#### Mains GS-I
+
+- [Q14. “The ideal solution of depleting ground water resources in India is water harvesting system.” How can it be made effective in urban areas?](../../papers/2018/mains-gs1.md#2018-mains-gs1-q14) — Urban groundwater recharge · 15 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q16. On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining fres...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q016) — On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining fres...
+- [Q62. Which of the following statements regarding laterite soils of India are correct? 1. They are generally...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q062) — Which of the following statements regarding laterite soils of India are correct? 1. They are generally...
+
+#### Mains GS-I
+
+- [Q22(a). Bring out the causes for more frequent occurrence of landslides in the Himalayas than in the Western Ghats.](../../papers/2013/mains-gs1.md#2013-mains-gs1-q22a) — Himalayan and Western Ghats landslides · 5 marks

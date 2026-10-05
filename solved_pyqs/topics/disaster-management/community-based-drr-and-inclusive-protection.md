@@ -12,6 +12,7 @@
 - **Paper concentration:** Mains GS-III: 1
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
 - **Subtopics represented:** Participation and Inclusion
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
 
 ## 2026 concentration
 
@@ -28,3 +29,8 @@
 #### Mains GS-III
 
 - [Q18. Community participation in disaster management](../../papers/2026/mains-gs3.md#2026-mains-gs3-q18) — Participation and Inclusion · 15 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2013 · Mains GS-III · Q18. Vulnerability and risk assessment in disaster management](../../papers/2013/mains-gs3.md#2013-mains-gs3-q18) — Risk assessment and preparedness

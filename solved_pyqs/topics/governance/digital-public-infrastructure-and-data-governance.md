@@ -6,13 +6,43 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2024
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 4
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Digital India Land Records Modernisation Programme; Ayushman Bharat Digital Mission health coverage provisions; Government digital services built on open-source platforms; Digital divide; Aadhaar data storage and mandatory linkage rules
+- **Released years represented:** 2013, 2014, 2016, 2018, 2020, 2021, 2022, 2024
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 6
+- **Marks represented:** 37.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Digital India Land Records Modernisation Programme; Ayushman Bharat Digital Mission health coverage provisions; Government digital services built on open-source platforms; Digital divide; Aadhaar data storage and mandatory linkage rules; Aadhaar card as citizenship proof and deactivation rules; DigiLocker; Aadhaar and NPR; Direct benefit transfer
 - **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Direct benefit transfer
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Aadhaar and NPR
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** DigiLocker
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Aadhaar card as citizenship proof and deactivation rules
 
 ## 2020 concentration
 
@@ -69,6 +99,30 @@
 #### Prelims GS-I
 
 - [Q1. Aadhaar data storage and mandatory linkage rules](../../papers/2020/prelims-gs1.md#2020-prelims-gs1-q01) — Aadhaar data storage and mandatory linkage rules
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q12. Aadhaar card as citizenship proof and deactivation rules](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q12) — Aadhaar card as citizenship proof and deactivation rules
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q84. DigiLocker](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q084) — DigiLocker
+
+### 2014
+
+#### Mains GS-II
+
+- [Q15. Two parallel run schemes of the Government, viz. the Aadhaar Card and NPR, one as voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits, discuss whether or not both schemes need run concurrently. Analyse the potential of the schemes to achieve developmental benefits and equitable growth.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q15) — Aadhaar and NPR · 12.5 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q13. Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q13) — Direct benefit transfer · 10 marks
 
 ## Secondary-routed PYQs
 

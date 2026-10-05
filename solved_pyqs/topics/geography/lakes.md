@@ -6,11 +6,18 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2021, 2023, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Prelims GS-I: 4
-- **Subtopics represented:** Lake Turkana geography, desert-lake status, and UNESCO heritage; Indian rivers feeding lakes Wular Kolleru Kanwar; Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu; Common features of Aliyar Isapur and Kangsabati
+- **Released years represented:** 2018, 2019, 2021, 2023, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Prelims GS-I: 6
+- **Subtopics represented:** Lake Turkana geography, desert-lake status, and UNESCO heritage; Indian rivers feeding lakes Wular Kolleru Kanwar; Saline lakes Rajasthan Didwana Kuchaman Sargol Khatu; Common features of Aliyar Isapur and Kangsabati; Aral Sea Lake Baikal shrinkage due to human activities; Artificial lake identification among given Indian water bodies
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Aral Sea Lake Baikal shrinkage due to human activities; Artificial lake identification among given Indian water bodies
 
 ## 2019 concentration
 
@@ -65,3 +72,10 @@
 #### Prelims GS-I
 
 - [Q42. Common features of Aliyar Isapur and Kangsabati](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q42) — Common features of Aliyar Isapur and Kangsabati
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q13. Aral Sea Lake Baikal shrinkage due to human activities](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q13) — Aral Sea Lake Baikal shrinkage due to human activities
+- [Q77. Artificial lake identification among given Indian water bodies](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q77) — Artificial lake identification among given Indian water bodies

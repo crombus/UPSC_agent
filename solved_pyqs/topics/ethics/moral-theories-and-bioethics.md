@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2024, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 8
-- **Paper concentration:** Mains GS-IV: 6
-- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Autonomy, beneficence, paternalism and undue influence; Research integrity, consent and drug safety; Action; Options and consequences; How data and drug ethics protect humanity; Public-health duty and reciprocity; Fair deployment; Public-private duties
+- **Released years represented:** 2015, 2021, 2024, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-IV: 7
+- **Marks represented:** 70 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Autonomy, beneficence, paternalism and undue influence; Research integrity, consent and drug safety; Action; Options and consequences; How data and drug ethics protect humanity; Public-health duty and reciprocity; Fair deployment; Public-private duties; access to medicines and corporate responsibility
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** access to medicines and corporate responsibility
 
 ## 2021 concentration
 
@@ -61,3 +69,9 @@
 - [Q10. Deploying hospital staff during COVID-19](../../papers/2021/mains-gs4.md#2021-mains-gs4-q10) — Public-health duty and reciprocity · 20 marks
 - [Q10(a). Criteria and justification](../../papers/2021/mains-gs4.md#2021-mains-gs4-q10a) — Fair deployment
 - [Q10(b). Private-hospital comparison](../../papers/2021/mains-gs4.md#2021-mains-gs4-q10b) — Public-private duties
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q11. Developing an unprofitable drug for a tribal disease](../../papers/2015/mains-gs4.md#2015-mains-gs4-q11) — access to medicines and corporate responsibility · 20 marks

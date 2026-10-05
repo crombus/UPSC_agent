@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 8
-- **Stable linked anchors:** 8
-- **Paper concentration:** Mains GS-II: 5; Prelims GS-I: 3
-- **Marks represented:** 70 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Bodies established under the Constitution (Inter-State Council, NSC, Zonal Councils); Minor minerals - State versus Central power to make rules/notify; Fiscal federalism; Inter-State trade, migration and quarantine in the constitutional lists; Centre–State relations; President’s Rule; Centralising tendencies; Legislative conflicts and interpretation
+- **Released years represented:** 2013, 2015, 2017, 2019, 2020, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 11
+- **Stable linked anchors:** 11
+- **Paper concentration:** Mains GS-II: 8; Prelims GS-I: 3
+- **Marks represented:** 107.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Bodies established under the Constitution (Inter-State Council, NSC, Zonal Councils); Minor minerals - State versus Central power to make rules/notify; Fiscal federalism; Inter-State trade, migration and quarantine in the constitutional lists; Centre–State relations; President’s Rule; Centralising tendencies; Legislative conflicts and interpretation; GST and fiscal federalism; Cooperative federalism; Inter-State river-water disputes
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Inter-State river-water disputes
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Cooperative federalism
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** GST and fiscal federalism
 
 ## 2019 concentration
 
@@ -93,3 +117,21 @@
 #### Mains GS-II
 
 - [Q4. From the resolution of contentious issues regarding distribution of legislative powers by the courts, ‘Principle of Federal Supremacy’ and ‘Harmonious Construction’ have emerged. Explain.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q04) — Legislative conflicts and interpretation · 10 marks
+
+### 2017
+
+#### Mains GS-II
+
+- [Q11. Explain the salient features of the Constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough “to remove cascading effect of taxes and provide for common national market for goods and services”?](../../papers/2017/mains-gs2.md#2017-mains-gs2-q11) — GST and fiscal federalism · 15 marks
+
+### 2015
+
+#### Mains GS-II
+
+- [Q2. The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings.](../../papers/2015/mains-gs2.md#2015-mains-gs2-q02) — Cooperative federalism · 12.5 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q6. Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both ? Discuss.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q06) — Inter-State river-water disputes · 10 marks

@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2022, 2023
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-I: 3
-- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Changing marriage institution; Family socialisation; Explore and evaluate the impact of ‘Work From Home’ on family relationships.
+- **Released years represented:** 2014, 2022, 2023
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-I: 4
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Changing marriage institution; Family socialisation; Explore and evaluate the impact of ‘Work From Home’ on family relationships.; Joint-family life cycle
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Joint-family life cycle
 
 ## 2022 concentration
 
@@ -43,3 +51,9 @@
 #### Mains GS-I
 
 - [Q8. Explore and evaluate the impact of ‘Work From Home’ on family relationships.](../../papers/2022/mains-gs1.md#2022-mains-gs1-q08) — Explore and evaluate the impact of ‘Work From Home’ on family relationships. · 10 marks
+
+### 2014
+
+#### Mains GS-I
+
+- [Q13. The life cycle of a joint family depends on economic factors rather than social values. Discuss.](../../papers/2014/mains-gs1.md#2014-mains-gs1-q13) — Joint-family life cycle · 10 marks

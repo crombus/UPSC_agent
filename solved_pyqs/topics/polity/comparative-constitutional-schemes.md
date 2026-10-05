@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Mains GS-II: 6
-- **Marks represented:** 75 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** India and USA; Secularism in India and the USA; Parliamentary sovereignty; Presidential elections in India and France; India–UK judiciary; Indian and French secularism
+- **Released years represented:** 2018, 2019, 2020, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-II: 7
+- **Marks represented:** 90 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** India and USA; Secularism in India and the USA; Parliamentary sovereignty; Presidential elections in India and France; India–UK judiciary; Indian and French secularism; India and United States
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** India and United States
 
 ## 2019 concentration
 
@@ -98,3 +106,9 @@
 #### Mains GS-II
 
 - [Q5. What can France learn from the Indian Constitution’s approach to secularism?](../../papers/2019/mains-gs2.md#2019-mains-gs2-q05) — Indian and French secularism · 10 marks
+
+### 2018
+
+#### Mains GS-II
+
+- [Q13. India and USA are two large democracies. Examine the basic tenets on which the two political systems are based.](../../papers/2018/mains-gs2.md#2018-mains-gs2-q13) — India and United States · 15 marks

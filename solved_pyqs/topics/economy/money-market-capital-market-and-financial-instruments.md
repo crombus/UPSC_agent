@@ -6,11 +6,32 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 11
-- **Stable linked anchors:** 11
-- **Paper concentration:** Prelims GS-I: 11
-- **Subtopics represented:** RTGS and NEFT payment systems; Collateral Borrowing and Lending Obligations (money-market instrument); Corporate bonds and G-Secs trading (insurance, pension and retail investors); Financial instruments (ETF, motor vehicles, currency swap); US Treasury Bonds and a US sovereign debt default (statement pair); Capital markets vs money markets classification India; Credit rating agencies regulation and types in India; Factors influencing Indian Government Bond Yields; Government securities Treasury Bills NDS-OM CDSL; Non-financial debt components in Indian economy; Money market instruments commercial paper call money bonds
+- **Released years represented:** 2013, 2014, 2018, 2020, 2021, 2022, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 14
+- **Stable linked anchors:** 14
+- **Paper concentration:** Prelims GS-I: 14
+- **Subtopics represented:** RTGS and NEFT payment systems; Collateral Borrowing and Lending Obligations (money-market instrument); Corporate bonds and G-Secs trading (insurance, pension and retail investors); Financial instruments (ETF, motor vehicles, currency swap); US Treasury Bonds and a US sovereign debt default (statement pair); Capital markets vs money markets classification India; Credit rating agencies regulation and types in India; Factors influencing Indian Government Bond Yields; Government securities Treasury Bills NDS-OM CDSL; Non-financial debt components in Indian economy; Money market instruments commercial paper call money bonds; RBI management of government securities and treasury bills; What does venture capital mean?; Consider the following liquid assets: 1. Demand deposits with the banks 2. Time deposits with the bank...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Consider the following liquid assets: 1. Demand deposits with the banks 2. Time deposits with the bank...
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** What does venture capital mean?
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** RBI management of government securities and treasury bills
 
 ## 2020 concentration
 
@@ -96,3 +117,21 @@
 
 - [Q54. Non-financial debt components in Indian economy](../../papers/2020/prelims-gs1.md#2020-prelims-gs1-q54) — Non-financial debt components in Indian economy
 - [Q70. Money market instruments commercial paper call money bonds](../../papers/2020/prelims-gs1.md#2020-prelims-gs1-q70) — Money market instruments commercial paper call money bonds
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q56. RBI management of government securities and treasury bills](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q56) — RBI management of government securities and treasury bills
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q28. What does venture capital mean?](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q028) — What does venture capital mean?
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q74. Consider the following liquid assets: 1. Demand deposits with the banks 2. Time deposits with the bank...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q074) — Consider the following liquid assets: 1. Demand deposits with the banks 2. Time deposits with the bank...

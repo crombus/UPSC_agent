@@ -6,12 +6,52 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 13
-- **Stable linked anchors:** 13
-- **Paper concentration:** Philosophy Paper II: 13
-- **Marks represented:** 160 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Paul Tillich · ultimate concern · existential doubt and ontological reason; rational religion versus lived experience · Kant, Schleiermacher, Otto, James and Tillich; Thomas Aquinas · intellectual assent; natural and revealed theology; Reason in religion; Epistemic justification of revelation; Epistemic justification of religious belief; Rational, supra-rational and irrational faith; Faith and reception of revelation; Reason as regulative force; religion · science · technology; faith · belief · trust · commitment; self-revelation · faith · reason
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 21
+- **Stable linked anchors:** 21
+- **Paper concentration:** Philosophy Paper II: 21
+- **Marks represented:** 270 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Paul Tillich · ultimate concern · existential doubt and ontological reason; rational religion versus lived experience · Kant, Schleiermacher, Otto, James and Tillich; Thomas Aquinas · intellectual assent; natural and revealed theology; Reason in religion; Epistemic justification of revelation; Epistemic justification of religious belief; Rational, supra-rational and irrational faith; Faith and reception of revelation; Reason as regulative force; religion · science · technology; faith · belief · trust · commitment; self-revelation · faith · reason; voluntarism · faith · will; interpretation · tradition · reform · authority; faith · awareness · rationality; propositional revelation · reason · interpretation; faith and reason · critical trust; revelation · rational justification; faith and reason · justification; faith and reason
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** faith and reason
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** faith and reason · justification
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** faith and reason · critical trust; revelation · rational justification
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** faith · awareness · rationality; propositional revelation · reason · interpretation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 35 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** voluntarism · faith · will; interpretation · tradition · reform · authority
 
 ## 2019 concentration
 
@@ -131,3 +171,36 @@
 #### Philosophy Paper II
 
 - [Q5(a). What is instrumental to self-revelation: Faith or Reason? Justify your position.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q5a) — self-revelation · faith · reason · 10 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q7(c). Discuss whether the voluntarist's theories of faith are adequate.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q7c) — voluntarism · faith · will · 15 marks
+- [Q8(a). Can a religious person take an elastic view about religious ideals, principles and practices, etc. which are supposed to be eternal? Will it make the religion progressive or will it demolish its authority? Discuss critically.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q8a) — interpretation · tradition · reform · authority · 20 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q5(e). Faith means human awareness of God; but it cannot be irrational. Analyse.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q5e) — faith · awareness · rationality · 10 marks
+- [Q6(a). The content of revelation is a body of truths expressed in statements or propositions. But it cannot be against reason. Discuss.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q6a) — propositional revelation · reason · interpretation · 15 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q5(e). Do faith and reason go together? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q5e) — faith and reason · critical trust · 10 marks
+- [Q6(c). Can revelation be justified by reason? Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q6c) — revelation · rational justification · 15 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q8(b). Can reason be used to justify faith?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q8b) — faith and reason · justification · 15 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q5(e). Is religious faith opposed to reason?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q5e) — faith and reason · 10 marks

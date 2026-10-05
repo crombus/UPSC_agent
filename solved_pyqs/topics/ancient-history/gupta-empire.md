@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2025
-- **Solved answerable questions/parts:** 9
-- **Stable linked anchors:** 9
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 8
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Fa-hien (Faxian) and the Gupta reign he visited; Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.; Kingdoms of Northern India after Gupta decline; Mitakshara and Dayabhaga property inheritance systems; Chronological order Pratihara Pallava Chola Pala dynasties; Kulyavapa Dronavapa land measurement terms ancient India; Ancient scholars Panini Amarasimha Kalidasa dynasty associations; Historical places Bhilsa Dwarasamudra Girinagar Sthanesvara state matching; Forced labour Vishti system in Gupta period
+- **Released years represented:** 2017, 2019, 2020, 2021, 2022, 2025
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 8
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Fa-hien (Faxian) and the Gupta reign he visited; Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.; Kingdoms of Northern India after Gupta decline; Mitakshara and Dayabhaga property inheritance systems; Chronological order Pratihara Pallava Chola Pala dynasties; Kulyavapa Dronavapa land measurement terms ancient India; Ancient scholars Panini Amarasimha Kalidasa dynasty associations; Historical places Bhilsa Dwarasamudra Girinagar Sthanesvara state matching; Forced labour Vishti system in Gupta period; Numismatic art
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Numismatic art
 
 ## 2019 concentration
 
@@ -84,3 +92,9 @@
 #### Prelims GS-I
 
 - [Q10. Forced labour Vishti system in Gupta period](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q10) — Forced labour Vishti system in Gupta period
+
+### 2017
+
+#### Mains GS-I
+
+- [Q1. How do you justify the view that the level of excellence of the Gupta numismatic art is not at all noticeable in later times?](../../papers/2017/mains-gs1.md#2017-mains-gs1-q01) — Numismatic art · 10 marks

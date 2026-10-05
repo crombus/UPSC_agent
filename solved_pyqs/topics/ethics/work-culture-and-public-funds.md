@@ -6,12 +6,60 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 26
-- **Stable linked anchors:** 31
-- **Paper concentration:** Mains GS-IV: 26
-- **Marks represented:** 192 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Efficiency-effectiveness-productivity bridge; Codes, culture and institutional reinforcement; Leakage prevention and outcome accountability; Procurement integrity, obedience and career pressure; Q10(a). Options; Q10(b). Stakeholders and issues; Q10(c). Recommended action and safeguards; Codes, integrity and transparency; Humane and equitable workplace; Ethical issues; Laws supporting a healthy, safe and equitable workplace for women; Suggestions; Workplace dignity and leadership; Options to complete the project and retain Seema; Response and prevention; Commitment to public duty; Foundational civil-service values; Public-service attitude; Impartiality and non-partisanship; Workplace dignity and emotional hygiene; Coping options; Restorative approach; Organisational suggestions; Capacity building; Education and value formation; Ethical use of public funds; Competing claims; Options and consequences; Justified action; Utilisation failures
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 39
+- **Stable linked anchors:** 44
+- **Paper concentration:** Mains GS-IV: 39
+- **Marks represented:** 337 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Efficiency-effectiveness-productivity bridge; Codes, culture and institutional reinforcement; Leakage prevention and outcome accountability; Procurement integrity, obedience and career pressure; Q10(a). Options; Q10(b). Stakeholders and issues; Q10(c). Recommended action and safeguards; Codes, integrity and transparency; Humane and equitable workplace; Ethical issues; Laws supporting a healthy, safe and equitable workplace for women; Suggestions; Workplace dignity and leadership; Options to complete the project and retain Seema; Response and prevention; Commitment to public duty; Foundational civil-service values; Public-service attitude; Impartiality and non-partisanship; Workplace dignity and emotional hygiene; Coping options; Restorative approach; Organisational suggestions; Capacity building; Education and value formation; Ethical use of public funds; Competing claims; Options and consequences; Justified action; Utilisation failures; integrity, impartiality and compassion; foundational values; hierarchy and ethical dissent; worker safety, responsibility and compassion; foundational civil-service values; bureaucratic ethics and responsibility; foundational public-service virtues; accountability and decisional courage; ethical competence and reflective practice; trustworthiness and social capital; public-service accountability; power, integrity and accountability
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** foundational civil-service values; power, integrity and accountability
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-IV: 3
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** ethical competence and reflective practice; trustworthiness and social capital; public-service accountability
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** foundational public-service virtues; accountability and decisional courage
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** foundational civil-service values; bureaucratic ethics and responsibility
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-IV: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** foundational values; hierarchy and ethical dissent; worker safety, responsibility and compassion
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** integrity, impartiality and compassion
 
 ## 2019 concentration
 
@@ -149,3 +197,46 @@
 #### Mains GS-IV
 
 - [Q2(a). Under-utilisation and mis-utilisation of public funds](../../papers/2019/mains-gs4.md#2019-mains-gs4-q2a) — Utilisation failures · 10 marks
+
+### 2018
+
+#### Mains GS-IV
+
+- [Q1(a). Three universal values in civil services](../../papers/2018/mains-gs4.md#2018-mains-gs4-q01a) — integrity, impartiality and compassion · 10 marks
+
+### 2017
+
+#### Mains GS-IV
+
+- [Q2. Relevance of five values in civil service](../../papers/2017/mains-gs4.md#2017-mains-gs4-q02) — foundational values · 10 marks
+- [Q8(a). When discipline becomes counter-productive](../../papers/2017/mains-gs4.md#2017-mains-gs4-q08a) — hierarchy and ethical dissent · 10 marks
+- [Q11. Compensation after an intoxicated worker's on-duty death](../../papers/2017/mains-gs4.md#2017-mains-gs4-q11) — worker safety, responsibility and compassion · 20 marks
+
+### 2016
+
+#### Mains GS-IV
+
+- [Q1(b). Impartiality and non-partisanship as foundational values](../../papers/2016/mains-gs4.md#2016-mains-gs4-q01b) — foundational civil-service values · 10 marks
+- [Q8. Weber and independent bureaucratic morality](../../papers/2016/mains-gs4.md#2016-mains-gs4-q08) — bureaucratic ethics and responsibility · 10 marks
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q3(b). Trustworthiness and fortitude in public service](../../papers/2015/mains-gs4.md#2015-mains-gs4-q03b) — foundational public-service virtues · 10 marks
+- [Q4(b). Transparency, accountability and decisional paralysis](../../papers/2015/mains-gs4.md#2015-mains-gs4-q04b) — accountability and decisional courage · 10 marks
+
+### 2014
+
+#### Mains GS-IV
+
+- [Q4(b). Building one's ethical competence for public responsibility](../../papers/2014/mains-gs4.md#2014-mains-gs4-q04b) — ethical competence and reflective practice · 10 marks
+- [Q5(a). Trust deficit and becoming trustworthy](../../papers/2014/mains-gs4.md#2014-mains-gs4-q05a) — trustworthiness and social capital · 10 marks
+- [Q7. Individual and collective accountability](../../papers/2014/mains-gs4.md#2014-mains-gs4-q07) — public-service accountability · 10 marks
+
+### 2013
+
+#### Mains GS-IV
+
+- [Q2(a). Five foundational public-service attributes](../../papers/2013/mains-gs4.md#2013-mains-gs4-q02a) — foundational civil-service values · 15 marks
+- [Q6(b). Power as a test of character](../../papers/2013/mains-gs4.md#2013-mains-gs4-q06b) — power, integrity and accountability · 10 marks

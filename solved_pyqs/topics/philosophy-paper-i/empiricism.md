@@ -6,12 +6,61 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 12
-- **Stable linked anchors:** 12
-- **Paper concentration:** Philosophy Paper I: 12
-- **Marks represented:** 175 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Locke · degrees of knowledge · immediacy and mediation; Hume and Kant · relations of ideas, causality and synthetic a priori; Hume and Kant · causation and synthetic a priori; Berkeley · nominalism and abstract ideas; Berkeley · primary qualities · subjective idealism; Hume · causation, custom and association; Locke · rejection of innate ideas · ideas and knowledge; Berkeley · esse est percipi; Locke · personal identity and memory; Hume · causation and necessary connection; Hume on personal identity; causation and necessity
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 22
+- **Stable linked anchors:** 22
+- **Paper concentration:** Philosophy Paper I: 22
+- **Marks represented:** 310.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Locke · degrees of knowledge · immediacy and mediation; Hume and Kant · relations of ideas, causality and synthetic a priori; Hume and Kant · causation and synthetic a priori; Berkeley · nominalism and abstract ideas; Berkeley · primary qualities · subjective idealism; Hume · causation, custom and association; Locke · rejection of innate ideas · ideas and knowledge; Berkeley · esse est percipi; Locke · personal identity and memory; Hume · causation and necessary connection; Hume on personal identity; causation and necessity; Hume · relations of ideas and matters of fact; Berkeley · idealism and realist reactions; Hume on substance and self; Locke’s qualities and ideas; Locke’s primary–secondary quality distinction; Hume on causation; Berkeley’s idealism; Locke on substance; Hume’s bundle theory
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Locke on substance; Hume’s bundle theory
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Hume on causation
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Berkeley’s idealism
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Locke’s primary–secondary quality distinction; Hume on causation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Hume on substance and self; Locke’s qualities and ideas
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Hume · relations of ideas and matters of fact; Berkeley · idealism and realist reactions
 
 ## 2019 concentration
 
@@ -130,3 +179,49 @@
 #### Philosophy Paper I
 
 - [Q4(b). Is there any element of necessity in causal relations according to Hume? Discuss.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q4b) — causation and necessity · 15 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q1(a). Are the two truths—'The Sun will rise tomorrow' and '2+2=4' of the same necessity for Hume? Give reasons in favour of your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q1a) — Hume · relations of ideas and matters of fact · 10 marks
+- [Q3(a). How does Berkeley establish that Mind and its ideas alone are real? How do Moore and Russell react to Berkeley's view in this regard? Do you find any difference between Moore's reaction and Russell's one? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q3a) — Berkeley · idealism and realist reactions · 20 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q1(e). Show how Hume’s analysis of experience leaves no ground for belief in any permanent reality either physical or mental.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1e) — Hume on substance and self · 10 marks
+- [Q4(a). How does Locke draw a distinction between primary and secondary qualities? Does he also draw a distinction between the idea of primary qualities and primary qualities as well as the idea of secondary qualities and secondary qualities? Discuss.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q4a) — Locke’s qualities and ideas · 20 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q1(a). What is the logical necessity for Locke to introduce the concept of secondary qualities? Give reasons for your answer.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q1a) — Locke’s primary–secondary quality distinction · 10 marks
+- [Q2(b). Critically examine Hume’s views on the relation of cause and effect.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q2b) — Hume on causation · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q1(b). *esse est percipi*.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1b) — Berkeley’s idealism · 10 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q2(c). Evaluate critically Hume’s criticism of theory of causation.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q2c) — Hume on causation · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q3(c). Examine John Locke’s theory of substance.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q3c) — Locke on substance · 12.5 marks
+- [Q4(d). Give a critical account of Hume’s theory of the Self.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q4d) — Hume’s bundle theory · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2016 · Philosophy Paper I · Q4(c). Discuss the various stances on God taken by Rationalists and Empiricists.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q4c) — rationalist and empiricist natural theology
+- [2013 · Philosophy Paper I · Q2(b). State Kant’s view of causality. How far is Kant able to answer Hume’s objection that causal relation lacks logical necessity ?](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q2b) — causality and Hume

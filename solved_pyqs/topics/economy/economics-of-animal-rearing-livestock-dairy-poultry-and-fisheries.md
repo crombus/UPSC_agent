@@ -6,12 +6,29 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2025, 2026
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Prelims GS-I: 2
-- **Subtopics represented:** FAO Blue Transformation and sustainable fisheries and aquaculture framework; Rashtriya Gokul Mission - indigenous cattle
+- **Released years represented:** 2013, 2015, 2025, 2026
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-III: 2; Prelims GS-I: 2
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** FAO Blue Transformation and sustainable fisheries and aquaculture framework; Rashtriya Gokul Mission - indigenous cattle; Rural employment and income; Meat and poultry value chains
 - **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Meat and poultry value chains
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Rural employment and income
 
 ## 2025 concentration
 
@@ -40,6 +57,18 @@
 #### Prelims GS-I
 
 - [Q30. Rashtriya Gokul Mission - indigenous cattle](../../papers/2025/prelims-gs1.md#2025-prelims-gs1-q30) — Rashtriya Gokul Mission - indigenous cattle
+
+### 2015
+
+#### Mains GS-III
+
+- [Q2. Livestock and rural non-farm livelihoods](../../papers/2015/mains-gs3.md#2015-mains-gs3-q02) — Rural employment and income · 10 marks
+
+### 2013
+
+#### Mains GS-III
+
+- [Q6. Pink revolution, nutrition and health](../../papers/2013/mains-gs3.md#2013-mains-gs3-q06) — Meat and poultry value chains · 10 marks
 
 ## Secondary-routed PYQs
 

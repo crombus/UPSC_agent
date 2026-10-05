@@ -6,12 +6,44 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2022, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 16
-- **Stable linked anchors:** 20
-- **Paper concentration:** Mains GS-IV: 16
-- **Marks represented:** 110 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Displacement, consent and forest rights; Security, ecology and procedural justice; Human dignity, ecological integrity and just alternatives; Q8(a). Ethical justification; Q8(b). Stakeholders and challenges; Q8(c). Alternatives, action and safeguards; Intergenerational justice and sustainable development; Fair allocation of scarce water; Options; Suitable action for compatible interests; Administrative and ethical dilemmas; Just transition and regulatory integrity; Options available; Critical examination; Compliance mechanism; Ethical dilemmas; Integrity under criminal intimidation; Consequence analysis; Justified action
+- **Released years represented:** 2014, 2015, 2016, 2018, 2021, 2022, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 21
+- **Stable linked anchors:** 25
+- **Paper concentration:** Mains GS-IV: 21
+- **Marks represented:** 190 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Displacement, consent and forest rights; Security, ecology and procedural justice; Human dignity, ecological integrity and just alternatives; Q8(a). Ethical justification; Q8(b). Stakeholders and challenges; Q8(c). Alternatives, action and safeguards; Intergenerational justice and sustainable development; Fair allocation of scarce water; Options; Suitable action for compatible interests; Administrative and ethical dilemmas; Just transition and regulatory integrity; Options available; Critical examination; Compliance mechanism; Ethical dilemmas; Integrity under criminal intimidation; Consequence analysis; Justified action; precaution, participation and just transition; environmental justice and just transition; whistle-blowing and environmental harm; environmental ethics; sustainable-development decision framework
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** sustainable-development decision framework
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** environmental ethics
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** whistle-blowing and environmental harm
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** precaution, participation and just transition; environmental justice and just transition
 
 ## 2021 concentration
 
@@ -99,3 +131,28 @@
 - [Q7(a). Options available](../../papers/2021/mains-gs4.md#2021-mains-gs4-q7a) — Options
 - [Q7(b). Critical evaluation](../../papers/2021/mains-gs4.md#2021-mains-gs4-q7b) — Consequence analysis
 - [Q7(c). Most appropriate course](../../papers/2021/mains-gs4.md#2021-mains-gs4-q7c) — Justified action
+
+### 2018
+
+#### Mains GS-IV
+
+- [Q5(a). Rational policy for a dam affecting forests and ethnic communities](../../papers/2018/mains-gs4.md#2018-mains-gs4-q05a) — precaution, participation and just transition · 10 marks
+- [Q10. Polluting chemical factory, closure and unemployment](../../papers/2018/mains-gs4.md#2018-mains-gs4-q10) — environmental justice and just transition · 20 marks
+
+### 2016
+
+#### Mains GS-IV
+
+- [Q9. Toxic discharge, livelihood pressure and whistle-blowing](../../papers/2016/mains-gs4.md#2016-mains-gs4-q09) — whistle-blowing and environmental harm · 20 marks
+
+### 2015
+
+#### Mains GS-IV
+
+- [Q1(a). Environmental ethics](../../papers/2015/mains-gs4.md#2015-mains-gs4-q01a) — environmental ethics · 10 marks
+
+### 2014
+
+#### Mains GS-IV
+
+- [Q9. Development and environmental quality](../../papers/2014/mains-gs4.md#2014-mains-gs4-q09) — sustainable-development decision framework · 20 marks

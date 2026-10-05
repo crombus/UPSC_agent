@@ -6,12 +6,27 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 2
+- **Released years represented:** 2014, 2017, 2021, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 4
 - **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Nagara-style shikhara among early Indian temple architecture examples; Khajuraho sculpture; Chola Dravida architecture; Chausath Yogini Temple Morena Kachchhapaghata architecture
+- **Subtopics represented:** Nagara-style shikhara among early Indian temple architecture examples; Khajuraho sculpture; Chola Dravida architecture; Chausath Yogini Temple Morena Kachchhapaghata architecture; Sun temples of India; the cultural history of India, the term ‘Panchayatan’ refers to
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** the cultural history of India, the term ‘Panchayatan’ refers to
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Sun temples of India
 
 ## 2021 concentration
 
@@ -68,3 +83,20 @@
 #### Prelims GS-I
 
 - [Q31. Chausath Yogini Temple Morena Kachchhapaghata architecture](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q31) — Chausath Yogini Temple Morena Kachchhapaghata architecture
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q75. Sun temples of India](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q075) — Sun temples of India
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q44. the cultural history of India, the term ‘Panchayatan’ refers to](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q044) — the cultural history of India, the term ‘Panchayatan’ refers to
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2013 · Mains GS-I · Q2(b). Chola architecture represents a high watermark in the evolution of temple architecture. Discuss.](../../papers/2013/mains-gs1.md#2013-mains-gs1-q02b) — Temple architecture

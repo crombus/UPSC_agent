@@ -17,7 +17,11 @@ PAPERS = ROOT / "papers"
 REVIEWS = ROOT / "reviews"
 TOPICS = ROOT / "topics"
 CATALOGUE = ROOT / "catalogue"
-YEARS = tuple(range(2019, 2027))
+HISTORICAL_SOURCES = REPO / "books" / "previous_papers_2013_2018"
+HISTORICAL_SOURCE_VALIDATION = HISTORICAL_SOURCES / "SOURCE-VALIDATION.json"
+YEARS = tuple(range(2013, 2027))
+COMPLETE_CORPUS_YEARS = tuple(range(2019, 2027))
+HISTORICAL_MERIT_YEARS = (2013, 2014, 2015, 2016, 2017, 2018)
 
 PAPER_ORDER = (
     "prelims-gs1",
@@ -32,6 +36,14 @@ PAPER_ORDER = (
     "philosophy-paper-1",
     "philosophy-paper-2",
 )
+
+HISTORICAL_PAPER_ORDER = tuple(
+    paper for paper in PAPER_ORDER if paper not in {"mains-hindi", "mains-english"}
+)
+
+
+def papers_for_year(year: int) -> tuple[str, ...]:
+    return HISTORICAL_PAPER_ORDER if year in HISTORICAL_MERIT_YEARS else PAPER_ORDER
 
 PAPER_NAMES = {
     "prelims-gs1": "Prelims GS-I",
@@ -87,6 +99,10 @@ NEW_TOPIC_INFO = {
         "Regulatory Governance and Independent Regulators",
         "Governance",
     ),
+    "governance/good-governance-concepts-and-frameworks.md": (
+        "Good Governance Concepts and Frameworks",
+        "Governance",
+    ),
     "indian-society/population-and-associated-issues.md": (
         "Population and Associated Issues",
         "Indian Society",
@@ -99,12 +115,24 @@ NEW_TOPIC_INFO = {
         "Post-War Upsurge, INA, RIN Mutiny and Cabinet Mission",
         "Modern History",
     ),
+    "art-and-culture/indo-islamic-and-regional-architecture.md": (
+        "Indo-Islamic and Regional Architecture",
+        "Indian Art and Culture",
+    ),
     "polity/state-legislatures.md": (
         "State Legislatures",
         "Polity",
     ),
+    "polity/emergency-provisions.md": (
+        "Emergency Provisions",
+        "Polity",
+    ),
     "world-history/american-and-french-revolutions.md": (
         "American and French Revolutions",
+        "World History",
+    ),
+    "world-history/decolonization-of-africa-and-asia.md": (
+        "Decolonization of Africa and Asia",
         "World History",
     ),
 }
@@ -240,6 +268,12 @@ MAINS_GS1_2019_TOPICS = {
 }
 
 YEAR_CAVEATS = {
+    2013: "Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English. The inaugural Mains pattern is preserved exactly.",
+    2014: "Both Prelims Series-A keys are official-final; GS-I scored all 100 items, while the CSAT final table scored 74 items with Q70-Q75 blank and nil formally dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.",
+    2015: "Both Prelims Series-A keys are official-final; GS-I has no dropped item and CSAT Q51 was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.",
+    2016: "Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.",
+    2017: "Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.",
+    2018: "Both Prelims Series-A keys are official-final; no item was dropped. Historical merit tier: nine papers, excluding qualifying Hindi and English.",
     2019: "Both Prelims Series-A keys are official-final; no item was dropped.",
     2020: "Both Prelims Set-A keys are official-final; GS-I Q27 and Q52 were dropped.",
     2021: "Both Prelims Series-A keys are official-final; GS-I Q80 was dropped and CSAT Q39 accepted C or D.",
@@ -248,6 +282,60 @@ YEAR_CAVEATS = {
     2024: "Both Prelims Series-A keys are official-final; GS-I Q20, Q52 and Q57 were dropped.",
     2025: "Both Prelims Series-A keys are official-final; no released scoring exception remains.",
     2026: "Both repository-held Prelims keys remain provisional; GS-I Q64 is dropped in the provisional key.",
+}
+
+PRELIMS_2018_TOPIC_ALIASES = {
+    "Amendment and Basic Structure": "polity/amendment-and-basic-structure.md",
+    "Lakes": "geography/lakes.md",
+    "Good Governance Concepts and Frameworks": "governance/good-governance-concepts-and-frameworks.md",
+    "NPAs Basel Norms Resolution and Financial Inclusion": "economy/banking-structure-nbfcs-and-financial-regulation.md",
+    "Digital India and India Stack UPI Aadhaar": "science-and-technology/digital-india-india-stack-and-digital-infrastructure.md",
+    "Social and Cultural Policy Education Press": "modern-history/macaulays-minute-colonial-education.md",
+    "Poverty Hunger Food and Nutrition Security": "social-justice/food-and-nutrition-security.md",
+    "Mineral Energy Resources World and India": "geography/mineral-energy-resources-world-and-india.md",
+    "Indian Political Geography Boundaries and Neighbours": "geography/indian-political-geography-boundaries-and-neighbours.md",
+    "President and Vice President": "polity/president-and-vice-president.md",
+    "State Legislature": "polity/state-legislatures.md",
+    "Salient Features": "polity/salient-features-and-constitutional-parts.md",
+    "Governor and CM": "polity/governor-and-cm.md",
+    "Defence RandD DRDO and Missile Systems": "science-and-technology/defence-randd-drdo-and-missile-systems.md",
+    "Emergency Provisions": "polity/emergency-provisions.md",
+    "Cyber Security CII and Cybercrime": "internal-security/cyber-security-cii-and-cybercrime.md",
+    "Gandhis Rise Rowlatt and Jallianwala": "modern-history/gandhian-mass-mobilisation.md",
+    "Economy Land Society and State A Post Independence Synthesis": "modern-history/left-peasant-workers-and-states-peoples-movements.md",
+    "Indo Islamic and Regional Architecture": "art-and-culture/indo-islamic-and-regional-architecture.md",
+    "Mughal Society Economy Culture": "medieval-history/mughal-society-economy-and-culture.md",
+    "WWI Home Rule and Lucknow Pact": "modern-history/wwi-home-rule-and-lucknow-pact.md",
+    "The Nehru Era Hope Foreign Policy and Legacy": "post-independence-history/party-politics-1947-67-congress-system-and-opposition.md",
+    "Space Programme ISRO Launch Vehicles": "science-and-technology/space-programme-isro-launch-vehicles.md",
+    "Forest Types and Forest Rights Act": "environment/forest-types-and-forest-rights-act.md",
+}
+
+GS4_2018_TOPICS = {
+    "2018-mains-gs4-q01a": "ethics/work-culture-and-public-funds.md",
+    "2018-mains-gs4-q01b": "ethics/corruption-and-administrative-ethics.md",
+    "2018-mains-gs4-q02a": "ethics/service-delivery-and-regulatory-ethics.md",
+    "2018-mains-gs4-q02b": "governance/transparency-accountability-grievance-redress-and-social-audit.md",
+    "2018-mains-gs4-q03a": "ethics/emotional-intelligence-and-ethical-dilemmas.md",
+    "2018-mains-gs4-q03b": "ethics/corruption-and-administrative-ethics.md",
+    "2018-mains-gs4-q04a": "ethics/moral-theories.md",
+    "2018-mains-gs4-q04b": "ethics/moral-theories.md",
+    "2018-mains-gs4-q05a": "ethics/environmental-and-administrative-ethics.md",
+    "2018-mains-gs4-q05b": "ethics/emotional-intelligence-and-ethical-dilemmas.md",
+    "2018-mains-gs4-q06a": "ethics/moral-theories.md",
+    "2018-mains-gs4-q06b": "ethics/indian-moral-thinkers.md",
+    "2018-mains-gs4-q06c": "ethics/indian-moral-thinkers.md",
+    "2018-mains-gs4-q07": "ethics/service-delivery-and-regulatory-ethics.md",
+    "2018-mains-gs4-q08": "ethics/corruption-and-administrative-ethics.md",
+    "2018-mains-gs4-q09": "ethics/security-ethics.md",
+    "2018-mains-gs4-q10": "ethics/environmental-and-administrative-ethics.md",
+    "2018-mains-gs4-q11": "ethics/service-delivery-and-regulatory-ethics.md",
+    "2018-mains-gs4-q12": "ethics/security-ethics.md",
+}
+
+HISTORICAL_ANCHOR_TOPICS = {
+    "2017-mains-gs1-q04": "world-history/decolonization-of-africa-and-asia.md",
+    **GS4_2018_TOPICS,
 }
 
 
@@ -271,7 +359,7 @@ class Record:
     topic_path: str
     subtopic: str
     answerable_unit: bool
-    marks_represented: int
+    marks_represented: float
     word_limit: int | None
     secondary_topics: list[str]
 
@@ -576,7 +664,89 @@ def apply_2019_integration() -> list[str]:
     return changed
 
 
-def is_answerable_unit(paper: str, anchor: str) -> bool:
+def normalized_title(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", value.casefold())
+
+
+def update_historical_routes(path: Path, topic_info: dict[str, TopicInfo]) -> bool:
+    text = read_text(path)
+    title_paths: dict[str, list[str]] = defaultdict(list)
+    for topic_path, info in topic_info.items():
+        title_paths[normalized_title(info.title)].append(topic_path)
+    chunks: list[str] = []
+    cursor = 0
+    changed = False
+    for anchor, start, end, block in anchor_sections(text):
+        chunks.append(text[cursor:start])
+        section = text[start:end]
+        route_match = re.search(r"^(\*\*Primary route:\*\*\s*)(.+)$", section, re.MULTILINE)
+        if not route_match:
+            chunks.append(section)
+            cursor = end
+            continue
+        route = route_match.group(2)
+        if "../../topics/" in route:
+            if "PAPERWISE-INDEX.md" not in block:
+                replacement = (
+                    f"{route_match.group(1)}{route.rstrip()} · **Backlink:** "
+                    "[Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)"
+                )
+                section = (
+                    section[: route_match.start()]
+                    + replacement
+                    + section[route_match.end() :]
+                )
+                changed = True
+            chunks.append(section)
+            cursor = end
+            continue
+        parts = [part.strip() for part in route.split("→")]
+        if len(parts) < 3:
+            raise ValueError(f"Malformed historical primary route in {path}: {anchor}")
+        subject, topic_title = parts[0], parts[1]
+        subtopic = " → ".join(parts[2:])
+        backlink = ""
+        if " · **Backlink:**" in subtopic:
+            subtopic, backlink = subtopic.split(" · **Backlink:**", 1)
+            backlink = " · **Backlink:**" + backlink
+        if anchor in HISTORICAL_ANCHOR_TOPICS:
+            topic_path = HISTORICAL_ANCHOR_TOPICS[anchor]
+        elif topic_title in PRELIMS_2018_TOPIC_ALIASES:
+            topic_path = PRELIMS_2018_TOPIC_ALIASES[topic_title]
+        else:
+            matches = title_paths[normalized_title(topic_title)]
+            if len(matches) != 1:
+                raise ValueError(
+                    f"Unable to resolve historical canonical topic in {path}: "
+                    f"{anchor} → {topic_title!r} ({matches})"
+                )
+            topic_path = matches[0]
+        info = topic_info[topic_path]
+        replacement = (
+            f"{route_match.group(1)}{subject} → "
+            f"[{info.title}](../../topics/{topic_path}) → {subtopic.strip()}{backlink}"
+        )
+        section = section[: route_match.start()] + replacement + section[route_match.end() :]
+        chunks.append(section)
+        cursor = end
+        changed = True
+    chunks.append(text[cursor:])
+    return write_if_changed(path, "".join(chunks)) or changed
+
+
+def apply_historical_integration(year: int) -> list[str]:
+    if year not in HISTORICAL_MERIT_YEARS:
+        raise ValueError(f"{year} is not a historical-merit year")
+    topic_info = load_topic_info()
+    changed = []
+    for paper in HISTORICAL_PAPER_ORDER:
+        path = PAPERS / str(year) / f"{paper}.md"
+        if update_historical_routes(path, topic_info):
+            changed.append(path.relative_to(REPO).as_posix())
+    return changed
+
+
+def is_answerable_unit(year: int, paper: str, anchor: str) -> bool:
     if paper == "mains-english":
         return not bool(
             re.search(r"-(?:q01|q02|q04|q04[abcd]|q05|q05[abcd])$", anchor)
@@ -584,15 +754,17 @@ def is_answerable_unit(paper: str, anchor: str) -> bool:
     if paper == "mains-hindi":
         return not bool(re.search(r"-(?:q2|q6[abcd])$", anchor))
     if paper == "mains-gs4":
+        if year in HISTORICAL_MERIT_YEARS:
+            return True
         return not bool(re.search(r"-q(?:7|8|9|10|11|12)$", anchor))
     return True
 
 
-def extract_marks(paper: str, anchor: str, heading: str, block: str, unit: bool) -> int:
+def extract_marks(paper: str, anchor: str, heading: str, block: str, unit: bool) -> float:
     if paper in {"prelims-gs1", "prelims-csat"}:
         return 0
     if paper == "mains-essay":
-        return 125
+        return 250 if anchor.startswith("2013-") else 125
     if paper in {"mains-english", "mains-hindi"} and not unit:
         return 0
     if paper == "mains-english":
@@ -615,18 +787,30 @@ def extract_marks(paper: str, anchor: str, heading: str, block: str, unit: bool)
             return 20
         if re.search(r"-q6[a-d]-[ivx]+$", anchor):
             return 2
-    if paper == "mains-gs4" and re.search(r"-q(?:7|8|9|10|11|12)[a-z]$", anchor):
+    if anchor.startswith("2016-") and paper in {"mains-gs1", "mains-gs2", "mains-gs3"}:
+        return 12.5
+    if (
+        paper == "mains-gs4"
+        and anchor[:4].isdigit()
+        and int(anchor[:4]) in COMPLETE_CORPUS_YEARS
+        and re.search(r"-q(?:7|8|9|10|11|12)[a-z]$", anchor)
+    ):
         return 0
     prefix = "\n".join(block.splitlines()[:18])
     source = f"{heading}\n{prefix}"
-    match = re.search(r"(?<!\d)(\d{1,3})\s*(?:marks?|अंक)\b", source, re.IGNORECASE)
-    if match:
-        return int(match.group(1))
+    fractional = re.search(
+        r"(?<!\d)(\d{1,3})\s*[½]\s*(?:marks?|अंक)\b", source, re.IGNORECASE
+    )
+    if fractional:
+        return int(fractional.group(1)) + 0.5
     labelled = re.search(
-        r"\*\*Marks(?:/limit)?:\*\*\s*(\d{1,3})\b", source, re.IGNORECASE
+        r"\*\*Marks(?:\s*/\s*limit)?:\*\*\s*(\d{1,3})\b", source, re.IGNORECASE
     )
     if labelled:
         return int(labelled.group(1))
+    match = re.search(r"(?<!\d)(\d{1,3})\s*(?:marks?|अंक)\b", source, re.IGNORECASE)
+    if match:
+        return int(match.group(1))
     if paper in {"mains-gs1", "mains-gs2", "mains-gs3"}:
         number = int(re.search(r"-q(\d+)$", anchor).group(1))
         return 10 if number <= 10 else 15
@@ -646,7 +830,7 @@ def parse_records(topic_info: dict[str, TopicInfo]) -> tuple[list[Record], dict[
     records: list[Record] = []
     explicit_anchors: dict[str, list[str]] = {}
     for year in YEARS:
-        for paper in PAPER_ORDER:
+        for paper in papers_for_year(year):
             path = PAPERS / str(year) / f"{paper}.md"
             if not path.exists():
                 raise FileNotFoundError(path)
@@ -674,7 +858,7 @@ def parse_records(topic_info: dict[str, TopicInfo]) -> tuple[list[Record], dict[
                 info = topic_info[topic_path]
                 heading = clean_heading(heading_from_block(block))
                 subtopic = route_subtopic(route_line, heading)
-                unit = is_answerable_unit(paper, anchor)
+                unit = is_answerable_unit(year, paper, anchor)
                 marks = extract_marks(paper, anchor, heading, block, unit)
                 secondary_topics: list[str] = []
                 all_primary_line_topics = re.findall(
@@ -725,8 +909,10 @@ def safe_cell(value: str) -> str:
     return value.replace("|", r"\|").replace("\n", " ")
 
 
-def format_marks(value: int) -> str:
-    return str(value) if value else "—"
+def format_marks(value: float) -> str:
+    if not value:
+        return "—"
+    return f"{value:g}"
 
 
 def paper_structure(year: int, paper: str, anchors: int, units: int) -> str:
@@ -922,7 +1108,8 @@ def generate_paperwise(records: list[Record], explicit_anchors: dict[str, list[s
     lines = [
         "# Solved PYQs — Paper-wise Index",
         "",
-        "All eight released years have paper-specific review records and final shared-release status.",
+        "The complete 2019–2026 corpus and the 2013–2018 historical merit tiers have paper-specific "
+        "review records and final shared-release status.",
     ]
     for year in sorted(YEARS, reverse=True):
         lines.extend(
@@ -934,7 +1121,7 @@ def generate_paperwise(records: list[Record], explicit_anchors: dict[str, list[s
                 YEAR_CAVEATS[year],
             ]
         )
-        for paper in PAPER_ORDER:
+        for paper in papers_for_year(year):
             rows = by_paper[(year, paper)]
             units = sum(row.answerable_unit for row in rows)
             relative = f"papers/{year}/{paper}.md"
@@ -981,7 +1168,7 @@ def generate_subject_index(records: list[Record], topic_info: dict[str, TopicInf
     lines = [
         "# Solved PYQs — Subject Index",
         "",
-        f"**2019–2026 released corpus:** {total_units:,} solved answerable units · "
+        f"**2013–2026 released catalogue:** {total_units:,} solved answerable units · "
         f"{total_anchors:,} stable routed anchors · {len(topic_groups):,} canonical topic pages.",
         "",
         "Counts are generated from `catalogue/CORPUS-METADATA.json`. Topic pages are catalogue-only "
@@ -1095,7 +1282,8 @@ def generate_years_index(records: list[Record]) -> str:
     lines = [
         "# Years Index",
         "",
-        "The catalogue covers exactly the latest eight available years: **2019–2026**.",
+        "The catalogue covers the complete **2019–2026** corpus plus the **2013–2018 historical "
+        "merit tiers** (nine papers per year; no qualifying Hindi or English).",
         "",
         "| Year | Paper files | Answerable units | Routed anchors | Topics | Release |",
         "|---:|---:|---:|---:|---:|---|",
@@ -1103,14 +1291,15 @@ def generate_years_index(records: list[Record]) -> str:
     for year in sorted(YEARS, reverse=True):
         rows = by_year[year]
         lines.append(
-            f"| {year} | 11 | {sum(row.answerable_unit for row in rows)} | {len(rows)} | "
+            f"| {year} | {len(papers_for_year(year))} | "
+            f"{sum(row.answerable_unit for row in rows)} | {len(rows)} | "
             f"{len({row.topic_path for row in rows})} | "
             f"[**Complete — shared release PASS**](PAPERWISE-INDEX.md#{year}-complete-release) |"
         )
     lines.extend(["", "## Direct paper and review links"])
     for year in sorted(YEARS, reverse=True):
         lines.extend(["", f"### {year}", ""])
-        for paper in PAPER_ORDER:
+        for paper in papers_for_year(year):
             lines.append(
                 f"- [{PAPER_NAMES[paper]}](../papers/{year}/{paper}.md) · "
                 f"[review](../reviews/{year}-{paper}.md)"
@@ -1134,7 +1323,7 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
     total_units = sum(row.answerable_unit for row in records)
     total_marks = sum(row.marks_represented for row in records)
     lines = [
-        "# 2019–2026 Concentration Analysis",
+        "# 2013–2026 Concentration Analysis",
         "",
         "## Methodology",
         "",
@@ -1152,7 +1341,8 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
         "",
         "## Corpus reconciliation",
         "",
-        f"- Paper files: **88 = 8 years × 11 paper families**.",
+        "- Paper files: **142 = 88 complete-corpus papers (2019–2026) + 54 historical merit papers "
+        "(2013–2018)**.",
         f"- Routed stable anchors: **{len(records):,}**.",
         f"- Answerable solved units: **{total_units:,}**.",
         f"- Canonical topic pages: **{len(by_topic):,}**.",
@@ -1166,7 +1356,8 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
     for year in YEARS:
         rows = by_year[year]
         lines.append(
-            f"| {year} | 11 | {sum(row.answerable_unit for row in rows)} | {len(rows)} | "
+            f"| {year} | {len(papers_for_year(year))} | "
+            f"{sum(row.answerable_unit for row in rows)} | {len(rows)} | "
             f"{len({row.topic_path for row in rows})} | {sum(row.marks_represented for row in rows)} |"
         )
     lines.extend(
@@ -1261,23 +1452,14 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
             "",
             "## Mains and Philosophy marks concentration",
             "",
-            "| Paper family | Represented marks across 8 years | Attempted marks across 8 years | Caveat |",
+            "| Paper family | Represented marks across covered years | Attempted marks across covered years | Caveat |",
             "|---|---:|---:|---|",
         ]
     )
-    attempted = {
-        "mains-hindi": 2400,
-        "mains-english": 2400,
-        "mains-essay": 2000,
-        "mains-gs1": 2000,
-        "mains-gs2": 2000,
-        "mains-gs3": 2000,
-        "mains-gs4": 2000,
-        "philosophy-paper-1": 2000,
-        "philosophy-paper-2": 2000,
-    }
     for paper in PAPER_ORDER[2:]:
         represented = sum(row.marks_represented for row in by_paper[paper])
+        years_covered = len({row.year for row in by_paper[paper]})
+        attempted = years_covered * (300 if paper in {"mains-hindi", "mains-english"} else 250)
         caveat = {
             "mains-hindi": "Four essay alternatives are solved each year.",
             "mains-english": "Four essay alternatives are solved each year; no translation task is invented.",
@@ -1286,7 +1468,7 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
             "philosophy-paper-2": "All selectable parts are solved; candidates attempt 250 marks.",
         }.get(paper, "All questions are compulsory; represented and attempted totals coincide.")
         lines.append(
-            f"| {PAPER_NAMES[paper]} | {represented} | {attempted[paper]} | {caveat} |"
+            f"| {PAPER_NAMES[paper]} | {represented} | {attempted} | {caveat} |"
         )
     recurring = []
     for topic_path, rows in by_topic.items():
@@ -1300,7 +1482,7 @@ def generate_concentration(records: list[Record], topic_info: dict[str, TopicInf
             "",
             "## Recurring themes",
             "",
-            "Themes below recur in at least six of the eight released years. Counts remain primary-route "
+            "Themes below recur in at least six released years. Counts remain primary-route "
             "counts; broad interdisciplinary resemblance is not double-counted.",
             "",
         ]
@@ -1356,7 +1538,9 @@ def quality_markers(paper: str, text: str) -> bool:
             or "model answer" in lower
         )
     if paper == "mains-gs4":
-        return "stakeholder" in lower and "why this earns marks" in lower
+        return "stakeholder" in lower and (
+            "why this earns marks" in lower or "examiner takeaway" in lower
+        )
     if paper == "mains-essay":
         return "model" in lower and "why this earns marks" in lower
     if paper.startswith("philosophy"):
@@ -1381,7 +1565,7 @@ def generate_quality_spot_checks(records: list[Record]) -> str:
         "|---:|---|---|:---:|:---:|:---:|",
     ]
     for year in YEARS:
-        for paper in PAPER_ORDER:
+        for paper in papers_for_year(year):
             rows = [row for row in by_paper[(year, paper)] if row.answerable_unit]
             samples = [rows[0], rows[len(rows) // 2], rows[-1]]
             sample_text = ", ".join(
@@ -1423,7 +1607,15 @@ def generate_quality_spot_checks(records: list[Record]) -> str:
 def metadata_json(records: list[Record]) -> str:
     data = {
         "schema": 1,
-        "window": {"from": 2019, "to": 2026, "years": 8, "paper_families": 11},
+        "window": {
+            "from": 2013,
+            "to": 2026,
+            "years": 14,
+            "complete_corpus_years": list(COMPLETE_CORPUS_YEARS),
+            "historical_merit_years": list(HISTORICAL_MERIT_YEARS),
+            "complete_paper_families": 11,
+            "historical_merit_paper_families": 9,
+        },
         "method": (
             "Generated from explicit paper anchors and canonical Primary route metadata. "
             "Secondary routes are retained but excluded from primary concentration."
@@ -1431,6 +1623,166 @@ def metadata_json(records: list[Record]) -> str:
         "records": [asdict(record) for record in records],
     }
     return json.dumps(data, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+
+
+def historical_release_manifest(records: list[Record], year: int) -> str:
+    manifest = f"solved_pyqs/{year}-RELEASE-FILE-CHANGES.txt"
+    paths = {
+        manifest,
+        "solved_pyqs/EXECUTION-QUEUE.md",
+        "solved_pyqs/FINAL-RELEASE-REPORT.md",
+        "solved_pyqs/README.md",
+        "solved_pyqs/REVIEW-LOG.md",
+        "solved_pyqs/STATUS.md",
+        "solved_pyqs/build_release_catalogue.py",
+        "solved_pyqs/catalogue/CONCENTRATION-ANALYSIS.md",
+        "solved_pyqs/catalogue/CORPUS-AUDIT.json",
+        "solved_pyqs/catalogue/CORPUS-METADATA.json",
+        "solved_pyqs/catalogue/PAPERWISE-INDEX.md",
+        "solved_pyqs/catalogue/QUALITY-SPOT-CHECKS.md",
+        "solved_pyqs/catalogue/SUBJECT-INDEX.md",
+        "solved_pyqs/catalogue/TOPIC-INDEX.md",
+        "solved_pyqs/catalogue/YEARS-INDEX.md",
+    }
+    paths.update(
+        f"solved_pyqs/papers/{year}/{paper}.md" for paper in HISTORICAL_PAPER_ORDER
+    )
+    paths.update(
+        f"solved_pyqs/reviews/{year}-{paper}.md" for paper in HISTORICAL_PAPER_ORDER
+    )
+    paths.update(
+        f"solved_pyqs/topics/{topic_path}"
+        for record in records
+        if record.year == year
+        for topic_path in [record.topic_path, *record.secondary_topics]
+    )
+    lines = [
+        f"{year} historical merit solved-PYQ shared integration — exact changed-path manifest",
+        "",
+        f"Total files: {len(paths)}",
+        "",
+        *sorted(paths),
+    ]
+    return "\n".join(lines) + "\n"
+
+
+def historical_expansion_manifest(records: list[Record]) -> str:
+    manifest = "solved_pyqs/HISTORICAL-EXPANSION-FILE-CHANGES.txt"
+    paths = {
+        manifest,
+        *(f"solved_pyqs/{year}-RELEASE-FILE-CHANGES.txt" for year in HISTORICAL_MERIT_YEARS),
+        "solved_pyqs/EXECUTION-QUEUE.md",
+        "solved_pyqs/FINAL-RELEASE-REPORT.md",
+        "solved_pyqs/INSTRUCTIONS.md",
+        "solved_pyqs/README.md",
+        "solved_pyqs/REVIEW-LOG.md",
+        "solved_pyqs/STATUS.md",
+        "solved_pyqs/build_release_catalogue.py",
+        "solved_pyqs/catalogue/CONCENTRATION-ANALYSIS.md",
+        "solved_pyqs/catalogue/CORPUS-AUDIT.json",
+        "solved_pyqs/catalogue/CORPUS-METADATA.json",
+        "solved_pyqs/catalogue/PAPERWISE-INDEX.md",
+        "solved_pyqs/catalogue/QUALITY-SPOT-CHECKS.md",
+        "solved_pyqs/catalogue/SUBJECT-INDEX.md",
+        "solved_pyqs/catalogue/TOPIC-INDEX.md",
+        "solved_pyqs/catalogue/YEARS-INDEX.md",
+    }
+    paths.update(
+        f"solved_pyqs/papers/{year}/{paper}.md"
+        for year in HISTORICAL_MERIT_YEARS
+        for paper in HISTORICAL_PAPER_ORDER
+    )
+    paths.update(
+        f"solved_pyqs/reviews/{year}-{paper}.md"
+        for year in HISTORICAL_MERIT_YEARS
+        for paper in HISTORICAL_PAPER_ORDER
+    )
+    paths.update(
+        f"solved_pyqs/topics/{topic_path}"
+        for record in records
+        if record.year in HISTORICAL_MERIT_YEARS
+        for topic_path in [record.topic_path, *record.secondary_topics]
+    )
+    paths.update(
+        path.relative_to(REPO).as_posix()
+        for path in HISTORICAL_SOURCES.rglob("*")
+        if path.is_file()
+    )
+    lines = [
+        "2013–2018 historical merit solved-PYQ expansion — exact changed-path manifest",
+        "",
+        f"Total files: {len(paths)}",
+        "",
+        *sorted(paths),
+    ]
+    return "\n".join(lines) + "\n"
+
+
+def validate_historical_sources() -> dict:
+    issues = []
+    if not HISTORICAL_SOURCE_VALIDATION.exists():
+        return {
+            "status": "BLOCKED",
+            "records": 0,
+            "question_paper_records": 0,
+            "answer_key_records": 0,
+            "historical_language_papers_expected": 0,
+            "issues": ["missing historical source validation record"],
+        }
+    data = json.loads(read_text(HISTORICAL_SOURCE_VALIDATION))
+    records = data.get("records", [])
+    expected_slots = {
+        (year, paper)
+        for year in HISTORICAL_MERIT_YEARS
+        for paper in HISTORICAL_PAPER_ORDER
+    }
+    question_records = [row for row in records if row.get("record_type") == "question_paper"]
+    actual_slots = {(row.get("year"), row.get("slot")) for row in question_records}
+    if actual_slots != expected_slots:
+        issues.append(
+            "historical source slot mismatch: "
+            f"missing={sorted(expected_slots - actual_slots)}, "
+            f"extra={sorted(actual_slots - expected_slots)}"
+        )
+    language_records = [
+        row
+        for row in question_records
+        if row.get("slot") in {"mains-hindi", "mains-english"}
+    ]
+    if language_records:
+        issues.append("historical source inventory incorrectly includes qualifying-language papers")
+    for row in records:
+        relative = row.get("local_path")
+        digest = row.get("sha256")
+        if not relative or not digest:
+            issues.append(f"incomplete source record: {row.get('year')} {row.get('slot')}")
+            continue
+        path = REPO / Path(relative)
+        if not path.exists():
+            issues.append(f"missing historical source file: {relative}")
+            continue
+        actual_digest = hashlib.sha256(path.read_bytes()).hexdigest()
+        if actual_digest != digest:
+            issues.append(f"historical source hash mismatch: {relative}")
+        if not row.get("pdf_readable") or row.get("identity_status") != "VERIFIED":
+            issues.append(f"unverified historical source record: {relative}")
+    summary = data.get("summary", {})
+    if summary.get("status") != "PASS" or summary.get("blockers"):
+        issues.append("historical source validation summary is not PASS")
+    return {
+        "status": "PASS" if not issues else "BLOCKED",
+        "records": len(records),
+        "question_paper_records": len(question_records),
+        "answer_key_records": sum(
+            row.get("record_type") == "answer_key" for row in records
+        ),
+        "historical_language_papers_expected": 0,
+        "hash_verified_records": len(records) - sum(
+            issue.startswith(("missing historical source file", "historical source hash mismatch"))
+            for issue in issues
+        ),
+        "issues": issues,
+    }
 
 
 def markdown_heading_anchors(text: str) -> set[str]:
@@ -1488,12 +1840,14 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
     topic_paths = set(load_topic_info())
     paper_blocks: dict[str, str] = {}
     for year in YEARS:
-        for paper in PAPER_ORDER:
+        for paper in papers_for_year(year):
             paper_path = PAPERS / str(year) / f"{paper}.md"
             for anchor, _, _, block in anchor_sections(read_text(paper_path)):
                 paper_blocks[anchor] = block
     expected_files = {
-        f"papers/{year}/{paper}.md" for year in YEARS for paper in PAPER_ORDER
+        f"papers/{year}/{paper}.md"
+        for year in YEARS
+        for paper in papers_for_year(year)
     }
     actual_files = {
         path.relative_to(ROOT).as_posix() for path in PAPERS.glob("*/*.md")
@@ -1504,11 +1858,16 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
             f"extra={sorted(actual_files - expected_files)}"
         )
     expected_reviews = {
-        f"{year}-{paper}.md" for year in YEARS for paper in PAPER_ORDER
+        f"{year}-{paper}.md"
+        for year in YEARS
+        for paper in papers_for_year(year)
     }
     actual_reviews = {path.name for path in REVIEWS.glob("*.md")}
-    if expected_reviews - actual_reviews:
-        issues.append(f"missing reviews: {sorted(expected_reviews - actual_reviews)}")
+    if actual_reviews != expected_reviews:
+        issues.append(
+            f"review inventory mismatch: missing={sorted(expected_reviews - actual_reviews)}, "
+            f"extra={sorted(actual_reviews - expected_reviews)}"
+        )
     actual_topic_paths = {
         path.relative_to(TOPICS).as_posix() for path in TOPICS.rglob("*.md")
     }
@@ -1522,6 +1881,20 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
     for relative, anchors in explicit_anchors.items():
         if len(anchors) != len(set(anchors)):
             issues.append(f"duplicate anchors in {relative}")
+        year, paper_file = relative.split("/")[1:]
+        paper = Path(paper_file).stem
+        anchor_paper = {
+            "philosophy-paper-1": "philosophy-p1",
+            "philosophy-paper-2": "philosophy-p2",
+        }.get(paper, paper)
+        stable_prefix = f"{year}-{anchor_paper}-q"
+        for anchor in anchors:
+            if anchor == "2026-mains-english-translation":
+                continue
+            if not anchor.startswith(stable_prefix) or not re.fullmatch(
+                r"\d{4}-[a-z0-9-]+-q[0-9a-z-]+", anchor
+            ):
+                issues.append(f"non-canonical stable anchor: {anchor}")
         global_anchors.extend(anchors)
     if len(global_anchors) != len(set(global_anchors)):
         issues.append("duplicate explicit anchors across paper files")
@@ -1532,6 +1905,11 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
         for anchor in anchors:
             if anchor == "2026-mains-english-translation":
                 continue
+            if any(
+                re.fullmatch(rf"{historical_year}-prelims-csat-q\d{{2,3}}", anchor)
+                for historical_year in HISTORICAL_MERIT_YEARS
+            ):
+                continue
             if routed_by_anchor[anchor] != 1:
                 issues.append(f"orphan or multiply routed paper anchor: {anchor}")
     by_year = Counter()
@@ -1540,6 +1918,12 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
         by_year[record.year] += int(record.answerable_unit)
         anchor_by_year[record.year] += 1
     expected_units = {
+        2013: 347,
+        2014: 328,
+        2015: 322,
+        2016: 322,
+        2017: 323,
+        2018: 323,
         2019: 421,
         2020: 425,
         2021: 428,
@@ -1550,6 +1934,12 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
         2026: 421,
     }
     expected_routed = {
+        2013: 347,
+        2014: 328,
+        2015: 322,
+        2016: 322,
+        2017: 323,
+        2018: 323,
         2019: 444,
         2020: 448,
         2021: 451,
@@ -1571,19 +1961,24 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
         expected = {
             "prelims-gs1": (100, 100),
             "prelims-csat": (80, 80),
-            "mains-hindi": (37, 32),
-            "mains-english": (72, 60),
-            "mains-essay": (8, 8),
-            "mains-gs1": (20, 20),
-            "mains-gs2": (20, 20),
-            "mains-gs3": (20, 20),
+            "mains-essay": ((4, 4) if year == 2013 else (8, 8)),
+            "mains-gs1": ({2013: (30, 30), 2014: (25, 25)}.get(year, (20, 20))),
+            "mains-gs2": ((25, 25) if year == 2013 else (20, 20)),
+            "mains-gs3": ((28, 28) if year == 2013 else (20, 20)),
             "mains-gs4": (
-                {2019: 31, 2020: 35, 2021: 38, 2022: 49, 2023: 34, 2024: 39, 2025: 39, 2026: 31}[year],
-                {2019: 25, 2020: 29, 2021: 32, 2022: 43, 2023: 28, 2024: 33, 2025: 33, 2026: 25}[year],
+                {2013: 18, 2014: 19, 2015: 18, 2016: 18, 2017: 19, 2018: 19, 2019: 31, 2020: 35, 2021: 38, 2022: 49, 2023: 34, 2024: 39, 2025: 39, 2026: 31}[year],
+                {2013: 18, 2014: 19, 2015: 18, 2016: 18, 2017: 19, 2018: 19, 2019: 25, 2020: 29, 2021: 32, 2022: 43, 2023: 28, 2024: 33, 2025: 33, 2026: 25}[year],
             ),
-            "philosophy-paper-1": (28, 28),
+            "philosophy-paper-1": ((34, 34) if year == 2013 else (28, 28)),
             "philosophy-paper-2": (28, 28),
         }
+        if year not in HISTORICAL_MERIT_YEARS:
+            expected.update(
+                {
+                    "mains-hindi": (37, 32),
+                    "mains-english": (72, 60),
+                }
+            )
         for paper, pair in expected.items():
             actual = (paper_counts[(year, paper)], unit_counts[(year, paper)])
             if actual != pair:
@@ -1591,7 +1986,16 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
     marks_by_year = Counter()
     for record in records:
         marks_by_year[record.year] += record.marks_represented
-    if any(marks_by_year[year] != 4000 for year in YEARS):
+    expected_marks = {
+        2013: 2800,
+        2014: 2800,
+        2015: 2800,
+        2016: 2800,
+        2017: 2800,
+        2018: 2800,
+        **{year: 4000 for year in COMPLETE_CORPUS_YEARS},
+    }
+    if any(marks_by_year[year] != expected_marks[year] for year in YEARS):
         issues.append(f"represented-marks mismatch: {dict(marks_by_year)}")
     for record in records:
         block = paper_blocks[record.anchor]
@@ -1601,6 +2005,11 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
             issues.append(f"missing paper-index backlink: {record.anchor}")
         if record.topic_path not in topic_paths:
             issues.append(f"missing topic page: {record.topic_path}")
+        if not re.fullmatch(
+            r"[a-z0-9]+(?:-[a-z0-9]+)*/[a-z0-9]+(?:-[a-z0-9]+)*\.md",
+            record.topic_path,
+        ):
+            issues.append(f"non-canonical topic slug: {record.topic_path}")
     residue_patterns = {
         "unfinished marker": re.compile(r"\b(?:TODO|TBD|FIXME)\b", re.IGNORECASE),
         "replacement character": re.compile("\ufffd|�"),
@@ -1677,13 +2086,17 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
     ]
     if philosophy_replacement:
         issues.append(f"Philosophy encoding/IAST residue: {philosophy_replacement}")
+    source_validation = validate_historical_sources()
+    if source_validation["issues"]:
+        issues.extend(source_validation["issues"])
     return {
         "status": "PASS" if not issues else "BLOCKED",
         "issues": issues,
         "paper_files": len(actual_files),
         "review_files": len(actual_reviews & expected_reviews),
         "years": len(YEARS),
-        "paper_families": len(PAPER_ORDER),
+        "complete_paper_families": len(PAPER_ORDER),
+        "historical_merit_paper_families": len(HISTORICAL_PAPER_ORDER),
         "answerable_units": sum(record.answerable_unit for record in records),
         "routed_anchors": len(records),
         "explicit_paper_anchors": len(global_anchors),
@@ -1694,6 +2107,10 @@ def validate_corpus(records: list[Record], explicit_anchors: dict[str, list[str]
             1 for record in records if topic_reverse_counts[record.anchor] >= 1
         ),
         "secondary_topic_routes": sum(len(record.secondary_topics) for record in records),
+        "expected_paper_files": sum(len(papers_for_year(year)) for year in YEARS),
+        "expected_review_files": sum(len(papers_for_year(year)) for year in YEARS),
+        "historical_language_papers_expected": 0,
+        "historical_source_validation": source_validation,
         **links,
     }
 
@@ -1711,6 +2128,15 @@ def generate_all() -> dict:
         CATALOGUE / "CONCENTRATION-ANALYSIS.md": generate_concentration(records, topic_info),
         CATALOGUE / "QUALITY-SPOT-CHECKS.md": generate_quality_spot_checks(records),
         CATALOGUE / "CORPUS-METADATA.json": metadata_json(records),
+        **{
+            ROOT / f"{year}-RELEASE-FILE-CHANGES.txt": historical_release_manifest(
+                records, year
+            )
+            for year in HISTORICAL_MERIT_YEARS
+        },
+        ROOT / "HISTORICAL-EXPANSION-FILE-CHANGES.txt": historical_expansion_manifest(
+            records
+        ),
     }
     for path, text in outputs.items():
         if write_if_changed(path, text):
@@ -1812,14 +2238,53 @@ def generate_manifests(baseline_path: Path) -> dict:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
+    parser.add_argument("--integrate-2013", action="store_true")
+    parser.add_argument("--integrate-2014", action="store_true")
+    parser.add_argument("--integrate-2015", action="store_true")
+    parser.add_argument("--integrate-2016", action="store_true")
+    parser.add_argument("--integrate-2017", action="store_true")
+    parser.add_argument("--integrate-2018", action="store_true")
     parser.add_argument("--integrate-2019", action="store_true")
     parser.add_argument("--generate", action="store_true")
     parser.add_argument("--validate", action="store_true")
+    parser.add_argument("--idempotence", action="store_true")
     parser.add_argument("--manifests", action="store_true")
     parser.add_argument("--baseline", type=Path)
     args = parser.parse_args()
-    if not any((args.integrate_2019, args.generate, args.validate, args.manifests)):
-        args.integrate_2019 = args.generate = True
+    if not any(
+        (
+            args.integrate_2014,
+            args.integrate_2013,
+            args.integrate_2015,
+            args.integrate_2016,
+            args.integrate_2017,
+            args.integrate_2018,
+            args.integrate_2019,
+            args.generate,
+            args.validate,
+            args.idempotence,
+            args.manifests,
+        )
+    ):
+        args.integrate_2013 = args.integrate_2014 = args.integrate_2015 = args.integrate_2016 = args.integrate_2017 = args.integrate_2018 = args.integrate_2019 = args.generate = True
+    if args.integrate_2013:
+        changed = apply_historical_integration(2013)
+        print(json.dumps({"2013_integration_changed": changed}, indent=2))
+    if args.integrate_2014:
+        changed = apply_historical_integration(2014)
+        print(json.dumps({"2014_integration_changed": changed}, indent=2))
+    if args.integrate_2015:
+        changed = apply_historical_integration(2015)
+        print(json.dumps({"2015_integration_changed": changed}, indent=2))
+    if args.integrate_2016:
+        changed = apply_historical_integration(2016)
+        print(json.dumps({"2016_integration_changed": changed}, indent=2))
+    if args.integrate_2017:
+        changed = apply_historical_integration(2017)
+        print(json.dumps({"2017_integration_changed": changed}, indent=2))
+    if args.integrate_2018:
+        changed = apply_historical_integration(2018)
+        print(json.dumps({"2018_integration_changed": changed}, indent=2))
     if args.integrate_2019:
         changed = apply_2019_integration()
         print(json.dumps({"2019_integration_changed": changed}, indent=2))
@@ -1833,6 +2298,23 @@ def main() -> int:
         audit = validate_corpus(records, explicit_anchors)
         print(json.dumps(audit, ensure_ascii=False, indent=2))
         return 0 if audit["status"] == "PASS" else 1
+    if args.idempotence:
+        first = generate_all()
+        second = generate_all()
+        result = {
+            "status": (
+                "PASS"
+                if first["audit"]["status"] == "PASS"
+                and second["audit"]["status"] == "PASS"
+                and not second["changed"]
+                else "BLOCKED"
+            ),
+            "first_changed": first["changed"],
+            "second_changed": second["changed"],
+            "audit": second["audit"],
+        }
+        print(json.dumps(result, ensure_ascii=False, indent=2))
+        return 0 if result["status"] == "PASS" else 1
     if args.manifests:
         if not args.baseline:
             parser.error("--manifests requires --baseline")

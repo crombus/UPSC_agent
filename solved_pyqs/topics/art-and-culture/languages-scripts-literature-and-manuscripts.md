@@ -6,11 +6,32 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2024, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Prelims GS-I: 3
-- **Subtopics represented:** Place-value notation in Indian epigraphic and Southeast Asian inscriptions; Work attributed to the playwright Bhasa; Bhavabhuti Hastimalla and Kshemeshvara identification
+- **Released years represented:** 2014, 2015, 2016, 2021, 2024, 2026
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Prelims GS-I: 8
+- **Subtopics represented:** Place-value notation in Indian epigraphic and Southeast Asian inscriptions; Work attributed to the playwright Bhasa; Bhavabhuti Hastimalla and Kshemeshvara identification; Malavikagnimitra and the Sunga dynasty; Magadha and the chronicler class; Was given classical language status recently?; the following languages :; Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the fol...
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** the following languages :; Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the fol...
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Was given classical language status recently?
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Malavikagnimitra and the Sunga dynasty; Magadha and the chronicler class
 
 ## 2021 concentration
 
@@ -52,3 +73,23 @@
 #### Prelims GS-I
 
 - [Q41. Bhavabhuti Hastimalla and Kshemeshvara identification](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q41) — Bhavabhuti Hastimalla and Kshemeshvara identification
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q10. Malavikagnimitra and the Sunga dynasty](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q010) — Malavikagnimitra and the Sunga dynasty
+- [Q89. Magadha and the chronicler class](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q089) — Magadha and the chronicler class
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q75. Was given classical language status recently?](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q075) — Was given classical language status recently?
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q8. the following languages :](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q008) — the following languages :
+- [Q84. Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the fol...](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q084) — Chaitra 1 of the national calendar based on the Saka Era corresponds to which one of the fol...

@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2025
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-II: 3
+- **Released years represented:** 2017, 2019, 2022, 2025
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 1
 - **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Subsidiarity and participation; Donor dependence and community participation; Multi-level planning
+- **Subtopics represented:** Subsidiarity and participation; Donor dependence and community participation; Multi-level planning; Asia-Pacific housing and urban-development ministerial conference
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Asia-Pacific housing and urban-development ministerial conference
 
 ## 2019 concentration
 
@@ -56,3 +63,9 @@
 #### Mains GS-II
 
 - [Q16. “In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.” Discuss.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q16) — Multi-level planning · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q41. Asia-Pacific housing and urban-development ministerial conference](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q041) — Asia-Pacific housing and urban-development ministerial conference

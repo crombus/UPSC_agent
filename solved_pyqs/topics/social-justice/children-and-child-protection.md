@@ -6,12 +6,27 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2025
+- **Released years represented:** 2016, 2018, 2025
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 1
+- **Marks represented:** 27.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Digital safety and NCPCR; ILO Conventions 138 and 182 subject matter; National Policy for Children, 2013
+
+## 2016 concentration
+
 - **Solved answerable questions/parts:** 1
 - **Stable linked anchors:** 1
 - **Paper concentration:** Mains GS-II: 1
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Digital safety and NCPCR
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** National Policy for Children, 2013
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** ILO Conventions 138 and 182 subject matter
 
 ## 2025 concentration
 
@@ -28,3 +43,15 @@
 #### Mains GS-II
 
 - [Q18. The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue.](../../papers/2025/mains-gs2.md#2025-mains-gs2-q18) — Digital safety and NCPCR · 15 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q30. ILO Conventions 138 and 182 subject matter](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q30) — ILO Conventions 138 and 182 subject matter
+
+### 2016
+
+#### Mains GS-II
+
+- [Q15. Examine the main provisions of the National Child Policy and throw light on the status of its implementation.](../../papers/2016/mains-gs2.md#2016-mains-gs2-q15) — National Policy for Children, 2013 · 12.5 marks

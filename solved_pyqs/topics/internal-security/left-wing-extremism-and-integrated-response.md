@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2022, 2025
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-III: 3
-- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Integrated Response; Development–security strategy; Determinants and counter-strategy
+- **Released years represented:** 2013, 2015, 2018, 2020, 2022, 2025
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-III: 6
+- **Marks represented:** 75 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Integrated Response; Development–security strategy; Determinants and counter-strategy; Counter-LWE strategy; Governance and development deficits; Tribal governance and alienation
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Tribal governance and alienation
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Governance and development deficits
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Counter-LWE strategy
 
 ## 2020 concentration
 
@@ -56,3 +80,21 @@
 #### Mains GS-III
 
 - [Q19. Left-wing extremism in eastern India](../../papers/2020/mains-gs3.md#2020-mains-gs3-q19) — Determinants and counter-strategy · 15 marks
+
+### 2018
+
+#### Mains GS-III
+
+- [Q10. Government approach to Left Wing Extremism](../../papers/2018/mains-gs3.md#2018-mains-gs3-q10) — Counter-LWE strategy · 10 marks
+
+### 2015
+
+#### Mains GS-III
+
+- [Q19. Development, displacement and Left Wing Extremism](../../papers/2015/mains-gs3.md#2015-mains-gs3-q19) — Governance and development deficits · 15 marks
+
+### 2013
+
+#### Mains GS-III
+
+- [Q24. Fifth Schedule failures and Left Wing Extremism](../../papers/2013/mains-gs3.md#2013-mains-gs3-q24) — Tribal governance and alienation · 10 marks

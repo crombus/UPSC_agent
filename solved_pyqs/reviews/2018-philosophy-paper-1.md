@@ -165,3 +165,11 @@ once and in order, with confirmed source code, verified wording and marks, stabl
 syllabus and thinker/doctrine metadata, canonical routes, unique slugs, explicit arguments,
 objections, replies, evaluations, examiner takeaways, and English-first terminology with accurate
 IAST.
+
+## 2026-10-05 shared historical-merit integration addendum
+
+The deferred shared integration is complete. All **28** routed anchors now use canonical
+topic-page routes, have exact reverse links, appear in every cross-year index, and preserve the
+paper-specific source, marks and key qualifications recorded above.
+
+**Final release conclusion: PASS.**

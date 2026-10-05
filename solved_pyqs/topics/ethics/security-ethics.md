@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 15
-- **Stable linked anchors:** 19
-- **Paper concentration:** Mains GS-IV: 15
-- **Marks represented:** 90 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Proportionality, non-derogable rights and oversight; Humanitarian protection, border security and armed entrants; Q12(a). Options; Q12(b). Stakeholders, values and dilemmas; Q12(c). Recommended option and justification; Q12(d). Precautions for uniformed soldiers; Proportionate counter-radicalisation and intelligence; Options and consequences; Strengthening the existing setup; Intelligence action plan and safeguards; Integrity under political-administrative pressure; Options available; Option to adopt and why; Critical evaluation; Ethical dilemmas; Policy measures; Organised crime and compromised institutions; Crisis diagnosis; Integrated response
+- **Released years represented:** 2018, 2019, 2022, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 17
+- **Stable linked anchors:** 21
+- **Paper concentration:** Mains GS-IV: 17
+- **Marks represented:** 130 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Proportionality, non-derogable rights and oversight; Humanitarian protection, border security and armed entrants; Q12(a). Options; Q12(b). Stakeholders, values and dilemmas; Q12(c). Recommended option and justification; Q12(d). Precautions for uniformed soldiers; Proportionate counter-radicalisation and intelligence; Options and consequences; Strengthening the existing setup; Intelligence action plan and safeguards; Integrity under political-administrative pressure; Options available; Option to adopt and why; Critical evaluation; Ethical dilemmas; Policy measures; Organised crime and compromised institutions; Crisis diagnosis; Integrated response; humane and preventive policing; whistle-blowing, conscience, privacy and security
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** humane and preventive policing; whistle-blowing, conscience, privacy and security
 
 ## 2019 concentration
 
@@ -98,3 +106,10 @@
 - [Q11. Frontier-district narcotics crisis](../../papers/2019/mains-gs4.md#2019-mains-gs4-q11) — Organised crime and compromised institutions · 20 marks
 - [Q11(a). Dimensions of the crisis](../../papers/2019/mains-gs4.md#2019-mains-gs4-q11a) — Crisis diagnosis
 - [Q11(b). Measures, action and safeguards](../../papers/2019/mains-gs4.md#2019-mains-gs4-q11b) — Integrated response
+
+### 2018
+
+#### Mains GS-IV
+
+- [Q9. Illicit liquor in a prohibition district](../../papers/2018/mains-gs4.md#2018-mains-gs4-q09) — humane and preventive policing · 20 marks
+- [Q12. Edward Snowden: legality, privacy and national security](../../papers/2018/mains-gs4.md#2018-mains-gs4-q12) — whistle-blowing, conscience, privacy and security · 20 marks

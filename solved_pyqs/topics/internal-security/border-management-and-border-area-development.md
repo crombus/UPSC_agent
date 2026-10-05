@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Mains GS-III: 4; Prelims GS-I: 2
-- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Ladakh and Local Autonomy; Fifth Schedule Scheduled Area - executive power and Union takeover; Army goodwill operations for upliftment of local population in remote/border areas (Operation Sadbhavana); Border-area development; Counter-UAV Architecture; Country-specific border threats and forces
+- **Released years represented:** 2013, 2014, 2016, 2020, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-III: 7; Prelims GS-I: 2
+- **Marks represented:** 87.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Ladakh and Local Autonomy; Fifth Schedule Scheduled Area - executive power and Union takeover; Army goodwill operations for upliftment of local population in remote/border areas (Operation Sadbhavana); Border-area development; Counter-UAV Architecture; Country-specific border threats and forces; Integrated border management; Illegal migration; Porous borders and coordinated management
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Porous borders and coordinated management
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Illegal migration
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Integrated border management
 
 ## 2020 concentration
 
@@ -87,3 +111,21 @@
 #### Mains GS-III
 
 - [Q20. Threats and forces along India's eastern and western borders](../../papers/2020/mains-gs3.md#2020-mains-gs3-q20) — Country-specific border threats and forces · 15 marks
+
+### 2016
+
+#### Mains GS-III
+
+- [Q19. Challenges and strategies for border management](../../papers/2016/mains-gs3.md#2016-mains-gs3-q19) — Integrated border management · 12.5 marks
+
+### 2014
+
+#### Mains GS-III
+
+- [Q18. Illegal transborder migration and security](../../papers/2014/mains-gs3.md#2014-mains-gs3-q18) — Illegal migration · 15 marks
+
+### 2013
+
+#### Mains GS-III
+
+- [Q25. Border management and internal security](../../papers/2013/mains-gs3.md#2013-mains-gs3-q25) — Porous borders and coordinated management · 10 marks

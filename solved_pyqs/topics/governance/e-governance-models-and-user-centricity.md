@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-II: 5
-- **Marks represented:** 55 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** User-centric service design; Interactive Service Model; Implementation inadequacies; Fourth Industrial Revolution; ICT project implementation
+- **Released years represented:** 2018, 2019, 2020, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-II: 6; Prelims GS-I: 1
+- **Marks represented:** 65 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** User-centric service design; Interactive Service Model; Implementation inadequacies; Fourth Industrial Revolution; ICT project implementation; Digital India Plan government aims and objectives; Information use value
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Digital India Plan government aims and objectives; Information use value
 
 ## 2019 concentration
 
@@ -84,3 +92,13 @@
 #### Mains GS-II
 
 - [Q8. Implementation of Information and Communication Technology (ICT) based Projects/Programmes usually suffers in terms of certain vital factors. Identify these factors, and suggest measures for their effective implementation.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q08) — ICT project implementation · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q36. Digital India Plan government aims and objectives](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q36) — Digital India Plan government aims and objectives
+
+#### Mains GS-II
+
+- [Q8. E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain.](../../papers/2018/mains-gs2.md#2018-mains-gs2-q08) — Information use value · 10 marks

@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2023, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 2
+- **Released years represented:** 2014, 2015, 2023, 2026
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 2
+- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Indian Army Corps formations matched with their operational headquarters locations; Home Guards Act roles and Border Wing Home Guard battalions; Intelligence-Investigation Coordination; AFSPA and accountability; Air-defence coordination
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Indian Army Corps formations matched with their operational headquarters locations; Home Guards Act roles and Border Wing Home Guard battalions; Intelligence-Investigation Coordination
+- **Subtopics represented:** Air-defence coordination
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** AFSPA and accountability
 
 ## 2023 concentration
 
@@ -45,3 +61,15 @@
 #### Mains GS-III
 
 - [Q19. Internal-security challenges and central agencies](../../papers/2023/mains-gs3.md#2023-mains-gs3-q19) — Intelligence-Investigation Coordination · 15 marks
+
+### 2015
+
+#### Mains GS-III
+
+- [Q17. AFSPA, contested provisions and Supreme Court safeguards](../../papers/2015/mains-gs3.md#2015-mains-gs3-q17) — AFSPA and accountability · 15 marks
+
+### 2014
+
+#### Mains GS-III
+
+- [Q17. Sovereign airspace and threats from above](../../papers/2014/mains-gs3.md#2014-mains-gs3-q17) — Air-defence coordination · 15 marks

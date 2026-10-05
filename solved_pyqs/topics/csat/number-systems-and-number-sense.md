@@ -6,11 +6,53 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 108
-- **Stable linked anchors:** 108
-- **Paper concentration:** Prelims CSAT: 108
-- **Subtopics represented:** Number Systems → LCM → counting terms in a range; Number Systems/Sequences → Repeating pattern → positional decoding; Number Systems → Prime exponents → trailing tens; Number Systems → Integer combinations → optimisation; Number Systems → Discrete optimisation; Number Systems → Unit-digit cycles; Number Systems → Exponents → bounded counting; Number Systems → Digit frequency; Number Systems → Recurrence sequence; Number Systems → HCF/LCM identity; Number Systems → Divisibility by 11 → digit puzzle; Number Systems → Reversed digits → divisibility; Factor-sum enumeration; Prime-progression sums; Unit-fraction solution count; Derived-operator pattern; Simultaneous remainder constraints; Odd-product unit digit; Divisibility-exclusion count; Prime-expression count; LCM-HCF triple count; Highest factor power; Number-series completion; Square-root digit count; Power-sum remainder; Repdigit HCF; Concatenated-sequence digit; Factor-count invariance; Power-series remainder; Interior-multiples count; Operator-placement minimum; Trailing-zero count; Cumulative savings sequence; Divisibility test; Terminal nonzero digit; Common-divisor remainder; HCF container sizing; Prime-sum unit digit; Expression parity; Periodic-sequence sum; Exponential divisibility; Integer-pair uniqueness; Number series; Product remainder modulo 100; Unit-digit cycle; Digit-sum cryptarithm; Minimum digit-sum ratio; Parity of five integers; Prime-composite possibilities; Multiplication cryptarithm; Repeated-block divisibility; Divisor count from remainder; Maximum product of pair sums; Repunit remainder; Square of repeated ones; Digit sum from 10 to 100; Prime-group odd one out; Divisors producing remainder 31; Repeated-digit equation counts; Coin purchase versus weighing; Power remainder modulo 6; Number sequence term; Divisibility digit arrangement; Number magnitude comparison; LCM parity minimum; Digit sum bound statements; Product modular remainder; LCM remainder threshold; Digit reversal product; Prime composite property; Exponent maximum value; Cyclic remainder pattern; Divisibility digit value; Sequence incorrect term; Digit-permutation sum divisibility; Number sequence missing term; Cryptarithmetic digit addition; Cryptarithmetic digit multiplication; Consecutive-integer property; Digit-interchange difference; Repunit smallest multiplier; Cyclic-sum divisibility; Digit-sum primality; Digit symbol equation; HCF length measurement; Prime-offset sequence; Page-sum torn leaf; Digit and divisibility count; Largest value among fractional and negative-exponent powers; HCF of measurements; Recurring decimal conversion; LCM remainder constraint; Product remainder calculation; Digit sum of power; Difference-of-squares factoring; Fraction shift comparison; Divisibility condition digit; Digit Frequency Count; Divisibility Set Overlap; Reversed-Digit Ratio Pairs; Number Series Pattern; Page-Digit Range Count; Multi-Digit Divisibility Count; Digit Sum Divisibility Count
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 138
+- **Stable linked anchors:** 138
+- **Paper concentration:** Prelims CSAT: 138
+- **Subtopics represented:** Number Systems → LCM → counting terms in a range; Number Systems/Sequences → Repeating pattern → positional decoding; Number Systems → Prime exponents → trailing tens; Number Systems → Integer combinations → optimisation; Number Systems → Discrete optimisation; Number Systems → Unit-digit cycles; Number Systems → Exponents → bounded counting; Number Systems → Digit frequency; Number Systems → Recurrence sequence; Number Systems → HCF/LCM identity; Number Systems → Divisibility by 11 → digit puzzle; Number Systems → Reversed digits → divisibility; Factor-sum enumeration; Prime-progression sums; Unit-fraction solution count; Derived-operator pattern; Simultaneous remainder constraints; Odd-product unit digit; Divisibility-exclusion count; Prime-expression count; LCM-HCF triple count; Highest factor power; Number-series completion; Square-root digit count; Power-sum remainder; Repdigit HCF; Concatenated-sequence digit; Factor-count invariance; Power-series remainder; Interior-multiples count; Operator-placement minimum; Trailing-zero count; Cumulative savings sequence; Divisibility test; Terminal nonzero digit; Common-divisor remainder; HCF container sizing; Prime-sum unit digit; Expression parity; Periodic-sequence sum; Exponential divisibility; Integer-pair uniqueness; Number series; Product remainder modulo 100; Unit-digit cycle; Digit-sum cryptarithm; Minimum digit-sum ratio; Parity of five integers; Prime-composite possibilities; Multiplication cryptarithm; Repeated-block divisibility; Divisor count from remainder; Maximum product of pair sums; Repunit remainder; Square of repeated ones; Digit sum from 10 to 100; Prime-group odd one out; Divisors producing remainder 31; Repeated-digit equation counts; Coin purchase versus weighing; Power remainder modulo 6; Number sequence term; Divisibility digit arrangement; Number magnitude comparison; LCM parity minimum; Digit sum bound statements; Product modular remainder; LCM remainder threshold; Digit reversal product; Prime composite property; Exponent maximum value; Cyclic remainder pattern; Divisibility digit value; Sequence incorrect term; Digit-permutation sum divisibility; Number sequence missing term; Cryptarithmetic digit addition; Cryptarithmetic digit multiplication; Consecutive-integer property; Digit-interchange difference; Repunit smallest multiplier; Cyclic-sum divisibility; Digit-sum primality; Digit symbol equation; HCF length measurement; Prime-offset sequence; Page-sum torn leaf; Digit and divisibility count; Largest value among fractional and negative-exponent powers; HCF of measurements; Recurring decimal conversion; LCM remainder constraint; Product remainder calculation; Digit sum of power; Difference-of-squares factoring; Fraction shift comparison; Divisibility condition digit; Digit Frequency Count; Divisibility Set Overlap; Reversed-Digit Ratio Pairs; Number Series Pattern; Page-Digit Range Count; Multi-Digit Divisibility Count; Digit Sum Divisibility Count; Number matrix pattern; Digit-ordered number count; Arithmetic progression; Digit enumeration; Digit counting; Perfect powers; Remainders; Digit equations; LCM; Binary counting; Odd-number structure; Divisibility; Inclusion–exclusion; Matrix pattern; Cryptarithm ABC × DEED; Marble counts; Simultaneous firing count; Points marked from both ends; Number-row relationship; Three bells together; Letter-number substitution; Calendar fifth day from 21st; Five clubs meeting together; Red green and yellow balls; Cube-sum matrix; Three-number pattern; Rare coin ratio; Plants in a square array
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Prelims CSAT: 6
+- **Subtopics represented:** Five clubs meeting together; Red green and yellow balls; Cube-sum matrix; Three-number pattern; Rare coin ratio; Plants in a square array
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Prelims CSAT: 6
+- **Subtopics represented:** Simultaneous firing count; Points marked from both ends; Number-row relationship; Three bells together; Letter-number substitution; Calendar fifth day from 21st
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Prelims CSAT: 4
+- **Subtopics represented:** Matrix pattern; Number series; Cryptarithm ABC × DEED; Marble counts
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 5
+- **Stable linked anchors:** 5
+- **Paper concentration:** Prelims CSAT: 5
+- **Subtopics represented:** LCM; Binary counting; Odd-number structure; Divisibility; Inclusion–exclusion
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims CSAT: 7
+- **Subtopics represented:** Arithmetic progression; Digit enumeration; Digit counting; Perfect powers; Remainders; Digit equations
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims CSAT: 2
+- **Subtopics represented:** Number matrix pattern; Digit-ordered number count
 
 ## 2019 concentration
 
@@ -217,3 +259,63 @@
 - [Q53. Page-Digit Range Count](../../papers/2019/prelims-csat.md#2019-prelims-csat-q53) — Page-Digit Range Count
 - [Q60. Multi-Digit Divisibility Count](../../papers/2019/prelims-csat.md#2019-prelims-csat-q60) — Multi-Digit Divisibility Count
 - [Q75. Digit Sum Divisibility Count](../../papers/2019/prelims-csat.md#2019-prelims-csat-q75) — Digit Sum Divisibility Count
+
+### 2018
+
+#### Prelims CSAT
+
+- [Q3. Number matrix pattern](../../papers/2018/prelims-csat.md#2018-prelims-csat-q03-solution) — Number matrix pattern
+- [Q36. Digit-ordered number count](../../papers/2018/prelims-csat.md#2018-prelims-csat-q36-solution) — Digit-ordered number count
+
+### 2017
+
+#### Prelims CSAT
+
+- [Q35. Mean of consecutive odd numbers](../../papers/2017/prelims-csat.md#2017-prelims-csat-q035-solution) — Arithmetic progression
+- [Q49. Reversible multiples of seven](../../papers/2017/prelims-csat.md#2017-prelims-csat-q049-solution) — Digit enumeration
+- [Q51. Three-digit numbers ending in eight](../../papers/2017/prelims-csat.md#2017-prelims-csat-q051-solution) — Digit counting
+- [Q53. Square-cube age puzzle](../../papers/2017/prelims-csat.md#2017-prelims-csat-q053-solution) — Perfect powers
+- [Q73. Maximum remainder after digit reversal](../../papers/2017/prelims-csat.md#2017-prelims-csat-q073-solution) — Remainders
+- [Q79. Digit reversal difference](../../papers/2017/prelims-csat.md#2017-prelims-csat-q079-solution) — Digit equations
+- [Q80. Page-number digit count](../../papers/2017/prelims-csat.md#2017-prelims-csat-q080-solution) — Digit counting
+
+### 2016
+
+#### Prelims CSAT
+
+- [Q13. Simultaneous hobby-club meetings](../../papers/2016/prelims-csat.md#2016-prelims-csat-q013-solution) — LCM
+- [Q40. Maximum distinct T/F sequences](../../papers/2016/prelims-csat.md#2016-prelims-csat-q040-solution) — Binary counting
+- [Q53. Middle ladder step](../../papers/2016/prelims-csat.md#2016-prelims-csat-q053-solution) — Odd-number structure
+- [Q62. Divisibility of R and S](../../papers/2016/prelims-csat.md#2016-prelims-csat-q062-solution) — Divisibility
+- [Q63. Numbers beginning or ending with 2](../../papers/2016/prelims-csat.md#2016-prelims-csat-q063-solution) — Inclusion–exclusion
+
+### 2015
+
+#### Prelims CSAT
+
+- [Q12. Matrix pattern](../../papers/2015/prelims-csat.md#2015-prelims-csat-q012-solution) — Matrix pattern
+- [Q13. Number series](../../papers/2015/prelims-csat.md#2015-prelims-csat-q013-solution) — Number series
+- [Q57. Cryptarithm ABC × DEED](../../papers/2015/prelims-csat.md#2015-prelims-csat-q057-solution) — Cryptarithm ABC × DEED
+- [Q79. Marble counts](../../papers/2015/prelims-csat.md#2015-prelims-csat-q079-solution) — Marble counts
+
+### 2014
+
+#### Prelims CSAT
+
+- [Q6. Simultaneous firing count](../../papers/2014/prelims-csat.md#2014-prelims-csat-q006-solution) — Simultaneous firing count
+- [Q22. Points marked from both ends](../../papers/2014/prelims-csat.md#2014-prelims-csat-q022-solution) — Points marked from both ends
+- [Q42. Number-row relationship](../../papers/2014/prelims-csat.md#2014-prelims-csat-q042-solution) — Number-row relationship
+- [Q46. Three bells together](../../papers/2014/prelims-csat.md#2014-prelims-csat-q046-solution) — Three bells together
+- [Q61. Letter-number substitution](../../papers/2014/prelims-csat.md#2014-prelims-csat-q061-solution) — Letter-number substitution
+- [Q76. Calendar fifth day from 21st](../../papers/2014/prelims-csat.md#2014-prelims-csat-q076-solution) — Calendar fifth day from 21st
+
+### 2013
+
+#### Prelims CSAT
+
+- [Q28. Five clubs meeting together](../../papers/2013/prelims-csat.md#2013-prelims-csat-q028-solution) — Five clubs meeting together
+- [Q31. Red green and yellow balls](../../papers/2013/prelims-csat.md#2013-prelims-csat-q031-solution) — Red green and yellow balls
+- [Q48. Cube-sum matrix](../../papers/2013/prelims-csat.md#2013-prelims-csat-q048-solution) — Cube-sum matrix
+- [Q50. Three-number pattern](../../papers/2013/prelims-csat.md#2013-prelims-csat-q050-solution) — Three-number pattern
+- [Q60. Rare coin ratio](../../papers/2013/prelims-csat.md#2013-prelims-csat-q060-solution) — Rare coin ratio
+- [Q61. Plants in a square array](../../papers/2013/prelims-csat.md#2013-prelims-csat-q061-solution) — Plants in a square array

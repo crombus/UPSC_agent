@@ -10,7 +10,7 @@
 
 The passages, stems, figures and option sets below follow the held Series-A booklet order. Figure links reproduce the printed diagrams used by the questions; all answers are resolved only in the official-final solution section.
 
-<a id="2018-prelims-csat-q01"></a>
+
 1. Consider the following three-dimensional figure:
 
 ![](https://lh7-us.googleusercontent.com/SyDi9O1Ejrey3zA1U6kzrF1L0ZyEURjrzzRNfRrbfq6qv60uIo_OF6nK8etTVpnzbRQPRRoEH0FKJJ7UbZod-ODPydHaSjxwB4kX_4zeYLZRhtW1t4fnTnUULyTjdfxhjgxfmcjASQWxCiKXXLhv-_c)
@@ -27,7 +27,7 @@ d) 24
 
 ---
 
-<a id="2018-prelims-csat-q02"></a>
+
 2. Consider the following sum:
 
 • + 1• + 2• + •3 + •1 = 21•
@@ -44,7 +44,7 @@ d) 8
 
 ---
 
-<a id="2018-prelims-csat-q03"></a>
+
 3. Consider the following pattern of numbers :
 
 ![](https://lh7-us.googleusercontent.com/Fl3Z4DlqP1-WlLv0EE0eVBbvhHrk1eASHxddX07HqF_kim0Lc76iZ3vSfw02A44BxEJAzi7i-T5-JDmRLRtjLdCVvg4GMPRQnJskBgW7fCw1bGO67pcTu3eltLWsMNLDo7BIa4EPUjDYpvyJverAuSQ)
@@ -61,7 +61,7 @@ d) 23
 
 ---
 
-<a id="2018-prelims-csat-q04"></a>
+
 4. How many diagonals can be drawn by joining the vertices of an octagon?
 
 a) 20
@@ -74,7 +74,7 @@ d) 64
 
 ---
 
-<a id="2018-prelims-csat-q05"></a>
+
 5. The figure drawn below gives the velocity graphs of two vehicles A and B. The straight line OKP represents the velocity of vehicle A at any instant, whereas the horizontal straight line CKD represents the velocity of vehicle B at any instant. In the figure, D is the point where perpendicular from P meets the horizontal line CKD such that PD= 1/2 LD :
 
 ![](https://lh7-us.googleusercontent.com/NPjYmp8SjHo38IcJYBCLpqDA6wn0VBDBo2QRa1R9GQcRvv8TIR_BqC5E7NZSq_GuzwFYZlbIoXKSvqvhe3WctMOM_PaLDqtB0ng-SBP6eX-sY6CS4r8VKFyz1PI6tKfa5Hk4PW5czz6NI65OMdXMZNA)
@@ -91,7 +91,7 @@ d) 1 : 1
 
 ---
 
-<a id="2018-prelims-csat-q06"></a>
+
 6. A train 200 metres long is moving at the rate of 40 kmph. In how many seconds will it cross a man standing near the railway line?
 
 a) 12
@@ -112,7 +112,7 @@ Passage-1
 
 Global population was around 1.6 billion in 1990—today it is around 7.2 billion and growing. Recent estimates on population growth predict a global population of 9.6 billion in 2050 and 10.9 billion in 2100. Unlike Europe and North America, where only three to four per cent of population is engaged in agriculture, around 47 per cent of India's population is dependent upon agriculture. Even if India continues to do well in the service sector and the manufacturing sector picks up, it is expected that around 2030 when India overtakes China as the world's most populous country, nearly 42 per cent of India's population will still be predominantly dependent on agriculture.
 
-<a id="2018-prelims-csat-q07"></a>
+
 7. Which of the following is the most logical and rational inference that can be made from the above passage?
 
 a) Prosperity of agriculture sector is of critical importance to India.
@@ -129,7 +129,7 @@ Passage-2
 
 Many pathogens that cause foodborne illnesses are unknown. Food contamination can occur at any stage from farm to plate. Since most cases of food poisoning go unreported, the true extent of global foodborne illnesses is unknown. Improvements in international monitoring have led to greater public awareness, yet the rapid globalization of food production increases consumers' vulnerability by making food harder to regulate and trace. "We have the world on our plates", says an official of WHO.
 
-<a id="2018-prelims-csat-q08"></a>
+
 8. Which of the following is the most logical corollary to the above passage?
 
 a) With more options for food come more risks.
@@ -146,7 +146,7 @@ Passage-3
 
 I am a scientist, privileged to be somebody who tries to understand nature using the tools of science. But it is also clear that there are some really important questions that science cannot really answer, such as : Why is there something instead of nothing? Why are we here? In those domains, I have found that faith provides a better path to answers. I find it oddly anachronistic that in today's culture there seems to be a widespread presumption that scientific and spiritual views are incompatible.
 
-<a id="2018-prelims-csat-q09"></a>
+
 9. Which of the following is the most logical and rational inference that can be made from the above passage?
 
 a) It is the faith and not science that can finally solve all the problems of mankind.
@@ -163,7 +163,7 @@ Passage-4
 
 Though I have discarded much of past tradition and custom, and am anxious that India should rid herself of all shackles that bind and contain her and divide her people, and suppress vast numbers of them, and prevent the free development of the body and the spirit; though I seek all this, yet I do not wish to cut myself off from that past completely. I am proud of that great inheritance that has been and is, ours and I am conscious that I too, like all of us, am a link in that unbroken chain which goes back to the dawn of history in the immemorial past of India.
 
-<a id="2018-prelims-csat-q10"></a>
+
 10. The author wants India to rid herself of certain past bonds because
 
 a) he is not able to see the relevance of the past
@@ -184,7 +184,7 @@ The following three items are based on the graph given below which shows imports
 
 The figures in the brackets indicate the average cost per ton over six months period.
 
-<a id="2018-prelims-csat-q11"></a>
+
 11. By how much (measured in thousands of tons) did the import of sheet steel exceed the import of coil steel in the first three months of the year?
 
 a) 11
@@ -197,7 +197,7 @@ d) 23
 
 ---
 
-<a id="2018-prelims-csat-q12"></a>
+
 12. What was the approximate total value (in $) of sheet steel imported over the six months period?
 
 a) 45,555
@@ -210,7 +210,7 @@ d) 65,750
 
 ---
 
-<a id="2018-prelims-csat-q13"></a>
+
 13. What was the approximate ratio of sheet steel and scrap steel imports in the first three months of the year?
 
 a) 1 : 1
@@ -223,15 +223,13 @@ d) 1.6 : 1
 
 ---
 
----
-
 Directions for the following 3 (three) items
 
 Rotated positions of a single solid are shown below. The various faces of the solid are marked with different symbols like dots, cross and line. Answer the three items that follow the given figures
 
 ![](https://lh7-us.googleusercontent.com/RZjl2cj2TaWYxONtNOw7J6vZx-19rw884fIj0G7GJRGvb4g3WS-GOfCS9C_IrqE6E2e028y9AkGrjNmarHvF0QS6DlZY_oFcXKEd5dMxrYtvY2jeQ7qLrRHrnwXnVlUYZ0dUtt382WHfmnIUbzxxiWU)
 
-<a id="2018-prelims-csat-q14"></a>
+
 14. What is the symbol on the face opposite to that containing a single dot?
 
 a) Four dots
@@ -244,7 +242,7 @@ d) Cross
 
 ---
 
-<a id="2018-prelims-csat-q15"></a>
+
 15. What is the symbol on the face opposite to that containing two dots?
 
 a) Single dot
@@ -257,7 +255,7 @@ d) Line
 
 ---
 
-<a id="2018-prelims-csat-q16"></a>
+
 16. What is the symbol on the face opposite to that containing the cross?
 
 a) Single dot
@@ -270,26 +268,24 @@ d) Four dots
 
 ---
 
----
-
 Directions for the following 4 (four) items:
 
 Read the following passage and answer the four items that follow. Your answers to these items should be based on the passage only.
 
 Passage
 
-It is no longer, enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and complementing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education.
+It is no longer enough for us to talk about providing for universal access to education. Making available schooling facilities is an essential prerequisite, but is insufficient to ensure that all children attend school and participate in the learning process. The school may be there, but children may not attend or they may drop out after a few months. Through school and social mapping, we must address the entire gamut of social, economic, cultural and indeed linguistic and pedagogic issues, factors that prevent children from weaker sections and disadvantaged groups, as also girls, from regularly attending and completing elementary education. The focus must be on the poorest and most vulnerable since these groups are the most disempowered and at the greatest risk of violation or denial of their right to education.
 
-The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their right. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge, and to move beyond the convention of using textbooks as the basis of examinations. The teaching-learning process must become stress-free; and a massive programme for curricular reform should be initiated to provide for a child-friendly learning system that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning. And that their right to learn in a child- friendly environment is not violated. Testing and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.
+The right to education goes beyond free and compulsory education to include quality education for all. Quality is an integral part of the right to education. If the education process lacks quality, children are being denied their right. The Right of Children to Free and Compulsory Education Act lays down that the curriculum should provide for learning through activities, exploration and discovery. This places an obligation on us to change our perception of children as passive receivers of knowledge, and to move beyond the convention of using textbooks as the basis of examinations. The teaching-learning process must become stress-free; and a massive programme for curricular reform should be initiated to provide for a child-friendly learning system that is more relevant and empowering. Teacher accountability systems and processes must ensure that children are learning, and that their right to learn in a child- friendly environment is not violated. Testing and assessment systems must be reexamined and redesigned to ensure that these do not force children to struggle between school and tuition centres, and bypass childhood.
 
-<a id="2018-prelims-csat-q17"></a>
+
 17. According to the passage, which of the following is/are of paramount importance under the Right to Education?
 
-Sending of children to school by all parents
+1. Sending of children to school by all parents
 
-Provision of adequate physical infrastructure in schools
+2. Provision of adequate physical infrastructure in schools
 
-Curricular reforms for developing child-friendly learning system
+3. Curricular reforms for developing child-friendly learning system
 
 Select the correct answer using the code given below.
 
@@ -303,14 +299,14 @@ d) None of the above
 
 ---
 
-<a id="2018-prelims-csat-q18"></a>
+
 18. With reference to the above passage, the following assumptions have been made :
 
-The Right to Education guarantees teachers' accountability for the learning process of children.
+1. The Right to Education guarantees teachers' accountability for the learning process of children.
 
-The Right to Education guarantees 100% enrolment of children in the schools.
+2. The Right to Education guarantees 100% enrolment of children in the schools.
 
-The Right to Education intends to take full advantage of demographic dividend.
+3. The Right to Education intends to take full advantage of demographic dividend.
 
 Which of the above assumptions is/are valid?
 
@@ -324,7 +320,7 @@ d) 1, 2 and 3
 
 ---
 
-<a id="2018-prelims-csat-q19"></a>
+
 19. According to the passage, which one of the following is critical in bringing quality in education?
 
 a) Ensuring regular attendance of children as well as teachers in school
@@ -337,7 +333,7 @@ d) Inculcating learning through activities and discovery
 
 ---
 
-<a id="2018-prelims-csat-q20"></a>
+
 20. What is the essential message in this passage?
 
 a) The Right to Education now is a Fundamental Right.
@@ -350,15 +346,7 @@ d) The Government as well as parents should ensure that all children attend scho
 
 ---
 
----
 
----
-
----
-
----
-
-<a id="2018-prelims-csat-q21"></a>
 21. If LSJXVC is the code for MUMBAI, the code for DELHI is
 
 a) CCIDD
@@ -371,7 +359,7 @@ d) CCIFE
 
 ---
 
-<a id="2018-prelims-csat-q22"></a>
+
 22. If RAMON is written as 12345 and DINESH as 675849, then HAMAM will be written as
 
 a) 92233
@@ -384,7 +372,7 @@ d) 93232
 
 ---
 
-<a id="2018-prelims-csat-q23"></a>
+
 23. If X is between -3 and -1, and Y is between -1 and 1, then X2 - Y2 is in between which of the following?
 
 a) -9 and 1
@@ -397,7 +385,7 @@ d) 0 and 9
 
 ---
 
-<a id="2018-prelims-csat-q24"></a>
+
 24. X and Y are natural numbers other than 1, and Y is greater than X. Which of the following represents the largest number?
 
 a) XY
@@ -416,7 +404,7 @@ The plan of an office block for six officers A, B, C, D, E and F is a follows : 
 
 ---
 
-<a id="2018-prelims-csat-q25"></a>
+
 25. If E sits in his office and faces the corridor, whose office is to his left?
 
 a) A
@@ -429,7 +417,7 @@ d) D
 
 ---
 
-<a id="2018-prelims-csat-q26"></a>
+
 26. Who is/are F's immediate neighbour/ neighbours?
 
 a) A only
@@ -452,16 +440,16 @@ Passage-1
 
 ---
 
-<a id="2018-prelims-csat-q27"></a>
+
 27. According to the passage, which of the following are the consequences of decline in forest cover?
 
-Loss of topsoil
+1. Loss of topsoil
 
-Loss of smaller rivers
+2. Loss of smaller rivers
 
-Adverse effect on agricultural production
+3. Adverse effect on agricultural production
 
-Declining of groundwater
+4. Declining of groundwater
 
 Select the correct answer using the code given below.
 
@@ -475,14 +463,14 @@ d) 1, 2, 3 and 4
 
 ---
 
-<a id="2018-prelims-csat-q28"></a>
+
 28. Which of the following is/are the correct inference/ inferences that can be made from the passage?
 
-Deforestation can cause changes in the course of rivers.
+1. Deforestation can cause changes in the course of rivers.
 
-Salinization of land takes place due to human activities only.
+2. Salinization of land takes place due to human activities only.
 
-Intense monoculture practice in plains is a major reason for desertification in Tropical Asia, Africa and South America.
+3. Intense monoculture practice in plains is a major reason for desertification in Tropical Asia, Africa and South America.
 
 Select the correct answer using the code given below.
 
@@ -496,12 +484,12 @@ d) None of the above is a correct inference
 
 ---
 
-<a id="2018-prelims-csat-q29"></a>
+
 29. With reference to 'desertification', as described in the passage, the following assumptions have been made :
 
-Desertification is a phenomenon in tropical areas only.
+1. Desertification is a phenomenon in tropical areas only.
 
-Deforestation invariably leads to floods and desertification.
+2. Deforestation invariably leads to floods and desertification.
 
 Which of the above assumptions is/are valid?
 
@@ -515,22 +503,20 @@ d) Neither 1 nor 2
 
 ---
 
----
-
 Passage-2
 
 A diversity of natural assets will be needed to cope with climate change and ensure productive agriculture, forestry, and fisheries. For example, crop varieties are needed that perform well under drought, heat, and enhanced CO2. But the private-sector and farmer-led process of choosing crops favours homogeneity adapted to past or current conditions, not varieties capable of producing consistently high yields in warmer, wetter, or drier conditions. Accelerated breeding programmes are needed to conserve a wider pool of genetic resources of existing crops, breeds, and their wild relatives. Relatively intact ecosystems, such as forested catchments, mangroves, wetlands, can buffer the impacts of climate change. Under a changing climate, these ecosystems are themselves at risk, and management approaches will need to be more proactive and adaptive. Connections between natural areas, such as migration corridors, may be needed to facilitate species movements to keep up with the change in climate.
 
-<a id="2018-prelims-csat-q30"></a>
+
 30. With reference to the above passage, which of the following would assist us in coping with the climate change?
 
-Conservation of natural water sources
+1. Conservation of natural water sources
 
-Conservation of wider gene pool
+2. Conservation of wider gene pool
 
-Existing crop management practices
+3. Existing crop management practices
 
-Migration corridors
+4. Migration corridors
 
 Select the correct answer using the code given below.
 
@@ -544,12 +530,12 @@ d) 1, 2, 3 and 4
 
 ---
 
-<a id="2018-prelims-csat-q31"></a>
+
 31. With reference to the above passage, the following assumptions have been made :
 
-Diversification of livelihoods acts as a coping strategy for climate change.
+1. Diversification of livelihoods acts as a coping strategy for climate change.
 
-Adoption of monocropping practice leads to the extinction of plant varieties and their wild relatives.
+2. Adoption of monocropping practice leads to the extinction of plant varieties and their wild relatives.
 
 Which of the above assumptions is/are valid?
 
@@ -563,15 +549,11 @@ d) Neither 1 nor 2
 
 ---
 
----
-
----
-
 Passage-3
 
 Today, the top environmental challenge is a combination of people and their aspirations. If the aspirations are more like the frugal ones we had after the Second World War, a lot more is possible than if we view the planet as a giant shopping mall. We need to get beyond the fascination with glitter and understand that the planet works as a biological system.
 
-<a id="2018-prelims-csat-q32"></a>
+
 32. Which of the following is the most crucial and logical inference that can be made from the above passage?
 
 a) The Earth can meet only the basic needs of humans for food, clothing and shelter.
@@ -588,7 +570,7 @@ Passage-4
 
 Some people believe that leadership is a quality which you have at birth or not at all. This theory is false, for the art of leadership can be acquired and can indeed be taught. This discovery is made in time of war and the results achieved can surprise even the instructors. Faced with the alternatives of going left or right, every soldier soon grasps that a prompt decision either way is better than an endless discussion. A firm choice of direction has an even chance of being right while to do nothing will be almost certainly wrong.
 
-<a id="2018-prelims-csat-q33"></a>
+
 33. The author of the passage holds the view that
 
 a) leadership can be taught through war experience only
@@ -601,7 +583,7 @@ d) despite rigorous instruction, very few leaders are produced
 
 ---
 
-<a id="2018-prelims-csat-q34"></a>
+
 34. A number consists of three digits of which the middle one is zero and their sum is 4. If the number formed by interchanging the first and last digits is greater than the number itself by 198, then the difference between the first and last digits is
 
 a) 1
@@ -614,7 +596,7 @@ d) 4
 
 ---
 
-<a id="2018-prelims-csat-q35"></a>
+
 35. A solid cube of 3 cm side, painted on all its faces, is cut up into small cubes of 1 cm side. How many of the small cubes will have exactly two painted faces?
 
 a) 12
@@ -627,7 +609,7 @@ d) 4
 
 ---
 
-<a id="2018-prelims-csat-q36"></a>
+
 36. While writing all the numbers from 700 to 1000, how many numbers occur in which the digit at hundred's place is greater than the digit at ten's place, and the digit at ten's place is greater than the digit at unit's place?
 
 a) 61
@@ -640,7 +622,7 @@ d) 91
 
 ---
 
-<a id="2018-prelims-csat-q37"></a>
+
 37. If Pen < Pencil, Pencil < Book and Book > Cap, then which one of the following is always true?
 
 a) Pen > Cap
@@ -653,7 +635,7 @@ d) Pencil > Cap
 
 ---
 
-<a id="2018-prelims-csat-q38"></a>
+
 38. A bookseller sold 'a' number of Geography textbooks at the rate of Rs. x per book, 'a + 2' number of History textbooks at the rate of Rs. (x + 2) per book and 'a - 2' number of Mathematics textbooks at the rate of Rs. (x - 2) per book. What is his total sale in Rs. ?
 
 a) 3x + 3a
@@ -666,7 +648,7 @@ d) x^3 a^3
 
 ---
 
-<a id="2018-prelims-csat-q39"></a>
+
 39. A bag contains 15 red balls and 20 black balls. Each ball is numbered either 1 or 2 or 3. 20% of the red balls are numbered 1 and 40% of them are numbered 3. Similarly, among the black balls, 45% are numbered 2 and 30% are numbered 3. A boy picks a ball at random. He wins if the ball is red and numbered 3 or if it is black and numbered 1 or 2. What are the chances of his winning?
 
 a) 1/2
@@ -679,7 +661,7 @@ d) 12 /13
 
 ---
 
-<a id="2018-prelims-csat-q40"></a>
+
 40. Two persons, A and B are running on a circular track. At the start, B is ahead of A and their positions make an angle of 30° at the centre of the circle. When A reaches the point diametrically opposite to his starting point, he meets B. What is the ratio of speeds of A and B, if they are running with uniform speeds?
 
 a) 6 : 5
@@ -692,7 +674,7 @@ d) 4 : 2
 
 ---
 
-<a id="2018-prelims-csat-q41"></a>
+
 41. A student has to get 40% marks to pass in an examination. Suppose he gets 30 marks and fails by 30 marks, then what are the maximum marks in the examination?
 
 a) 100
@@ -705,7 +687,7 @@ d) 300
 
 ---
 
-<a id="2018-prelims-csat-q42"></a>
+
 42. 19 boys turn out for playing hockey. Of these, 11 are wearing hockey shirts and 14 are wearing hockey pants. There are no boys without shirts and pants. What is the number of boys wearing full uniform?
 
 a) 3
@@ -734,7 +716,7 @@ B is studying in city Q
 
 Science college is located in Kerala
 
-<a id="2018-prelims-csat-q43"></a>
+
 43. A is studying in
 
 a) Rajasthan
@@ -747,7 +729,7 @@ d) Kerala
 
 ---
 
-<a id="2018-prelims-csat-q44"></a>
+
 44. Science college is located in
 
 a) city Q
@@ -760,7 +742,7 @@ d) city P
 
 ---
 
-<a id="2018-prelims-csat-q45"></a>
+
 45. C is studying in
 
 a) Science college
@@ -773,7 +755,7 @@ d) city Q
 
 ---
 
-<a id="2018-prelims-csat-q46"></a>
+
 46. Which one of the following statements is correct?
 
 a) D is not studying in city S.
@@ -786,7 +768,7 @@ d) Engineering college is located in Gujarat.
 
 ---
 
-<a id="2018-prelims-csat-q47"></a>
+
 47. Which one of the following statements is correct regarding Engineering college?
 
 a) C is studying there.
@@ -799,7 +781,7 @@ d) D is studying there.
 
 ---
 
-<a id="2018-prelims-csat-q48"></a>
+
 48. Which one of the following statements is correct?
 
 a) Engineering college is located in Assam.
@@ -812,8 +794,6 @@ d) B is studying in Gujarat.
 
 ---
 
----
-
 Directions for the following 8 (eight) items
 
 Read the following eight passages and answer the items that follow. Your answers to these items should be based on the passages only.
@@ -822,14 +802,14 @@ Passage-1
 
 All actions to address climate change ultimately involve costs. Funding is vital in order for countries like India to design and implement adaptation and mitigation plans and projects. The problem is more severe for developing countries like India, which would be one of the hardest hit by climate change, given its need to finance development. Most countries do indeed treat climate change as real threat and are striving to address it in a more comprehensive and integrated manner with the limited resources at their disposal.
 
-<a id="2018-prelims-csat-q49"></a>
+
 49. With reference to the above passage, the following assumptions have been made :
 
-Climate change is not a challenge for developed countries.
+1. Climate change is not a challenge for developed countries.
 
-Climate change is a complex policy issue and also a development issue for many countries.
+2. Climate change is a complex policy issue and also a development issue for many countries.
 
-Ways and means of finance must be found to enable developing countries to enhance their adaptive capacity.
+3. Ways and means of finance must be found to enable developing countries to enhance their adaptive capacity.
 
 Which of the above assumptions is/are valid?
 
@@ -847,7 +827,7 @@ Passage-2
 
 Cooking with biomass and coal in India is now recognized to cause major health problems, with women and children in poor populations facing the greatest risk. There are more than 10 lakh premature deaths each year from household air pollution due to polluting cooking fuels with another 1.5 lakh due to their contribution to general outdoor air pollution in the country. Although the fraction of the Indian population using clean cooking fuels, such as LPG, natural gas and electricity, is slowly rising, the number using polluting solid fuels as their primary cooking fuel has remained static for nearly 30 years at about 70 crore.
 
-<a id="2018-prelims-csat-q50"></a>
+
 50. Which of the following is the most crucial and logical inference that can be made from the above passage?
 
 a) Rural people are giving up the use of polluting solid fuels due to their increasing awareness of health hazards.
@@ -864,7 +844,7 @@ Passage-3
 
 Scientific knowledge has its dangers, but so has every great thing. Over and beyond the dangers with which it threatens the present, it opens up as nothing else can, the vision of a possible happy world; a world without poverty, without war, with little illness. Science, whatever unpleasant consequences it may have by the way, is in its very nature a liberator.
 
-<a id="2018-prelims-csat-q51"></a>
+
 51. Which one of the following is the most important implication of the passage?
 
 a) A happy world is a dream of science.
@@ -881,7 +861,7 @@ Passage-4
 
 The Arctic's vast reserves of fossil fuel, fish and minerals are now accessible for a longer period in a year. But unlike Antarctica, which is protected from exploitation by the Antarctic Treaty framed during the Cold War and is not subject to territorial claims by any country, there is no legal regime protecting the Arctic from industrialization, especially at a time when the world craves for more and more resources. The distinct possibility of ice-free summer has prompted countries with Arctic coastline to scramble for great chunks of the melting ocean.
 
-<a id="2018-prelims-csat-q52"></a>
+
 52. Which one of the following is the most important implication of the passage?
 
 a) India can have territorial claims in the Arctic territory and free access to its resources.
@@ -898,7 +878,7 @@ Passage-5
 
 Being a member of the WTO, India is bound by the agreements that have been signed and ratified by its members, including itself. According to Article 6 of the Agriculture Agreement, providing minimum support prices for agricultural products is considered distorting and is subject to limits. The subsidy arising from 'minimum supports' cannot exceed 10 per cent of the value of agricultural production for developing countries. PDS in India entails minimum support prices and public stockholding of food grains. It is possible that, in some years, the subsidy to producers will exceed 10 per cent of the value of agricultural production.
 
-<a id="2018-prelims-csat-q53"></a>
+
 53. What is the crucial message conveyed by the above passage?
 
 a) India should revise its PDS.
@@ -915,14 +895,14 @@ Passage-6
 
 India's educational system is modelled on the mass education system that developed in the 19th century in Europe and later spread around the world. The goal of the system is to condition children as 'good' citizens and productive workers. This suited the industrial age that needed the constant supply of a compliant workforce with a narrow set of capabilities. Our educational institutes resemble factories with bells, uniforms and batch-processing of learners, designed to get learners to conform. But, from an economic point of view, the environment today is very different. It is a complex, volatile and globally interconnected world.
 
-<a id="2018-prelims-csat-q54"></a>
+
 54. With reference to the above passage, the following assumptions have been made:
 
-India continues to be a developing country essentially due to its faulty education system.
+1. India continues to be a developing country essentially due to its faulty education system.
 
-Today's learners need to acquire new-age skill-sets.
+2. Today's learners need to acquire new-age skill-sets.
 
-A good number of Indians go to some developed countries for education because the educational systems there are a perfect reflection of the societies in which they function.
+3. A good number of Indians go to some developed countries for education because the educational systems there are a perfect reflection of the societies in which they function.
 
 Which of the above assumptions is/are valid?
 
@@ -940,7 +920,7 @@ Passage-7
 
 The practice of dieting has become an epidemic; everyone is looking out for a way to attain that perfect body. We are all different with respect to our ethnicity, genetics, family history, gender, age, physical and mental and spiritual health status, lifestyles and preferences. Thereby we also differ in what foods we tolerate or are sensitive to. So we really cannot reduce so many complexities into one diet or diet book. This explains the failure of diets across the world in curbing obesity. Unless the reasons for weight gain are well understood and addressed and unless habits are changed permanently, no diet is likely to succeed.
 
-<a id="2018-prelims-csat-q55"></a>
+
 55. What is the most logical and rational inference that can be made from the above passage?
 
 a) Obesity has become an epidemic all over the world.
@@ -957,7 +937,7 @@ Passage-8
 
 Monoculture carries great risks. A single disease or pest can wipe out swathes of the world's food production, an alarming prospect given that its growing and wealthier population will eat 70% more by 2050. The risks are magnified by the changing climate. As the planet warms and monsoon rains intensify, farmlands in Asia will flood. North America will suffer more intense droughts, and crop diseases will spread to new latitudes.
 
-<a id="2018-prelims-csat-q56"></a>
+
 56. Which of the following is the most logical, rational and crucial message given by the passage?
 
 a) Preserving crop genetic diversity is an insurance against the effects of climate change.
@@ -970,7 +950,7 @@ d) Asia and North America will be worst sufferers from climate change and the co
 
 ---
 
-<a id="2018-prelims-csat-q57"></a>
+
 57. A shopkeeper sells an article at Rs. 40 and gets X% profit. However, when he sells it at Rs. 20, he faces same percentage of loss. What is the original cost of the article?
 
 a) Rs. 10
@@ -983,7 +963,7 @@ d) Rs. 40
 
 ---
 
-<a id="2018-prelims-csat-q58"></a>
+
 58. There are 24 equally spaced points lying on the circumference of a circle. What is the maximum number of equilateral triangles that can be drawn by taking sets of three points as the vertices?
 
 a) 4
@@ -996,7 +976,7 @@ d) 12
 
 ---
 
-<a id="2018-prelims-csat-q59"></a>
+
 59. Consider the sequence given below:
 
 4/12/95, 1/1/96, 29/1/96, 26/2/96, ....
@@ -1013,7 +993,7 @@ d) 27/3/96
 
 ---
 
-<a id="2018-prelims-csat-q60"></a>
+
 60. Twelve equal squares are placed to fit in a rectangle of diagonal 5 cm. There are three rows containing four squares each. No gaps are left between adjacent squares. What is the area of each square?
 
 a) 5/7 sq cm
@@ -1026,7 +1006,7 @@ d) 25/12 sq cm
 
 ---
 
-<a id="2018-prelims-csat-q61"></a>
+
 61. Consider the following graph :
 
 ![](https://lh7-us.googleusercontent.com/wranrMhwNZIrcrJZlmdCvCbC6dXZMj9zxSncTsdu0d-f8RO4j5q25EiSUOB55v3-RJ0EEN2gEyseD_J_mFGSQg77NCAuAuT0gyzVZD-SSicNhMfj1QRNFo7-CkrXN9v9H0Em74s9lHtFkHeTZvvA48w)
@@ -1043,7 +1023,7 @@ d) During the period from 1st April to 1st September, at no time was the actual 
 
 ---
 
-<a id="2018-prelims-csat-q62"></a>
+
 62. For a sports meet, a winners' stand comprising three wooden blocks is in the following form :
 
 ![](https://ias.pteducation.com/2018Analysis/images/Q62.jpg)
@@ -1062,7 +1042,7 @@ d) 36
 
 Direction for the following 2 (two) items :
 
-<a id="2018-prelims-csat-q63"></a>
+
 63. Looking at the graph, it can be inferred that from 1990 to 2010
 
 ![](https://lh7-us.googleusercontent.com/jfCsJEVZeJwWvdvuJlU3oya4Rcjh7PCerPLt5pPdYhFzoerTpThCeLfD8-jZzEQn83Iqld7wBdL3f2i87zRSbzxLe3ACF0pVAkpPg_J0fAcv-1eo3-xR3OyKkt_TtFkDdDl0r4vr0tqMIsHUXTkxAEc)
@@ -1077,16 +1057,16 @@ d) population growth rate shows no trend
 
 ---
 
-<a id="2018-prelims-csat-q64"></a>
+
 64. With reference to the above graph, consider the following statements considering 1970 as base year:
 
-Population has stabilized after 35 years.
+1. Population has stabilized after 35 years.
 
-Population growth rate has stabilized after 35 years.
+2. Population growth rate has stabilized after 35 years.
 
-Death rate has fallen by 10% in the first 10 years.
+3. Death rate has fallen by 10% in the first 10 years.
 
-Birthrate has stabilized after 35 years.
+4. Birthrate has stabilized after 35 years.
 
 Which of the above are the most logical and rational statements that can be made from the above graph?
 
@@ -1100,7 +1080,7 @@ d) 2 and 4
 
 ---
 
-<a id="2018-prelims-csat-q65"></a>
+
 65. Average hourly earnings per year (E) of the workers in a firm are represented in figures A and B as follows :
 
 ![](https://lh7-us.googleusercontent.com/Pv1RTexlqp5Xha7Ii0atAicRXKw_oS3RWyS146JutrPHbGD6HuYFKbhXNa_EpW9BCOnOX_4GjHCNBRkUoO0K1p6IKJ_pNuBrAfS63HhZkulVj4WBxCopu3wYfqEDvxfjtCWLTUjx7eFxX66bQnvmdP0)
@@ -1117,7 +1097,7 @@ d) rates of increase of E are different
 
 ---
 
-<a id="2018-prelims-csat-q66"></a>
+
 66. Consider the figures given below:
 
 ![](https://lh7-us.googleusercontent.com/m_C_FbpVD2VIeqDZOsftZCy127SHEYjx93Hkk7_0EMEfh8V5cgsk8Y5UGtAwH__xIsTdd3BruK_ou19q77t1yjOKptIfHq_QwpEhDUBRz1JDfOhrXWhJcJwOlxjHczpVHRyNnrFvvD2EW6iwzf-4_mU)
@@ -1128,7 +1108,7 @@ To fit the question mark, the correct answer is
 
 ---
 
-<a id="2018-prelims-csat-q67"></a>
+
 67. Consider the following figures A and B :
 
 ![](https://lh7-us.googleusercontent.com/6g5CvJPMTRJlRxYFL_prFgw5I9EXV4h9qyKYoAXSQdXb5x628mGiCBCugarE6qNA7C9V2DyhcZRa4vx556M949MIKz6HQ6U3R0_6DhjP-5e34S_gSDL6G9Ow8a75NCgawsKmh1OJaM6vdJLqPGpRJy4)
@@ -1145,7 +1125,7 @@ d) 3500
 
 ---
 
-<a id="2018-prelims-csat-q68"></a>
+
 68. A lift has the capacity of 18 adults or 30 children. How many children can board the lift with 12 adults?
 
 a) 6
@@ -1158,7 +1138,7 @@ d) 15
 
 ---
 
-<a id="2018-prelims-csat-q69"></a>
+
 69. A person bought a refrigerator worth Rs. 22,800 with 12.5% interest compounded yearly. At the end of first year he paid Rs. 8,650 and at the end of second year Rs. 9,125. How much will he have to pay at the end of third year to clear the debt?
 
 a) Rs. 9,990
@@ -1171,7 +1151,7 @@ d) Rs. 11,250
 
 ---
 
-<a id="2018-prelims-csat-q70"></a>
+
 70. Consider the following figures :
 
 ![](https://lh7-us.googleusercontent.com/YgjKC_uI7EP2YwlneQa2CRQXovskz2hNSWbxV_-XUdCmiX5UNjqxpUxMcYP20IYCq_jbxclHjHpWje2SvwMTxOFZnE8dp69cajSQX4Qjw2z04dgzg32vKf9W8pUZuiyh4idsJ6O8o7zdm0uIP_D70ws)
@@ -1182,18 +1162,18 @@ In the figures (I) to (VI) above, some parts are shown to change their positions
 
 ---
 
-<a id="2018-prelims-csat-q71"></a>
+
 71. Consider the following graphs. The curves in the graphs indicate different age groups in the populations of two countries A and B over a period of few decades:
 
 ![](https://ias.pteducation.com/2018Analysis/images/Q71.jpg)
 
 With reference to the above graphs, which of the following are the most logical and rational inferences that can be made?
 
-Over the last two and a half decades, the dependency ratio for country B has decreased.
+1. Over the last two and a half decades, the dependency ratio for country B has decreased.
 
-By the end of next two and a half decades, the dependency ratio of country A will be much less than that of country B.
+2. By the end of next two and a half decades, the dependency ratio of country A will be much less than that of country B.
 
-In the next two decades, the work-force relative to its total population will increase in country B as compared to country A.
+3. In the next two decades, the work-force relative to its total population will increase in country B as compared to country A.
 
 Select the correct answer using the code given below.
 
@@ -1207,14 +1187,14 @@ d) 1, 2 and 3
 
 ---
 
-<a id="2018-prelims-csat-q72"></a>
+
 72. Lakshmi, her brother, her daughter and her son are badminton players. A game of doubles is about to begin :
 
-Lakshmi's brother is directly across the net from her daughter.
+(i) Lakshmi's brother is directly across the net from her daughter.
 
-Her son is diagonally across the net from the worst player's sibling.
+(ii) Her son is diagonally across the net from the worst player's sibling.
 
-The best player and the worst player are on the same side of the net.
+(iii) The best player and the worst player are on the same side of the net.
 
 Who is the best player?
 
@@ -1228,7 +1208,7 @@ d) Lakshmi
 
 ---
 
-<a id="2018-prelims-csat-q73"></a>
+
 73. The graph given below indicates the changes in key policy rates made by the Central Bank several times in a year:
 
 ![](https://lh7-us.googleusercontent.com/F6-_foajRF0W9p86LXV30dEhfrX5RwNnPyas_tKTmovC-emHK7cXOsvyAibpDRgnMTDTuNh2GMB-uO8CbYRIG_-kw5fvoCcRspblFuR4-p-OCyglGQK2MczqnCSWW9mm4AuQkIXNuoln60l79lx4IQ8)
@@ -1249,16 +1229,16 @@ Directions for the following 2 (two) items :
 
 ![](https://lh7-us.googleusercontent.com/6Qe5yLBDD4pCcsJiAcas-P5S0O7spybiW37gvT_7sbhprdmcb7Q5v78A8dS5ZawRjzE9xfJ7mr97Kr5lSgaZrfN6D5OAcTuoBX5o4qXxbXLely6X5xjuXOsmRlxBurPdF84UiRinZhdhqTDV-dp9p5I)
 
-The following table gives the GDP growth rate and Tele-density is data of different States of a country in a particular year. Study the table and answer the two items that follow.
+The following table gives the GDP growth rate and Tele-density data of different States of a country in a particular year. Study the table and answer the two items that follow.
 
-<a id="2018-prelims-csat-q74"></a>
+
 74. With reference to the above table, which of the following is/are the most logical and rational inference/inferences that can be made?
 
-Higher per capita income is generally associated with higher Tele-density.
+1. Higher per capita income is generally associated with higher Tele-density.
 
-Higher GDP growth rate always ensures higher per capita income.
+2. Higher GDP growth rate always ensures higher per capita income.
 
-Higher GDP growth rate does not necessarily ensure higher Tele-density.
+3. Higher GDP growth rate does not necessarily ensure higher Tele-density.
 
 Select the correct answer using the code given below.
 
@@ -1272,12 +1252,12 @@ d) 3 only
 
 ---
 
-<a id="2018-prelims-csat-q75"></a>
+
 75. With reference to the above table, the following assumptions have been made:
 
-Nowadays, prosperity of an already high performing State cannot be sustained without making further large investments in its telecom infrastructure.
+1. Nowadays, prosperity of an already high performing State cannot be sustained without making further large investments in its telecom infrastructure.
 
-Nowadays, a very high Tele-density is the most essential condition for promoting the business and economic growth in a State.
+2. Nowadays, a very high Tele-density is the most essential condition for promoting the business and economic growth in a State.
 
 Which of the above assumptions is/are valid?
 
@@ -1291,16 +1271,16 @@ d) Neither 1 nor 2
 
 ---
 
-<a id="2018-prelims-csat-q76"></a>
+
 76. The following graph indicates the composition of our tax revenue for a period of two decades :
 
 ![](https://lh7-us.googleusercontent.com/mUWVmOiogc8Su46LwMSsnGAdg87RN7frU2sx91jolAKaiggVQFQBF52OcnwoUJGBX7R_B3qm78yxbtJbdwQ09WYNVEzyt1EWbq5O9zuimwvv881O-vLM4uSzUZp_93Yoe2gYpka5Fw-xGqpPnuBceEQ)
 
 With reference to the above graph, which of the following is/are the most logical and rational inference/ inferences that can be made?
 
-During the given period, the revenue from Direct Taxes as percentage of gross tax revenue has increased while that of Indirect Taxes decreased.
+1. During the given period, the revenue from Direct Taxes as percentage of gross tax revenue has increased while that of Indirect Taxes decreased.
 
-The trend in the revenue from Excise Duty demonstrates that the growth of manufacturing sector has been negative during the given period.
+2. The trend in the revenue from Excise Duty demonstrates that the growth of manufacturing sector has been negative during the given period.
 
 Select the correct answer using the code given below.
 
@@ -1314,14 +1294,14 @@ d) Neither 1 nor 2
 
 ---
 
-<a id="2018-prelims-csat-q77"></a>
+
 77. If x - y = 8, then which of the following must be true?
 
-Both x and y must be positive for any value of x and y.
+1. Both x and y must be positive for any value of x and y.
 
-If x is positive, y must be negative for any value of x and y.
+2. If x is positive, y must be negative for any value of x and y.
 
-If x is negative, y must be positive for any value of x and y.
+3. If x is negative, y must be positive for any value of x and y.
 
 Select the correct answer using the code given below.
 
@@ -1341,9 +1321,9 @@ Read the following two passages and answer the items that follow. Your answers t
 
 Passage-1
 
-The quest for cheap and plentiful meat has resulted in farms where more and more animals are squeezed into smaller lots in cruel and shocking conditions. Such practices have resulted in many of the world's health pandemics such as the avian flu. Worldwide, livestock increasingly raised in cruel, cramped conditions, where animals spend their short lives under artificial light, pumped full of antibiotics and growth hormones, until the day they are slaughtered. Meat production is water intensive. 15000 litres of water is needed for every kilogram of meat compared with 3400 liters for rice, 3300 litres for eggs and 256 for a kilogram of potatoes.
+The quest for cheap and plentiful meat has resulted in factory farms where more and more animals are squeezed into smaller lots in cruel and shocking conditions. Such practices have resulted in many of the world's health pandemics such as the avian flu. Worldwide, livestock increasingly raised in cruel, cramped conditions, where animals spend their short lives under artificial light, pumped full of antibiotics and growth hormones, until the day they are slaughtered. Meat production is water intensive. 15000 litres of water is needed for every kilogram of meat compared with 3400 liters for rice, 3300 litres for eggs and 256 for a kilogram of potatoes.
 
-<a id="2018-prelims-csat-q78"></a>
+
 78. What is the most rational and crucial message given by the passage?
 
 a) Mass production of meat through industrial farming is cheap and is suitable for providing protein nutrition to poor countries.
@@ -1360,7 +1340,7 @@ Passage-2
 
 A male tiger was removed from Pench Tiger Reserve and was relocated in Panna National Park. Later, this tiger trekked toward his home 250 miles away. The trek of this solitary tiger highlights a crisis. Many wildlife reserves exist as islands of fragile habitat in a vast sea of humanity, yet tigers can range over a hundred miles, seeking prey, mates and territory. Nearly a third of India's tigers live outside tiger reserves, a situation that is dangerous for both human and animal. Prey and tigers can only disperse if there are recognized corridors of land between protected areas to allow unmolested passage.
 
-<a id="2018-prelims-csat-q79"></a>
+
 79. Which of the following is the most rational and crucial message given by the passage?
 
 a) The conflict between man and wildlife cannot be resolved, no matter what efforts we make.
@@ -1373,12 +1353,12 @@ d) India's National Parks and Tiger Reserves need to be professionally managed.
 
 ---
 
-<a id="2018-prelims-csat-q80"></a>
+
 80. With reference to the above passage, the following assumptions have been made:
 
-The strategy of conservation of wildlife by relocating them from one protected area to another is not often successful.
+1. The strategy of conservation of wildlife by relocating them from one protected area to another is not often successful.
 
-India does not have suitable legislation to save the tigers, and its conservation efforts have failed which forced the tigers to live outside protected areas.
+2. India does not have suitable legislation to save the tigers, and its conservation efforts have failed which forced the tigers to live outside protected areas.
 
 Which of the above assumptions is/are valid?
 
@@ -1391,6 +1371,86 @@ c) Both 1 and 2
 d) Neither 1 nor 2
 
 ---
+<a id="2018-prelims-csat-q01"></a>
+<a id="2018-prelims-csat-q02"></a>
+<a id="2018-prelims-csat-q03"></a>
+<a id="2018-prelims-csat-q04"></a>
+<a id="2018-prelims-csat-q05"></a>
+<a id="2018-prelims-csat-q06"></a>
+<a id="2018-prelims-csat-q07"></a>
+<a id="2018-prelims-csat-q08"></a>
+<a id="2018-prelims-csat-q09"></a>
+<a id="2018-prelims-csat-q10"></a>
+<a id="2018-prelims-csat-q11"></a>
+<a id="2018-prelims-csat-q12"></a>
+<a id="2018-prelims-csat-q13"></a>
+<a id="2018-prelims-csat-q14"></a>
+<a id="2018-prelims-csat-q15"></a>
+<a id="2018-prelims-csat-q16"></a>
+<a id="2018-prelims-csat-q17"></a>
+<a id="2018-prelims-csat-q18"></a>
+<a id="2018-prelims-csat-q19"></a>
+<a id="2018-prelims-csat-q20"></a>
+<a id="2018-prelims-csat-q21"></a>
+<a id="2018-prelims-csat-q22"></a>
+<a id="2018-prelims-csat-q23"></a>
+<a id="2018-prelims-csat-q24"></a>
+<a id="2018-prelims-csat-q25"></a>
+<a id="2018-prelims-csat-q26"></a>
+<a id="2018-prelims-csat-q27"></a>
+<a id="2018-prelims-csat-q28"></a>
+<a id="2018-prelims-csat-q29"></a>
+<a id="2018-prelims-csat-q30"></a>
+<a id="2018-prelims-csat-q31"></a>
+<a id="2018-prelims-csat-q32"></a>
+<a id="2018-prelims-csat-q33"></a>
+<a id="2018-prelims-csat-q34"></a>
+<a id="2018-prelims-csat-q35"></a>
+<a id="2018-prelims-csat-q36"></a>
+<a id="2018-prelims-csat-q37"></a>
+<a id="2018-prelims-csat-q38"></a>
+<a id="2018-prelims-csat-q39"></a>
+<a id="2018-prelims-csat-q40"></a>
+<a id="2018-prelims-csat-q41"></a>
+<a id="2018-prelims-csat-q42"></a>
+<a id="2018-prelims-csat-q43"></a>
+<a id="2018-prelims-csat-q44"></a>
+<a id="2018-prelims-csat-q45"></a>
+<a id="2018-prelims-csat-q46"></a>
+<a id="2018-prelims-csat-q47"></a>
+<a id="2018-prelims-csat-q48"></a>
+<a id="2018-prelims-csat-q49"></a>
+<a id="2018-prelims-csat-q50"></a>
+<a id="2018-prelims-csat-q51"></a>
+<a id="2018-prelims-csat-q52"></a>
+<a id="2018-prelims-csat-q53"></a>
+<a id="2018-prelims-csat-q54"></a>
+<a id="2018-prelims-csat-q55"></a>
+<a id="2018-prelims-csat-q56"></a>
+<a id="2018-prelims-csat-q57"></a>
+<a id="2018-prelims-csat-q58"></a>
+<a id="2018-prelims-csat-q59"></a>
+<a id="2018-prelims-csat-q60"></a>
+<a id="2018-prelims-csat-q61"></a>
+<a id="2018-prelims-csat-q62"></a>
+<a id="2018-prelims-csat-q63"></a>
+<a id="2018-prelims-csat-q64"></a>
+<a id="2018-prelims-csat-q65"></a>
+<a id="2018-prelims-csat-q66"></a>
+<a id="2018-prelims-csat-q67"></a>
+<a id="2018-prelims-csat-q68"></a>
+<a id="2018-prelims-csat-q69"></a>
+<a id="2018-prelims-csat-q70"></a>
+<a id="2018-prelims-csat-q71"></a>
+<a id="2018-prelims-csat-q72"></a>
+<a id="2018-prelims-csat-q73"></a>
+<a id="2018-prelims-csat-q74"></a>
+<a id="2018-prelims-csat-q75"></a>
+<a id="2018-prelims-csat-q76"></a>
+<a id="2018-prelims-csat-q77"></a>
+<a id="2018-prelims-csat-q78"></a>
+<a id="2018-prelims-csat-q79"></a>
+<a id="2018-prelims-csat-q80"></a>
 ## Official-final key at a glance
 
 | 1:B | 2:D | 3:A | 4:A | 5:C | 6:D | 7:A | 8:A | 9:B | 10:D |
@@ -1403,6 +1463,7 @@ d) Neither 1 nor 2
 | 71:C | 72:A | 73:D | 74:C | 75:D | 76:A | 77:D | 78:D | 79:B | 80:A |
 
 ## Official-final solutions
+
 
 <a id="2018-prelims-csat-q01-solution"></a>
 ### Q1. 3D shape counting
@@ -1419,6 +1480,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q02-solution"></a>
 ### Q2. Series equation solving
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q02)  
@@ -1433,6 +1495,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Write every dotted number in place-value form and solve the one linear digit equation.
 
 ---
+
 
 <a id="2018-prelims-csat-q03-solution"></a>
 ### Q3. Number matrix pattern
@@ -1449,6 +1512,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q04-solution"></a>
 ### Q4. Polygon diagonal count
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q04)  
@@ -1463,6 +1527,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use diagonals = n(n-3)/2.
 
 ---
+
 
 <a id="2018-prelims-csat-q05-solution"></a>
 ### Q5. Velocity-time distance ratio
@@ -1479,6 +1544,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q06-solution"></a>
 ### Q6. Train crossing time
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q06)  
@@ -1493,6 +1559,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Convert 40 km/h to m/s, then use time=train length/speed.
 
 ---
+
 
 <a id="2018-prelims-csat-q07-solution"></a>
 ### Q7. Passage inference
@@ -1509,6 +1576,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q08-solution"></a>
 ### Q8. Passage corollary
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q08)  
@@ -1523,6 +1591,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Match the explicit globalization→traceability→risk chain; reject policy overreach.
 
 ---
+
 
 <a id="2018-prelims-csat-q09-solution"></a>
 ### Q9. Passage inference
@@ -1539,6 +1608,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q10-solution"></a>
 ### Q10. Passage author's intent
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q10)  
@@ -1553,6 +1623,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Lift the answer from the clause describing what the shackles prevent.
 
 ---
+
 
 <a id="2018-prelims-csat-q11-solution"></a>
 ### Q11. Bar-chart data comparison
@@ -1569,6 +1640,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q12-solution"></a>
 ### Q12. Bar-chart value calculation
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q12)  
@@ -1583,6 +1655,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Total all six sheet values and multiply by the bracketed average cost.
 
 ---
+
 
 <a id="2018-prelims-csat-q13-solution"></a>
 ### Q13. Bar-chart ratio reading
@@ -1599,6 +1672,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q14-solution"></a>
 ### Q14. Cube rotation opposite face
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q14)  
@@ -1613,6 +1687,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use two views with common faces to fix the one-dot opposite.
 
 ---
+
 
 <a id="2018-prelims-csat-q15-solution"></a>
 ### Q15. Cube rotation opposite face
@@ -1629,6 +1704,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q16-solution"></a>
 ### Q16. Cube rotation opposite face
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q16)  
@@ -1643,6 +1719,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use elimination after fixing the dot pairs.
 
 ---
+
 
 <a id="2018-prelims-csat-q17-solution"></a>
 ### Q17. Passage detail inference
@@ -1659,6 +1736,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q18-solution"></a>
 ### Q18. Passage assumption validity
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q18)  
@@ -1673,6 +1751,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Test each assumption for necessity from the passage; do not import demographic policy.
 
 ---
+
 
 <a id="2018-prelims-csat-q19-solution"></a>
 ### Q19. Passage critical factor
@@ -1689,6 +1768,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q20-solution"></a>
 ### Q20. Passage central idea
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q20)  
@@ -1703,6 +1783,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Select the option broad enough to cover access plus quality, but no broader.
 
 ---
+
 
 <a id="2018-prelims-csat-q21-solution"></a>
 ### Q21. Letter substitution coding
@@ -1719,6 +1800,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q22-solution"></a>
 ### Q22. Letter-to-number coding
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q22)  
@@ -1733,6 +1815,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Make a direct letter-to-digit lookup table.
 
 ---
+
 
 <a id="2018-prelims-csat-q23-solution"></a>
 ### Q23. Range inequality deduction
@@ -1749,6 +1832,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q24-solution"></a>
 ### Q24. Expression magnitude comparison
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q24)  
@@ -1763,6 +1847,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Compare every option with 1 and with the product XY.
 
 ---
+
 
 <a id="2018-prelims-csat-q25-solution"></a>
 ### Q25. Office seating deduction
@@ -1779,6 +1864,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q26-solution"></a>
 ### Q26. Office seating deduction
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q26)  
@@ -1793,6 +1879,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Reuse the completed office grid; inspect F's adjacent slot.
 
 ---
+
 
 <a id="2018-prelims-csat-q27-solution"></a>
 ### Q27. Passage consequence inference
@@ -1809,6 +1896,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q28-solution"></a>
 ### Q28. Passage inference validity
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q28)  
@@ -1823,6 +1911,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Accept only the river-course inference; reject 'only' and geographic overextension.
 
 ---
+
 
 <a id="2018-prelims-csat-q29-solution"></a>
 ### Q29. Passage assumption validity
@@ -1839,6 +1928,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q30-solution"></a>
 ### Q30. Passage inference
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q30)  
@@ -1853,6 +1943,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Keep water buffers, gene diversity and corridors; reject existing homogeneous practice.
 
 ---
+
 
 <a id="2018-prelims-csat-q31-solution"></a>
 ### Q31. Passage assumption validity
@@ -1869,6 +1960,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q32-solution"></a>
 ### Q32. Passage inference
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q32)  
@@ -1883,6 +1975,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Translate 'giant shopping mall' into excessive consumerism.
 
 ---
+
 
 <a id="2018-prelims-csat-q33-solution"></a>
 ### Q33. Passage author's view
@@ -1899,6 +1992,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q34-solution"></a>
 ### Q34. Digit-constraint algebra
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q34)  
@@ -1913,6 +2007,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use reversed-number difference =99×digit difference.
 
 ---
+
 
 <a id="2018-prelims-csat-q35-solution"></a>
 ### Q35. Painted-cube face geometry
@@ -1929,6 +2024,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q36-solution"></a>
 ### Q36. Digit-ordered number count
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q36)  
@@ -1943,6 +2039,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** For each hundreds digit h, count C(h,2) descending lower-digit pairs.
 
 ---
+
 
 <a id="2018-prelims-csat-q37-solution"></a>
 ### Q37. Inequality chain deduction
@@ -1959,6 +2056,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q38-solution"></a>
 ### Q38. Algebraic revenue expression
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q38)  
@@ -1973,6 +2071,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Expand the three revenue products; cancellation leaves 3ax+8.
 
 ---
+
 
 <a id="2018-prelims-csat-q39-solution"></a>
 ### Q39. Conditional probability
@@ -1989,6 +2088,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q40-solution"></a>
 ### Q40. Circular track speed ratio
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q40)  
@@ -2003,6 +2103,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Compare angular distances covered in the same meeting time.
 
 ---
+
 
 <a id="2018-prelims-csat-q41-solution"></a>
 ### Q41. Pass-fail percentage marks
@@ -2019,6 +2120,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q42-solution"></a>
 ### Q42. Venn-diagram counting
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q42)  
@@ -2033,6 +2135,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use |S∩P|=|S|+|P|-|S∪P|.
 
 ---
+
 
 <a id="2018-prelims-csat-q43-solution"></a>
 ### Q43. Placement logic deduction
@@ -2049,6 +2152,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q44-solution"></a>
 ### Q44. Placement logic deduction
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q44)  
@@ -2063,6 +2167,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** After fixing persons to colleges/states, use B's given city Q.
 
 ---
+
 
 <a id="2018-prelims-csat-q45-solution"></a>
 ### Q45. Placement logic deduction
@@ -2079,6 +2184,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q46-solution"></a>
 ### Q46. Placement statement check
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q46)  
@@ -2093,6 +2199,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Test each statement against the single completed grid.
 
 ---
+
 
 <a id="2018-prelims-csat-q47-solution"></a>
 ### Q47. Placement statement check
@@ -2109,6 +2216,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q48-solution"></a>
 ### Q48. Placement statement check
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q48)  
@@ -2123,6 +2231,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Pair D's given state with D's deduced college.
 
 ---
+
 
 <a id="2018-prelims-csat-q49-solution"></a>
 ### Q49. Passage assumption validity
@@ -2139,6 +2248,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q50-solution"></a>
 ### Q50. Passage inference
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q50)  
@@ -2153,6 +2263,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Follow polluting fuel→mortality; choose the clean-fuel access consequence.
 
 ---
+
 
 <a id="2018-prelims-csat-q51-solution"></a>
 ### Q51. Passage implication
@@ -2169,6 +2280,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q52-solution"></a>
 ### Q52. Passage implication
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q52)  
@@ -2183,6 +2295,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Connect melting access and interstate scramble to geopolitics.
 
 ---
+
 
 <a id="2018-prelims-csat-q53-solution"></a>
 ### Q53. Passage central message
@@ -2199,6 +2312,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q54-solution"></a>
 ### Q54. Passage assumption validity
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q54)  
@@ -2213,6 +2327,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Contrast industrial-age conformity with today's skill demands.
 
 ---
+
 
 <a id="2018-prelims-csat-q55-solution"></a>
 ### Q55. Passage inference
@@ -2229,6 +2344,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q56-solution"></a>
 ### Q56. Passage central message
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q56)  
@@ -2243,6 +2359,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Treat diversity as risk insurance against one pest, disease or climate shock.
 
 ---
+
 
 <a id="2018-prelims-csat-q57-solution"></a>
 ### Q57. Symmetric profit-loss point
@@ -2259,6 +2376,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q58-solution"></a>
 ### Q58. Inscribed triangle count
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q58)  
@@ -2273,6 +2391,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Take every eighth point; divide 24 starting points by three vertices.
 
 ---
+
 
 <a id="2018-prelims-csat-q59-solution"></a>
 ### Q59. Calendar date sequence
@@ -2289,6 +2408,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q60-solution"></a>
 ### Q60. Rectangle diagonal geometry
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q60)  
@@ -2303,6 +2423,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use the 3-4-5 rectangle formed by square sides.
 
 ---
+
 
 <a id="2018-prelims-csat-q61-solution"></a>
 ### Q61. Progress graph comparison
@@ -2319,6 +2440,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q62-solution"></a>
 ### Q62. Color arrangement counting
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q62)  
@@ -2333,6 +2455,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Use 6P3.
 
 ---
+
 
 <a id="2018-prelims-csat-q63-solution"></a>
 ### Q63. Population graph inference
@@ -2349,6 +2472,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q64-solution"></a>
 ### Q64. Graph statement validity
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q64)  
@@ -2363,6 +2487,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Separate population level, growth-rate gap and individual rate trends.
 
 ---
+
 
 <a id="2018-prelims-csat-q65-solution"></a>
 ### Q65. Dual-scale graph comparison
@@ -2379,6 +2504,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q66-solution"></a>
 ### Q66. Figural analogy completion
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q66)  
@@ -2393,6 +2519,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Track symbol, support shape and hanging-stroke count independently across the 3×3 matrix.
 
 ---
+
 
 <a id="2018-prelims-csat-q67-solution"></a>
 ### Q67. Graph break-even reading
@@ -2409,6 +2536,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q68-solution"></a>
 ### Q68. Capacity proportion share
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q68)  
@@ -2423,6 +2551,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Convert adults used into a fraction of lift capacity.
 
 ---
+
 
 <a id="2018-prelims-csat-q69-solution"></a>
 ### Q69. Compound interest installment
@@ -2439,6 +2568,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q70-solution"></a>
 ### Q70. Figural rotation series
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q70)  
@@ -2453,6 +2583,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Track square and triangle sector movements separately.
 
 ---
+
 
 <a id="2018-prelims-csat-q71-solution"></a>
 ### Q71. Population age-group graph
@@ -2469,6 +2600,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q72-solution"></a>
 ### Q72. Logical relation deduction
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q72)  
@@ -2483,6 +2615,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Draw four court positions; impose across, diagonal and same-side constraints.
 
 ---
+
 
 <a id="2018-prelims-csat-q73-solution"></a>
 ### Q73. Policy rate graph inference
@@ -2499,6 +2632,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q74-solution"></a>
 ### Q74. Table data inference
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q74)  
@@ -2513,6 +2647,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Check 'generally' by broad pattern and 'always' by one counterexample.
 
 ---
+
 
 <a id="2018-prelims-csat-q75-solution"></a>
 ### Q75. Table assumption validity
@@ -2529,6 +2664,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q76-solution"></a>
 ### Q76. Tax revenue graph inference
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q76)  
@@ -2543,6 +2679,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Separate tax-share composition from actual sector growth.
 
 ---
+
 
 <a id="2018-prelims-csat-q77-solution"></a>
 ### Q77. Equation implication deduction
@@ -2559,6 +2696,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q78-solution"></a>
 ### Q78. Passage central message
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q78)  
@@ -2573,6 +2711,7 @@ d) Neither 1 nor 2
 **Shortest safe method:** Choose the combined environmental implication; reject an immediate-ban overreach.
 
 ---
+
 
 <a id="2018-prelims-csat-q79-solution"></a>
 ### Q79. Passage central message
@@ -2589,6 +2728,7 @@ d) Neither 1 nor 2
 
 ---
 
+
 <a id="2018-prelims-csat-q80-solution"></a>
 ### Q80. Passage assumption validity
 **Question:** [Return to the exact booklet transcription](#2018-prelims-csat-q80)  
@@ -2603,3 +2743,15 @@ d) Neither 1 nor 2
 **Shortest safe method:** Accept the relocation concern; reject the unsupported legislation claim.
 
 ---
+
+## Mandatory post-pass review — PASS
+
+- **Completeness:** 80/80 booklet questions occur once, in Series-A order; shared passages and all printed option sets are present.
+- **Accuracy:** Series mapping was checked from the held booklet cover; 80/80 answers match the official-final Series-A key; no item was dropped.
+- **Reasoning:** Every item has passage-bound reasoning or a complete calculation plus a shortest safe exam method.
+- **Classification:** 80/80 family/type routes reconcile with the read-only 2018 routing ledger; stable question anchors, family labels and slugs are unique.
+- **Calculations/figures:** Arithmetic, series, probability, rates, graph readings, grid deductions and figure-sequence results were independently rechecked against the keyed option.
+- **Link integrity:** All 80 transcription backlinks, six CSAT topic links and the paper-wise backlink resolve repository-relatively.
+- **Remaining blockers:** None within the owned paper artifact.
+
+**Reviewer conclusion: PASS.**

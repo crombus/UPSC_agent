@@ -6,12 +6,43 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 20
-- **Stable linked anchors:** 20
-- **Paper concentration:** Mains GS-II: 5; Prelims GS-I: 15
-- **Marks represented:** 70 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Constitutional definition of law under Article 13 and customary law; Article under which the Supreme Court placed the Right to Privacy; Privacy, bodily autonomy and DNA testing; Due Process of Law meaning in constitutional context; Reservation under Article 16 and administrative efficiency Article 335; Constitutional provisions security protection detention POTA; Article 21; Writ jurisdiction Mandamus and Quo Warranto courts India; Movement and residence; Right to Privacy Article of Indian Constitution; Judicial custody versus police custody in India; Prisoner parole entitlement and state government rules; Unguided executive discretionary power constitutional violation; Right to Property constitutional and legal status; Bharat Ratna Padma Awards constitutional procedural status; Comparative equality law; Q14. Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.; Fundamental Rights category covering untouchability protection; Constitutional article protecting right to marry India; Liberty definition in political context of governance
+- **Released years represented:** 2013, 2014, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 29
+- **Stable linked anchors:** 29
+- **Paper concentration:** Mains GS-II: 8; Prelims GS-I: 21
+- **Marks represented:** 107.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Constitutional definition of law under Article 13 and customary law; Article under which the Supreme Court placed the Right to Privacy; Privacy, bodily autonomy and DNA testing; Due Process of Law meaning in constitutional context; Reservation under Article 16 and administrative efficiency Article 335; Constitutional provisions security protection detention POTA; Article 21; Writ jurisdiction Mandamus and Quo Warranto courts India; Movement and residence; Right to Privacy Article of Indian Constitution; Judicial custody versus police custody in India; Prisoner parole entitlement and state government rules; Unguided executive discretionary power constitutional violation; Right to Property constitutional and legal status; Bharat Ratna Padma Awards constitutional procedural status; Comparative equality law; Q14. Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations.; Fundamental Rights category covering untouchability protection; Constitutional article protecting right to marry India; Liberty definition in political context of governance; Right to Privacy protected under Article 21 and Part III; Equality and absence of privileges; Rights and duties under law; Relationship between rights and duties; Meaning of judicial review; Right against Exploitation; Right to privacy; Speech, hate speech and film certification; Online speech and reasonable restrictions
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Online speech and reasonable restrictions
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Speech, hate speech and film certification
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 5
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Equality and absence of privileges; Rights and duties under law; Relationship between rights and duties; Meaning of judicial review; Right against Exploitation; Right to privacy
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Right to Privacy protected under Article 21 and Part III
 
 ## 2019 concentration
 
@@ -134,3 +165,35 @@
 
 - [Q56. Constitutional article protecting right to marry India](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q56) — Constitutional article protecting right to marry India
 - [Q85. Liberty definition in political context of governance](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q85) — Liberty definition in political context of governance
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q92. Right to Privacy protected under Article 21 and Part III](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q92) — Right to Privacy protected under Article 21 and Part III
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q5. Equality and absence of privileges](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q005) — Equality and absence of privileges
+- [Q8. Rights and duties under law](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q008) — Rights and duties under law
+- [Q47. Relationship between rights and duties](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q047) — Relationship between rights and duties
+- [Q92. Meaning of judicial review](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q092) — Meaning of judicial review
+- [Q97. Right against Exploitation](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q097) — Right against Exploitation
+
+#### Mains GS-II
+
+- [Q12. Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q12) — Right to privacy · 15 marks
+
+### 2014
+
+#### Mains GS-II
+
+- [Q4. What do you understand by the concept “freedom of speech and expression”? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q04) — Speech, hate speech and film certification · 12.5 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q2. Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q02) — Online speech and reasonable restrictions · 10 marks

@@ -6,12 +6,57 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 17
-- **Stable linked anchors:** 17
-- **Paper concentration:** Mains GS-I: 3; Mains GS-III: 4; Prelims GS-I: 10
-- **Marks represented:** 85 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Green hydrogen production pathways and India's National Green Hydrogen Mission; PM Surya Ghar Muft Bijli Yojana - solar rooftop; Solar energy; Biotechnology and Bioenergy; Distributed Energy Resources (battery storage, biomass, fuel cells, rooftop solar); 'Pumped-storage hydropower' (long-duration energy storage); Feedstock for Sustainable Aviation Fuel; Green hydrogen applications fuel blending and fuel cells; Green hydrogen decarbonizing fertilizer oil refinery steel industries; Solar parks floating solar and airport projects Indian states; Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.; 2030 transition; Transnational solar grids; Biofuels raw materials permitted under National Policy; Solar water pumps surface submersible centrifugal piston types; Solar potential and regional variation; Solar power
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 25
+- **Stable linked anchors:** 25
+- **Paper concentration:** Mains GS-I: 3; Mains GS-III: 6; Prelims GS-I: 16
+- **Marks represented:** 107.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Green hydrogen production pathways and India's National Green Hydrogen Mission; PM Surya Ghar Muft Bijli Yojana - solar rooftop; Solar energy; Biotechnology and Bioenergy; Distributed Energy Resources (battery storage, biomass, fuel cells, rooftop solar); 'Pumped-storage hydropower' (long-duration energy storage); Feedstock for Sustainable Aviation Fuel; Green hydrogen applications fuel blending and fuel cells; Green hydrogen decarbonizing fertilizer oil refinery steel industries; Solar parks floating solar and airport projects Indian states; Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.; 2030 transition; Transnational solar grids; Biofuels raw materials permitted under National Policy; Solar water pumps surface submersible centrifugal piston types; Solar potential and regional variation; Solar power; Solar power production silicon wafers and tariff regulation India; Limitations of algae-based biofuels; Net metering; International Solar Alliance; Renewable capacity and efficiency; The Indian Renewable Energy Development Agency Limited (IREDA), which of the following...; technologies for solar power production, consider the following statements:; Renewable-grid integration
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Renewable-grid integration
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** technologies for solar power production, consider the following statements:
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** The Indian Renewable Energy Development Agency Limited (IREDA), which of the following...
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 2
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Net metering; International Solar Alliance; Renewable capacity and efficiency
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Limitations of algae-based biofuels
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Solar power production silicon wafers and tariff regulation India
 
 ## 2020 concentration
 
@@ -137,3 +182,50 @@
 #### Mains GS-III
 
 - [Q16. Solar electricity and government initiatives](../../papers/2020/mains-gs3.md#2020-mains-gs3-q16) — Solar power · 15 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q67. Solar power production silicon wafers and tariff regulation India](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q67) — Solar power production silicon wafers and tariff regulation India
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q22. Limitations of algae-based biofuels](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q022) — Limitations of algae-based biofuels
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q36. Net metering](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q036) — Net metering
+- [Q81. International Solar Alliance](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q081) — International Solar Alliance
+
+#### Mains GS-III
+
+- [Q11. Renewable-energy status, targets and the LED programme](../../papers/2016/mains-gs3.md#2016-mains-gs3-q11) — Renewable capacity and efficiency · 12.5 marks
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q100. The Indian Renewable Energy Development Agency Limited (IREDA), which of the following...](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q100) — The Indian Renewable Energy Development Agency Limited (IREDA), which of the following...
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q7. technologies for solar power production, consider the following statements:](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q007) — technologies for solar power production, consider the following statements:
+
+### 2013
+
+#### Mains GS-III
+
+- [Q11. India’s green energy corridor](../../papers/2013/mains-gs3.md#2013-mains-gs3-q11) — Renewable-grid integration · 10 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2015 · Mains GS-III · Q9. Falling solar costs and thermal power](../../papers/2015/mains-gs3.md#2015-mains-gs3-q09) — Electricity-sector transition
+- [2013 · Mains GS-III · Q17(b). Run-of-river hydroelectricity](../../papers/2013/mains-gs3.md#2013-mains-gs3-q17b) — Hydropower

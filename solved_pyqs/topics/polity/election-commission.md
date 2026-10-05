@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 9
-- **Stable linked anchors:** 9
-- **Paper concentration:** Mains GS-II: 7; Prelims GS-I: 2
-- **Marks represented:** 85 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Electoral-roll revision; Corrupt practices and candidate disclosure; Delimitation Commissions constituted till December 2023; Electoral reforms and simultaneous elections; Election petitions under the RPA, 1951; Model Code of Conduct; Candidate contesting from multiple Lok Sabha constituencies; Electoral disqualification; Legislative disqualification under RPA
+- **Released years represented:** 2017, 2018, 2019, 2020, 2021, 2022, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 14
+- **Stable linked anchors:** 14
+- **Paper concentration:** Mains GS-II: 10; Prelims GS-I: 4
+- **Marks represented:** 120 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Electoral-roll revision; Corrupt practices and candidate disclosure; Delimitation Commissions constituted till December 2023; Electoral reforms and simultaneous elections; Election petitions under the RPA, 1951; Model Code of Conduct; Candidate contesting from multiple Lok Sabha constituencies; Electoral disqualification; Legislative disqualification under RPA; Electoral integrity and EVM trust; Eligibility to file Lok Sabha nomination; Right to vote and contest elections; Simultaneous elections; Proposed electoral reforms, 2016
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Eligibility to file Lok Sabha nomination; Right to vote and contest elections; Simultaneous elections; Proposed electoral reforms, 2016
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Electoral integrity and EVM trust
 
 ## 2019 concentration
 
@@ -116,3 +132,21 @@
 #### Mains GS-II
 
 - [Q11. On what grounds a people’s representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q11) — Legislative disqualification under RPA · 15 marks
+
+### 2018
+
+#### Mains GS-II
+
+- [Q1. In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India?](../../papers/2018/mains-gs2.md#2018-mains-gs2-q01) — Electoral integrity and EVM trust · 10 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q57. Eligibility to file Lok Sabha nomination](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q057) — Eligibility to file Lok Sabha nomination
+- [Q86. Right to vote and contest elections](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q086) — Right to vote and contest elections
+
+#### Mains GS-II
+
+- [Q3. “Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government’s accountability to the people.” Discuss.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q03) — Simultaneous elections · 10 marks
+- [Q14. To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful?](../../papers/2017/mains-gs2.md#2017-mains-gs2-q14) — Proposed electoral reforms, 2016 · 15 marks

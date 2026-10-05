@@ -6,12 +6,27 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2024, 2025
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 6
-- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Shift in Earth's rotation and axis; solar flares; polar ice melt; Anadyr and Nome across the International Date Line; Latitudes with more than 12 hours of sunlight on 21 June; Giant stars versus dwarf stars - lifespan and nuclear reactions; Magnetosphere and auroras; Summer solstice longest day timing in northern hemisphere; June 21 summer solstice sun position hemispheres
+- **Released years represented:** 2013, 2017, 2019, 2022, 2024, 2025
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 8
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Shift in Earth's rotation and axis; solar flares; polar ice melt; Anadyr and Nome across the International Date Line; Latitudes with more than 12 hours of sunlight on 21 June; Giant stars versus dwarf stars - lifespan and nuclear reactions; Magnetosphere and auroras; Summer solstice longest day timing in northern hemisphere; June 21 summer solstice sun position hemispheres; Planetary formation; Variations in the length of daytime and nighttime from season to season are due to; Consider the following: 1. Electromagnetic radiation 2. Geothermal energy 3. Gravitational force 4. Pl...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Variations in the length of daytime and nighttime from season to season are due to; Consider the following: 1. Electromagnetic radiation 2. Geothermal energy 3. Gravitational force 4. Pl...
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Planetary formation
 
 ## 2019 concentration
 
@@ -73,3 +88,16 @@
 #### Prelims GS-I
 
 - [Q20. June 21 summer solstice sun position hemispheres](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q20) — June 21 summer solstice sun position hemispheres
+
+### 2017
+
+#### Mains GS-I
+
+- [Q5. How does the Juno Mission of NASA help to understand the origin and evolution of the Earth?](../../papers/2017/mains-gs1.md#2017-mains-gs1-q05) — Planetary formation · 10 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q14. Variations in the length of daytime and nighttime from season to season are due to](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q014) — Variations in the length of daytime and nighttime from season to season are due to
+- [Q18. Consider the following: 1. Electromagnetic radiation 2. Geothermal energy 3. Gravitational force 4. Pl...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q018) — Consider the following: 1. Electromagnetic radiation 2. Geothermal energy 3. Gravitational force 4. Pl...

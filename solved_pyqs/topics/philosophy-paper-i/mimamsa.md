@@ -6,12 +6,61 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 14
-- **Stable linked anchors:** 14
-- **Paper concentration:** Philosophy Paper I: 14
-- **Marks represented:** 205 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** 2026-philosophy-p1-q7a; validity of cognition · intrinsic and extrinsic validation; absence and non-cognition · Bhaṭṭa–Prābhākara debate; sentence meaning · *abhihitānvaya* and *anvitābhidhāna*; cognition of cognition · self-luminosity and higher-order awareness; postulation (*arthāpatti*) versus inference; memory and novelty · *pramāṇa*; non-cognition as an independent means of knowledge; word meaning · universal and particular; postulation · irreducibility to inference; intrinsic validity · rival theories of error; absence and non-cognition; valid cognition and memory; Vedic authority
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 21
+- **Stable linked anchors:** 21
+- **Paper concentration:** Philosophy Paper I: 21
+- **Marks represented:** 317.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** 2026-philosophy-p1-q7a; validity of cognition · intrinsic and extrinsic validation; absence and non-cognition · Bhaṭṭa–Prābhākara debate; sentence meaning · *abhihitānvaya* and *anvitābhidhāna*; cognition of cognition · self-luminosity and higher-order awareness; postulation (*arthāpatti*) versus inference; memory and novelty · *pramāṇa*; non-cognition as an independent means of knowledge; word meaning · universal and particular; postulation · irreducibility to inference; intrinsic validity · rival theories of error; absence and non-cognition; valid cognition and memory; Vedic authority; self-luminosity and intrinsic validity; intrinsic validity; postulation as a means of knowledge; intrinsic and extrinsic validity; postulation as an independent means of knowledge; non-cognition and absence; Vedic testimony and intrinsic validity
+- **Justified secondary-route anchors:** 3 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Vedic testimony and intrinsic validity
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** postulation as an independent means of knowledge; non-cognition and absence
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** intrinsic and extrinsic validity
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** postulation as a means of knowledge
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** intrinsic validity
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** self-luminosity and intrinsic validity
 
 ## 2019 concentration
 
@@ -132,3 +181,47 @@
 #### Philosophy Paper I
 
 - [Q5(e). How does Mīmāṃsā establish the authority of Vedic knowledge?](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q5e) — Vedic authority · 10 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q8(a). Does the admission of Svayaṃprakāśavāda necessarily lead to the admission of Svataḥprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāṃsakas and the Advaita Vedāntins.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q8a) — self-luminosity and intrinsic validity · 20 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q8(a). Explain the theory of Validity of Knowledge (prāmāṇyavāda) according to Mīmāṃsakas. How did they criticize the Nyāya theory of Validity?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q8a) — intrinsic validity · 20 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q7(c). What is the logical necessity for the Mīmāṃsakas to treat ‘Arthāpatti’ as an independent Pramāṇa? Discuss.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q7c) — postulation as a means of knowledge · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q6(a). Elaborate Nyaya-Mimamsa debate on *Pramanyavada*.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q6a) — intrinsic and extrinsic validity · 20 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q5(e). Can arthāpatti (postulation) be reduced to anumāna (inference) ? Discuss it from the Mīmāṁsā point of view.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q5e) — postulation as an independent means of knowledge · 10 marks
+- [Q6(c). How is an absence of an object known according to Naiyāyikās and Mīmāṁsakas ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q6c) — non-cognition and absence · 15 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q7(b). Evaluate Prabhakara Mimamsaka’s arguments for accepting sruti as pramana.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q7b) — Vedic testimony and intrinsic validity · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2015 · Philosophy Paper I · Q6(c). Is *anyathākhyātivāda* an adequate explanation of error ? Elaborate.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q6c) — Nyāya theory of error
+- [2013 · Philosophy Paper I · Q5(c). How is the pramanya (validity/truth) of a statement determined ? Examine, in this context, the theory of paratah-pramanyavada.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q5c) — extrinsic validity
+- [2013 · Philosophy Paper I · Q8(b). ‘Not karma, but knowledge alone leads to moksa.’ (Samkara). Do you agree ? Justify your answer.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q8b) — knowledge and liberation in Advaita

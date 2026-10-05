@@ -6,11 +6,18 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Prelims GS-I: 6
-- **Subtopics represented:** Western hoolock gibbon conservation status, habitat, and arboreal adaptation; Country-animal natural habitat pairs (Brazil-Indri, Indonesia-Elk, Madagascar-Bonobo); Marsupials natural habitat and distribution in India; Species identification Golden Mahseer Nightjar Spoonbill Ibis; Wildlife species naturally found only in India; Wildlife species and natural Indian habitats matching
+- **Released years represented:** 2013, 2019, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims GS-I: 7
+- **Subtopics represented:** Western hoolock gibbon conservation status, habitat, and arboreal adaptation; Country-animal natural habitat pairs (Brazil-Indri, Indonesia-Elk, Madagascar-Bonobo); Marsupials natural habitat and distribution in India; Species identification Golden Mahseer Nightjar Spoonbill Ibis; Wildlife species naturally found only in India; Wildlife species and natural Indian habitats matching; Consider the following fauna of India: 1. Gharial 2. Leatherback turtle 3. Swamp deer Which of the abo...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Consider the following fauna of India: 1. Gharial 2. Leatherback turtle 3. Swamp deer Which of the abo...
 
 ## 2019 concentration
 
@@ -79,3 +86,9 @@
 
 - [Q22. Wildlife species naturally found only in India](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q22) — Wildlife species naturally found only in India
 - [Q29. Wildlife species and natural Indian habitats matching](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q29) — Wildlife species and natural Indian habitats matching
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q87. Consider the following fauna of India: 1. Gharial 2. Leatherback turtle 3. Swamp deer Which of the abo...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q087) — Consider the following fauna of India: 1. Gharial 2. Leatherback turtle 3. Swamp deer Which of the abo...

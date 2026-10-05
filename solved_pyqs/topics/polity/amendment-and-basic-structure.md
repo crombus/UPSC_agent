@@ -6,12 +6,34 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 9
-- **Stable linked anchors:** 9
-- **Paper concentration:** Mains GS-II: 2; Prelims GS-I: 7
-- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Constitutional amendments requiring ratification by State legislatures; Procedure and basic structure; Article 368 - modes of amendment (addition, variation, repeal); Constitutional amendments enacted to overcome judicial interpretation; Constitutional Amendment Bill procedure and Presidential assent; Basic structure doctrine definition and judicial review; 44th and 99th Constitutional Amendments judicial implications; Ninth Schedule introduction in Indian Constitution history; Limits on constituent power
+- **Released years represented:** 2013, 2016, 2018, 2019, 2020, 2022, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 12
+- **Stable linked anchors:** 12
+- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 9
+- **Marks represented:** 42.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Constitutional amendments requiring ratification by State legislatures; Procedure and basic structure; Article 368 - modes of amendment (addition, variation, repeal); Constitutional amendments enacted to overcome judicial interpretation; Constitutional Amendment Bill procedure and Presidential assent; Basic structure doctrine definition and judicial review; 44th and 99th Constitutional Amendments judicial implications; Ninth Schedule introduction in Indian Constitution history; Limits on constituent power; Ninth Schedule laws and judicial review in Constitution; Ninth Schedule and judicial review; Consider the following statements: 1. An amendment to the Constitution of India can be initiated by an...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Consider the following statements: 1. An amendment to the Constitution of India can be initiated by an...
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Ninth Schedule and judicial review
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Ninth Schedule laws and judicial review in Constitution
 
 ## 2019 concentration
 
@@ -103,3 +125,21 @@
 #### Mains GS-II
 
 - [Q12. “Parliament’s power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.” In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power?](../../papers/2019/mains-gs2.md#2019-mains-gs2-q12) — Limits on constituent power · 15 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q5. Ninth Schedule laws and judicial review in Constitution](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q05) — Ninth Schedule laws and judicial review in Constitution
+
+### 2016
+
+#### Mains GS-II
+
+- [Q6. What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution?](../../papers/2016/mains-gs2.md#2016-mains-gs2-q06) — Ninth Schedule and judicial review · 12.5 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q11. Consider the following statements: 1. An amendment to the Constitution of India can be initiated by an...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q011) — Consider the following statements: 1. An amendment to the Constitution of India can be initiated by an...

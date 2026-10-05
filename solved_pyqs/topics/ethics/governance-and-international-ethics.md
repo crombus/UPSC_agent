@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 32
-- **Stable linked anchors:** 39
-- **Paper concentration:** Mains GS-IV: 32
-- **Marks represented:** 252 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Just intention, legitimate force and accountability; Constitutional morality, good governance and accountability; Justice, equality and impartial criminal administration; Corporate governance; Trust and civic networks; Good governance and digital delivery; Constitutional morality; Corporate social responsibility; Corporate integrity and confidential information; Ethical issues involved; Options and consequences; Most appropriate action; Product integrity and consumer justice; Options available; Critical evaluation; Option adopted and why; Ethical dilemmas; Consequences of overlooking observations; Institutional integrity in education; Ethical issues; Justified action; Corporate accountability and consumer safety; Regulatory response; Corporate remedy; Ethical dilemma; Ethical foundations of national power; Corporate responsibility and development; Corporate ethics; Qualified role model; Principles of public life; Public-service role; Transparency and secrecy; Crisis leadership values; Corporate ethics and workplace dignity; Workplace dignity; Options and remedy; Political-administrative relations; Consequences and reform
+- **Released years represented:** 2013, 2014, 2016, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 36
+- **Stable linked anchors:** 43
+- **Paper concentration:** Mains GS-IV: 36
+- **Marks represented:** 317 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Just intention, legitimate force and accountability; Constitutional morality, good governance and accountability; Justice, equality and impartial criminal administration; Corporate governance; Trust and civic networks; Good governance and digital delivery; Constitutional morality; Corporate social responsibility; Corporate integrity and confidential information; Ethical issues involved; Options and consequences; Most appropriate action; Product integrity and consumer justice; Options available; Critical evaluation; Option adopted and why; Ethical dilemmas; Consequences of overlooking observations; Institutional integrity in education; Ethical issues; Justified action; Corporate accountability and consumer safety; Regulatory response; Corporate remedy; Ethical dilemma; Ethical foundations of national power; Corporate responsibility and development; Corporate ethics; Qualified role model; Principles of public life; Public-service role; Transparency and secrecy; Crisis leadership values; Corporate ethics and workplace dignity; Workplace dignity; Options and remedy; Political-administrative relations; Consequences and reform; corporate responsibility and stakeholder justice; gender justice and ethical governance; migration, dignity and balanced development; political ethics
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** political ethics
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-IV: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** gender justice and ethical governance; migration, dignity and balanced development
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** corporate responsibility and stakeholder justice
 
 ## 2019 concentration
 
@@ -157,3 +181,22 @@
 - [Q9(b). Options, chosen action and safeguards](../../papers/2019/mains-gs4.md#2019-mains-gs4-q9b) — Options and remedy
 - [Q10. Politicisation of bureaucracy](../../papers/2019/mains-gs4.md#2019-mains-gs4-q10) — Political-administrative relations · 20 marks
 - [Q10(a). Consequences, response and safeguards](../../papers/2019/mains-gs4.md#2019-mains-gs4-q10a) — Consequences and reform
+
+### 2016
+
+#### Mains GS-IV
+
+- [Q13. Industrial development, CSR and residents' concerns](../../papers/2016/mains-gs4.md#2016-mains-gs4-q13) — corporate responsibility and stakeholder justice · 25 marks
+
+### 2014
+
+#### Mains GS-IV
+
+- [Q8. Innovative measures against sexual violence](../../papers/2014/mains-gs4.md#2014-mains-gs4-q08) — gender justice and ethical governance · 10 marks
+- [Q14. Rural-to-urban migration](../../papers/2014/mains-gs4.md#2014-mains-gs4-q14) — migration, dignity and balanced development · 20 marks
+
+### 2013
+
+#### Mains GS-IV
+
+- [Q8. Politics and ethics](../../papers/2013/mains-gs4.md#2013-mains-gs4-q08) — political ethics · 10 marks

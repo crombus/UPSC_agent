@@ -6,12 +6,53 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2025, 2026
-- **Solved answerable questions/parts:** 10
-- **Stable linked anchors:** 10
-- **Paper concentration:** Philosophy Paper II: 10
-- **Marks represented:** 130 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** monarchy, democracy and dictatorship · exercise, authorisation and termination of power; Plato · democracy’s degeneration into tyranny; Theocracy; Monarchy · constitutional order; Democracy · institutional challenges; Democracy and propaganda; Monarchy, theocracy and Divine Right; Monarchy · individual freedom; liberal democracy · minority safeguards; theocracy · secular state
+- **Released years represented:** 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 17
+- **Stable linked anchors:** 17
+- **Paper concentration:** Philosophy Paper II: 17
+- **Marks represented:** 235 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** monarchy, democracy and dictatorship · exercise, authorisation and termination of power; Plato · democracy’s degeneration into tyranny; Theocracy; Monarchy · constitutional order; Democracy · institutional challenges; Democracy and propaganda; Monarchy, theocracy and Divine Right; Monarchy · individual freedom; liberal democracy · minority safeguards; theocracy · secular state; liberal democracy · social cohesion · India; monarchy · democracy · mixed government; parliamentary democracy · responsibility · deliberation; democracy · theocracy; democracy · forms; democracy · minorities · representation; democracy and dictatorship
+- **Justified secondary-route anchors:** 2 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper II: 3
+- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** democracy · forms; democracy · minorities · representation; democracy and dictatorship
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** democracy · theocracy
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** parliamentary democracy · responsibility · deliberation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** monarchy · democracy · mixed government
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** liberal democracy · social cohesion · India
 
 ## 2019 concentration
 
@@ -115,3 +156,41 @@
 #### Philosophy Paper II
 
 - [Q1(b). Discuss the status of theocracy in the modern secular state.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q1b) — theocracy · secular state · 10 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q1(a). What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context.](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q1a) — liberal democracy · social cohesion · India · 10 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q1(b). Discuss whether a blending of monarchy with democracy is conceivable to avoid their undesirable defects for making the governance better for citizens and State.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q1b) — monarchy · democracy · mixed government · 10 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q3(c). Evaluate the nature and functions of parliamentary democracy.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q3c) — parliamentary democracy · responsibility · deliberation · 20 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q4(c). In what sense is democracy a better form of Government than theocracy?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q4c) — democracy · theocracy · 15 marks
+
+### 2013
+
+#### Philosophy Paper II
+
+- [Q2(a). What is meant by ‘democracy’? What are the various forms of democratic governments?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q2a) — democracy · forms · 15 marks
+- [Q2(b). Is a democratic government able to represent the interests of minority groups?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q2b) — democracy · minorities · representation · 15 marks
+- [Q2(c). Is a democratic government better than a benevolent dictatorship? Give reasons for your answer.](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q2c) — democracy and dictatorship · 20 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2013 · Philosophy Paper II · Q1(d). Does the combination of democracy and socialism lead to a more equitable society?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q1d) — democratic socialism · equality
+- [2013 · Philosophy Paper II · Q3(c). Why is adequate representation of women in political institutions important in this context?](../../papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q3c) — political representation

@@ -6,12 +6,35 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 20
-- **Stable linked anchors:** 20
-- **Paper concentration:** Mains GS-I: 6; Prelims GS-I: 14
-- **Marks represented:** 80 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Bharat Forecast System's resolution objective and developing institution; Atmospheric dust distribution across climatic zones; January isotherms bending over land and ocean; Atmosphere maintaining Earth's temperature; CO2 absorbing radiation; Atmosphere heated more by solar than terrestrial radiation; greenhouse gases; Thickness of the troposphere at the equator versus poles; convection; Inferences from January isothermal maps; Water-vapour characteristics with altitude; Coriolis force characteristics; Tropical-cyclone genesis; Cloudbursts; Tornado genesis; Insolation distribution in Earth's atmosphere infrared rays; Temperature contrast between continents and oceans seasons; High and low clouds differential effects on Earth temperature; Troposphere is a very significant atmospheric layer that determines weather processes. How?; Mountain alignment and local weather; Q15. How do the melting of the Arctic ice and glaciers of the Antarctic differently affect the weather patterns and human activities on the Earth? Explain.; Jet streams hemisphere limitation and cyclone eye temperature; Absence of dewdrops formation on cloudy nights
+- **Released years represented:** 2013, 2015, 2016, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 27
+- **Stable linked anchors:** 27
+- **Paper concentration:** Mains GS-I: 9; Prelims GS-I: 18
+- **Marks represented:** 102.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Bharat Forecast System's resolution objective and developing institution; Atmospheric dust distribution across climatic zones; January isotherms bending over land and ocean; Atmosphere maintaining Earth's temperature; CO2 absorbing radiation; Atmosphere heated more by solar than terrestrial radiation; greenhouse gases; Thickness of the troposphere at the equator versus poles; convection; Inferences from January isothermal maps; Water-vapour characteristics with altitude; Coriolis force characteristics; Tropical-cyclone genesis; Cloudbursts; Tornado genesis; Insolation distribution in Earth's atmosphere infrared rays; Temperature contrast between continents and oceans seasons; High and low clouds differential effects on Earth temperature; Troposphere is a very significant atmospheric layer that determines weather processes. How?; Mountain alignment and local weather; Q15. How do the melting of the Arctic ice and glaciers of the Antarctic differently affect the weather patterns and human activities on the Earth? Explain.; Jet streams hemisphere limitation and cyclone eye temperature; Absence of dewdrops formation on cloudy nights; Air masses; In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone...; Westerlies and north-west India's winter rainfall; The annual range of temperature in the interior of the continents is high as compared to coastal areas...; During a thunderstorm, the thunder in the skies is produced by the 1. meeting of cumulonimbus clouds i...; Urban heat island; Temperature inversion
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 2
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** The annual range of temperature in the interior of the continents is high as compared to coastal areas...; During a thunderstorm, the thunder in the skies is produced by the 1. meeting of cumulonimbus clouds i...; Urban heat island; Temperature inversion
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone...; Westerlies and north-west India's winter rainfall
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Air masses
 
 ## 2019 concentration
 
@@ -139,3 +162,28 @@
 #### Prelims GS-I
 
 - [Q44. Absence of dewdrops formation on cloudy nights](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q44) — Absence of dewdrops formation on cloudy nights
+
+### 2016
+
+#### Mains GS-I
+
+- [Q13. Discuss the concept of air mass and explain its role in macro-climatic changes.](../../papers/2016/mains-gs1.md#2016-mains-gs1-q13) — Air masses · 12.5 marks
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q5. In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone...](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q005) — In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone...
+- [Q66. Westerlies and north-west India's winter rainfall](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q066) — Westerlies and north-west India's winter rainfall
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q60. The annual range of temperature in the interior of the continents is high as compared to coastal areas...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q060) — The annual range of temperature in the interior of the continents is high as compared to coastal areas...
+- [Q72. During a thunderstorm, the thunder in the skies is produced by the 1. meeting of cumulonimbus clouds i...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q072) — During a thunderstorm, the thunder in the skies is produced by the 1. meeting of cumulonimbus clouds i...
+
+#### Mains GS-I
+
+- [Q20(a). Bring out the causes for the formation of heat islands in the urban habitat of the world.](../../papers/2013/mains-gs1.md#2013-mains-gs1-q20a) — Urban heat island · 5 marks
+- [Q20(b). What do you understand by the phenomenon of ‘temperature inversion’ in meteorology? How does it affect weather and the habitants of the place?](../../papers/2013/mains-gs1.md#2013-mains-gs1-q20b) — Temperature inversion · 5 marks

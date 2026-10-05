@@ -6,11 +6,25 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2023, 2025, 2026
-- **Solved answerable questions/parts:** 9
-- **Stable linked anchors:** 9
-- **Paper concentration:** Prelims GS-I: 9
-- **Subtopics represented:** Real-world asset tokenization using blockchain and investment access; Alternative Investment Funds - which investment vehicles qualify (hedge funds, venture capital); Bondholders versus stockholders - risk and repayment priority; India's equity options market growth and regulation; Infrastructure Investment Trusts InvIT tax treatment SARFAESI; Beta as stock market volatility measure in finance; Inflation-Indexed Bonds features and investor benefits; Convertible bonds interest rate and equity conversion features; Participatory Notes issued to overseas stock market investors
+- **Released years represented:** 2016, 2017, 2019, 2022, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 12
+- **Stable linked anchors:** 12
+- **Paper concentration:** Prelims GS-I: 12
+- **Subtopics represented:** Real-world asset tokenization using blockchain and investment access; Alternative Investment Funds - which investment vehicles qualify (hedge funds, venture capital); Bondholders versus stockholders - risk and repayment priority; India's equity options market growth and regulation; Infrastructure Investment Trusts InvIT tax treatment SARFAESI; Beta as stock market volatility measure in finance; Inflation-Indexed Bonds features and investor benefits; Convertible bonds interest rate and equity conversion features; Participatory Notes issued to overseas stock market investors; Eligibility for National Pension System; IFC Masala Bonds; Sovereign Gold Bonds and Gold Monetization
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** IFC Masala Bonds; Sovereign Gold Bonds and Gold Monetization
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Eligibility for National Pension System
 
 ## 2019 concentration
 
@@ -82,3 +96,16 @@
 #### Prelims GS-I
 
 - [Q67. Participatory Notes issued to overseas stock market investors](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q67) — Participatory Notes issued to overseas stock market investors
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q29. Eligibility for National Pension System](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q029) — Eligibility for National Pension System
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q8. IFC Masala Bonds](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q008) — IFC Masala Bonds
+- [Q71. Sovereign Gold Bonds and Gold Monetization](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q071) — Sovereign Gold Bonds and Gold Monetization

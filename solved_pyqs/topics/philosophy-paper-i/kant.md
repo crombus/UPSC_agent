@@ -6,12 +6,61 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2026
-- **Solved answerable questions/parts:** 10
-- **Stable linked anchors:** 10
-- **Paper concentration:** Philosophy Paper I: 10
-- **Marks represented:** 140 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** transcendental idealism versus absolute idealism · thought–reality relation; synthetic a priori judgement · transcendental response to Hume; critique of ontological proof · existence not predicate; intuition and concepts · synthesis of rationalism and empiricism; synthetic a priori judgements · transcendental proof; transcendental apperception · space and time; transcendental dialectic · cosmological antinomies; critique of ontological proof; antinomies of pure reason; transcendental ideality of space and time
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026
+- **Solved answerable questions/parts:** 19
+- **Stable linked anchors:** 19
+- **Paper concentration:** Philosophy Paper I: 19
+- **Marks represented:** 272.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** transcendental idealism versus absolute idealism · thought–reality relation; synthetic a priori judgement · transcendental response to Hume; critique of ontological proof · existence not predicate; intuition and concepts · synthesis of rationalism and empiricism; synthetic a priori judgements · transcendental proof; transcendental apperception · space and time; transcendental dialectic · cosmological antinomies; critique of ontological proof; antinomies of pure reason; transcendental ideality of space and time; transcendental idealism and Hegelian culmination; analytic/synthetic and synthetic a priori judgements; transcendental aesthetic and mathematics; critique of rational psychology; categories and knowledge; table of categories; synthetic *a priori* judgement; causality and Hume
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 22.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** antinomies of pure reason; causality and Hume
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** synthetic *a priori* judgement
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** table of categories
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** critique of rational psychology; categories and knowledge
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** analytic/synthetic and synthetic a priori judgements; transcendental aesthetic and mathematics
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** transcendental idealism and Hegelian culmination
 
 ## 2019 concentration
 
@@ -115,3 +164,47 @@
 #### Philosophy Paper I
 
 - [Q4(a). How does Kant argue for the transcendence of Space and Time? Discuss.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q4a) — transcendental ideality of space and time · 20 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q2(b). Explain the significance of the Kantian dictum, 'Understanding makes Nature'. How far do you agree that Hegel's Absolutism is the culmination of the Kantian Dualism? Discuss. Give reasons in favour of your answer.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q2b) — transcendental idealism and Hegelian culmination · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q2(a). How is ‘all bodies are extended’ an analytic judgement but ‘all bodies are heavy’ a synthetic judgement? Is ‘every event has a cause’ an analytic or a synthetic judgement? Explain.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q2a) — analytic/synthetic and synthetic a priori judgements · 20 marks
+- [Q3(a). Elaborate Kant’s theory of space and time. How does this theory enable him to explain how mathematical propositions can be both synthetic and a priori?](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q3a) — transcendental aesthetic and mathematics · 20 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q1(b). Examine Kant’s criticism on Descartes’ view of Self.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q1b) — critique of rational psychology · 10 marks
+- [Q3(b). What, according to Kant, are ‘pure concepts’? Examine their role in the process of knowing.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q3b) — categories and knowledge · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q2(a). Explain Kant’s division of categories.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q2a) — table of categories · 20 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q1(a). How are the synthetic a priori judgements justifiable according to Kant ? Explain.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q1a) — synthetic *a priori* judgement · 10 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q1(e). What is an antinomy ? Describe the major antinomies discussed by Kant.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1e) — antinomies of pure reason · 10 marks
+- [Q2(b). State Kant’s view of causality. How far is Kant able to answer Hume’s objection that causal relation lacks logical necessity ?](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q2b) — causality and Hume · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2013 · Philosophy Paper I · Q1(c). Distinguish necessary from empirical propositions. How is a necessary proposition justified ? Explain.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1c) — necessity and analyticity

@@ -6,11 +6,32 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2025, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Prelims GS-I: 4
-- **Subtopics represented:** Carnatic and Hindustani raga equivalence in Indian classical music traditions; Pandit Mallikarjun Mansur and Hindustani classical music gharanas; First Gandharva Mahavidyalaya (Vishnu Digambar Paluskar, 1901); Mian Tansen and Mughal court music tradition
+- **Released years represented:** 2014, 2017, 2018, 2019, 2025, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Prelims GS-I: 7
+- **Subtopics represented:** Carnatic and Hindustani raga equivalence in Indian classical music traditions; Pandit Mallikarjun Mansur and Hindustani classical music gharanas; First Gandharva Mahavidyalaya (Vishnu Digambar Paluskar, 1901); Mian Tansen and Mughal court music tradition; Tyagaraja Kritis Annamacharya kirtanas facts in classical music; Manipuri Sankirtana tradition; A community of people called Manganiyars is well-known for their
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** A community of people called Manganiyars is well-known for their
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Manipuri Sankirtana tradition
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Tyagaraja Kritis Annamacharya kirtanas facts in classical music
 
 ## 2019 concentration
 
@@ -53,3 +74,21 @@
 #### Prelims GS-I
 
 - [Q16. Mian Tansen and Mughal court music tradition](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q16) — Mian Tansen and Mughal court music tradition
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q44. Tyagaraja Kritis Annamacharya kirtanas facts in classical music](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q44) — Tyagaraja Kritis Annamacharya kirtanas facts in classical music
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q12. Manipuri Sankirtana tradition](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q012) — Manipuri Sankirtana tradition
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q91. A community of people called Manganiyars is well-known for their](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q091) — A community of people called Manganiyars is well-known for their

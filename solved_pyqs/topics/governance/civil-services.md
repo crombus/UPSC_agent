@@ -6,12 +6,36 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Mains GS-I: 1; Mains GS-II: 3; Prelims GS-I: 2
-- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Generalist-specialist debate; Civil-service ethos; Civil-service integrity and trust; Administrative Reforms Commission personnel department creation; Bureaucracy appropriate characteristics for public policy India; Administrative reform
+- **Released years represented:** 2014, 2016, 2017, 2020, 2021, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 9
+- **Stable linked anchors:** 9
+- **Paper concentration:** Mains GS-I: 1; Mains GS-II: 6; Prelims GS-I: 2
+- **Marks represented:** 80.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Generalist-specialist debate; Civil-service ethos; Civil-service integrity and trust; Administrative Reforms Commission personnel department creation; Bureaucracy appropriate characteristics for public policy India; Administrative reform; Neutrality, effectiveness and reform; Bureaucratic structure, culture and reform; Cadre system and administrative reform
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Cadre system and administrative reform
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Bureaucratic structure, culture and reform
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Neutrality, effectiveness and reform
 
 ## 2020 concentration
 
@@ -87,3 +111,21 @@
 #### Mains GS-II
 
 - [Q7. “Institutional quality is a crucial driver of economic performance.” In this context, suggest reforms in Civil Service for strengthening democracy.](../../papers/2020/mains-gs2.md#2020-mains-gs2-q07) — Administrative reform · 10 marks
+
+### 2017
+
+#### Mains GS-II
+
+- [Q18. Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services? Comment.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q18) — Neutrality, effectiveness and reform · 15 marks
+
+### 2016
+
+#### Mains GS-II
+
+- [Q14. “Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.” Comment.](../../papers/2016/mains-gs2.md#2016-mains-gs2-q14) — Bureaucratic structure, culture and reform · 12.5 marks
+
+### 2014
+
+#### Mains GS-II
+
+- [Q14. Has the Cadre based Civil Services Organization been the cause of slow change in India? Critically examine.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q14) — Cadre system and administrative reform · 12.5 marks

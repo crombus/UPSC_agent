@@ -6,12 +6,44 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2024, 2026
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 2
-- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Public-service accountability when confronting compromised vaccine distribution quality; Transparency and integrity in public procurement with confidential adverse information; Trust and legitimacy; Citizens’ Charters; Information Commissions
+- **Released years represented:** 2015, 2016, 2017, 2018, 2020, 2024, 2026
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Mains GS-II: 6; Mains GS-IV: 2; Prelims GS-I: 2
+- **Marks represented:** 110.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Public-service accountability when confronting compromised vaccine distribution quality; Transparency and integrity in public procurement with confidential adverse information; Trust and legitimacy; Citizens’ Charters; Information Commissions; answerability and enforceability; motive-neutral access and abuse control; Corruption and public morality; Whistle-blower protection
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Whistle-blower protection
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Corruption and public morality
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-IV: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** motive-neutral access and abuse control
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Mains GS-IV: 1
+- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Citizens’ Charters; answerability and enforceability
 
 ## 2020 concentration
 
@@ -61,3 +93,31 @@
 #### Mains GS-II
 
 - [Q2. “Recent amendments to the Right to Information Act will have profound impact on the autonomy and independence of the Information Commission.” Discuss.](../../papers/2020/mains-gs2.md#2020-mains-gs2-q02) — Information Commissions · 10 marks
+
+### 2018
+
+#### Mains GS-II
+
+- [Q18. The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter.](../../papers/2018/mains-gs2.md#2018-mains-gs2-q18) — Citizens’ Charters · 15 marks
+
+#### Mains GS-IV
+
+- [Q2(b). RTI and the redefinition of accountability](../../papers/2018/mains-gs4.md#2018-mains-gs4-q02b) — answerability and enforceability · 10 marks
+
+### 2017
+
+#### Mains GS-IV
+
+- [Q14. Genuine and non-genuine RTI applications](../../papers/2017/mains-gs4.md#2017-mains-gs4-q14) — motive-neutral access and abuse control · 20 marks
+
+### 2016
+
+#### Mains GS-II
+
+- [Q12. In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, economic, social and cultural factors that have caused the decline of public morality in India.](../../papers/2016/mains-gs2.md#2016-mains-gs2-q12) — Corruption and public morality · 12.5 marks
+
+### 2015
+
+#### Mains GS-II
+
+- [Q15. “If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.” Critically evaluate.](../../papers/2015/mains-gs2.md#2015-mains-gs2-q15) — Whistle-blower protection · 12.5 marks

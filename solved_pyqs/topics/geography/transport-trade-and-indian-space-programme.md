@@ -6,12 +6,27 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-I: 2; Prelims GS-I: 3
-- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** National Rail Plan and the 'Kavach' automatic train protection system; Greenfield airports (Donyi Polo, Kushinagar, Vijayawada); Major Indian ports Kamaraj Mundra Visakhapatnam features; Mention the significance of straits and isthmus in international trade.; Urban mass transport
+- **Released years represented:** 2014, 2016, 2019, 2022, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-I: 3; Prelims GS-I: 4
+- **Marks represented:** 42.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** National Rail Plan and the 'Kavach' automatic train protection system; Greenfield airports (Donyi Polo, Kushinagar, Vijayawada); Major Indian ports Kamaraj Mundra Visakhapatnam features; Mention the significance of straits and isthmus in international trade.; Urban mass transport; Inland waterways; the following pairs :
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** the following pairs :
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Inland waterways
 
 ## 2019 concentration
 
@@ -81,3 +96,15 @@
 #### Mains GS-I
 
 - [Q16. How is efficient and affordable urban mass transport key to the rapid economic development of India?](../../papers/2019/mains-gs1.md#2019-mains-gs1-q16) — Urban mass transport · 15 marks
+
+### 2016
+
+#### Mains GS-I
+
+- [Q19. Enumerate the problems and prospects of inland water transport in India.](../../papers/2016/mains-gs1.md#2016-mains-gs1-q19) — Inland waterways · 12.5 marks
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q77. the following pairs :](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q077) — the following pairs :

@@ -6,11 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2022, 2023, 2025, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Prelims GS-I: 6
-- **Subtopics represented:** Rare earth elements, critical minerals, and India's self-reliance mission; Minerals Security Partnership; critical minerals; MMDR Act 2023 amendment; Elements making up EV battery cathodes (cobalt, graphite, lithium, nickel); Uses and properties of rare earth elements; Carbon fibre applications in automobiles aircraft recyclability; Monazite rare earths thorium and government policy India
+- **Released years represented:** 2013, 2022, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains GS-III: 2; Prelims GS-I: 6
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Rare earth elements, critical minerals, and India's self-reliance mission; Minerals Security Partnership; critical minerals; MMDR Act 2023 amendment; Elements making up EV battery cathodes (cobalt, graphite, lithium, nickel); Uses and properties of rare earth elements; Carbon fibre applications in automobiles aircraft recyclability; Monazite rare earths thorium and government policy India; Additive manufacturing; Composite materials
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-III: 2
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Additive manufacturing; Composite materials
 
 ## 2022 concentration
 
@@ -67,3 +76,10 @@
 #### Prelims GS-I
 
 - [Q28. Monazite rare earths thorium and government policy India](../../papers/2022/prelims-gs1.md#2022-prelims-gs1-q28) — Monazite rare earths thorium and government policy India
+
+### 2013
+
+#### Mains GS-III
+
+- [Q16(b). How 3D printing works](../../papers/2013/mains-gs3.md#2013-mains-gs3-q16b) — Additive manufacturing · 5 marks
+- [Q17(a). Fibre-reinforced polymer composites](../../papers/2013/mains-gs3.md#2013-mains-gs3-q17a) — Composite materials · 5 marks

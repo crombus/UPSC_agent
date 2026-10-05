@@ -6,12 +6,61 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 20
-- **Stable linked anchors:** 20
-- **Paper concentration:** Philosophy Paper I: 20
-- **Marks represented:** 295 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Nimbārka · dualistic non-dualism (dvaitādvaita) · God, conscious selves and matter; qualified non-dualism (viśiṣṭādvaita) · cit–acit relation; Dualism (Dvaita) · real difference (bheda) · individuation; Rāmānuja · seven untenabilities of ignorance; Advaita · Brahman as efficient and material cause; Advaita · original–reflection theory · self and liberation; Viśiṣṭādvaita · body–soul relation; great saying “That thou art” · identity of self and Brahman; Rāmānuja’s criticism of Śaṅkara · Brahman and God; liberation as recognition · already-attained Brahman; apparent transformation and real transformation; Advaita · God, individual self and witness · levels of reality; liberation in qualified non-dualism and dualism; theories of error and indescribability; world in Advaita and qualified non-dualism; Madhva’s dualism; Madhva’s fivefold difference; Nimbārka on matter; Advaita on empirical self and witnessing consciousness; consequences of non-dual absolutism
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 38
+- **Stable linked anchors:** 38
+- **Paper concentration:** Philosophy Paper I: 38
+- **Marks represented:** 542.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Nimbārka · dualistic non-dualism (dvaitādvaita) · God, conscious selves and matter; qualified non-dualism (viśiṣṭādvaita) · cit–acit relation; Dualism (Dvaita) · real difference (bheda) · individuation; Rāmānuja · seven untenabilities of ignorance; Advaita · Brahman as efficient and material cause; Advaita · original–reflection theory · self and liberation; Viśiṣṭādvaita · body–soul relation; great saying “That thou art” · identity of self and Brahman; Rāmānuja’s criticism of Śaṅkara · Brahman and God; liberation as recognition · already-attained Brahman; apparent transformation and real transformation; Advaita · God, individual self and witness · levels of reality; liberation in qualified non-dualism and dualism; theories of error and indescribability; world in Advaita and qualified non-dualism; Madhva’s dualism; Madhva’s fivefold difference; Nimbārka on matter; Advaita on empirical self and witnessing consciousness; consequences of non-dual absolutism; Advaita · Brahman and Māyā; theistic Vedānta accounts of liberation; Rāmānuja’s critique of Māyā; apparent and real transformation; Viśiṣṭādvaita God-world relation; Advaita on Īśvara; self, non-self and contemporary reason; Brahman in Advaita, Viśiṣṭādvaita and Dvaita; Advaita and Viśiṣṭādvaita; Śaṅkara on superimposition; Advaita, Viśiṣṭādvaita and Dvaita; liberation while living; Īśvara and Brahman; intrinsic and accidental indication of Brahman; knowledge and liberation in Advaita; Rāmānuja’s critique of *māyā*
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Philosophy Paper I: 6
+- **Marks represented:** 72.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** liberation while living; Madhva’s fivefold difference; Īśvara and Brahman; intrinsic and accidental indication of Brahman; knowledge and liberation in Advaita; Rāmānuja’s critique of *māyā*
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Śaṅkara on superimposition; Advaita, Viśiṣṭādvaita and Dvaita
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Madhva’s fivefold difference; Advaita and Viśiṣṭādvaita
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper I: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Advaita on Īśvara; self, non-self and contemporary reason; Brahman in Advaita, Viśiṣṭādvaita and Dvaita
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper I: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** apparent and real transformation; Viśiṣṭādvaita God-world relation
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Philosophy Paper I: 3
+- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Advaita · Brahman and Māyā; theistic Vedānta accounts of liberation; Rāmānuja’s critique of Māyā
 
 ## 2019 concentration
 
@@ -138,3 +187,56 @@
 #### Philosophy Paper I
 
 - [Q8(a). Explain the logical consequences of the metaphysical absolutism of Advaitism.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q8a) — consequences of non-dual absolutism · 20 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q5(c). What is the difference between the indescribability (Anirvacanīyatā) of Brahman and the indescribability (Anirvacanīyatā) of Māyā in the Advaita Vedānta system? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q5c) — Advaita · Brahman and Māyā · 10 marks
+- [Q7(a). Give a comparative exposition of the concept of Mokṣa as found in the systems of Viśiṣṭādvaita, Dvaita, Śuddhādvaita and Acintyabhedābheda.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q7a) — theistic Vedānta accounts of liberation · 20 marks
+- [Q7(c). How does Rāmānuja refute the doctrine of Māyā as propounded by Śaṅkara? Why is Māyā needed by both Rāmānuja and Śaṅkara to establish their doctrines? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q7c) — Rāmānuja’s critique of Māyā · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q7(c). Distinguish between vivartavāda and pariṇāmavāda with reference to causation and explain how in the light of these theories Śaṅkara and Rāmānuja differ on the status of the world.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q7c) — apparent and real transformation · 15 marks
+- [Q8(b). Explain Rāmānuja’s conception of God and examine the difficulties he faced in explaining the relation of God to matter and spirit.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q8b) — Viśiṣṭādvaita God-world relation · 15 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q5(e). Evaluate Śaṅkara’s position on Īśvara.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q5e) — Advaita on Īśvara · 10 marks
+- [Q6(c). Is the doctrine of ‘Self’ acceptable in the modern age of science and reason? Examine the view in the light of Indian philosophy.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q6c) — self, non-self and contemporary reason · 15 marks
+- [Q8(c). Give a critical exposition of the concept of ‘Brahman’ as discussed by Śaṅkara, Rāmānuja and Mādhava.](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q8c) — Brahman in Advaita, Viśiṣṭādvaita and Dvaita · 15 marks
+
+### 2015
+
+#### Philosophy Paper I
+
+- [Q5(a). *Pancavidhabheda*](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q5a) — Madhva’s fivefold difference · 10 marks
+- [Q7(a). Compare and contrast the notion of *Brahman* in Sankara and Ramanuja.](../../papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q7a) — Advaita and Viśiṣṭādvaita · 20 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q5(c). Bring out the significance of the concept of adhyāsa in Sankara’s philosophy to develop his metaphysics.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q5c) — Śaṅkara on superimposition · 10 marks
+- [Q8(a). How does the nature of Brahman differ in the philosophy of Sankara, Ramanuja and Madhva ? Discuss critically.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q8a) — Advaita, Viśiṣṭādvaita and Dvaita · 20 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q5(d). Explain the possibility of jivanmukti. Critically compare it with the Yoga account of kaivalya.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q5d) — liberation while living · 10 marks
+- [Q6(a). Describe the five types of differences (pancavidhabheda). Bring out their philosophical significance for Madhva’s theory.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q6a) — Madhva’s fivefold difference · 12.5 marks
+- [Q6(d). How can Isvara (God) be distinguished from Brahman (Absolute) ? Which of the two concepts are philosophically better ?](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q6d) — Īśvara and Brahman · 12.5 marks
+- [Q7(d). Distinguish between Svarupa laksana and Tatastha laksana of Brahman after Sankara.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q7d) — intrinsic and accidental indication of Brahman · 12.5 marks
+- [Q8(b). ‘Not karma, but knowledge alone leads to moksa.’ (Samkara). Do you agree ? Justify your answer.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q8b) — knowledge and liberation in Advaita · 12.5 marks
+- [Q8(c). Evaluate Ramanuja’s critique of Samkara’s theory of maya.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q8c) — Rāmānuja’s critique of *māyā* · 12.5 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2014 · Philosophy Paper I · Q6(a). How is the theory of causation central to the theories of Reality in classical Indian tradition ? Discuss.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q6a) — causation across Indian schools

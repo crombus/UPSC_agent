@@ -6,6 +6,7 @@
 
 ---
 
+
 <a id="2018-mains-essay-q1"></a>
 ## Section A — Q1. Alternative technologies for a climate change resilient India
 
@@ -64,6 +65,7 @@ The choice is not between technology and restraint. India needs innovation disci
 **Why this earns marks:** It defines resilience beyond mitigation, connects technologies to mechanisms across sectors, tests adverse effects and access, and makes governance and justice integral rather than appended.
 
 ---
+
 
 <a id="2018-mains-essay-q2"></a>
 ## Section A — Q2. A good life is one inspired by love and guided by knowledge
@@ -126,6 +128,7 @@ Love and knowledge will not eliminate conflict. Difficult choices often pit one 
 
 ---
 
+
 <a id="2018-mains-essay-q3"></a>
 ## Section A — Q3. Poverty anywhere is a threat to prosperity everywhere
 
@@ -186,6 +189,7 @@ Prosperity and poverty are thus not separate worlds connected only by charity. T
 **Why this earns marks:** It supplies mechanisms rather than slogans, avoids blaming or instrumentalising the poor, and joins capability, growth, public goods, democracy and global interdependence.
 
 ---
+
 
 <a id="2018-mains-essay-q4"></a>
 ## Section A — Q4. Management of Indian border disputes — a complex task
@@ -248,6 +252,7 @@ India thus needs neither militarisation as the sole language of borders nor dipl
 
 ---
 
+
 <a id="2018-mains-essay-q5"></a>
 ## Section B — Q5. Customary morality cannot be a guide to modern life
 
@@ -306,6 +311,7 @@ The moral guide to modern life must therefore be neither age nor novelty, but ju
 **Why this earns marks:** It interprets “cannot” as rejection of final authority rather than all tradition, fairly states custom’s value, and reaches a constitutional yet non-coercive synthesis.
 
 ---
+
 
 <a id="2018-mains-essay-q6"></a>
 ## Section B — Q6. 'The past' is a permanent dimension of human consciousness and values
@@ -368,6 +374,7 @@ The past is therefore permanent not as a chain but as a dimension. We cannot ste
 
 ---
 
+
 <a id="2018-mains-essay-q7"></a>
 ## Section B — Q7. A people that values its privileges above its principles loses both
 
@@ -428,6 +435,7 @@ People lose privilege and principle together because domination provokes resista
 **Why this earns marks:** It carefully separates privilege from rights and remedial justice, explains the self-defeating mechanism, and applies reciprocal principle across politics, markets and global order.
 
 ---
+
 
 <a id="2018-mains-essay-q8"></a>
 ## Section B — Q8. Reality does not conform to the ideal, but confirms it

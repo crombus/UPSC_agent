@@ -6,12 +6,52 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 7
-- **Stable linked anchors:** 7
-- **Paper concentration:** Philosophy Paper I: 7
-- **Marks represented:** 110 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** 2026-philosophy-p1-q4c; verification theory · strong and weak verifiability; analytic and empirical meaning · verification; verification and rejection of metaphysics; verification and elimination of metaphysics; verification and pseudostatements; general statements and metaphysics
+- **Released years represented:** 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 12
+- **Stable linked anchors:** 12
+- **Paper concentration:** Philosophy Paper I: 12
+- **Marks represented:** 180 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** 2026-philosophy-p1-q4c; verification theory · strong and weak verifiability; analytic and empirical meaning · verification; verification and rejection of metaphysics; verification and elimination of metaphysics; verification and pseudostatements; general statements and metaphysics; verification and analytic meaning; verification and metaphysics; verification principle; necessity and analyticity
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** necessity and analyticity
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** verification principle
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** verification and metaphysics
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** verification and analytic meaning
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** verification and rejection of metaphysics
 
 ## 2019 concentration
 
@@ -112,3 +152,33 @@
 #### Philosophy Paper I
 
 - [Q2(a). How do the logical positivists account for the meaning of general statements? Can the same account be applied to metaphysical statements? Discuss.](../../papers/2019/philosophy-paper-1.md#2019-philosophy-p1-q2a) — general statements and metaphysics · 20 marks
+
+### 2018
+
+#### Philosophy Paper I
+
+- [Q3(b). How do the logical positivists show that metaphysical sentences are meaningless? Can their verification theory of meaning account for the meaningfulness of all scientific sentences? Discuss.](../../papers/2018/philosophy-paper-1.md#2018-philosophy-p1-q3b) — verification and rejection of metaphysics · 15 marks
+
+### 2017
+
+#### Philosophy Paper I
+
+- [Q4(b). Does the sentence, ‘Whatever is coloured is extended’, satisfy the criterion of meaningfulness proposed by the logical positivists? Explain.](../../papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q4b) — verification and analytic meaning · 15 marks
+
+### 2016
+
+#### Philosophy Paper I
+
+- [Q1(d). Explain verification theory. Does it lead to elimination of metaphysics?](../../papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q1d) — verification and metaphysics · 10 marks
+
+### 2014
+
+#### Philosophy Paper I
+
+- [Q3(a). Are empirical statements conclusively verifiable ? Discuss the limitations of ‘verification theory of meaning’.](../../papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q3a) — verification principle · 20 marks
+
+### 2013
+
+#### Philosophy Paper I
+
+- [Q1(c). Distinguish necessary from empirical propositions. How is a necessary proposition justified ? Explain.](../../papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1c) — necessity and analyticity · 10 marks

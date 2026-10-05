@@ -6,12 +6,52 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 13
-- **Stable linked anchors:** 13
-- **Paper concentration:** Philosophy Paper II: 13
-- **Marks represented:** 185 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** virtue ethics and civic education · moral formation versus institutional opportunity; Kantian retributivism and deterrence · desert versus consequences; Corruption · particularistic loyalty versus universal public norms; Capital Punishment · right to life; Capital punishment and deterrence; Proportionality · juvenile justice; Corruption · structure and agency; Capital punishment · moral justification; Reformative punishment · dignity; retribution · proportionality · human rights; corruption · regime conditions · institutional ethics; corruption · structural violence; capital punishment · social justice
+- **Released years represented:** 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 19
+- **Stable linked anchors:** 19
+- **Paper concentration:** Philosophy Paper II: 19
+- **Marks represented:** 270 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** virtue ethics and civic education · moral formation versus institutional opportunity; Kantian retributivism and deterrence · desert versus consequences; Corruption · particularistic loyalty versus universal public norms; Capital Punishment · right to life; Capital punishment and deterrence; Proportionality · juvenile justice; Corruption · structure and agency; Capital punishment · moral justification; Reformative punishment · dignity; retribution · proportionality · human rights; corruption · regime conditions · institutional ethics; corruption · structural violence; capital punishment · social justice; corruption · democratic accountability; capital punishment · proportionality · deterrence; crimes against women · punishment · social attitudes; reformative theory · proportionality · public protection; retribution · moral law · dignity; retributive and restorative justice
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** retributive and restorative justice
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** retribution · moral law · dignity
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** reformative theory · proportionality · public protection
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Philosophy Paper II: 2
+- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** capital punishment · proportionality · deterrence; crimes against women · punishment · social attitudes
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Philosophy Paper II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** corruption · democratic accountability
 
 ## 2019 concentration
 
@@ -131,3 +171,34 @@
 
 - [Q1(d). Is corruption not a form of mass violence? Discuss.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q1d) — corruption · structural violence · 10 marks
 - [Q4(c). Does capital punishment weaken the doctrine of social justice? Discuss.](../../papers/2019/philosophy-paper-2.md#2019-philosophy-p2-q4c) — capital punishment · social justice · 15 marks
+
+### 2018
+
+#### Philosophy Paper II
+
+- [Q1(e). What measures do you suggest to eradicate corruption in Indian democracy?](../../papers/2018/philosophy-paper-2.md#2018-philosophy-p2-q1e) — corruption · democratic accountability · 10 marks
+
+### 2017
+
+#### Philosophy Paper II
+
+- [Q3(b). Can you justify capital punishment for crimes like rape, murder and corruption? Discuss.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q3b) — capital punishment · proportionality · deterrence · 15 marks
+- [Q4(c). Will a severe punishment for crimes against women change the mind-set of society? Justify your position.](../../papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q4c) — crimes against women · punishment · social attitudes · 15 marks
+
+### 2016
+
+#### Philosophy Paper II
+
+- [Q1(e). “The goal in punishing should be to reform the individual.” Comment.](../../papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q1e) — reformative theory · proportionality · public protection · 10 marks
+
+### 2015
+
+#### Philosophy Paper II
+
+- [Q3(b). “The aim of punishment is to defend the moral law and to do justice to criminal.” Discuss.](../../papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q3b) — retribution · moral law · dignity · 15 marks
+
+### 2014
+
+#### Philosophy Paper II
+
+- [Q2(a). Which theory of punishment, retributive or restorative, do you recommend and why?](../../papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q2a) — retributive and restorative justice · 20 marks

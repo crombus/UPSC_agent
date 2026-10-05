@@ -6,11 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2021, 2023, 2024
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Prelims GS-I: 3
-- **Subtopics represented:** Archaeological Site-State-Description matching (Chandraketugarh, Inamgaon, Mangadu, Salihundam); Ancient Indian literary works matched with their authors; Prehistoric sites Burzahom Chandraketugarh Ganeshwar features
+- **Released years represented:** 2018, 2021, 2023, 2024
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 3
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Archaeological Site-State-Description matching (Chandraketugarh, Inamgaon, Mangadu, Salihundam); Ancient Indian literary works matched with their authors; Prehistoric sites Burzahom Chandraketugarh Ganeshwar features; Foreign travellers
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Foreign travellers
 
 ## 2021 concentration
 
@@ -52,3 +61,9 @@
 #### Prelims GS-I
 
 - [Q37. Prehistoric sites Burzahom Chandraketugarh Ganeshwar features](../../papers/2021/prelims-gs1.md#2021-prelims-gs1-q37) — Prehistoric sites Burzahom Chandraketugarh Ganeshwar features
+
+### 2018
+
+#### Mains GS-I
+
+- [Q2. Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India.](../../papers/2018/mains-gs1.md#2018-mains-gs1-q02) — Foreign travellers · 10 marks

@@ -76,3 +76,11 @@ None within the user-owned paper and review files. Shared catalogue, status, que
 ## Reviewer conclusion
 
 **PASS — all 20 exact official questions are transcribed, anchored, routed and solved with complete metadata, demand decoding, compact frameworks, proportional answers, verified 2018-era data/policies/laws/technical mechanisms and point-in-time discipline.**
+
+## 2026-10-05 shared historical-merit integration addendum
+
+The deferred shared integration is complete. All **20** routed anchors now use canonical
+topic-page routes, have exact reverse links, appear in every cross-year index, and preserve the
+paper-specific source, marks and key qualifications recorded above.
+
+**Final release conclusion: PASS.**

@@ -6,12 +6,20 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2023, 2024
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 1
+- **Released years represented:** 2015, 2023, 2024
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-III: 2; Prelims GS-I: 1
+- **Marks represented:** 20 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** '100 Million Farmers' platform description; Production and Marketing; Digital farm services
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
 - **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** '100 Million Farmers' platform description; Production and Marketing
+- **Subtopics represented:** Digital farm services
 
 ## 2023 concentration
 
@@ -41,3 +49,9 @@
 #### Mains GS-III
 
 - [Q3. e-Technology in aid of farmers](../../papers/2023/mains-gs3.md#2023-mains-gs3-q03) — Production and Marketing · 10 marks
+
+### 2015
+
+#### Mains GS-III
+
+- [Q4. Digital India for farm productivity and income](../../papers/2015/mains-gs3.md#2015-mains-gs3-q04) — Digital farm services · 10 marks

@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2025, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 5
+- **Released years represented:** 2016, 2019, 2020, 2022, 2025, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 6
 - **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Epigraphy; Ashokan inscriptions - Pradeshika, Rajuka and Yukta officers; Kautilya Arthashastra provisions on slavery and legal status; Ashoka major rock edicts and location by Indian state; Royal inscription on religious tolerance and self-glorification; Ashoka stone portrait in relief sculpture inscriptions
+- **Subtopics represented:** Epigraphy; Ashokan inscriptions - Pradeshika, Rajuka and Yukta officers; Kautilya Arthashastra provisions on slavery and legal status; Ashoka major rock edicts and location by Indian state; Royal inscription on religious tolerance and self-glorification; Ashoka stone portrait in relief sculpture inscriptions; Decipherment of Ashokan edicts
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Decipherment of Ashokan edicts
 
 ## 2019 concentration
 
@@ -81,3 +88,9 @@
 #### Prelims GS-I
 
 - [Q8. Ashoka stone portrait in relief sculpture inscriptions](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q08) — Ashoka stone portrait in relief sculpture inscriptions
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q39. Decipherment of Ashokan edicts](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q039) — Decipherment of Ashokan edicts

@@ -105,3 +105,11 @@ are outside this assignment’s explicit “no shared edits” ownership boundar
 - **Mandatory question-level review: PASS — 8/8**
 - **Owned-paper transcription, classification, solution depth, anchors, slugs and forward links: PASS**
 - **Shared repository release integration: BLOCKED — requires shared-owner updates**
+
+## 2026-10-05 shared historical-merit integration addendum
+
+The deferred shared integration is complete. All **8** routed anchors now use canonical
+topic-page routes, have exact reverse links, appear in every cross-year index, and preserve the
+paper-specific source, marks and key qualifications recorded above.
+
+**Final release conclusion: PASS.**

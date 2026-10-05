@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2025, 2026
-- **Solved answerable questions/parts:** 3
-- **Stable linked anchors:** 3
-- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 2
+- **Released years represented:** 2017, 2025, 2026
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-III: 1; Prelims GS-I: 3
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** DHRUV64 processor, DIR-V programme, and indigenous computing capability; Indian semiconductor plants and their announced state-level manufacturing locations; Semiconductor Mission
+- **Subtopics represented:** DHRUV64 processor, DIR-V programme, and indigenous computing capability; Indian semiconductor plants and their announced state-level manufacturing locations; Semiconductor Mission; Advantages of OLED displays
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Advantages of OLED displays
 
 ## 2025 concentration
 
@@ -42,3 +49,9 @@
 #### Mains GS-III
 
 - [Q16. Semiconductor manufacturing and India Semiconductor Mission](../../papers/2025/mains-gs3.md#2025-mains-gs3-q16) — Semiconductor Mission · 15 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q74. Advantages of OLED displays](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q074) — Advantages of OLED displays

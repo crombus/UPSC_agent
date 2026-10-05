@@ -6,13 +6,21 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2022, 2025
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Mains GS-III: 2
-- **Marks represented:** 25 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Coastal Architecture; Maritime-security architecture
+- **Released years represented:** 2014, 2022, 2025
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-III: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Coastal Architecture; Maritime-security architecture; Anti-piracy operations
 - **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Anti-piracy operations
 
 ## 2022 concentration
 
@@ -43,6 +51,12 @@
 #### Mains GS-III
 
 - [Q10. Maritime-security challenges and initiatives](../../papers/2022/mains-gs3.md#2022-mains-gs3-q10) — Maritime-security architecture · 10 marks
+
+### 2014
+
+#### Mains GS-III
+
+- [Q19. Piracy high-risk-area expansion and India](../../papers/2014/mains-gs3.md#2014-mains-gs3-q19) — Anti-piracy operations · 15 marks
 
 ## Secondary-routed PYQs
 

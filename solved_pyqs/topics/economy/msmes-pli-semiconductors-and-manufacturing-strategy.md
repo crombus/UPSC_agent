@@ -6,12 +6,19 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2023, 2025, 2026
-- **Solved answerable questions/parts:** 6
-- **Stable linked anchors:** 6
-- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 3
+- **Released years represented:** 2016, 2023, 2025, 2026
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-III: 3; Prelims GS-I: 4
 - **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Mixchange role in MSME invoice and bill discounting finance; Startup Ecosystem; Production Linked Incentive; MSMED Act medium enterprise investment limits and bank credit; India global export share and Production Linked Incentive scheme; MSMEs
+- **Subtopics represented:** Mixchange role in MSME invoice and bill discounting finance; Startup Ecosystem; Production Linked Incentive; MSMED Act medium enterprise investment limits and bank credit; India global export share and Production Linked Incentive scheme; MSMEs; Pradhan Mantri MUDRA Yojana
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Pradhan Mantri MUDRA Yojana
 
 ## 2023 concentration
 
@@ -65,3 +72,9 @@
 #### Mains GS-III
 
 - [Q1. Manufacturing growth and MSME policy](../../papers/2023/mains-gs3.md#2023-mains-gs3-q01) — MSMEs · 10 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q73. Pradhan Mantri MUDRA Yojana](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q073) — Pradhan Mantri MUDRA Yojana

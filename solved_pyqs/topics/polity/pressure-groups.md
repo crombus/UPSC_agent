@@ -6,12 +6,28 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2021, 2025, 2026
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-II: 4
-- **Marks represented:** 50 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Pluralism and capture; Environmental advocacy; Business associations; Farmers’ organisations
+- **Released years represented:** 2013, 2017, 2019, 2021, 2025, 2026
+- **Solved answerable questions/parts:** 6
+- **Stable linked anchors:** 6
+- **Paper concentration:** Mains GS-II: 6
+- **Marks represented:** 70 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Pluralism and capture; Environmental advocacy; Business associations; Farmers’ organisations; Formal and informal influence; Structure and functioning
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Structure and functioning
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Formal and informal influence
 
 ## 2019 concentration
 
@@ -70,3 +86,15 @@
 #### Mains GS-II
 
 - [Q3. What are the methods used by the farmers’ organisations to influence the policy-makers in India and how effective are these methods?](../../papers/2019/mains-gs2.md#2019-mains-gs2-q03) — Farmers’ organisations · 10 marks
+
+### 2017
+
+#### Mains GS-II
+
+- [Q4. How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as more powerful than formal pressure groups in recent years?](../../papers/2017/mains-gs2.md#2017-mains-gs2-q04) — Formal and informal influence · 10 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q10. Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q10) — Structure and functioning · 10 marks

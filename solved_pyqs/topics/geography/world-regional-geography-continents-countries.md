@@ -6,11 +6,41 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2025
-- **Solved answerable questions/parts:** 17
-- **Stable linked anchors:** 17
-- **Paper concentration:** Prelims GS-I: 17
-- **Subtopics represented:** Countries through which the Andes mountains pass; Water bodies through which the equator passes; Countries with more than four time zones; Region-country pairs (Mallorca, Normandy, Sardinia); World's two largest cocoa producers; Countries bordering the North Sea; World's largest tropical peatland region; Longest land border between any two countries in the world (Canada-USA); Congo Basin member countries in Africa; Countries sharing land borders with Ukraine; West African lake drying into desert identification; Levant term geographical region identification; Countries sharing border with Afghanistan identification; Vietnam economy governance and global supply chain profile; Regions Anatolia Amhara Cabo Delgado Catalonia country matching; World rivers Mekong Thames Volga Zambezi flow destinations; Countries bordering major seas of the world
+- **Released years represented:** 2013, 2014, 2015, 2017, 2019, 2020, 2022, 2023, 2024, 2025
+- **Solved answerable questions/parts:** 26
+- **Stable linked anchors:** 26
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 25
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Countries through which the Andes mountains pass; Water bodies through which the equator passes; Countries with more than four time zones; Region-country pairs (Mallorca, Normandy, Sardinia); World's two largest cocoa producers; Countries bordering the North Sea; World's largest tropical peatland region; Longest land border between any two countries in the world (Canada-USA); Congo Basin member countries in Africa; Countries sharing land borders with Ukraine; West African lake drying into desert identification; Levant term geographical region identification; Countries sharing border with Afghanistan identification; Vietnam economy governance and global supply chain profile; Regions Anatolia Amhara Cabo Delgado Catalonia country matching; World rivers Mekong Thames Volga Zambezi flow destinations; Countries bordering major seas of the world; Mediterranean-bordering countries; Great Nicobar's nearest island; Countries of South-West Asia does not open out to the Mediterranean Sea?; the following pairs :; Turkey is located between; What is the correct sequence of occurrence of the following cities in South-East Asia as one...; India–Africa resource partnership; Which one of the following pairs is correctly matched? Geographical Feature : Region; "Climate is extreme, rainfall is scanty and the people used to be nomadic herders." The above statemen...
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Which one of the following pairs is correctly matched? Geographical Feature : Region; "Climate is extreme, rainfall is scanty and the people used to be nomadic herders." The above statemen...
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 3
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** the following pairs :; Turkey is located between; What is the correct sequence of occurrence of the following cities in South-East Asia as one...; India–Africa resource partnership
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Countries of South-West Asia does not open out to the Mediterranean Sea?
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Mediterranean-bordering countries; Great Nicobar's nearest island
 
 ## 2019 concentration
 
@@ -102,3 +132,35 @@
 #### Prelims GS-I
 
 - [Q36. Countries bordering major seas of the world](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q36) — Countries bordering major seas of the world
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q54. Mediterranean-bordering countries](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q054) — Mediterranean-bordering countries
+- [Q98. Great Nicobar's nearest island](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q098) — Great Nicobar's nearest island
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q77. Countries of South-West Asia does not open out to the Mediterranean Sea?](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q077) — Countries of South-West Asia does not open out to the Mediterranean Sea?
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q36. the following pairs :](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q036) — the following pairs :
+- [Q51. Turkey is located between](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q051) — Turkey is located between
+- [Q52. What is the correct sequence of occurrence of the following cities in South-East Asia as one...](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q052) — What is the correct sequence of occurrence of the following cities in South-East Asia as one...
+
+#### Mains GS-I
+
+- [Q25. How does India see its place in the economic space of rising natural resource rich Africa?](../../papers/2014/mains-gs1.md#2014-mains-gs1-q25) — India–Africa resource partnership · 10 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q3. Which one of the following pairs is correctly matched? Geographical Feature : Region](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q003) — Which one of the following pairs is correctly matched? Geographical Feature : Region
+- [Q65. "Climate is extreme, rainfall is scanty and the people used to be nomadic herders." The above statemen...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q065) — "Climate is extreme, rainfall is scanty and the people used to be nomadic herders." The above statemen...

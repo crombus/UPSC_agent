@@ -6,12 +6,59 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 20
-- **Stable linked anchors:** 20
-- **Paper concentration:** Mains GS-II: 5; Prelims GS-I: 15
-- **Marks represented:** 65 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** India's ratification status of major international labour and humanitarian conventions; Migration cooperation platforms and their binding or consultative character; United Nations agencies awarded the Nobel Prize on multiple occasions; United Nations peacekeeping operations matched with their operational periods; International Years and their designated years; Security Council reform; Counter-terrorism architecture; Country with decades of civil strife and famine; Global Compact for Safe Orderly and Regular Migration GCM; Conflict zones North Kivu Nagorno-Karabakh Kherson Zaporizhzhia; Conflict zones Donbas Kachin Tigray matched country locations; UN Credentials Committee structure mandate and functioning; International Polar Code purpose and scope; UN General Assembly observer status and Permanent Observers; Bidibidi and Dadaab refugee settlements in East Africa; Climate diplomacy; International declarations Alma-Ata Talanoa Under2 subject matching; World Health Organization; UNCAC UNTOC and UNODC international conventions mandates; UNESCO finance and politicisation
+- **Released years represented:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 31
+- **Stable linked anchors:** 31
+- **Paper concentration:** Mains GS-II: 10; Prelims GS-I: 21
+- **Marks represented:** 122.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** India's ratification status of major international labour and humanitarian conventions; Migration cooperation platforms and their binding or consultative character; United Nations agencies awarded the Nobel Prize on multiple occasions; United Nations peacekeeping operations matched with their operational periods; International Years and their designated years; Security Council reform; Counter-terrorism architecture; Country with decades of civil strife and famine; Global Compact for Safe Orderly and Regular Migration GCM; Conflict zones North Kivu Nagorno-Karabakh Kherson Zaporizhzhia; Conflict zones Donbas Kachin Tigray matched country locations; UN Credentials Committee structure mandate and functioning; International Polar Code purpose and scope; UN General Assembly observer status and Permanent Observers; Bidibidi and Dadaab refugee settlements in East Africa; Climate diplomacy; International declarations Alma-Ata Talanoa Under2 subject matching; World Health Organization; UNCAC UNTOC and UNODC international conventions mandates; UNESCO finance and politicisation; Countries facing severe famine due to war and conflict; UN-Habitat's role and reporting; ECOSOC and functional commissions; Organization for the Prohibition of Chemical Weapons; Doctors Without Borders; New Development Bank; MacBride Commission and information order; Consider the following countries; UNSC reform; Tied aid and development finance; Bretton Woods institutions
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Bretton Woods institutions
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Tied aid and development finance
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Consider the following countries; UNSC reform
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 4
+- **Stable linked anchors:** 4
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 3
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Organization for the Prohibition of Chemical Weapons; Doctors Without Borders; New Development Bank; MacBride Commission and information order
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** UN-Habitat's role and reporting; ECOSOC and functional commissions
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Countries facing severe famine due to war and conflict
 
 ## 2019 concentration
 
@@ -135,3 +182,53 @@
 #### Mains GS-II
 
 - [Q10. “Too little cash, too much politics, leaves UNESCO fighting for life.” Discuss the statement in the light of US’ withdrawal and its accusation of the cultural body as being ‘anti-Israel bias’.](../../papers/2019/mains-gs2.md#2019-mains-gs2-q10) — UNESCO finance and politicisation · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q18. Countries facing severe famine due to war and conflict](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q18) — Countries facing severe famine due to war and conflict
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q60. UN-Habitat's role and reporting](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q060) — UN-Habitat's role and reporting
+
+#### Mains GS-II
+
+- [Q10. What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q10) — ECOSOC and functional commissions · 10 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q20. Organization for the Prohibition of Chemical Weapons](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q020) — Organization for the Prohibition of Chemical Weapons
+- [Q51. Doctors Without Borders](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q051) — Doctors Without Borders
+- [Q67. New Development Bank](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q067) — New Development Bank
+
+#### Mains GS-II
+
+- [Q20. What are the aims and objectives of the McBride Commission of the UNESCO? What is India’s position on these?](../../papers/2016/mains-gs2.md#2016-mains-gs2-q20) — MacBride Commission and information order · 12.5 marks
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q88. Consider the following countries](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q088) — Consider the following countries
+
+#### Mains GS-II
+
+- [Q18. Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council.](../../papers/2015/mains-gs2.md#2015-mains-gs2-q18) — UNSC reform · 12.5 marks
+
+### 2014
+
+#### Mains GS-II
+
+- [Q18. Some of the International funding agencies have special terms for economic participation stipulating a substantial component of the aid to be used for sourcing equipment from the leading countries. Discuss on merits of such terms and if, there exists a strong case not to accept such conditions in the Indian context.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q18) — Tied aid and development finance · 12.5 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q25. The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world’s economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q25) — Bretton Woods institutions · 10 marks

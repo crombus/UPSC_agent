@@ -6,12 +6,43 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
-- **Solved answerable questions/parts:** 15
-- **Stable linked anchors:** 15
-- **Paper concentration:** Mains GS-II: 8; Prelims GS-I: 7
-- **Marks represented:** 105 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Judicial legislation; Constitutional morality, independence and accountability; Judicial appointments; Writ of Prohibition; PIL and judicial power; Judicial independence; Contempt of Courts Act and constitutional court powers; Advocates recognition and Bar Council powers India; Environmental constitutionalism; Retired Supreme Court judges and High Court powers; Judicial diversity; PIL and judicial guidelines; Impeachment process for Supreme Court judges India; Article 142 and Supreme Court constitutional authority; High Court jurisdiction and Supreme Court review powers
+- **Released years represented:** 2013, 2014, 2015, 2017, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026
+- **Solved answerable questions/parts:** 22
+- **Stable linked anchors:** 22
+- **Paper concentration:** Mains GS-II: 11; Prelims GS-I: 11
+- **Marks represented:** 137.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Judicial legislation; Constitutional morality, independence and accountability; Judicial appointments; Writ of Prohibition; PIL and judicial power; Judicial independence; Contempt of Courts Act and constitutional court powers; Advocates recognition and Bar Council powers India; Environmental constitutionalism; Retired Supreme Court judges and High Court powers; Judicial diversity; PIL and judicial guidelines; Impeachment process for Supreme Court judges India; Article 142 and Supreme Court constitutional authority; High Court jurisdiction and Supreme Court review powers; Judicial appointments and NJAC judgment; Who/Which of the following is the custodian of the Constitution of India?; The power of the Supreme Court of India to decide disputes between the Centre and the States...; The power to increase the number of judges in the Supreme Court of India is vested in; Judicial activism and constitutional democracy; With reference to National Legal Services Authority, consider the following statements: 1. Its objecti...; Judicial review of constitutional amendments
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** With reference to National Legal Services Authority, consider the following statements: 1. Its objecti...; Judicial review of constitutional amendments
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 2
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** The power of the Supreme Court of India to decide disputes between the Centre and the States...; The power to increase the number of judges in the Supreme Court of India is vested in; Judicial activism and constitutional democracy
+
+## 2015 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Who/Which of the following is the custodian of the Constitution of India?
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Judicial appointments and NJAC judgment
 
 ## 2019 concentration
 
@@ -141,3 +172,36 @@
 - [Q46. Impeachment process for Supreme Court judges India](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q46) — Impeachment process for Supreme Court judges India
 - [Q52. Article 142 and Supreme Court constitutional authority](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q52) — Article 142 and Supreme Court constitutional authority
 - [Q81. High Court jurisdiction and Supreme Court review powers](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q81) — High Court jurisdiction and Supreme Court review powers
+
+### 2017
+
+#### Mains GS-II
+
+- [Q2. Critically examine the Supreme Court’s judgement on ‘National Judicial Appointments Commission Act, 2014’ with reference to appointment of judges of higher judiciary in India.](../../papers/2017/mains-gs2.md#2017-mains-gs2-q02) — Judicial appointments and NJAC judgment · 10 marks
+
+### 2015
+
+#### Prelims GS-I
+
+- [Q61. Who/Which of the following is the custodian of the Constitution of India?](../../papers/2015/prelims-gs1.md#2015-prelims-gs1-q061) — Who/Which of the following is the custodian of the Constitution of India?
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q71. The power of the Supreme Court of India to decide disputes between the Centre and the States...](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q071) — The power of the Supreme Court of India to decide disputes between the Centre and the States...
+- [Q75. The power to increase the number of judges in the Supreme Court of India is vested in](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q075) — The power to increase the number of judges in the Supreme Court of India is vested in
+
+#### Mains GS-II
+
+- [Q1. Starting from inventing the ‘basic structure’ doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q01) — Judicial activism and constitutional democracy · 12.5 marks
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q71. With reference to National Legal Services Authority, consider the following statements: 1. Its objecti...](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q071) — With reference to National Legal Services Authority, consider the following statements: 1. Its objecti...
+
+#### Mains GS-II
+
+- [Q4. ‘The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution.’ Discuss critically.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q04) — Judicial review of constitutional amendments · 10 marks

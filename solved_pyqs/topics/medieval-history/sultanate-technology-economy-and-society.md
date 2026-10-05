@@ -6,12 +6,26 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2021, 2022, 2023
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 3
+- **Released years represented:** 2014, 2016, 2019, 2021, 2022, 2023
+- **Solved answerable questions/parts:** 7
+- **Stable linked anchors:** 7
+- **Paper concentration:** Mains GS-I: 1; Prelims GS-I: 6
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Technology and social change; Fanam medieval Indian monetary terminology; Medieval rulers matched with contemporary historical events; Revenue administration institutions in Delhi Sultanate
+- **Subtopics represented:** Technology and social change; Fanam medieval Indian monetary terminology; Medieval rulers matched with contemporary historical events; Revenue administration institutions in Delhi Sultanate; Banjaras in medieval India; Araghatta; In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Banjaras in medieval India; Araghatta
 
 ## 2019 concentration
 
@@ -67,3 +81,16 @@
 #### Prelims GS-I
 
 - [Q12. Revenue administration institutions in Delhi Sultanate](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q12) — Revenue administration institutions in Delhi Sultanate
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q38. Banjaras in medieval India](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q038) — Banjaras in medieval India
+- [Q88. Araghatta](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q088) — Araghatta
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q21. In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q021) — In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for

@@ -1,12 +1,13 @@
-# Final Release Report — Solved PYQs 2019–2026
+# Final Release Report — Solved PYQs 2013–2026
 
 **Release date:** 2026-10-05  
 **Conclusion:** **PASS**
 
 ## Scope
 
-The release covers exactly eight years, **2019–2026**, and all eleven instructed paper families
-for each year:
+The release covers the complete **2019–2026** corpus with all eleven instructed paper families,
+plus the **2013–2018 historical merit tiers** with the same merit papers but no qualifying Hindi
+or English.
 
 1. Prelims GS-I
 2. Prelims CSAT
@@ -32,28 +33,100 @@ for each year:
 5. Rebuilt all topic pages and the paper-, subject-, topic- and year-wise indexes from that metadata.
 6. Generated exact year, paper, subject, topic and subtopic concentration tables; represented marks
    were counted only where structurally valid.
-7. Re-read all 88 review records and performed first/middle/last answer-quality spot checks for
-   every year × paper-family combination.
+7. Re-read all 142 review records and performed first/middle/last answer-quality spot checks for
+   every in-scope year × paper-family combination.
 8. Ran the mandatory post-pass checks for inventory, anchors, routes, counts, marks, links,
    duplication, residue, language, key provenance and source qualifications.
+9. Revalidated all 65 historical source records against their local SHA-256 hashes and confirmed
+   that the 2013–2018 tier correctly expects no qualifying-language papers.
+10. Ran the complete generator twice and confirmed an unchanged second pass.
 
 ## Exact totals
 
 | Metric | Total |
 |---|---:|
-| Years | 8 |
-| Paper files | 88 |
-| Review records | 88 |
-| Answerable solved units | 3,416 |
-| Routed stable anchors | 3,600 |
-| Explicit paper anchors | 3,601 |
-| Canonical topic pages | 353 |
-| Primary reverse topic links | 3,600 |
-| Justified secondary topic routes | 9 |
-| Represented Mains/Philosophy marks | 32,000 |
+| Years represented | 14 |
+| Paper files | 142 |
+| Review records | 142 |
+| Answerable solved units | 5,381 |
+| Routed stable anchors | 5,565 |
+| Explicit paper anchors | 6,046 |
+| Canonical topic pages | 357 |
+| Primary reverse topic links | 5,565 |
+| Justified secondary topic routes | 131 |
+| Represented Mains/Philosophy marks | 48,800 |
+| Historical source records hash-verified | 65 |
 
-The one non-routed explicit anchor is the preserved 2026 English source-fidelity note confirming
-that no translation task exists.
+The 481 non-routed explicit anchors are the 480 preserved 2013–2018 CSAT booklet-transcription targets
+and the 2026 English source-fidelity note confirming that no translation task exists.
+
+## 2013 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; nil dropped.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; nil dropped.
+- Essay: **4** official topics in the inaugural unsectioned pattern; one essay of **250 marks**, with
+  all four alternatives solved and **1,000 represented marks**.
+- GS-I: **25 numbered questions / 30 answer-parts / 250 marks**, preserving the mixed 10-mark
+  (200-word) and 5-mark (100-word) pattern.
+- GS-II: **25 questions × 10 marks = 250 marks**.
+- GS-III: **25 numbered questions / 28 answer-parts / 250 marks**, preserving split Q9, Q16 and Q17.
+- GS-IV: **18 separately marked units / 250 marks**, preserving the inaugural theory and case-study
+  pattern, including Q11 as one 25-mark case.
+- Philosophy Paper I: **34 selectable parts / 400 represented / 250 attempted marks**.
+- Philosophy Paper II: **28 selectable parts / 400 represented / 250 attempted marks**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
+
+## 2014 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; all 100 scored.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; the final table
+  scored 74 items, left Q70-Q75 blank, and recorded nil formally dropped.
+- Essay: **8** official prompts.
+- GS-I: **25 questions × 10 marks = 250 marks**.
+- GS-II and GS-III: **20 questions / 250 marks each**.
+- GS-IV: **19 units / 250 marks** (13 theory parts and six case studies).
+- Philosophy Paper I and II: **28 selectable parts / 400 represented / 250 attempted marks each**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
+
+## 2015 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; nil dropped.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; Q51 dropped.
+- Essay: **8** official prompts.
+- GS-I, GS-II and GS-III: **20 questions × 12½ marks = 250 marks each**.
+- GS-IV: **18 units / 250 marks** (12 theory units and six case studies).
+- Philosophy Paper I and II: **28 selectable parts / 400 represented / 250 attempted marks each**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
+
+## 2016 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; nil dropped.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; nil dropped.
+- Essay: **8** official prompts.
+- GS-I, GS-II and GS-III: **20 questions × 12½ marks = 250 marks each**.
+- GS-IV: **18 units / 250 marks** (12 theory units and six case studies).
+- Philosophy Paper I and II: **28 selectable parts / 400 represented / 250 attempted marks each**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
+
+## 2017 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; nil dropped.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; nil dropped.
+- Essay: **8** official prompts.
+- GS-I, GS-II and GS-III: **20 questions / 250 marks each**.
+- GS-IV: **19 units / 250 marks** (13 theory parts and six case studies).
+- Philosophy Paper I and II: **28 selectable parts / 400 represented / 250 attempted marks each**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
+
+## 2018 historical merit reconciliation
+
+- Prelims GS-I: **100** official-final Series-A questions; nil dropped.
+- CSAT: **80** official-final Series-A solved units plus 80 transcription targets; nil dropped.
+- Essay: **8** official prompts.
+- GS-I, GS-II and GS-III: **20 questions / 250 marks each**.
+- GS-IV: **19 units / 250 marks** (13 theory parts and six case studies).
+- Philosophy Paper I and II: **28 selectable parts / 400 represented / 250 attempted marks each**.
+- Qualifying Hindi and English: correctly **out of scope** for the historical merit tier.
 
 ## 2019 release reconciliation
 
@@ -84,32 +157,51 @@ that no translation task exists.
 9. Rebuilt all four shared indexes and created complete concentration, metadata, quality-check and
    machine-audit artifacts.
 10. Reconciled README, status, execution queue and review log to the final whole-corpus state.
+11. Integrated all nine 2017 merit papers, added the missing decolonization canonical route, and
+    generated exact reverse links and cross-year concentration metadata without changing solutions.
+12. Integrated all nine 2016 merit papers, preserving exact 12½-mark GS accounting, official-final
+    Prelims/CSAT provenance, 322 answerable units, and exact bidirectional canonical-topic routes.
+13. Integrated all nine 2015 merit papers, preserving the official-final GS-I key, official-final
+    CSAT key with Q51 dropped, exact 12½-mark GS accounting, 322 answerable units, and canonical
+    bidirectional routes without changing the released 2016–2026 paper content.
+14. Integrated all nine 2014 merit papers, preserving official-final GS-I and CSAT provenance,
+    the CSAT Q70-Q75 blank final-key cells, 328 answerable units, 2,800 represented marks and exact
+    bidirectional canonical-topic routes without changing the released 2015–2026 paper content.
+15. Integrated all nine 2013 merit papers, preserving official-final Series-A provenance, the exact
+    inaugural Essay and GS-I–IV structures, 347 answerable units, 2,800 represented marks and exact
+    bidirectional canonical-topic routes without changing the released 2014–2026 paper content.
+16. Added release-gate validation for exact review inventory, stable-ID form, canonical topic
+    slugs, historical source slots/hashes, intentional historical language-paper absence and
+    generation idempotence.
 
 No substantive released model answer was rewritten in this final integration pass.
 
 ## Validation results
 
-- Paper inventory: **88/88 PASS**.
-- Review inventory: **88/88 PASS**.
-- Primary routes: **3,600/3,600 PASS**.
-- Exact reverse topic links: **3,600/3,600 PASS**.
-- Unique explicit anchors: **3,601/3,601 PASS**.
-- Answerable-unit reconciliation: **3,416 PASS**.
-- Represented-mark reconciliation: **32,000 PASS**.
-- Relative Markdown links: **25,712 occurrences / 4,510 unique local targets**.
+- Paper inventory: **142/142 PASS**.
+- Review inventory: **142/142 PASS**.
+- Primary routes: **5,565/5,565 PASS**.
+- Exact reverse topic links: **5,565/5,565 PASS**.
+- Unique explicit anchors: **6,046/6,046 PASS**.
+- Answerable-unit reconciliation: **5,381 PASS**.
+- Represented-mark reconciliation: **48,800 PASS**.
+- Relative Markdown links: **40,359 occurrences / 7,172 unique local targets**.
 - Relative Markdown file targets: **0 missing**.
 - Explicit/heading anchor targets: **0 missing**.
 - Orphan paper questions: **0**.
 - Orphan topic links: **0**.
 - Duplicate canonical full solutions in topic pages: **0**.
 - TODO/placeholder/refusal/replacement-character residue: **0**.
-- Year × paper-family answer-quality spot checks: **88/88 PASS**.
+- Year × paper-family answer-quality spot checks: **142/142 PASS**.
+- Historical source records: **65/65 hash-verified PASS** (54 paper slots + 11 key records).
+- Historical qualifying-language expectation: **0; PASS**.
+- Generation idempotence: **PASS; second generation changed 0 files**.
 
 The machine-readable validation record is `catalogue/CORPUS-AUDIT.json`.
 
 ## Key-provenance caveats
 
-- 2019–2025 answer keys retain their released official-final status and every recorded
+- 2013–2025 answer keys retain their released official-final status and every recorded
   dropped/multiple-answer outcome.
 - Both repository-held 2026 keys remain explicitly **provisional**.
 - 2026 GS-I Q64 remains dropped (`X`) in the provisional key.
@@ -135,8 +227,21 @@ post-pass review all reconcile.
 
 ## Exact release artifacts
 
+- 2013 historical merit integration manifest:
+  `solved_pyqs/2013-RELEASE-FILE-CHANGES.txt` (**211 paths**).
+- 2014 historical merit integration manifest:
+  `solved_pyqs/2014-RELEASE-FILE-CHANGES.txt` (**198 paths**).
+- 2015 historical merit integration manifest:
+  `solved_pyqs/2015-RELEASE-FILE-CHANGES.txt` (**202 paths**).
+- 2016 historical merit integration manifest:
+  `solved_pyqs/2016-RELEASE-FILE-CHANGES.txt` (**201 paths**).
+- 2018 historical merit integration manifest:
+  `solved_pyqs/2018-RELEASE-FILE-CHANGES.txt` (**194 paths**).
+- 2017 historical merit integration manifest:
+  `solved_pyqs/2017-RELEASE-FILE-CHANGES.txt` (**192 paths**).
 - 2019 release manifest: `solved_pyqs/2019-RELEASE-FILE-CHANGES.txt` (**216 paths**).
-- Whole-corpus changed-path manifest: `solved_pyqs/FINAL-RELEASE-FILE-CHANGES.txt`
-  (**373 paths**).
+- Legacy 2019–2026 changed-path manifest: `solved_pyqs/FINAL-RELEASE-FILE-CHANGES.txt`.
+- Historical-expansion changed-path manifest:
+  `solved_pyqs/HISTORICAL-EXPANSION-FILE-CHANGES.txt` (**486 paths**).
 - Final report: `solved_pyqs/FINAL-RELEASE-REPORT.md`.
 - Machine audit: `solved_pyqs/catalogue/CORPUS-AUDIT.json`.

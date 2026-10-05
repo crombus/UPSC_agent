@@ -6,12 +6,34 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2020, 2021, 2025
-- **Solved answerable questions/parts:** 10
-- **Stable linked anchors:** 10
-- **Paper concentration:** Mains GS-I: 4; Prelims GS-I: 6
-- **Marks represented:** 45 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Raja Ram Mohan Roy - thought and reform; Founder of the 'Self-Respect Movement' (Periyar); Jotirao Phule; Bethune Female School secretary social reform Calcutta; Young Bengal and Brahmo Samaj; Q3. Assess the main administrative issues and socio-cultural problems in the integration process of Indian Princely States.; Vital-Vidhvansak journal untouchable audience first publisher; Rakhmabai case 1884 women's rights age of consent; Social reform movement organizations and leaders matching; Reform and national identity
+- **Released years represented:** 2016, 2017, 2018, 2019, 2020, 2021, 2025
+- **Solved answerable questions/parts:** 13
+- **Stable linked anchors:** 13
+- **Paper concentration:** Mains GS-I: 5; Prelims GS-I: 8
+- **Marks represented:** 60 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Raja Ram Mohan Roy - thought and reform; Founder of the 'Self-Respect Movement' (Periyar); Jotirao Phule; Bethune Female School secretary social reform Calcutta; Young Bengal and Brahmo Samaj; Q3. Assess the main administrative issues and socio-cultural problems in the integration process of Indian Princely States.; Vital-Vidhvansak journal untouchable audience first publisher; Rakhmabai case 1884 women's rights age of consent; Social reform movement organizations and leaders matching; Reform and national identity; Chronological order of 19th century socio-religious reform events; Women’s reform; Satya Shodhak Samaj
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Satya Shodhak Samaj
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-I: 1
+- **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Women’s reform
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Chronological order of 19th century socio-religious reform events
 
 ## 2019 concentration
 
@@ -84,3 +106,21 @@
 #### Mains GS-I
 
 - [Q3. Examine the linkages between the nineteenth century's ‘Indian Renaissance’ and the emergence of national identity.](../../papers/2019/mains-gs1.md#2019-mains-gs1-q03) — Reform and national identity · 10 marks
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q80. Chronological order of 19th century socio-religious reform events](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q80) — Chronological order of 19th century socio-religious reform events
+
+### 2017
+
+#### Mains GS-I
+
+- [Q18. The women’s questions arose in modern India as a part of the 19th century social reform movement. What were the major issues and debates concerning women in that period?](../../papers/2017/mains-gs1.md#2017-mains-gs1-q18) — Women’s reform · 15 marks
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q58. Satya Shodhak Samaj](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q058) — Satya Shodhak Samaj

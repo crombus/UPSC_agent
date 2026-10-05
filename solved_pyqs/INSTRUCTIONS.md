@@ -278,3 +278,20 @@ A paper is complete only when:
 
 The overall library is complete only when all in-scope papers in both coverage tiers meet these
 criteria and the catalogues permit reliable paper-wise, topic-wise, and concentration-based study.
+
+## 12. Definitive Release Audit Baseline
+
+The released 2013–2026 baseline is:
+
+- 2019–2026: eleven papers per year, including qualifying Hindi and English.
+- 2013–2018: nine merit papers per year; qualifying Hindi and English are intentionally not
+  expected.
+- 142 paper files, 142 paper reviews, 5,381 answerable units, 5,565 routed anchors, 6,046 explicit
+  anchors, 357 canonical topic pages and 48,800 represented Mains/Philosophy marks.
+
+Run `python solved_pyqs/build_release_catalogue.py --idempotence` for a definitive release audit.
+It must finish `PASS`, report no second-pass changes, validate every relative Markdown file/anchor
+link, and verify all 65 records in
+`books/previous_papers_2013_2018/SOURCE-VALIDATION.json` against their local SHA-256 hashes.
+Preserve the 2026 provisional keys and GS-I Q64 dropped (`X`) semantics until authenticated
+official-final keys are available.

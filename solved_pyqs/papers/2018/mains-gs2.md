@@ -8,6 +8,7 @@
 
 ---
 
+
 <a id="2018-mains-gs2-q01"></a>
 ## Q1. In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India?
 **Primary route:** Polity → [Election Commission](../../topics/polity/election-commission.md) → Electoral integrity and EVM trust · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -39,6 +40,7 @@ In *Subramanian Swamy v. ECI* (2013), the Supreme Court treated the voter-verifi
 
 ---
 
+
 <a id="2018-mains-gs2-q02"></a>
 ## Q2. Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine.
 **Primary route:** Polity → [National Commissions for SC, ST and BC](../../topics/polity/national-commissions-sc-st-bc.md) → NCSC powers and minority institutions · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -68,6 +70,7 @@ The NCSC may still investigate discrimination, monitor applicable safeguards and
 **Why this earns marks:** It states the precise constitutional exception and correctly limits the NCSC’s enforcement capacity.
 
 ---
+
 
 <a id="2018-mains-gs2-q03"></a>
 ## Q3. Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force?
@@ -99,6 +102,7 @@ While it operates:
 **Why this earns marks:** It answers both limbs with the exact trigger, approval rules and constitutional consequences.
 
 ---
+
 
 <a id="2018-mains-gs2-q04"></a>
 ## Q4. Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee.
@@ -133,6 +137,7 @@ It cannot question settled policy or enforce recommendations. Unlike the Public 
 
 ---
 
+
 <a id="2018-mains-gs2-q05"></a>
 ## Q5. “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise.
 **Primary route:** Polity → [Comptroller and Auditor General](../../topics/polity/comptroller-and-auditor-general.md) → Independence and audit mandate · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -159,6 +164,7 @@ However, executive appointment without consultation and dependence on timely rec
 **Why this earns marks:** It links each independence safeguard to the CAG’s constitutional accountability function and avoids overstating its powers.
 
 ---
+
 
 <a id="2018-mains-gs2-q06"></a>
 ## Q6. “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations.
@@ -190,6 +196,7 @@ Different ministries optimise separate targets; cumulative impacts cross jurisdi
 **Why this earns marks:** It shows the causal link between policy silos and degradation through specific sectoral examples and legal principles.
 
 ---
+
 
 <a id="2018-mains-gs2-q07"></a>
 ## Q7. Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain.
@@ -227,6 +234,7 @@ Community intervention nevertheless needs reliable medicines, trained personnel,
 
 ---
 
+
 <a id="2018-mains-gs2-q08"></a>
 ## Q8. E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain.
 **Primary route:** Governance → [E-Governance Models and User-Centricity](../../topics/governance/e-governance-models-and-user-centricity.md) → Information use value · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -260,6 +268,7 @@ Merely computerising a defective process can reproduce opacity or exclusion. Ina
 
 ---
 
+
 <a id="2018-mains-gs2-q09"></a>
 ## Q9. “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss.
 **Primary route:** International Relations → [West Asia, Energy Security and Connectivity](../../topics/international-relations/west-asia-energy-security-and-connectivity.md) → India–Israel relations · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -290,6 +299,7 @@ This interdependence makes wholesale reversal unlikely. Yet energy, trade and di
 **Why this earns marks:** It substantiates depth across sectors and qualifies durability through India’s balanced West Asia policy.
 
 ---
+
 
 <a id="2018-mains-gs2-q10"></a>
 ## Q10. A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018.
@@ -322,6 +332,7 @@ However, sanctions on Iran, instability, weak last-mile links and customs delays
 **Why this earns marks:** It assesses the Agreement as a geoeconomic instrument within the stated great-power context.
 
 ---
+
 
 <a id="2018-mains-gs2-q11"></a>
 ## Q11. Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine.
@@ -362,6 +373,7 @@ Subsequent disputes over “services” demonstrate that adjudication may clarif
 
 ---
 
+
 <a id="2018-mains-gs2-q12"></a>
 ## Q12. How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India.
 **Primary route:** Polity → [Administrative Tribunals](../../topics/polity/administrative-tribunals.md) → Tribunal jurisdiction and constitutional validity · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -397,6 +409,7 @@ Tribunals are thus constitutionally valid when they provide competent, independe
 **Why this earns marks:** It answers “how far,” traces the controlling cases and evaluates both validity and practical competence.
 
 ---
+
 
 <a id="2018-mains-gs2-q13"></a>
 ## Q13. India and USA are two large democracies. Examine the basic tenets on which the two political systems are based.
@@ -434,6 +447,7 @@ India’s model prioritises responsible government and accommodation in a divers
 **Why this earns marks:** It compares governing principles and explains their consequences rather than merely listing features.
 
 ---
+
 
 <a id="2018-mains-gs2-q14"></a>
 ## Q14. How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss.
@@ -474,6 +488,7 @@ The ToR widened attention from equalisation to performance and macro-fiscal disc
 **Why this earns marks:** It separates constitutional composition and duties from the specific Fifteenth Commission mandate and its federal implications.
 
 ---
+
 
 <a id="2018-mains-gs2-q15"></a>
 ## Q15. Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects?
@@ -518,6 +533,7 @@ Better tax mapping, digital collection, audited accounts and empowered State Fin
 
 ---
 
+
 <a id="2018-mains-gs2-q16"></a>
 ## Q16. Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
 **Primary route:** Polity → [National Commissions for SC, ST and BC](../../topics/polity/national-commissions-sc-st-bc.md) → Specialised commissions and institutional design · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -559,6 +575,7 @@ The better model is **coordination without homogenisation**: a common digital in
 
 ---
 
+
 <a id="2018-mains-gs2-q17"></a>
 ## Q17. How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
 **Primary route:** Social Justice → [Food and Nutrition Security](../../topics/social-justice/food-and-nutrition-security.md) → Hunger and human development · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -594,6 +611,7 @@ Nevertheless, availability cannot be dismissed: drought, conflict, supply-chain 
 **Why this earns marks:** It directly evaluates “how far,” uses the entitlement framework and integrates availability with access and absorption.
 
 ---
+
 
 <a id="2018-mains-gs2-q18"></a>
 ## Q18. The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter.
@@ -641,6 +659,7 @@ The Second Administrative Reforms Commission advocated a citizen-centric, partic
 
 ---
 
+
 <a id="2018-mains-gs2-q19"></a>
 ## Q19. What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India?
 **Primary route:** International Relations → [Globalisation, Trade Agreements and External Policy Effects](../../topics/international-relations/globalisation-trade-agreements-and-external-policy-effects.md) → WTO reform and Indian interests · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -675,6 +694,7 @@ For India, multilateral rules protect against power-based bargaining, but reform
 **Why this earns marks:** It connects the trade-war context to institutional reforms and consistently tests each proposal against Indian interests.
 
 ---
+
 
 <a id="2018-mains-gs2-q20"></a>
 ## Q20. In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation?

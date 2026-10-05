@@ -6,12 +6,43 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2020, 2021, 2022, 2023, 2026
-- **Solved answerable questions/parts:** 5
-- **Stable linked anchors:** 5
-- **Paper concentration:** Mains GS-II: 3; Prelims GS-I: 2
-- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Diversity accommodation; Prison administration by State Governments Prisons Act 1894; Party system and State autonomy; Essential federal character feature of Indian polity; Cooperative, competitive and confrontational federalism
+- **Released years represented:** 2013, 2014, 2016, 2017, 2020, 2021, 2022, 2023, 2026
+- **Solved answerable questions/parts:** 10
+- **Stable linked anchors:** 10
+- **Paper concentration:** Mains GS-II: 6; Prelims GS-I: 4
+- **Marks represented:** 75.0 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Diversity accommodation; Prison administration by State Governments Prisons Act 1894; Party system and State autonomy; Essential federal character feature of Indian polity; Cooperative, competitive and confrontational federalism; Indian federalism and essential federal features; Non-feature of Indian federalism; Party competition and federalisation; Centralising features; State reorganisation and governance
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** State reorganisation and governance
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Centralising features
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-II: 1
+- **Marks represented:** 12.5 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Party competition and federalisation
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 2
+- **Stable linked anchors:** 2
+- **Paper concentration:** Prelims GS-I: 2
+- **Subtopics represented:** Indian federalism and essential federal features; Non-feature of Indian federalism
 
 ## 2020 concentration
 
@@ -82,3 +113,28 @@
 #### Mains GS-II
 
 - [Q3. How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer.](../../papers/2020/mains-gs2.md#2020-mains-gs2-q03) — Cooperative, competitive and confrontational federalism · 10 marks
+
+### 2017
+
+#### Prelims GS-I
+
+- [Q17. Indian federalism and essential federal features](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q017) — Indian federalism and essential federal features
+- [Q100. Non-feature of Indian federalism](../../papers/2017/prelims-gs1.md#2017-prelims-gs1-q100) — Non-feature of Indian federalism
+
+### 2016
+
+#### Mains GS-II
+
+- [Q3. “The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.” Discuss.](../../papers/2016/mains-gs2.md#2016-mains-gs2-q03) — Party competition and federalisation · 12.5 marks
+
+### 2014
+
+#### Mains GS-II
+
+- [Q2. Though the federal principle is dominant in our Constitution and that principle is one of its basic features, but it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. Discuss.](../../papers/2014/mains-gs2.md#2014-mains-gs2-q02) — Centralising features · 12.5 marks
+
+### 2013
+
+#### Mains GS-II
+
+- [Q5. Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level ? Discuss.](../../papers/2013/mains-gs2.md#2013-mains-gs2-q05) — State reorganisation and governance · 10 marks

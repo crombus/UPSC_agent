@@ -6,12 +6,40 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2022, 2025
-- **Solved answerable questions/parts:** 4
-- **Stable linked anchors:** 4
-- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 3
+- **Released years represented:** 2013, 2014, 2016, 2018, 2019, 2022, 2025
+- **Solved answerable questions/parts:** 8
+- **Stable linked anchors:** 8
+- **Paper concentration:** Mains GS-II: 1; Prelims GS-I: 7
 - **Marks represented:** 15 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Governor's discretion; President reserving a State bill; Governor's immunity; immunity for words spoken in a State Legislature; Ordinance-making power; Recommendations on ideal Governor appointment criteria
+- **Subtopics represented:** Governor's discretion; President reserving a State bill; Governor's immunity; immunity for words spoken in a State Legislature; Ordinance-making power; Recommendations on ideal Governor appointment criteria; Governor of State criminal proceedings and emoluments protection; Appointment and tenure of a State Chief Secretary; Which of the following are the discretionary powers given to the Governor of a State?; Which one of the following statements is correct?
+
+## 2013 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Which one of the following statements is correct?
+
+## 2014 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Which of the following are the discretionary powers given to the Governor of a State?
+
+## 2016 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Appointment and tenure of a State Chief Secretary
+
+## 2018 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Prelims GS-I: 1
+- **Subtopics represented:** Governor of State criminal proceedings and emoluments protection
 
 ## 2019 concentration
 
@@ -55,3 +83,27 @@
 #### Prelims GS-I
 
 - [Q66. Recommendations on ideal Governor appointment criteria](../../papers/2019/prelims-gs1.md#2019-prelims-gs1-q66) — Recommendations on ideal Governor appointment criteria
+
+### 2018
+
+#### Prelims GS-I
+
+- [Q41. Governor of State criminal proceedings and emoluments protection](../../papers/2018/prelims-gs1.md#2018-prelims-gs1-q41) — Governor of State criminal proceedings and emoluments protection
+
+### 2016
+
+#### Prelims GS-I
+
+- [Q25. Appointment and tenure of a State Chief Secretary](../../papers/2016/prelims-gs1.md#2016-prelims-gs1-q025) — Appointment and tenure of a State Chief Secretary
+
+### 2014
+
+#### Prelims GS-I
+
+- [Q60. Which of the following are the discretionary powers given to the Governor of a State?](../../papers/2014/prelims-gs1.md#2014-prelims-gs1-q060) — Which of the following are the discretionary powers given to the Governor of a State?
+
+### 2013
+
+#### Prelims GS-I
+
+- [Q2. Which one of the following statements is correct?](../../papers/2013/prelims-gs1.md#2013-prelims-gs1-q002) — Which one of the following statements is correct?

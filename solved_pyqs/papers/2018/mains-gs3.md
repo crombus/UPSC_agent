@@ -7,6 +7,7 @@
 
 ---
 
+
 <a id="2018-mains-gs3-q01"></a>
 ## Q1. Affordable, reliable, sustainable and modern energy
 **Primary route:** Economy → [Energy Infrastructure, Power, Fuels and Energy Security](../../topics/economy/energy-infrastructure-economics-power-fuels-and-energy-security.md) → Energy access and SDGs · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -38,6 +39,7 @@ India had therefore advanced rapidly in access and cleaner capacity, but SDG-com
 The response separates the four attributes in the quotation, uses contemporaneous programmes and qualifies official access achievements with service-quality and transition constraints.
 
 ---
+
 
 <a id="2018-mains-gs3-q02"></a>
 ## Q2. LTCG tax and Dividend Distribution Tax changes
@@ -72,6 +74,7 @@ Thus the Budget prioritised horizontal tax equity and revenue mobilisation, but 
 The answer states the threshold, rate, indexation rule, grandfathering date and mutual-fund DDT accurately, then gives a balanced fiscal and market assessment.
 
 ---
+
 
 <a id="2018-mains-gs3-q03"></a>
 ## Q3. MSP and the low-income trap
@@ -111,6 +114,7 @@ The answer explains the income mechanism while correctly distinguishing an annou
 
 ---
 
+
 <a id="2018-mains-gs3-q04"></a>
 ## Q4. Supermarkets and agricultural supply chains
 **Primary route:** Economy → [APMC, e-NAM, FPOs and Agricultural Supply Chains](../../topics/economy/apmc-e-nam-fpos-and-agricultural-supply-chains.md) → Organised retail and intermediation · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -142,6 +146,7 @@ Benefits therefore require FPO-based aggregation, transparent contracts, prompt 
 The response explains functional integration rather than claiming that middlemen vanish, and balances efficiency gains with smallholder and buyer-power risks.
 
 ---
+
 
 <a id="2018-mains-gs3-q05"></a>
 ## Q5. Bose–Einstein statistics and the revolution in physics
@@ -175,6 +180,7 @@ The answer identifies the actual innovation, its collaboration history, applicab
 
 ---
 
+
 <a id="2018-mains-gs3-q06"></a>
 ## Q6. Solid and toxic-waste disposal
 **Primary route:** Environment and Ecology → [Solid, Plastic and E-Waste Rules](../../topics/environment/solid-plastic-and-e-waste-rules.md) → Municipal and hazardous waste management · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -204,6 +210,7 @@ Legacy dumps require risk assessment, biomining where suitable, leachate and gas
 The response follows the waste hierarchy and distinguishes ordinary processing from scientifically controlled hazardous-waste treatment and legacy-site remediation.
 
 ---
+
 
 <a id="2018-mains-gs3-q07"></a>
 ## Q7. Wetlands and Ramsar wise use
@@ -241,6 +248,7 @@ The answer gives a Convention-compatible definition, correctly treats wise use a
 
 ---
 
+
 <a id="2018-mains-gs3-q08"></a>
 ## Q8. Sikkim as India’s first Organic State
 **Primary route:** Economy → [Irrigation, Inputs, Credit, Insurance and Sustainable Agriculture](../../topics/economy/irrigation-inputs-credit-insurance-and-sustainable-agriculture.md) → Organic farming · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -274,6 +282,7 @@ The model is strongest when certification, extension, FPOs, cold chains and assu
 The answer identifies distinct ecological and income mechanisms and avoids the unsupported claim that organic conversion automatically raises yields or profits.
 
 ---
+
 
 <a id="2018-mains-gs3-q09"></a>
 ## Q9. CPEC and India’s objections
@@ -312,6 +321,7 @@ The answer describes the corridor before listing distinct sovereignty, governanc
 
 ---
 
+
 <a id="2018-mains-gs3-q10"></a>
 ## Q10. Government approach to Left Wing Extremism
 **Primary route:** Internal Security → [Left Wing Extremism and Integrated Response](../../topics/internal-security/left-wing-extremism-and-integrated-response.md) → Counter-LWE strategy · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -345,6 +355,7 @@ Success cannot be measured only by encounters. It requires precise operations pr
 The answer captures the 2015 policy’s integrated logic and avoids presenting either force or development as a stand-alone remedy.
 
 ---
+
 
 <a id="2018-mains-gs3-q11"></a>
 ## Q11. NITI Aayog and the Planning Commission
@@ -386,6 +397,7 @@ Thus the shift is from central resource allocation to knowledge, coordination an
 The response compares mandate, fiscal power, planning method, economic philosophy and federal practice, then qualifies both the advantages and institutional limits of the newer model.
 
 ---
+
 
 <a id="2018-mains-gs3-q12"></a>
 ## Q12. Protectionism, currency manipulation and India
@@ -430,9 +442,10 @@ The answer distinguishes the two phenomena, maps their real, financial and price
 
 ---
 
+
 <a id="2018-mains-gs3-q13"></a>
 ## Q13. National Horticulture Mission
-**Primary route:** Economy → Agricultural Technology, Missions and Mission-Mode Policy → Horticulture development · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Primary route:** Economy → [Agricultural Technology Missions and Mission-Mode Policy](../../topics/economy/agricultural-technology-missions-and-mission-mode-policy.md) → Horticulture development · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
 
 **Identity:** 2018 · Mains · General Studies III · Compulsory Question 13  
 **Official question:** Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers?  
@@ -470,6 +483,7 @@ NHM has therefore succeeded substantially in expanding and diversifying producti
 The answer links mission components to output and productivity, uses a cautious dated achievement and evaluates income through costs, prices, losses and market structure.
 
 ---
+
 
 <a id="2018-mains-gs3-q14"></a>
 ## Q14. Cropping-pattern changes and millets
@@ -509,6 +523,7 @@ However, replacement must be agro-ecologically suitable and remunerative. Withou
 The response explains incentive-driven crop change, names the contemporaneous millet initiative and integrates production, nutrition, procurement and demand constraints.
 
 ---
+
 
 <a id="2018-mains-gs3-q15"></a>
 ## Q15. Biotechnology activity and biopharma
@@ -550,6 +565,7 @@ India should therefore deepen translational platforms, predictable biosimilar re
 The answer separates ecosystem drivers from biopharma outcomes and explains the scientific manufacturing and regulatory chain needed to translate research into medicines.
 
 ---
+
 
 <a id="2018-mains-gs3-q16"></a>
 ## Q16. Expansion of nuclear energy
@@ -597,6 +613,7 @@ The response gives a reasoned “calibrated expansion” thesis, accurately expl
 
 ---
 
+
 <a id="2018-mains-gs3-q17"></a>
 ## Q17. India’s biodiversity and the Biological Diversity Act
 **Primary route:** Environment and Ecology → [Multilateral Environmental Conventions: CBD, Basel, Stockholm and Montreal](../../topics/environment/multilateral-environmental-conventions-cbd-basel-stockholm-montreal.md) → Biological diversity governance · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -640,6 +657,7 @@ The answer explains why biodiversity varies, names the statute’s exact institu
 
 ---
 
+
 <a id="2018-mains-gs3-q18"></a>
 ## Q18. India’s DRR measures and Sendai versus Hyogo
 **Primary route:** Disaster Management → [Disaster Risk, Resilience and Sendai Framework](../../topics/disaster-management/disaster-risk-resilience-and-sendai-framework.md) → Indian DRR architecture · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
@@ -678,6 +696,7 @@ Both are voluntary frameworks; domestic law and implementation give them effect.
 The answer supplies a dated Indian chronology, accurately compares priorities and targets, and avoids describing Sendai as a binding treaty.
 
 ---
+
 
 <a id="2018-mains-gs3-q19"></a>
 ## Q19. Srikrishna Committee report on personal-data protection
@@ -723,6 +742,7 @@ The report was a foundational, comprehensive blueprint, but strong privacy prote
 The answer is date-disciplined to the 2018 report, distinguishes privacy governance from cybersecurity, and balances rights, institutional design, State power and implementation.
 
 ---
+
 
 <a id="2018-mains-gs3-q20"></a>
 ## Q20. Drug trafficking and linked illicit activities

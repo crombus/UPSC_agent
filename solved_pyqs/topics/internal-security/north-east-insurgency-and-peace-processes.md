@@ -6,12 +6,21 @@
 
 ## Cross-year concentration
 
-- **Released years represented:** 2019, 2025
-- **Solved answerable questions/parts:** 2
-- **Stable linked anchors:** 2
-- **Paper concentration:** Mains GS-III: 2
-- **Marks represented:** 30 (solved selectable alternatives included; GS-IV case marks counted once)
-- **Subtopics represented:** Insurgency and Peace Processes; India–Myanmar border management
+- **Released years represented:** 2017, 2019, 2025
+- **Solved answerable questions/parts:** 3
+- **Stable linked anchors:** 3
+- **Paper concentration:** Mains GS-III: 3
+- **Marks represented:** 40 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Insurgency and Peace Processes; India–Myanmar border management; Persistence of insurgency
+- **Justified secondary-route anchors:** 1 (excluded from primary concentration totals)
+
+## 2017 concentration
+
+- **Solved answerable questions/parts:** 1
+- **Stable linked anchors:** 1
+- **Paper concentration:** Mains GS-III: 1
+- **Marks represented:** 10 (solved selectable alternatives included; GS-IV case marks counted once)
+- **Subtopics represented:** Persistence of insurgency
 
 ## 2019 concentration
 
@@ -42,3 +51,14 @@
 #### Mains GS-III
 
 - [Q20. India–Myanmar border challenges](../../papers/2019/mains-gs3.md#2019-mains-gs3-q20) — India–Myanmar border management · 15 marks
+
+### 2017
+
+#### Mains GS-III
+
+- [Q10. Survival of armed insurgency in the North-East](../../papers/2017/mains-gs3.md#2017-mains-gs3-q10) — Persistence of insurgency · 10 marks
+
+## Secondary-routed PYQs
+
+These links are interdisciplinary aids and are excluded from all primary counts.
+- [2015 · Mains GS-III · Q17. AFSPA, contested provisions and Supreme Court safeguards](../../papers/2015/mains-gs3.md#2015-mains-gs3-q17) — AFSPA and accountability
