@@ -106,6 +106,8 @@ If an answer lists foreign brands but never identifies mediation or social effec
 
 Liberalisation can accelerate globalisation by reducing trade, investment or market restrictions. Yet globalisation also proceeds through migration, communication networks, cultural circulation and transnational production.
 
+Liberalisation must also be separated from **privatisation**. Liberalisation relaxes restrictions on entry, exchange or competition; privatisation changes ownership or control from the public sector toward private actors. Either may occur without the other, and neither alone proves a social outcome.
+
 ```text
 liberalisation
    -> opens selected economic channels
@@ -453,7 +455,7 @@ The same institution can produce all four outcomes. The analyst must specify the
 
 ### 6. 2018 PYQ linkage
 
-> **2018, GS-I, Q19 — 15 marks, 250 words:** “Globalisation is generally said to promote cultural homogenisation but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.”
+> **2018, GS-I, Q19 — 15 marks, 250 words:** “Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.”
 
 **Demand:** Explain the apparent paradox rather than choosing only homogenisation or only specificity.
 
@@ -589,7 +591,11 @@ equal voice and secure coexistence
 
 Global content abundance may increase diversity of choice while a few platforms determine discoverability. Plurality therefore depends on institutional conditions, not numerical variety alone.
 
-### 5. 2019 and 2020 PYQ linkages
+### 5. 2016, 2019 and 2020 PYQ linkages
+
+> **2016, GS-I, Q8 — 12½ marks, 200 words:** “To what extent globalization has influenced the core of cultural diversity in India? Explain.”
+
+**Demand:** Judge the depth and limits of influence across language, lifestyle, arts, family and identity. Explain homogenising pressure alongside glocalisation, hybridisation, regional-media expansion and cultural revival; do not equate influence with erasure.
 
 > **2019, GS-I, Q20 — 15 marks, 250 words:** “Are we losing our local identity for the global identity? Discuss.”
 
@@ -599,7 +605,7 @@ Global content abundance may increase diversity of choice while a few platforms 
 
 **Demand:** Distinguish diversity from pluralism; show actual pressures and countervailing resilience; state the conditions under which threat intensifies.
 
-Together, the two questions test layered identity, plural participation and the institutional conditions that resist one-way cultural loss.
+Together, the three questions test degree of influence, layered identity, plural participation and the institutional conditions that resist one-way cultural loss.
 
 ### 6. Example and limit
 
@@ -881,6 +887,8 @@ Global demand can support work in information technology, business-process servi
 
 Employment is therefore both an economic and social institution.
 
+Indian sectoral variation prevents a single “global job” story. Bengaluru’s service economy may reward formal skills and English fluency; export-linked garment clusters can expand women’s paid work while retaining low wages, weak contracts and a double burden. Global value chains can widen markets for artisans and farmers, but standards, logistics, buyer concentration and platform fees determine whether producers gain bargaining power or merely absorb new compliance and price risks.
+
 ### 2. Platform work is not just “work through an app”
 
 A **platform market** connects distinct user groups through a digital intermediary. A work platform may match clients with workers, allocate tasks and process payment.
@@ -1121,13 +1129,25 @@ For the specific migration proposition, treat the question’s premise as the ob
 
 The analytical task is to connect freedom gains, continuing family ties and new vulnerabilities without using LFPR as proof of the migration stream.
 
-### 7. Example and limit
+### 7. Broader gender, migration and ageing routes
+
+> **2015, GS-I, Q12 — 12½ marks, 200 words:** “Discuss the positive and negative effects of globalization on women in India.”
+
+This broader demand requires differentiated gains and costs: paid work, income, rights vocabulary and market access on one side; insecure export work, displacement, commodification and the unpaid-care double burden on the other. Garment-cluster work illustrates why labour-force entry is not identical to empowerment.
+
+Kerala–Gulf migration is a useful mechanism example for transnational family life: remittances and communication can improve household security while prolonged separation redistributes care, authority and emotional labour. It is an illustration, not a uniform state-wide outcome.
+
+> **2013, GS-I, Q17 — 10 marks, 200 words:** “Critically examine the effect of globalization on the aged population in India.”
+
+Globalisation affects older persons indirectly through adult-child migration, changing household forms, monetised care, digital communication and market access. Remittances and remote contact may improve treatment and support, while distance, loneliness, unaffordable private care and digital exclusion can deepen vulnerability. Ageing itself remains a demographic process; the answer must distinguish that process from changing care conditions.
+
+### 8. Example and limit
 
 A skilled worker living in Bengaluru may gain independent income, choose daily mobility and negotiate marriage timing while sending money home and consulting parents on major decisions.
 
 This is an analytical illustration, not a national pattern. Outcomes vary by occupation, family, class, caste, region and access to safe housing.
 
-### 8. Strongest objection, reply and residual
+### 9. Strongest objection, reply and residual
 
 **Objection:** Continued remittance and family consultation show that migration has not produced real freedom.
 
@@ -1611,11 +1631,11 @@ Economic precarity can postpone household formation even while cultural expectat
 
 The NITI Aayog gig-work estimate illustrates an emerging labour form; it does not establish that all gig workers are youth or that platform growth creates secure careers. PLFS indicators can describe labour participation or unemployment under defined measures, but they cannot prove that globalisation caused a particular youth outcome.
 
-### 7. Provisional 2026 PYQ linkage — social and economic half
+### 7. Official-paper verified 2026 PYQ linkage — social and economic half
 
-> **Provisional 2026, GS-I, Q20 — 15 marks, 250 words:** “Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres.”
+> **2026, GS-I, Q20 — 15 marks, 250 words:** “Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres.”
 
-The official paper scan was unavailable for verification; the wording is therefore retained as **provisional**.
+The wording and metadata are verified against the locally held official GS-I paper, SHA-256 `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601`.
 
 For the social and economic spheres, examine family bargaining, opportunity, precarity and distribution by skill, gender, region and class.
 
@@ -1647,7 +1667,7 @@ In a youth answer, organise by transition and sphere, not by a generic list of a
 10. Economic insecurity affects family formation and autonomy.
 11. Gig-work estimates do not identify the age composition of workers.
 12. Aggregate labour data do not prove globalisation causality.
-13. The 2026 Q20 wording remains provisional because the official paper scan is unavailable.
+13. The 2026 Q20 wording and directive are verified against the official local paper.
 
 ### Concept check
 
@@ -1722,6 +1742,8 @@ Global media and digital networks can expose youth to:
 
 These are channels of political socialisation. They may change how an issue is framed even when they do not change formal participation.
 
+A further possible mechanism is a **diaspora feedback loop**: globally mobile or connected young Indians can circulate arguments, frames, professional knowledge or campaign attention back into domestic debate. This identifies a two-way channel; it does not establish the scale, representativeness, funding effect or political outcome of diaspora engagement.
+
 ### 2. Issue publics
 
 An **issue public** is a network of people attentive to a specific public question rather than united by a complete ideology or party identity.
@@ -1781,9 +1803,9 @@ Culture can become political when symbols, brands, entertainment or language cho
 
 This interaction should be analysed carefully. A purchase or post is not automatically effective political action, but it may reveal changing repertoires of expression.
 
-### 7. Provisional 2026 PYQ linkage — political and cultural half
+### 7. Official-paper verified 2026 PYQ linkage — political and cultural half
 
-> **Provisional 2026, GS-I, Q20 — 15 marks, 250 words:** “Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres.”
+> **2026, GS-I, Q20 — 15 marks, 250 words:** “Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres.”
 
 For the political and cultural spheres, examine information and issue publics through the visibility–participation distinction, then cultural homogenisation, glocalisation and hybridisation through platform and status inequality.
 
@@ -1827,7 +1849,7 @@ exposure -> adoption/adaptation/recombination
 10. Lifestyle norms can intensify status and body pressures.
 11. Political and cultural expression can overlap.
 12. A post, boycott or purchase is not automatically effective action.
-13. The 2026 four-sphere question remains provisional here.
+13. The 2026 four-sphere question is verified against the official local GS-I paper.
 
 ### Concept check
 
@@ -2214,13 +2236,40 @@ Therefore globalisation is neither an equalising force nor a uniform cultural in
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The questions below remain answer-neutral. Wording is exact where verified and explicitly provisional for 2026; directive, demand and approach are separated without predetermining the answer.
+The questions below remain answer-neutral. Wording and metadata are controlled by repository-held official papers or official-paper text exports for 2013, 2015, 2016, 2018, 2019, 2020, 2022, 2024, 2025 and 2026. The routing ledgers control ownership and bounded metadata rather than exact quotation. Directive, demand and approach are separated without predetermining the answer.
 
 ## Directly relevant GS-I questions
 
+### 2013, Question 17 — 10 marks, 200 words
+
+> “Critically examine the effect of globalization on the aged population in India.”
+
+- **Directive:** Critically examine—explain gains and harms, test causation and reach a qualified judgement.
+- **Demand:** Effects on older persons through family, migration, markets, care and technology.
+- **Concept focus:** left-behind parents, remittance, care markets, digital inclusion and differentiated vulnerability.
+- **Answer approach:** separate demographic ageing from globalisation; trace family/migration and market channels; balance remittance and communication gains against care, loneliness, affordability and exclusion; differentiate by gender, income and location.
+
+### 2015, Question 12 — 12½ marks, 200 words
+
+> “Discuss the positive and negative effects of globalization on women in India.”
+
+- **Directive:** Discuss—cover both gains and costs before a differentiated verdict.
+- **Demand:** Women across classes, castes, regions and sectors, not a single representative woman.
+- **Concept focus:** work, income, rights diffusion, export labour, care burden, displacement and commodification.
+- **Answer approach:** opportunities and bargaining gains; labour and care costs; cultural and market effects; intersectional qualification.
+
+### 2016, Question 8 — 12½ marks, 200 words
+
+> “To what extent globalization has influenced the core of cultural diversity in India? Explain.”
+
+- **Directive:** Explain extent—identify depth, domains and limits rather than assert total loss.
+- **Demand:** Influence on the core of cultural diversity.
+- **Concept focus:** homogenisation, glocalisation, hybridisation, language, arts, family and identity.
+- **Answer approach:** define the cultural core; show standardising pressures; show adaptation, revival and unequal reach; give a qualified extent verdict.
+
 ### 2018, Question 19 — 15 marks, 250 words
 
-> “Globalisation is generally said to promote cultural homogenisation but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.”
+> “Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society. Elucidate.”
 
 - **Directive:** Elucidate—make the apparent paradox clear through explanation and examples.
 - **Demand:** Homogenisation plus strengthened cultural specificity.
@@ -2272,11 +2321,11 @@ The questions below remain answer-neutral. Wording is exact where verified and e
 - **Concept focus:** structural and cultural consumerism, plus independent work, family, media and adaptation channels.
 - **Answer approach:** acknowledge consumerism; distinguish structural and cultural consumerism; demonstrate independent work, family, media and cultural-adaptation channels; add unequal access.
 
-### 2026, Question 20 — provisional — 15 marks, 250 words
+### 2026, Question 20 — 15 marks, 250 words
 
 > “Evaluate the impact of globalization on Indian youths with reference to social, political, economic and cultural spheres.”
 
-- **Status:** Provisional. The official paper scan was unavailable for exact-text verification.
+- **Status:** Exact wording and metadata verified against the official local GS-I paper.
 - **Directive:** Evaluate—assess gains, costs, evidence limits and variation across all four spheres.
 - **Demand:** A youth-specific Social, Political, Economic and Cultural structure.
 - **Concept focus:** social, political, economic and cultural effects on youth, with participation and distribution cautions.
@@ -2634,7 +2683,7 @@ DEFINE the process
 
 - No general youth turnout, protest-scale or diaspora-effect claim is made.
 - Youth data require defined age and measure.
-- 2026 Q20 wording is provisional because the official paper scan was unavailable for verification.
+- 2026 Q20 wording and metadata are verified against the official local GS-I paper.
 
 ## 12. Technology and scarce resources
 
@@ -2659,6 +2708,9 @@ DEFINE the process
 
 ## 14. PYQ rapid routes
 
+- **2013:** ageing is demographic → migration/family channel → remittance/care-market/digital effects → unequal vulnerability → qualified verdict.
+- **2015:** work/income/rights gains → export-work/care/displacement costs → intersectional variation → balanced verdict.
+- **2016:** define cultural core → homogenising influence → glocalisation/hybridisation/revival → unequal depth → extent verdict.
 - **2018:** homogenisation → strengthened specificity → glocalisation/hybridisation → power limit.
 - **2019:** loss pressures → layered identity → adaptation → institutional conditions.
 - **2020:** diversity/plurality distinction → threat mechanisms → counter-processes → conditional verdict.
@@ -2666,7 +2718,7 @@ DEFINE the process
 - **2024:** migration → freedom dimensions → continuing ties → risks/variation → evidence limit.
 - **2025 Q10:** concede consumerism → reject “only” → independent channels → inequality.
 - **2025 Q18 support:** paradox → structural/behavioural mechanisms → Indian illustration → broader social-change setting.
-- **2026 provisional:** SPEC matrix → visibility-participation control → uneven verdict.
+- **2026 verified:** SPEC matrix → visibility-participation control → uneven verdict.
 
 ## 15. Answer-writing traps
 
@@ -2681,13 +2733,14 @@ DEFINE the process
 9. Never infer participation from online political visibility.
 10. Never call digital technology resource-free.
 11. Never reduce the fast-food question to globalisation alone.
-12. Never present provisional 2026 wording as officially verified text.
+12. Never detach the verified 2026 wording from its four required social, political, economic and cultural spheres.
 
 # COVERAGE MATRIX
 
 | Frozen coverage unit | Lesson / final location | Core or enrichment status | Evidence, objection and practice control |
 |---|---|---|---|
 | Concepts and nearest distinctions | Lesson 1; Register Notes 1 | Core | flow-mediator test; chronology objection; concept check and 10-marker |
+| Liberalisation versus privatisation | Lesson 1; Register Notes 1 | Core | policy-opening versus ownership distinction; neither is a social-outcome proxy |
 | Unequal channels and access filters | Lesson 2; Register Notes 2 | Core | capability, intersectionality and aggregate-data limits |
 | Homogenisation | Lesson 3; Map 2 | Core | 2018 PYQ; convergence mechanism and dimension limit |
 | Heterogenisation | Lesson 3; Register Notes 3 | Core | visibility-versus-viability objection |
@@ -2697,15 +2750,22 @@ DEFINE the process
 | Diversity and plurality | Lessons 4, 9; PYQ section | Core | exact 2020 demand; presence-versus-voice distinction |
 | Consumer culture | Lesson 5; Register Notes 5 | Core | structural/cultural consumerism; exact 2025 Q10 |
 | Work and services | Lesson 6; final 15-marker | Core | opportunity-versus-empowerment distinction |
+| Sectoral Indian variation | Lesson 6 | Core | Bengaluru services, garment clusters and artisan/farmer value chains; buyer and worker power qualified |
 | Platform work | Lessons 6, 9, 13 | Core plus bounded cross-route | NITI estimate/projected figure separated; algorithmic objection/reply |
 | Sole PLFS 2025 linkage | Lesson 6; Register Notes 7 | Current context only | date, period, measure and non-causal limit |
 | Women’s migration and family | Lesson 7; PYQ section | Core | exact 2024 Q19; freedom and family both mapped |
+| Women’s differentiated gains and costs | Lesson 7; final PYQ section | Core | exact 2015 Q12; work, rights, care, displacement and commodification |
+| Kerala–Gulf transnational family mechanism | Lesson 7 | Core example | remittance and communication balanced against separation and redistributed care |
+| Aged population | Lesson 7; final PYQ section | Core | exact 2013 Q17; ageing separated from migration, care-market and digital effects |
 | Fast-food paradox | Lesson 8; final “Related GS-I question from Social Change and Modernisation” section | Cross-routed support | Topic 12 ownership preserved; no fabricated data |
 | Digital/media effects | Lesson 9; Map 4 | Core | platformisation, vernacularisation, echo chamber, divide |
 | Youth social/economic | Lesson 10 | Core | aspiration-capability distinction; no age inference from gig data |
-| Youth political/cultural | Lesson 11 | Core | no unsupported turnout, protest or diaspora claims |
+| Youth political/cultural | Lesson 11 | Core | bounded diaspora-feedback mechanism; no unsupported turnout, protest-scale or outcome claim |
 | Technology and scarce resources | Lesson 12; Map 5 | Core | exact 2022 demand; efficiency/rebound/life cycle |
 | Uneven-distribution synthesis | Lesson 13; Map 6 | Advanced synthesis | mediation, agency, cumulative advantage and structural objection |
+| 2013 direct PYQ | Lesson 7; final PYQ section | Direct | exact official-paper question; ageing and care channels separated |
+| 2015 direct PYQ | Lesson 7; final PYQ section | Direct | exact official-paper question; differentiated effects on women |
+| 2016 direct PYQ | Lesson 4; final PYQ section | Direct | exact official-paper question; extent of influence on cultural diversity |
 | 2018 direct PYQ | Lesson 3; final PYQ section | Direct | exact answer-neutral quotation and approach |
 | 2019 direct PYQ | Lesson 4; final PYQ section | Direct | exact answer-neutral quotation and approach |
 | 2020 direct PYQ | Lesson 4; final PYQ section | Direct | exact answer-neutral quotation and approach |
@@ -2713,7 +2773,7 @@ DEFINE the process
 | 2024 direct PYQ | Lesson 7; final PYQ section | Direct | printed “How” demand preserved |
 | 2025 Q10 direct PYQ | Lesson 5; final PYQ section | Direct | “only” and “Justify” preserved |
 | 2025 Q18 support PYQ | Lesson 8; final PYQ section | Topic 12-owned support | not counted as direct Topic 11 ownership |
-| 2026 Q20 | Lessons 10–11; final PYQ section | Provisional direct route | absent scan disclosed; no official-local claim |
+| 2026 Q20 | Lessons 10–11; final PYQ section | Direct | exact official-paper wording and metadata; SPEC route |
 | Prelims 2018–2026 | Final PYQ section | Zero direct | no stem or answer letter manufactured |
 | Lesson-local mastery | All 13 lessons | Core | exactly one concept check and one original Mains model per lesson |
 | Mark-scaled final practice | Final practice section | Core | distinct 10/15/20 models and quantified rubrics |
@@ -2725,7 +2785,7 @@ DEFINE the process
 
 | Source | SHA-256 | Use |
 |---|---|---|
-| `upsc-ai-kit\knowledge\Indian-Society\basic\11_Effects-of-Globalisation-on-Indian-Society.md` | `91db6272f770771797b18ac9dd731c539338c1c1b9519457b62828da27b5307d` | Complete Core owner: concepts, channels, SPEC frame, PYQ routes and evidence limits |
+| `upsc-ai-kit\knowledge\Indian-Society\basic\11_Effects-of-Globalisation-on-Indian-Society.md` | `a8a088460e6c8dcc6fc76f6d4e6797cf6358b719b14c58c47a178bb5998997cb` | Complete Core owner: concepts, channels, SPEC frame, 2013–2026 PYQ routes and evidence limits |
 | `upsc-ai-kit\knowledge\Indian-Society\advanced\11_Effects-of-Globalisation-on-Indian-Society.md` | `fcd2dc2ab3ef0db4863c1d7ef94b7a6eb39d824d13fad31a335fef2c3761c17d` | Advanced mechanisms: homogenisation/glocalisation, consumerism, migration-family and behavioural support |
 | `upsc-ai-kit\knowledge\Indian-Society\00_Master-Framework.md` | `b77e6b6b5330d42dd54b500d3de73e584817ab737fdb67c6895217147967b1c4` | Structure-change-outcome chain, measurement and cross-subject boundaries |
 | `upsc-ai-kit\knowledge\Indian-Society\OFFICIAL-UPSC-SYLLABUS-MAPPING.md` | `21e0261d20aae65d1998ef948c61bab8451eb09c15a466001fce4ff6ed33d5ec` | Verbatim official clause: “Effects of globalization on Indian society.” |
@@ -2744,15 +2804,24 @@ DEFINE the process
 
 | Source | SHA-256 | Status |
 |---|---|---|
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` | `4f1610333cdd8eea2786495b59ed1746bd8e6b4577384e0d81870332bad35afe` | Confirms year, paper, question number, neutral demand, directive, marks and word limit for 2018, 2019, 2020 and 2022 |
+| `books\previous_papers_2013_2018\2013\mains-gs1.pdf` | `084ea7cc5f0399314487a724a0b2924ec543beabc2e647f249c5c02dcca1e322` | Official local paper controlling 2013 Q17 wording and metadata |
+| `books\previous_papers_2013_2018\2015\mains-gs1.pdf` | `598b40a86bd9fa7a395d7b68f9f8f5b5a047524cd51c32ec6dab4de718c3a980` | Identity-verified archived official paper controlling 2015 Q12 wording and metadata |
+| `books\previous_papers_2013_2018\2016\mains-gs1.pdf` | `50ad80afd3d1836f2bc1a23a658fbf56c28624a665d3434046bc0a7c7c1b56f9` | Archived official paper controlling 2016 Q8 wording and metadata |
+| `books\more_previous_papers\GENERAL-STUDIES-PAPER-I.pdf` | `7b1ac3396419f8f5beb98959c819920c7926593b23b3c2bbe1906cfbb5fdac45` | Official local 2018 paper controlling Q19 wording and metadata |
+| `knowledge-export\Mains PYQ\QP-CSM19-GeneralStudies-I.pdf.md` | `6a4c582d9a9240b8e9d563e83c86186b3c661119e498ae2179fb701f76ccc481` | Repository-held official-paper text export controlling 2019 Q20 wording and metadata |
+| `knowledge-export\Mains PYQ\Gen_St_P1.pdf.md` | `511622ea3026200f80311d6e84392021ffb0896bc312ffe0e23df4788fbb9312` | Repository-held official-paper text export controlling 2020 Q18 wording and metadata |
+| `knowledge-export\Mains PYQ\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf.md` | `9676f766ceea282b8c7583741a0bbad4cec890e75924cebb8cd94fab81af9e1e` | Repository-held official-paper text export controlling 2022 Q20 wording and metadata |
+| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` | `717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230` | Confirms year, paper, question number, neutral demand, directive, marks and word limit for 2018, 2019, 2020 and 2022 |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md` | `c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21` | Confirms routing and metadata for 2024 Q19 and 2025 Q10 and routes 2025 Q18 to Topic 12; its “Discuss” label for 2024 Q19 is a normalised demand label, not the exact printed interrogative |
-| `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | `09edb09bc8dacd73d7eb7eb10ff7cc1f186ad9d7d6eecdcd7382699f709b3369` | Contains 2026 Q20 wording, but its claimed official scan path is absent here; treated as provisional |
+| `books\mains\UPSC Mains 2024 GS Paper I.pdf` | `24cb848fb4f4a60f4180826ca12cc18f3d426f4ee85a99d4f34d86f5c9d0acc3` | Official local paper controlling 2024 Q19 wording and printed interrogative |
+| `books\mains\UPSC Mains 2025 GS Paper 1.pdf` | `26b32cecd8ebec10d868ac0498eebdcc653f0bfbd3b6ebd5c3891a3579c22d42` | Official local paper controlling 2025 Q10 and supporting Q18 wording and metadata |
+| `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | `09edb09bc8dacd73d7eb7eb10ff7cc1f186ad9d7d6eecdcd7382699f709b3369` | Complete routing ledger for official-paper verified 2026 Q20 |
+| `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` | `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601` | Official local paper controlling 2026 Q20 wording and metadata |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | `3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b` | Zero direct Topic 11 objective questions |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md` | `fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a` | Zero direct Topic 11 objective questions |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` | `a0c6a6c0afd365da0da7c15439550619c864a6e80b631d3360dc186ecb9129b2` | Zero direct Topic 11 objective questions; 2026 objective material remains provisional where applicable |
 
-Question metadata for 2018–2023 is supported by `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` (SHA-256 `4f1610333cdd8eea2786495b59ed1746bd8e6b4577384e0d81870332bad35afe`), and 2024–2025 routing/metadata by `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md` (SHA-256 `c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21`). These are neutral-demand ledgers, not official-paper PDFs, so exact wording or an exact printed directive is not attributed to them. For 2024 Q19 specifically, the ledger’s “Discuss” label is a normalised demand description. The displayed interrogative—“How has this trend impacted upon their personal freedom and relationship with family?”—is concordantly recorded in `upsc-ai-kit\knowledge\Indian-Society\basic\11_Effects-of-Globalisation-on-Indian-Society.md` (SHA-256 `91db6272f770771797b18ac9dd731c539338c1c1b9519457b62828da27b5307d`) and its Advanced companion (SHA-256 `fcd2dc2ab3ef0db4863c1d7ef94b7a6eb39d824d13fad31a335fef2c3761c17d`). No claim is made that local official PDFs were opened, and the UPSC previous-question-paper page was access-restricted. For 2026, `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` (SHA-256 `09edb09bc8dacd73d7eb7eb10ff7cc1f186ad9d7d6eecdcd7382699f709b3369`) supplies the provisional wording, while its cited scan path,
-`books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`, is absent from this worktree; Q20 therefore remains provisional throughout.
+The repository-held official 2013, 2015, 2016 and 2018 GS-I papers and the official-paper text exports for 2019, 2020 and 2022 control exact wording and metadata for those questions. The 2018–2023 routing ledger (SHA-256 `717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230`) controls ownership and cross-routing, not exact quotation. The 2024 and 2025 official local GS-I papers control exact wording and printed directives, while the 2024–2025 routing ledger (SHA-256 `c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21`) controls routing and records 2025 Q18 under Topic 12. For 2024 Q19, the ledger’s “Discuss” label is a normalised demand description; the official paper’s printed interrogative asks how the trend affected personal freedom and family relations. The official local 2026 GS-I paper and its complete routing ledger control Q20. All official-paper claims above were checked against the listed local files.
 
 ## Official current source
 
@@ -2772,5 +2841,5 @@ This PLFS item is the file’s sole current-affairs linkage. NITI Aayog’s 2022
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | Complete Topic 11 Advanced owner and bounded family/labour/platform material listed above |
 | OCR books | not available | No permitted OCR-searchable topic-specific Indian Society book was available in this worktree |
-| PYQs through 2026 | checked | Local Mains and Prelims ledgers listed above; 2018–2025 metadata controlled, 2025 Q18 cross-routed, 2026 Q20 provisional because the cited scan is absent |
+| PYQs through 2026 | checked | Official local GS-I papers control 2013, 2015, 2016 and 2024–2026 wording; the 2018–2023 ledger controls the intervening routes; 2025 Q18 remains cross-routed to Topic 12 |
 | Official live sources | checked | Sole current linkage is the official MoSPI PLFS Annual Report 2025 press note with URL and SHA-256 above |
