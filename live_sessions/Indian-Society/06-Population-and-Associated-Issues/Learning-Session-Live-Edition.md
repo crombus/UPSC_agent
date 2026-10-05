@@ -2385,8 +2385,8 @@ Use:
 
 ### 7. Verified PYQ linkage — after concept teaching
 
-> **Provisional 2026 GS-I Q19 transcription — official question paper unavailable for direct verification:** “Critically examine the challenges of demographic transition in contemporary India.”
-> **Provisional question metadata: 15 marks · 250 words.**
+> **Verified 2026 GS-I Q19:** “Critically examine the challenges of demographic transition in contemporary India.”
+> **Question metadata: 15 marks · 250 words.**
 
 **Neutral demand:** Integrate uneven state transitions, jobs and skills, ageing and care, gender, migration, health and urbanisation; test the demographic-dividend conditions and conclude with differentiated policy.
 
@@ -2438,7 +2438,7 @@ Critical examination is not a list of negatives. It evaluates both the demograph
 10. Gender enters fertility, work, care, ageing and migration.
 11. National averages require state and group disaggregation.
 12. A good conclusion joins voluntary choice, capability and readiness.
-13. The provisional 2026 demographic-transition demand requires an integrated, differentiated and critical rather than uniformly pessimistic answer; the official question paper remains unavailable for direct verification.
+13. The verified 2026 demographic-transition demand requires an integrated, differentiated and critical rather than uniformly pessimistic answer.
 
 ### Concept check
 
@@ -2477,7 +2477,7 @@ The questions below follow the teaching sequence. They are reproduced without mo
 | 2024 | GS-I Q5 | “Why do large cities tend to attract more migrants than smaller towns? Discuss in the light of conditions in developing countries.” | 10 / 150 | Exact wording and metadata verified from available records | Destination opportunity set → expected income and networks → agglomeration → costs and qualification |
 | 2024 | GS-I Q7 | “What is the concept of a 'demographic winter'? Is the world moving towards such a situation? Elaborate.” | 10 / 150 | Exact wording and metadata verified from available records | Define term → causes and consequences → uneven global assessment → graded verdict |
 | 2025 | GS-I Q17 | “Discuss the distribution and density of population in the Ganga River Basin with special reference to land, soil and water resources.” | 15 / 250 | Exact wording and metadata verified; primary linkage is Geography | Define distribution/density → resource geography → concentration and limits → qualified regional conclusion |
-| 2026 | GS-I Q19 | **Provisional transcription:** “Critically examine the challenges of demographic transition in contemporary India.” | 15 / 250 | Provisional wording; official question paper unavailable for direct verification | Mechanism → uneven state challenges → dividend/ageing/migration/gender → policy limits → graded verdict |
+| 2026 | GS-I Q19 | “Critically examine the challenges of demographic transition in contemporary India.” | 15 / 250 | Exact wording and metadata verified from the official paper and OCR-verified routing ledger | Mechanism → uneven state challenges → dividend/ageing/migration/gender → policy limits → graded verdict |
 
 ## Objective-paper status
 
@@ -2486,7 +2486,7 @@ Available verified records identify 2024 questions testing **TFR definition** an
 ## Scope and verification cautions
 
 - The 2024 migration question and 2025 Ganga-basin question primarily test Geography, but are included because migration, distribution and density are indispensable to complete population understanding.
-- The available 2026 record is not treated as proof that no other relevant question exists. It supplies one **provisional** demand with the verification limitation stated above.
+- The official 2026 GS-I paper and OCR-verified routing ledger confirm Q19 as the relevant demographic-transition demand. Its primary canonical owner is Geography; it is cross-routed here because the answer also requires social-demography analysis.
 - UPSC publishes no official Mains model answer or marking scheme for these questions. The structural approaches are authored study guidance.
 
 # CUMULATIVE CONCEPT CHECKS
@@ -2988,7 +2988,7 @@ population accounting and transition
 | Age structure and population pyramids | Lesson 4 | expansive/stationary/constrictive forms | cohort-governance synthesis | lesson check and cumulative Check 4 |
 | Dependency ratios | Lessons 4 and 9 | young/old and demographic/economic distinctions | active-ageing critique | lesson checks and master distinction table |
 | Demographic dividend | Lessons 4 and 11 | conditional conversion chain | relation to ageing and winter | Lesson 4 model and Check 12 |
-| Demographic transition model | Lesson 5 | stages, India phases and limitations | provisional 2026 critical synthesis | Lesson 5 model and provisional 2026 PYQ linkage |
+| Demographic transition model | Lesson 5 | stages, India phases and limitations | verified 2026 critical synthesis | Lesson 5 model and verified 2026 PYQ linkage |
 | India's historical phases and 1921 turning point | Lesson 5 | complete broad chronology | state-staggered interpretation | revision notes and coverage check |
 | Migration definitions, theories and streams | Lesson 6 | stock/flow, push-pull, expected income, network, streams | ageing and federal redistribution | lesson check, 2024 PYQ and final 15-mark model |
 | Origin and destination consequences | Lesson 6 | remittance, labour, housing, care | migration as demographic offset | cumulative Check 6 and master map 4 |
@@ -3004,7 +3004,7 @@ population accounting and transition
 | Malthus, Boserup, optimum population and population-resource debate | Lesson 11 | scarcity, innovation and relative optimum | entitlement and ecological corrections | Map 7 and register notes |
 | Demographic winter | Lesson 11 | precise definition, causes, effects and responses | non-official status and rights critique | 2024 PYQ, lesson check and final practice |
 | Social outcomes and governance | Lesson 12 | life-course and measure-policy matching | complete integrated answer engine | lesson check and 20-mark model |
-| Verified 2019, 2021, 2024 and 2025 PYQs; provisional 2026 demand | Lessons 2, 6, 10–12 and final PYQ index | exact neutral display after teaching, with 2026 explicitly provisional | provenance and absent-scan limitation stated | PYQ index; no solved PYQ model |
+| Verified 2019, 2021, 2024, 2025 and 2026 PYQs | Lessons 2, 6, 10–12 and final PYQ index | exact neutral display after teaching; 2026 Q19 verified from the official paper and routing ledger | primary Geography ownership and social-demography cross-route stated | PYQ index; no solved PYQ model |
 | Objective PYQ concepts | Final PYQ section | TFR and low-fertility/ageing concepts taught | exact option-bearing paper not reproduced without independent reopening | Lessons 1, 4 and 11 |
 | Consolidated remediation and maps | Final sections | 12 error-repair units and seven master maps | integrated source and rights critique | complete final arc |
 
@@ -3020,7 +3020,7 @@ population accounting and transition
 | Solved workbook | not relevant | Permanently excluded from live-session evidence by the governing source-exclusion rule |
 | Advanced dossier | checked | Topic 06 Advanced owner plus relevant population, migration, family, women and elderly Advanced owners were read in full |
 | OCR books | not available | No topic-specific OCR-searchable demography or sociology book was present under the assigned worktree's `books` directory |
-| PYQs through 2026 | checked | Audited 2018–2025 Mains routing ledgers, the 2024–2025 Prelims routing ledger, the Geography Topic 37 owner and the permitted 2026 ledger were checked; Q19 remains provisional because the named official scan was absent |
+| PYQs through 2026 | checked | Audited 2018–2025 Mains routing ledgers, the 2024–2025 Prelims routing ledger, the 2026 routing ledger and the on-disk official 2026 GS-I paper were checked; Q19 wording and 15-mark/250-word metadata are verified |
 | Official live sources | checked | Official NFHS release page verified the 29 May 2026 compendium release and stated that NFHS-6 covered India and each State/UT except Manipur; Census/SRS official pages were used only for source-status verification |
 
 ## Canonical and cross-topic sources used
@@ -3056,9 +3056,9 @@ population accounting and transition
 - `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
 - `upsc-ai-kit\knowledge\PYQ-MAINS-COVERAGE-AUDIT-2026.md`
 
-## 2026 provisional verification limitation
+## 2026 official-paper verification
 
-The permitted internal ledger `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` states that its text was OCR-verified from `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`. That named scan was not present in this worktree, and the official UPSC question-paper page was inaccessible during this pass. The 2026 Q19 wording and marks/word metadata are therefore labelled **provisional** throughout the learner-facing lesson, revision note, PYQ table and coverage matrix. The missing scan is not used to infer that any other question was absent.
+The internal ledger `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` was checked against the on-disk official paper `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` (SHA-256 `49418BA3D1A93DE14F2E4D21BE2C77AAFDD9F194B32238E05D5242D9747A2601`). The paper confirms Q19, its exact wording and its 15-mark/250-word metadata. Geography retains primary ownership; this session cross-routes the question for its social-demography dimensions.
 
 ## Official live and statistical sources
 
