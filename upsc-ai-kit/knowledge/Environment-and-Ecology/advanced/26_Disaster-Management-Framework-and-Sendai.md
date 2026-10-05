@@ -1,45 +1,61 @@
 # Disaster Management Framework and Sendai - ADVANCED
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Disaster Management) + Prelims.
-> **Core area:** Disaster-risk-reduction governance architecture.
-> **Grounded in:** Disaster Management Act, 2005 full text; Sendai Framework for Disaster Risk Reduction 2015-2030 (UNDRR) monitoring indicators; National Disaster Management Plan revisions; audited UPSC Environment/Disaster Management PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Core area:** Bounded environment/climate/ecosystem/Sendai overlap,
+> with direct disaster-management governance routed to its dedicated owners.
+> **Grounded in:** Hyogo and Sendai Framework official texts; UNDRR
+> monitoring; National Disaster Management Plan revisions; official
+> current-law routes; audited UPSC Environment/Disaster Management PYQs
+> (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/26_Disaster-Management-Framework-and-Sendai.md`.*
+>
+> **Ownership boundary:** this Environment topic is a **PARTIAL,
+> cross-subject owner** for the environment/climate/ecosystem/Sendai
+> interface. Direct disaster-risk concepts, law, institutional mandates,
+> plans, finance, Incident Response System and operational warning
+> architecture belong to the dedicated `Disaster-Management/basic/` and
+> `advanced/` owners. This file may apply or route those foundations but
+> must not replace them.
 
 ---
 
-## 1. The paradigm shift Sendai represents: from "disaster management" to "disaster risk reduction"
+## 1. From Hyogo's DRR foundation to Sendai's risk-governance deepening
 
-⚠️ The single most important advanced-level conceptual point: the global disaster-policy
-field underwent a genuine paradigm shift — from the Yokohama Strategy (1994) and Hyogo
-Framework (2005-2015) era's focus on *managing* disasters as they occur, toward the Sendai
-Framework's (2015-2030) explicit focus on *reducing existing disaster risk* and *preventing
-the creation of new risk* through development planning itself (e.g., land-use planning,
-building codes, ecosystem-based approaches) — treating disaster risk as a systemic
-development-planning issue rather than solely an emergency-response issue. This reframing is
-why Sendai's four priorities emphasise "understanding risk" and "risk governance" ahead of
-"preparedness for effective response" — response capability remains essential, but is
-positioned as the framework's fourth priority, not its starting point.
+⚠️ The **Hyogo Framework for Action 2005-2015 already centred disaster
+risk reduction and the resilience of nations and communities**. Its five
+priorities covered institutional foundations, risk assessment and early
+warning, knowledge and education, reduction of underlying risk factors,
+and preparedness for effective response. It must not be portrayed as a
+response-only or event-management framework.
 
-## 2. India's DDMA-level implementation gap: the recurring, examinable weak link
+Sendai (2015-2030) **deepened and expanded** that foundation. It made
+preventing new risk and reducing existing risk more explicit; strengthened
+the focus on risk understanding, governance and investment; widened
+attention to health, livelihoods, critical infrastructure and systemic
+risk; attached seven measurable global targets; and placed Build Back
+Better explicitly within recovery, rehabilitation and reconstruction.
+The accurate comparison is continuity plus sharper scope, measurement and
+accountability—not the invention of DRR or resilience in 2015. Official:
+[Hyogo Framework](https://www.undrr.org/publication/hyogo-framework-action-2005-2015-building-resilience-nations-and-communities-disasters)
+and [Sendai Framework](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030).
 
-1. ✅ The Disaster Management Act, 2005's three-tier structure places DDMA (District
-   Disaster Management Authority) as the primary implementing body closest to actual
-   disaster events, chaired by the District Magistrate/Collector.
-2. ⚠️ **Documented implementation critique:** district-level disaster-management capacity
-   (dedicated staffing, technical expertise, updated hazard/vulnerability mapping, and
-   resourcing for mitigation infrastructure) has been repeatedly flagged by various
-   parliamentary and expert reviews as the weakest link in India's disaster-governance
-   chain — District Magistrates typically hold disaster-management responsibilities
-   alongside numerous other administrative duties, without always having a dedicated,
-   full-time, technically specialised disaster-management team comparable to state or
-   national-level bodies.
-3. ⚠️ **Analytical synthesis:** this creates a structural mismatch — the institutional tier
-   with the most detailed local knowledge and the fastest initial-response role (DDMA) is
-   often the least resourced tier in practice, while national/state bodies (NDMA/SDMA) with
-   greater resources and policy authority are geographically and administratively more
-   distant from the actual disaster event — a recurring theme when Mains questions ask
-   about strengthening India's disaster-governance architecture.
+## 2. Environment-facing local implementation boundary
+
+1. ⚠️ This owner uses district and urban implementation only where it
+   directly affects environmental risk: wetland and floodplain protection,
+   slope and coastal land use, heat vulnerability, ecosystem restoration
+   and local climate adaptation.
+2. ✅ Exact DDMA/UDMA composition, powers, plan cycles, staffing,
+   disaster funds and Incident Response System roles are direct ownership
+   of `../../Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`
+   and its Advanced companion; finance belongs to Disaster Management
+   Topic 16 and operational warning architecture to Topic 04.
+3. ⚠️ The bounded analytical point retained here is that ecosystem-based
+   and risk-sensitive development measures fail when local technical
+   capacity, land-use enforcement, maintenance, participation or data are
+   weak. Use the dedicated Disaster Management owners for the legal or
+   institutional proof behind that conclusion.
 
 ## 3. Ecosystem-based disaster-risk reduction: a cross-topic integration point
 
@@ -58,6 +74,10 @@ positioned as the framework's fourth priority, not its starting point.
   strategy.
 
 ## 4. Early-warning systems: documented success and continuing gaps
+
+> **Route boundary:** this section retains only the climate/environment
+> comparison. MHEWS components, alert-agency mandates, CAP/SACHET and
+> operational warning chains are owned by Disaster Management Topic 04.
 
 - ✅ India's cyclone early-warning and evacuation capability (led by IMD forecasting combined
   with NDMA/state-government coordinated evacuation protocols) has been credited with
@@ -91,19 +111,18 @@ positioned as the framework's fourth priority, not its starting point.
 
 | Tension | Balanced framing |
 |---|---|
-| National/state disaster-policy authority vs district-level implementation capacity | Genuine disaster resilience requires resourcing the DDMA tier commensurate with its critical, closest-to-ground implementation role, not just strengthening national/state policy frameworks. |
+| National policy ambition vs local environmental implementation capacity | Ecosystem buffers, land-use controls and heat/flood plans require local technical capacity, budgets, maintenance and participation; route the formal institutional proof to Disaster Management Topic 02. |
 | Engineered ("grey") disaster infrastructure vs ecosystem-based ("green") risk reduction | Both are valuable and increasingly viewed as complementary; ecosystem-based measures (mangroves, wetlands, forests) should be integrated into disaster-risk-reduction planning, not treated as a separate environmental-policy silo. |
 | Mature hazard-specific preparedness (cyclones) vs newer, less-developed hazard preparedness (heatwaves, urban flooding) | India's disaster-preparedness capability is uneven across hazard types; newer instruments (heatwave action plans) require continued institutional development comparable to the decades-long maturation of cyclone-preparedness systems. |
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The Sendai Framework represents a paradigm shift from "disaster management" (managing
-  events as they occur) to "disaster risk reduction" (preventing/reducing risk through
-  development planning itself), succeeding the Hyogo Framework for Action (2005-2015).
-- ✅ District Disaster Management Authorities (DDMAs), chaired by the District Magistrate/
-  Collector, have been repeatedly flagged in reviews as the least-resourced tier in India's
-  three-tier disaster-governance structure despite their critical, closest-to-ground
-  implementation role.
+- ✅ Hyogo already pursued DRR and resilience through five priorities;
+  Sendai deepened that foundation through explicit prevention of new
+  risk, reduction of existing risk, four priorities and seven targets.
+- ✅ Environment Topic 26 uses district/urban institutions only for
+  environment-facing implementation; exact legal mandates and capacity
+  evidence must be routed to dedicated Disaster Management owners.
 - ✅ Ecosystem-based disaster-risk reduction (mangroves, wetlands, forests as risk-reduction
   infrastructure) is an increasingly recognised complement to engineered disaster
   infrastructure under both Sendai Framework principles and evolving Indian policy.
@@ -116,9 +135,10 @@ positioned as the framework's fourth priority, not its starting point.
 - ❌ The Sendai Framework primarily emphasises improving emergency response capability as its
   first priority. -> Its first priority is "understanding disaster risk," reflecting the
   paradigm shift toward risk reduction and prevention rather than response-first framing.
-- ❌ India's three-tier disaster-management structure is uniformly well-resourced across all
-  levels. -> DDMA (district level) has been repeatedly flagged as comparatively under-
-  resourced relative to its critical implementation role.
+- ❌ Once a national DRR policy recognises ecosystem-based measures, local
+  implementation is automatic. -> Wetland, mangrove, slope, heat and
+  flood measures still depend on local capacity, enforcement, maintenance
+  and participation; route institutional detail to Disaster Management.
 - ❌ Ecosystem-based disaster-risk reduction (mangroves, wetlands) is considered separate
   from and unrelated to formal disaster-management policy. -> It is increasingly integrated
   as a recognised risk-reduction approach under Sendai Framework principles and evolving
@@ -129,54 +149,59 @@ positioned as the framework's fourth priority, not its starting point.
 
 ## 9. 📰 Current anchor — analytical use
 
-📰 **Disaster Management (Amendment) Act, 2025**, in force 9 April 2025,
-is the current legal update. Route institutional detail to
-`../../Disaster-Management/advanced/02_Indian-Legal-and-Institutional-Architecture.md`
-instead of duplicating it. [NIDM/official text](https://nidm.gov.in/DMAct.asp).
+📰 Route current-law detail to
+`../../Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`
+and its Advanced companion instead of duplicating it here. The 2025
+amendment supplies the current institutional changes; the later Jan
+Vishwas Act 2026 separately amended DM Act ss. 51-53 from 15 May 2026.
+[Official MHA/NDMI law page](https://ndmindia.mha.gov.in/ndmi/laws-plans-and-policies).
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 India's National Disaster Management Plan, aligned with Sendai Framework priorities, continues to be updated (verify the latest NDMA plan revision and hazard-specific action-plan development, e.g., heatwave action plans, before citing specific current details). | Use as the current institutional baseline while pairing it with the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point for full analytical depth. |
-| ✅ **The Hyogo-to-Sendai shift is the analytical core.** Hyogo (2005-2015) set **five priorities** framed around *managing disasters*; Sendai (2015-2030) set **four priorities plus seven measurable global targets** framed around *managing risk*, and extended explicitly to **"Build Back Better" in recovery, rehabilitation and reconstruction**. | The examinable proposition: Sendai's decisive innovation was not new priorities but **measurable targets with a baseline period**, converting DRR from exhortation into something auditable. India's NDMP inherits the priorities but not the targets — which is precisely where the accountability gap sits. |
-| ✅ **Heatwave governance** is the fastest-moving gap: heatwaves are currently treated largely as **local** disasters, while their intensifying severity argues for a broader national approach; documented weaknesses include the absence of sub-district-level data to build separate urban and rural heat indices, thin intra-city ward-level vulnerability analysis, and the lack of a settled financing arrangement for Heat Action Plans. | The single best contemporary illustration of the **hazard-classification-drives-financing** problem: how a hazard is legally and administratively categorised determines which fund pays for it. Use alongside Topic 17's SLCF/urban-heat science for a science-to-governance chain. |
+| 📰 The **revised NDMP 2019** remained the latest published National Disaster Management Plan located as at **5 October 2026**; any later edition or hazard-plan status requires a fresh official check. | Use only its environment/Sendai alignment here. Route plan responsibility, review cycles and institutional evaluation to Disaster Management Topic 02. |
+| ✅ **The Hyogo-to-Sendai development is the analytical core.** Hyogo (2005-2015) already set **five DRR and resilience priorities**; Sendai (2015-2030) reorganised action into **four priorities**, added **seven measurable global targets and baseline logic**, made preventing new and reducing existing risk explicit, and placed **Build Back Better** within recovery, rehabilitation and reconstruction. | The examinable proposition is continuity with deeper risk governance and measurement. Do not claim that Hyogo ignored prevention, underlying risk factors, early warning or resilience. |
+| 📰 **Heatwave governance and finance changed in 2026:** MHA confirmed on **4 August 2026** that heatwaves and lightning were included in the nationally notified natural-calamity list for the 2026-31 SDRF/NDRF operational guidelines. | Environment owns the climate-risk, ecosystem, health and vulnerability linkage. Exact eligibility, norms, fund architecture and mitigation financing route to Disaster Management Topics 02 and 16; notified status is not proof of prevention or relief outcomes. |
 | ✅ **Ecosystem-based disaster risk reduction is now explicit in Indian fiscal policy** — MISHTI (mangroves as surge buffers), NPCA-expanded wetlands as flood-moderation buffers, and the National Coastal Mission (Economic Survey 2025-26, Ch. 10). | Lets a disaster-management answer draw directly on Topics 01, 07 and 24: the cheapest disaster infrastructure is often an intact ecosystem, and the Government now says so in its own budget documents. |
 
 ## 10. PYQ-based analytical application
 
-- ⚠️ Prelims questions on the Sendai Framework's priorities or India's three-tier structure
-  should be answered by applying the precise priority-order and chairing-structure facts.
+- ⚠️ Use this owner for Sendai's environment-facing implications and
+  priority/target distinctions. Route three-tier chairing, membership and
+  legal-mandate questions to Disaster Management Topic 02.
 - ⚠️ Mains answers on "strengthening disaster management in India" should explicitly engage
-  the DDMA-capacity-gap critique and the ecosystem-based-risk-reduction integration point to
-  demonstrate analytical depth beyond describing the institutional structure.
+  the local implementation constraint and ecosystem-based-risk-reduction
+  integration point, while sourcing the formal institutional architecture
+  from the dedicated Disaster Management owner.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** India's disaster-governance architecture reflects the Sendai
-Framework's paradigm shift toward risk reduction and prevention, but its real effectiveness
-is constrained by a persistent capacity gap at the district level — the tier closest to
-actual disaster events — and by uneven institutional maturity across hazard types; genuine
-resilience requires resourcing DDMAs commensurately, integrating ecosystem-based risk-
-reduction measures alongside engineered infrastructure, and extending the same institutional
-maturity seen in cyclone preparedness to newer hazard categories like heatwaves and urban
-flooding.
+**Central thesis:** Sendai deepened the DRR and resilience foundation
+already established by Hyogo. Environment's distinctive contribution is
+to show how climate-sensitive hazards, ecosystem degradation, land-use
+choices and nature-based buffers create or reduce risk. Exact law,
+institutions, finance, IRS and MHEWS architecture must be imported from,
+and attributed to, the dedicated Disaster Management owners rather than
+recreated here.
 
-1. Explain the Sendai Framework's paradigm shift from disaster management to disaster risk
-   reduction, and its four priorities.
-2. Present India's three-tier structure (NDMA-SDMA-DDMA) and the documented DDMA-capacity
-   gap as the central implementation critique.
+1. Establish Hyogo's five-priority DRR/resilience foundation, then explain
+   Sendai's deeper risk-governance, investment, target and BBB architecture.
+2. Use only the environment-facing local implementation point here; route
+   exact NDMA-SDMA-DDMA/UDMA law and capacity evidence to Disaster
+   Management Topic 02.
 3. Integrate ecosystem-based risk-reduction measures (mangroves, wetlands, forests) as a
    cross-topic analytical point connecting disaster policy to ecosystem-services concepts.
 4. Compare mature (cyclone) versus newer (heatwave, urban flooding) hazard-preparedness
    institutional development.
-5. Conclude with a DDMA-resourcing and ecosystem-integration recommendation as the genuine
-   determinants of improved disaster resilience.
+5. Conclude with risk-sensitive development, ecosystem integration and
+   locally executable capacity, while preserving the ownership route.
 
 ## 12. Probable questions
 
-- ⚠️ **Prelims:** Identify the Sendai Framework's four priorities for action in correct order
-  and India's three-tier disaster-management chairing structure.
-- ⚠️ **Mains (10 marks):** Why has the District Disaster Management Authority been
-  identified as the weakest link in India's disaster-governance structure?
+- ⚠️ **Prelims:** Distinguish Hyogo's five priorities from Sendai's four
+  priorities and seven targets; route Indian chairing/composition facts
+  to Disaster Management Topic 02.
+- ⚠️ **Mains (10 marks):** How did Sendai deepen, rather than originate,
+  the DRR and resilience agenda established under Hyogo?
 - ⚠️ **Mains (15 marks):** Discuss the role of ecosystem-based approaches (mangroves,
   wetlands, forests) in disaster-risk reduction, integrating this with India's formal
   disaster-management framework.
@@ -184,6 +209,12 @@ flooding.
 ## 13. Study links
 
 - ✅ Foundation companion: `basic/26_Disaster-Management-Framework-and-Sendai.md`.
+- ✅ Direct risk/Sendai owner:
+  `../../Disaster-Management/basic/01_Concepts-Risk-Resilience-and-Sendai.md`.
+- ✅ Direct law/institutions owner:
+  `../../Disaster-Management/basic/02_Indian-Legal-and-Institutional-Architecture.md`.
+- ✅ Direct warning, finance and international-governance routes:
+  Disaster Management Topics `04`, `16` and `18`.
 - ✅ `24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md` — mangrove-based storm-surge
   buffering as ecosystem-based disaster-risk reduction.
 - ✅ `07_Biosphere-Reserves-and-Ramsar-Sites.md` — wetlands' flood-buffering ecosystem

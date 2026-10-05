@@ -4,7 +4,8 @@
 > **Core area:** Systemic/cascading urban risk; criticality mapping;
 > recovery standards and urban-authority institutional design.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
-> PDF pp. 27-31, 61-64; `00_Master-Framework.md` Sections 5, 8.
+> PDF pp. 27-31, 61-64; CDRI's official current About page;
+> `00_Master-Framework.md` Sections 5, 8.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/14_Urban-and-Critical-Infrastructure-Resilience.md`.*
 
@@ -165,20 +166,23 @@ Urban DM Authority) is empowered to coordinate across all of them.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **CDRI's own dated publications** (58 member countries and 12 member
-  organisations as of June 2026; IRIS; the biennial *Global
-  Infrastructure Resilience* report, first edition October 2023; DRI
-  Connect) and the **Disaster Management (Amendment) Act, 2025's
+- 📰 **CDRI's official current page** reports **59 member countries** and
+  **13 partner organisations**; its New Delhi Secretariat holds
+  **International Organization** status. Keep the categories separate.
+  Its IRIS initiative, biennial *Global Infrastructure Resilience*
+  report and DRI Connect platform, together with the **Disaster
+  Management (Amendment) Act, 2025's
   s. 41A Urban Disaster Management Authority provision** are the correct
   current anchors for CDRI's project/membership status and the Urban DM
   Authority's actual statutory/operational status.
+  [Official CDRI status](https://cdri.world/about/).
 - ⚠️ **CDRI's membership growth is an influence metric, not a resilience
-  outcome.** An advanced answer should resist reading 70 members as
-  evidence of resilient infrastructure; CDRI's stated mechanism is to
-  shape **standards and multilateral-bank investment criteria**, so the
-  correct test of its effect is whether design codes and lending
-  conditions have changed — which no dated source establishes — not how
-  many countries have joined.
+  outcome.** An advanced answer should not aggregate member countries and
+  partner organisations into a total membership count or treat
+  participation as evidence of resilient infrastructure. CDRI's stated
+  mechanism is to shape **standards and multilateral-bank investment
+  criteria**, so the correct test is whether design codes and lending
+  conditions have changed—not how many participants are listed.
 - ⚠️ **Mass-gathering safety is the clearest case of the
   guideline-without-enforcement pattern.** NDMA's crowd-management
   document is a **May 2014 guide** addressed to State governments, local

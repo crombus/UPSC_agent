@@ -23,7 +23,7 @@
 > reconstruction; the legal/institutional framework and the role of
 > science and technology in disaster management).
 > **Research cutoff:** 18 July 2026 for the original static synthesis;
-> volatile-status recheck completed **15 August 2026**.
+> volatile-status recheck completed **5 October 2026**.
 > **Static spine:** *VisionIAS Value Added Material Disaster Management*
 > (2024 update), complete direct-PDF extraction, PDF pp. 1-85 — not
 > Qdrant/retrieval material.
@@ -33,7 +33,8 @@
 > **Major panels:** [`_revision/Major-Committees-Commissions-and-Reports.md`](_revision/Major-Committees-Commissions-and-Reports.md)
 > maps the national disaster architecture, hazard-specific reviews and disaster-finance commissions.
 > **Major Acts:** [`../MAJOR-ACTS-INDEX.md`](../MAJOR-ACTS-INDEX.md)
-> maps the Disaster Management Act, 2025 reforms, Dam Safety Act and emergency public-health law.
+> maps the Disaster Management Act as amended in 2025 and 2026, the Dam
+> Safety Act and emergency public-health law.
 > **Indices and reports:** [`../INDICES-AND-REPORTS-INDEX.md`](../INDICES-AND-REPORTS-INDEX.md)
 > maps GAR, WorldRiskIndex, INFORM and Indian hazard/loss statistics.
 > **Institutions and regulators:** [`../INSTITUTIONS-AND-REGULATORS-INDEX.md`](../INSTITUTIONS-AND-REGULATORS-INDEX.md)
@@ -85,7 +86,11 @@
   Disaster Response Force) are operative law) and any State/Central
   *implementation* action taken under it — are cited only to a dated
   official source; the Act's own commencement is settled and is not
-  treated as uncertain.
+  treated as uncertain. The later **Jan Vishwas (Amendment of
+  Provisions) Act, 2026 (Act 8 of 2026)** amended only the maximum
+  imprisonment terms in DM Act **ss. 51-53**, effective **15 May 2026**
+  under **S.O. 2181(E)**; it did not redesign the institutional
+  architecture. Topic `02` owns the exact enacted substitutions.
 - **Statutory mandate vs operational practice:** an enabling power in the
   Act ("the State Government **may**... constitute") is never reported as
   a body that exists everywhere. Sections 41A and 44A are enabling
@@ -163,7 +168,7 @@
 | # | Topic | Core exam area |
 |---|---|---|
 | 01 | Concepts, Risk, Resilience and Sendai | Hazard/exposure/vulnerability/capacity/risk; DM cycle; Sendai priorities and targets |
-| 02 | Indian Legal and Institutional Architecture | DM Act 2005 and 2025 Amendment Act (in force 9 Apr 2025; ss. 8A, 8B, 41A, 44A); NDMA/SDMA/DDMA/NEC/NIDM/NDRF; plans and finance |
+| 02 | Indian Legal and Institutional Architecture | DM Act 2005; 2025 institutional amendment (in force 9 Apr 2025; ss. 8A, 8B, 41A, 44A); Jan Vishwas Act 2026 s. 51-53 term changes (effective 15 May 2026); NDMA/SDMA/DDMA/NEC/NIDM/NDRF; IRS; plans and finance |
 | 03 | Community-Based DRR and Inclusive Protection | Community as first responder; PRIs/ULBs/SHGs; disability, gender, children, elderly, migrants |
 | 04 | Multi-Hazard Early Warning and Disaster Technology | End-to-end warning chain; GIS/satellites; SACHET; impact-based forecasting |
 | 05 | Earthquake Risk and Resilient Construction | Seismic zones; codes, retrofitting; National Centre for Seismology |
@@ -183,8 +188,9 @@
 
 ## Study sequence
 
-1. **Foundation:** `01` — the risk equation, DM cycle and Sendai
-   framework every later topic reuses.
+1. **Foundation:** `01` — the non-arithmetic, probabilistic
+   hazard-exposure-vulnerability-capacity interaction, DM cycle and
+   Sendai framework every later topic reuses.
 2. **Institutional spine:** `02-04` — legal/institutional architecture,
    inclusive community protection and the technology/early-warning layer
    that every hazard-specific topic below routes through.
@@ -276,7 +282,7 @@ For Disaster Management, use the existing physical/local spine:
 | Source block | Priority | Knowledge route |
 |---|---|---|
 | VisionIAS VAM: concepts, risk, resilience, cycle and Sendai | **A** | Topics 01 and 18 |
-| Legal/institutional architecture | **A** | Topic 02; update through the DM Amendment Act, 2025 and official sources |
+| Legal/institutional architecture | **A** | Topic 02; update through the 2025 institutional amendment, the 2026 s. 51-53 changes and official sources |
 | Community-based and inclusive DRR | **A** | Topic 03 |
 | Early warning and technology | **A** | Topic 04 |
 | Hazard chapters: earthquake through forest fire | **A** | Topics 05-11 |

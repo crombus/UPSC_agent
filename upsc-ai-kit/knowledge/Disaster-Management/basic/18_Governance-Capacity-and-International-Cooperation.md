@@ -6,8 +6,9 @@
 > the Yokohama-Hyogo-Sendai evolution.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
 > PDF pp. 58-66 (global frameworks, cooperation, community/media), pp.
-> 74-77 (NDMP and Sendai analytical material); `00_Master-Framework.md`
-> Sections 6, 9.
+> 74-77 (NDMP and Sendai analytical material); UNDRR's official
+> 24 September 2026 Sendai Framework Monitor status; CDRI's official
+> current About page; `00_Master-Framework.md` Sections 6, 9.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/18_Governance-Capacity-and-International-Cooperation.md`.*
 
@@ -45,7 +46,8 @@ targets (PDF pp. 59-62).
 | ✅ **Yokohama Strategy for a Safer World (1994)** | Ten principles from the mid-term review of the International Decade for Natural Disaster Reduction (IDNDR, 1990s); emphasises risk assessment, development-integrated prevention/preparedness, capacity development, early warning, participatory prevention, vulnerability reduction through education, technology-sharing, environmental protection, and each country's primary protection responsibility with international-community support (PDF p. 60). |
 | ✅ **Hyogo Framework for Action (2005-2015)** | Five priorities: making DRR a priority; improving risk information/early warning; building a culture of safety/resilience; reducing risk in key sectors; strengthening preparedness for response (PDF p. 61). |
 | 📰 **Sendai's seven global targets (A-G)** | A mortality; B affected people; C economic loss relative to GDP; D critical-infrastructure damage and basic-service disruption; E national and local DRR strategies; F international cooperation to developing countries; G multi-hazard early warning and risk information (UNDRR, Sendai Framework text, 18 March 2015). ⚠️ **A-D are loss-reduction targets; E-G are means-of-implementation targets; Target E alone had a 2020 deadline.** VisionIAS shows these only as a figure (PDF p. 62). |
-| 📰 **Sendai Midterm Review (2023)** | High-Level Meeting held **17-19 May 2023**; adopted a Political Declaration, issued as **UN General Assembly resolution 77/289** (18 May 2023) — the correct anchor for any global-progress claim. |
+| ✅ **Sendai Midterm Review (2023)** | High-Level Meeting held **17-19 May 2023**; adopted a Political Declaration, issued as **UN General Assembly resolution 77/289** (18 May 2023). It remains a major midterm political milestone, not the latest data anchor. |
+| 📰 **Current Sendai monitoring status (24 September 2026)** | UNDRR reported official national submissions through the Sendai Framework Monitor: **176 countries** reporting; average disaster mortality per 100,000 down **65%** between 2005-2014 and 2016-2025; the affected-person rate **doubled**; reported direct economic losses in 2016-2025 exceeded **US$1 trillion**; **151** countries reported national DRR strategies; and **128** reported MHEWS. Reporting completeness varies by country, target and year, so these are reported global monitoring trends—not proof of causation, uniform national performance or India-specific target achievement. [Official UNDRR status](https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk). |
 | 📰 **Early Warnings for All (EW4All)** | UN Secretary-General's call of March 2022, launched at COP27 (November 2022), targeting universal early-warning coverage by **2027**; pillars led by UNDRR (risk knowledge), WMO (observation/forecasting), ITU (dissemination) and IFRC (preparedness/response), with WMO and UNDRR co-leading. It is the operational vehicle for Sendai Target G. |
 | ✅ **National Platform for Disaster Risk Reduction (NPDRR)** | Multi-stakeholder body chaired by the Union Home Minister; MoS (DM, MHA) and NDMA Vice-Chairman as NPDRR Vice-Chairpersons; State/UT DM ministers, mayors of six named metros, four Lok Sabha and two Rajya Sabha members, and ten ULB chairpersons as members; reviews DRR-policy implementation progress and advises on Centre-State coordination (PDF p. 12). |
 | ✅ **Global Platform for Disaster Risk Reduction (GPDRR)** | "The most important international forum dedicated to the disaster risk reduction agenda"; recognised by the UN General Assembly as critical for reviewing Sendai implementation progress, feeding into the High-Level Political Forum on Sustainable Development (PDF pp. 63-64). |
@@ -130,16 +132,23 @@ targets (PDF pp. 59-62).
   and local DRR strategies) alone carried a 2020 deadline**, the rest
   2030.
 - 📰 The Sendai **Midterm Review** High-Level Meeting was held 17-19 May
-  2023; its Political Declaration became **UNGA resolution 77/289**.
+  2023; its Political Declaration became **UNGA resolution 77/289**. It
+  is a historical midterm milestone, not the latest monitoring snapshot.
+- 📰 UNDRR's **24 September 2026** SFM status reported **176 countries**,
+  mortality rate down **65%**, affected-person rate doubled, reported
+  direct losses above **US$1 trillion**, **151 national strategies** and
+  **128 MHEWS**; reporting completeness varies and the figures are global,
+  not India-specific.
 - 📰 **Early Warnings for All** targets universal early-warning coverage
   by **2027**; four pillars led by UNDRR, WMO, ITU and IFRC.
 - ✅ NPDRR is chaired by the Union Home Minister.
 - ✅ CDRI was launched by India at the UN Climate Action Summit, New
   York, on 23 September 2019.
-- 📰 CDRI reported **58 member countries and 12 member organisations
-  (70 members)** as of June 2026; it is headquartered in New Delhi and
-  obtained international-organisation status through a Headquarters
-  Agreement in August 2022.
+- 📰 CDRI's official current page reports **59 member countries** and
+  **13 partner organisations**. Its Secretariat is headquartered in New
+  Delhi and holds **International Organization** status. Keep the two
+  categories separate; do not relabel partner organisations as member
+  organisations or combine them into a single membership count.
 - ✅ GPDRR feeds review outcomes into the UN High-Level Political Forum
   on Sustainable Development.
 
@@ -162,25 +171,30 @@ targets (PDF pp. 59-62).
 
 ## 9. 📰 Current official anchor
 
-- 📰 **UNDRR's Sendai Framework Midterm Review Political Declaration
-  (High-Level Meeting, 17-19 May 2023; UNGA resolution 77/289, 18 May
-  2023)** is the correct current anchor for Sendai implementation status
-  and India's alignment; the **Disaster Management (Amendment) Act, 2025
-  (Act 10 of 2025)**, assented and gazetted 29 March 2025 and in force
-  from 9 April 2025, is the correct current anchor for domestic
-  governance architecture updates — VisionIAS's document-period
-  cooperation chronology should be checked against these before any
-  current-status claim.
+- 📰 **Current Sendai status:** UNDRR's **24 September 2026** Sendai
+  Framework Monitor release is the current global-progress anchor. It
+  reports 176 countries submitting data, mortality rate down 65%,
+  affected-person rate doubled, reported direct losses above US$1
+  trillion, 151 national strategies and 128 MHEWS. These are official
+  reported global trends with uneven reporting completeness; they do not
+  establish causation, uniform national implementation or India's own
+  performance. The 2023 Midterm Review remains the political milestone.
+  [Official source](https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk).
+- 📰 **Domestic-law boundary:** Act 10 of 2025 remains the institutional
+  architecture anchor. The later Jan Vishwas Act 2026 changed only DM Act
+  ss. 51-53 imprisonment terms from 15 May 2026 and did not redesign this
+  governance structure; exact law belongs to topic `02`.
 - 📰 For **early-warning cooperation** specifically, the current anchor is
   **Early Warnings for All** (WMO/UNDRR co-led, target 2027) rather than
   any general "international cooperation" formulation — applied to
   India's own warning chain in topic `04`.
-- 📰 For **CDRI**, use CDRI's own dated publications: it reported **58
-  member countries and 12 member organisations** as of June 2026, and
-  runs **IRIS** (Infrastructure for Resilient Island States), the
-  biennial **Global Infrastructure Resilience** report (first edition
-  October 2023) and the **DRI Connect** knowledge platform — full
-  treatment in topic `14`.
+- 📰 For **CDRI**, its official current page reports **59 member
+  countries** and **13 partner organisations**; the New Delhi Secretariat
+  holds **International Organization** status. Do not merge those
+  categories into a total "membership" count. CDRI also runs **IRIS**,
+  the biennial **Global Infrastructure Resilience** report and **DRI
+  Connect** — full treatment in topic `14`.
+  [Official CDRI status](https://cdri.world/about/).
 
 ## 10. PYQ application
 

@@ -609,7 +609,9 @@ Direct air capture removes CO2 from ambient air; point-source capture intercepts
 
 ### Risk relationship
 
-`disaster risk = hazard x exposure x vulnerability`, moderated by capacity.
+Disaster risk is determined probabilistically as a **function of hazard,
+exposure, vulnerability and capacity**. Their interaction is dynamic and
+context-specific, not a literal arithmetic equation.
 
 | Term | Meaning |
 |---|---|

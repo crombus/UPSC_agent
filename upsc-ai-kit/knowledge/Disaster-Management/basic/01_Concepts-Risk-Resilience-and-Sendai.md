@@ -6,6 +6,8 @@
 > and targets.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
 > PDF pp. 4-8 (definitions, risk, cycle, DRR), pp. 61-62 (Sendai);
+> [UNDRR's 2017 Sendai terminology for disaster risk](https://www.undrr.org/terminology/disaster-risk);
+> UNDRR's official 24 September 2026 Sendai Framework Monitor status;
 > `00_Master-Framework.md` Sections 1-2, 6.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/01_Concepts-Risk-Resilience-and-Sendai.md`.*
@@ -15,13 +17,18 @@
 ## 1. Visual foundation
 
 ```text
-HAZARD                     (dangerous condition/event)
-   x
-EXPOSURE + VULNERABILITY   (who/what is in harm's way, and how susceptible)
-   ÷
-CAPACITY                   (coping/adaptive ability)
-   =
-DISASTER RISK
+HAZARD                     (dangerous process/event)
+EXPOSURE                   (who/what is in harm's way)
+VULNERABILITY              (how susceptible the exposed elements are)
+CAPACITY                   (strengths/resources for managing and reducing risk)
+   \        |        /
+    \       |       /
+     v      v      v
+PROBABILISTIC INTERACTION IN A SPECIFIC TIME AND PLACE
+                    |
+                    v
+             DISASTER RISK
+   (a function of all four; not fixed arithmetic)
    |
    v
 DISASTER MANAGEMENT CYCLE
@@ -45,7 +52,7 @@ potential negative consequences of risk" (PDF p. 4).
 |---|---|
 | ✅ **Hazard** | "A dangerous condition or event, that threat or have the potential for causing injury to life or damage to property or the environment" — natural (geophysical, hydrological, climatological, meteorological, biological) or anthropogenic (PDF p. 4). |
 | ✅ **Vulnerability** | "Conditions determined by physical, social, economic, and environmental factors or processes, which increase the susceptibility of a community to the impact of hazards" — economic, physical, social, environmental and attitudinal forms (PDF pp. 4-5). |
-| ✅ **Risk** | "A measure of the expected losses due to a hazard event occurring in a given area over a specific time period"; working relation "Risk = Probability of Hazard x Degree of Vulnerability" (PDF p. 5). |
+| ✅ **Disaster risk** | UNDRR defines it as potential loss in a specific period, determined probabilistically as a **function of hazard, exposure, vulnerability and capacity**. A source-book pairing of hazard probability with vulnerability is only a limited interaction heuristic; it is not universal arithmetic and must not omit exposure or treat capacity as a fixed denominator. |
 | ✅ **Risk acceptance/avoidance/reduction/transfer** | Four distinct ways of dealing with risk — informed acceptance of consequences; avoiding risk-generating activity; applying techniques to reduce likelihood/consequence; and shifting the burden (e.g. insurance) to another party (PDF p. 5). |
 | ✅ **Rapid-onset vs. slow-onset disaster** | Rapid onset (earthquake, cyclone, flood, tsunami) has sudden, acute impact; slow onset — "Creeping Emergencies" (climate change, desertification, soil degradation, drought) — unfolds over months or years and must be reflected in preparedness planning (PDF p. 6). |
 | ⚠️ **Resilience** | Not source-defined in a single VisionIAS line but built from its cycle/DRR material as the capacity of a system to resist, absorb, accommodate to and recover from a hazard's effects in a timely and efficient manner — the concept directly asked in 2024 Q17. |
@@ -150,8 +157,10 @@ hazard topic.
 
 ## 7. Must-Know Facts for Prelims
 
-- ✅ Risk = Probability of Hazard x Degree of Vulnerability (VisionIAS
-  working relation, PDF p. 5).
+- ✅ Disaster risk is determined probabilistically as a **function of
+  hazard, exposure, vulnerability and capacity** (UNDRR terminology).
+  Any diagram joining those components is a non-arithmetic interaction
+  heuristic, not a universal equation.
 - ✅ Four ways of dealing with risk: acceptance, avoidance, reduction,
   transfer (PDF p. 5).
 - ✅ Sendai Framework (2015-2030) has four priorities and seven global
@@ -168,7 +177,15 @@ hazard topic.
   forecasting), ITU (dissemination) and IFRC (preparedness and response).
 - 📰 The Sendai Midterm Review High-Level Meeting was held **17-19 May
   2023**; its Political Declaration was adopted as UN General Assembly
-  resolution **77/289** on 18 May 2023.
+  resolution **77/289** on 18 May 2023. It is the historical midterm
+  political milestone, not the latest monitoring snapshot.
+- 📰 UNDRR's **24 September 2026** SFM status reported **176 countries**
+  submitting data, average mortality rate down **65%**, affected-person
+  rate doubled, reported direct losses above **US$1 trillion**, **151
+  national DRR strategies** and **128 MHEWS**. Reporting completeness
+  varies by country, target and year; these are reported global trends,
+  not proof of causation, uniform national performance or India's own
+  target achievement.
 - ✅ The PM's ten-point DRR agenda was announced at AMCDRR, New Delhi,
   November 2016 (PDF p. 8).
 - ⚠️ Rapid-onset disasters (earthquake, cyclone, flood, tsunami) versus
@@ -197,13 +214,15 @@ hazard topic.
 
 ## 9. 📰 Current official anchor
 
-- 📰 The Sendai Framework's implementation status is authoritatively
-  tracked by **UNDRR**. The **High-Level Meeting on the Midterm Review**
-  was held **17-19 May 2023** and adopted a **Political Declaration**,
-  subsequently issued as **UN General Assembly resolution 77/289**
-  (18 May 2023) — this is the correct dated anchor for any claim about
-  global progress against the seven targets. Do not cite VisionIAS's
-  2015-era description of the targets as a current-progress statement.
+- 📰 The **current global-progress anchor** is UNDRR's **24 September
+  2026** Sendai Framework Monitor status: 176 countries reporting,
+  mortality rate down 65%, affected-person rate doubled, reported direct
+  losses above US$1 trillion, 151 national strategies and 128 MHEWS.
+  Reporting completeness is uneven, and the figures do not establish
+  causation, uniform national implementation or India's performance.
+  The 2023 Midterm Review/UNGA resolution 77/289 remains the political
+  milestone, not the latest data snapshot.
+  [Official source](https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk).
 - 📰 For **Target G** specifically, the current operational anchor is the
   **Early Warnings for All** initiative (UN Secretary-General, March
   2022; launched at COP27, November 2022; target year **2027**),
@@ -221,10 +240,10 @@ hazard topic.
   (risk-knowledge, robustness, redundancy, resourcefulness, rapid
   recovery elements) → resilience framework elements → Sendai's four
   priorities and the **seven lettered targets A-G** set out in Section 5,
-  noting that Target E alone had a 2020 deadline (cite the UNDRR Midterm
-  Review Political Declaration/UNGA res. 77/289, 2023, for current
-  progress status rather than a specific numeric claim absent that
-  source). ⚠️ The question says "mention," so name all seven compactly
+  noting that Target E alone had a 2020 deadline. Use the 2023 Midterm
+  Review as the political milestone and UNDRR's 24 September 2026 SFM
+  release for current reported progress, preserving its reporting and
+  causality qualifications. ⚠️ The question says "mention," so name all seven compactly
   rather than describing three at length.
 - ⚠️ No other audited 2024/2025 GS-III question directly tests this
   topic's core vocabulary; it is the conceptual introduction every other
@@ -249,8 +268,8 @@ hazard topic.
 ## 12. Study links
 
 - ✅ Advanced companion: `advanced/01_Concepts-Risk-Resilience-and-Sendai.md`.
-- ✅ `00_Master-Framework.md` Sections 1, 2 and 6 — the risk equation, DM
-  cycle and Sendai quick reference reused by every later topic.
+- ✅ `00_Master-Framework.md` Sections 1, 2 and 6 — the risk-interaction
+  model, DM cycle and Sendai quick reference reused by every later topic.
 - ⚠️ **Downstream topics in this folder:** Topic 02 applies the
   institutional plan (NDMP/DM Act) in full legal detail; topic 03 applies
   the vulnerability typology to inclusive protection; topic 16 develops
@@ -289,7 +308,7 @@ hazard topic.
 
 | Claim | Named evidence/example | Why it earns the analytical point | Qualification |
 |---|---|---|---|
-| A hazard becomes a disaster through socially produced risk, not merely through its physical force. | VisionIAS's hazard–vulnerability–capacity definition and its economic, physical, social, environmental and attitudinal vulnerability categories (PDF pp. 4–5). | It lets an answer explain *why the same event harms groups differently* and identify a reduction lever. | Use the source's probability × vulnerability relation as a working relation; do not pretend it is a complete measured formula for every event. |
+| A hazard becomes a disaster through socially produced risk, not merely through its physical force. | UNDRR's hazard–exposure–vulnerability–capacity function, read with VisionIAS's economic, physical, social, environmental and attitudinal vulnerability categories (PDF pp. 4–5). | It lets an answer explain *why the same event harms groups differently* and identify a reduction lever. | Treat the four components as a probabilistic, context-specific interaction; do not convert them into a universal multiplication/division formula. |
 | Resilience is a capability across time, not a synonym for restoration. | The DM cycle: prevention/mitigation/preparedness before impact and response/rehabilitation/reconstruction after it (PDF p. 6). | It shows that robust infrastructure, redundancy, preparedness and recovery are connected rather than a list of slogans. | “Bounce back” to the previous unsafe condition is not resilience; recovery must avoid recreating risk. |
 | Sendai converts the DRR cycle into a global accountability vocabulary. | Sendai's four priorities and Targets A–G, with A–D addressing losses and E–G means of implementation. | A response can move from a domestic measure to the relevant global outcome/means target. | Sendai is voluntary and non-binding; Target E's 2020 deadline is not evidence that every country achieved it. |
 | India’s DRR approach can be compared before and after Sendai without inventing outcomes. | Before: DM Act 2005 and NPDM 2009 institutionalised the national framework. After: NDMP 2016 (revised 2019) aligned planning with Sendai, and the PM’s ten-point DRR agenda was announced at AMCDRR 2016. | It answers the 2018 before/after limb with dated policy anchors rather than a generic “India adopted Sendai” line. | These are framework/adoption facts; do not claim they prove measured target achievement or uniform State implementation. |

@@ -1,9 +1,10 @@
 # Disaster Management - Master Conceptual Framework
 
 > **Subject:** Disaster Management | **Tier:** Master framework | **GS Paper:** GS-III.
-> **Research cutoff:** 18 July 2026.
+> **Static research cutoff:** 18 July 2026 | **Current-law recheck:**
+> 5 October 2026.
 > **Static spine:** *VisionIAS Value Added Material Disaster Management*
-> (2024 update), PDF pp. 1-85.
+> (2024 update), PDF pp. 1-85; UNDRR's 2017 Sendai terminology.
 > **PYQ corpus:** audited local UPSC GS-III 2024/2025 text.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current anchor | ❌ = trap.
 >
@@ -15,7 +16,12 @@
 ## 1. The risk-to-resilience results chain
 
 ```text
-RISK = f(HAZARD, EXPOSURE, VULNERABILITY) / CAPACITY
+HAZARD | EXPOSURE | VULNERABILITY | CAPACITY
+        interact in a specific time and place
+                         |
+                         v
+        PROBABILISTIC DISASTER-RISK FUNCTION
+              (explicitly non-arithmetic)
 
 UNDERSTAND RISK  (hazard + vulnerability + exposure assessment)
        |
@@ -32,14 +38,14 @@ WARN --> ACT EARLY --> RESPOND --> RECOVER / BUILD BACK BETTER
 risk-informed development feeds back into understanding and governing risk
 ```
 
-**Core proposition:** ✅ VisionIAS defines disaster risk as arising "when
-hazards interact with physical, social, economic and environmental
-vulnerabilities" and states the working relationship "Risk = Probability
-of Hazard x Degree of Vulnerability" (PDF p. 5). ⚠️ The four-term
-hazard-exposure-vulnerability-capacity formulation used across this
-folder is the internationally standard elaboration of the same relation
-and is the correct frame for a Mains answer that must show *how* risk is
-reduced, not merely define it.
+**Core proposition:** ✅ UNDRR defines disaster risk as potential loss in
+a specific period, determined probabilistically as a **function of
+hazard, exposure, vulnerability and capacity**. VisionIAS's source-period
+pairing of hazard probability with vulnerability (PDF p. 5) may help
+recall interaction, but it is not universal arithmetic, must not omit
+exposure, and must not treat capacity as a fixed divisor. The four-term
+dynamic interaction is the correct frame for a Mains answer that must
+show *how* risk is created or reduced, not merely define it.
 
 ## 2. Disaster management cycle (used throughout)
 
@@ -91,7 +97,11 @@ with a Municipal Corporation, excluding the NCT of Delhi and Chandigarh;
 and **s. 44A** *enables* a State to constitute a **State Disaster
 Response Force**. ⚠️ Sections 41A and 44A are enabling, not
 self-executing — see the enabling-power gap in Section 8. Full detail in
-topic `02`.
+topic `02`. 📰 The later **Jan Vishwas (Amendment of Provisions) Act,
+2026 (Act 8 of 2026)** amended only the maximum imprisonment terms in DM
+Act ss. 51-53, effective **15 May 2026** under **S.O. 2181(E)**; it did
+not alter this institutional chart. Topic `02` owns the exact
+substitutions and official sources.
 
 ## 4. Mains answer engine
 
@@ -208,8 +218,8 @@ frequent Prelims trap. Full detail and the 2023 Midterm Review in topic
 
 ## 10. Study sequence
 
-1. Read `01` for the risk equation, DM cycle and Sendai vocabulary reused
-   everywhere else.
+1. Read `01` for the non-arithmetic risk-interaction model, DM cycle and
+   Sendai vocabulary reused everywhere else.
 2. Read `02-04` for the institutional, community and technology layer
    every hazard-specific topic assumes.
 3. Read `05-11` for the eight named natural hazards in the source

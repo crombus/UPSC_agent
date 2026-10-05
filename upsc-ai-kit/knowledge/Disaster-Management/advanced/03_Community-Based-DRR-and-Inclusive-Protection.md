@@ -216,9 +216,10 @@ targeting, undetailed accountability mechanisms) of this approach.
 
 - ✅ Foundation companion:
   `basic/03_Community-Based-DRR-and-Inclusive-Protection.md`.
-- ✅ `00_Master-Framework.md` Sections 1, 4 and 8 — the risk equation,
-  Mains answer engine and recurring analytical gaps reused across this
-  folder.
+- ✅ `00_Master-Framework.md` Sections 1, 4 and 8 — the explicitly
+  non-arithmetic, probabilistic hazard-exposure-vulnerability-capacity
+  interaction, Mains answer engine and recurring analytical gaps reused
+  across this folder.
 - ⚠️ **Downstream topics in this folder:** Topic 04 develops last-mile/
   inclusive technology-based warning; topic 17 develops the operational
   relief-rehabilitation role of community and volunteer systems.

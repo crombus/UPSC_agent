@@ -1,11 +1,14 @@
 # Indian Legal and Institutional Architecture - ADVANCED
 
 > **Subject:** Disaster Management | **Tier:** Advanced | **GS Paper:** GS-III.
-> **Core area:** The 2025 amendment's significance; disaster database,
-> Urban Disaster Management Authority and NCMC/HLC statutory status;
-> federal capacity and district-level implementation analysis.
+> **Core area:** The 2025 institutional amendment's significance;
+> the later 2026 s. 51-53 penalty amendments; disaster database, Urban
+> Disaster Management Authority and NCMC/HLC statutory status; federal
+> capacity and district-level implementation analysis.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
-> PDF pp. 11-16, 18, 52; `00_Master-Framework.md` Sections 3, 8.
+> PDF pp. 11-16, 18, 52; the official 2025 Amendment Act and commencement
+> notification; the Jan Vishwas Act 2026, Schedule serial 60, and
+> S.O. 2181(E); `00_Master-Framework.md` Sections 3, 8.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/02_Indian-Legal-and-Institutional-Architecture.md`.*
 
@@ -75,8 +78,10 @@ analogue of the risk-creation loop developed in topic `01`.
   major disasters, not as a security/law-and-order body.
 - 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
   assented and published in the Gazette on **29 March 2025**, in force
-  **with effect from 9 April 2025** (India Code consolidated DM Act text
-  as on 15 May 2026). The operative new sections are **8A** (NCMC),
+  **with effect from 9 April 2025** under **S.O. 1648(E), 8 April 2025**
+  ([official Act](https://nidm.gov.in/PDF/En_DM_act2025.pdf);
+  [commencement notification](https://nidm.gov.in/PDF/En_DM_act2005Amend.pdf)).
+  The operative new sections are **8A** (NCMC),
   **8B** (High Level Committee), **41A** (Urban DM Authority), **44A**
   (State Disaster Response Force), **60A** (hazard-action orders) and
   **76A** (NDMA regulations); the database duties sit in **ss. 2(da),
@@ -97,6 +102,26 @@ analogue of the risk-creation loop developed in topic `01`.
   topic's thesis identifies. MHA's report that Karnataka had constituted
   a BBMP Urban Disaster Management Authority (11 February 2026) is
   evidence of *beginning*, not of completed national roll-out.
+- ✅ **Incident command is operational doctrine, not another statutory
+  tier.** NDMA's Incident Response System guideline separates the
+  **Responsible Officer**, who activates and oversees the response
+  arrangement, from the **Incident Commander**, who directs field
+  operations through Operations, Planning, Logistics and, where required,
+  Finance/Administration sections. IRS should be pre-designated and
+  exercised through State/district plans, but it does not displace
+  NDMA-SDMA-DDMA legal powers. [Official IRS guideline](https://nidm.gov.in/PDF/guidelines/Incident_Response_System.pdf).
+- 📰 **Current-law boundary through 5 October 2026:** the later
+  **Jan Vishwas (Amendment of Provisions) Act, 2026 (Act 8 of 2026)** did
+  not redesign this institutional cascade. Schedule serial **60**
+  (official Gazette p. 126) substituted only maximum imprisonment terms:
+  **s. 51**, one year to six months and the aggravated two-year term to
+  one year; **s. 52**, two years to six months; **s. 53**, two years to
+  one year. **S.O. 2181(E), 30 April 2026** commenced those substitutions
+  on **15 May 2026**. Do not describe this narrower amendment as creating
+  an administrative penalty system or as changing fines, procedure or
+  institutional powers without separate enacted text. Official sources:
+  [Schedule serial 60](https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Viswash-Act-Notifications.pdf)
+  and [S.O. 2181(E)](https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Vishwash-Act-2026.pdf).
 
 ## 4. Evidence and Indian applications
 
@@ -197,16 +222,19 @@ analogue of the risk-creation loop developed in topic `01`.
 
 - 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
   assented and gazetted **29 March 2025**, in force **with effect from
-  9 April 2025** — the correct dated anchor for any claim about India's
-  current statutory DM architecture; **ss. 8A, 8B, 41A, 44A, 60A and 76A**
-  are operative law, and there is **no s. 9B**. Any claim about a
+  9 April 2025** — the correct dated anchor for India's current
+  institutional DM architecture; **ss. 8A, 8B, 41A, 44A, 60A and 76A**
+  are operative law, and there is **no s. 9B**. The later Jan Vishwas Act
+  2026 must be cited separately for the s. 51-53 term reductions effective
+  15 May 2026. Any claim about a
   *specific implementation action* under these sections (e.g. a named
   State's Urban DM Authority, disaster-database rollout) still requires
   the relevant notification to be verified, but the Act's own
   commencement is settled and must not be described as uncertain or
   provision-wise pending.
-- ❌ Do not describe the DM Act, 2005 in its original, unamended form as
-  the complete current legal position.
+- ❌ Do not describe either the original DM Act, 2005 or the 2025
+  institutional amendment alone as the complete current legal position;
+  Act 8 of 2026 later amended ss. 51-53.
 - ❌ Do not describe the DM Act's district tier as fiscally unprovided
   for: **s. 48** expressly contemplates District Disaster Response and
   Mitigation Funds. The gap is that the Sixteenth Finance Commission
@@ -241,12 +269,12 @@ database, urban authority) are implemented with the specificity the
 2. **Diagnose the weak link in the cascade** (Section 2 above) — usually
    district/local capacity — rather than describing the structure
    generically.
-3. **Cite the 2025 Amendment Act** as the current legal anchor, noting it
-   was gazetted 29 March 2025 and is in force from 9 April 2025 (ss. 8A,
-   8B, 41A, 44A operative), with the explicit caveat that ss. 41A and 44A
-   are *enabling* — a *named implementation action* under them (e.g. a
-   specific State's Urban DM Authority) needs its own notification
-   verified (Section 10).
+3. **Separate the two amendment anchors:** cite Act 10 of 2025 for the
+   institutional architecture (gazetted 29 March; in force 9 April 2025)
+   and Act 8 of 2026 only for the s. 51-53 imprisonment-term reductions
+   effective 15 May 2026. Sections 41A and 44A remain *enabling*; a named
+   implementation action under them needs its own notification verified
+   (Section 10).
 4. **Note the parallel security-escalation channel** (CCS/NCMC, Section
    3) where relevant, distinguishing it from the ordinary DM cascade.
 5. **Identify the financing gap** (Section 9) underlying implementation

@@ -5,7 +5,10 @@
 > risk creation through development choices; Sendai's accountability
 > gap and the 2023 Midterm Review.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
-> PDF pp. 4-8, 14, 16, 61-62; `00_Master-Framework.md` Sections 1-2, 6, 8.
+> PDF pp. 4-8, 14, 16, 61-62;
+> [UNDRR's 2017 Sendai terminology for disaster risk](https://www.undrr.org/terminology/disaster-risk);
+> UNDRR's official 24 September 2026 Sendai Framework Monitor status;
+> `00_Master-Framework.md` Sections 1-2, 6, 8.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/01_Concepts-Risk-Resilience-and-Sendai.md`.*
 
@@ -122,18 +125,20 @@ loop, is analytically incomplete.
 ## 5. Technology/data and warning limits
 
 - ⚠️ Measuring resilience requires *data on capacity*, not merely hazard
-  and vulnerability data — a distinction VisionIAS's own vocabulary
-  implies (risk = hazard × vulnerability, with capacity as the
-  denominator, Section 1 of the basic file) but does not operationalise
-  with named indicators. An advanced answer should note this measurement
-  gap explicitly rather than assert resilience is "high" or "low"
-  without a stated metric.
+  and vulnerability data. UNDRR defines disaster risk probabilistically
+  as a **function of hazard, exposure, vulnerability and capacity**.
+  The components interact in a specific context; they are not a fixed
+  multiplication/division formula, and capacity is not a universal
+  denominator. VisionIAS does not operationalise this relation with named
+  capacity indicators, so an advanced answer should state the measurement
+  gap rather than assert resilience is "high" or "low" without a metric.
 - 📰 **Current-anchor discipline:** any claim about India's or the
-  world's *current* progress against Sendai's seven targets must cite
-  **UNDRR's Sendai Framework Midterm Review Political Declaration
-  (2023)** — not the 2015-era description of the targets — because
-  target progress is time-variant and VisionIAS's material pre-dates the
-  Midterm Review.
+  world's *current* progress against Sendai's seven targets must use
+  UNDRR's **24 September 2026** SFM status, not the 2015 target list or
+  the 2023 Midterm Review alone. The 2023 declaration remains the
+  political milestone. Current figures are reported global trends with
+  uneven coverage; they are not causal, uniformly national or
+  India-specific achievement claims.
 
 ## 6. Vulnerability, equity and community lens
 
@@ -189,11 +194,15 @@ loop, is analytically incomplete.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **UNDRR Sendai Framework Midterm Review Political Declaration
-  (2023)** is the authoritative dated anchor for Sendai implementation
-  status, including any claim about how close the world or India is to
-  its 2030 targets — verify before using in any current-progress
-  statement.
+- 📰 **UNDRR's 24 September 2026 Sendai Framework Monitor status** is the
+  current reported-progress anchor: **176 countries** reporting;
+  mortality rate down **65%**; affected-person rate doubled; reported
+  direct losses above **US$1 trillion**; **151 national strategies**; and
+  **128 MHEWS**. Reporting completeness varies by country, target and
+  year. Do not convert these reported global trends into causal,
+  uniformly national or India-specific achievement claims. The 2023
+  Midterm Review remains the historical political milestone.
+  [Official source](https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk).
 - ❌ Do not carry forward the NDMP 2016 as "the" current National
   Disaster Management Plan. -> NDMP 2016 was only the first edition; the
   **revised NDMP, 2019** is the latest published plan and is the correct
@@ -207,9 +216,10 @@ loop, is analytically incomplete.
   actively invested in, not passively assumed; (b) noting the structural
   parallel between NDMP 2016's lack of targets and Sendai's own
   non-binding character (Section 3) as a governance-design point; and
-  (c) citing the 2023 Midterm Review (Section 10) for any claim about
-  current global progress, rather than reciting the 2015 target list as
-  if it were a scoreboard.
+  (c) using the 2023 Midterm Review as the political milestone and the
+  24 September 2026 SFM release (Section 10) for qualified current
+  reported progress, rather than treating the 2015 target list as a
+  scoreboard.
 
 ## 12. Mains-ready framework
 
@@ -230,7 +240,8 @@ Sendai Framework at the global level.
    with risk actively produced by development choices, not only natural
    hazard frequency.
 4. **Cite Sendai's four priorities and seven targets** (Section 5 of the
-   Master Framework), and its status per the 2023 Midterm Review.
+   Master Framework), retaining the 2023 Midterm Review as history and
+   using the 24 September 2026 SFM release for current reported status.
 5. **Diagnose India's domestic accountability gap** using NDMP 2016's
    self-acknowledged shortcomings (Section 3) as evidence.
 6. **Recommend measurable, financed, time-bound targets** as the
@@ -241,9 +252,9 @@ Sendai Framework at the global level.
 ## 13. Study links
 
 - ✅ Foundation companion: `basic/01_Concepts-Risk-Resilience-and-Sendai.md`.
-- ✅ `00_Master-Framework.md` Sections 1, 2, 6 and 8 — the risk equation,
-  DM cycle, Sendai reference and recurring analytical gaps reused across
-  this folder.
+- ✅ `00_Master-Framework.md` Sections 1, 2, 6 and 8 — the risk-interaction
+  model, DM cycle, Sendai reference and recurring analytical gaps reused
+  across this folder.
 - ⚠️ **Downstream topics in this folder:** Topic 02 develops the DM Act/
   NDMP institutional detail; topic 16 develops disaster-finance/risk-
   transfer trade-offs; topic 18 develops Sendai's international-

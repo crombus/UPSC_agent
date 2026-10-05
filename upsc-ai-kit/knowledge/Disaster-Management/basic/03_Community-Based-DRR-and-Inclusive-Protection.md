@@ -223,8 +223,10 @@ roles to be assigned for a coordinated response (PDF p. 65).
 
 - ✅ Advanced companion:
   `advanced/03_Community-Based-DRR-and-Inclusive-Protection.md`.
-- ✅ `00_Master-Framework.md` Sections 1 and 4 — the risk equation and
-  Mains answer engine's inclusive-protection step reused across topics.
+- ✅ `00_Master-Framework.md` Sections 1 and 4 — the explicitly
+  non-arithmetic, probabilistic hazard-exposure-vulnerability-capacity
+  interaction and the Mains answer engine's inclusive-protection step
+  reused across topics.
 - ⚠️ **Downstream topics in this folder:** Topic 02 supplies the PRI/ULB
   institutional detail this topic's community roles route through;
   topic 04 develops last-mile/inclusive warning dissemination; topic 17

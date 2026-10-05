@@ -580,7 +580,9 @@ Current law may enable State-level or urban authorities/forces, but existence re
 
 ## 26. Five-minute active recall
 
-1. Draw risk equation and DM cycle.
+1. Draw the non-arithmetic hazard-exposure-vulnerability-capacity
+   interaction and the DM cycle; risk is determined probabilistically as
+   a function of all four.
 2. Recite Sendai priorities and targets.
 3. Map Union-State-district institutions.
 4. Draw end-to-end early warning.

@@ -6,7 +6,10 @@
 > architecture under the Act.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
 > PDF pp. 11-16 (DM Act architecture, institutions, finance), p. 18
-> (NDMP limitations); `00_Master-Framework.md` Section 3.
+> (NDMP limitations); the official Disaster Management (Amendment) Act,
+> 2025 and commencement notification; the Jan Vishwas (Amendment of
+> Provisions) Act, 2026, Schedule serial 60, and S.O. 2181(E);
+> `00_Master-Framework.md` Section 3.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/02_Indian-Legal-and-Institutional-Architecture.md`.*
 
@@ -55,6 +58,7 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 | 📰 **NCMC (s. 8A) / HLC (s. 8B)** | Given statutory status by the 2025 Amendment Act. The **National Crisis Management Committee**, chaired by the **Cabinet Secretary**, is "the nodal body to deal with the major disasters which have serious or national ramifications." The **High Level Committee** provides financial assistance to States under s. 46 and approves mitigation assistance under s. 47. Both existed administratively before 2025; the Act converts practice into statute. |
 | 📰 **Urban Disaster Management Authority (s. 41A)** | A State Government **may**, by Gazette notification, constitute a UDMA for its State capital and every city having a Municipal Corporation, **except the NCT of Delhi and the UT of Chandigarh**. Composition: **Municipal Commissioner — Chairperson (ex officio); District Collector — Vice-Chairperson (ex officio)**, plus State-determined members. It prepares the **Urban Plan**, approved by the SDMA, and coordinates its implementation. |
 | 📰 **State Disaster Response Force (s. 44A)** | A State Government **may**, by Gazette notification, constitute a specialist State Disaster Response Force and prescribe its functions and terms of service — ⚠️ note this is the *force*, not the SDRF *fund* (topic `16`); the identical acronym is a standing examiner trap. |
+| ✅ **Incident Response System (IRS)** | NDMA's *National Disaster Management Guidelines—Incident Response System* provide a standard operational organisation for an incident: the **Responsible Officer** activates/oversees the system; the **Incident Commander** directs field operations; and Operations, Planning, Logistics and, where required, Finance/Administration sections support command. IRS is response doctrine, not a new statutory authority and not a substitute for NDMA-SDMA-DDMA powers. [Official guideline](https://nidm.gov.in/PDF/guidelines/Incident_Response_System.pdf). |
 
 ## 3. Risk/problem mechanism
 
@@ -163,6 +167,10 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 - 📰 A UDMA under s. 41A is chaired by the **Municipal Commissioner**
   with the **District Collector** as Vice-Chairperson, and is barred for
   the **NCT of Delhi and UT of Chandigarh**.
+- ✅ IRS distinguishes the **Responsible Officer** from the field
+  **Incident Commander** and organises Operations, Planning, Logistics
+  and Finance/Administration functions; it does not create another
+  NDMA-SDMA-DDMA tier.
 - 📰 NDRF's current operational strength is **16 battalions** (MHA,
   22 July 2025), not the document-period 12.
 
@@ -190,10 +198,12 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
   -> The **revised NDMP, 2019** is the latest published National Disaster
   Management Plan; NDMP 2016 was only the first edition.
 - ❌ The DM Act, 2005 is the only, unamended, current legal framework.
-  -> The **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**
-  amends it (see Section 9); do not present the 2005 Act's original text
-  as necessarily reflecting today's statutory position without checking
-  amendment status.
+  -> Read it with the **Disaster Management (Amendment) Act, 2025
+  (Act 10 of 2025)** for the current institutional architecture and with
+  the **Jan Vishwas (Amendment of Provisions) Act, 2026 (Act 8 of 2026)**
+  for its later, limited amendments to ss. 51-53. Do not present either
+  the original 2005 text or the 2025 amendment alone as the complete law
+  as at 5 October 2026.
 - ❌ The Constitution explicitly lists "disaster management" as a
   subject. -> The Constitution is silent on "disaster"; the Act's legal
   basis draws on Concurrent List Entries 23 and 29 (PDF p. 52).
@@ -203,8 +213,10 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 - 📰 **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)** — the
   Act received assent and was published in the Gazette of India on
   **29 March 2025**, and was brought into force **with effect from
-  9 April 2025** (India Code consolidated text of the DM Act, 2005, as on
-  15 May 2026; MHA Lok Sabha reply, 22 July 2025). The newly inserted
+  9 April 2025** by **S.O. 1648(E), 8 April 2025**
+  ([official Act](https://nidm.gov.in/PDF/En_DM_act2025.pdf);
+  [commencement notification](https://nidm.gov.in/PDF/En_DM_act2005Amend.pdf)).
+  The newly inserted
   provisions that are operative law are **s. 8A** (National Crisis
   Management Committee), **s. 8B** (High Level Committee), **s. 41A**
   (Urban Disaster Management Authority), **s. 44A** (State Disaster
@@ -223,6 +235,19 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
   hazard-wise **nodal departments** (**ss. 35, 38**); and staffing power
   for NDMA (**substituted s. 5**). ⚠️ NIDM was **not** abolished — s. 42
   survives and s. 43 was substituted to allow NIDM to recruit experts.
+- 📰 **Later, narrower amendment through 5 October 2026:** the
+  **Jan Vishwas (Amendment of Provisions) Act, 2026 (Act 8 of 2026)**,
+  Schedule serial **60** (official Gazette p. 126), amended only the
+  maximum imprisonment terms in the DM Act's **ss. 51-53**: in **s. 51**,
+  one year became six months and the aggravated two-year term became one
+  year; in **s. 52**, two years became six months; and in **s. 53**, two
+  years became one year. **S.O. 2181(E), 30 April 2026** brought those
+  changes into force on **15 May 2026**. This did not create or alter
+  NDMA, NCMC, HLC, UDMA, NDRF or the plan/database architecture. Do not
+  infer any further change to fines, procedure or institutional powers
+  beyond the enacted substitutions. Official sources:
+  [Schedule serial 60](https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Viswash-Act-Notifications.pdf)
+  and [S.O. 2181(E)](https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Vishwash-Act-2026.pdf).
 - ⚠️ **Statutory mandate is not operational fact.** Sections 41A and 44A
   are **enabling** ("the State Government *may*... constitute"). MHA
   informed Parliament on **11 February 2026** that Karnataka had
@@ -249,7 +274,7 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
    specific action being discussed — never say "the government" alone.
 2. **Cite the specific institution's precise mandate** (Section 2),
    distinguishing NDMA (policy) from NEC (coordination) from NDRF
-   (operational response).
+   (specialist response) and IRS (incident-level command organisation).
 3. **Route financial questions** through the correct fund (SDRF vs.
    NDRF-the-fund) and note the 2019 Standing Committee's still-relevant
    critique (Section 5) as document-period evidence of a known funding
@@ -257,11 +282,12 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 4. **Acknowledge the NDMP 2016's self-stated limitations** (Section 6),
    and note that the **revised NDMP, 2019** is the latest published plan,
    when asked to evaluate India's planning framework.
-5. **Flag the 2025 Amendment Act** (Section 9) as the current legal
-   anchor — assented and gazetted 29 March 2025, in force from 9 April
-   2025 (ss. 8A, 8B, 41A, 44A) — with the caution that any *State/Central
-   implementation action* under it (e.g. a constituted Urban DM
-   Authority) needs its own notification check.
+5. **Use two dated amendment anchors** (Section 9): Act 10 of 2025 for
+   the current institutional changes — assented and gazetted 29 March
+   2025, in force from 9 April 2025 — and Act 8 of 2026 solely for the
+   later s. 51-53 imprisonment-term substitutions effective 15 May 2026.
+   A *State/Central implementation action* under the 2025 institutional
+   provisions still needs its own notification check.
 
 ## 12. Study links
 
@@ -280,7 +306,7 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 > **Core firewall:** this is the complete Core route for the 2020
 > proactive-versus-reactive DM question and the institutional limb of any
 > hazard answer. Do not send a candidate to `advanced/02` for the
-> 2025-amendment, funding or local-capacity argument.
+> current-law, funding or local-capacity argument.
 
 ### 13.1 Claim-to-evidence bank
 
@@ -289,6 +315,7 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
 | The DM Act institutionalised a shift from relief administration to a whole-cycle framework. | DM Act 2005 created NDMA–SDMA–DDMA; NPDM 2009 and the revised NDMP 2019 provide policy/plan anchors. | It supplies a before/after institutional mechanism instead of a vague “proactive approach” assertion. | A statutory cascade does not prove district plans, staff or drills are effective. |
 | Responsibilities are vertically differentiated. | NDMA sets policy/guidelines and approves plans; NEC coordinates; SDMA/SEC adapt and monitor; DDMA plans/coordinates locally; PRIs/ULBs enable last-mile action. | It turns “government should act” into accountable assignments. | Do not treat NDMA as the field implementer or DDMA as a substitute for local community capacity. |
 | The 2025 amendment updated law but not every operational outcome. | Act 10 of 2025 was gazetted 29 March and commenced 9 April 2025; ss. 8A/8B give NCMC/HLC statutory footing, while ss. 41A/44A say a State **may** constitute a UDMA/State force. | It distinguishes statute/commencement from notification/force/database rollout. | Name a UDMA or State force only with a dated State notification or official MHA parliamentary reply; Karnataka's BBMP example is not a national roll-out. |
+| The later 2026 amendment was penalty-specific, not an institutional redesign. | Jan Vishwas Act 2026, Schedule serial 60, reduced the maximum imprisonment terms in DM Act ss. 51-53; S.O. 2181(E) commenced those changes on 15 May 2026. | It prevents the 2025 institutional amendment from being mislabelled as the latest amendment to every part of the Act. | State only the enacted term substitutions; do not infer further changes to fines, procedure or institutional powers. |
 | Response capacity and finance are distinct institutional questions. | NDRF is a specialised response force (MHA: 16 battalions, sanctioned 18,581, 22 July 2025); s. 46 NDRF-the-fund supplements SDRF, while ss. 47–48 create mitigation/State funds. | It prevents the NDRF force/fund and relief/mitigation conflations that cost marks. | Battalion strength is an input, not a resilience outcome; fund use needs its own status source. |
 
 ### 13.2 Executable spines
@@ -307,7 +334,8 @@ NDMA-SDMA-DDMA structure (PDF p. 11).
   finance and drills convert the framework into outcomes.
 - **20 marks — evaluate governance:** organise by law/mandate, planning,
   finance, response capacity, urban/local implementation and
-  accountability data. Use the 2025 amendment as current law, flag
+  accountability data. Use the 2025 amendment for current institutional
+  architecture, separately note the 2026 s. 51-53 penalty changes, flag
   `may constitute` and database rollout as implementation questions, and
   end with a funded, time-bound, district-testable verdict.
 

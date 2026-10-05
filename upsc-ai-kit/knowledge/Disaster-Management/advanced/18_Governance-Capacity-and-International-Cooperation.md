@@ -5,7 +5,9 @@
 > cooperation depth; CDRI's knowledge-sharing function; a localisation
 > critique.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
-> PDF pp. 58-67; `00_Master-Framework.md` Sections 6, 8-9.
+> PDF pp. 58-67; UNDRR's official 24 September 2026 Sendai Framework
+> Monitor status; CDRI's official current About page;
+> `00_Master-Framework.md` Sections 6, 8-9.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `basic/18_Governance-Capacity-and-International-Cooperation.md`.*
 
@@ -162,12 +164,22 @@ genuine localisation gap in the governance-accountability chain.
 
 ## 10. 📰 Current official anchor and freshness protocol
 
-- 📰 **UNDRR's Sendai Framework Midterm Review Political Declaration**
-  (High-Level Meeting, 17-19 May 2023; **UNGA resolution 77/289**) and
-  the **Disaster Management (Amendment) Act, 2025 (Act 10 of 2025)**,
-  gazetted 29 March 2025 and in force from 9 April 2025, checked as of
-  18 July 2026, are the correct current anchors for Sendai-implementation
-  status and India's domestic-governance updates respectively.
+- 📰 **Current Sendai monitoring anchor:** UNDRR's **24 September 2026**
+  Sendai Framework Monitor release reports **176 countries** submitting
+  data; average disaster mortality per 100,000 down **65%** between
+  2005-2014 and 2016-2025; the affected-person rate **doubled**; reported
+  direct losses in 2016-2025 above **US$1 trillion**; **151 national DRR
+  strategies**; and **128 MHEWS**. Reporting completeness varies by
+  country, target and year. These are reported global trends, not causal,
+  uniform-national or India-specific achievement claims. The 2023
+  Midterm Review/UNGA resolution 77/289 remains the political milestone,
+  not the latest data snapshot.
+  [Official UNDRR status](https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk).
+- 📰 **Domestic-law boundary:** the 2025 amendment remains the current
+  institutional-architecture anchor. Jan Vishwas Act 2026 later changed
+  only DM Act ss. 51-53 imprisonment terms from 15 May 2026; it did not
+  alter the cooperation/governance structure. Exact law belongs to topic
+  `02`.
 - 📰 **Early Warnings for All** (2022; target **2027**; UNDRR, WMO, ITU
   and IFRC pillars) is the correct anchor for the international
   early-warning agenda. ⚠️ It is analytically important for a
@@ -177,12 +189,15 @@ genuine localisation gap in the governance-accountability chain.
   IOTWMS warning services (topic `06`), is positioned as a contributor
   rather than only a recipient. ⚠️ Use INCOIS's current recipient roster
   for any country count.
-- 📰 For **CDRI**, cite its own dated publications: **58 member countries
-  and 12 member organisations** as of June 2026, headquartered in New
-  Delhi with international-organisation status from an August 2022
-  Headquarters Agreement, running **IRIS**, the biennial **Global
-  Infrastructure Resilience** report and **DRI Connect**. ⚠️ Membership
-  growth evidences convening power, not resilience outcomes.
+- 📰 For **CDRI**, its official current page reports **59 member
+  countries** and **13 partner organisations**. The Secretariat is
+  headquartered in New Delhi and holds **International Organization**
+  status. Keep the categories separate: partner organisations are not
+  relabelled "member organisations", and no combined membership total is
+  inferred. CDRI runs **IRIS**, the biennial **Global Infrastructure
+  Resilience** report and **DRI Connect**. ⚠️ Participation growth
+  evidences convening power, not resilience outcomes.
+  [Official CDRI status](https://cdri.world/about/).
 - ❌ Do not present VisionIAS's 2015-2023 event chronology as evidence of
   continued, current cooperation intensity without verification.
 

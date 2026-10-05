@@ -6,7 +6,8 @@
 > service continuity.
 > **Grounded in:** *VisionIAS Value Added Material Disaster Management*,
 > PDF pp. 27-31 (urban floods/ULB role), pp. 61-64 (CDRI and resilient
-> infrastructure); `00_Master-Framework.md` Section 5.
+> infrastructure); CDRI's official current About page;
+> `00_Master-Framework.md` Section 5.
 > ✅ = source-grounded | ⚠️ = analytical inference | 📰 = current anchor | ❌ = boundary/trap.
 > *Companion: `advanced/14_Urban-and-Critical-Infrastructure-Resilience.md`.*
 
@@ -42,7 +43,7 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Urban Flooding Cell (UFC)** | A dedicated national coordination cell recommended in **NDMA's Guidelines on Management of Urban Flooding (2010)** to be constituted within the urban-development ministry, for Urban Flood Disaster Management activities, with ULBs managing locally (PDF p. 31); ⚠️ a *recommendation*, not a self-executing body — its actual constitution/current operation requires verification against a current MoHUA/State notification. |
-| ✅ **Coalition for Disaster Resilient Infrastructure (CDRI)** | Launched by India at the UN Climate Action Summit, New York, 23 September 2019; works toward common infrastructure-building standards, financial/compliance mechanisms, and R&D informing multilateral-bank investment decisions (PDF p. 64). 📰 CDRI reported **58 member countries and 12 member organisations (70 members)** as of **June 2026**; it is headquartered in **New Delhi** and secured international-organisation status through a **Headquarters Agreement in August 2022**. |
+| ✅ **Coalition for Disaster Resilient Infrastructure (CDRI)** | Launched by India at the UN Climate Action Summit, New York, 23 September 2019; works toward common infrastructure-building standards, financial/compliance mechanisms, and R&D informing multilateral-bank investment decisions (PDF p. 64). 📰 CDRI's official current page reports **59 member countries** and **13 partner organisations**. Its Secretariat is headquartered in **New Delhi** and holds **International Organization** status. Keep member countries and partner organisations as separate categories; do not infer a combined membership total. |
 | 📰 **CDRI's flagship initiatives** | **IRIS** (Infrastructure for Resilient Island States) — technical, financial and policy support for Small Island Developing States; the biennial **Global Infrastructure Resilience** report (first edition, *Capturing the Resilience Dividend*, October 2023); and **DRI Connect**, its knowledge-exchange platform for resilient-infrastructure professionals. |
 | 📰 **Crowd disasters / stampedes at mass gatherings** | VisionIAS treats stampedes as an anthropogenic disaster (PDF p. 55). NDMA's governing document is the **May 2014** guide *Managing Crowd at Events and Venues of Mass Gathering — A Guide for State Governments, Local Authorities, Administrators and Organizers*, covering crowd-disaster causes and triggers, advance planning and coordination, safety standards and SOPs, stakeholder preparedness, technology, media/public communication and best practices. ⚠️ It is an NDMA **report/guide**, not one of the numbered National Disaster Management Guidelines. 📰 After the New Delhi Railway Station crowd disaster, the Ministry of Railways reported **18 deaths and 15 injuries** and described holding areas, controlled access, CCTV/war-room monitoring, wider foot-over-bridges, capacity-linked ticketing and strengthened station-director powers (PIB, 19 March 2025). ❌ Do not quote casualty figures for other recent crowd incidents without a dated government source. |
 | ✅ **CDRI's four thematic areas** | (1) Disaster risk assessment (time-series hazard data, probabilistic risk models); (2) standards of design and implementation (codes reflecting evolving hazard understanding and engineering advances); (3) financing new infrastructure/risk-covering mechanisms (budget reserve funds, catastrophe bonds); (4) reconstruction/recovery of infrastructure ("Build Back Better" for both structural design and management systems) (PDF p. 64). |
@@ -126,10 +127,10 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
 
 - ✅ CDRI was launched by India at the UN Climate Action Summit, New
   York, on 23 September 2019.
-- 📰 CDRI reported **58 member countries and 12 member organisations
-  (70 members)** as of June 2026; headquartered in **New Delhi**, with
-  international-organisation status from a **Headquarters Agreement of
-  August 2022**.
+- 📰 CDRI's official current page reports **59 member countries** and
+  **13 partner organisations**; its New Delhi Secretariat holds
+  **International Organization** status. Do not relabel partners as
+  members or combine the categories into a total membership count.
 - 📰 CDRI's flagship initiatives are **IRIS** (Infrastructure for
   Resilient Island States), the biennial **Global Infrastructure
   Resilience** report (first edition October 2023) and **DRI Connect**.
@@ -185,11 +186,12 @@ hazard mapping, ecosystem-based management, disaster-risk financing)
   exists only where a State has notified one (MHA cited Karnataka's BBMP
   UDMA on 11 February 2026), and the NCT of Delhi and UT of Chandigarh
   are expressly excluded.
-- 📰 **CDRI's own dated publications** are the correct anchor for its
-  membership and project status: **58 member countries and 12 member
-  organisations** as of June 2026; **IRIS**, the biennial **Global
-  Infrastructure Resilience** report (first edition October 2023) and
-  **DRI Connect** are its flagship initiatives.
+- 📰 **CDRI's official current page** reports **59 member countries** and
+  **13 partner organisations**; its New Delhi Secretariat holds
+  **International Organization** status. Keep the categories separate.
+  **IRIS**, the biennial **Global Infrastructure Resilience** report
+  (first edition October 2023) and **DRI Connect** are flagship
+  initiatives. [Official CDRI status](https://cdri.world/about/).
 - 📰 For urban-flood infrastructure specifically, the **Urban Flood Risk
   Management Programme** (NDMF-financed; Phase 2 approved 1 October 2025
   for 11 cities at ₹2,444.42 crore, 90:10) is the sanctioned mitigation programme —
