@@ -1,6 +1,6 @@
 # Species and Current Affairs Tracker — Complete Live Session Edition
 
-**Status date:** 4 October 2026
+**Status date:** 5 October 2026
 **Subject placement:** Environment and Ecology, catalogue Topic 28
 **Focus:** Species identification, habitat, behaviour, threats, conservation status, legal protection and a reliable method for maintaining current species records.
 
@@ -40,7 +40,7 @@ DATE, SOURCE, QUALIFY AND UPDATE
 Progress: 1 / 8 | Stage: Foundation | Subtopic: Common name, scientific name, taxonomic group and organism type
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — Topic 28 identity, taxonomy and biodiversity foundations
+Book context: not available — no OCR-searchable Environment textbook passage was located for this identity lesson; certified canonical owners and taxonomic records control
 CA search: "official India taxonomy species identification biodiversity news April to October 2026 BSI ZSI"
 CA found: no recent official item materially changes the identity method below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -112,17 +112,17 @@ source and date of the naming record
 
 Do not silently treat a spelling difference or revised genus as a newly discovered species. Conversely, do not merge two taxa merely because their common names are similar.
 
-### Example and its limit
+### Identity clinic: Indian star tortoise
 
 The Indian star tortoise provides a clean identity exercise: its accepted name establishes the taxon to be checked, while “terrestrial” describes life-form. Neither field by itself establishes its complete range, legal schedule, trade status or extinction risk; those need separate evidence.
 
-### Strongest objection, reply and residual
+### Shortcut challenge: memorisation versus identity
 
 **Objection:** For Prelims, memorising the common name and one fact is faster than learning taxonomy.
 **Reply:** Close options deliberately exploit category mistakes between formal classification, descriptive common names and ecological life-form. A four-field identity record prevents these errors.
 **Residual:** Fine taxonomic ranks can change and are not always necessary. Record only the level needed to answer the question, but verify the accepted name when current status is involved.
 
-### UPSC use
+### Examiner decision rule
 
 Before evaluating any statement, ask:
 
@@ -130,7 +130,7 @@ Before evaluating any statement, ask:
 2. Is the tested word a taxonomic fact, a growth habit or only a common-name clue?
 3. Is the statement about the whole species or one population?
 
-### Revision notes
+### Identity register
 
 1. Common names are not always unique or taxonomically informative.
 2. Scientific names improve precision but may have synonyms or revisions.
@@ -151,7 +151,7 @@ Before evaluating any statement, ask:
 
 **Misconception to avoid:** A familiar word inside a common name is not a taxonomic diagnosis.
 
-### Lesson-local Mains practice
+### Identity writing drill
 
 **Question (10 marks, 150 words):** Explain why taxonomic and life-form precision is essential in species-based environmental questions.
 
@@ -168,7 +168,7 @@ Life-form must also remain separate from taxonomy. A burrowing, aquatic or terre
 Progress: 2 / 8 | Stage: Foundation | Subtopic: Habitat, location, geographic range, native status, endemism and migration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — biodiversity, endemism, protected areas and species location
+Book context: not available — no OCR-searchable Environment textbook passage was located for this spatial-distinction lesson; certified canonical owners and primary range records control
 CA search: "official India habitat range endemic species conservation news April to October 2026 MoEFCC"
 CA found: no recent official item materially changes the habitat, range and endemism distinctions below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -239,17 +239,17 @@ These terms answer different questions:
 | New species | taxon formally described as distinct | conservation status |
 | Reintroduction | human-assisted return to part of former range | self-sustaining population |
 
-### Example and its limit
+### Field-boundary case: one district record
 
 A verified record from one district establishes occurrence there. It cannot establish that the species occurs nowhere else or that the district contains its complete natural range.
 
-### Strongest objection, reply and residual
+### Spatial challenge and resolution
 
 **Objection:** Species range maps are too detailed for general studies.
 **Reply:** UPSC usually requires biogeographic logic, not every district: Himalayan versus lowland, island versus mainland, wetland versus grassland, native versus introduced.
 **Residual:** Climate, land use and new surveys can change known distribution. Every precise range claim needs a date and scale.
 
-### UPSC use
+### Range-statement protocol
 
 Structure a habitat claim through:
 
@@ -261,7 +261,7 @@ taxon
   → range/endemic qualification
 ```
 
-### Revision notes
+### Spatial register
 
 1. Habitat describes ecological conditions; range describes geographic distribution.
 2. A sighting is an occurrence record, not a population estimate.
@@ -284,7 +284,7 @@ taxon
 
 **Misconception to avoid:** One record cannot safely be converted into “the species has expanded and recovered.”
 
-### Lesson-local Mains practice
+### Spatial writing drill
 
 **Question (10 marks, 150 words):** Distinguish habitat, range, native status and endemism, and explain their value in species conservation.
 
@@ -303,7 +303,7 @@ Conservation planning therefore needs habitat condition, range size, connectivit
 Progress: 3 / 8 | Stage: Core | Subtopic: Activity cycle, social organisation, breeding, defence, communication, feeding and tool use
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — species behaviour and zoological distinctions
+Book context: not available — no OCR-searchable Environment textbook passage was located for this behaviour-evidence lesson; certified canonical owners and species-specific primary records control
 CA search: "official India animal behaviour wildlife research news April to October 2026 WII ZSI"
 CA found: no recent official item materially changes the behaviour-evidence rules below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -389,17 +389,17 @@ A bundled resource-use statement requires claim-by-claim evidence:
 
 One true resource-use statement does not validate every claim in a bundle.
 
-### Example and its limit
+### Behaviour case calibration: olive ridley nesting
 
 Olive ridley mass nesting is a strong behaviour fact only for the relevant species, population, coast and season. It should not be generalised to all marine turtles or every nesting beach.
 
-### Strongest objection, reply and residual
+### Variability challenge and resolution
 
 **Objection:** Flexible behaviour makes objective questions unfair.
 **Reply:** Most stems use qualifiers—“generally,” “normally,” “can,” “only.” Reading the qualifier and using the best-supported typical pattern resolves many questions.
 **Residual:** Behaviour varies with sex, age, habitat and disturbance. When evidence is genuinely mixed, record the uncertainty rather than force a universal statement.
 
-### UPSC use
+### Behaviour-claim protocol
 
 For every behavioural claim, classify it as:
 
@@ -409,7 +409,7 @@ activity | social | breeding | defensive | communicative | feeding | tool use
 
 Then test whether the wording overstates frequency or universality.
 
-### Revision notes
+### Behaviour register
 
 1. Diurnal, nocturnal and crepuscular describe activity peaks, not absolute clocks.
 2. Population, season, sex and disturbance can shift activity timing.
@@ -435,7 +435,7 @@ Then test whether the wording overstates frequency or universality.
 
 **Misconception to avoid:** A typical behavioural tendency is not an exceptionless law applying to every individual.
 
-### Lesson-local Mains practice
+### Behaviour writing drill
 
 **Question (15 marks, 250 words):** Species behaviour is increasingly relevant to conservation planning. Analyse with suitable examples.
 
@@ -456,7 +456,7 @@ However, behaviour is context-sensitive. Human pressure can shift activity towar
 Progress: 4 / 8 | Stage: Core | Subtopic: Habitat loss, invasive species, exploitation, infrastructure, pollution and climate stress
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — biodiversity threats, invasive species and habitat response
+Book context: not available — no OCR-searchable Environment textbook passage was located for this threat-mechanism lesson; certified canonical owners and named field/legal sources control
 CA search: "official India invasive species habitat threat wildlife news April to October 2026 MoEFCC PIB"
 CA found: no recent official item materially changes the pressure-to-response framework below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -551,13 +551,13 @@ Pollution can act through toxicity, food-web change, noise, light or altered wat
 
 Compensation is not a substitute for avoiding irreversible harm to a tiny endemic population.
 
-### Strongest objection, reply and residual
+### Conservation-design dispute
 
 **Objection:** Flagship-species measures divert resources from ecosystems.
 **Reply:** A well-chosen flagship can mobilise protection for a wider habitat, but the intervention must be designed at landscape scale.
 **Residual:** Some single-species actions are indispensable for acute threats; they should complement, not replace, ecosystem restoration and community governance.
 
-### UPSC use
+### Causal-answer protocol
 
 Write threats as verbs and mechanisms:
 
@@ -571,7 +571,7 @@ not:
 “habitat is a problem”
 ```
 
-### Revision notes
+### Threat-response register
 
 1. Threat analysis needs a causal pathway.
 2. Habitat loss removes area; fragmentation also breaks connectivity.
@@ -594,7 +594,7 @@ not:
 
 **Misconception to avoid:** More tree cover is not automatically restoration in an ecosystem whose natural structure is grassland.
 
-### Lesson-local Mains practice
+### Threat-response writing drill
 
 **Question (15 marks, 250 words):** Explain how species traits and threat pathways should jointly determine conservation response.
 
@@ -615,7 +615,7 @@ Single-species action can be necessary, but it should be embedded in landscape p
 Progress: 5 / 8 | Stage: Core | Subtopic: IUCN Red List, Wildlife Protection Act, CITES and CMS
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — IUCN, wildlife law, CITES and CMS
+Book context: queried — `books\current affairs vajiram\The_Recitals_March2026_6ae82ffdc4.pdf`, PDF pp. 94-95, for bounded CMS COP15 context; official treaty and Gazette records control legal status
 CA search: "recent official IUCN CITES CMS Wildlife Protection Act species status India April to October 2026"
 CA found: official CITES, CMS and Gazette records provide the status-verification docket below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -685,7 +685,7 @@ A species can appear in both CMS appendices because strict protection and cooper
 
 The following official records show how to verify operative status and legal timing:
 
-- **CITES CoP20:** The [official CITES outcome record](https://cites.org/eng/api/node/news/144843) states that CoP20 closed on **5 December 2025** and adopted **82 new listings**. The live Appendix entry must be checked in the [current CITES Checklist](https://checklist.cites.org/), because reservations, annotations and delayed implementation can make a meeting date an unsafe substitute for the operative listing.
+- **CITES CoP20:** CoP20 closed on **5 December 2025**; the [official CITES outcome record](https://cites.org/eng/api/node/news/144843) was published on **16 December 2025** and reports **82 new listings**. The official Appendices edition is [valid from 5 March 2026](https://cites.org/sites/default/files/eng/app/2026/E-Appendices-2026-03-05.pdf). The named-species entry must still be checked in the [current CITES Checklist](https://checklist.cites.org/), because reservations, population scope and annotations can alter the legal result.
 - **CMS COP15:** [Notification 2026/006](https://www.cms.int/sites/default/files/news_attachments/006_COP15_Amendments%20of%20Appendices_e.pdf) records the inclusion of **40 taxa**. [Notification 2026/012](https://www.cms.int/sites/default/files/news_attachments/012_Amendments%20of%20Appendices%20adopted%20by%20COP15%20entry%20into%20force_e.pdf) states that the revised CMS Appendices entered into force on **27 June 2026**, except for a Party making a reservation under the Convention.
 - **Indian schedules:** Gazette notification [S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf) is dated **27 May 2025** but appears in the Gazette issue dated **28 May 2025**. It states no later commencement date; record **28 May 2025** as the operative publication date, not the signature date or the portal's later upload stamp.
 
@@ -713,21 +713,21 @@ Each entry requires its own source and effective date.
 | CMS | “appendix/instrument and relevant population or range” |
 | Local status | “state survey or population record, year and method” |
 
-### Example and its limit
+### Four-system case boundary: Great Indian Bustard
 
 The Great Indian Bustard can be used to connect scientific risk, domestic legal protection and habitat/infrastructure intervention. But the IUCN category does not itself create an Indian court direction, and a court direction does not prove recovery.
 
-### Strongest objection, reply and residual
+### Complexity challenge and resolution
 
 **Objection:** Four systems create unnecessary complexity.
 **Reply:** Extinction risk, domestic prohibition, trade control and migratory cooperation are genuinely different governance problems. Combining them would erase essential legal boundaries.
 **Residual:** Coordination gaps and update lags can occur. A good tracker exposes the lag instead of pretending the systems move together.
 
-### UPSC use
+### Status decision rule
 
 Whenever an option says “because it is IUCN-listed, trade is prohibited” or “therefore it is in Schedule I,” stop. The conclusion requires a separate legal source.
 
-### Revision notes
+### Four-status register
 
 1. IUCN is scientific and advisory, not a domestic statute.
 2. Threatened means VU, EN and CR.
@@ -751,7 +751,7 @@ Whenever an option says “because it is IUCN-listed, trade is prohibited” or 
 
 **Misconception to avoid:** Similar conservation concern does not make scientific risk categories and treaty trade categories legally interchangeable.
 
-### Lesson-local Mains practice
+### Status writing drill
 
 **Question (15 marks, 250 words):** Distinguish IUCN, the Wildlife Protection Act, CITES and CMS as instruments of species conservation.
 
@@ -770,7 +770,7 @@ These layers may converge around one species but cannot be substituted for one a
 Progress: 6 / 8 | Stage: Core | Subtopic: Species institutions and legal-institutional response
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — institutional mandates relevant to species records
+Book context: not available — no OCR-searchable Environment textbook passage was located for this institution-chain lesson; certified Topic 27/28 owners and official mandates control
 CA search: "recent official India wildlife institutions species protection enforcement April to October 2026 WCCB WII BSI ZSI NTCA"
 CA found: no recent official item materially changes the institution-to-action chain below
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -851,13 +851,13 @@ A wide-ranging mammal cannot be conserved only inside one bounded reserve. Corri
 | rescued/seized | interception | prosecution and demand reduction |
 | restored | claimed intervention | ecological recovery |
 
-### 6. Strongest objection, reply and residual
+### 6. Coordination challenge: specialisation without fragmentation
 
 **Objection:** India has too many overlapping environmental bodies.
 **Reply:** Specialisation is useful: taxonomy, field science, legal decision and crime control need different skills. The solution is a traceable hand-off, not a single generalist institution.
 **Residual:** Coordination, staffing, forensic capacity and state-level implementation remain genuine constraints.
 
-### UPSC use
+### Institutional answer protocol
 
 Answer institutional questions through four columns:
 
@@ -867,7 +867,7 @@ legal basis | function | output | limitation
 
 Do not call every scientific institute a regulator or every authority an enforcement bureau.
 
-### Revision notes
+### Institution-action register
 
 1. BSI documents plant diversity; ZSI documents animal diversity.
 2. WII supplies wildlife science and training.
@@ -890,7 +890,7 @@ Do not call every scientific institute a regulator or every authority an enforce
 
 **Misconception to avoid:** A scientific discovery or record does not automatically amend a statute, schedule or protected-area boundary.
 
-### Lesson-local Mains practice
+### Governance writing drill
 
 **Question (15 marks, 250 words):** Species conservation requires a chain from taxonomy to enforcement. Discuss with reference to Indian institutions.
 
@@ -911,12 +911,12 @@ India therefore needs specialisation with interoperability: shared identifiers, 
 Progress: 7 / 8 | Stage: Core | Subtopic: Source, date, scale, status verb, claim boundary and update cycle
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — Topic 28 tracker protocol and evidence control
-CA search: "recent official India Red List assessor training species assessment 2026 IUCN"
-CA found: Fourth IUCN Red List Assessor's Training in India, held 8-11 July 2026; IUCN story published 31 July 2026
+Book context: not available — no OCR-searchable Environment textbook passage was located for the tracker protocol; certified Topic 28 owners and primary legal/assessment records control
+CA search: "official India species update 2026 Great Indian Bustard IUCN assessment training"
+CA found: Project GIB captive-breeding update, 14 June 2026; Fourth IUCN Red List Assessor's Training, held 8-11 July 2026 and published 31 July 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual: the eight-field species record
+### Visual: the ten-field species record
 
 ```text
 1 IDENTITY       accepted name + common name + taxon
@@ -925,8 +925,10 @@ CA found: Fourth IUCN Red List Assessor's Training in India, held 8-11 July 2026
 4 THREAT         causal pathway
 5 STATUS         IUCN + WPA + CITES + CMS, separately
 6 ACTION         institution + intervention
-7 TIME           publication date + as-on/effective date
-8 CONFIDENCE     verified fact + qualification + pending check
+7 TRIGGER        named event + issuer + exact status verb
+8 TIME           publication date + assessment/effective/as-on date
+9 EVIDENCE       ✅ fact + ⚠️ inference + proves/does-not-prove
+10 MAINTENANCE   last checked + expiry trigger + next source/date
 ```
 
 A tracker is not a scrapbook. It is a claim-control system.
@@ -973,7 +975,7 @@ An article published today may describe a notification effective earlier, or a s
 | rediscovered/recorded | detected | recovered |
 | seized/rescued | intercepted or recovered from immediate danger | trafficking eliminated |
 
-### 4. Current-affairs application: Red List assessment capacity
+### 4. Process update, not species news: Red List assessment capacity
 
 **31 July 2026 — India expands Red List assessment capacity.** IUCN reported that the fourth Indian Red List Assessor's Training had been conducted from **8 to 11 July 2026** at the Central National Herbarium. It brought together 40 participants from BSI and ZSI regional centres and other scientific organisations. The stated purpose was to build a trained pool contributing to assessment of **11,000 species of flora, fauna and fungi** under the National Red List of Flora and Fauna of India — Vision 2030. IUCN also stated that four in-person workshops had trained more than 150 scientists, conservationists and researchers.
 
@@ -996,26 +998,47 @@ What it does **not** prove:
 - that an IUCN assessment automatically changes Indian law;
 - that training alone produces conservation recovery.
 
-This case shows how to record a dated capacity-building development without overstating its outcome.
+This is **assessment-process news**, not a change in the status, range or population of a named
+species. A species tracker may link it to methodology, but it must not substitute this event
+for an actual species record.
 
-### 5. A clean tracker entry
+### 5. Full exemplar fact-card: Great Indian Bustard
 
-```text
-Trigger:
-Issuer:
-Publication date:
-Assessment/effective/as-on date:
-Species and accepted scientific name:
-Claim:
-Geographic and taxonomic scale:
-Status verb:
-Static concepts linked:
-What the evidence proves:
-What it does not prove:
-Next verification date/source:
-```
+| Field | Controlled entry — checked 5 October 2026 |
+|---|---|
+| Identity | ✅ **Great Indian Bustard / Godawan — *Ardeotis nigriceps* (Vigors, 1831)**; accepted species, class Aves, family Otididae. [GBIF accepted-name record](https://api.gbif.org/v1/species/match?name=Ardeotis%20nigriceps). |
+| Taxonomic conflict note | ✅ GBIF currently places the species in Otidiformes, while the Species+/CITES record retains Gruiformes. The species identity is stable; the order-level difference must not be mistaken for two species. |
+| Habitat/range | ✅ Arid and semi-arid grassland/open landscapes, with the principal surviving Indian conservation focus in Rajasthan and Gujarat. One managed site or captive centre is not the complete natural range. |
+| IUCN | ✅ **Global Critically Endangered; assessed 17 August 2018; criteria A2a+4acd; C1.** [Direct IUCN assessment](https://www.iucnredlist.org/species/pdf/134188105). The 2018 assessment date must accompany the category. |
+| Indian law | ✅ **Wild Life (Protection) Act Schedule I** under the current post-2022 structure. Use the [current India Code Act](https://www.indiacode.nic.in/indiacode/handle/123456789/1726?view_type=browse&sam_handle=123456789/1362); the later [S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf), notification dated 27 May and Gazette issue dated **28 May 2025**, does not replace the four-Schedule structure or this Schedule-I control. |
+| CITES | ✅ **Appendix I, effective 28 June 1979.** [Current Species+/CITES record](https://www.speciesplus.net/checklist/taxon_concepts.json?scientific_name=Ardeotis%20nigriceps). |
+| CMS | ✅ **Appendix I** in the [revised CMS Appendices](https://www.cms.int/sites/default/files/basic_page_documents/revised-appendices_cop15_e.pdf), effective **27 June 2026**, subject to the Convention's reservation rule. |
+| Threat pathway | ✅ Grassland loss/fragmentation and collision with overhead transmission lines act on a very small, fragmented wild population. |
+| Programme/legal action | ✅ Project GIB conservation breeding; Supreme Court judgments dated [21 March 2024](https://api.sci.gov.in/supremecourt/2019/20754/20754_2019_1_25_51677_Judgement_21-Mar-2024.pdf) and [19 December 2025](https://api.sci.gov.in/supremecourt/2019/20754/20754_2019_6_1501_67109_Judgement_19-Dec-2025.pdf) provide dated mitigation directions. |
+| Actual species-news trigger | ✅ PIB, **14 June 2026**: Project GIB reported three new chicks, **94 birds in captive stock** and **26 chicks hatched so far in the fourth breeding year**. [PIB PRID 2272725](https://pib.gov.in/PressReleasePage.aspx?PRID=2272725&reg=3&lang=1). |
+| What the trigger proves | ✅ A dated captive-breeding output and captive-stock statement by the issuing ministry. |
+| What it does not prove | ✅ It is **not** a 2026 wild-population estimate, completed power-line mitigation, improved IUCN status or self-sustaining reintroduction. |
+| ⚠️ Inference | Ex-situ breeding can reduce extinction risk only when paired with protection of wild grassland, mortality reduction, genetic management and evidence-based release planning. |
+| Conflict/pending field | Current comparable wild abundance remains separate from captive stock; do not insert a remembered numerical estimate without a named survey and reference year. |
+| Expiry/recheck | Recheck on any IUCN reassessment, WPA/Gazette amendment, CITES/CMS revision, later Supreme Court order, Project GIB release or comparable wild survey. **Next routine exam-cycle check: 31 March 2027.** |
 
-### 6. Handling disagreement
+### 6. Actual species record: Amur Falcon at Indian stopovers
+
+✅ The accepted identity is **Amur Falcon — *Falco amurensis* Radde, 1863**
+([GBIF](https://api.gbif.org/v1/species/match?name=Falco%20amurensis)). The current
+Species+/CITES record places it in **Appendix II, effective 12 June 2013**. It is also on the
+official [Raptors MOU species list](https://raptors.cms.int/species), a non-binding CMS
+instrument; this is not the same as claiming a CMS Appendix entry.
+
+India's **2025 CMS National Report**, covering **May 2023-February 2025**, records active
+participation of local people in protecting Amur Falcons across north-eastern stopover sites
+(PDF p. 8) and incentives for protecting the species (PDF p. 13):
+[official report](https://www.cms.int/sites/default/files/document/2025-11/COP15_CMS_National_Report_India.pdf).
+The official 2026 Prelims paper then used Doyang Lake as a dated exam trigger. These records
+support community protection at an Indian stopover; they do not prove breeding in India,
+permanent residency or safety across the whole flyway.
+
+### 7. Handling disagreement
 
 If two credible sources differ:
 
@@ -1028,7 +1051,7 @@ If two credible sources differ:
 
 Do not average a species count or silently select the larger number.
 
-### 7. Stale-current firewall
+### 8. Stale-current firewall
 
 Before reusing a card:
 
@@ -1041,13 +1064,13 @@ Was a target achieved or merely announced?
 Is the cited population estimate still the latest survey?
 ```
 
-### Strongest objection, reply and residual
+### Maintenance challenge: speed versus verification
 
 **Objection:** This method is too slow for daily current affairs.
 **Reply:** The tracker should contain only high-value species and milestones. A small verified set is faster to revise and safer to deploy than hundreds of unsourced clippings.
 **Residual:** Official sources can lag and databases can be inaccessible. Mark “verification pending” rather than filling the gap with memory.
 
-### UPSC use
+### Tracker deployment protocol
 
 Use the pattern:
 
@@ -1058,7 +1081,7 @@ static concept
   + explicit limitation
 ```
 
-### Revision notes
+### Tracker maintenance register
 
 1. A tracker is a claim-control system, not a news scrapbook.
 2. Match the source to the authority over the claim.
@@ -1073,6 +1096,9 @@ static concept
 11. Every record needs a “proves/does not prove” boundary.
 12. Recheck high-risk dynamic fields before exam use.
 13. The 8-11 July 2026 training built assessment capacity; it did not complete 11,000 assessments.
+14. Process news and named-species news are different record types.
+15. The 14 June 2026 GIB figures concern captive stock and breeding output, not wild abundance.
+16. Every dynamic card needs an expiry trigger and next recheck source.
 
 ### Concept check
 
@@ -1082,19 +1108,25 @@ static concept
 
 **Misconception to avoid:** Programme launch and funding allocation are not biological outcomes.
 
-### Lesson-local Mains practice
+### Verification writing drill
 
 **Question (15 marks, 250 words):** Why is verification discipline central to the use of species current affairs in environmental answers?
 
 **Model response:** Species facts change across assessment cycles, notifications, court orders and surveys. Verification discipline prevents a current-looking answer from combining incompatible dates or categories. Each record should identify the species, taxonomic and geographic scale, issuing authority, publication and effective date, status verb, exact claim and limitation.
 
-The July 2026 Indian Red List assessor training illustrates this method. IUCN reported training held from 8-11 July to expand capacity for the Vision 2030 goal of assessing 11,000 species. This proves capacity-building and an assessment objective; it does not prove completion, legal protection or recovery.
+The sources must also be typed correctly. The July 2026 Indian Red List assessor training is
+process news: it proves capacity-building and an assessment objective, not completed
+assessments. By contrast, the 14 June 2026 Project GIB release is named-species news, but its
+figures concern captive stock and breeding output rather than current wild abundance or
+recovery.
 
 Source choice must follow claim type: IUCN for global risk, Gazette/India Code for Indian schedules, CITES and CMS databases for treaty listings, and named surveys for populations. Proposed, notified, funded, implemented and achieved must remain distinct. Where official figures differ, the candidate should compare dates, scale, method and taxonomic treatment rather than guess or average.
 
 This discipline improves both Prelims accuracy and Mains credibility. A small longitudinal tracker with explicit uncertainty is more valuable than a large collection of unsourced numbers because it connects current evidence to durable ecological and legal concepts.
 
-**Why this earns marks:** It uses the dated Red List capacity-building example accurately, distinguishes evidence stages and converts verification into an exam-ready method.
+**Why this earns marks:** It distinguishes process news from named-species news, uses the
+dated GIB and assessor-training examples within their evidence limits, and converts
+verification into an exam-ready method.
 
 **Unique quantified rubric (15):** need for verification 3 | complete record fields 4 | verified dated example with boundary 3 | conflict/update method 3 | exam value 1 | conclusion 1
 
@@ -1103,9 +1135,9 @@ This discipline improves both Prelims accuracy and Mains credibility. A small lo
 Progress: 8 / 8 | Stage: Advanced | Subtopic: Longitudinal tracking, evidence reconciliation, conservation argument and exam deployment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — advanced Topic 28 and cross-topic conservation
-CA search: "official species conservation evidence uncertainty reassessment India April to October 2026"
-CA found: the Red List capacity-building example above remains relevant to this longitudinal method
+Book context: not available — no OCR-searchable Environment textbook passage was located for longitudinal species tracking; certified Advanced Topic 28 and primary case records control
+CA search: "official Great Indian Bustard Amur Falcon conservation update India 2025 2026"
+CA found: Project GIB captive-breeding release, 14 June 2026; India 2025 CMS National Report records Amur Falcon stopover protection during the May 2023-February 2025 reporting period
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a case file evolves through events
@@ -1147,32 +1179,30 @@ Depth is more valuable than an unmaintainable list of every species in the news.
 
 ### 2. Longitudinal record for the Great Indian Bustard
 
-Use separate rows:
+| Date | Verified layer | Evidence boundary |
+|---|---|---|
+| 17 August 2018 | IUCN global CR assessment, criteria A2a+4acd; C1 | assessment date, not current wild abundance |
+| 21 March 2024 | Supreme Court replaced a blanket remedy with expert, area-sensitive review | judicial design, not installed mitigation |
+| 19 December 2025 | latest verified Supreme Court judgment in the file's source set | directions and priority-area controls, not recovery |
+| 14 June 2026 | PIB reported 94 captive birds and 26 chicks in the fourth breeding year | captive stock/output, not wild population |
+| next comparable survey/order | mortality, habitat, occupancy, recruitment and compliance | required before an outcome claim |
 
-```text
-scientific risk assessment
-Indian legal protection
-grassland habitat condition
-power-line collision evidence
-judicial direction and later modification
-mitigation installation
-population monitoring
-```
-
-The analytical question is whether interventions reduce mortality while preserving energy and livelihood objectives through better siting and design. A court order is an institutional response, not a population outcome.
+The analytical question is whether habitat and collision interventions reduce measured wild
+mortality and improve recruitment. A court judgment and a breeding-centre output are different
+responses; neither is a wild-population trend.
 
 ### 3. Longitudinal record for the Amur Falcon
 
-The case links:
+| Date/period | Verified layer | Evidence boundary |
+|---|---|---|
+| May 2023-February 2025 | India's 2025 CMS National Report records active local participation at north-eastern stopover sites and species-protection incentives | Party report evidence, not a measured global trend |
+| 12 June 2013-current check | CITES Appendix II through the current Species+ order-level listing | trade status, not CMS status or habitat protection |
+| current check, 5 October 2026 | *Falco amurensis* appears on the official Raptors MOU species list | non-binding instrument coverage, not CMS Appendix listing |
+| 2026 Prelims GS-I Q27, local PDF p. 13 | Doyang Lake/community-conservation exam trigger | exact PYQ ownership remains Topic 10; no key is reproduced here |
 
-- long-distance migration;
-- stopover ecology;
-- former hunting pressure;
-- community protection;
-- local livelihood and ecotourism;
-- range-state dependence.
-
-Local success secures one link in a long route. It cannot prove safety across the complete flyway.
+Local success secures one stopover link in a route extending between north-east Asia and
+southern Africa. It does not prove breeding or permanent residence in India, successful
+tracking technology, or safety across the complete flyway.
 
 ### 4. Evidence strength ladder
 
@@ -1219,17 +1249,17 @@ Use the five-move structure:
 **News bias:** rediscoveries and counts attract headlines; chronic habitat decline does not.
 **Outcome bias:** notifications and budgets are easier to count than recruitment or connectivity.
 
-### Reply and residual
+### Tracker limits and repair
 
 A disciplined tracker can expose these biases by requiring taxonomic breadth, DD/NE flags, method fields and outcome indicators. It cannot replace field surveys or expert assessment; it only organises verified evidence for learning and answer writing.
 
-### UPSC use
+### Calibrated synthesis rule
 
 The best concluding line is calibrated:
 
 > Species conservation succeeds when correct identification and dated assessment are translated into habitat protection, enforceable law, community cooperation and measured biological recovery.
 
-### Revision notes
+### Longitudinal register
 
 1. A longitudinal case follows one species across time and governance layers.
 2. Three to five maintained cases are better than exhaustive shallow coverage.
@@ -1253,7 +1283,7 @@ The best concluding line is calibrated:
 
 **Misconception to avoid:** Every category improvement is proof that a named conservation programme succeeded.
 
-### Lesson-local Mains practice
+### Synthesis writing drill
 
 **Question (20 marks, 250 words):** A species current-affairs tracker should measure governance and biological outcomes, not merely accumulate news. Critically examine.
 
@@ -1403,7 +1433,9 @@ How many of the above are generally nocturnal or most active after sunset?
 **(c)** All three
 **(d)** None
 
-> **Official evaluation status:** UPSC dropped this Set-A Question 14. The released official key leaves it unscored; no combination should be presented as the official answer.
+> **Official-final key control:** UPSC's released Series-A key scores Question 14; Question
+> 34 is the dropped item. The answer letter for Question 14 is intentionally not reproduced
+> in this learner-facing session.
 
 ### 11. UPSC CSE Prelims 2023, GS-I, Question 15
 
@@ -1468,6 +1500,26 @@ Which of the statements given above is/are correct?
 **(c)** II only
 **(d)** II and III
 
+### 16. UPSC CSE Prelims 2026, GS-I, Set A, Question 36
+
+Consider the following statements about Rhynchostylis retusa (Foxtail orchid) :
+
+1. It is an epiphytic orchid.
+2. The species is endemic to North-east India.
+3. It is the State flower of Arunachal Pradesh and Assam.
+
+Which of the statements given above is/are correct ?
+
+**(a)** 1 only
+**(b)** 1 and 3
+**(c)** 2 and 3
+**(d)** 3 only
+
+> **Provenance/status:** verbatim transcription from repository-held
+> `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, PDF p. 19. The repository-held
+> 2026 key remains provisional; no answer letter, truth mapping or elimination is reproduced.
+> Primary canonical ownership: Topic 28.
+
 ---
 
 ## Answer-neutral PYQ routing
@@ -1483,12 +1535,13 @@ Which of the statements given above is/are correct?
 | 7 | Defensive behaviour across mammal species | Lesson 3 |
 | 8 | Plant uses, botanical classification and endemism | Lessons 1-3 |
 | 9 | Fungal identity, habitat and cultivation claims | Lessons 1 and 3 |
-| 10 | Activity-period qualifiers; officially dropped and unscored, with no authoritative answer combination | Lesson 3 |
+| 10 | Activity-period qualifiers; official-final key exists, but no answer mapping is reproduced here | Lesson 3 |
 | 11 | Animal communication and information transfer | Lesson 3 |
 | 12 | Nesting, food storage and diet claims concerning Indian squirrels | Lesson 3 |
 | 13 | Tool use in animal feeding behaviour | Lesson 3 |
 | 14 | Big-cat breeding, vocalisation and territorial behaviour | Lesson 3 |
 | 15 | Taxonomic identity, natural range and habitat stratum | Lessons 1-2 |
+| 16 | Accepted plant identity, epiphytic life-form, range/endemism and State association | Lessons 1-2 and 7 |
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -1506,9 +1559,12 @@ Which of the statements given above is/are correct?
 
 ## Check 3 — behaviour
 
-**Question:** How should a dropped PYQ containing the phrase “generally active after sunset” be used?
+**Question:** How should an officially scored PYQ containing the phrase “generally active after sunset” be studied without turning flexible behaviour into an absolute?
 
-**Model answer:** Use it only as an unscored exercise in distinguishing typical dusk/night activity from strict nocturnality. Because UPSC dropped the question, no statement combination should be labelled the official answer; any biological discussion must be sourced independently.
+**Model answer:** Preserve the official scoring status while verifying each biological claim
+independently. Distinguish typical dusk/night activity from strict nocturnality and keep
+population, season and disturbance qualifications visible; this session does not reveal the
+answer combination.
 
 ## Check 4 — threat
 
@@ -1560,17 +1616,17 @@ Conflation produces faulty reasoning—for example, assuming that an Endangered 
 
 **Question (15 marks, 250 words):** Design an exam-ready species fact card and explain how each field prevents a common UPSC error.
 
-**Model response:** An exam-ready species card should contain eight fields. Identity records common and accepted scientific names, major taxon and life-form, preventing classification by resemblance or habitat alone. Place separates habitat, occurrence, range, native status and endemism, preventing one sighting from becoming an exclusive-range claim.
+**Model response:** An exam-ready species card should contain ten controlled fields. Identity records common and accepted scientific names, major taxon and life-form, preventing classification by resemblance or habitat alone. Place separates habitat, occurrence, range, native status and endemism, preventing one sighting from becoming an exclusive-range claim.
 
-Ecology records activity, diet, breeding, migration, communication and tool use with qualifiers. Threat traces pressure to exposure, sensitivity and consequence. Status maintains separate entries for IUCN, Indian law, CITES and CMS. Action identifies the responsible institution and intervention. Time records both publication and assessment/effective dates. Confidence states what the source proves, what it does not prove and when rechecking is due.
+Ecology records activity, diet, breeding, migration, communication and tool use with qualifiers. Threat traces pressure to exposure, sensitivity and consequence. Status maintains separate entries for IUCN, Indian law, CITES and CMS. Action identifies the institution and intervention. Trigger records the dated news event and exact status verb. Time separates publication from assessment, effective or as-on dates. Evidence separates fact from inference and states what is proved. Maintenance records the last check, expiry trigger and next controlling source.
 
 The card should also preserve method for population figures and status verbs such as proposed, notified, launched and achieved. Where sources conflict, compare date, scale, taxonomy and survey method rather than guessing.
 
 This structure converts current affairs into durable knowledge: every fact is connected to a static ecological concept, legal mechanism and explicit evidence boundary.
 
-**Why this earns marks:** It provides an executable eight-field design, shows the error prevented by each field and handles source conflict explicitly.
+**Why this earns marks:** It provides an executable ten-field design, shows the error prevented by each field and handles source conflict explicitly.
 
-**Unique quantified rubric (15):** identity/place fields 4 | ecology/threat 3 | status/action 3 | time/confidence 3 | conflict method 1 | conclusion 1
+**Unique quantified rubric (15):** identity/place 3 | ecology/threat 3 | status/action 3 | trigger/time 2 | evidence/maintenance 2 | conflict method 1 | conclusion 1
 
 ## Original 20-mark question — conservation governance
 
@@ -1656,9 +1712,11 @@ The solution is a landscape-based, community-linked and periodically reverified 
 
 **Repair:** Read the assessment rationale, method and causal evidence before attribution.
 
-## Error 17 — assigning an answer to a dropped PYQ
+## Error 17 — misrecording official-final key or dropped-question status
 
-**Repair:** Record the official dropped/unscored status and use the item only for concept practice. Do not promote a coaching key or ecological inference into an official answer.
+**Repair:** Verify the released Series-A key against the exact booklet numbering. In 2023
+GS-I, Q14 is scored and Q34 is dropped. Record that control without reproducing Q14's answer
+letter or promoting a coaching key or biological inference into an official answer.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -1710,13 +1768,13 @@ unattributed claim
 
 ## Master map 5 — PYQ species memory grid
 
-| Cluster | Species/examples | Retrieval cue |
+| Cluster | Species/examples | Verification cue |
 |---|---|---|
-| Taxon | Gucchi, frogmouth, Gooty tarantula | fungus, birds, arachnid |
-| Habitat/range | musk deer, tarantula | Himalayan setting, restricted Andhra forest |
-| Behaviour | elephant, nocturnal fauna, bees, squirrels, orangutan, big cats | matriarch/gestation, activity, dance, nesting/diet, tool, roar/scent |
-| Plant use | Himalayan nettle, lemongrass, moringa, tamarind | textile fibre, repellent oil, family/origin/use distinctions |
-| Threat | *Prosopis*, tarantula, pangolin, bustard | invasion, habitat/trade, capture, infrastructure |
+| Taxon | Gucchi, frogmouth, Gooty tarantula, Foxtail orchid | accepted name, taxonomic group and life-form checked separately |
+| Habitat/range | musk deer, tarantula, Foxtail orchid | occurrence, natural range, endemism and habitat stratum checked separately |
+| Behaviour | elephant, nocturnal fauna, bees, squirrels, orangutan, big cats | social/reproductive/activity/communication/tool claims tested one by one |
+| Plant use | Himalayan nettle, lemongrass, moringa, tamarind | identity, collection/cultivation, trade and technical use require separate evidence |
+| Threat | *Prosopis*, tarantula, pangolin, bustard | pressure-to-consequence mechanism and response evidence |
 
 ## Master argument map — why depth beats exhaustive clipping
 
@@ -1753,10 +1811,13 @@ STATUS
 IUCN | WPA | CITES | CMS — never inferred from one another
       ↓
 ACTION
-institution | instrument | status verb | implementation
+institution | programme/instrument | implementation
       ↓
-EVIDENCE
-source | publication date | effective/as-on date | method | confidence
+TRIGGER + TIME
+event | issuer | status verb | publication date | assessment/effective/as-on date
+      ↓
+EVIDENCE + MAINTENANCE
+✅ fact | ⚠️ inference | proves/does-not-prove | method | last checked | expiry/recheck
 ```
 
 ## Identity and taxonomy
@@ -1764,10 +1825,10 @@ source | publication date | effective/as-on date | method | confidence
 - Common names may describe appearance or sound rather than relationship.
 - Scientific names reduce ambiguity but can have synonyms and revisions.
 - Taxon and life-form are separate.
-- Peacock/Gooty tarantula: arachnid and arboreal spider.
-- Gucchi: fungus.
-- Ceylon frogmouth, Coppersmith barbet, Grey-chinned minivet and White-throated redstart: birds.
-- Moringa: Moringaceae; tamarind: Fabaceae.
+- For Peacock/Gooty tarantula, Gucchi, the four 2020 common names and Foxtail orchid, verify
+  accepted identity before testing range, behaviour or use.
+- For Moringa and tamarind, verify botanical family, origin and each claimed use separately.
+- These prompts identify the evidence task; they do not supply an option or truth mapping.
 
 ## Habitat, range and distribution
 
@@ -1776,28 +1837,24 @@ source | publication date | effective/as-on date | method | confidence
 - Range is total natural distribution.
 - Native means naturally occurring; endemic means naturally restricted.
 - Endemic does not automatically mean threatened.
-- Peacock tarantula has a highly restricted natural Indian forest range; captive occurrence is irrelevant to natural range.
-- Himalayan musk deer belong to high Himalayan forest/scrub settings; Askot and Gangotri fit that logic.
-- *Prosopis juliflora* is introduced in India.
-- Tamarind's long cultivation in South Asia does not prove South Asian endemism.
+- For Peacock tarantula, musk deer, *Prosopis*, tamarind and Foxtail orchid, test natural
+  range, occurrence, origin and endemism as separate propositions.
+- A protected-area record, long cultivation or captive occurrence cannot by itself settle the
+  complete natural range.
 
 ## Behaviour and uses
 
 - Read qualifiers: generally, mainly, can, only and normally are not interchangeable.
-- Elephant family groups are female-led; gestation can approach 22 months; the 2017 synchronized estimate placed Karnataka, not Kerala, first among States.
-- Avoid arbitrary reproductive age ceilings without evidence.
-- Lion-tailed macaque is primarily diurnal; Malabar civet nocturnal; sambar often dusk/night active.
-- Lions can breed through the year.
-- Cheetahs do not produce a full roar.
-- Leopards use scent marking.
-- Hedgehogs and pangolins can roll defensively; marmots rely on alarm and refuge rather than the same armour-ball strategy.
-- Honeybee waggle dance communicates food direction and distance.
-- Orangutans use sticks as tools.
-- Generic “Indian squirrel” statements need species-level caution; tree nests and omnivory are safer than a universal ground-burial claim.
-- Himalayan nettle supplies textile fibre.
-- Lemongrass oil is used in natural mosquito repellents.
-- Gucchi is a wild Himalayan fungus, not safely treated as an established commercial field crop.
-- Moringa is not leguminous; tamarind is not endemic to South Asia; minor-forest-produce, export and biofuel claims must be checked separately.
+- Elephant questions require separate checks for social leadership, gestation, reproductive
+  ceiling and the survey year behind a State comparison.
+- The 2023 fauna item requires qualifier-sensitive, species-specific activity evidence; its
+  official-final scoring status does not make flexible behaviour an exceptionless rule.
+- Big-cat breeding, vocalisation and territorial marking are three independent claims.
+- Defensive rolling, waggle communication, squirrel ecology and tool use each require a
+  species-specific mechanism and context.
+- Himalayan nettle, lemongrass, Gucchi, Moringa and tamarind claims require separate evidence
+  for identity, collection/cultivation, trade and technical use.
+- No bullet in this register identifies a correct option or statement combination.
 
 ## Threat logic
 
@@ -1856,28 +1913,35 @@ CMS = migratory range cooperation
 9. Recheck dynamic status before exam use.
 10. Track three to five diverse cases longitudinally.
 
-## Dated current-affairs example for recall
+## Dated current-affairs records for recall
 
-**8-11 July 2026; IUCN story published 31 July 2026:** India's fourth Red List Assessor's Training brought together 40 participants and supported the Vision 2030 objective of assessing 11,000 species of flora, fauna and fungi. It demonstrates capacity-building, not completed assessment or recovery.
+- **Actual species news — 14 June 2026:** PIB's Project GIB update reported captive stock and
+  breeding output. It does not supply a wild-population estimate or recovery finding.
+- **Actual species programme evidence — India 2025 CMS National Report:** reporting period
+  May 2023-February 2025; records local participation at Amur Falcon stopovers and protection
+  incentives. It does not establish a global trend or Indian breeding.
+- **Assessment-process news — 8-11 July 2026; IUCN story 31 July 2026:** assessor training
+  supports capacity for the Vision 2030 objective; it is not a named-species status change.
 
 ## PYQ retrieval route
 
 ```text
-2018 Prosopis        → invasion and biodiversity
-2019 nettle          → textile fibre
-2020 elephant        → matriarch, gestation, dated State count
-2020 four names      → birds
-2020 musk deer       → Himalayan habitat
-2021 lemongrass      → natural repellent
-2021 rolling defence → hedgehog and pangolin logic
-2021 plants          → family, origin, collection, export, use
-2022 Gucchi          → fungus, Himalaya, wild harvest
-2023 fauna activity  → officially dropped; qualifier practice only, no official combination
-2023 waggle dance    → honeybee communication
-2023 squirrels       → nest, caching and diet separately
-2023 tool use        → orangutan
-2024 big cats        → breeding, roar and scent
-2025 tarantula       → arachnid, restricted range, arboreal
+2018 Q86 → invasive-species mechanism and claim verification
+2019 Q31 → biological-resource identity and sustainable-use evidence
+2020 Q72 → social, reproductive and dated distribution claims
+2020 Q74 → common-name taxonomy
+2020 Q77 → habitat and protected-area fit
+2021 Q21 → plant-derived product evidence
+2021 Q23 → defensive-behaviour comparison
+2021 Q63 → family, origin, collection, export and use
+2022 Q45 → organism identity, habitat and cultivation claim
+2023 Q14 → activity qualifiers; scored in the official-final key, no mapping shown
+2023 Q15 → communication mechanism
+2023 Q17 → broad-group nesting, storage and diet claims
+2023 Q19 → tool-use evidence
+2024 Q25 → breeding, vocalisation and territorial behaviour
+2025 Q37 → taxonomy, natural-range restriction and habitat stratum
+2026 Q36 → accepted plant identity, epiphytic habit, endemism and State association
 ```
 
 ## Mains answer spine
@@ -1897,12 +1961,12 @@ define species and scale
 
 | Coverage unit | Teaching location | Practice/evidence location |
 |---|---|---|
-| Common/scientific names and taxonomy | Lesson 1 | Concept Check 1; PYQs 4, 9 and 15 |
-| Plant, fungus, arachnid and bird classification | Lesson 1 | PYQs 4, 9 and 15 |
-| Habitat, occurrence, range and endemism | Lesson 2 | Check 2; PYQs 5 and 15 |
+| Common/scientific names and taxonomy | Lesson 1 | Concept Check 1; PYQs 4, 9, 15 and 16 |
+| Plant, fungus, arachnid and bird classification | Lesson 1 | PYQs 4, 9, 15 and 16 |
+| Habitat, occurrence, range and endemism | Lesson 2 | Check 2; PYQs 5, 15 and 16 |
 | Native, alien, endemic, resident and migratory | Lesson 2 | Remediation 4; master map 1 |
 | Rediscovery, range extension and reintroduction | Lesson 2 | Lesson 8; Remediation 15 |
-| Activity cycles and qualifiers | Lesson 3 | Check 3; PYQ 10 officially dropped/unscored |
+| Activity cycles and qualifiers | Lesson 3 | Check 3; PYQ 10 officially scored, answer mapping withheld |
 | Elephant social/reproductive distinctions | Lesson 3 general method; Answer approach 3 | PYQ 3 |
 | Defensive rolling | Lesson 3 general method; Answer approach 7 | PYQ 7 |
 | Honeybee communication | Lesson 3 communication method; Answer approach 11 | PYQ 11 |
@@ -1923,10 +1987,10 @@ define species and scale
 | Source-to-claim matching | Lesson 7 | Check 7; original 15-mark model |
 | Publication versus effective/as-on date | Lesson 7 | Remediation 14 |
 | Status verbs and claim boundaries | Lesson 7 | Check 7; tracker protocol |
-| Sole dated current linkage | Lesson 7 | Register notes; original 20-mark model |
+| Actual species news versus process news | Lesson 7 | GIB exemplar, Amur record, assessor-training boundary |
 | Longitudinal species portfolio | Lesson 8 | Lesson 8 model; master argument map |
 | Measurement and attribution limits | Lessons 7-8 | Check 8; Remediation 16 |
-| Relevant exact PYQs | Final PYQ section | Fifteen questions from 2018-2025; 2023 Q14 marked dropped/unscored |
+| Relevant exact PYQs | Final PYQ section | Sixteen questions from 2018-2026; 2023 Q14 scored and Q34 correctly identified as dropped, with no answer mapping |
 | Original 10/15/20-mark competence | Lessons 1-8 and final practice | Eleven models with quantified rubrics |
 | Complete rapid revision | Register notes | Master maps and remediation |
 
@@ -1940,9 +2004,9 @@ define species and scale
 | 4 | 12 | exactly one set | 15 marks | threat pathway complete |
 | 5 | 13 | exactly one set | 15 marks | four-status firewall complete |
 | 6 | 12 | exactly one set | 15 marks | institution hand-off complete |
-| 7 | 13 | exactly one set | 15 marks | dated tracker record complete |
+| 7 | 16 | exactly one set | 15 marks | dated tracker record complete |
 | 8 | 13 | exactly one set | 20 marks | longitudinal judgement complete |
-| **Total** | **100** | **8 sets** | **8 models** | **all lesson outcomes covered** |
+| **Total** | **103** | **8 sets** | **8 models** | **all lesson outcomes covered** |
 
 # SOURCE LEDGER
 
@@ -1950,44 +2014,64 @@ define species and scale
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\README.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\00_Master-Framework.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\OFFICIAL-UPSC-SYLLABUS-MAPPING.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\28_Species-and-Current-Affairs-Tracker.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\04_Biodiversity-Levels-and-Hotspots.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\05_IUCN-Red-List-and-Endemism.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\06_Protected-Area-Network-India.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\07_Biosphere-Reserves-and-Ramsar-Sites.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\09_CITES-and-Wildlife-Trade.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\10_CMS-Bonn-Convention-Migratory-Species.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` |
-| Final learner package | not relevant | Permanently excluded final-package and learner-v2 source families were not consulted, as required by the governing source-exclusion rule |
-| Layered/complete session | checked | `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`; `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`; `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`, consulted only as the mandatory learner-first teaching benchmarks |
-| Solved workbook | not relevant | Governing rule excludes solved-workbook content from this live-session pass; `upsc-ai-kit\knowledge\Environment-and-Ecology\learning-sessions\v2\subject-wide-syllabus\environment-and-ecology-28_Solved-Workbook.md` was not consulted |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\28_Species-and-Current-Affairs-Tracker.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\04_Biodiversity-Levels-and-Hotspots.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\05_IUCN-Red-List-and-Endemism.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\06_Protected-Area-Network-India.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\07_Biosphere-Reserves-and-Ramsar-Sites.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\08_Wildlife-Protection-Act-and-Schedules.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\09_CITES-and-Wildlife-Trade.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\10_CMS-Bonn-Convention-Migratory-Species.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` |
-| OCR books | not available | `books\mains\03 UPSC 2024 Paper-III.pdf`; `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf`; `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf`; `books\more_previous_papers\QP-CSM19-GeneralStudies-III.pdf` were the complete local inventory; none is an OCR-searchable Environment textbook relevant to this species topic |
-| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`; `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`; `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`; and PYQ integration in `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\28_Species-and-Current-Affairs-Tracker.md`, cross-checked against the exact official UPSC papers for 2018-2025 linked below; the released 2023 key marks Set-A Q14 blank/dropped; no exact official 2026 question paper supporting an additional species item was available as of 4 October 2026 |
-| Official live sources | checked | Exact IUCN, CITES, CMS, Gazette and MoEFCC URLs are provided below with the date/status claims they support |
+| Canonical Markdown | checked | Certified/released set at commit `027f91b83433eed60bb2bd2d8dc5665b43ff0976`: `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\28_Species-and-Current-Affairs-Tracker.md`, and certified Basic owners `05_IUCN-Red-List-and-Endemism.md`, `08_Wildlife-Protection-Act-and-Schedules.md`, `09_CITES-and-Wildlife-Trade.md`, `10_CMS-Bonn-Convention-Migratory-Species.md`, `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md`, plus the subject framework and syllabus mapping |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule; not read |
+| Layered/complete session | checked | Mandatory structural benchmarks: `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `06-Yoga`, and `07-Mimamsa`; used for learner-first structure only |
+| Solved workbook | not relevant | Permanently excluded from this live-session pass; no solved-workbook content used |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\28_Species-and-Current-Affairs-Tracker.md`, `05_IUCN-Red-List-and-Endemism.md`, `08_Wildlife-Protection-Act-and-Schedules.md`, `09_CITES-and-Wildlife-Trade.md`, `10_CMS-Bonn-Convention-Migratory-Species.md`, and `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md`, all certified at commit `027f91b83`; Advanced 28 supplies reconciliation/expiry logic without replacing Basic |
+| OCR books | checked | `books\current affairs vajiram\The_Recitals_March2026_6ae82ffdc4.pdf`, PDF pp. 94-95, queried only for bounded CMS COP15 context; no OCR-searchable Environment textbook passage was available for Lessons 1-4 or 6-8, as stated in their checklists |
+| PYQs through 2026 | checked | Routing ledgers for 2018-2023, 2024-2025 and 2026; official papers/pages below; local 2026 Set-A Q36 at PDF p. 19; Q22 remains Topic 05 and Q27 remains Topic 10 |
+| Official live sources | checked | Persistent IUCN, GBIF, India Code/Gazette, CITES/Species+, CMS, Supreme Court and PIB sources below; currentness cutoff 5 October 2026 |
 
-## Clean learner-facing evidence ledger
+## Certified canonical and taxonomy controls
 
-### Canonical and statutory evidence
+- Canonical commit: `027f91b83433eed60bb2bd2d8dc5665b43ff0976`.
+- Accepted names: [Great Indian Bustard — GBIF](https://api.gbif.org/v1/species/match?name=Ardeotis%20nigriceps);
+  [Amur Falcon — GBIF](https://api.gbif.org/v1/species/match?name=Falco%20amurensis);
+  [Foxtail orchid — GBIF](https://api.gbif.org/v1/species/5315188).
+- IUCN methodology: [Categories and Criteria v3.1](https://iucn.org/resources/publication/iucn-red-list-categories-and-criteria-version-31-second-edition).
+- Direct GIB assessment: [global CR, assessed 17 August 2018](https://www.iucnredlist.org/species/pdf/134188105).
 
-- Environment and Ecology catalogue, Topic 28 core teaching, and the relevant biodiversity, protected-area, wildlife-law, trade-convention and institution chapters.
-- Wildlife schedule amendment and notification index: [Gazette S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf) and [MoEFCC wildlife notifications](https://moef.gov.in/wildlife-notification)
-- IUCN Red List Categories and Criteria, version 3.1: [official IUCN publication](https://iucn.org/resources/publication/iucn-red-list-categories-and-criteria-version-31-second-edition)
-- CITES CoP20 closed on 5 December 2025 with 82 new listings: [official CITES outcome record](https://cites.org/eng/api/node/news/144843); current operative entries: [CITES Checklist](https://checklist.cites.org/)
-- CMS COP15 additions and legal timing: [Notification 2026/006 — 40 taxa](https://www.cms.int/sites/default/files/news_attachments/006_COP15_Amendments%20of%20Appendices_e.pdf); [Notification 2026/012 — revised Appendices in force 27 June 2026](https://www.cms.int/sites/default/files/news_attachments/012_Amendments%20of%20Appendices%20adopted%20by%20COP15%20entry%20into%20force_e.pdf)
-- Wildlife schedule update: [Gazette S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf) — notification dated 27 May 2025, Gazette issue dated 28 May 2025
+## Legal and treaty docket
 
-### Sole dated current-affairs source
+- Current Indian law: [India Code Wild Life (Protection) Act](https://www.indiacode.nic.in/indiacode/handle/123456789/1726?view_type=browse&sam_handle=123456789/1362).
+- Schedule update: [Gazette S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf) — notification dated 27 May 2025; Gazette issue dated **28 May 2025**.
+- CITES CoP20: closed **5 December 2025**; [outcome published 16 December 2025](https://cites.org/eng/api/node/news/144843); official Appendices [valid from 5 March 2026](https://cites.org/sites/default/files/eng/app/2026/E-Appendices-2026-03-05.pdf); [current Checklist](https://checklist.cites.org/).
+- GIB CITES entry: [Appendix I, effective 28 June 1979](https://www.speciesplus.net/checklist/taxon_concepts.json?scientific_name=Ardeotis%20nigriceps).
+- Amur Falcon CITES entry: [Appendix II, effective 12 June 2013](https://www.speciesplus.net/checklist/taxon_concepts.json?scientific_name=Falco%20amurensis).
+- CMS COP15: [Notification 2026/006](https://www.cms.int/sites/default/files/news_attachments/006_COP15_Amendments%20of%20Appendices_e.pdf); [Notification 2026/012](https://www.cms.int/sites/default/files/news_attachments/012_Amendments%20of%20Appendices%20adopted%20by%20COP15%20entry%20into%20force_e.pdf); [revised Appendices effective 27 June 2026](https://www.cms.int/sites/default/files/basic_page_documents/revised-appendices_cop15_e.pdf).
+- Amur Falcon instrument control: [official Raptors MOU species list](https://raptors.cms.int/species).
 
-- IUCN, **31 July 2026**, “Building India's Red List Assessment Capacity: Fourth IUCN Red List Assessor's Training”: [official story](https://iucn.org/story/202607/building-indias-red-list-assessment-capacity-fourth-iucn-red-list-assessors-training)
+## Dated species and process sources
 
-### Exact official UPSC papers
+- **GIB actual species news:** [PIB PRID 2272725, 14 June 2026](https://pib.gov.in/PressReleasePage.aspx?PRID=2272725&reg=3&lang=1) — captive stock/breeding output, not wild abundance.
+- **GIB judicial record:** [Supreme Court, 21 March 2024](https://api.sci.gov.in/supremecourt/2019/20754/20754_2019_1_25_51677_Judgement_21-Mar-2024.pdf); [latest verified judgment, 19 December 2025](https://api.sci.gov.in/supremecourt/2019/20754/20754_2019_6_1501_67109_Judgement_19-Dec-2025.pdf).
+- **Amur actual programme evidence:** [India 2025 CMS National Report](https://www.cms.int/sites/default/files/document/2025-11/COP15_CMS_National_Report_India.pdf), reporting May 2023-February 2025; Amur local participation p. 8 and incentives p. 13.
+- **Assessment-process news:** IUCN, [31 July 2026 assessor-training story](https://iucn.org/story/202607/building-indias-red-list-assessment-capacity-fourth-iucn-red-list-assessors-training), workshop 8-11 July 2026. This is not a named-species update.
 
-- 2018 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-18-GS-I-C.pdf)
-- 2019 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/csp-p1.pdf)
-- 2020 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/CSP_2020_GS_Paper-1.pdf)
-- 2021 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf)
-- 2022 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20I.pdf)
-- 2023 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_280523.pdf)
-- 2023 official-key status for Set-A Question 14: [public reproduction of UPSC's released Paper-I key](https://www.clearias.com/up/UPSC-Prelims-Key-2023-Paper-1.png) — the Q14 key cell is blank/dropped
-- 2024 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf)
-- 2025 GS-I: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf)
+## Exact PYQ paper/page control
 
-## Evidence cautions
+- 2018 Q86: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-18-GS-I-C.pdf), PDF p. 37.
+- 2019 Q31: [official paper](https://www.upsc.gov.in/sites/default/files/csp-p1.pdf), PDF p. 15.
+- 2020 Q72: [official paper](https://www.upsc.gov.in/sites/default/files/CSP_2020_GS_Paper-1.pdf), PDF p. 31; Q74 and Q77, p. 33.
+- 2021 Q21 and Q23: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf), PDF p. 13; Q63, p. 29.
+- 2022 Q45: [official paper](https://www.upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20I.pdf), PDF p. 23.
+- 2023 Q14, Q15 and Q17: [official paper](https://www.upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_280523.pdf), PDF p. 7; Q19, p. 9.
+- 2023 final-key control: official Series-A scan located through the [UPSC answer-key listing](https://upsc.gov.in/examinations/answer-key) and preserved in the repository's verified solved-PYQ baseline. Q14 is scored; Q34 is dropped. Q14's answer letter is intentionally absent here.
+- 2024 Q25: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf), PDF p. 11.
+- 2025 Q37: [official paper](https://www.upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf), PDF p. 17.
+- 2026 Q36: local official Set-A booklet `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, PDF p. 19; provisional key at `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf`, with no answer mapping reproduced.
+- Cross-owner check: 2026 Q27 Amur Falcon is local booklet PDF p. 13 and remains Topic 10; Q22 remains Topic 05.
 
-- UPSC's released 2023 key drops Set-A Question 14; no unofficial combination is presented as authoritative.
+## Copyright, neutrality and evidence cautions
+
+- Official UPSC question wording is reproduced with paper/year/question attribution for
+  educational study. No answer key, truth mapping, option elimination or third-party image is
+  embedded.
+- External official source text is paraphrased except for short legal/status labels and exact
+  question wording; links identify the originating records.
+- The 2023 final-key control is correct: Q14 scored; Q34 dropped. No Q14 answer letter appears.
+- The 2026 key remains provisional and is not used to direct an answer.
 - Species status, schedule, Appendix, population and range claims remain date- and scale-sensitive.
-- No claim of recovery is made from a rediscovery, notification, programme launch, training event or isolated count.
+- No recovery claim is made from a rediscovery, notification, programme launch, captive count,
+  training event or isolated survey.
