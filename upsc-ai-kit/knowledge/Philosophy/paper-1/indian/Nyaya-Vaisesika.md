@@ -861,7 +861,20 @@ Mimamsakas? Discuss."):
 | **ātmakhyāti** | Yogācāra | internal cognition projected outward |
 | **asatkhyāti** | Mādhyamika reading in standard doxography | apprehension of the non-existent |
 | **akhyāti** | Prābhākara Mīmāṃsā | failure to discriminate two valid cognitions |
+| **viparītakhyāti** (common attribution; terminology varies) | Bhāṭṭa Mīmāṃsā / Kumārila tradition | positive false identification: a real "this" is falsely judged to be real silver, although silver is not perceived here |
 | **anirvacanīya-khyāti** | Advaita Vedānta | error-object neither real nor unreal |
+
+#### 4.4A The Bhāṭṭa alternative stated cautiously
+
+- ✅ The Bhāṭṭa or Kumārila tradition is commonly described through **viparītakhyāti**: error is a **positive misapprehension or false identification**, not merely failure to notice a difference.
+- ✅ In the shell-silver case, defective sensory conditions disclose common features such as lustre but fail to disclose the shell's differentiating marks. This activates a memory of silver, and the resulting judgement falsely identifies **"this as silver."**
+- ✅ The demonstrative "this" and silver/silverness are not sheer non-entities. The falsity lies in predicating or relating silver to this present locus.
+- ⚠️ Unlike Nyāya, the Bhāṭṭa account does **not require jñānalakṣaṇa extraordinary perception of a particular silver existing elsewhere**. Silver is real but is not perceptually present here; memory contributes its content to a false judgement.
+- ⚠️ Unlike Prābhākara **akhyāti**, the error is not exhausted by non-discrimination between an otherwise valid perception and an otherwise valid memory. Bhāṭṭa theory admits a positively false synthesis.
+- ❓ The label is not exclusive or uncontested: Jayanta also uses **viparītakhyāti** broadly in discussing Nyāya and Kaumārila accounts. The safest exam formulation is therefore **"Bhāṭṭa positive misapprehension, commonly called viparītakhyāti."**
+- ⚠️ Strictly, Kumārila does not treat a genuine sense-object-generated perception as false; "perceptual error" is shorthand for the erroneous cognition or judgement occasioned by a perceptual situation.
+
+**Scholarly anchors:** Srinivasa Rao, *Perceptual Error: The Indian Theories* (University of Hawai'i Press, 1998), pp. 73–86, especially pp. 74–76 and 81–85, [DOI](https://doi.org/10.1515/9780824850517); Elisa Freschi, ["Abhāvapramāṇa and Error in Kumārila's Commentators"](https://nagoya.repo.nii.ac.jp/record/22042/files/SAMBHASA-27-1.pdf), *Saṃbhāṣā* 27 (2008), pp. 1–29; Kei Kataoka, ["A Critical Edition of the Khyāti Section of the Nyāyamañjarī: Bhaṭṭa Jayanta on Akhyāti and Viparītakhyāti"](https://doi.org/10.15083/00026795), *Memoirs of the Institute for Advanced Studies on Asia* 171 (2017), pp. 401–476.
 
 ### 4.5 Jñānalakṣaṇa-pratyakṣa and anyathākhyāti (2019)
 
@@ -1314,7 +1327,7 @@ Mimamsakas? Discuss."):
 |---|---|---|---|---|---|---|---|
 | ✅ **Nyāya-Vaiśeṣika** | ✅ Four for Nyāya: pratyakṣa, anumāna, upamāna, śabda. | ✅ **Parataḥ** for validity and invalidity. | ✅ **Anyathākhyāti**: misplacement of a real object. | ✅ Real jāti, disciplined by jāti-bādhaka. | ✅ Asatkāryavāda, ārambhavāda, eternal atoms. | ✅ Īśvara as efficient cause and karmic governor. | ✅ Enduring ātman; apavarga as cessation of suffering. |
 | ✅ **Sāṃkhya-Yoga** | ✅ Usually three: pratyakṣa, anumāna, śabda. | ⚠️ Validity is not framed in Nyāya's parataḥ manner. | ⚠️ Error tied to misidentification of puruṣa and prakṛti. | ⚠️ Less central than tattva-evolution. | ✅ Satkāryavāda; no Vaiśeṣika atomism. | ✅ Sāṃkhya does not require creator God; Yoga accepts special puruṣa Īśvara. | ✅ Many puruṣas; kaivalya as isolation. |
-| ✅ **Mīmāṃsā** | ✅ More expansive lists, classically including arthāpatti and anupalabdhi in major sub-schools. | ✅ **Svataḥ-prāmāṇya** for validity. | ✅ Prābhākara **akhyāti**; Bhāṭṭa accounts differ. | ✅ Generally realist about word-meaning but not Nyāya-style theistic semantics. | ⚠️ Ritual causal potency through apūrva, not atomistic creation-centred. | ✅ No divine author needed for Veda. | ✅ Self accepted; liberation varies by sub-school presentation. |
+| ✅ **Mīmāṃsā** | ✅ More expansive lists, classically including arthāpatti and anupalabdhi in major sub-schools. | ✅ **Svataḥ-prāmāṇya** for validity. | ✅ Prābhākara **akhyāti**; Bhāṭṭa positive misapprehension, commonly **viparītakhyāti**. | ✅ Generally realist about word-meaning but not Nyāya-style theistic semantics. | ⚠️ Ritual causal potency through apūrva, not atomistic creation-centred. | ✅ No divine author needed for Veda. | ✅ Self accepted; liberation varies by sub-school presentation. |
 | ✅ **Advaita** | ✅ Six in standard later account. | ⚠️ Valid cognition works within vyavahāra but ultimate knowledge sublates duality. | ✅ **Anirvacanīya-khyāti**. | ⚠️ Empirical universals are not ultimately real. | ⚠️ Vivarta-style appearance rather than Nyāya ārambha. | ✅ Īśvara is vyāvahārika, Brahman ultimately non-dual. | ✅ Ātman-Brahman identity; mokṣa as liberating knowledge. |
 | ✅ **Viśiṣṭādvaita** | ✅ Generally accepts perception, inference and scripture. | ⚠️ Validity is theistic-realist, not Nyāya parataḥ in the same technical sense. | ⚠️ Error does not require Advaita's indefinable object. | ✅ Real plurality as modes of Brahman. | ⚠️ Real transformation/qualified non-dual dependence, not atomism as final. | ✅ Nārāyaṇa/Brahman as material and efficient cause. | ✅ Selves are real modes; liberation retains conscious service. |
 | ✅ **Buddhism** | ✅ Dignāga-Dharmakīrti: two, perception and inference. | ⚠️ Often cognition-centred and self-luminosity-friendly. | ✅ Ātmakhyāti/asatkhyāti labels vary in doxography. | ✅ Apoha, not real jāti. | ✅ Momentariness; rejects permanent atoms/self in Nyāya sense. | ✅ No creator God. | ✅ No eternal ātman; nirvāṇa not Nyāya apavarga. |
