@@ -12,8 +12,8 @@
 
 ```text
 EIA NOTIFICATION, 2006 - PROJECT CATEGORY LADDER
-Category A -> Clearance from CENTRAL MoEFCC (Expert Appraisal Committee)
-Category B  -> Clearance from STATE (SEIAA/State Expert Appraisal Committee)
+Category A -> EAC appraises/recommends -> MoEFCC, as regulatory authority, decides
+Category B  -> SEAC appraises/recommends -> SEIAA, as regulatory authority, decides
    B1 -> requires full EIA report/public consultation
    B2 -> does NOT require a detailed EIA report (screened out of full assessment)
 
@@ -26,7 +26,7 @@ NGT (2010) - specialised tribunal for SPEEDY, EXPERT disposal of environmental c
 **Core proposition:** India's environmental-clearance system (EIA Notification, 2006)
 determines *before* a project starts whether and how its environmental impact will be
 assessed and mitigated, while the National Green Tribunal (2010) provides a specialised,
-faster judicial forum *after* clearance (or in its absence) to enforce environmental law and
+faster adjudicatory forum *after* clearance (or in its absence) to apply environmental law and
 adjudicate related disputes — together forming a pre-emptive and corrective governance pair.
 
 ## 2. Essential definitions
@@ -34,12 +34,12 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 | Concept | Exam-ready meaning |
 |---|---|
 | ✅ **Environmental Impact Assessment (EIA)** | A structured process assessing the likely environmental consequences of a proposed project before it is approved. |
-| ✅ **Category A project** | Projects requiring environmental clearance from the central MoEFCC, based on the Expert Appraisal Committee's review. |
-| ✅ **Category B project** | Projects requiring clearance from the State Environment Impact Assessment Authority (SEIAA); further split into B1 (needs full EIA/public consultation) and B2 (does not require detailed EIA). |
+| ✅ **Category A project** | EAC appraises and recommends; MoEFCC, as the central regulatory authority, grants, conditions or rejects environmental clearance. |
+| ✅ **Category B project** | SEAC appraises and recommends; SEIAA, as the State regulatory authority, decides clearance. B1 generally requires EIA/public consultation, while B2 follows the applicable exemption/screening route. |
 | ✅ **Public consultation** | A mandatory stage in the EIA process (for applicable projects) allowing affected communities and stakeholders to raise concerns before clearance is granted. |
 | ✅ **National Green Tribunal (NGT)** | A specialised statutory tribunal (established under the NGT Act, 2010) with original and appellate jurisdiction over environment-related disputes, offering faster, technically informed adjudication than ordinary courts. India was among the first countries to set up such a dedicated environmental tribunal. |
-| ✅ **NGT's Schedule I laws** | NGT jurisdiction extends to substantial questions relating to the environment arising under **seven** enactments: the Water Act, 1974; Water (Prevention and Control of Pollution) Cess Act, 1977; Forest (Conservation) Act, 1980; Air Act, 1981; Environment (Protection) Act, 1986; Public Liability Insurance Act, 1991; and Biological Diversity Act, 2002. ⚠️ **The Wildlife (Protection) Act, 1972 and the Indian Forest Act, 1927 are NOT in Schedule I** — one of the most reliably examined traps in this topic. |
-| ✅ **NGT composition and procedure** | Chairperson (a retired Supreme Court judge or High Court Chief Justice) plus **Judicial and Expert Members** — a minimum of 10 and maximum of 20 of each in full-time service. The Tribunal is **not bound by the Code of Civil Procedure, 1908 or the Indian Evidence Act**, but is guided by **principles of natural justice**. Applications are to be disposed of within **six months**, and an appeal lies to the **Supreme Court within 90 days**. |
+| ✅ **NGT's Schedule I laws** | The NGT Act's printed Schedule I names **seven** enactments, but the Water (Prevention and Control of Pollution) Cess Act, 1977 was repealed in 2017. For current law, distinguish the statutory schedule's text from the operative status of that repealed enactment. The Wildlife (Protection) Act, 1972 and Indian Forest Act, 1927 are not Schedule I enactments. |
+| ✅ **NGT composition and procedure** | The NGT Act provides a full-time Chairperson plus **10–20 full-time Judicial Members and 10–20 full-time Expert Members**, with appointments/service conditions also read with the Tribunal Reforms Act, 2021 and applicable rules. The Tribunal is **not bound by the CPC or Indian Evidence Act** but follows **natural justice**. Applications are intended to be disposed of within **six months**; appeal lies to the **Supreme Court within 90 days**. |
 | ✅ **Polluter Pays Principle / Precautionary Principle** | Foundational environmental-jurisprudence principles the NGT applies — the former placing remediation cost on the polluter, the latter allowing preventive action even without full scientific certainty of harm. Section 20 of the NGT Act directs the Tribunal to apply these along with **sustainable development**. |
 | ✅ **PARIVESH** | Pro-Active and Responsive facilitation by Interactive, Virtuous and Environmental Single window Hub — the national single-window platform for environment, forest, wildlife and CRZ clearances. **PARIVESH 3.0** integrates baseline environmental data, compensatory-afforestation land banks, inter-ministerial dashboards and AI-enabled support (Economic Survey 2025-26, Ch. 10). |
 
@@ -48,10 +48,10 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 1. A project proponent must first determine whether their project falls under the EIA
    Notification's schedule and, if so, whether it is Category A (central clearance) or
    Category B (state clearance, further split into B1/B2 based on assessment requirement).
-2. The clearance process runs through four stages — screening (determining applicability/
-   category), scoping (defining assessment terms of reference), public consultation
-   (for projects requiring it) and appraisal (expert committee review) — culminating in a
-   grant, conditional grant, or rejection of environmental clearance.
+2. The clearance process runs through the applicable stages — screening (for Category B
+   projects where required), scoping (defining assessment terms of reference), public consultation
+   and appraisal. EAC/SEAC supply expert appraisal and recommendations; the competent regulatory
+   authority—MoEFCC for Category A or SEIAA for Category B—records the clearance decision.
 3. The National Green Tribunal, established specifically to provide specialised, expert
    and expeditious environmental justice, has original jurisdiction over substantial
    questions relating to environment arising from specified environmental laws (including
@@ -63,16 +63,20 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
    allowing it to order compensation, restitution of the environment, and clearance
    modification/cancellation.
 5. Together, the EIA process (preventive, pre-project) and NGT (corrective, post-facto
-   adjudication and enforcement) form complementary layers — the EIA system aims to prevent
+   adjudication and remedial orders) form complementary layers — the EIA system aims to prevent
    environmental harm before it occurs, while the NGT provides recourse when clearance
    conditions are violated, clearances are wrongly granted, or environmental damage occurs.
 
 ## 4. Institutions and policy tools
 
-- ✅ **MoEFCC (Expert Appraisal Committee):** appraises and grants/rejects Category A
-  clearances.
-- ✅ **State Environment Impact Assessment Authority (SEIAA) / State Expert Appraisal
-  Committee (SEAC):** appraises and grants/rejects Category B clearances.
+- ✅ **Expert Appraisal Committee (EAC):** appraises Category A proposals and recommends grant,
+  conditions or rejection; it is not itself the final clearance authority.
+- ✅ **MoEFCC:** competent central regulatory authority that decides Category A environmental
+  clearance after considering the EAC recommendation.
+- ✅ **State Expert Appraisal Committee (SEAC):** appraises Category B proposals and recommends;
+  it does not itself grant the clearance.
+- ✅ **State Environment Impact Assessment Authority (SEIAA):** competent State regulatory
+  authority that decides Category B environmental clearance after considering SEAC advice.
 - ✅ **National Green Tribunal (NGT), with a Principal Bench and regional benches:**
   adjudicates environmental disputes and clearance challenges.
 - ⚠️ Supreme Court and High Courts retain constitutional writ jurisdiction over
@@ -102,8 +106,9 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
   jurisdiction (challenges to environmental clearances).
 - ✅ The Polluter Pays Principle and the Precautionary Principle are foundational
   environmental-jurisprudence principles applied by Indian courts and the NGT.
-- ✅ NGT's original jurisdiction covers **seven** Schedule I enactments; the **Wildlife
-  (Protection) Act, 1972 and the Indian Forest Act, 1927 are excluded**.
+- ✅ The NGT Act's Schedule I prints **seven** enactments, but the listed Water Cess Act, 1977
+  was repealed in 2017. Wildlife (Protection) Act, 1972 and Indian Forest Act, 1927 remain
+  outside Schedule I.
 - ✅ NGT is **not bound by the CPC, 1908 or the Indian Evidence Act, 1872** but must follow
   **natural justice**; cases are to be disposed of within **six months**, with appeal to the
   **Supreme Court within 90 days**.
@@ -132,9 +137,9 @@ adjudicate related disputes — together forming a pre-emptive and corrective go
 - ❌ Public consultation is mandatory for every category of project under the EIA
   Notification. -> It is specifically required for projects/activities that need a
   detailed EIA report (broadly, Category A and B1), not for all categories.
-- ❌ The NGT can hear any environmental dispute whatsoever. -> Its original jurisdiction is
-  tied to substantial questions arising under **seven Schedule I enactments**; the Wildlife
-  (Protection) Act, 1972 and the Indian Forest Act, 1927 are not among them.
+- ❌ The NGT can hear any environmental dispute whatsoever. -> Its jurisdiction is tied to the
+  NGT Act and scheduled enactments; Wildlife (Protection) Act, 1972 and Indian Forest Act,
+  1927 are not listed, and the scheduled Water Cess Act, 1977 has been repealed.
 - ❌ The NGT follows the Code of Civil Procedure and the Evidence Act. -> It is expressly
   **not bound** by either, and instead follows principles of natural justice.
 - ❌ Environmental clearance can be regularised after a project has already started. -> The
@@ -196,7 +201,7 @@ variation and high litigation-related uncertainty.
   credible pre-project clearance process and an accessible, expert post-facto adjudication
   mechanism — neither is sufficient alone.
 
-> **Answer thesis:** Treat the EIA process as India's preventive environmental-clearance mechanism and the NGT as its corrective, specialised judicial-enforcement mechanism, and judge both by the integrity of their implementation (genuine public consultation, timely and enforced NGT orders) rather than their existence on paper alone.
+> **Answer thesis:** Treat the EIA process as India's preventive environmental-clearance mechanism and the NGT as its corrective, specialised adjudicatory and remedial mechanism, and judge both by the integrity of their implementation (genuine public consultation, timely orders and executive compliance) rather than their existence on paper alone.
 
 ## 11. Probable questions
 
@@ -214,8 +219,8 @@ variation and high litigation-related uncertainty.
   practice.
 - ✅ `13_Air-Pollution-and-CPCB-Standards.md` and `14_Water-Pollution-and-River-Cleaning-Missions.md` —
   pollution-control law frequently adjudicated by the NGT.
-- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — MoEFCC's clearance-appraisal
-  institutional role.
+- ✅ `27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` — MoEFCC's clearance-decision role
+  and the distinction between regulatory authorities and appraisal committees.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
@@ -275,7 +280,7 @@ For any 10/15/20 marker: classify project and stage → identify baseline, alter
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** Audited official-final keys are held in the verified PYQ workspace; this neutral integration records demand and ownership without reproducing answer letters.
 
 - **Years represented:** 2018, 2019, 2020, 2022
 - **Paper(s):** GS-I, GS-II, GS-III, Prelims GS-I
@@ -284,9 +289,9 @@ For any 10/15/20 marker: classify project and stage → identify baseline, alter
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-II | 6 | Policy contradictions across sectors and environmental degradation | Comment with relevant illustrations · 10 marks · 150 words | Cross-cutting; policy design and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 4 | National Green Tribunal versus Central Pollution Control Board | Objective question; official key unavailable locally | Cross-routed to environmental specialist and tribunal-versus-regulator classification; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 4 | National Green Tribunal versus Central Pollution Control Board | Objective question; official-final key verified separately | Cross-routed to environmental specialist and tribunal-versus-regulator classification; neutral demand retained here | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | GS-I | 15 | Restoring mountain ecosystems from development and tourism impacts | How can it be restored · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2019 | Prelims GS-I | 58 | Environment Protection Act 1986 Government of India powers | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2019 | Prelims GS-I | 58 | Environment Protection Act 1986 Government of India powers | Objective question; official-final key verified separately | Routed; neutral demand retained here | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2020 | GS-III | 7 | Draft EIA Notification 2020 differences from 2006 notification | How does · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2022 | GS-II | 1 | Constitutionalization of environmental problems by the Supreme Court | Discuss with case laws · 10 marks · 150 words | Cross-cutting; judicial review and environmental regulation both linked | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 

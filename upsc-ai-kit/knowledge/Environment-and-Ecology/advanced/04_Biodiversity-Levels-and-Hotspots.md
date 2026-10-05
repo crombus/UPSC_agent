@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Biodiversity conservation foundations.
-> **Grounded in:** Biological Diversity Act, 2002 (India Code); NBA governance framework; CBD Kunming-Montreal Global Biodiversity Framework (2022); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Biological Diversity Act, 2002 as amended in 2023; Biological Diversity Rules, 2024 and 2025 amendment; 2025 ABS Regulations; NBA governance framework; CBD Kunming-Montreal Global Biodiversity Framework (2022); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/04_Biodiversity-Levels-and-Hotspots.md`.*
 
@@ -22,9 +22,9 @@ threshold yet hold significant faunal endemism or ecosystem-service value.
 
 | Layer | Body | Core function |
 |---|---|---|
-| ✅ National | National Biodiversity Authority (NBA), Chennai | Regulates access to biological resources/associated traditional knowledge by foreign entities; approves research and commercial use; enforces benefit-sharing. |
-| ✅ State | State Biodiversity Boards (SBBs) | Regulate access by Indian entities/individuals (non-foreign); advise state governments. |
-| ✅ Local | Biodiversity Management Committees (BMCs) | Constituted by local bodies; prepare People's Biodiversity Registers (PBRs) documenting local genetic/species resources and traditional knowledge. |
+| ✅ National | National Biodiversity Authority (NBA), Chennai | Grants or refuses prior approval for covered access by persons described in section 3(2), and performs assigned research-result transfer, intellectual-property and ABS functions. It does not approve every domestic research activity. |
+| ✅ State | State Biodiversity Boards (SBBs) | Receive prior intimation under section 7 from persons outside section 3(2) for commercial utilisation, subject to statutory exemptions; may restrict/prohibit detrimental activity and advise State governments. “Prior intimation” is not a generic prior-approval formula. |
+| ✅ Local | Biodiversity Management Committees (BMCs) | Local conservation, sustainable-use, documentation/PBR, consultation and territorially bounded collection-fee functions; they do not perform every NBA/SBB authorisation function. |
 
 ⚠️ **Analytical point:** the three-tier structure (NBA-SBB-BMC) mirrors the three-level
 biodiversity concept (ecosystem/genetic-species/local-community knowledge) taught in the
@@ -32,16 +32,31 @@ basic tier — an answer that shows this parallel earns structural-understanding
 
 ## 3. Access and Benefit-Sharing (ABS) — the governance core
 
-1. ⚠️ The Act's central innovation is Access and Benefit Sharing (ABS): entities seeking to
-   access India's biological resources or traditional knowledge for research/commercial use
-   must obtain NBA/SBB approval and, where commercial benefit results, share it with the
-   originating community — operationalising the CBD's Nagoya Protocol principle domestically.
-2. ⚠️ **Implementation controversy:** ABS enforcement has faced criticism for inconsistent
+1. ✅ **Access route depends on applicant and purpose.** Persons described in section 3(2)—
+   including non-citizens, NRIs and covered foreign-controlled or non-Indian entities—require
+   prior NBA approval for access for research, bio-survey or commercial utilisation. Persons
+   outside section 3(2) use section 7's prior-intimation route to the SBB for commercial
+   utilisation, subject to the Act's exemptions; ordinary domestic non-commercial research is
+   not converted into a universal NBA/SBB prior-approval case.
+2. ✅ **Section 7 exemptions are bounded.** They include codified traditional knowledge,
+   qualifying cultivated medicinal plants/products, local people and communities, growers and
+   cultivators, and specified vaids, hakims and registered AYUSH practitioners practising for
+   sustenance and livelihood. The cultivated-medicinal-plant exemption depends on the prescribed
+   BMC certificate-of-origin process.
+3. ✅ **Current delegated law:** the Biological Diversity Rules, 2024 superseded the 2004
+   Rules and came into force on 21 December 2024. The 2025
+   Amendment Rules, effective 1 November 2025, revised Rule 19's web-portal certificate-of-origin
+   procedure. The 2025 ABS Regulations superseded the 2014 ABS Regulations.
+4. ✅ **DSI boundary:** the 2025 ABS Regulations prescribe benefit-sharing modes for biological
+   resources including digital sequence information under the applicable section 3 or section 7
+   route. This delegated treatment does not erase the Act's applicant, purpose and exemption
+   boundaries.
+5. ⚠️ **Implementation controversy:** ABS enforcement has faced criticism for inconsistent
    benefit-sharing outcomes reaching local/indigenous communities, slow approval timelines
    that can discourage legitimate research, and difficulty tracking "biopiracy" (unauthorised
    commercial use of India's genetic resources/traditional knowledge, e.g., historical
    patent disputes over turmeric and neem properties) even after the Act came into force.
-3. ⚠️ People's Biodiversity Registers, though mandated widely, have uneven quality and
+6. ⚠️ People's Biodiversity Registers, though mandated widely, have uneven quality and
    completion across India's BMCs — a genuine implementation gap between statutory design and
    ground-level execution.
 
@@ -96,8 +111,10 @@ the framework's design logic.
 
 - ✅ The Biological Diversity Act, 2002 established a three-tier structure: NBA (national),
   State Biodiversity Boards (state) and Biodiversity Management Committees (local).
-- ✅ Access and Benefit Sharing (ABS) requires NBA/SBB approval for accessing India's
-  biological resources/traditional knowledge, especially by foreign entities.
+- ✅ Section 3(2) persons require prior NBA approval for covered access; other persons use
+  section 7 prior intimation to the SBB for commercial utilisation, subject to exemptions.
+- ✅ The 2024 Rules superseded the 2004 Rules; the 2025 Amendment Rules apply from 1 November
+  2025; and the 2025 ABS Regulations superseded the 2014 ABS Regulations.
 - ✅ The CBD's Kunming-Montreal Global Biodiversity Framework (2022) set the 30x30 target —
   30% terrestrial and marine area conservation by 2030.
 - ✅ KMGBF's 30x30 target explicitly counts **"other effective area-based conservation
@@ -112,9 +129,12 @@ the framework's design logic.
 
 ## 9. Advanced Prelims traps
 
-- ❌ NBA directly regulates access by all Indian citizens/entities. -> NBA primarily regulates
-  foreign entity access; State Biodiversity Boards regulate Indian entities/individuals
-  (subject to certain exemptions).
+- ❌ Every Indian researcher or entity needs generic NBA/SBB prior approval. -> Section 3(2)
+  persons need prior NBA approval for covered access; section 7 instead requires prior
+  intimation to the SBB for commercial utilisation by other persons and contains exemptions.
+- ❌ A PBR or BMC collection fee proves that ABS has been completed. -> Documentation and a
+  local collection fee are inputs; benefit terms, transfer and claimant receipt require
+  separate evidence.
 - ❌ Hotspot status is permanent once assigned. -> It is criteria-based and tied to a
   historical habitat baseline and current endemism data; classification can, in principle,
   be revisited as data is updated.
@@ -131,7 +151,8 @@ the framework's design logic.
 |---|---|
 | 📰 CBD Kunming-Montreal Global Biodiversity Framework (CBD COP15, Montreal, December 2022): 30x30 global area-based conservation target, plus 22 other 2030 targets and four 2050 goals. | Use to connect India's hotspot-specific and protected-area conservation efforts to its broader multilateral biodiversity commitment. |
 | 📰 CBD COP16 (Cali, Colombia, October-November 2024; suspended and **resumed in Rome, February 2025**) is the latest completed CBD COP anchor. Its two structurally important outcomes are the **"Cali Fund"** mechanism for sharing benefits from the use of **digital sequence information (DSI)** on genetic resources, and a **permanent subsidiary body on Article 8(j)** for indigenous peoples and local communities. | This is the exact point where the *genetic* level of biodiversity (Section 2) becomes an international-negotiation object: benefits must now be shared from sequence data, not only from physical samples. |
-| 📰 **India's Biological Diversity (Access to Biological Resources and Knowledge Associated thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025** regulate access to biological resources and associated traditional knowledge **including digital sequence information** (Economic Survey 2025-26, Ch. 10). | The domestic translation of the DSI debate — cite it to show India is not merely a demandeur internationally but has legislated at home. |
+| 📰 **Biological Diversity Rules, 2024** superseded the 2004 Rules; the **Biological Diversity (Amendment) Rules, 2025** apply from 1 November 2025 and revise the cultivated-medicinal-plant certificate-of-origin process. | State the current rule set; do not apply the superseded 2004 procedures as present law. |
+| 📰 The **2025 ABS Regulations** superseded the 2014 ABS Regulations and prescribe benefit-sharing modes for biological resources including **digital sequence information** under the applicable statutory route. | Use DSI as a current ABS dimension, but retain the section 3(2)/section 7 applicant-and-purpose boundary rather than describing universal NBA approval. |
 
 ⚠️ **Proposal vs operational status:** the Cali Fund is an *established mechanism* whose
 contribution levels and disbursement record are still developing — say "established", not
@@ -139,9 +160,10 @@ contribution levels and disbursement record are still developing — say "establ
 
 ## 11. PYQ-based analytical application
 
-- ⚠️ Prelims statement-based questions on the Biological Diversity Act typically test the
-  NBA/SBB/BMC division of function — apply the national/state/local access-regulation
-  distinction to eliminate incorrect options.
+- ⚠️ Prelims statement-based questions on the Biological Diversity Act test applicant,
+  purpose, section 3 prior approval, section 7 prior intimation/exemptions, BMC/PBR functions
+  and collection fees. Do not reduce the architecture to “NBA for foreigners, SBB approval for
+  every Indian.”
 - ⚠️ Mains answers on "India's biodiversity governance" should integrate the hotspot
   framework, the ABS legal architecture and the 30x30 global commitment as three linked
   layers, not separate topics.
@@ -156,8 +178,8 @@ between statutory design and ground-level BMC/ABS execution.
 
 1. Define the three biodiversity levels and the hotspot dual-criteria test.
 2. Map India's four hotspots and their distinct ecological drivers of endemism.
-3. Explain the NBA-SBB-BMC legal architecture and the ABS mechanism, citing the biopiracy
-   concern as the historical rationale.
+3. Explain the NBA-SBB-BMC legal architecture through the current section 3(2) prior-approval,
+   section 7 prior-intimation/exemption and BMC/PBR/collection-fee boundaries.
 4. Connect to the CBD's Kunming-Montreal 30x30 target as the current global benchmark.
 5. Conclude with the implementation-gap critique (PBR completion, ABS enforcement
    consistency) as the genuine reform priority.
