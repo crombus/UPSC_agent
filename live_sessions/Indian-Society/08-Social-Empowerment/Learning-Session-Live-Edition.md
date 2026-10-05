@@ -341,7 +341,7 @@ Registration is necessary evidence. It is not the whole outcome.
 - Do not treat an aggregate average as proof of equal intra-group outcomes.
 - A good conclusion recommends a repair at the stage where the chain breaks.
 - **2019 GS-II Q18 linkage — neutral demand, 15 marks/250 words:** explain why awareness and involvement of vulnerable sections matter for welfare-scheme performance. Use information, voice and conversion barriers.
-- **2026 GS-II Q17 linkage — provisional neutral demand, 15 marks/250 words:** examine whether rights-based welfare can be realised under non-integrated governance and minimal public investment. Use the complete rights-to-capability chain, fiscal capacity, convergence and accountability.
+- **2026 GS-II Q17 linkage — verified demand, 15 marks/250 words:** examine whether rights-based welfare can be realised under non-integrated governance and minimal public investment. Use the complete rights-to-capability chain, fiscal capacity, convergence and accountability.
 
 ### Revision notes
 
@@ -735,6 +735,7 @@ Important layers include:
 - Article 17: abolition of untouchability;
 - Protection of Civil Rights Act, 1955;
 - Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989;
+- Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013: an occupation-specific dignity and rehabilitation route that illustrates how caste stigma can persist through work, without turning this lesson into a full Social Justice statute note;
 - victim relief, special-court and witness-protection architecture under the latter framework.
 
 The sociological point is broader than legal listing:
@@ -963,7 +964,7 @@ These measures can improve capability, but their empowerment effect depends on l
 
 **Approach:** displacement drivers → rehabilitation instruments → limits of compensation → participation and habitat → qualified verdict.
 
-**2026 GS-II Q6 linkage — provisional neutral demand, 10 marks/150 words:** assess whether tribal development policy reflects socially grounded and equity-based governance. Use rights, self-government, land/forest/livelihood security, services, implementation gaps and participation.
+**2026 GS-II Q6 linkage — verified demand, 10 marks/150 words:** assess whether tribal development policy reflects socially grounded and equity-based governance. Use rights, self-government, land/forest/livelihood security, services, implementation gaps and participation.
 
 ### Revision notes
 
@@ -1503,6 +1504,8 @@ The Transgender Persons legislation does not constitute a complete equality code
 ### 2. Constitutional and statutory baseline
 
 ✅ **Fact:** *NALSA v. Union of India* (2014) connected transgender identity and dignity to constitutional equality, expression and life/liberty guarantees.
+
+✅ **Fact:** *K.S. Puttaswamy v. Union of India* (2017) recognised privacy as a fundamental right under Article 21. Its informational and decisional dimensions strengthen the autonomy baseline used to assess identity certification and medical-data requirements.
 
 ✅ **Fact:** The Transgender Persons (Protection of Rights) Act, 2019 created statutory anti-discrimination and identity-certificate provisions.
 
@@ -2181,7 +2184,7 @@ The NITI Aayog 2024 MPI discussion paper illustrates evidence discipline. Its **
 
 **2023 GS-II Q17 linkage — neutral demand, 15 marks/250 words:** assess the claim that development and welfare schemes for vulnerable sections are discriminatory. Distinguish corrective targeting from stigma, exclusion errors and paternalistic delivery.
 
-**2026 GS-II Q17 linkage — provisional neutral demand, 15 marks/250 words:** examine rights-based welfare under non-integrated governance and minimal public investment. Use public investment, convergence, capacity, conversion support and accountable outcomes.
+**2026 GS-II Q17 linkage — verified demand, 15 marks/250 words:** examine rights-based welfare under non-integrated governance and minimal public investment. Use public investment, convergence, capacity, conversion support and accountable outcomes.
 
 ### Revision notes
 
@@ -2220,7 +2223,7 @@ However, “empowerment” must not become a slogan used to withdraw material su
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The questions below are presented without solved answers, answer keys or elimination cues. Entries labelled neutral or provisional state only the examinable demand.
+The questions below are presented without solved answers, answer keys or elimination cues. Entries labelled neutral state only the examinable demand.
 
 | Year · Paper · Q | Question or neutral demand | Format | Concise approach |
 |---|---|---|---|
@@ -2236,8 +2239,8 @@ The questions below are presented without solved answers, answer keys or elimina
 | 2026 · GS-I · Q9 | “How do you understand disability? Substantiate the need for inclusive policy framework in India in this regard.” | Substantiate · 10 marks · 150 words | Social/rights model → barriers → accessibility/accommodation → agency. |
 | 2026 · GS-I · Q10 | “Do you think digital technology promotes social empowerment? Explain with examples.” | Explain · 10 marks · 150 words | Five digital channels → divide, privacy and exclusion → safeguards → conditional verdict. |
 | 2026 · GS-II · Q1 | “Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019.” | Examine · 10 marks · 150 words | Recognition → documentation → capability, with autonomy/privacy, interim card-benefit continuity and material inclusion. |
-| 2026 · GS-II · Q6 | **Provisional neutral demand:** whether tribal development policy reflects socially grounded and equity-based governance. | Justify · 10 marks · 150 words | Rights and self-government → land/forest/livelihood → services → participation and implementation gaps. |
-| 2026 · GS-II · Q17 | **Provisional neutral demand:** rights-based welfare under non-integrated governance and minimal public investment. | Examine · 15 marks · 250 words | Rights-to-capability chain → finance and administrative capacity → fragmentation → convergence and accountability. |
+| 2026 · GS-II · Q6 | “Does India's tribal development policy reflect the aspirations for a socially grounded and equity-based governance? Justify your answer.” | Justify · 10 marks · 150 words | Rights and self-government → land/forest/livelihood → services → participation and implementation gaps. |
+| 2026 · GS-II · Q17 | “Can the constitutional mandate of rights-based welfare be effectively realised in the context of non-integrated governance and minimal public investment? Examine.” | Examine · 15 marks · 250 words | Rights-to-capability chain → finance and administrative capacity → fragmentation → convergence and accountability. |
 
 ## Directive decoding
 
@@ -2721,8 +2724,8 @@ entitlement
 | 2026 GS-I Q9, disability and inclusive policy | Lesson 9; final PYQ index | Exact question displayed without solution |
 | 2026 GS-I Q10, digital technology and empowerment | Lesson 13; final PYQ index | Exact question displayed without solution |
 | 2026 GS-II Q1, transgender amendment and privacy | Lesson 10; final PYQ index | Exact question displayed without solution; 17 August interim status integrated |
-| 2026 GS-II Q6, tribal development and equity-based governance | Lesson 6; final PYQ index | Provisional neutral demand; cited official scan absent locally |
-| 2026 GS-II Q17, rights-based welfare and governance/investment | Lessons 2 and 14; final PYQ index | Provisional neutral demand; cited official scan absent locally |
+| 2026 GS-II Q6, tribal development and equity-based governance | Lesson 6; final PYQ index | Exact question displayed without solution; official paper and OCR-verified ledger checked |
+| 2026 GS-II Q17, rights-based welfare and governance/investment | Lessons 2 and 14; final PYQ index | Exact question displayed without solution; official paper and OCR-verified ledger checked |
 
 # SOURCE LEDGER
 
@@ -2769,7 +2772,7 @@ The following short list was checked because an error would materially alter tea
 - `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
 - `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`
 - Most local official GS-I/GS-II scans cited by the 2018-2023 routing ledger are absent from this worktree; the requested 2019-2023 GS-II scans are absent. Their added linkages therefore use routing metadata for year, paper, question number, directive, marks and word limit, while displaying neutral demands rather than claiming local exact-text verification.
-- The official-paper paths cited for the added 2026 GS-II Q6 and Q17 are also absent. Their wording is therefore reduced to provisional neutral demands. Existing exact-text displays retained elsewhere derive from previously verified demand records, but this repair does not claim fresh local-paper certification for them.
+- The on-disk official 2026 GS-II paper and OCR-verified ledger were checked for Q6 and Q17; their exact wording and 10/150 and 15/250 metadata are certified.
 
 ## Official live sources used
 
@@ -2786,7 +2789,7 @@ The following short list was checked because an error would materially alter tea
 
 1. No topic-specific OCR sociology or Indian Society textbook was found under the local `books` inventory; canonical and bounded cross-topic Markdown supplied the substantive teaching base.
 2. Most cited 2018-2023 local GS-I/GS-II scans are absent, including all requested 2019-2023 GS-II papers. Routing metadata and exact-text evidence are therefore kept separate; the newly added older linkages use neutral demands.
-3. Official local GS-I/GS-II paper files for 2024-2026 were absent from the later ledgers' stated paths in this worktree. The newly added 2026 GS-II Q6 and Q17 linkages remain provisional neutral demands.
+3. Official local GS-I/GS-II papers for 2024-2026 were available. The 2026 GS-II Q6 and Q17 linkages were checked against `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf` (SHA-256 `471EFA8AE48DDE452D5CEA7A31241C0260C13E2CF2EC396734B97631C2599A36`) and the OCR-verified routing ledger.
 4. The file-level current linkage remains the 2026 transgender amendment and its connected judicial-status sequence. The 17 August order updates that same linkage rather than creating a second current-affairs narrative.
 5. The 17 August order protects benefits attached to identity cards issued earlier subject to the proceedings' outcome; it does not automatically cover pending/new applications or decide the amendment's validity.
 6. The NITI Aayog 2024 MPI figures are methodology-bound estimates: the paper interpolates 2013-14 and projects 2022-23 from earlier NFHS trend rates. They are not current 2026 counts or causal programme evaluations.
@@ -2802,5 +2805,5 @@ The following short list was checked because an error would materially alter tea
 | Solved workbook | not relevant | Permanently excluded from live-session source use by the governing workflow. |
 | Advanced dossier | checked | Complete `Indian-Society\advanced\08_Social-Empowerment.md` was audited and integrated. |
 | OCR books | not available | Local books inventory contained PYQ papers but no topic-specific OCR sociology or Indian Society textbook. |
-| PYQs through 2026 | checked | Routing metadata was checked across 2018-2023, 2024-2025 and 2026 records; absent local scans, neutral/provisional treatment and exact-text limits are disclosed above. |
+| PYQs through 2026 | checked | Routing metadata was checked across 2018-2023, 2024-2025 and 2026 records. Available official 2024-2026 papers were inspected; 2026 GS-II Q6 and Q17 wording and metadata are verified. Older unavailable scans remain represented only by neutral demands. |
 | Official live sources | checked | Constitution, India Code, NCM, NITI Aayog, Gazette and Supreme Court sources were checked where methodology or legal status materially affected teaching. |
