@@ -2,7 +2,9 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-cooperation linkage.
 > **Core area:** Range-state cooperation for migratory species.
-> **Grounded in:** CMS treaty text and CoP13 (Gandhinagar, 2020) outcomes; CMS Central Asian Flyway initiative documents; Supreme Court Great Indian Bustard proceedings; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** CMS treaty text; COP13-COP15 outcomes; revised Appendices effective
+> 27 June 2026; Central Asian Flyway documents; Great Indian Bustard proceedings; audited
+> UPSC Environment PYQs through 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/10_CMS-Bonn-Convention-Migratory-Species.md`.*
 
@@ -55,11 +57,11 @@ given species' conservation actually operates under, not just whether it is "CMS
 
 ## 4. Species case study: Great Indian Bustard as a cross-convention test case
 
-- ⚠️ The Great Indian Bustard sits at the intersection of multiple frameworks studied across
-  this knowledge base: IUCN Critically Endangered (Topic 05), Wildlife Protection Act
-  Schedule I (Topic 08), and CMS-relevant migratory/range considerations for its regional
-  movements — illustrating how a single flagship species' conservation draws on overlapping
-  but distinct international and domestic instruments simultaneously.
+- ⚠️ The Great Indian Bustard sits at the intersection of multiple frameworks: global IUCN
+  **Critically Endangered, assessed 17 August 2018** (Topic 05); Wild Life (Protection) Act
+  Schedule I (Topic 08); and **CMS Appendix I in the revised Appendices effective
+  27 June 2026**. These are separate scientific and legal records rather than one merged
+  “highest protection” label.
 - ⚠️ The species' primary documented threat (collision with high-voltage overhead
   transmission lines in its grassland habitat, subject to ongoing Supreme Court-monitored
   mitigation directions) is fundamentally a domestic infrastructure-siting problem rather
@@ -120,21 +122,29 @@ given species' conservation actually operates under, not just whether it is "CMS
 
 ## 9. 📰 Current anchor — analytical use
 
-📰 **Latest completed COP:** CMS COP14 (Samarkand, 2024) adopted the
-2024-2032 strategic plan, launched the first global migratory-species status
-report and advanced Central Asian Flyway coordination in India. COP13 remains
-India's prior hosting/presidency context. [CMS source](https://www.cms.int/news/historic-un-wildlife-meeting-concludes-major-set-actions-conservation-migratory-species-wild).
+📰 **Latest completed COP:** CMS COP15 met in Campo Grande, Brazil, from
+**23-29 March 2026**. [Notification
+2026/006](https://www.cms.int/sites/default/files/news_attachments/006_COP15_Amendments%20of%20Appendices_e.pdf),
+dated **22 April 2026**, records **40 taxa** added and adopted taxonomic/nomenclatural
+changes. [Notification
+2026/012](https://www.cms.int/sites/default/files/news_attachments/012_Amendments%20of%20Appendices%20adopted%20by%20COP15%20entry%20into%20force_e.pdf),
+dated **29 June 2026**, confirms that the [revised
+Appendices](https://www.cms.int/sites/default/files/basic_page_documents/revised-appendices_cop15_e.pdf)
+entered into force on **27 June 2026**, except for a Party making a reservation.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| ✅ Historical context: CMS COP13 (Gandhinagar, 2020) and India's subsequent Presidency term. | Use as evidence of prior leadership, not as the latest COP; pair it with the COP14 Central Asian Flyway outcome above. |
-| 📰 The first *State of the World's Migratory Species* report (launched at CMS COP14, Samarkand, February 2024) is the first global stocktake of CMS-listed species. ⚠️ Cite its specific percentages only from the report itself — this file deliberately does not reproduce them from memory. | Its structural finding is the usable one: a large share of CMS-listed species show declining population trends, and **fish are the worst-affected CMS-listed group**, because migratory fish face barriers (dams, weirs), overexploitation and pollution across an entire river or ocean basin. Use it to argue that river-connectivity policy (Topic 14) is migratory-species policy. |
-| ✅ **Amur Falcon and Pangti/Doyang, Nagaland** — the standard Indian case of a community-led reversal, where large-scale trapping of a long-distance migrant at its stopover was replaced by community protection and roost-based ecotourism. | The counterweight to the Great Indian Bustard case: the bustard shows a *domestic infrastructure* failure; the Amur Falcon shows a *domestic community-institution success* on a species whose survival depends on range states from north-east Asia to southern Africa. Together they let an answer argue that CMS's weakest-link problem is solved locally, not only diplomatically. |
+| ✅ COP14, Samarkand, February 2024: Strategic Plan 2024-2032 and first *State of the World's Migratory Species* report. | Historical process/report anchor, not the latest COP or a recovery outcome. |
+| ✅ COP13, Gandhinagar, 2020 and India's subsequent Presidency. | Evidence of prior Indian leadership, not current Appendix status. |
+| ✅ **Amur Falcon and Pangti/Doyang, Nagaland** — community protection at an Indian stopover. | Direct 2026 Q27 case: stopover success secures one route segment; it does not establish breeding in India or safety across the full range. |
+| ✅ **Great Indian Bustard — CMS Appendix I, revised Appendices effective 27 June 2026.** | Domestic power-line mitigation and an international listing are distinct layers; neither proves recovery. |
 
-⚠️ **Announced vs achieved discipline:** the Samarkand Strategic Plan for Migratory Species
-2024-2032 sets *targets*; it is not evidence of improved species status. Never present the
-adoption of a strategic plan as a conservation outcome.
-| 📰 Supreme Court-monitored Great Indian Bustard power-line mitigation proceedings (verify latest order date). | Use as the domestic-implementation contrast case to the range-state-coordination framing of typical CMS problems. |
+⚠️ **Legal-date discipline:** separate proposal, COP adoption, entry into force, reservation
+and Agreement/MOU participation. A strategic plan, Appendix listing or local conservation
+programme is not evidence of biological recovery.
+
+**Currentness control checked through 5 October 2026:** use the revised COP15 Appendices for
+current listing claims. Do not continue to call COP14 the latest completed COP.
 
 ## 10. PYQ-based analytical application
 
@@ -144,26 +154,27 @@ adoption of a strategic plan as a conservation outcome.
   cited threat is a range-state-coordination problem (requiring CMS-type cooperation) or a
   domestic-implementation problem (requiring purely national fixes) to show precise
   analytical framing.
+- ⚠️ **Direct ownership boundary:** 2026 Prelims GS-I Q27 on Amur Falcon remains here. Q22
+  western hoolock gibbon remains Topic 05 and Q36 Foxtail orchid remains Topic 28. The owner
+  supplies no answer letter or option mapping.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** CMS provides a graduated, flexible toolkit (from binding Appendix I
-duties to voluntary MOUs) for the fundamentally "weakest-link" problem of migratory-species
-conservation, and India's active leadership (CMS CoP13 hosting/Presidency) has been
-substantively directed at strengthening the comparatively under-institutionalised Central
-Asian Flyway — but not every migratory-species threat is a range-state-coordination failure,
-and analytically sound answers must distinguish coordination failures from purely domestic
-implementation failures (as in the Great Indian Bustard's power-line collision case).
+**Central thesis:** CMS provides a graduated toolkit for the “weakest-link” problem of
+migratory-species conservation. Current answers must use COP15/revised-Appendix status while
+retaining COP13 Indian leadership and COP14 strategy/reporting as historical layers; they must
+also distinguish range-state failures from domestic implementation failures.
 
 1. Define CMS's range-state logic and its graduated instrument toolkit (Appendix I/II,
    Agreements, MOUs).
-2. Use the Central Asian Flyway as a case study of an under-institutionalised cooperation
+2. State the current COP15 adoption and 27 June 2026 entry-into-force controls.
+3. Use the Central Asian Flyway as a case study of an under-institutionalised cooperation
    architecture and India's CoP13/Presidency-driven strengthening effort.
-3. Distinguish range-state-coordination failures from domestic-implementation failures using
+4. Distinguish range-state-coordination failures from domestic-implementation failures using
    the Great Indian Bustard case as the contrast example.
-4. Flag the data/institutional-assessment limitations (telemetry sampling, qualitative
+5. Flag the data/institutional-assessment limitations (telemetry sampling, qualitative
    flyway-comparison claims).
-5. Conclude with a dual-track recommendation: strengthen flyway-level institutional
+6. Conclude with a dual-track recommendation: strengthen flyway-level institutional
    architecture where the problem is genuinely transboundary, and fix domestic
    infrastructure/implementation gaps where it is not.
 

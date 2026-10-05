@@ -2,7 +2,9 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Species-level threat assessment.
-> **Grounded in:** IUCN Red List categories and criteria (official framework); Wildlife Protection Act, 1972 (as amended 2022, India Code); Supreme Court Great Indian Bustard proceedings; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** IUCN Red List categories, criteria and direct dated assessments; Wildlife
+> Protection Act, 1972 (as amended 2022, India Code); Supreme Court Great Indian Bustard
+> proceedings; audited UPSC Environment PYQs through 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/05_IUCN-Red-List-and-Endemism.md`.*
 
@@ -45,17 +47,17 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
    geographic isolation that produced the endemism in the first place also means there is
    categorically no possibility of natural recolonisation from elsewhere if a population
    collapses.
-3. ⚠️ Case study — Great Indian Bustard: Critically Endangered status stems from Criterion
-   B/C-type factors (very small, fragmented population across a shrinking, human-modified
-   grassland range in Rajasthan/Gujarat/Karnataka), compounded by a documented threat
+3. ⚠️ Case study — Great Indian Bustard: the direct global assessment is **Critically
+   Endangered, assessed 17 August 2018, criteria A2a+4acd; C1**. The dated assessment combines
+   decline, a very small population and fragmentation across a shrinking, human-modified
+   grassland range, compounded by a documented threat
    pathway (collision with high-voltage overhead transmission lines). The Supreme Court has
    directed authorities to examine undergrounding power lines or installing bird diverters
    in identified priority/potential bustard habitat — a live example of judicial
    intervention translating a Red List/Schedule-I risk assessment into an enforceable
-   mitigation measure. ⚠️ Implementation friction has arisen from balancing this
-   conservation directive against renewable-energy (solar/wind) transmission infrastructure
-   development in the same arid landscape — a genuine development-versus-conservation
-   tension rather than a simple villain narrative.
+   mitigation measure. The relevant point in this owner is limited to how linear
+   infrastructure intersects critical habitat and how mitigation must respond to the
+   species-specific collision pathway.
 
 ## 4. Governance and implementation linkage
 
@@ -90,18 +92,19 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
 |---|---|
 | Global Red List assessment vs domestic legal protection | Use both as complementary evidence; do not assume automatic equivalence between IUCN category and Schedule level. |
 | Species-specific conservation (single-species recovery plans) vs habitat-based conservation | Single-species interventions (e.g., bustard power-line mitigation) are necessary but must be paired with landscape/grassland habitat protection to be durable. |
-| Renewable-energy infrastructure expansion vs Critically Endangered species habitat | Site and route renewable infrastructure with species-sensitivity mapping rather than treating the two priorities as mutually exclusive. |
+| Linear infrastructure vs Critically Endangered species habitat | Use species-sensitivity mapping, avoidance and monitored mitigation; detailed sector policy belongs outside this owner. |
 
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ IUCN Red List criteria (A-E) allow a species to be classified as threatened through
   population decline, restricted range, small population size, or quantitative extinction-
   probability analysis — any single qualifying criterion suffices.
-- ✅ The Great Indian Bustard is Critically Endangered; in **M.K. Ranjitsinh v. Union of India
-  (21 March 2024)** the Supreme Court modified its earlier blanket undergrounding direction
-  in favour of an expert-committee, area-specific feasibility approach, and in the same
-  judgment read a **right against the adverse effects of climate change** into Articles 14
-  and 21.
+- ✅ The Great Indian Bustard was assessed globally as **Critically Endangered on
+  17 August 2018**; in **M.K. Ranjitsinh v. Union of India (21 March 2024)** the Supreme
+  Court modified its earlier blanket undergrounding direction
+  in favour of an expert-committee, area-specific feasibility approach. For Topic 05, the
+  examinable point is the dated species-protection remedy, not broader cross-topic policy
+  doctrine.
 - ✅ IUCN's **Green Status of Species** is a separate assessment measuring species *recovery*
   and conservation impact; it complements, and does not replace, the Red List's
   extinction-risk scale.
@@ -127,8 +130,14 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 **M.K. Ranjitsinh & Ors. v. Union of India (Supreme Court, 21 March 2024)** — the Court modified its April 2021 blanket direction on undergrounding power lines across Great Indian Bustard habitat, replaced it with an expert-committee-led, area-specific feasibility assessment, and recognised a **right against the adverse effects of climate change** under Articles 14 and 21. | The single best case for the *three-layer* argument: IUCN category (science) → Schedule I listing (domestic law) → judicial balancing (constitutional adjudication). It is also the cleanest example of a **conservation-versus-renewables siting conflict** being resolved not by choosing a side but by re-scoping the remedy — precisely the "balanced framing" examiners reward. |
+| 📰 [Great Indian Bustard direct IUCN assessment](https://www.iucnredlist.org/species/pdf/134188105): global CR, assessed **17 August 2018**; **M.K. Ranjitsinh & Ors. v. Union of India, 21 March 2024** modified the April 2021 blanket undergrounding direction and substituted expert, area-sensitive review. | Use the assessment date for scientific status and the judgment date for legal response. Neither date proves completed mitigation or recovery. |
+| 📰 [Western hoolock gibbon direct IUCN assessment](https://www.iucnredlist.org/species/pdf/17968083): global EN, assessed **12 September 2017**, published **2019**. | This is the status control for the 2026 Q22 route. A 2026 retrieval date, sanctuary census or canopy-bridge report cannot replace the assessment year or establish current abundance. |
+| 📰 [Peacock/Gooty tarantula direct IUCN assessment](https://www.iucnredlist.org/species/pdf/12681959): global CR, assessed **1 January 2008**. | Demonstrates why a recent PYQ does not make an old assessment a new assessment; pair category with year and current range evidence. |
 | 📰 Verify the latest order date, expert-committee report status and current bustard population estimate before citing — all three are volatile. | Distinguish *directions issued* from *compliance achieved*: the 2024 order re-designed the remedy; it did not certify that mitigation has been installed. |
+
+**Currentness rule checked through 5 October 2026:** every species-specific status statement
+must include geographic scale, assessment date/year and, where analytically relevant,
+criteria/version. Retrieval date and publication date are separate metadata.
 
 ## 10. PYQ-based analytical application
 
@@ -139,6 +148,10 @@ rate, which is a subtler mechanism than "few individuals left" that many candida
   scientific-assessment layer (IUCN), the domestic legal layer (Wildlife Protection Act) and
   the judicial-enforcement layer (courts), showing how they interact in a live case like the
   bustard.
+- ⚠️ **Direct ownership boundary:** 2026 Prelims GS-I Q22 on western hoolock gibbon remains
+  primarily owned here. Topic 28 may track the dated record, but Q36 Foxtail orchid remains
+  Topic 28 and Q27 Amur Falcon remains Topic 10. No answer letter or option mapping belongs
+  in this owner.
 
 ## 11. Mains-ready framework
 
@@ -152,9 +165,11 @@ because it removes the option of natural recolonisation once a population collap
 2. Explain endemism as a risk multiplier, linking to hotspot habitat-loss dynamics (Topic
    04).
 3. Use the Great Indian Bustard case to show the science-to-law-to-judicial-enforcement
-   chain, including the genuine renewable-energy-siting tension.
+   chain and the need for species-sensitive linear-infrastructure mitigation.
 4. Flag the data/synchronisation limitations (DD status, Red List/Schedule review lag).
-5. Conclude with a landscape/habitat-based, not single-species-only, conservation
+5. State the assessment year for every named status and distinguish reassessment from page
+   retrieval or republication.
+6. Conclude with a landscape/habitat-based, not single-species-only, conservation
    recommendation.
 
 ## 12. Probable questions
@@ -171,7 +186,7 @@ because it removes the option of natural recolonisation once a population collap
 
 - ✅ Foundation companion: `basic/05_IUCN-Red-List-and-Endemism.md`.
 - ✅ `08_Wildlife-Protection-Act-and-Schedules.md` — the domestic legal layer analysed here.
-- ✅ `25_Renewable-Energy-and-Green-Hydrogen.md` — the siting tension with Critically
-  Endangered species habitat.
+- ✅ `17_Climate-Change-Science-Greenhouse-Effect.md` — only for climate-pressure science
+  where directly relevant.
 - ✅ `28_Species-and-Current-Affairs-Tracker.md` — dated updates on the bustard and other
   live species cases.

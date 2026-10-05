@@ -2,7 +2,9 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-relations linkage.
 > **Core area:** International wildlife-trade regulation.
-> **Grounded in:** CITES treaty text and Conference of the Parties (CoP) decisions; Wildlife (Protection) Amendment Act, 2022 (India Code); WCCB enforcement reporting; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** CITES treaty text, CoP20 outcomes and current Appendices/Checklist;
+> Wildlife (Protection) Amendment Act, 2022 (India Code); WCCB enforcement reporting;
+> audited UPSC Environment PYQs through 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/09_CITES-and-Wildlife-Trade.md`.*
 
@@ -61,9 +63,10 @@ timber species, reptile skins).
   process — meaning there can be a time lag between an international Appendix change and
   its full domestic legal reflection, a genuine (if usually narrow) implementation gap.
 - ⚠️ **Illegal wildlife trade case studies** commonly cited in Indian enforcement contexts —
-  Red Sanders smuggling (Appendix II timber species, heavy law-enforcement and sometimes
-  encounter-related controversy in Andhra Pradesh forest areas), Star Tortoise trafficking
-  (widely documented small-live-animal smuggling routes), and pangolin scale trafficking
+  Red Sanders smuggling ([current Species+ record](https://www.speciesplus.net/checklist/taxon_concepts.json?scientific_name=Pterocarpus%20santalinus):
+  **Appendix II effective 13 September 2007, annotation #7**), Indian Star Tortoise trafficking
+  ([current Species+ record](https://www.speciesplus.net/checklist/taxon_concepts.json?scientific_name=Geochelone%20elegans):
+  **Appendix I effective 26 November 2019**), and pangolin scale trafficking
   (a global hotspot issue with South and Southeast Asian trafficking networks) — illustrate
   that CITES-listed status alone has not eliminated demand-driven trafficking, reinforcing
   the trade-mechanism-only limitation from Section 1.
@@ -103,8 +106,9 @@ timber species, reptile skins).
 - ✅ A Party may enter a **reservation** against a specific listing, in which case it is
   treated as a non-Party with respect to trade in that taxon — the structural escape hatch
   that explains why an Appendix I listing does not guarantee a global trade halt.
-- ✅ Red Sanders (Appendix II timber species) and Star Tortoise are commonly cited Indian
-  species affected by persistent illegal wildlife trafficking despite CITES listing.
+- ✅ Red Sanders (**Appendix II effective 13 September 2007, annotation #7**) and Indian Star
+  Tortoise (**Appendix I effective 26 November 2019**) are Indian examples of persistent
+  illegal trafficking despite CITES listing.
 
 ## 8. Advanced Prelims traps
 
@@ -126,7 +130,13 @@ timber species, reptile skins).
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Wildlife (Protection) Amendment Act, 2022 — Schedule IV structured to mirror CITES Appendices I/II/III (current baseline). | Use as the domestic-implementation anchor while explicitly noting the notification-lag limitation and the permit-verification-chain enforcement gap for a complete analytical answer. |
+| 📰 [CITES CoP20 outcome](https://cites.org/eng/api/node/news/144843): closed **5 December 2025**; Secretariat outcome published **16 December 2025**; 82 new listings adopted. | Adoption establishes the CoP decision, not the operative status of every Party/specimen. |
+| 📰 [CITES Appendices valid from 5 March 2026](https://cites.org/sites/default/files/eng/app/2026/E-Appendices-2026-03-05.pdf) and the [current Checklist](https://checklist.cites.org/). | Use the live entry for Appendix, population, annotation and reservation; do not infer current status from the meeting summary. |
+| 📰 Wildlife (Protection) Amendment Act, 2022 and current Schedule IV. | Use as the Indian domestic-implementation anchor while preserving the notification-lag and separate-legal-source limitation. |
+
+**Currentness control checked through 5 October 2026:** for a species-level claim, record
+CoP adoption date, operative Appendix date, population/annotation and any reservation. A
+source-publication date, IUCN category or Indian Schedule is not a CITES Appendix.
 
 ## 10. PYQ-based analytical application
 
@@ -137,6 +147,10 @@ timber species, reptile skins).
   legal-alignment achievement (Schedule IV) and the enforcement-capacity limitation
   (permit-verification chain), rather than presenting CITES membership as a complete
   solution.
+- ⚠️ **PYQ boundary:** this owner controls Appendix, permit, reservation, annotation and
+  international-trade logic. Q22 western hoolock gibbon, Q27 Amur Falcon and Q36 Foxtail
+  orchid remain primarily owned by Topics 05, 10 and 28. No answer letter or option mapping
+  is reproduced here.
 
 ## 11. Mains-ready framework
 
@@ -148,12 +162,14 @@ capacity, robust non-detriment findings, and cross-border enforcement coordinati
 CITES itself cannot reach the domestic, non-trade drivers of species decline.
 
 1. Define CITES' Appendix system and its strictly trade-focused jurisdiction.
-2. Explain the CoP voting mechanism and the political-economy dimension of listing
+2. Separate proposal, CoP adoption, source publication, entry into force, reservation and
+   population/annotation scope.
+3. Explain the CoP voting mechanism and the political-economy dimension of listing
    decisions, including India's active range-state role.
-3. Walk through the permit-verification chain and identify its documented weakest link.
-4. Cite a specific Indian case (Red Sanders/Star Tortoise/pangolin) to evidence persistent
+4. Walk through the permit-verification chain and identify its documented weakest link.
+5. Cite a specific Indian case (Red Sanders/Star Tortoise/pangolin) to evidence persistent
    trafficking despite listing.
-5. Conclude with a capacity-building (not just legal-alignment) recommendation, explicitly
+6. Conclude with a capacity-building (not just legal-alignment) recommendation, explicitly
    noting CITES' inherent limitation on domestic, non-trade decline drivers.
 
 ## 12. Probable questions

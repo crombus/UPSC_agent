@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-cooperation linkage.
 > **Core area:** Range-state cooperation for migratory species.
-> **Grounded in:** Convention on the Conservation of Migratory Species of Wild Animals (CMS/Bonn Convention, 1979) official framework; CMS CoP13 (India, 2020) outcomes; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Convention on the Conservation of Migratory Species of Wild Animals (CMS/Bonn Convention, 1979) official framework; CMS COP13-COP15 outcomes and current Appendices effective 27 June 2026; audited UPSC Environment PYQs.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/10_CMS-Bonn-Convention-Migratory-Species.md`.*
 
@@ -131,23 +131,24 @@ trade focus and from any single country's domestic wildlife law.
 
 ## 8. 📰 Current anchor
 
-- 📰 **CMS COP14, Samarkand (February 2024):** adopted the Samarkand
-  Strategic Plan for Migratory Species 2024-2032, launched the first *State of
-  the World's Migratory Species* report and advanced a Central Asian Flyway
-  initiative with a coordinating unit in India.
-- ✅ India's COP13 hosting/presidency remains historical context; COP14 is the
-  current completed COP anchor. [CMS outcome](https://www.cms.int/news/historic-un-wildlife-meeting-concludes-major-set-actions-conservation-migratory-species-wild).
+- 📰 **CMS COP15, Campo Grande, Brazil, 23-29 March 2026:** CMS
+  [Notification 2026/006](https://www.cms.int/sites/default/files/news_attachments/006_COP15_Amendments%20of%20Appendices_e.pdf),
+  dated **22 April 2026**, records the inclusion of **40 taxa** and the adopted
+  taxonomic/nomenclatural changes. [Notification
+  2026/012](https://www.cms.int/sites/default/files/news_attachments/012_Amendments%20of%20Appendices%20adopted%20by%20COP15%20entry%20into%20force_e.pdf),
+  dated **29 June 2026**, confirms that the revised Appendices entered into force on
+  **27 June 2026**, except for a Party making a reservation.
+- ✅ **CMS COP14, Samarkand (February 2024)** remains the source of the Samarkand
+  Strategic Plan for Migratory Species 2024-2032 and the first *State of the World's
+  Migratory Species* report. It is historical context, not the latest completed COP.
 
 - ✅ **Historical context:** India's CMS COP13 Presidency (Gandhinagar,
   2020) shaped its subsequent Central Asian Flyway engagement; do not present
   COP13 as the latest completed COP.
 
-⚠️ **Interpretation caution:** CMS CoP outcomes and Appendix updates occur periodically —
-always cite the specific CoP year when referencing a listing or Agreement status. CMS CoPs
-meet roughly triennially, so a CoP after Samarkand (2024) may have occurred by the time an
-answer is written; verify on cms.int rather than assuming COP14 is still the latest.
-Distinguish also between a species being **proposed** for listing at a CoP and a proposal
-being **adopted** — only the latter changes legal status.
+⚠️ **Interpretation caution:** separate proposal, COP adoption, entry into force, reservation
+and instrument participation. A species may be in Appendix I, Appendix II or both, while a
+separate Agreement/MOU has its own participation and legal-force record.
 
 ## 9. PYQ application
 
@@ -223,7 +224,7 @@ being **adopted** — only the latter changes legal status.
 |---|---|---|
 | Legal weight varies within CMS. | **Appendix I, Appendix II, Agreements and MOUs** → separates strict-protection duties from cooperative instruments. | Do not call every CMS instrument legally binding. |
 | Flyway protection needs local action as well as diplomacy. | **Amur Falcon at Doyang/Pangti, Nagaland** → community protection of a stopover can repair one vulnerable link in a long route. | One local success does not establish protection along the whole flyway. |
-| The latest completed anchor matters. | **CMS COP14, Samarkand 2024** → Strategic Plan/first global report are process and assessment milestones. | Do not convert adoption of a plan into a species-recovery outcome. |
+| The latest completed anchor matters. | **CMS COP15, Campo Grande 2026** → 40 taxa added; revised Appendices effective **27 June 2026**, subject to reservations. | Do not convert adoption or entry into force into proof of range-wide implementation or species recovery. |
 
 ### 13.3 Mark-scaled spines
 
@@ -232,41 +233,18 @@ being **adopted** — only the latter changes legal status.
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Official syllabus/index and owned core:** urbanisation is a change in urban
-  share plus occupational, spatial, economic and institutional transformation.
-  Urban population growth may arise through natural increase, migration,
-  reclassification or boundary expansion; statutory town, census town,
-  agglomeration, metropolitan region, slum and informal settlement are not
-  synonyms.
-- **Indispensable sociology and urban process:** agglomeration can deepen labour markets, matching, supplier
-  networks and knowledge spillovers, while land-price escalation, housing-supply
-  lag, commuting cost and environmental externalities distribute gains and costs
-  unevenly. Migration is rational for households even when it stresses the city.
-- **Governance precision:** the Seventy-fourth Constitutional Amendment inserted
-  Part IXA and the Twelfth Schedule, but functional listing, actual devolution,
-  municipal finance, parastatal control, metropolitan coordination and ward-level
-  participation are separate questions. A metropolitan region is not one
-  municipality and formal assignment is not implementation capacity.
-- **Housing and informality:** informality is a labour, housing, tenure and
-  service relation, not a cultural trait. A slum label depends on legal/Census/
-  local definitions; tenure insecurity can block formal services, while remote
-  relocation can destroy livelihood access even where housing quality improves.
-- **Remedy test:** compare in-situ upgrading, serviced land, rental and affordable
-  housing, transit-oriented planning, portable services, drainage/ecological
-  restoration, municipal finance, ward participation and metropolitan
-  coordination by distributive and procedural justice, resilience and livelihood
-  access. No remedy works merely because it is technology-labelled.
-- **Data/source control and current programme boundary:** Census 2011 remains the latest completed
-  Indian urban stock as of 5 September 2026; UN World Urbanization Prospects 2025
-  is a harmonised estimate/projection, not Census data. PMAY-U 2.0 and AMRUT 2.0
-  may establish current housing and service-policy context, but project counts,
-  coverage and benefit claims require dated dashboard evidence and detailed
-  scheme architecture remains Social Justice/Governance-owned.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked for growth-component separation, city-size pull,
-  governance fragmentation, housing/informality mechanisms, ecological risk,
-  justice tests and evidence limits.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover 2022 Tier-2
-  city/middle-class consumption, 2023 segregation, cross-owned 2024 large-city
-  migrant pull and 2025 smart-city poverty/distributive justice. No unavailable
-  2026 demand or unsupported city-level statistic is invented.
+- **Owned core:** the CMS/Bonn Convention, range-state definition, Appendices I-II,
+  Agreements, MOUs, Concerted Actions, flyway/habitat cooperation and India's CMS role.
+- **Direct 2026 ownership:** Prelims GS-I Q27 on Amur Falcon migration, Doyang Lake and
+  community conservation remains primarily owned here. The routing block is answer-neutral.
+- **Current legal control:** COP15 additions entered into force on 27 June 2026 subject to
+  reservations. A current species claim must check the revised Appendices and any relevant
+  Agreement/MOU rather than relying on an older COP summary.
+- **Range boundary:** range state includes breeding, passage, stopover, moulting, wintering
+  and other life-cycle jurisdictions. Presence at an Indian stopover does not establish
+  breeding, residence, endemism or safety across the whole flyway.
+- **Cross-owner boundaries:** Topic 05 owns IUCN risk; Topic 08 owns Indian schedules; Topic
+  09 owns trade; Topic 28 owns dated tracker records. CMS listing and CITES listing are never
+  interchangeable.
+- **Outcome control:** a COP decision, MOU, telemetry record or local conservation success
+  does not by itself establish implementation in every range state or biological recovery.

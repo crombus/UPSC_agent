@@ -2,7 +2,9 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, with GS-II legal/governance linkage.
 > **Core area:** Domestic wildlife law architecture.
-> **Grounded in:** Wildlife (Protection) Amendment Act, 2022 (India Code); PRS Legislative Research bill analysis; MoEFCC notifications; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Wildlife (Protection) Amendment Act, 2022 (India Code); Gazette and
+> MoEFCC notifications including S.O. 2360(E); PRS Legislative Research analysis; audited
+> UPSC Environment PYQs through 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/08_Wildlife-Protection-Act-and-Schedules.md`.*
 
@@ -72,6 +74,9 @@ compliance-and-enforcement reform, not just a schedule count reduction.
   notification and is not static — any specific species-Schedule claim beyond well-
   established flagship examples (tiger, elephant in Schedule I) should be verified against
   the latest MoEFCC notification before being treated as settled fact.
+- ⚠️ Distinguish the notification's internal date, Gazette issue/publication date and any
+  expressly stated later commencement date. A portal upload timestamp is not automatically
+  the operative legal date.
 
 ## 6. Recurring UPSC analytical tensions
 
@@ -114,7 +119,12 @@ compliance-and-enforcement reform, not just a schedule count reduction.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 Wildlife (Protection) Amendment Act, 2022 — current governing legal structure (4 schedules, CITES-mirroring Schedule IV, invasive-species provision). | Use as the baseline legal framework for any question on India's wildlife-trade law; verify any subsequent notification/amendment before citing further updates. |
+| 📰 Wildlife (Protection) Amendment Act, 2022 — current four-Schedule legal structure, CITES-alignment machinery and invasive-species provision. | Use as the structural baseline; do not use the old six-Schedule map for a current-status question. |
+| 📰 [Gazette S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf) — notification dated **27 May 2025**, Gazette issue dated **28 May 2025**; amendments to Schedules I, II and IV. | Demonstrates the legal-date firewall: later schedule amendments operate within, and do not replace, the 2022 four-Schedule architecture. Check the Gazette rather than a news summary for current mapping. |
+
+**Currentness control checked through 5 October 2026:** record the exact statutory/Gazette
+source and operative publication date for a current species mapping. IUCN category, CITES
+Appendix or news coverage cannot substitute for the Indian legal instrument.
 
 ## 10. PYQ-based analytical application
 
@@ -124,6 +134,9 @@ compliance-and-enforcement reform, not just a schedule count reduction.
 - ⚠️ Mains answers should connect the 2022 amendment explicitly to India's CITES compliance
   narrative (Topic 09) and to enforcement-capacity critique, rather than describing it as an
   isolated domestic legal change.
+- ⚠️ **PYQ boundary:** 2020 Q81, 2022 Q89 and 2024 Q20 remain routed here. Q22, Q27 and Q36
+  belong to Topics 05, 10 and 28 respectively. Preserve neutral demand summaries; do not add
+  answer letters or option elimination.
 
 ## 11. Mains-ready framework
 
@@ -137,10 +150,12 @@ jurisdictional) that has historically limited Indian wildlife-crime deterrence.
    IV, invasive-species empowerment).
 2. Explain the CITES-alignment mechanism precisely, including that it requires a domestic
    notification step, not automatic incorporation.
-3. Identify the enforcement-architecture bodies (WCCB, state departments) and their
+3. Apply the legal-date control: Act structure, notification date, Gazette publication/
+   commencement and species entry.
+4. Identify the enforcement-architecture bodies (WCCB, state departments) and their
    documented capacity constraints.
-4. Flag the invasive-species economic-use trade-off as a genuine implementation nuance.
-5. Conclude with a capacity-building, not just legal-restructuring, recommendation.
+5. Flag the invasive-species economic-use trade-off as a genuine implementation nuance.
+6. Conclude with a capacity-building, not just legal-restructuring, recommendation.
 
 ## 12. Probable questions
 

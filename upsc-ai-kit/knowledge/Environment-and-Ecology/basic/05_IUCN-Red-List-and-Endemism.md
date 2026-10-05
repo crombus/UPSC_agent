@@ -70,11 +70,13 @@ Protection Act Schedules) are related but legally distinct classifications.
 
 ## 5. Indian applications and examples
 
-- ⚠️ The Great Indian Bustard is Critically Endangered on the IUCN Red List due to a very
-  small, declining, fragmented population — illustrating how small population size and
-  habitat fragmentation combine to elevate risk category.
-- ⚠️ Several Western Ghats amphibian species are both endemic and Red-Listed as threatened,
-  showing the overlap between the hotspot/endemism topic and Red List assessment.
+- ⚠️ The Great Indian Bustard (*Ardeotis nigriceps*) was assessed globally as
+  **Critically Endangered on 17 August 2018** under criteria **A2a+4acd; C1**. The dated
+  assessment illustrates how decline, a very small population and fragmentation can combine
+  to elevate extinction risk. Do not present the category as a fresh 2026 assessment.
+- ⚠️ Dated IUCN assessments of several Western Ghats amphibians illustrate overlap between
+  endemism and extinction risk. In an answer, name the taxon, geographic scale, category and
+  assessment year rather than citing a timeless regional list.
 - ⚠️ A species can be Red List Least Concern globally (e.g., widespread elsewhere) while
   still being locally significant or legally protected within India — showing global and
   domestic assessments are not interchangeable.
@@ -123,17 +125,27 @@ Protection Act Schedules) are related but legally distinct classifications.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Great Indian Bustard's Critically Endangered status and power-line collision
-  mitigation remain a live conservation issue. In **M.K. Ranjitsinh & Ors. v. Union of India
+- 📰 The Great Indian Bustard's **global Critically Endangered assessment dated
+  17 August 2018** and power-line collision mitigation remain a live conservation issue. In
+  **M.K. Ranjitsinh & Ors. v. Union of India
   (Supreme Court, order dated 21 March 2024)** the Court **modified** its earlier blanket
   direction to underground transmission lines across bustard habitat, constituted an expert
-  committee to determine feasibility area-by-area, and — in the same judgment — articulated a
-  **"right against the adverse effects of climate change"** read into Articles 14 and 21.
-  ⚠️ Read this correctly: it is a *modification* of an earlier direction, not a dilution of
-  bustard protection, and the climate-rights holding is *obiter*-adjacent constitutional
-  reasoning that examiners now expect candidates to know (cross-refer Topics 16, 17, 25).
+  committee to determine feasibility area-by-area and retained species-protection review.
+  Read this here only as a dated species-risk and mitigation case. Any necessary
+  climate-pressure science belongs to Topic 17.
 - 📰 Cite the most recent MoEFCC/NTCA/court update date whenever referencing case status or
   bustard population figures — both are volatile.
+
+**Official assessment controls checked through 5 October 2026:**
+
+- [Western hoolock gibbon IUCN assessment](https://www.iucnredlist.org/species/pdf/17968083):
+  global **Endangered**, assessed **12 September 2017**, published in **2019**.
+- [Great Indian Bustard IUCN assessment](https://www.iucnredlist.org/species/pdf/134188105):
+  global **Critically Endangered**, assessed **17 August 2018**.
+- [Peacock/Gooty tarantula IUCN assessment](https://www.iucnredlist.org/species/pdf/12681959):
+  global **Critically Endangered**, assessed **1 January 2008**.
+
+The retrieval/check date never substitutes for the assessment date.
 
 ⚠️ **Interpretation caution:** species counts by Red List category for India are updated
 periodically by IUCN reassessments — attribute any specific count to its assessment year.
@@ -229,14 +241,19 @@ Never state that a species "has been downlisted/uplisted" without naming the ass
 | Claim | Named evidence/example → significance | Qualification |
 |---|---|---|
 | Risk can arise through more than a falling headcount. | **IUCN Criteria A–E** → a taxon may qualify through decline, tiny/restricted range, small declining population, very small population or quantitative analysis. | Never assign a category without the assessment scale and year. |
-| Science, law and infrastructure must be read together. | **Great Indian Bustard** → Critically Endangered assessment, Indian wildlife-law protection and the **21 March 2024 M.K. Ranjitsinh** remedial redesign expose the transmission-line/renewable-siting tension. | The order redesigned a remedy; it is not proof that mitigation is complete or that population recovery has occurred. |
+| Science, law and infrastructure must be read together. | **Great Indian Bustard** → global Critically Endangered assessment dated **17 August 2018**, Indian wildlife-law protection and the **21 March 2024 M.K. Ranjitsinh** area-sensitive transmission-line remedy. | The order redesigned a species-protection remedy; it is not proof that mitigation is complete or that population recovery has occurred. |
 | Data gaps require precaution, not complacency. | **Data Deficient** status → assessment evidence is inadequate. | DD is neither a threatened category nor evidence of safety. |
 
 ### 13.3 Mark-scaled spines
 
 - **10 marks:** define endemism, show one criterion/risk pathway and give one named Indian case.
 - **15/20 marks:** use a three-layer structure — IUCN assessment → Wildlife Protection Act → habitat/implementation and, where relevant, CITES; end with a landscape-level verdict.
-- **2026 species route:** **Western hoolock gibbon (*Hoolock hoolock*)** is **Endangered** on the IUCN Red List (IUCN record checked 14 August 2026); it is a forest-canopy, brachiating ape of north-eastern India with a range extending beyond India. Habitat fragmentation and hunting/capture are the safe threat categories. Do not turn a historical population estimate into a current count without the assessment year.
+- **2026 species route:** **Western hoolock gibbon (*Hoolock hoolock*)** was assessed
+  globally as **Endangered on 12 September 2017** and published in **2019**. It is a
+  forest-canopy, brachiating ape of north-eastern India with a transboundary range. Habitat
+  fragmentation and hunting/capture are safe threat categories. Do not convert an assessment
+  retrieval date, a historical sanctuary census or a canopy-bridge intervention into a
+  current abundance or recovery claim.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -268,38 +285,21 @@ Never state that a species "has been downlisted/uplisted" without naming the ass
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Official syllabus/index and owned core:** rural society is a relation among
-  caste, class, land, labour, credit, kinship, panchayat, market and state;
-  agrarian change includes tenure, technology, commercialisation,
-  mechanisation, feminisation, migration, depeasantisation, non-farm work and
-  ecological stress. Rural is not identical to agricultural.
-- **Indispensable sociology:** M.N. Srinivas's dominant caste explains the
-  convergence of numbers, land and office; André Béteille keeps caste, class and
-  power analytically distinct; A.R. Desai's agrarian-structure lens locates
-  village relations within markets and the state. Jajmani is a regionally
-  variable hereditary patron-client relation, not a timeless village essence.
-- **Mechanism and regional variation:** compare Punjab-Haryana irrigated
-  agriculture, eastern tenancy and labour, dryland Deccan, plantation, tribal,
-  coastal and peri-urban settings. Green Revolution effects depend on land,
-  irrigation, credit, crop, price support and market access; Panchayat
-  representation is not automatically substantive power.
-- **Intersectional control:** landownership, tenancy, caste, gender, migration,
-  age and non-farm income create differentiation within every rural category.
-  Feminisation may mean greater work burdens without title, wages or
-  decision-power and must not be treated as automatic empowerment.
-- **Data/source control:** PLFS Annual Report 2025 uses a January-December
-  reference period and can describe labour status, not prove jajmani decline or
-  village power. Agriculture Census holdings and Situation Assessment income
-  concepts require their own reference periods and coverage labels.
-- **Cross-owner boundary:** Economy owns land-reform mechanics, farm output and
-  poverty aggregates; Governance owns detailed Panchayati Raj design. Population
-  Topic 06, women Topic 07, empowerment Topic 08 and poverty Topic 09 remain
-  outside this owner's detailed treatment.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were tested for institutions, class categories, thinkers,
-  agrarian-change mechanisms, regional variation, intersectionality and
-  measurement limits.
-- **Verified PYQ ownership, 2018-2026:** no direct GS-I question in the verified
-  2018-2025 corpus is routed to Topic 05. The official 2026 GS-I paper was not
-  available on 5 September 2026; zero-direct-PYQ status is recorded rather than
-  filled by invention.
+- **Owned core:** IUCN categories and criteria, global versus regional assessment,
+  assessment-year discipline, endemism and its distinction from native, rare, threatened,
+  flagship and keystone status.
+- **Direct 2026 ownership:** Prelims GS-I Q22 on western hoolock gibbon status, habitat and
+  arboreal adaptation remains primarily owned here. The neutral routing block supplies no
+  answer letter or option elimination.
+- **Cross-owner boundaries:** Topic 08 owns Indian statutory schedules; Topic 09 owns CITES
+  trade listings; Topic 10 owns CMS range-state instruments; Topic 28 owns the reusable
+  current-affairs record and Foxtail-orchid Q36. A species may need links to all four owners,
+  but none of their labels may be inferred from another.
+- **Assessment control:** every species-specific IUCN statement must state geographic scale,
+  category, assessment date/year and, where useful, criteria. A page-access or retrieval date
+  is not the assessment year.
+- **Population control:** assessment category, historical census, captive stock, occurrence
+  record, range estimate and current wild population are separate evidence types.
+- **Current-source boundary:** direct IUCN assessment records and the current assessment
+  rationale control status. News, court orders and programme releases may establish threats or
+  interventions but cannot amend an IUCN category.

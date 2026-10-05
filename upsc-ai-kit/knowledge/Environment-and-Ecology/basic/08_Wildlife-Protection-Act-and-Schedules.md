@@ -133,9 +133,12 @@ domestic law with its CITES international-trade obligations.
 
 ## 8. 📰 Current anchor
 
-- 📰 The Wildlife (Protection) Amendment Act, 2022 remains the current governing legal text;
-  verify any further amendment or Schedule notification against the latest MoEFCC gazette
-  notification before citing an updated Schedule list in an answer.
+- 📰 The Wildlife (Protection) Amendment Act, 2022 supplies the current four-Schedule
+  structure. The later schedule amendment [S.O. 2360(E)](https://egazette.gov.in/WriteReadData/2025/263451.pdf)
+  is dated **27 May 2025** and was published in the Gazette issue dated **28 May 2025**. It
+  amends entries in Schedules I, II and IV; it does not restore the old six-Schedule system.
+  Verify any still later amendment against India Code, the Gazette and the MoEFCC notification
+  index before citing a species-to-Schedule mapping.
 
 ⚠️ **Interpretation caution:** exact species-to-Schedule mappings are subject to periodic
 notification updates — cite the amendment year (2022) as the structural reference point
@@ -243,52 +246,20 @@ rather than assuming a static, unchanging species list.
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Official syllabus/index and owned core:** social empowerment expands
-  capability, agency, resources, recognition, representation, accessibility and
-  institutional voice. Welfare input, legal entitlement, capability-conversion
-  factor and lived outcome are separate stages; formal mobility is not
-  substantive equality.
-- **Indispensable sociology and owned group map:** Scheduled Castes, Scheduled Tribes, socially and
-  educationally backward classes/OBCs, notified religious and linguistic
-  minorities, persons with disabilities, transgender persons and wider
-  LGBTQIA+ communities, and elderly persons are analysed separately before
-  intersectional overlap. None is a homogeneous or legally interchangeable
-  category.
-- **SC/ST/OBC precision:** Articles 338, 338A and 338B establish distinct national
-  commissions; Articles 341, 342 and 342A govern distinct notified/list fields.
-  Article 17 and the Protection of Civil Rights Act 1955 concern untouchability;
-  the SC/ST (Prevention of Atrocities) Act 1989 has a separate protective field.
-  Detailed reservation doctrine and benefit administration remain Polity/Social
-  Justice-owned.
-- **Minority precision:** Articles 29-30 protect cultural and educational
-  interests through constitutional categories that are not identical to the six
-  centrally notified religious communities administered under the National
-  Commission for Minorities Act 1992. Article 350B separately concerns linguistic
-  minorities.
-- **Disability, gender-identity and ageing precision:** the Rights of Persons with
-  Disabilities Act 2016 is an equality, accessibility and specified-disability
-  framework; benchmark disability is a statutory subcategory, not a synonym for
-  every person with disability. The Transgender Persons (Protection of Rights)
-  Act 2019 applies to transgender persons and is not a complete LGBTQIA+ equality
-  code; constitutional sexual-orientation equality and marriage recognition are
-  separate legal questions. The Maintenance and Welfare of Parents and Senior
-  Citizens Act 2007 creates maintenance/welfare duties but not proof of universal
-  pension, care access or family support.
-- **Intersectional mechanism:** caste/tribe, class, gender, disability, sexuality,
-  religion, age, region and rural-urban location change conversion factors such
-  as schooling, documentation, mobility, accessibility, language, stigma and
-  digital access. A group-level entitlement cannot establish equal uptake or
-  outcome within that group.
-- **Data/source control:** use dated commission, ministry and
-  statutory sources to establish mandate or legal status; use social evidence to
-  analyse conversion and outcome. Detailed scheme inventories, reservation
-  quantum, litigation and departmental implementation remain Social Justice or
-  Polity-owned.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked separately for every owned group, constitutional
-  and statutory category, capability-conversion mechanism, intersectional
-  overlap, implementation boundary and data limitation.
-- **Verified PYQ ownership, 2018-2026:** the owner's direct answer routes cover
-  the 2024 affirmative-action outcome gap and the 2025 Phule demand, with
-  cross-owner routing disclosed. No official 2026 demand, group prevalence or
-  scheme success rate is invented.
+- **Owned core:** the Wild Life (Protection) Act, 1972 as amended in 2022; the current
+  four-Schedule structure; hunting, vermin-notification, invasive-alien-species and
+  international-trade provisions; and the functions of the Chief Wildlife Warden, MoEFCC,
+  WCCB, Management Authority and Scientific Authority.
+- **Time boundary:** historical questions may test the pre-2022 six-Schedule structure.
+  Current answers must use Schedules I-II for animals, III for specified plants and IV for
+  CITES scheduled specimens, while checking later Gazette amendments such as S.O. 2360(E).
+- **Direct PYQ ownership:** 2020 Q81, 2022 Q89 and 2024 Q20 remain routed here. Their neutral
+  demand summaries do not disclose an answer letter or eliminate options.
+- **Cross-owner boundaries:** Topic 09 owns the CITES Appendix and permit system; Topic 05
+  owns IUCN extinction-risk assessment; Topic 10 owns CMS; Topic 28 owns the dated species
+  tracker. Schedule IV alignment links to CITES but does not make the two legal instruments
+  interchangeable.
+- **Species-mapping control:** never infer a Schedule from IUCN or CITES status. Record the
+  exact Act/Gazette source and operative publication date for every current species mapping.
+- **Implementation control:** notification, permit, seizure, prosecution, habitat management
+  and biological recovery are separate stages; one does not prove the next.

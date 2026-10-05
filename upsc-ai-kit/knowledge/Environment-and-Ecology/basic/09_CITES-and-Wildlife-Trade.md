@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims, with GS-II international-relations linkage.
 > **Core area:** International wildlife-trade regulation.
-> **Grounded in:** Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES, 1975) official framework; Wildlife (Protection) Amendment Act, 2022; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES, 1975) official framework; CITES CoP20 and the Appendices valid from 5 March 2026; Wildlife (Protection) Amendment Act, 2022; audited UPSC Environment PYQs.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/09_CITES-and-Wildlife-Trade.md`.*
 
@@ -71,14 +71,16 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
 
 ## 5. Indian applications and examples
 
-- ⚠️ The Red Sanders (a tree species endemic to parts of Andhra Pradesh) is a prominent
-  Indian CITES Appendix II case, illegally logged and smuggled for its valuable timber
-  despite trade regulation.
-- ⚠️ The Star Tortoise and various reptile/bird species are recurrent targets of illegal
-  wildlife trafficking from India, prompting CITES-linked enforcement operations.
-- ⚠️ India's tiger (Appendix I) and elephant ivory-trade restrictions illustrate how a
-  flagship Schedule I domestic species is simultaneously an Appendix I CITES-listed species
-  — showing the alignment intended by the 2022 Wildlife Protection Act amendment.
+- ✅ The current Species+/CITES Checklist record for Red Sanders (*Pterocarpus santalinus*)
+  shows **Appendix II**, effective **13 September 2007**, with annotation **#7** covering
+  specified timber products. Endemism, Appendix status and Indian legality remain separate
+  claims.
+- ✅ Indian Star Tortoise (*Geochelone elegans*) is currently **Appendix I**, effective
+  **26 November 2019**. The current entry, not an older wildlife-trafficking article, controls
+  the trade-status claim.
+- ✅ Tiger (*Panthera tigris*) and Asian elephant (*Elephas maximus*) are current Appendix I
+  examples. Species+ also records a 2019 tiger taxonomic lumping note, illustrating why the
+  accepted taxon and listing history must be read together.
 
 ## 6. Must-Know Facts for Prelims
 
@@ -127,17 +129,20 @@ complementary to, but legally distinct from, domestic wildlife/habitat protectio
 
 ## 8. 📰 Current anchor
 
-- 📰 India's Wildlife (Protection) Amendment Act, 2022 restructured Schedule IV specifically
-  to mirror CITES Appendices I, II and III — the current reference architecture; verify any
-  further CITES CoP decision affecting specific Indian species against the latest CITES
-  Secretariat notification before citing an updated Appendix status.
+- 📰 **CITES CoP20** closed in Samarkand on **5 December 2025**. The CITES Secretariat's
+  [outcome record](https://cites.org/eng/api/node/news/144843), published **16 December
+  2025**, reports **82 new listings**. The official Appendices edition is
+  [valid from 5 March 2026](https://cites.org/sites/default/files/eng/app/2026/E-Appendices-2026-03-05.pdf).
+  Reservations, annotations, population-specific entries and delayed implementation can alter
+  the legal result for a particular Party or specimen, so the
+  [current CITES Checklist](https://checklist.cites.org/) controls any species-level claim.
+- 📰 India's Wildlife (Protection) Amendment Act, 2022 and current Schedule IV provide the
+  domestic trade-control architecture. A CoP decision and an Indian Schedule entry are
+  separate legal checks; neither should be inferred from the other.
 
-⚠️ **Interpretation caution:** CITES Appendix status for a specific species can change after
-each Conference of the Parties — always cite the relevant CoP year when referencing a
-species' current Appendix listing. This file deliberately does **not** assert a CoP session
-number, host city or listing outcome for the most recent CoP; check cites.org for the latest
-CoP record and its adopted proposals before quoting one in an answer, and never infer an
-outcome from a *proposal* that was merely tabled.
+⚠️ **Interpretation caution:** cite the Appendix, population/annotation, operative date and
+any relevant reservation. Never convert a tabled proposal into an adopted listing, a CoP
+adoption date into an operative date, or an IUCN/WPA category into a CITES Appendix.
 
 ## 9. PYQ application
 
@@ -199,39 +204,19 @@ outcome from a *proposal* that was merely tabled.
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Official syllabus/index and owned core:** poverty may be monetary,
-  multidimensional, absolute, relative, chronic, transient or vulnerable-to-
-  poverty. Incidence, depth, severity, inequality, social exclusion and
-  development are different concepts and must not be collapsed into one rate.
-- **Development distinction:** economic growth concerns aggregate expansion;
-  human development concerns health, education and living standards; capability
-  development concerns real freedoms; inclusive and sustainable development add
-  distribution, participation, resilience and ecological constraints. Poverty
-  reduction is one development outcome, not a synonym for development.
-- **Indispensable sociology and intersectionality:** assets, land and housing tenure, labour-
-  market security, discrimination, health shocks, care burdens, indebtedness,
-  service quality and state capacity explain entry, persistence and exit.
-  Rural/urban location, caste, tribe, gender, religion, disability and region
-  alter both exposure and conversion of assistance into durable capability.
-- **Measurement control:** a consumption poverty line and the National
-  Multidimensional Poverty Index answer different questions. Headcount does not
-  show depth or severity; MPI incidence does not equal consumption poverty; a
-  survey estimate does not prove programme causation or current household status.
-- **Data/source control:** NITI Aayog's January 2024 discussion paper estimated
-  11.28 per cent multidimensional poverty in 2022-23 and about 24.82 crore exits
-  between 2013-14 and 2022-23 using an extrapolative method beyond NFHS-5 actuals.
-  MoSPI's HCES 2023-24 covers August 2023-July 2024 and reports consumption, not
-  an official poverty headcount unless a specified methodology is applied.
-- **Ownership boundary:** Economy owns Tendulkar/Rangarajan and poverty-line
-  methodology; Social Justice owns detailed entitlement and scheme architecture;
-  Governance owns partnership design. This owner explains deprivation,
-  exclusion, capability conversion, class-differentiated shocks and development
-  trade-offs without importing those inventories.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were tested for poverty-development distinctions, causal
-  direction, persistence mechanisms, measurement limits, collaboration and
-  environment-livelihood trade-offs.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover 2018 persistent
-  poverty, 2020 pandemic/class inequality, the cross-owned 2024 collaboration
-  demand and the 2025 sustainable-growth/poor-needs conflict. No unavailable
-  2026 demand or current poverty rate is invented.
+- **Owned core:** CITES treaty scope, Appendices I-III, unilateral Appendix III listing,
+  non-detriment findings, Management and Scientific Authorities, permits, reservations,
+  annotations, enforcement and India's Schedule IV implementation.
+- **Current legal control:** CoP20 adoption, the Appendices valid from 5 March 2026 and the
+  live Checklist are distinct records. A species entry must state its Appendix, covered
+  population/specimen, annotation and operative date.
+- **Cross-owner boundaries:** Topic 05 owns IUCN extinction-risk categories; Topic 08 owns
+  Indian statutory schedules and offences; Topic 10 owns migratory-range cooperation; Topic
+  28 owns the dated tracker. Similar conservation concern never makes these classifications
+  legally interchangeable.
+- **Evidence boundary:** a press release may establish what CoP adopted, but the operative
+  Appendices/Checklist and reservations determine current trade status. A seizure establishes
+  interception, not trafficking trend, prosecution or biological recovery.
+- **PYQ control:** retain CITES-linked questions only where the demand concerns Appendix,
+  permit or international-trade logic. Neutral demand summaries must not disclose answer
+  letters or eliminate options.

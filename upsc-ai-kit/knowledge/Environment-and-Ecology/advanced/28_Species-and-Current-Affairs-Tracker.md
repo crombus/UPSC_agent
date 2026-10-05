@@ -1,184 +1,194 @@
 # Species and Current Affairs Tracker - ADVANCED
 
-> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims, current-affairs integration across all GS papers.
-> **Core area:** Dated species and policy current-affairs tracking methodology.
-> **Grounded in:** PIB press releases; MoEFCC/NTCA/Ramsar Convention/IUCN/CMS/CITES official updates; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III
+> (Environment) + Prelims.
+> **Core area:** Longitudinal species evidence, source reconciliation and update governance.
+> **Grounded in:** recognised taxonomic records; IUCN assessments; India Code/Gazette;
+> CITES and CMS official records; named surveys, judgments and programme reports; audited
+> UPSC Environment PYQs through 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/28_Species-and-Current-Affairs-Tracker.md`.*
 
 ---
 
-## 1. Why verification discipline is itself an examinable analytical skill
+## 1. Why an advanced tracker is an evidence-versioning system
 
-⚠️ The advanced-level insight this tracker file embodies: in a fast-moving policy domain
-like environment and ecology, the ability to distinguish a *verified, source-dated fact*
-from an *unverified, approximate, or outdated claim* is itself a skill UPSC Mains answers
-implicitly reward through the precision and currency of cited evidence. An answer that cites
-a specific PIB press release number and date for a claim demonstrates a categorically
-different standard of evidentiary discipline than one that vaguely asserts "India has many
-Ramsar sites" or cites a stale, superseded figure. This tracker's discipline — omitting any
-claim that cannot be traced to a specific official source — models the standard advanced
-answers should aspire to.
+The Basic owner defines the mandatory species-card fields. The Advanced owner asks a harder
+question: how should a candidate reconcile records that use different dates, geographic scales,
+taxonomic concepts, survey methods or legal verbs?
 
-## 2. Cross-topic synthesis: using tracker entries to build integrated Mains answers
+```text
+NEW CLAIM
+   ↓
+same taxon and synonym set?
+   ↓
+same geographic/population scale?
+   ↓
+same evidence type and method?
+   ↓
+newer assessment / legal instrument / survey?
+   ↓
+supersede | coexist | conflict pending resolution
+```
 
-| Tracker entry | Cross-topic synthesis opportunity |
-|---|---|
-| ✅ India's 100th Ramsar site (5 June 2026, PIB PRID 2269208) | Combine with Topic 07 (Ramsar mechanism/Montreux Record) and Topic 14 (wetland water-quality governance) for an integrated wetland-policy answer. |
-| ✅ 58th Tiger Reserve (Madhav, March 2025) | Combine with Topic 06 (protected-area hierarchy) and Topic 05 (IUCN/endemism) for an integrated species-conservation-governance answer. |
-| ✅ COP29/COP30 NCQG outcome | Combine with Topic 19 (UNFCCC architecture) and Topic 20 (India's Panchamrit/LT-LEDS finance-conditionality) for an integrated climate-diplomacy answer. |
-| ✅ CBD COP16/Cali Fund (2024-25) | Combine with Topic 22 (CBD/KMGBF) and Topic 04 (genetic diversity) to explain DSI benefit-sharing and implementation finance. |
-| ✅ ISFR 2023 forest-cover data | Combine with Topic 03 (successional-quality critique) and Topic 12 (CAMPA/GIM implementation-gap critique) for an integrated forest-governance answer. |
+⚠️ A newer publication does not automatically supersede an older record. It may merely report
+an older assessment, repeat a historical count or describe a different population.
 
-⚠️ **Analytical point:** the highest-scoring Mains answers in this subject typically weave
-together a static conceptual framework (from Topics 01-27) with at least one precisely
-dated current-affairs anchor (from this tracker) and an explicit analytical synthesis
-connecting them — rather than treating "current affairs" and "static syllabus" as separate,
-unrelated preparation tracks.
+## 2. Advanced reconciliation matrix
 
-## 3. A discipline for handling genuinely uncertain or contested figures
+| Apparent conflict | First checks | Safe treatment |
+|---|---|---|
+| Two scientific names | accepted name, synonym, split/lump and authority date | retain both names and state the taxonomic concept |
+| Global and Indian status differ | assessment scale, criteria and year | record both; do not call either “wrong” |
+| Two population figures differ | survey area, method, season and reference year | do not average incompatible estimates |
+| News and Gazette differ | publication date, competent authority and operative date | legal instrument controls legal status |
+| CoP outcome and live Appendix differ | adoption, entry into force, reservation and annotation | current treaty database controls trade/range status |
+| Programme and field report differ | announced action versus measured outcome | preserve both status verbs |
 
-1. ⚠️ When a widely circulated figure (e.g., in coaching-material summaries or secondary news
-   reports) cannot be traced to a specific primary source, the disciplined approach is to
-   either omit it entirely from a written answer or explicitly qualify it (e.g., "reports
-   suggest approximately X, though this should be verified against the latest official
-   source") rather than presenting it with false precision.
-2. ⚠️ Where official sources themselves show discrepancy (e.g., different government
-   documents citing slightly different counts for the same category due to different
-   reporting-cutoff dates), the precise, defensible approach is to cite the specific source
-   and its date explicitly, allowing the discrepancy to be attributed to reporting-timing
-   differences rather than presenting either figure as the single "correct" answer.
-3. ⚠️ This discipline directly parallels the "data and conceptual limitations" sections
-   included in every advanced-tier file across this knowledge base — treating measurement
-   and reporting uncertainty as a first-class analytical consideration, not a gap to be
-   silently smoothed over.
+The tracker should expose the reason for difference rather than silently selecting the more
+dramatic figure.
 
-## 4. Species-specific tracking: the analytical value of longitudinal case studies
+## 3. Taxonomic and common-name change control
 
-- ⚠️ Tracking a single flagship species (e.g., the Great Indian Bustard) across multiple
-  tracker updates over time — IUCN status, Wildlife Protection Act Schedule status, Supreme
-  Court proceedings, CMS-relevant range considerations — builds a longitudinal case study
-  that is far more analytically valuable in a Mains answer than any single static fact,
-  because it demonstrates the *interaction* of multiple governance layers (science, domestic
-  law, judicial enforcement, international convention) around one concrete, well-documented
-  example.
-- ⚠️ **Recommended practice:** maintain this kind of longitudinal tracking for a small number
-  (three to five) of the most exam-relevant flagship species/sites (e.g., Great Indian
-  Bustard, a prominent Ramsar site, a recently notified Tiger Reserve) rather than attempting
-  exhaustive tracking of every possible current-affairs item, prioritising depth and
-  cross-governance-layer understanding over breadth.
+1. Record the accepted scientific name and authority source.
+2. Preserve important synonyms or former combinations encountered in older assessments,
+   statutes or news reports.
+3. When a species is split, determine which former population belongs to which successor
+   taxon before transferring range, count or legal status.
+4. When species are lumped, do not add population estimates mechanically unless methods and
+   geographic coverage are compatible.
+5. Treat a shared common name as an ambiguity flag, not proof that two reports concern the
+   same taxon.
 
-## 5. Data and conceptual limitations
+⚠️ A legal schedule may retain an older scientific name while current taxonomy uses a revised
+combination. The tracker must connect the names without pretending that taxonomy itself amended
+the law.
 
-- ⚠️ This tracker's entries reflect verification as of their stated compilation date; new
-  Ramsar sites, Tiger Reserves, COP outcomes and species-status changes will continue to
-  occur after this date, requiring periodic re-verification against the cited primary
-  sources before reuse in any future exam-preparation cycle.
-- ⚠️ International comparative claims (e.g., "India has the highest number of Ramsar sites
-  in Asia") depend on other countries' concurrent site counts, which also change over time —
-  such comparative claims should be re-verified against the latest Ramsar Secretariat global
-  data rather than treated as a permanently fixed ranking.
-- ⚠️ Court-proceeding status (e.g., the Great Indian Bustard power-line case) evolves with
-  each hearing/order; any specific claim about "the current state" of such litigation should
-  be dated to the most recent verified order before being cited in an answer.
+## 4. Longitudinal case-file design
 
-## 6. Recurring UPSC analytical tensions
+Maintain three to five cases that differ by taxon and threat mechanism:
 
-| Tension | Balanced framing |
-|---|---|
-| Comprehensive current-affairs coverage vs depth of understanding | Prioritise depth (a small number of well-understood, cross-governance-layer case studies) over attempting exhaustive breadth of every possible news item. |
-| Citing precise figures for authority vs risk of citing outdated/incorrect figures | Precision should always be paired with source/date attribution; an unverifiable precise-sounding figure is analytically worse than an appropriately qualified estimate. |
-| Static syllabus preparation vs current-affairs preparation | The two should be integrated (concept plus dated anchor), not treated as separate, competing preparation tracks. |
+| Case type | Minimum longitudinal fields | Analytical value |
+|---|---|---|
+| Infrastructure-sensitive species | dated risk assessment, habitat map, order, mitigation and mortality monitoring | science-law-infrastructure interaction |
+| Migratory species | breeding/stopover/wintering roles, range states, local action and CMS instrument | weakest-link governance |
+| Restricted-range traded species | accepted taxonomy, natural range, CITES/WPA status, seizure/prosecution and habitat evidence | trade law versus wild outcome |
+| Plant/fungus/resource species | identity, native/endemic status, collection/cultivation and livelihood use | prevents use claims from replacing conservation evidence |
+| Invasive alien species | introduction pathway, spread, ecosystem effect, control and reference-ecosystem recovery | distinguishes removal from restoration |
 
-## 7. Must-Know Facts for Advanced Prelims
+The Great Indian Bustard or Amur Falcon may be cross-linked as examples, but Topic 05 and Topic
+10 retain their substantive status and migratory ownership respectively.
 
-- ✅ Verification discipline (source and date attribution for every current-affairs claim) is
-  itself an examinable evidentiary standard reflected in the structure of this entire
-  knowledge base.
-- ✅ Longitudinal tracking of a small number of flagship species/sites across multiple
-  governance layers (science, domestic law, judicial enforcement, international convention)
-  provides higher-value Mains-answer material than isolated, single-fact current-affairs
-  items.
-- ✅ International comparative claims (e.g., rankings among countries) are time-sensitive and
-  require re-verification against the latest primary-source data before being restated.
-- ✅ Where official sources show discrepancies in reported figures, the defensible approach is
-  to cite each source's specific date rather than asserting a single unqualified "correct"
-  number.
+## 5. Update, expiry and confidence controls
+
+Each dynamic field should carry:
+
+```text
+last checked
+controlling source
+assessment / effective / as-on date
+confidence
+expiry trigger
+next recheck source
+```
+
+### Recommended expiry logic
+
+- **Taxonomy:** recheck after a cited revision or when sources use different names.
+- **IUCN:** recheck each exam cycle and on reassessment; retain the assessment year permanently.
+- **WPA:** recheck after an Act/Gazette amendment.
+- **CITES/CMS:** recheck after a CoP amendment, reservation, annotation or instrument change.
+- **Population/trend:** expire when a newer methodologically comparable survey is released.
+- **Court/programme:** recheck after a later order, notification or implementation report.
+
+“Verification pending” is a valid field value. An invented completion is not.
+
+## 6. Facts, inference and causal attribution
+
+Use three layers:
+
+1. ✅ **Fact:** the primary source states the record.
+2. ⚠️ **Inference:** the record supports a bounded ecological or governance interpretation.
+3. ⚠️ **Causal attribution:** requires evidence that the intervention, rather than changed
+   method, coverage, taxonomy or external conditions, produced the outcome.
+
+A downlisting may reflect recovery, improved evidence or revised taxonomy. A higher count may
+reflect wider survey coverage. A captive-breeding output may strengthen ex-situ capacity while
+wild survival remains unchanged.
+
+## 7. Source-quality is claim-specific
+
+“Official” is not a universal quality score:
+
+- a Gazette is strongest for legal notification but not population trend;
+- IUCN is strongest for its dated assessment but not Indian statutory status;
+- a treaty database is strongest for listing and annotation, not habitat condition;
+- a named repeated survey is strongest for comparable biological trend;
+- an official press release is strong for what an institution announced, not necessarily for
+  independent outcome attribution.
+
+The advanced skill is matching source authority to the exact proposition.
 
 ## 8. Advanced Prelims traps
 
-- ❌ A precise-sounding but unverifiable figure is always preferable to a qualified estimate
-  in an exam answer. -> An unverifiable precise figure risks factual error; qualified,
-  source-attributed estimates are the more defensible practice.
-- ❌ Current-affairs preparation and static-syllabus preparation should be studied as entirely
-  separate tracks. -> The highest-value preparation integrates a static concept with a
-  precisely dated current-affairs anchor for each topic.
-- ❌ Once a comparative international ranking (e.g., "highest in Asia") is learned, it can be
-  cited indefinitely without re-verification. -> Such rankings are time-sensitive and depend
-  on other countries' concurrent data, requiring periodic re-verification.
-- ❌ Exhaustive coverage of every possible current-affairs item is the optimal preparation
-  strategy. -> Depth on a small number of well-understood, cross-governance-layer flagship
-  case studies is generally more valuable for Mains answers than exhaustive but shallow
-  breadth.
+- ❌ Latest article = latest data.
+- ❌ Accepted taxonomic revision automatically changes a statutory schedule.
+- ❌ Global IUCN category = Indian population category.
+- ❌ Range state = breeding state.
+- ❌ CITES Appendix and CMS Appendix are interchangeable.
+- ❌ Captive release = established wild population.
+- ❌ Rediscovery or range extension = recovery.
+- ❌ Greater survey estimate = biological growth.
+- ❌ One protected-area occurrence = complete natural range or endemism.
 
-## 9. 📰 Current anchor — analytical use
+## 9. 📰 Current anchor — checked through 5 October 2026
 
-| Verified current anchor | Topic-specific analytical use |
-|---|---|
-| 📰 This tracker's Section 5 entries (basic tier), each with specific source/date attribution. | Use as the model template for how to compile, verify and periodically refresh current-affairs knowledge across the entire Environment and Ecology syllabus, applying the same discipline to any newly emerging item. |
-| 📰 **Section 5A (basic tier) — the 2 August 2026 reevaluation batch**, drawn from Economic Survey 2025-26 Ch. 10, ipcc.ch and unccd.int. | Note what makes these entries *usable*: each pairs a number with (a) an issuing authority, (b) an as-on date and (c) a status qualifier (target / allocated / installed / achieved). An entry lacking any of the three is not exam-safe. |
-| ⚠️ **The tracker's omissions list is itself the deliverable.** Section 5A ends with an explicit statement of what could **not** be verified — recent CITES and Ramsar COP outcomes, post-Belém UNFCCC COPs, India's post-2025 NDC status, the global hotspot count, and India's Kigali step-down schedule. | This is the single most transferable habit in the whole knowledge base. In an examination, a candidate who writes "India's non-fossil installed capacity was 51.93% at end-December 2025 (Economic Survey 2025-26)" and then declines to guess the current global Ramsar total is demonstrating **calibration** — and calibration is what distinguishes a credible answer from a confident-sounding one. |
+The Basic owner contains the current legal docket: Gazette S.O. 2360(E), CITES CoP20/current
+Appendices and CMS COP15/current Appendices. The Advanced lesson is the change-control rule:
 
-⚠️ **Four status verbs to keep separate in every tracker entry:** *announced* (a target
-exists), *notified* (a legal instrument exists), *allocated/sanctioned* (money or capacity is
-committed), and *achieved/commissioned* (physical reality). Almost every avoidable factual
-error in Environment answers is a substitution of one of these for another.
+- keep adoption, publication and entry-into-force dates separate;
+- record reservations, annotations and population scope;
+- preserve the IUCN assessment year even when the record was retrieved in 2026;
+- treat the IUCN India assessor training of 8-11 July 2026 as capacity-building, not completed
+  assessment or recovery.
 
-## 10. PYQ-based analytical application
+## 10. PYQ ownership and answer neutrality
 
-- ⚠️ Prelims questions increasingly test the *most recent* verified instance of a recurring
-  category (latest Ramsar site, latest Tiger Reserve, latest COP outcome) — maintaining a
-  disciplined, dated tracker is the most reliable preparation method for this question type.
-- ⚠️ Mains answers should demonstrate the cross-topic synthesis technique (Section 2),
-  explicitly connecting a current-affairs anchor to at least one relevant static-concept
-  file for full analytical credit.
+- **Topic 28 direct ownership:** 2026 Prelims GS-I Q36 on Foxtail orchid identity,
+  distribution, epiphytic habit and State-flower association; 2024 Q25; 2025 Q37; and the
+  routed 2018-2023 species demands in the Basic owner.
+- **Topic 05 direct ownership:** 2026 Q22 western hoolock gibbon.
+- **Topic 10 direct ownership:** 2026 Q27 Amur Falcon.
+
+The Advanced owner supplies reconciliation logic only. It does not reproduce an answer letter,
+truth-value set, option elimination or solved PYQ.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Effective Environment and Ecology exam preparation requires treating
-current-affairs knowledge with the same evidentiary discipline as any other analytical
-claim — every dated fact must carry its specific source, comparative/international claims
-must be periodically re-verified, and depth on a small number of longitudinally tracked
-flagship case studies (spanning science, domestic law, judicial enforcement and
-international convention layers) delivers more Mains-answer value than exhaustive but
-shallow current-affairs breadth.
+**Central thesis:** A species tracker becomes analytically useful only when it preserves the
+identity and date of each evidence layer, explains why records differ and tests whether legal
+or programme action produced a measured biological outcome.
 
-1. Explain the static-concept-plus-dated-anchor model this entire knowledge base is built
-   around.
-2. Demonstrate cross-topic synthesis using specific tracker entries (Ramsar, Tiger Reserve,
-   COP29/30, ISFR) linked to their respective conceptual topics.
-3. Apply the verification-discipline standard to handling uncertain/discrepant figures.
-4. Advocate longitudinal, cross-governance-layer tracking of a small number of flagship
-   case studies over exhaustive breadth.
-5. Conclude with a recommendation to periodically re-verify every dated claim before reuse
-   in any future exam-preparation cycle.
+1. Establish accepted identity and taxonomic concept.
+2. Separate habitat, occurrence, natural range, endemism and migration role.
+3. Diagnose the causal threat pathway.
+4. Record IUCN, WPA, CITES and CMS independently with scale and operative dates.
+5. Map institution, intervention and status verb.
+6. Compare outcome evidence by method and reference period.
+7. State residual uncertainty and the next recheck trigger.
 
 ## 12. Probable questions
 
-- ⚠️ **Prelims:** Identify the most recent verified milestone for a named tracked category,
-  applying the source/date-verification standard.
-- ⚠️ **Mains (10 marks):** Why should current-affairs facts in an Environment and Ecology
-  answer always be paired with a specific source and date?
-- ⚠️ **Mains (15 marks):** Using a longitudinal case study (e.g., the Great Indian Bustard),
-  demonstrate how science, domestic law, judicial enforcement and international convention
-  layers interact in India's species-conservation governance.
+- ⚠️ **Prelims:** Which additional fields are required before treating a reported species
+  status as current?
+- ⚠️ **Mains (10 marks):** Why can a newer species report fail to supersede an older record?
+- ⚠️ **Mains (15 marks):** Explain how taxonomy, legal timing and survey methodology should be
+  reconciled in a longitudinal species-conservation case file.
 
 ## 13. Study links
 
 - ✅ Foundation companion: `basic/28_Species-and-Current-Affairs-Tracker.md`.
-- ✅ `05_IUCN-Red-List-and-Endemism.md` and `advanced/05_IUCN-Red-List-and-Endemism.md` — the
-  Great Indian Bustard longitudinal case study in full.
-- ✅ `07_Biosphere-Reserves-and-Ramsar-Sites.md` — the Ramsar milestone's full conceptual and
-  governance-gap context.
-- ✅ `19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — the COP29/30 climate-finance outcomes in full
-  analytical depth.
+- ✅ `05_IUCN-Red-List-and-Endemism.md` — assessment scale/year and Q22 ownership.
+- ✅ `08_Wildlife-Protection-Act-and-Schedules.md` — Indian legal timing.
+- ✅ `09_CITES-and-Wildlife-Trade.md` — trade listings, annotations and reservations.
+- ✅ `10_CMS-Bonn-Convention-Migratory-Species.md` — range-state instruments and Q27 ownership.
