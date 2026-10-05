@@ -1,0 +1,20 @@
+{
+  "answerable_units": 3416,
+  "canonical_topics": 353,
+  "explicit_paper_anchors": 3601,
+  "issues": [],
+  "markdown_link_occurrences": 25712,
+  "missing_anchors": [],
+  "missing_files": [],
+  "paper_families": 11,
+  "paper_files": 88,
+  "primary_reverse_links": 3600,
+  "represented_marks": 32000,
+  "review_files": 88,
+  "routed_anchors": 3600,
+  "secondary_topic_routes": 9,
+  "status": "PASS",
+  "topic_files": 353,
+  "unique_local_link_targets": 4510,
+  "years": 8
+}
