@@ -12,34 +12,34 @@
 
 ⚠️ The single most important advanced-level insight: the Paris Agreement's shift to
 Nationally Determined Contributions was not a scientific choice but a deliberate
-*negotiating-design* response to the Kyoto Protocol's central failure mode — Kyoto's
-top-down, externally negotiated binding targets proved politically unsustainable (most
-prominently, the United States never ratified Kyoto, and Canada later withdrew), teaching
-negotiators that a system requiring every major emitter's binding buy-in to a single
-externally set number was fragile. Paris traded lower immediate binding ambition (targets
-are self-determined, not negotiated top-down) for near-universal participation (nearly all
-UNFCCC parties, including the US at various points and China, are covered), betting that
-broad participation plus a binding *transparency and ratchet* process would compound into
-greater ambition over time than a narrower but more rigid binding-target system. This
-trade-off — universality and durability versus immediate binding ambition — is the
-conceptual key to nearly every advanced Paris Agreement question.
+*negotiating-design* response to Kyoto's participation problem. Kyoto imposed quantified
+commitments through Annex B on Parties bound for a commitment period, but the United States
+never ratified, Canada later withdrew and second-period participation narrowed. Paris
+therefore did not impose an internationally scheduled numerical outcome on each Party. It
+secured near-universal participation through nationally determined substantive targets,
+while creating legal duties to prepare, communicate and maintain NDCs, pursue domestic
+mitigation measures, communicate every five years, account and report. Article 4's
+progression and highest-possible-ambition standard, transparency and the Global Stocktake
+are intended to increase ambition over time. This trade-off — universality and durability
+versus externally fixed national outcomes — is the conceptual key to advanced Paris
+Agreement questions.
 
 ## 2. The ratchet mechanism and Global Stocktake: how Paris tries to compensate for weak initial ambition
 
-1. ✅ Article 4 of the Paris Agreement requires each NDC to represent a progression beyond
-   the party's previous NDC and reflect its "highest possible ambition" — the ratchet
-   mechanism, operationalised through a five-year NDC update cycle.
+1. ✅ Article 4 states that each successive NDC **will** represent a progression beyond the
+   Party's previous NDC and reflect its "highest possible ambition"; Article 4.9 separately
+   requires communication of an NDC every five years.
 2. ✅ The Global Stocktake (first concluded at COP28, Dubai, 2023) is a periodic, collective
    assessment of aggregate global progress toward the Paris Agreement's goals, designed to
    inform and pressure the next round of NDC updates toward greater ambition.
 3. ⚠️ **Analytical point:** the ratchet-plus-stocktake design is Paris's answer to the
-   sovereignty-versus-ambition trade-off (Section 1) — since binding numeric targets could
-   not be imposed, the Agreement instead relies on a binding *transparency and periodic
-   review* cycle intended to generate reputational and diplomatic pressure for stronger
-   subsequent commitments. Whether this mechanism can deliver adequate ambition remains a
-   genuinely open, actively debated question given that current aggregate NDC ambition
-   (per Global Stocktake assessments) has been repeatedly found insufficient to meet the
-   1.5°C/well-below-2°C goal.
+   sovereignty-versus-ambition trade-off (Section 1). Since treaty-negotiated national
+   numerical outcomes were not imposed, the Agreement combines binding communication,
+   accounting and reporting duties with nationally determined substantive ambition,
+   collective stocktaking and reputational or diplomatic pressure. Article 15 compliance is
+   expert-based, facilitative, non-adversarial and non-punitive. Whether this architecture
+   can deliver adequate ambition remains genuinely open because procedural compliance can
+   coexist with an aggregate pathway inconsistent with the temperature goal.
 
 ## 3. Article 6 carbon markets: cooperative mechanisms and their design tension
 
@@ -47,7 +47,7 @@ conceptual key to nearly every advanced Paris Agreement question.
   cooperation, including Article 6.2 (bilateral/cooperative approaches with
   internationally transferred mitigation outcomes, ITMOs) and Article 6.4 (a centralised,
   UN-supervised crediting mechanism, succeeding the Kyoto Protocol's Clean Development
-  Mechanism).
+  Mechanism in function but not as a legal copy).
 - ⚠️ **Design tension:** carbon-market mechanisms aim to lower the global cost of achieving
   a given mitigation outcome by allowing trading/cooperation across borders, but they
   require robust accounting rules (to prevent "double counting" — both the host country and
@@ -58,22 +58,26 @@ conceptual key to nearly every advanced Paris Agreement question.
 
 ## 4. Climate finance: the NCQG as an unresolved equity flashpoint
 
-- ✅ COP29 (Baku, 2024) agreed the New Collective Quantified Goal (NCQG), setting at least
-  USD 300 billion per year by 2035 from developed to developing countries, with a broader,
-  less binding aspirational call for USD 1.3 trillion per year in total mobilised finance
-  (the "Baku to Belém Roadmap," carried forward into COP30, Belém, 2025).
-- ⚠️ **Analytical point — the equity gap:** independent expert assessments (e.g., the
-  Independent High-Level Expert Group on Climate Finance) have estimated developing-country
-  climate-finance needs (excluding China) at a substantially higher figure — often cited
-  around USD 2.7 trillion annually by 2030 in expert reporting — than the NCQG's agreed USD
-  300 billion floor, illustrating the persistent gap between negotiated finance commitments
-  and independently assessed actual need; this gap is central to why India and other
-  developing countries publicly characterised the COP29 outcome as inadequate.
-- ⚠️ **Balanced framing:** the distinction between the "at least $300bn" binding-ish floor
-  and the "$1.3 trillion" broader aspirational mobilisation figure (which includes private
-  and multilateral-development-bank finance, not solely developed-country public finance)
-  is itself a frequently misunderstood nuance — advanced answers should specify which figure
-  and which finance-source category is being discussed.
+- ✅ COP29/CMA6 (Baku, 2024) adopted decision 1/CMA.6. Paragraph 7 calls on **all actors** to
+  work together to scale financing to developing-country Parties for climate action from all
+  public and private sources to at least **USD 1.3 trillion per year by 2035**. Paragraph 8
+  sets a goal, in extension of the earlier USD 100 billion goal, with developed-country
+  Parties taking the lead, of at least **USD 300 billion per year by 2035** for
+  developing-country climate action. The goal may draw from a wide variety of public,
+  private, bilateral, multilateral and alternative sources; paragraph 9 encourages
+  developing-country Parties to contribute voluntarily.
+- ⚠️ **Analytical point — the equity gap:** decision 1/CMA.6 itself highlights costed needs
+  reported in developing-country NDCs of USD 5.1–6.8 trillion up to 2030, or USD 455–584
+  billion per year, and estimated adaptation-finance needs of USD 215–387 billion annually
+  up to 2030. These scopes and time frames are not directly identical to the NCQG, but they
+  show why India and other developing countries characterised the USD 300 billion goal as
+  inadequate.
+- ⚠️ **Balanced framing:** neither figure is an assessed country-by-country treaty
+  contribution. The USD 300 billion figure is a collective goal adopted by CMA decision,
+  expressly linked to developed-country leadership and a wide source base. The USD 1.3
+  trillion figure is the broader all-actor scaling call. Both differ from Article 9.1's
+  treaty duty that developed-country Parties shall provide financial resources, and neither
+  figure by itself proves a pledge or disbursement.
 
 ## 5. Loss and Damage: the newest pillar of the climate-finance architecture
 
@@ -105,22 +109,22 @@ conceptual key to nearly every advanced Paris Agreement question.
 
 | Tension | Balanced framing |
 |---|---|
-| Universal participation (Paris) vs binding ambition (Kyoto) | Paris traded rigid bindingness for durability and universality, betting on the ratchet-plus-stocktake mechanism to compound ambition over time — an unresolved, actively tested wager. |
-| Negotiated finance floor (NCQG $300bn) vs independently assessed need (~$2.7tn) | The gap illustrates a persistent equity flashpoint; genuine assessment should distinguish the binding-ish public-finance floor from the broader aspirational total-mobilisation figure. |
+| Universal participation (Paris) vs externally scheduled quantified commitments (Kyoto) | Paris retained binding procedural and conduct duties but made substantive national target levels nationally determined, betting on progression, transparency and stocktake pressure to compound ambition over time. |
+| NCQG collective goal ($300bn) vs broader scaling call ($1.3tn) and recorded needs | The gap illustrates a persistent equity flashpoint; identify the CMA decision, developed-country leadership, wider source base, voluntary contributions and actual delivery separately. |
 | Carbon-market cost-efficiency vs accounting integrity | Article 6 mechanisms can lower global mitigation cost, but only if double-counting and environmental-integrity safeguards are rigorously enforced. |
 
 ## 8. Must-Know Facts for Advanced Prelims
 
-- ✅ The Paris Agreement's ratchet mechanism (Article 4) requires each successive NDC to
-  represent a progression and "highest possible ambition," reviewed via the periodic Global
-  Stocktake (first concluded at COP28, Dubai, 2023).
+- ✅ Article 4 states that each successive NDC will represent progression and reflect
+  "highest possible ambition"; Article 4.9 requires communication every five years, and the
+  periodic Global Stocktake informs subsequent action.
 - ✅ Article 6 of the Paris Agreement establishes both bilateral/cooperative approaches
   (Article 6.2, ITMOs) and a centralised UN-supervised crediting mechanism (Article 6.4).
 - ✅ The Loss and Damage Fund, agreed in principle at COP27 (2022), addresses climate-impact
   finance distinct from mitigation and adaptation finance.
-- ✅ The NCQG's "at least $300 billion/year by 2035" figure and the broader "$1.3 trillion/
-  year" aspirational figure are distinct commitments with different bindingness and
-  finance-source composition.
+- ✅ Decision 1/CMA.6 distinguishes the collective goal of at least USD 300 billion/year by
+  2035, with developed-country Parties taking the lead and a wide source base, from the
+  broader call on all actors to scale finance to at least USD 1.3 trillion/year by 2035.
 
 ## 9. Advanced Prelims traps
 
@@ -133,18 +137,19 @@ conceptual key to nearly every advanced Paris Agreement question.
 - ❌ The Loss and Damage Fund is the same as adaptation finance. -> It is a distinct third
   pillar addressing unavoidable climate harm beyond what adaptation/mitigation can prevent.
 - ❌ COP29's $300 billion and $1.3 trillion figures refer to the same finance commitment
-  with the same bindingness. -> They are distinct: $300bn is the more specific developed-
-  to-developing-country goal; $1.3tn is a broader, less binding total-mobilisation
-  aspiration including private/multilateral finance.
+  with the same legal structure. -> They are distinct: USD 300 billion is a CMA-adopted
+  collective goal for developing-country climate action, with developed-country Parties
+  taking the lead and finance from a wide variety of sources; USD 1.3 trillion is the wider
+  all-actor scaling call.
 
 ## 10. 📰 Current anchor — analytical use
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 COP29 (Baku, 2024): NCQG sets $300bn/year by 2035 (developed-to-developing) and a $1.3tn/year aspirational total-mobilisation goal via the Baku-to-Belém Roadmap; India and other developing countries called the outcome inadequate. | Use to construct the equity-gap argument precisely, distinguishing the two finance figures and citing developing-country reactions. |
-| 📰 COP30 (Belém, 2025): continued the Baku-to-Belém Roadmap, progressed Loss and Damage Fund operationalisation, without a binding fossil-fuel phase-out commitment. | Use as evidence of incremental, contested progress on implementation versus persistent gaps on the most structurally difficult issues (fossil-fuel phase-out). |
+| 📰 COP29/CMA6 (Baku, 2024): decision 1/CMA.6 sets a collective goal of at least USD 300bn/year by 2035, with developed-country Parties taking the lead and a wide source base; it separately calls on all actors to scale finance to at least USD 1.3tn/year. India and other developing countries called the outcome inadequate. | Use to construct the equity-gap argument precisely: distinguish Article 9 treaty duties, the CMA goal, the all-actor scaling call, voluntary contributions, pledges and verified delivery. |
+| 📰 COP30/CMA7 (Belém, 2025): continued the Baku-to-Belém Roadmap and loss-and-damage implementation without a binding fossil-fuel phase-out commitment. | Use as evidence of incremental, contested progress on implementation versus persistent gaps on the most structurally difficult issues. |
 | ✅ **First Global Stocktake, COP28 (Dubai, 2023)** — the "UAE Consensus" called on Parties to contribute to **transitioning away from fossil fuels in energy systems**, and to **triple renewable capacity and double the energy-efficiency improvement rate by 2030**; the **Loss and Damage Fund**, agreed at COP27 (2022), was **operationalised** there. | The GST is the ratchet's engine: it is the mechanism by which a bottom-up, self-determined system is supposed to become collectively adequate. Evaluating Paris means evaluating whether GST outputs actually raised the next NDC round's ambition — a far sharper thesis than "Paris is non-binding". |
-| ⚠️ This file deliberately asserts no host, date or outcome for any COP after Belém (2025), and no post-2025 NDC submission status for India — verify on unfccc.int. | **Treaty-outcome discipline:** never infer an outcome from a negotiating text, a presidency's proposal or a coalition statement. Only adopted decision text counts. |
+| ⚠️ As of 5 October 2026, COP31/CMP21/CMA8 were scheduled for 9–20 November 2026 in Antalya, Türkiye; no negotiated outcome existed. India had submitted its NDC for 2031–2035 on 24 April 2026; Topic 20 owns its quantitative domestic-target treatment. | **Treaty-outcome discipline:** never infer an outcome from a negotiating text, Presidency proposal or coalition statement; identify the governing body and adopted decision. |
 
 ## 11. PYQ-based analytical application
 
@@ -161,18 +166,18 @@ conceptual key to nearly every advanced Paris Agreement question.
 
 ## 12. Mains-ready framework
 
-**Central thesis:** The Paris Agreement's design deliberately traded Kyoto-style binding,
-externally negotiated targets for near-universal participation and a binding transparency-
-and-ratchet process, betting that periodic Global Stocktake pressure would compound ambition
-over time; whether this bet succeeds depends critically on closing the persistent equity gap
-between negotiated climate-finance commitments (like the COP29 NCQG) and independently
-assessed developing-country needs, alongside genuine progress on carbon-market integrity and
-the newly established Loss and Damage pillar.
+**Central thesis:** The Paris Agreement replaced Kyoto-style externally scheduled national
+outcome targets with near-universal, nationally determined substantive ambition while
+retaining binding communication, domestic-measures, accounting and reporting duties.
+Progression, transparency and the Global Stocktake seek to compound ambition without punitive
+international enforcement. Whether this design succeeds depends critically on closing the
+equity gap between climate-finance goals and developing-country needs, alongside genuine
+progress on carbon-market integrity and loss-and-damage support.
 
 1. Trace the UNFCCC-Kyoto-Paris evolution through the sovereignty-versus-ambition
    trade-off lens, not merely chronologically.
-2. Explain the ratchet mechanism and Global Stocktake as Paris's structural answer to weak
-   initial binding ambition.
+2. Explain the ratchet mechanism and Global Stocktake as Paris's structural response to
+   nationally determined substantive ambition.
 3. Analyse Article 6 carbon-market design and its accounting-integrity challenge.
 4. Present the NCQG finance-equity gap, distinguishing the two headline figures precisely.
 5. Conclude with the Loss and Damage Fund's emergence as evidence of an evolving, still-
@@ -196,6 +201,18 @@ the newly established Loss and Damage pillar.
   translation.
 - ✅ `21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` — Article 6 mechanisms in domestic
   implementation detail.
+- ✅ Official treaty controls: UNFCCC,
+  <https://unfccc.int/resource/docs/convkp/conveng.pdf>; Kyoto Protocol,
+  <https://unfccc.int/resource/docs/convkp/kpeng.pdf>; Doha Amendment,
+  <https://unfccc.int/resource/docs/2012/cmp8/eng/13a01.pdf>; Paris Agreement,
+  <https://unfccc.int/documents/54061>.
+- ✅ Official NCQG control: decision 1/CMA.6, document
+  `FCCC/PA/CMA/2024/17/Add.1`;
+  <https://unfccc.int/sites/default/files/resource/cma2024_17a01_adv.pdf>. Adopted advance
+  text: <https://unfccc.int/sites/default/files/resource/cma2024_L22_adv.pdf>.
+- ✅ Current-status controls: India NDC registry record,
+  <https://unfccc.int/documents/611410>; COP31 notification,
+  <https://unfccc.int/sites/default/files/resource/notification_to_parties_and_observer_states_cop31.pdf>.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
