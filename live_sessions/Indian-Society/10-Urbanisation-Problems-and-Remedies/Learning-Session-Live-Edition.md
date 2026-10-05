@@ -291,7 +291,7 @@ A construction worker chooses a metropolis because a relative can provide tempor
 
 ### UPSC application
 
-**Neutral verified demand metadata:** 2024 GS-I Q5, Discuss, 10 marks, 150 words — why large cities attract more migrants than smaller towns under developing-country conditions. Exact wording is not displayed because the local official paper is unavailable.
+**Official-paper verified demand:** 2024 GS-I Q5, Discuss, 10 marks, 150 words — “Why do large citites tend to attract more migrants than smaller towns? Discuss in the light of conditions in developing countries.” The official-paper spelling “citites” is retained.
 
 **Answer route:** opportunity diversity → expected job probability → agglomeration → migrant networks → small-town gap → cost qualification.
 
@@ -1938,7 +1938,7 @@ A city installs real-time bus information but fares and routes exclude periphera
 
 ### UPSC application
 
-**Neutral verified demand metadata:** 2025 GS-I Q8, Discuss, 10 marks, 150 words — how smart cities **in India** address urban poverty and distributive justice. Exact wording is not displayed because the local official paper is unavailable.
+**Official-paper verified demand:** 2025 GS-I Q8, How does, 10 marks, 150 words — “How does smart city in India, address the issues of urban poverty and distributive justice?”
 
 **Answer route:** potential service gains → spatial/digital exclusion risks → distributive/procedural tests → inclusive design → conditional verdict.
 
@@ -2151,14 +2151,14 @@ Part IXA, Article 243ZE and SDG 11 anchor the integrated framework.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-Displayed entries remain neutral where an exact permitted paper text was unavailable. No PYQ is supplied with a solved model.
+The 2022 and 2023 entries remain neutral because their official local papers are unavailable. The 2024 and 2025 entries reproduce the English wording extracted from the official local GS-I papers. No PYQ is supplied with a solved model.
 
-| Year · paper · Q | Verified neutral demand | Format metadata | Ownership and concise approach |
+| Year · paper · Q | Verified demand | Format metadata | Ownership and concise approach |
 |---|---|---|---|
 | 2022 · GS-I · Q9 | Tier-2 city growth, the new middle class and the culture of consumption | How is it related · 10 marks · 150 words | Direct Topic 10 route: growth drivers → class formation → consumption/credit → opportunity and inequality → qualification |
 | 2023 · GS-I · Q18 | Whether urbanisation leads to segregation or marginalisation of the poor in **Indian metropolises** | Does it lead · 15 marks · 250 words | Direct Topic 10 route: reject inevitability → land/tenure/planning mechanisms → spatial capability → counter-design → verdict |
-| 2024 · GS-I · Q5 | Why large cities attract more migrants than smaller towns in **developing countries** | Discuss · 10 marks · 150 words | Primary Geography migration route; Topic 10 contribution: agglomeration, housing/service costs and developing-country urban structure |
-| 2025 · GS-I · Q8 | Smart cities **in India** addressing urban poverty and distributive justice | Discuss · 10 marks · 150 words | Direct Topic 10 route: possible service gain → spatial/digital exclusion → justice tests → inclusive design |
+| 2024 · GS-I · Q5 | “Why do large citites tend to attract more migrants than smaller towns? Discuss in the light of conditions in developing countries.” | Discuss · 10 marks · 150 words | Primary Geography migration route; Topic 10 contribution: agglomeration, housing/service costs and developing-country urban structure. The official-paper spelling “citites” is retained. |
+| 2025 · GS-I · Q8 | “How does smart city in India, address the issues of urban poverty and distributive justice?” | How does · 10 marks · 150 words | Direct Topic 10 route: possible service gain → spatial/digital exclusion → justice tests → inclusive design |
 
 ## Directive decoding
 
@@ -2167,6 +2167,7 @@ Displayed entries remain neutral where an exact permitted paper text was unavail
 | How is it related | establish a causal relationship, not two descriptions | separate notes on cities and consumption |
 | Does it lead | test a proposition and reject automatic causation | one-sided inevitability claim |
 | Discuss | connect principal dimensions and qualify | factor list without mechanism |
+| How does | explain the operative mechanisms and show their effects | unsupported approval or criticism without a causal chain |
 
 ## Answer-route bridge
 
@@ -2533,7 +2534,7 @@ DELIVER a qualified verdict
 - Risks: showcase enclaves, digital-only access, displacement, surveillance and dashboard substitution.
 - Technology cannot replace municipal finance, staff, tenure and affordable housing.
 - Pilots require fair site selection, safeguards and a scaling path.
-- 2025 neutral demand route: service potential → exclusion risk → justice test → inclusive design.
+- 2025 verified demand route: service potential → exclusion risk → justice test → inclusive design.
 
 ## Integrated verdict
 
@@ -2557,7 +2558,7 @@ DELIVER a qualified verdict
 |---|---|---|---|---|
 | Urbanisation versus urban growth | Lesson 1; register | Four components and functional change | Administrative lag | Current WUP/Census boundary; 10-mark model |
 | Statutory town, census town, agglomeration, metro | Lesson 1 | Fully distinguished | Functional-governance mismatch | Visual, concept check, register |
-| Agglomeration economies and diseconomies | Lesson 2 | Job, matching, supplier, network mechanisms | Intervening opportunity and no optimum-size claim | 2024 neutral demand; 10-mark model |
+| Agglomeration economies and diseconomies | Lesson 2 | Job, matching, supplier, network mechanisms | Intervening opportunity and no optimum-size claim | 2024 verified demand; 10-mark model |
 | Migration, circularity and networks | Lesson 3 | Types, network and portability | Economic incorporation/civic exclusion | Original 15-marker |
 | Alienation, anomie and rural–urban continuum | Lesson 4 | Freedom, isolation and structural village-city linkage | Community reconstitution; distinct-level comparison; crime caution | Original 15-marker |
 | Slum, informality, homelessness and tenure | Lesson 5 | Category and causal chain | Tenure-service cycle and hazardous-site limit | Original 15-marker |
@@ -2568,7 +2569,7 @@ DELIVER a qualified verdict
 | Water, sanitation, waste and mobility | Lesson 10 | Service-capability mechanism | Time poverty and livelihood-sensitive systems | Original 15-marker |
 | Sprawl, flooding and heat | Lesson 11 | Core land-use and environmental-justice mechanisms | Distributional and resilience qualification | Original 15-marker |
 | In-situ upgrading, rental and relocation | Lesson 12 | Core remedy comparison | Renters, occupancy and prevention | Original 15-marker |
-| Smart-city justice | Lesson 13 | Core technology and service-potential analysis | Distribution, participation, recognition and privacy | 2025 neutral demand; 10-marker |
+| Smart-city justice | Lesson 13 | Core technology and service-potential analysis | Distribution, participation, recognition and privacy | 2025 verified demand; 10-marker |
 | Integrated remedy architecture | Lesson 14; master maps | Core housing, services, livelihood and governance synthesis | Right to city, intermediate cities and outcome ladder | Original 20-marker |
 | Exactly one current linkage | Lesson 1 | UN WUP 2025 official revision | Harmonised framework versus India's 35.689% national-definition estimate versus Census distinction | No second narrative linkage |
 | Lesson-local concept checks | Lessons 1–14 | One per lesson | Misconception remediation | 14/14 |
@@ -2582,8 +2583,8 @@ DELIVER a qualified verdict
 |---|---|---|
 | 2022 GS-I Q9, Tier-2 cities/middle class/consumption, 10/150 | Lesson 8; final index | Neutral demand; direct Topic 10 route |
 | 2023 GS-I Q18, urbanisation and poor segregation/marginalisation in Indian metropolises, 15/250 | Lesson 7; final index | Neutral demand; direct Topic 10 route |
-| 2024 GS-I Q5, large-city migrant attraction in developing countries, 10/150 | Lesson 2; final index | Neutral demand; primary Geography route with Topic 10 contribution |
-| 2025 GS-I Q8, smart cities in India/poverty/distributive justice, 10/150 | Lesson 13; final index | Neutral demand; direct Topic 10 route |
+| 2024 GS-I Q5, large-city migrant attraction in developing countries, 10/150 | Lesson 2; final index | Exact official-paper demand; primary Geography route with Topic 10 contribution |
+| 2025 GS-I Q8, smart city in India/poverty/distributive justice, 10/150 | Lesson 13; final index | Exact official-paper demand; direct Topic 10 route |
 | 2018–2021 and 2026 | Final index/source ledger | No additional direct Topic 10 demand claimed |
 
 # SOURCE LEDGER
@@ -2597,7 +2598,7 @@ DELIVER a qualified verdict
 | Urban-governance boundary | Part IXA/Twelfth Schedule framework separated from actual 3F devolution and service outcome | Governance local-service owner |
 | Housing/informality boundary | homelessness, slum residence, informal tenure and migration are not interchangeable | Topic 10 Core and Social Justice urban-poor owner |
 | Current data status | Census 2011 is the latest completed Indian count; WUP 2025's harmonised framework is distinct from India's national-definition 2025 estimate of 35.689% | Census discipline in canonical owners; official UN DESA WUP 2025 page |
-| PYQ status | 2022–2025 metadata are ledger-verified; exact paper text is not displayed because the relevant official local GS-I PDFs are absent | Mains routing ledgers and local-paper availability check |
+| PYQ status | 2022–2023 metadata are ledger-verified neutral demands; 2024–2025 wording is verified against the official local GS-I PDFs | Mains routing ledgers and official local papers |
 
 ## Canonical and bounded sources actually used
 
@@ -2618,8 +2619,10 @@ DELIVER a qualified verdict
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`
 - `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
 - `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`
+- `books\mains\UPSC Mains 2024 GS Paper I.pdf`
+- `books\mains\UPSC Mains 2025 GS Paper 1.pdf`
 
-The ledgers establish neutral demand labels, year, paper, question number, routing, directive, marks and word limits. The relevant 2022, 2023, 2024 and 2025 official GS-I PDFs were absent from this worktree at generation time. Exact wording is therefore not displayed, no official-local exact-text claim is made, and no PYQ model answer is supplied.
+The ledgers establish year, paper, question number, routing, marks and word limits, and provide the bounded neutral labels used for 2022–2023. The relevant 2022 and 2023 official GS-I PDFs are absent, so those entries remain neutral demand labels. The official local 2024 and 2025 GS-I PDFs control wording and directive; both were checked directly and their exact English wording is displayed. No PYQ model answer is supplied.
 
 ## Official live source used
 
@@ -2630,7 +2633,7 @@ This is the file's sole current linkage. It confirms that the 2025 revision cont
 ## Limitations
 
 1. No topic-specific OCR-searchable Indian Society or urban-sociology book was present in the local `books` inventory; the authored Core/Advanced and bounded cross-owners supplied the substantive base.
-2. The relevant 2022–2025 official local GS-I PDFs were absent. PYQs are therefore displayed as neutral ledger-derived demands, not exact quotations.
+2. The relevant 2022 and 2023 official local GS-I PDFs are absent, so those PYQs remain neutral ledger-derived demands. The 2024 and 2025 PYQs are exact official-paper transcriptions.
 3. No city-level prevalence, slum-growth, migration-flow, crime, housing-shortage or project-success figure is asserted without a dated source.
 4. Detailed programme architecture and changing dashboard counts for housing, livelihoods and urban missions remain with Social Justice and Governance and are not used to prove outcomes here.
 5. WUP's harmonised framework and national-definition series must not be conflated; India's 35.689% national-definition estimate remains distinct from Census 2011 enumeration.
@@ -2645,5 +2648,5 @@ This is the file's sole current linkage. It confirms that the 2025 revision cont
 | Solved workbook | not relevant | Permanently excluded from live-session evidentiary use by the governing source rule. |
 | Advanced dossier | checked | Complete `upsc-ai-kit\knowledge\Indian-Society\advanced\10_Urbanisation-Problems-and-Remedies.md` was audited and integrated. |
 | OCR books | not available | No topic-specific OCR urban-sociology or Indian Society book was available locally. |
-| PYQs through 2026 | checked | Audited Mains ledgers through 2025 and complete 2026 GS-I/GS-II ledgers were checked; absent-paper and neutral-demand controls are disclosed. |
+| PYQs through 2026 | checked | Audited Mains ledgers through 2025, official local 2024–2025 GS-I papers, and complete 2026 GS-I/GS-II ledgers were checked; the narrower 2022–2023 absent-paper limitation is disclosed. |
 | Official live sources | checked | Official UN DESA WUP 2025 page was checked for the sole dated current linkage; other claims use stable canonical and statutory context. |
