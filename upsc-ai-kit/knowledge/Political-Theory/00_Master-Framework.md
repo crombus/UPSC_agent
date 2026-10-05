@@ -319,7 +319,7 @@ defensible position keeps negative liberty as a constraint on how positive liber
 
 ## 5C. Mark-scaled evidence and architecture expectations
 
-| | **10 marks (~150 words)** | **15 marks (~200-250 words)** | **20 marks (~250-300 words)** |
+| | **10 marks (~150 words)** | **15 marks (~200-250 words)** | **20 marks (250 words)** |
 |---|---|---|---|
 | Selectable evidence bank (§5B) | **2-3** available; deploy the best 1-2 | **4-6** available; deploy a coherent 2-4 | **5-8** available; deploy a coherent 3-5 across rival positions |
 | Named thinkers/texts | 2-3 available | 4-6 available | 5-8 available, drawn from at least two rival families |
