@@ -2,32 +2,31 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment/Infrastructure) + Prelims.
 > **Core area:** India's energy-transition policy architecture.
-> **Grounded in:** National Green Hydrogen Mission full policy document (2023); MNRE renewable-capacity and storage-policy framework; Supreme Court Great Indian Bustard proceedings on renewable-infrastructure siting; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** MNRE Green Hydrogen Standard and National Green Hydrogen Mission; CEA/MoP power-system and storage planning; Supreme Court Great Indian Bustard proceedings; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Current-status evidence checked through:** 5 October 2026.
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/25_Renewable-Energy-and-Green-Hydrogen.md`.*
 
 ---
 
-## 1. Why intermittency, not generation capacity, is the advanced-level bottleneck
+## 1. Why capacity addition and system integration are joint constraints
 
-⚠️ The most important advanced-level insight: India's renewable-energy challenge has shifted
-from "can we build enough solar/wind capacity" (increasingly solved, given rapidly falling
-costs and rising installed capacity) to "can we manage the *intermittency* of that
-capacity" — solar and wind generation is variable and non-dispatchable (it does not generate
-on demand), requiring storage (battery, pumped-hydro), demand-response mechanisms, and
-grid-balancing infrastructure to translate installed capacity into reliable, round-the-clock
-power. A Mains answer that treats "GW of renewable capacity installed" as a sufficient
-success metric misses this crucial capacity-versus-reliable-supply distinction.
+⚠️ India must continue adding renewable capacity while simultaneously expanding the systems
+that turn variable output into dependable service. Solar and wind are variable and normally
+non-dispatchable at the primary-resource level; transmission, forecasting, storage
+(including batteries and pumped storage), demand response, reserves and flexible generation
+are therefore complementary requirements. Installed or awarded GW is neither generated MWh
+nor firm supply, but integration needs do not mean that the capacity-addition task is
+complete.
 
 ## 2. Green hydrogen economics: the cost-competitiveness threshold problem
 
-1. ⚠️ Green hydrogen's cost today remains generally higher than grey hydrogen (fossil-fuel-
-   based, without carbon capture) in most markets, primarily due to electrolyser capital
-   costs and the cost of the renewable electricity input itself — meaning green hydrogen's
-   large-scale adoption depends on a favourable combination of falling electrolyser costs
-   (through manufacturing scale, the SIGHT Programme's stated aim) and falling renewable-
-   electricity costs (through continued solar/wind cost declines and improved capacity
-   utilisation).
+1. ⚠️ Electrolysis-based green hydrogen generally remains costlier than grey hydrogen in
+   many markets because renewable electricity, electrolyser capital, utilisation, finance,
+   water treatment, compression and delivery all matter. India's standard also permits a
+   biomass-based route, whose economics and lifecycle result depend on feedstock,
+   conversion, land-use and logistics boundaries. Both routes must meet the same well-to-gate
+   ceiling of 2 kg CO₂e/kg H₂.
 2. ⚠️ **Analytical point:** the "green hydrogen cost-competitiveness threshold" (the point
    at which green hydrogen becomes cost-competitive with grey hydrogen without subsidy) is a
    moving target dependent on both technology-cost trajectories and, importantly, on carbon
@@ -39,8 +38,12 @@ success metric misses this crucial capacity-versus-reliable-supply distinction.
 3. ⚠️ India's SIGHT Programme structure (incentivising both electrolyser manufacturing and
    hydrogen production) reflects a deliberate industrial-policy choice to build domestic
    electrolyser manufacturing capability (reducing import dependency and potentially
-   enabling export competitiveness) alongside demand-side production incentives — a
+   enabling export competitiveness) alongside production-side incentives — a
    two-pronged approach distinct from simply subsidising hydrogen purchase.
+4. ⚠️ Cost parity is not the only end-use test. Direct electrification normally avoids
+   conversion losses; hydrogen is most defensible where a molecule, reducing agent,
+   difficult high-temperature service, transport derivative or long-duration store has
+   greater system value than the electric alternative.
 
 ## 3. The renewable-infrastructure-siting tension: a genuine, quantifiable trade-off
 
@@ -77,6 +80,9 @@ success metric misses this crucial capacity-versus-reliable-supply distinction.
 - ⚠️ Green-hydrogen production-cost figures and electrolyser-capacity figures change rapidly
   with technology development and are best cited from specific, dated MNRE/industry reports
   rather than treated as fixed figures.
+- ⚠️ Electrolyser efficiency must identify HHV/LHV and stack/system boundaries. About
+  9 litres of water per kg H₂ is only the stoichiometric minimum incorporated into products;
+  actual project withdrawal varies with purification, cooling, recovery, source and site.
 - ⚠️ Progress toward the National Green Hydrogen Mission's 5 MMT/year 2030 target and the
   500 GW non-fossil-capacity Panchamrit target should be verified against the latest MNRE/
   Ministry of Power progress reports, since both are actively evolving, multi-year targets
@@ -90,31 +96,38 @@ success metric misses this crucial capacity-versus-reliable-supply distinction.
 
 | Tension | Balanced framing |
 |---|---|
-| Renewable-capacity-addition success vs intermittency/reliability challenge | Both are true simultaneously — capacity addition is progressing well, but reliable, round-the-clock supply requires matching storage/grid investment, which lags capacity growth. |
+| Renewable-capacity addition vs variability/reliability challenge | Both remain live tasks — commissioned capacity is growing, while reliable supply requires matching grids, flexibility and storage. |
 | Green-hydrogen strategic promise vs current cost-competitiveness gap | The mission's SIGHT-Programme design reflects a deliberate bet on falling costs through scale and carbon-pricing evolution, not an assumption that green hydrogen is already fully cost-competitive today. |
+| Direct electrification vs hydrogen | Use electricity directly where practical; reserve hydrogen for selected molecular, reductant, derivative-fuel and long-duration applications after lifecycle and system-cost comparison. |
 | Renewable-infrastructure siting vs Critically Endangered species habitat protection | Both are legitimate national priorities; the genuine solution lies in species-sensitivity-informed siting and technological mitigation, not choosing one priority over the other. |
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ Solar and wind generation are variable/non-dispatchable, requiring storage and grid-
-  balancing infrastructure to convert installed capacity into reliable, round-the-clock
-  power supply.
-- ✅ Green hydrogen's cost-competitiveness depends on both falling electrolyser/renewable-
-  electricity costs and on carbon-pricing/regulation that raises grey hydrogen's effective
-  cost.
+- ✅ Solar and wind generation are variable/non-dispatchable, requiring grids, forecasting,
+  flexible supply and demand, reserves and appropriate storage to convert capacity into
+  reliable service.
+- ✅ India's green-hydrogen eligibility covers electrolysis-based and biomass-based routes
+  that meet the 2 kg CO₂e/kg H₂ well-to-gate ceiling; neither route is automatically
+  zero-emission.
+- ✅ A hydrogen fuel cell consumes hydrogen and oxygen to produce electricity, heat and water;
+  it operates in the reverse functional direction from electrolysis.
+- ✅ Electrolysis-based green-hydrogen competitiveness depends on renewable electricity,
+  electrolyser, utilisation and finance costs; biomass-based economics depend on feedstock
+  and conversion conditions. Carbon pricing can change both routes' position relative to
+  fossil hydrogen.
 - ✅ The Supreme Court has engaged with the tension between renewable-energy transmission
   infrastructure development and Great Indian Bustard habitat protection in Rajasthan/
   Gujarat, considering mitigation measures like undergrounding power lines or installing
   bird diverters.
 - ✅ The SIGHT Programme's dual incentive structure (electrolyser manufacturing plus
   hydrogen production) reflects a deliberate industrial-policy choice to build domestic
-  manufacturing capability alongside demand-side incentives.
+  manufacturing capability alongside production-side incentives.
 
 ## 8. Advanced Prelims traps
 
-- ❌ India's renewable-energy challenge today is primarily about building enough generation
-  capacity. -> The more pressing advanced-level challenge is managing intermittency through
-  storage and grid-balancing infrastructure, alongside continued capacity addition.
+- ❌ India's capacity-addition challenge is solved. -> India still needs additional
+  commissioned capacity, but every GW must be evaluated alongside generation, transmission,
+  flexibility, storage and reliable delivery.
 - ❌ Green hydrogen is already cost-competitive with grey hydrogen without any policy
   support. -> It generally remains more costly today, with cost-competitiveness dependent on
   technology-cost declines and carbon-pricing evolution.
@@ -124,40 +137,41 @@ success metric misses this crucial capacity-versus-reliable-supply distinction.
   species-sensitivity mapping and technological measures, not a simple prohibition.
 - ❌ The SIGHT Programme incentivises only hydrogen production, not electrolyser
   manufacturing. -> It incentivises both, reflecting a dual industrial-policy and demand-
-  side strategy.
+  and production-side strategy.
+- ❌ Every electrolysis project is green and every hydrogen end use is efficient. -> Apply
+  the official emissions threshold, then compare direct electrification, lifecycle losses,
+  infrastructure and end-use need.
 
 ## 9. 📰 Current anchor — analytical use
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
 | 📰 National Green Hydrogen Mission (approved January 2023): 5 MMT/year target by 2030, ~125 GW additional renewable capacity, ~₹19,744 crore outlay to 2029-30 (verify latest achieved-to-date progress before citing specifics). | Use as the current mission-target baseline while pairing it with the cost-competitiveness-threshold and storage/grid-integration analytical points for full depth. |
-| 📰 **NGHM contracting progress (Economic Survey 2025-26, Ch. 10):** **862,000 t/yr allocated to 18 companies**; **3,000 MW/yr electrolyser manufacturing awarded to 15 firms**; **three Green Hydrogen Hubs** at Deendayal Port (Gujarat), V.O. Chidambaranar Port (Tamil Nadu) and Paradip Port (Odisha). | The hub siting is the analytically interesting fact: all three are **ports**. That reveals the actual near-term business case is **export and bunkering**, not domestic hard-to-abate decarbonisation — which reframes green hydrogen as an **industrial-trade strategy** (with CBAM and shipping-fuel regulation as the demand drivers) rather than purely a domestic mitigation instrument. |
-| 📰 **The transition's next binding constraints, per the Survey itself:** material intensity of solar and wind, **critical-mineral** access and supply concentration, capital-intensive storage (CEA: **411 GWh of battery storage needed by 2031-32**; ACC PLI 50 GWh with 10 GWh grid-scale), high capital costs, land-acquisition delays and grid availability — plus grid-stability risk under high variable-renewable output, described as an **"entropy effect"** in which well-intentioned transition strategies multiply system bottlenecks. | This is the highest-value passage in the Survey for this topic. It lets an answer move past "India is adding renewables fast" to the real 2026-2030 question: **integration, not installation**. Non-fossil capacity is already 51.93% (Dec 2025); the constraint has shifted from megawatts to megawatt-hours, minerals and grid physics. |
-| 📰 **SHANTI Act (December 2025)** — consolidates the Atomic Energy Act, 1962 and CLNDA, 2010; enables private-sector and state participation with a **graded liability framework** without diluting victim compensation; Nuclear Energy Mission targets ≥5 indigenous SMRs by 2033 against a base of ~8,780 MW, with a CEA roadmap to 100 GW by 2047. | The structural argument for nuclear in this file is **firmness**, not cleanliness: as variable renewables cross half of installed capacity, the scarce commodity becomes dispatchable low-carbon power. The SHANTI Act is best analysed as an attempt to solve the *financing and liability* bottleneck that capital-intensive firm capacity faces — not as an energy-source preference. |
+| 📰 **NGHM contracting progress (Economic Survey 2025-26, Ch. 10):** **862,000 t/yr allocated to 18 companies**; **3,000 MW/yr electrolyser manufacturing awarded to 15 firms**; **three Green Hydrogen Hubs** at Deendayal Port (Gujarat), V.O. Chidambaranar Port (Tamil Nadu) and Paradip Port (Odisha). A separate official update reported about **8,000 t/yr commissioned through February 2026**. | Port siting supports common infrastructure, import/export logistics, bunkering and nearby industrial demand. It indicates trade and logistics orientation, but does not legally restrict output to exports or exclude domestic fertiliser, refining, steel or transport use. Allocation, hub designation and commissioning remain separate statuses. |
+| 📰 **The transition's next binding constraints, per the Survey itself:** material intensity of solar and wind, **critical-mineral** access and supply concentration, capital-intensive storage, high capital costs, land-acquisition delays and grid availability — plus an **"entropy effect"** when buffers and institutions lag. CEA planning cited by the Survey estimates **336.4 GWh of total energy-storage requirement by 2029-30** and **411.4 GWh by 2031-32**. | The 2031-32 total comprises **175.18 GWh pumped storage** and **236.22 GWh battery storage**; it is neither a battery-only figure nor commissioned stock. Storage, networks and demand flexibility remain complementary. At 31 August 2026, non-fossil capacity was 304.334 GW, or 54.88% of total installed capacity; this remains a capacity, not generation, statement. |
+| 📰 **Nuclear boundary:** nuclear capacity is non-fossil but not renewable. | Keep only this category distinction here. Reactor technology, fuel cycle, institutions, liability and nuclear-policy targets belong to Science and Technology `basic/04`. |
 | 📰 Supreme Court-monitored Great Indian Bustard power-line mitigation proceedings — **M.K. Ranjitsinh v. Union of India, 21 March 2024** (verify latest order date). | Use as the concrete case study for the renewable-infrastructure-siting-versus-species-habitat tension, and note that the Court resolved it by **re-scoping the remedy** rather than ranking the two values. |
 
 ## 10. PYQ-based analytical application
 
 - ⚠️ Prelims questions on green/grey/blue hydrogen distinctions or National Green Hydrogen
-  Mission targets should be answered by applying the precise process/target definitions.
-- ⚠️ Mains answers on "India's energy transition" should explicitly engage the intermittency/
+  Mission targets should be answered by applying the precise pathway, emissions-threshold
+  and status definitions.
+- ⚠️ Mains answers on "India's energy transition" should explicitly engage the variability/
   storage challenge and the renewable-siting-versus-species-habitat tension to demonstrate
   analytical depth beyond describing capacity-addition targets.
 
 ## 11. Mains-ready framework
 
-**Central thesis:** India's energy-transition success depends less on renewable-generation-
-capacity addition alone (which is progressing well) and more on three underexamined
-implementation layers — storage/grid-balancing infrastructure to manage intermittency,
-falling green-hydrogen costs relative to grey hydrogen (linked to carbon-pricing evolution)
-to make hard-to-abate-sector decarbonisation viable, and species-sensitivity-informed
-infrastructure siting to reconcile renewable-energy expansion with Critically Endangered
-species habitat protection.
+**Central thesis:** India's energy-transition success requires both continued commissioned
+renewable-capacity growth and three integration layers — grids/flexibility/storage to manage
+variability, lifecycle-qualified hydrogen for selected uses where it can outperform direct
+electrification, and species-sensitive infrastructure siting.
 
-1. Distinguish renewable-capacity addition from reliable-supply delivery, introducing the
-   intermittency/storage challenge.
-2. Explain green hydrogen's cost-competitiveness dependency on both technology costs and
-   carbon-pricing evolution.
+1. Distinguish announced, awarded and commissioned capacity from generation and reliable
+   delivery.
+2. Explain green hydrogen through route, emissions threshold, cost boundary and end-use
+   hierarchy, not colour alone.
 3. Use the Great Indian Bustard case to illustrate the renewable-siting-versus-species-
    habitat tension and its mitigation-based (not prohibition-based) resolution.
 4. Flag data limitations in cost/progress figures given the rapidly evolving technology and
@@ -184,6 +198,8 @@ species habitat protection.
   energy transition implements.
 - ✅ `21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` — the carbon-pricing linkage to
   green-hydrogen cost-competitiveness.
+- ✅ `../../Science-and-Technology/basic/04_Nuclear-Power-and-Three-Stage-Programme.md`
+  — nuclear technology, institutions, liability and fuel-cycle ownership.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

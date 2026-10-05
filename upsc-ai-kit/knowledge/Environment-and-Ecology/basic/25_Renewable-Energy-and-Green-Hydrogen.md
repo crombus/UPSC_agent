@@ -2,7 +2,8 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment/Infrastructure) + Prelims.
 > **Core area:** India's energy-transition policy architecture.
-> **Grounded in:** Ministry of New and Renewable Energy (MNRE) policy framework; National Green Hydrogen Mission (approved January 2023); audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** MNRE Green Hydrogen Standard (18 August 2023) and National Green Hydrogen Mission; CEA/MNRE power-system data and planning; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Current-status evidence checked through:** 5 October 2026.
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/25_Renewable-Energy-and-Green-Hydrogen.md`.*
 
@@ -13,60 +14,62 @@
 ```text
 INDIA'S RENEWABLE-ENERGY-TO-GREEN-HYDROGEN PATHWAY
 
-SOLAR + WIND (+ hydro, other renewables) generation capacity
-        |
-        v
-RENEWABLE ELECTRICITY -> powers ELECTROLYSIS of water (splitting H2O into H2 and O2)
-        |
-        v
-GREEN HYDROGEN (H2 produced using renewable electricity, near-zero lifecycle emissions)
-        |
-        v
-USES: fertiliser (ammonia), steel, refining, shipping fuel, heavy transport,
-      energy storage -> decarbonising "HARD-TO-ABATE" SECTORS that direct
-      electrification cannot easily reach
+RENEWABLE ELECTRICITY -> ELECTROLYSIS of water --------\
+                                                        +-> measure well-to-gate emissions
+QUALIFYING BIOMASS -> conversion pathway --------------/   -> <= 2 kg CO2e/kg H2
+                                                             = GREEN under India's standard
+                                                                    |
+                                                                    v
+First use electricity directly where practical; test hydrogen for selected
+feedstock, reductant, high-temperature, difficult-transport and long-duration uses.
 ```
 
-**Core proposition:** Renewable electricity (solar, wind and others) is the foundational
-layer of India's energy transition; green hydrogen, produced by using that renewable
-electricity to split water via electrolysis, is the next-layer strategy specifically
-targeting hard-to-abate sectors (steel, fertiliser, heavy transport, shipping) that cannot be
-decarbonised through direct electrification alone.
+**Core proposition:** Renewable electricity is a foundational layer of India's energy
+transition. Hydrogen can complement direct electrification where an industrial molecule,
+reducing agent, difficult-to-electrify energy service or long-duration store is genuinely
+needed. Its eligibility as green is threshold-based and pathway-specific; it is not an
+automatic zero-emission label.
 
 ## 2. Essential definitions
 
 | Concept | Exam-ready meaning |
 |---|---|
-| ✅ **Renewable energy** | Energy from naturally replenishing sources — solar, wind, hydro, biomass, geothermal — as opposed to finite fossil fuels. |
+| ✅ **Renewable energy** | Energy from replenishing sources — solar, wind, hydro, sustainably managed biomass, geothermal and ocean energy — as opposed to finite fossil fuels. |
+| ✅ **Non-fossil energy** | A broader category that includes renewable energy and nuclear power. Nuclear is non-fossil but not renewable; nuclear technology and policy belong to the Science and Technology owner. |
 | ✅ **Grid parity** | The point at which renewable-electricity generation cost becomes equal to or lower than conventional (fossil-fuel-based) generation cost without subsidy. |
 | ✅ **Electrolysis** | The process of using electricity to split water (H₂O) into hydrogen (H₂) and oxygen (O₂). |
-| ✅ **Green hydrogen** | Hydrogen produced via electrolysis powered by renewable electricity, distinguished by its near-zero lifecycle greenhouse-gas emissions (contrasted with "grey hydrogen" from fossil fuels without capture, or "blue hydrogen" from fossil fuels with carbon capture). |
+| ✅ **Fuel cell** | An electrochemical device that consumes hydrogen or another fuel and an oxidant to produce electricity. In a hydrogen fuel cell, the functional direction is opposite to electrolysis: hydrogen and oxygen produce electricity, heat and water. |
+| ✅ **Green hydrogen under India's standard** | Hydrogen produced through an electrolysis-based or biomass-based pathway whose well-to-gate non-biogenic emissions do not exceed **2 kg CO₂e per kg H₂**, averaged over 12 months. Eligibility is measured; neither the colour label nor electrolysis alone proves zero emissions. |
 | ✅ **National Green Hydrogen Mission (approved January 2023)** | India's mission targeting 5 million metric tonnes per annum green-hydrogen production capacity by 2030, alongside associated renewable-capacity addition, investment and job-creation goals. |
 | ✅ **SIGHT Programme** | Strategic Interventions for Green Hydrogen Transition — the National Green Hydrogen Mission's financial-incentive scheme supporting electrolyser manufacturing and green-hydrogen production. |
 
 ## 3. Topic mechanism
 
-1. India's renewable-energy expansion (chiefly solar and wind, supported by MNRE policy and
-   incentive schemes) provides increasingly low-cost electricity, directly supporting the
-   Panchamrit's 500 GW non-fossil-capacity and 50% renewable-energy-share targets by 2030
-   (cross-refer Topic 20).
-2. Green hydrogen production requires this renewable electricity as an input to power
-   electrolysis, meaning green hydrogen's genuine climate benefit and cost-competitiveness
-   depend directly on the availability of cheap, abundant renewable electricity — the two
-   strategies are sequentially linked, not independent.
+1. India's renewable-energy expansion supports two distinct Panchamrit formulations:
+   **500 GW of non-fossil electric-power capacity by 2030** and **50% of energy requirements
+   from renewable energy by 2030**. These metrics are not interchangeable; detailed climate-
+   target ownership remains with Topic 20.
+2. India's standard covers both renewable-electricity electrolysis and qualifying biomass
+   conversion. Electrolysis-based hydrogen depends on low-emission electricity; biomass-based
+   hydrogen depends on feedstock integrity, land-use effects and process emissions. Both must
+   satisfy the same notified well-to-gate threshold.
 3. The National Green Hydrogen Mission (approved January 2023) targets 5 million metric
    tonnes per annum of green-hydrogen production capacity by 2030, alongside roughly 125 GW
-   of associated additional renewable-energy capacity, aiming to leverage over ₹8 lakh crore
-   in total investment and abate a significant volume of annual greenhouse-gas emissions.
-4. Green hydrogen is strategically targeted at "hard-to-abate" sectors — steel production
-   (as a reducing agent alternative to coking coal), fertiliser manufacturing (as an input
-   to ammonia synthesis), oil refining, and heavy/long-haul transport and shipping — where
-   direct electrification (e.g., battery-electric vehicles) is technically difficult or
-   currently infeasible at the required scale or duty cycle.
+   of associated additional renewable-energy capacity. Its investment, employment, import-
+   reduction and emissions figures are projected target-scale outcomes, not achievements.
+4. Use renewable electricity directly where practical because conversion to hydrogen,
+   storage, transport and reconversion add losses. Hydrogen is potentially valuable for
+   existing fertiliser/refinery feedstock, selected steel-reduction and high-temperature
+   processes, difficult transport derivatives and rare long-duration storage; it is not
+   automatically the efficient or lowest-emission option in every sector.
 5. The SIGHT Programme provides financial incentives for both electrolyser manufacturing
    (building domestic production capacity) and green-hydrogen production itself, reflecting
    a dual strategy of building domestic industrial capability alongside end-product
    incentives.
+6. Water and efficiency claims require boundaries. Roughly 9 litres per kg H₂ is the
+   stoichiometric water incorporated in electrolysis products; actual project withdrawal is
+   higher and site-specific. Efficiency changes with HHV/LHV convention, stack/system
+   boundary, operating load, auxiliaries, compression and use of process heat.
 
 ## 4. Institutions and policy tools
 
@@ -74,101 +77,96 @@ decarbonised through direct electrification alone.
   policy and the National Green Hydrogen Mission.
 - ✅ **Ministry of Power / Central Electricity Authority:** manage grid integration, storage
   and transmission planning for increasing renewable-capacity shares.
-- ✅ **Solar Energy Corporation of India (SECI):** implements solar-project auctions and
-  related renewable-energy programmes.
+- ✅ **Solar Energy Corporation of India (SECI):** implements specified competitive
+  procurement and programme functions assigned by MNRE; it does not own every renewable
+  policy or administratively determine every tariff.
 - ⚠️ Public-sector undertakings (e.g., in oil/gas, fertiliser and steel sectors) are key
   early adopters/pilot implementers of green-hydrogen use cases in India.
+- ✅ **Ownership boundary:** nuclear is included only to distinguish non-fossil from
+  renewable energy. Reactor technology, the nuclear fuel cycle, liability and nuclear-policy
+  detail belong to Science and Technology `basic/04`.
 
 ## 5. Indian applications and examples
 
 - ⚠️ Large-scale solar parks and offshore/onshore wind projects across states like
   Rajasthan, Gujarat and Tamil Nadu illustrate India's renewable-capacity-addition strategy
   underlying its Panchamrit targets.
-- ⚠️ Pilot green-hydrogen and green-ammonia projects (e.g., by public-sector fertiliser and
-  energy companies) illustrate early-stage implementation of the National Green Hydrogen
-  Mission's sectoral targets.
+- ⚠️ Green-hydrogen and green-ammonia tenders, allocations, contracts and pilots illustrate
+  early implementation, but none of those status verbs proves commissioned production or
+  delivered output.
 - ⚠️ Grid-integration challenges (managing solar/wind's intermittent generation profile)
   have driven increasing policy attention to battery-storage and pumped-hydro-storage
   capacity addition alongside generation-capacity growth.
 
 ## 6. Must-Know Facts for Prelims
 
-- ✅ Green hydrogen is produced via electrolysis powered by renewable electricity,
-  distinguishing it from grey hydrogen (fossil-fuel-based, no capture) and blue hydrogen
-  (fossil-fuel-based, with carbon capture).
+- ✅ India's Green Hydrogen Standard covers electrolysis-based and biomass-based production
+  that meets the **well-to-gate ceiling of 2 kg CO₂e/kg H₂**; electrolysis is not
+  automatically green.
+- ✅ Electrolysis consumes electricity to produce hydrogen and oxygen; a hydrogen fuel cell
+  consumes hydrogen and oxygen electrochemically to produce electricity, heat and water.
 - ✅ The National Green Hydrogen Mission, approved in January 2023, targets 5 million metric
   tonnes per annum of green-hydrogen production capacity by 2030.
 - ✅ The SIGHT Programme is the National Green Hydrogen Mission's key financial-incentive
   scheme for electrolyser manufacturing and green-hydrogen production.
-- ✅ Green hydrogen is strategically targeted at hard-to-abate sectors (steel, fertiliser,
-  refining, heavy transport, shipping) where direct electrification is technically
-  difficult.
-- ✅ India's renewable-energy expansion (solar, wind) is the foundational input enabling
-  cost-competitive green-hydrogen production.
-- ✅ **Non-fossil sources reached 51.93% of India's installed power capacity at end-December
-  2025**, surpassing the ~50%-by-2030 NDC target ahead of schedule; **38.61 GW** of renewable
-  capacity was added in 2025-26 up to 31 December 2025 — **30.16 GW solar, 4.47 GW wind,
-  3.24 GW hydro, 0.03 GW bio-power** (Economic Survey 2025-26, Ch. 10).
+- ✅ Hydrogen is a candidate for selected hard-to-abate uses, especially existing feedstock
+  demand and some reductant, high-temperature, shipping-derivative or long-duration roles;
+  direct electrification should be tested first.
+- ✅ Renewable electricity is the principal input for electrolysis-based green hydrogen;
+  biomass-based hydrogen has a different feedstock and conversion chain. Both remain subject
+  to the same emissions threshold.
+- ✅ Latest consolidated official capacity available by the 5 October 2026 cutoff was for
+  **31 August 2026**: **304.334 GW non-fossil capacity** out of **554.544 GW total
+  capacity**, or **54.88%**. This is installed capacity, not generation or firm supply.
 - ✅ Per **IRENA's Renewable Energy Statistics 2025**, India ranks **fourth globally** in
   total installed renewable capacity (after China, the USA and Brazil).
-- ✅ **Solar** grew roughly forty-five-fold, from about **3 GW in 2014 to 135.81 GW by
-  December 2025**; **PM Surya Ghar** had delivered **8 GW of rooftop capacity** by December
-  2025; **55 solar parks** with 39,973 MW sanctioned capacity were approved, of which
-  16,121 MW was installed.
-- ✅ **Wind** stood at **54.51 GW (December 2025)** — the **fourth-highest** installed wind
-  capacity in the world — with 4.74 GW added between April and December 2025, 30.04 GW under
-  implementation, and 83.35 billion units generated in 2024-25. Viability Gap Funding
-  supports **offshore** wind.
-- ✅ **Nuclear:** India's installed nuclear capacity is about **8,780 MW**; the **Nuclear
-  Energy Mission** (Union Budget 2025-26, ₹20,000 crore) targets **at least five indigenously
-  designed, operational Small Modular Reactors by 2033**, and the CEA roadmap projects
-  **100 GW of nuclear capacity by 2047** through 700 MWe indigenous PHWRs, imported reactors,
-  the **Bharat Small Modular Reactor (BSMR-200)** and **SMR-55**.
-- ✅ The **SHANTI Act (Sustainable Harnessing and Advancement of Nuclear Energy for
-  Transforming India), December 2025**, consolidates and modifies the **Atomic Energy Act,
-  1962** and the **Civil Liability for Nuclear Damage Act, 2010** to permit **private-sector
-  and state-government participation** in nuclear plant operation, generation, equipment
-  manufacturing and research, and establishes a **graded liability framework** without
-  diluting victim compensation.
-- ✅ **Storage:** the CEA projects a requirement of about **411 GWh of battery energy storage
-  by 2031-32**; the Advanced Chemistry Cell PLI covers **50 GWh**, of which **10 GWh** is
-  earmarked for grid-scale storage.
+- ✅ **Solar** capacity was **168.04 GW on 31 August 2026**, including 123.99 GW ground-
+  mounted, 32.59 GW grid-connected rooftop, 4.83 GW solar within hybrid projects and
+  6.63 GW off-grid capacity.
+- ✅ **Wind** capacity was **58.52 GW on 31 August 2026**. Announced, tendered, awarded,
+  under-construction and commissioned capacity must remain separate.
+- ✅ **Nuclear is non-fossil but not renewable.** Detailed nuclear targets, reactors,
+  institutions and liability belong to Science and Technology `basic/04`.
+- ✅ **Storage:** CEA planning cited by the Economic Survey estimates about **336 GWh of
+  total energy-storage requirement by 2029-30** and **411.4 GWh by 2031-32**. The latter
+  combines **175.18 GWh pumped storage** and **236.22 GWh battery storage**; it is not a
+  battery-only figure and does not prove that storage has been commissioned.
 
 ## 7. UPSC traps
 
-- ❌ Green hydrogen and grey hydrogen are the same product with different names. -> They are
-  produced through different processes (renewable-electricity electrolysis versus
-  fossil-fuel-based processes) with very different lifecycle emissions profiles.
-- ❌ Green hydrogen is primarily intended to replace passenger electric vehicles. -> Battery-
-  electric vehicles are generally more efficient for passenger transport; green hydrogen is
-  strategically targeted at hard-to-abate sectors like steel, fertiliser and heavy/long-haul
-  transport instead.
+- ❌ Green hydrogen and grey hydrogen are different molecules. -> The H₂ molecule is the
+  same; the labels describe production pathway and measured emissions.
+- ❌ Electrolytic hydrogen is automatically green. -> It must use a qualifying energy
+  pathway and meet India's well-to-gate emissions ceiling.
+- ❌ A fuel cell produces hydrogen in the same direction as electrolysis. -> A hydrogen
+  fuel cell consumes hydrogen and oxygen to produce electricity, heat and water.
+- ❌ Every hard-to-abate label proves hydrogen is the optimal solution. -> Compare direct
+  electrification, efficiency, lifecycle emissions, safety, infrastructure and opportunity
+  cost for each end use.
 - ❌ The National Green Hydrogen Mission targets 50 million metric tonnes per annum
   production by 2030. -> The target is 5 million metric tonnes per annum by 2030.
-- ❌ India's 51.93% non-fossil figure means more than half of India's electricity is
-  generated from non-fossil sources. -> It is **installed capacity share** at end-December
-  2025; generation share is materially lower because solar and wind have lower capacity
-  utilisation factors than thermal.
-- ❌ Nuclear power in India is closed to private participation. -> The **SHANTI Act
-  (December 2025)** consolidates the Atomic Energy Act, 1962 and the CLNDA, 2010 and permits
-  private-sector and state-government participation, with a graded liability framework.
+- ❌ India's 54.88% non-fossil figure means more than half of India's electricity is
+  generated from non-fossil sources. -> It is the **installed-capacity share on 31 August
+  2026**; it cannot be converted into a generation or firm-supply share.
+- ❌ Non-fossil and renewable are synonyms. -> Nuclear is non-fossil but not renewable;
+  renewables are a subset of non-fossil capacity.
 - ❌ Allocated green-hydrogen capacity means green hydrogen is being produced at that scale.
   -> **862,000 tonnes per year allocated to 18 companies** is contracted intent; commissioned
   production is a separate figure.
 - ❌ Renewable-energy expansion and green-hydrogen production are independent, unrelated
-  strategies. -> Green hydrogen's cost-competitiveness and climate benefit depend directly on
-  the availability of cheap renewable electricity as an input.
-- ❌ Blue hydrogen has zero lifecycle greenhouse-gas emissions like green hydrogen. -> Blue
-  hydrogen (fossil-fuel-based with carbon capture) still involves some emissions, depending
-  on capture-rate efficiency, and is not equivalent to green hydrogen's near-zero profile.
+  strategies. -> Electrolysis-based hydrogen depends directly on qualifying renewable
+  electricity; biomass-based hydrogen has a separate feedstock chain. Both remain linked to
+  lifecycle integrity and measured emissions.
+- ❌ Blue hydrogen or green hydrogen is automatically zero-emission. -> Blue hydrogen
+  retains methane, capture and storage risks; green eligibility is a measured threshold,
+  not a zero-emission guarantee.
 
 ## 8. 📰 Current anchor
 
 - 📰 The National Green Hydrogen Mission (approved January 2023) targets 5 MMT per annum
   green-hydrogen production capacity by 2030, ~125 GW additional renewable capacity, over
-  ₹8 lakh crore in investment leverage, and significant annual greenhouse-gas abatement and
-  job-creation goals, with a total financial outlay of approximately ₹19,744 crore up to
-  2029-30.
+  ₹8 lakh crore in projected investment, and projected annual greenhouse-gas-abatement and
+  job outcomes at target scale, with an initial public outlay of ₹19,744 crore.
 - 📰 **NGHM progress as reported in Economic Survey 2025-26 (Ch. 10):** production capacity
   of **862,000 tonnes of green hydrogen per year has been allocated to 18 companies**, and
   **15 firms have been awarded 3,000 MW of annual electrolyser manufacturing capacity**.
@@ -176,38 +174,34 @@ decarbonised through direct electrification alone.
   V.O. Chidambaranar Port Authority (Tamil Nadu) and Paradip Port Authority (Odisha)**.
   ⚠️ Read these precisely: *allocated* and *awarded* capacity is contracted intent, **not**
   commissioned production.
-- 📰 **Non-fossil capacity milestone: 51.93% of installed power capacity at end-December
-  2025**, with 38.61 GW of renewable capacity added in 2025-26 up to 31 December 2025;
-  India ranks **fourth globally** in installed renewable capacity per IRENA's *Renewable
-  Energy Statistics 2025* (Economic Survey 2025-26, Ch. 10).
-- 📰 **Bio-energy (as of October 2025):** biomass power and cogeneration at about **9.82 GW
-  grid-connected** plus 0.935 GWeq off-grid; waste-to-energy at **309.34 MW grid-connected**
-  plus 546.28 MWeq off-grid; **51.21 lakh small biogas plants** and 361 medium-sized biogas
-  plants (aggregate 11.5 MW) installed.
-- 📰 **Nuclear:** the **SHANTI Act, December 2025** opens nuclear generation and manufacturing
-  to private and state participation; the **Nuclear Energy Mission** targets at least five
-  indigenous SMRs by 2033 and the CEA roadmap projects **100 GW nuclear by 2047** from a base
-  of about **8,780 MW** (Economic Survey 2025-26, Ch. 10, Box X.2).
+- 📰 A separate PIB update reported only about **8,000 tonnes per annum of commissioned
+  green-hydrogen production capacity through February 2026**. Allocation, commissioning,
+  certified production and delivered output are different statuses.
+- 📰 **Non-fossil capacity milestone:** 304.334 GW, or **54.88% of installed power
+  capacity**, on 31 August 2026. September 2026 consolidated capacity data had not been
+  published by the 5 October cutoff.
+- 📰 **Bio-energy, 31 August 2026:** bagasse cogeneration **9,821.32 MW**; non-bagasse
+  cogeneration **1,047.85 MW**; grid-connected waste-to-energy **324.24 MW**; off-grid
+  waste-to-energy **554.16 MWeq**. These are capacity figures, not generation.
 - 📰 **The Survey's own list of remaining constraints:** high capital costs, land-acquisition
   delays, grid availability, the **material intensity** of solar and wind, **critical-mineral**
   access, and capital-intensive storage requirements — plus grid-stability risk under high
   variable-renewable output, which the Survey illustrates with international grid incidents.
 
-⚠️ **Interpretation caution:** green-hydrogen production costs and electrolyser-capacity
-figures are rapidly evolving with technology development — cite the specific source and date
-for any cost or capacity claim. Keep four statuses strictly apart: **target announced**,
-**capacity allocated/awarded**, **capacity commissioned**, and **output produced**. Most
-weak answers on this topic quote an allocation figure as though it were production.
+⚠️ **Interpretation caution:** green-hydrogen cost, efficiency, water and capacity figures
+change with technology and system boundary. Cite the source, date, unit, HHV/LHV or
+stack/system convention where relevant. Keep **target**, **tender**, **allocation/award**,
+**commissioning**, **certified production** and **delivered output** strictly apart.
 
 ## 9. PYQ application
 
 - ✅ **2025 GS-III direct PYQ (150 words):** “How can India achieve energy independence
   through clean technology by 2047? How can biotechnology play a crucial role in this
-  endeavour?” ⚠️ Two distinct demands. The **clean-technology** half is owned by this file
-  (renewables, storage, nuclear/SHANTI Act, green hydrogen, grid and critical minerals); the
-  **biotechnology** half needs bio-energy specifics — the National Bio-Energy Programme,
-  compressed bio-gas, ethanol blending, enzymatic/algal routes to biofuels, and biomass
-  cogeneration (9.82 GW grid-connected as of October 2025).
+  endeavour?” ⚠️ Two distinct demands. This owner supplies renewables, storage, green
+  hydrogen, grid and critical-mineral linkages. Nuclear detail belongs to Science and
+  Technology `basic/04`; biotechnology mechanisms belong to Science and Technology
+  `basic/13`. The MNRE National Bioenergy Programme Phase I ran from 2021-22 to 31 March
+  2026; do not imply a post-March continuation without a fresh official notification.
 - ✅ **2025 GS-III cross-route (150 words):** the ITER/fusion question is a Science-and-
   Technology demand, but this file supplies the correct framing for why fusion sits **outside**
   the 2030-2047 energy-transition arithmetic — it is a post-2050 option, not a Panchamrit
@@ -225,13 +219,17 @@ weak answers on this topic quote an allocation figure as though it were producti
   and that indiscriminately promoting it for applications better served by direct
   electrification (e.g., passenger vehicles) would be an inefficient use of renewable
   electricity.
-- ⚠️ Use the renewable-electricity-as-input dependency to argue that green-hydrogen success
-  is structurally tied to continued renewable-capacity and grid-storage expansion.
-- ⚠️ Conclude with a sequenced-strategy thesis: renewable-electricity expansion first,
-  enabling cost-competitive green hydrogen for hard-to-abate sectors second, together forming
-  India's core energy-transition and industrial-decarbonisation pathway.
+- ⚠️ For the dominant electrolysis route, connect hydrogen viability to additional qualifying
+  renewable electricity, grid/storage readiness and electrolyser utilisation; analyse
+  biomass-based production through its separate feedstock and lifecycle boundary.
+- ⚠️ Conclude with an end-use hierarchy: efficiency and direct electrification first where
+  practical, followed by certified hydrogen for selected molecular, reductant, derivative-
+  fuel and long-duration applications.
 
-> **Answer thesis:** Treat renewable-energy expansion and green-hydrogen development as sequentially linked, not independent strategies, and evaluate green hydrogen's role specifically by its fit for hard-to-abate sectors rather than as a universal decarbonisation solution.
+> **Answer thesis:** Treat renewable-energy expansion and green-hydrogen development as
+> strongly coupled for electrolysis but not identical across every production route. Evaluate
+> hydrogen by measured lifecycle emissions and end-use fit, not as a universal substitute for
+> direct electrification.
 
 ## 11. Probable questions
 
@@ -253,6 +251,10 @@ weak answers on this topic quote an allocation figure as though it were producti
   Critically Endangered species habitat (e.g., Great Indian Bustard).
 - ✅ `../../Economy/basic/31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`
   — tariffs, grids, DISCOMs, fuel security, investment and transition economics.
+- ✅ `../../Science-and-Technology/basic/04_Nuclear-Power-and-Three-Stage-Programme.md`
+  — nuclear technology, institutions, liability and fuel-cycle ownership.
+- ✅ `../../Science-and-Technology/basic/13_Biotechnology-Fundamentals-and-DBT-Missions.md`
+  — microbial, enzymatic, algal and biomanufacturing mechanisms.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -314,9 +316,9 @@ weak answers on this topic quote an allocation figure as though it were producti
 
 | Lever | Claim → named evidence/example → significance | Trade-off/qualification |
 |---|---|---|
-| Clean electricity and reliability | **Solar/wind plus transmission, demand response, battery/pumped storage and firm low-carbon capacity** → turns installed capacity into dependable supply; Economic Survey 2025-26 records 51.93% non-fossil *installed* capacity at end-December 2025. | Installed capacity is not generation/reliability; storage, minerals, land and grid constraints remain. |
+| Clean electricity and reliability | **Solar/wind plus transmission, demand response, battery/pumped storage and other firming resources** → turns installed capacity into dependable supply; official data record 54.88% non-fossil *installed* capacity on 31 August 2026. | Installed capacity is not generation/reliability; storage, minerals, land and grid constraints remain. Nuclear is only a non-fossil boundary here; its detail belongs to Science and Technology. |
 | Industrial decarbonisation | **National Green Hydrogen Mission/SIGHT** → renewable hydrogen can target fertiliser, refining and selected steel/shipping uses. | Allocated electrolyser/hydrogen capacity is not commissioned production; direct electrification is often preferable where feasible. |
-| Biotechnology and bioenergy | **National Bio-energy Programme**: biomass, biogas and waste-to-energy; microbial/enzymatic conversion can turn non-food residues into advanced biofuels, and anaerobic digestion can produce biogas/CBG from organic waste. | Feedstock collection, land/food competition, methane leakage, local air pollution and lifecycle accounting determine whether a route is genuinely clean. |
+| Biotechnology and bioenergy | **MNRE National Bioenergy Programme Phase I (2021-22 to 31 March 2026)** supported biomass, biogas and waste-to-energy; MoPNG owns the National Policy on Biofuels, while Science and Technology `basic/13` owns microbial/enzymatic mechanisms. | Programme period, policy owner and production pathway must not be conflated; feedstock, methane leakage, pollution and lifecycle accounting determine whether a route is genuinely clean. |
 | Bio-based innovation | **DBT/BIRAC BioE3** supports high-performance biomanufacturing, bio-based chemicals/enzymes and carbon-capture/utilisation research. | BioE3 approval/proposals are enabling inputs, not proof of commercial energy output. |
 
 **150-word spine:** define energy independence → clean-technology system (generation–grid–storage–efficiency) → biotechnology/bioenergy routes → constraints and a diversified-supply verdict. Use Science-and-Technology `basic/13` for deeper biotech mechanisms; this Core section independently supplies the energy linkage.
