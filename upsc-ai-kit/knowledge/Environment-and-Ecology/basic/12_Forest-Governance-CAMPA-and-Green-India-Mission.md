@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Compensatory afforestation and national forest-restoration policy.
-> **Grounded in:** Compensatory Afforestation Fund Act, 2016 (India Code); National Mission for a Green India (under NAPCC); MoEFCC/FSI reporting; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Compensatory Afforestation Fund Act, 2016 (India Code); original and revised National Mission for a Green India documents, including the 2021-2030 framework available on the official NAPCC portal in September 2026; MoEFCC/FSI reporting; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.*
 
@@ -27,9 +27,13 @@ FUNDS FLOW TO: CAMPA (Compensatory Afforestation Fund Management and Planning Au
                              management, infrastructure)
 
 SEPARATELY: GREEN INDIA MISSION (GIM) - one of NAPCC's original 8 missions
-  (NAPCC is now described by Government as 9 missions, with health added) - targets
-  forest/tree-cover QUALITY improvement and ecosystem-service enhancement, not only
-  quantity-replacement for diverted forest land.
+  |
+  +-- ORIGINAL FRAMEWORK:
+  |     5 mha additional forest/tree cover + quality improvement over another 5 mha
+  |
+  +-- REVISED 2021-2030 FRAMEWORK:
+        micro-ecosystem restoration + 3 sub-missions + 24 mha through convergence
+        + 1 mha specifically financed under GIM + GIS/community/third-party monitoring
 ```
 
 **Core proposition:** CAMPA is a compensatory financial mechanism specifically tied to
@@ -47,7 +51,7 @@ instruments with different triggers and objectives.
 | ✅ **CAMPA** | Compensatory Afforestation Fund Management and Planning Authority — manages funds collected for compensatory afforestation and related forest/wildlife activities. |
 | ✅ **Compensatory Afforestation Fund Act, 2016** | Law establishing the National and State Compensatory Afforestation Funds (CAF) and their governance/utilisation framework. |
 | ✅ **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** | The **renamed** Forest (Conservation) Act, 1980 — the Forest (Conservation) Amendment Act, 2023 changed its title and restructured its scope. This is the statute whose prior approval is required before forest land is diverted to non-forest use, and it is therefore the *trigger* for CAMPA payments. |
-| ✅ **Green India Mission (GIM)** | One of the National Action Plan on Climate Change (NAPCC) missions, focused on protecting, restoring and enhancing India's forest cover and ecosystem services. ⚠️ NAPCC was launched with **eight** missions; the Economic Survey 2025-26 (Ch. 10) now describes NAPCC as operating through **nine** missions, the ninth being on **health** (the National Programme on Climate Change and Human Health). State both if a question asks for the count. |
+| ✅ **Green India Mission (GIM)** | One of the original NAPCC missions, focused on protecting, restoring and enhancing forest/tree cover, ecosystem services and forest-dependent livelihoods. The original framework and the revised 2021-2030 mission document have different quantitative and implementation architectures; neither should be treated as an achievement statement. |
 | ✅ **National Afforestation Programme (NAP)** | A distinct, older centrally sponsored afforestation scheme for degraded forest land, involving Joint Forest Management Committees. |
 | ✅ **Green Credit Programme** | A market-style instrument notified under the Environment (Protection) Act (Green Credit Rules, 2023) under which entities earn tradable green credits for voluntary environmental actions, most prominently tree plantation on degraded forest land. Economic Survey 2025-26 refers to the combined **"Afforestation and Green Credit Programme"** as the vehicle for incentivising public and private participation in compensatory afforestation and degraded-forest restoration. ⚠️ Distinguish it sharply from a **carbon** credit (Topic 21): a green credit is not denominated in tCO₂e. |
 
@@ -80,11 +84,27 @@ instruments with different triggers and objectives.
    authority managing planning, fund release and monitoring of how these funds are utilised
    by states for compensatory afforestation, forest regeneration, wildlife management, and
    forest infrastructure.
-6. The Green India Mission, in contrast, is a broader climate-policy mission (part of NAPCC)
-   aiming to increase forest/tree cover quality and area on a defined target timeline, using
-   multiple funding streams (not only CAMPA funds) and emphasising ecosystem-service value
-   (carbon sequestration, biodiversity, water regulation) alongside simple area coverage.
-7. Both mechanisms interact with, but are legally distinct from, the National Afforestation
+6. The **original GIM framework** sought 5 million hectares of additional forest/tree cover,
+   quality improvement over another 5 million hectares, enhanced ecosystem services over the
+   combined 10 million hectares, additional annual sequestration of 50-60 million tonnes in
+   2020, and improved forest-based livelihood income for about 3 million households. These
+   are historical mission objectives, not verified national achievement figures.
+7. The **revised 2021-2030 mission document** reorganises GIM around a micro-ecosystem,
+   landscape-saturation approach and three sub-missions:
+   (i) enhanced quality of forest cover and ecosystem services;
+   (ii) increased forest/tree cover and ecosystem restoration; and
+   (iii) enhanced household incomes and diversified livelihoods for forest-dependent
+   communities.
+8. Its quantitative architecture separates **24 million hectares of afforestation/tree
+   plantation through convergence** with Central/State schemes and CAMPA (12 million hectares
+   in 2021-25 and another 12 million hectares in 2025-30) from **1 million hectares of
+   intervention specifically financed under GIM**. The revised document does not claim that
+   either target has already been achieved.
+9. The revised framework uses State Afforestation Perspective Plans, JFMC/Gram Sabha
+   participation, GIS/remote-sensing and web-MIS monitoring, social audit, third-party
+   monitoring and convergence across public, community and appropriate private actors. It
+   fixes no universal model-wise target, preserving State and landscape flexibility.
+10. Both mechanisms interact with, but are legally distinct from, the National Afforestation
    Programme, the Green Credit Programme and various state-specific afforestation schemes,
    creating a layered (and sometimes overlapping) forest-restoration funding landscape in
    India.
@@ -97,6 +117,10 @@ instruments with different triggers and objectives.
   triggers CAMPA payments, and oversees Green India Mission implementation.
 - ✅ **State Forest Departments:** primary on-ground implementing agencies for both CAMPA-
   funded afforestation and Green India Mission activities.
+- ✅ **State Forest Development Agencies (SFDAs):** nodal State-level bodies for preparing
+  State Afforestation Perspective Plans and approving/overseeing GIM implementation plans.
+- ✅ **JFMCs/Gram Sabhas and municipalities:** support bottom-up landscape selection,
+  implementation, benefit-sharing and social audit under the revised mission.
 - ✅ **Forest Survey of India (FSI):** monitors forest-cover change that indirectly reflects
   the combined outcome of these programmes.
 
@@ -105,9 +129,9 @@ instruments with different triggers and objectives.
 - ⚠️ Large infrastructure and mining projects requiring forest-land diversion (e.g., in
   central Indian mineral-rich forest states) are the primary source of CAMPA fund inflows,
   linking industrial/infrastructure growth directly to afforestation-funding availability.
-- ⚠️ Green India Mission implementation has focused on landscape-level restoration
-  (including agroforestry, wetland and grassland ecosystem components), reflecting its
-  broader ecosystem-service mandate beyond simple tree planting.
+- ⚠️ The revised GIM expressly includes restoration of degraded/open forests and vulnerable
+  micro-ecosystems, mangroves, Himalayan and arid landscapes, wetlands, abandoned mining
+  areas, urban/peri-urban spaces, agroforestry and social forestry.
 - ⚠️ Community involvement (e.g., through Joint Forest Management Committees historically
   associated with the National Afforestation Programme, and increasingly Community Forest
   Resource rights-holders under the FRA) is an important implementation channel for both
@@ -137,6 +161,15 @@ instruments with different triggers and objectives.
   unavailable.
 - ✅ The Green India Mission's mandate covers forest-cover quality, ecosystem-service
   enhancement and biodiversity — broader than a simple area-replacement objective.
+- ✅ Original GIM objectives of 5 million hectares of additional cover plus quality
+  improvement over another 5 million hectares must be distinguished from the revised
+  2021-2030 architecture.
+- ✅ The revised framework envisages 24 million hectares through convergence, while its
+  dedicated financial outlay covers 1 million hectares of direct GIM intervention; these
+  are targets and programme boundaries, not achieved-area claims.
+- ✅ The revised mission has three sub-missions and a five-level monitoring architecture
+  using community monitoring, GIS/remote sensing, web-MIS, social audit and third-party
+  review.
 
 ## 7. UPSC traps
 
@@ -151,6 +184,13 @@ instruments with different triggers and objectives.
 - ❌ The Green India Mission is one of India's international UNFCCC-mandated obligations
   specifically named in the Paris Agreement text. -> It is a domestic NAPCC mission that
   contributes to, but was not created by, India's international climate commitments.
+- ❌ The original 5+5 million-hectare framework and the revised 24-million-hectare convergence
+  architecture are two independently achieved totals that can be added together. -> They are
+  successive planning frameworks with different boundaries; do not add them or report either
+  as achieved without dated implementation evidence.
+- ❌ The revised mission directly finances all 24 million hectares. -> The document separates
+  24 million hectares through convergence from 1 million hectares specifically financed under
+  GIM.
 - ❌ The National Afforestation Programme and CAMPA are identical schemes. -> They are
   distinct funding/implementation mechanisms, though both fund afforestation activity.
 - ❌ The Forest (Conservation) Act, 1980 has been repealed. -> It was **renamed** the Van
@@ -168,6 +208,10 @@ instruments with different triggers and objectives.
   payments) has been reported at a large and growing figure by MoEFCC/CAG-linked reporting
   in recent years; verify the latest cumulative CAF corpus figure and its reporting date
   against the most recent MoEFCC/CAG report before citing a specific number in an answer.
+- 📰 The official revised GIM mission document available on the NAPCC portal in September
+  2026 sets a 2021-2030 framework based on micro-ecosystems, three sub-missions, 24 million
+  hectares through convergence and 1 million hectares of directly financed intervention.
+  Treat these as programme architecture, not proof of completion.
 
 ⚠️ **Interpretation caution:** CAMPA fund utilisation rates (how much of the accrued corpus
 has actually been spent on the ground versus remaining unspent) have been a recurring
@@ -190,6 +234,9 @@ utilisation performance.
 - ⚠️ Use the Green India Mission's ecosystem-service framing to argue for integrating
   afforestation policy with climate-mitigation (carbon sequestration) and livelihood
   (agroforestry, non-timber forest produce) objectives simultaneously.
+- ⚠️ Use the revised mission to distinguish landscape-scale convergence from the narrower
+  directly financed GIM intervention and to demand source-dated survival, ecosystem-service,
+  livelihood and carbon-stock outcomes.
 - ⚠️ Conclude with an outcome-monitoring thesis: fund availability (CAMPA corpus) is not
   itself evidence of successful forest restoration without independent ecological outcome
   verification.
@@ -214,6 +261,15 @@ utilisation performance.
   afforestation implementation.
 - ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — the Green India Mission's full
   NAPCC policy context.
+
+## Persistent official source control
+
+- Revised National Mission for a Green India, original-objective history and revised
+  architecture at PDF pp. 8-10; carbon-sink/area scenarios at pp. 13-14; monitoring at
+  pp. 41-43; timeframe, targets and costs at pp. 46-48:
+  https://napccindia.moef.gov.in/uploads/2026/09/1789207182206-03-green-india-revised-mission.pdf
+- Official NAPCC Green India Mission page:
+  https://napccindia.moef.gov.in/napcc/mission/nmgi
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -249,6 +305,7 @@ utilisation performance.
 | The instrument is legally triggered, not a general greening programme. | **Van (Sanrakshan Evam Samvardhan) Adhiniyam/forest-diversion approval + NPV and compensatory-afforestation payments** → explains CAMPA’s source of funds. | The 2023 statutory scope and the February 2024 interim *Godavarman* direction must be read together; do not state either as the whole law. |
 | Offset accounting has an ecological limit. | **Mature forest diversion versus new compensatory plantation** → succession, soil, species composition and location make like-for-like replacement difficult. | This critiques equivalence, not the need for restoration finance. |
 | Metrics measure different things. | **CAF accrual, green-credit action and ISFR canopy** → money, registered action and detected cover are separate outputs. | None independently proves ecological restoration achieved. |
+| Revised GIM has nested programme boundaries. | **24 million hectares through convergence versus 1 million hectares specifically financed under GIM (2021-2030)** → distinguishes whole-of-government convergence from the dedicated mission outlay. | These are targets, not a verified achievement claim; do not add them to the legacy 5+5 million-hectare framework. |
 
 ### 13.3 Mark-scaled spines
 
@@ -289,40 +346,3 @@ ecological outcome without the relevant verified project monitoring period.
 
 > The table integrates the examinable demand and paper metadata. It does not turn an unkeyed objective question into a solved answer, and it does not claim that lexical presence alone proves full conceptual sufficiency.
 <!-- END GENERATED PYQ INTEGRATION: 2018-2023 -->
-
-### Semantic-completeness ownership and PYQ control
-
-- **Official syllabus/index and owned core:** social change concerns alteration
-  in institutions, relations, norms, roles and identities; modernisation is one
-  structural process within it. Sanskritisation, Westernisation,
-  secularisation, democratisation, education, migration, technology, law,
-  markets and movements operate at different levels and speeds.
-- **Indispensable sociology:** M.N. Srinivas's Sanskritisation and
-  Westernisation, Yogendra Singh's modernisation of Indian tradition,
-  structural-functional and conflict explanations, Redfield's Great/Little
-  Tradition and Marriott's universalisation/parochialisation are bounded lenses,
-  not a unilinear tradition-to-modernity ladder.
-- **Conceptual distinctions:** modernisation is not westernisation;
-  Sanskritisation can change status claims without abolishing hierarchy;
-  secularisation as institutional differentiation is not constitutional
-  secularism or necessary decline of belief; mobility is not structural
-  transformation; enactment is not normative or behavioural change.
-- **Mechanism, continuity and intersectionality:** education, urban work,
-  communications, law and movements redistribute resources and expectations,
-  but kinship, ritual, language and local institutions adapt and reproduce
-  continuity. Effects differ by caste, class, gender, tribe, religion, region,
-  generation and rural-urban location; resistance and unintended effects are
-  part of change, not evidence of social stasis.
-- **Data/source control:** NEP 2020 remains an official policy context for
-  education and institutional change, but policy text proves neither equal
-  access nor social mobility. No cryptocurrency price/legal status, village
-  prevalence, adoption rate or causal outcome is asserted from a technology
-  label.
-- **Four-ledger hostile audit:** literal syllabus, prerequisites, textbook
-  taxonomy and PYQs were checked for theories, levels, chronology, continuity,
-  feedback, regional pathways, anti-teleology controls and evidence limits.
-- **Verified PYQ ownership, 2018-2026:** direct routes cover customs and
-  obscurantism in 2020, traditional-value continuity in 2021 and fast-food
-  growth amid health concern in 2025; the 2021 cryptocurrency demand is
-  cross-owned with Economy/Science and Technology. No unavailable 2026 demand
-  or unsupported modernization indicator is invented.

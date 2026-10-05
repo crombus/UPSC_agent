@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Advanced | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Compensatory afforestation and national forest-restoration policy.
-> **Grounded in:** Compensatory Afforestation Fund Act, 2016 and Rules, 2018 (India Code); CAG/parliamentary committee reports on CAF utilisation; Green India Mission operational guidelines; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Compensatory Afforestation Fund Act, 2016 and Rules, 2018 (India Code); CAG/parliamentary committee reports on CAF utilisation; original and revised Green India Mission documents, including the 2021-2030 framework available on the official NAPCC portal in September 2026; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = inference/analysis | 📰 = dated current-affairs anchor.
 > *Companion: `basic/12_Forest-Governance-CAMPA-and-Green-India-Mission.md`.*
 
@@ -34,21 +34,32 @@ principle, slow fund utilisation further delays any restoration benefit.
 
 ## 3. Green India Mission: scope, targets and implementation reality
 
-1. ✅ The Green India Mission (GIM), one of NAPCC's eight missions, is explicitly designed
-   around ecosystem-service enhancement — carbon sequestration, biodiversity, water
-   regulation, and livelihood support through agroforestry and non-timber forest produce —
-   rather than a narrow area-of-tree-cover target alone.
-2. ⚠️ **Implementation reality:** GIM's cross-cutting mandate (spanning forest quality,
-   agroforestry, wetlands, grasslands and urban green spaces) has meant its funding and
-   institutional ownership are more diffused across multiple schemes and departments
-   compared to CAMPA's single, dedicated statutory fund — making GIM's aggregate progress
-   harder to track through one unified national metric than CAMPA's more narrowly defined
-   spend/output figures.
-3. ⚠️ **Analytical synthesis:** GIM and CAMPA can, in principle, be mutually reinforcing —
+1. ✅ The **original GIM framework** combined 5 million hectares of additional forest/tree
+   cover, quality improvement over another 5 million hectares, ecosystem-service enhancement,
+   a historical 2020 annual-sequestration objective and livelihood-income improvement for
+   about 3 million households. These were mission objectives, not nationally verified
+   achievement statements.
+2. ✅ The **revised 2021-2030 mission document** uses a micro-ecosystem and vulnerable-
+   landscape approach with three sub-missions: forest-quality/ecosystem services;
+   forest/tree-cover increase and ecosystem restoration; and household-income/livelihood
+   diversification.
+3. ✅ Its quantitative design separates **24 million hectares through convergence**
+   (12 million hectares in 2021-25 and another 12 million hectares in 2025-30) from
+   **1 million hectares specifically financed under GIM**. The official document also states
+   that no universal model-wise targets are fixed, allowing State and landscape flexibility.
+4. ⚠️ **Implementation reality:** GIM's cross-cutting mandate and convergence architecture
+   span forest quality, agroforestry, wetlands, degraded mining land, vulnerable landscapes,
+   urban greening and livelihood institutions. This breadth makes aggregate achievement
+   harder to infer from a single expenditure or plantation number.
+5. ⚠️ **Analytical synthesis:** GIM and CAMPA can, in principle, be mutually reinforcing —
    CAMPA-funded compensatory afforestation could be designed to meet GIM's ecosystem-
    service and native-species-quality standards rather than being reported as a separate,
    purely quantity-based accounting exercise — but this integration is not automatic and
    depends on deliberate convergence in state-level implementation planning.
+6. ✅ The revised monitoring design combines JFMC/Gram Sabha social audit, State Forest
+   Development Agency planning, GIS and remote sensing, a web-based MIS, third-party
+   monitoring and selected long-term ecosystem-service monitoring. This is an accountability
+   architecture; it is not evidence that every intervention has already delivered outcomes.
 
 ## 3A. The 2023 amendment and the 2024 judicial correction: a two-step legal shift
 
@@ -94,6 +105,10 @@ tied to the record-compilation process).
   across implementing state agencies and multiple central schemes, making a single, precise
   national "GIM achievement" figure difficult to state with confidence without citing a
   specific MoEFCC progress report and its date.
+- ⚠️ The revised document's 24-million-hectare convergence target and 1-million-hectare
+  directly financed intervention have different programme boundaries. Neither should be
+  added to the legacy 5+5 million-hectare framework or reported as achieved without a
+  source-dated progress statement.
 
 ## 6. Recurring UPSC analytical tensions
 
@@ -110,6 +125,10 @@ tied to the record-compilation process).
   persistent implementation concern.
 - ✅ The Green India Mission's mandate spans forest quality, agroforestry, wetlands,
   grasslands and urban green spaces — broader than a single "tree-planting area" target.
+- ✅ The revised mission's three sub-missions and micro-ecosystem approach replace a
+  legacy-only reading of GIM while preserving ecosystem services and livelihoods.
+- ✅ The 24-million-hectare convergence target is distinct from the 1-million-hectare
+  intervention financed specifically through the revised GIM outlay.
 - ✅ Independent assessments have flagged concerns about non-native/monoculture species use
   and inconsistent survival-rate verification in some compensatory-afforestation sites.
 - ✅ CAMPA and GIM are governed by different institutional architectures (a single dedicated
@@ -127,6 +146,11 @@ tied to the record-compilation process).
 - ❌ The Green India Mission has a single, unified national tracking metric analogous to
   CAMPA's fund-accrual figure. -> GIM's progress reporting is more diffused across multiple
   schemes/departments, making a single aggregate metric harder to state precisely.
+- ❌ The revised 24-million-hectare figure is an achieved GIM plantation total. -> It is a
+  2021-2030 convergence target; direct GIM financing is specified for 1 million hectares.
+- ❌ The revised mission simply adds 24 million hectares to the legacy 5+5 million-hectare
+  objectives. -> They are successive frameworks with different definitions and financing
+  boundaries, not additive achievement totals.
 - ❌ Compensatory-afforestation land is always genuinely unencumbered, rights-free land. ->
   Some documented cases show overlap with existing community-use or FRA-claim areas,
   creating land-use conflict.
@@ -138,6 +162,7 @@ tied to the record-compilation process).
 | 📰 CAG/parliamentary standing committee reviews of CAMPA fund utilisation (verify the latest report and its specific figures/date before citing). | Use to evidence the fund-utilisation-gap critique analytically, rather than citing a specific corpus figure without its report date. |
 | 📰 **Forest (Conservation) Amendment Act, 2023** (renaming and scope redefinition) read with the **Supreme Court's February 2024 interim direction** preserving the *Godavarman* definition pending State expert-committee records. | The current legal baseline for any question on forest diversion, CAMPA triggers or "what counts as forest". Always present the two together — quoting only the amendment overstates the narrowing; quoting only the judgment understates the statutory change. |
 | 📰 Economic Survey 2025-26 (Ch. 10): ecosystem-based approaches and restoration are being incentivised through the **Afforestation and Green Credit Programme**, encouraging public and private participation in compensatory afforestation and degraded-forest restoration. | The newest layer on the CAMPA stack — and the sharpest current version of the quantity-versus-quality critique, because a credit earned per unit of plantation is, by construction, an *input* metric. |
+| 📰 **Revised GIM 2021-2030 mission document**, available on the official NAPCC portal in September 2026: micro-ecosystem approach, three sub-missions, 24 million hectares through convergence, 1 million hectares specifically financed under GIM, and multi-level monitoring. | Use the nested boundaries precisely and demand dated survival, ecological-function, livelihood and carbon-stock evidence before claiming achievement. |
 
 ⚠️ **Announced vs achieved:** CAMPA corpus figures measure **money accrued**, green credits
 measure **actions registered**, and ISFR measures **canopy detected**. None of the three
@@ -167,8 +192,9 @@ and native-species standards, with independent, long-term ecological monitoring.
    to succession theory (Topic 03).
 3. Cite the documented fund-utilisation gap from CAG/parliamentary review as a distinct,
    compounding implementation problem.
-4. Explain the Green India Mission's broader ecosystem-service mandate and its more diffused
-   institutional/reporting architecture compared to CAMPA.
+4. Explain the revised GIM's micro-ecosystem/three-sub-mission architecture and distinguish
+   its 24-million-hectare convergence target from its 1-million-hectare directly financed
+   intervention.
 5. Conclude with a recommendation to integrate CAMPA spending with GIM's ecological-quality
    standards and independent, long-term outcome monitoring.
 
@@ -191,3 +217,10 @@ and native-species standards, with independent, long-term ecological monitoring.
   compensatory-afforestation site selection.
 - ✅ `20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` — Green India Mission's place
   within India's full climate-policy architecture.
+
+## 14. Persistent official source control
+
+- Revised National Mission for a Green India, PDF pp. 8-10, 13-14, 41-48:
+  https://napccindia.moef.gov.in/uploads/2026/09/1789207182206-03-green-india-revised-mission.pdf
+- Official NAPCC Green India Mission page:
+  https://napccindia.moef.gov.in/napcc/mission/nmgi

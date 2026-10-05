@@ -2,7 +2,7 @@
 
 > **Subject:** Environment and Ecology | **Tier:** Must-Do (foundation) | **GS Paper:** GS-III (Environment) + Prelims.
 > **Core area:** Market-based and technological mitigation instruments.
-> **Grounded in:** Energy Conservation (Amendment) Act, 2022 (India Code) — Indian Carbon Market framework; Paris Agreement Article 6; IPCC AR6 Working Group III (mitigation) findings; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
+> **Grounded in:** Energy Conservation (Amendment) Act, 2022; Carbon Credit Trading Scheme, 2023 and amendment; CERC Carbon Credit Certificate trading regulations, 2026; Paris Agreement Article 6; IPCC AR6 Working Group III findings; audited UPSC Environment PYQs (2024-2026 Prelims and 2024-2025 Mains).
 > ✅ = source-grounded | ⚠️ = analytical linkage | 📰 = dated current-affairs anchor.
 > *Companion: `advanced/21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`.*
 
@@ -38,8 +38,8 @@ Working Group III, not competing or interchangeable approaches.
 | ✅ **CCUS** | Carbon Capture, Utilisation and Storage — technology capturing CO₂ at its emission source (e.g., a power plant or industrial facility) before atmospheric release, then either using it (e.g., in industrial processes) or storing it (e.g., underground geological storage). |
 | ✅ **Direct Air Capture (DAC)** | Technology that captures CO₂ directly from ambient air (not from a concentrated point source), typically requiring more energy per tonne captured than CCUS due to CO₂'s low atmospheric concentration. |
 | ✅ **Indian Carbon Market (ICM) / Carbon Credit Trading Scheme (CCTS)** | India's domestic carbon market framework, enabled by the Energy Conservation (Amendment) Act, 2022 and given effect by the **Carbon Credit Trading Scheme notified in June 2023**. It has a **dual structure**: a **compliance mechanism** for obligated energy-intensive entities and an **offset mechanism** for voluntary registration by non-obligated entities (Economic Survey 2025-26, Ch. 10). |
-| ✅ **Baseline-and-credit vs cap-and-trade** | India's compliance mechanism is an **emission-intensity baseline-and-credit** system: obligated entities receive a **greenhouse gas emission intensity (GEI) target** (tCO₂e per unit of output). Those who beat their target earn **Carbon Credit Certificates (CCCs)**, denominated in **tonnes of CO₂ equivalent** and traded on **power exchanges**; those who miss it must buy and surrender credits. ⚠️ This is **not** cap-and-trade — there is no absolute economy-wide emissions cap, which is the single most examinable design difference from the EU ETS. |
-| ✅ **Carbon Credit Certificate (CCC)** | The tradable instrument under the CCTS, denominated in tCO₂e. Distinguish it from a **green credit** (Green Credit Rules, 2023 — rewards specified environmental actions, not tCO₂e) and from an **Energy Saving Certificate/ESCert** under PAT (denominated in tonnes of oil equivalent energy saved). |
+| ✅ **Baseline-and-credit vs cap-and-trade** | India's compliance mechanism is an **emission-intensity baseline-and-credit** system: obligated entities receive a **greenhouse gas emission intensity (GEI) target** (tCO₂e per unit of output). Those who beat their target become eligible for **Carbon Credit Certificates (CCCs)**, denominated in **tonnes of CO₂ equivalent**; those who miss it must acquire and surrender certificates. The Scheme and CERC regulations provide for exchange trading. ⚠️ This is **not** cap-and-trade — there is no absolute economy-wide emissions cap. |
+| ✅ **Carbon Credit Certificate (CCC)** | The tradable instrument under the CCTS, denominated in tCO₂e. Distinguish it from a **green credit** (Green Credit Rules, 2023 — rewards specified environmental actions, not tCO₂e) and from an **Energy Saving Certificate/ESCert** under PAT. BEE material defines one ESCert as the energy-saving attribute of one metric tonne of oil equivalent; it is not a carbon-denominated certificate. |
 
 ## 3. Topic mechanism
 
@@ -51,6 +51,9 @@ Working Group III, not competing or interchangeable approaches.
    Carbon Market, building on the existing Perform, Achieve and Trade (PAT) scheme (which
    traded Energy Saving Certificates among energy-intensive industries) toward a broader
    carbon-credit trading mechanism.
+   Institutional inheritance does not make the instruments identical: PAT regulates
+   Specific Energy Consumption and ESCerts, whereas CCTS compliance uses greenhouse-gas-
+   emissions-intensity targets and Carbon Credit Certificates in tCO2e.
 3. CCUS captures CO₂ at concentrated point sources (power plants, cement/steel/fertiliser
    plants) where CO₂ concentration in the flue gas is relatively high, making capture more
    energy- and cost-efficient than capturing dilute CO₂ from ambient air.
@@ -65,12 +68,24 @@ Working Group III, not competing or interchangeable approaches.
 
 ## 4. Institutions and policy tools
 
-- ✅ **Bureau of Energy Efficiency (BEE):** administers India's PAT scheme and plays a key
-  role in the evolving Indian Carbon Market framework.
-- ✅ **MoEFCC:** provides overall policy coordination for India's carbon-market development
-  and international carbon-market (Paris Agreement Article 6) engagement.
-- ✅ **Ministry of Power:** coordinates the Indian Carbon Market's regulatory framework
-  alongside BEE.
+- ✅ **Ministry of Power:** notified the Carbon Credit Trading Scheme, 2023 under the Energy
+  Conservation Act framework and chairs the National Steering Committee for the Indian
+  Carbon Market.
+- ✅ **Bureau of Energy Efficiency (BEE):** is the statutory **Administrator** for the Indian
+  Carbon Market and also administers PAT. Under CCTS it develops procedures/methodologies,
+  identifies sectors and obligated entities, supports target setting, accredits verification
+  agencies and performs the functions assigned by the Scheme.
+- ✅ **MoEFCC:** co-chairs the National Steering Committee and, under the compliance
+  procedure, notifies obligated-entity greenhouse-gas-emissions-intensity targets after the
+  prescribed Ministry of Power/BEE/Steering Committee process. It also leads India's
+  international Article 6 engagement; it is not the CCTS registry or trading regulator.
+- ✅ **Grid Controller of India Limited:** is the **Registry** for the Indian Carbon Market,
+  maintaining entity accounts and transaction/holding records under the Scheme and detailed
+  procedures.
+- ✅ **Central Electricity Regulatory Commission (CERC):** is the regulator for CCC trading
+  activities. Its 2026 purchase-and-sale regulations govern exchange trading and related
+  market arrangements; notification of trading rules does not by itself prove market
+  liquidity or verified mitigation.
 - ⚠️ International carbon-market mechanisms (Article 6.2 bilateral cooperation, Article 6.4
   centralised crediting) provide the global architecture within which India's domestic
   market may eventually interlink (cross-refer Topic 19).
@@ -98,17 +113,26 @@ Working Group III, not competing or interchangeable approaches.
   flue gas.
 - ✅ India's PAT (Perform, Achieve and Trade) scheme, administered by BEE, traded Energy
   Saving Certificates and served as an institutional precursor to the broader carbon market.
+  One ESCert represents the energy-saving attribute of one metric tonne of oil equivalent;
+  it is not a CCC.
 - ✅ Compliance carbon markets are government-mandated; voluntary carbon markets involve
   non-mandated, voluntary credit purchases.
 - ✅ The **Carbon Credit Trading Scheme (CCTS) was adopted in June 2023** with a **dual
   compliance-plus-offset** design; the compliance leg is an **emission-intensity
   baseline-and-credit** system (not cap-and-trade), and **Carbon Credit Certificates (CCCs)**
-  denominated in **tCO₂e** are traded on **power exchanges** (Economic Survey 2025-26, Ch. 10).
+  are denominated in **tCO₂e**; the Scheme and CERC's 2026 regulations provide for trading
+  through power exchanges.
 - ✅ In **2025** the Government notified pro-rata **Greenhouse Gas Emission Intensity (GEI)
   targets for four sectors — Aluminium, Cement, Chlor-Alkali, and Pulp and Paper**.
 - ✅ The **offset mechanism** covers an approved list of **10 sectors**: energy, industries,
   agriculture, waste handling and disposal, forestry, transport, fugitive emissions,
-  construction, solvent use, and **CCUS** and others.
+  construction, solvent use, and **carbon capture, utilisation and storage (CCUS)**.
+- ✅ Under the CCTS institutional split, **BEE is Administrator**, **Grid Controller of India
+  is Registry**, and **CERC regulates trading**; MoEFCC notifies compliance GEI targets under
+  the prescribed recommendation process.
+- ✅ CERC notified the **Terms and Conditions for Purchase and Sale of Carbon Credit
+  Certificates Regulations, 2026**. This establishes trading rules but is not evidence that
+  a liquid market, a discovered price or a verified volume of mitigation already exists.
 - ✅ Under the EU ETS (launched 2005, now in its **fourth phase**), up to **57%** of
   allowances are auctioned and the rest allocated free to limit carbon leakage; the **Carbon
   Border Adjustment Mechanism (CBAM) gradually replaces free allocation from 2026**, and a
@@ -132,7 +156,8 @@ Working Group III, not competing or interchangeable approaches.
   2022.
 - ❌ PAT and the Indian Carbon Market are entirely unrelated schemes. -> PAT is an
   institutional precursor/foundation that has informed the evolving Indian Carbon Market
-  framework.
+  framework, but ESCerts and CCCs retain different metrics, legal procedures and compliance
+  purposes.
 - ❌ CCUS eliminates the need for renewable-energy transition. -> CCUS is a complementary
   tool primarily for hard-to-abate sectors and existing infrastructure, not a substitute for
   the broader renewable-energy transition.
@@ -141,6 +166,11 @@ Working Group III, not competing or interchangeable approaches.
 - ❌ A carbon credit certificate and a green credit are the same instrument. -> CCCs are
   denominated in **tCO₂e** under the CCTS; **green credits** (Green Credit Rules, 2023) reward
   specified environmental actions and are not emission-denominated.
+- ❌ BEE, Grid Controller of India and CERC are interchangeable carbon-market bodies. -> BEE
+  is Administrator, Grid Controller is Registry, and CERC regulates trading.
+- ❌ MoEFCC administers the registry and exchange. -> Its domestic compliance role includes
+  GEI-target notification under the prescribed process; registry and trading regulation
+  belong to Grid Controller and CERC respectively.
 - ❌ CBAM is an EU carbon tax on all imports. -> It is a border adjustment that **gradually
   replaces free allocation** for carbon-leakage-exposed sectors within the EU ETS from 2026,
   applying to specified goods rather than to imports generally.
@@ -148,13 +178,17 @@ Working Group III, not competing or interchangeable approaches.
 ## 8. 📰 Current anchor
 
 - 📰 **CCTS status (Economic Survey 2025-26, Ch. 10):** adopted June 2023; compliance
-  mechanism built on the PAT infrastructure and transitioning it into a full compliance
-  carbon market; **GEI targets notified in 2025 for Aluminium, Cement, Chlor-Alkali and Pulp
+  mechanism being operationalised on PAT institutional experience; **GEI targets notified
+  in 2025 for Aluminium, Cement, Chlor-Alkali and Pulp
   and Paper**; offset mechanism approved for **10 sectors** including **CCUS**. GEI target
   setting proceeds by estimating each obligated entity's baseline GEI, comparing entities
   within the same sub-sectoral group, and assigning the **least demanding target to the most
   efficient unit and the most demanding to the least efficient** (Bureau of Energy
   Efficiency methodology).
+- 📰 **Trading-rule status:** CERC notified its Terms and Conditions for Purchase and Sale
+  of Carbon Credit Certificates Regulations on 27 February 2026, with Gazette publication
+  on 4 May 2026. This adds the exchange-trading rule layer; verify actual issuance, trade,
+  surrender, price and liquidity data before claiming an operating market outcome.
 - 📰 **International reference points (Economic Survey 2025-26, Box X.5):** EU ETS (2005,
   fourth phase; up to 57% of the cap auctioned; **CBAM replacing free allocation from 2026**;
   **ETS2** for buildings/road transport by **2027**; offset credits discontinued in Phase 4),
@@ -170,9 +204,9 @@ Working Group III, not competing or interchangeable approaches.
 ⚠️ **Interpretation caution:** global CCUS and DAC deployment scale remains small relative
 to IPCC-modelled mitigation pathway requirements — cite specific deployment figures with
 their source and date rather than assuming large-scale current deployment. Equally,
-distinguish a **notified scheme** (CCTS, 2023) from **notified sectoral targets** (2025, four
-sectors) from an **operating, liquid market with a discovered carbon price** — India is
-demonstrably at the second stage, not the third.
+distinguish a **notified scheme** (CCTS, 2023), **notified sectoral targets** (2025),
+**notified trading regulations** (2026), and an **operating, liquid market with issued,
+traded and surrendered certificates**. The first three do not prove the fourth.
 
 ## 9. PYQ application
 
@@ -218,6 +252,20 @@ demonstrably at the second stage, not the third.
   relying on these technologies.
 - ✅ `25_Renewable-Energy-and-Green-Hydrogen.md` — the complementary renewable/hydrogen
   decarbonisation pathway.
+
+## Persistent official source control
+
+- Ministry of Power, Carbon Credit Trading Scheme, 2023, institutional roles at PDF
+  pp. 7-9:
+  https://powermin.gov.in/static/uploads/2025/06/93e194db9a5c9b726ac95e0081c1abf4.pdf
+- BEE, Detailed Procedure for the Compliance Mechanism, MoEFCC target-notification process
+  at PDF pp. 4 and 9; registry/CERC procedure at p. 22:
+  https://beeindia.gov.in/WriteReadData/L45218/7772386525993811.pdf
+- CERC, Terms and Conditions for Purchase and Sale of Carbon Credit Certificates
+  Regulations, 2026, PDF pp. 1-3:
+  https://www.cercind.gov.in/regulations/205-Noti.pdf
+- BEE PAT/ESCert material, ESCert denomination at PDF p. 24:
+  https://beeindia.gov.in/WriteReadData/L45218/1734412025.pdf
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
