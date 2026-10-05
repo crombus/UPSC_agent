@@ -57,8 +57,9 @@ All Core teaching is completed before the Advanced lesson.
 Progress: 1 / 12 | Stage: Foundation | Subtopic: Domestic climate-policy foundation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Canonical climate-policy material and the official NAPCC text are available.
-Current-affairs use: None; this lesson establishes the durable policy foundation.
+Book context: queried — released Basic/Advanced Topic 20 owners and the official NAPCC text.
+CA search: "site:unfccc.int India NDC 2031-2035 April 2026 NAPCC nine missions"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — the official contribution describes the current nine-mission NAPCC architecture.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: why the NAPCC begins with development
@@ -154,7 +155,37 @@ This design is necessary because climate causes and impacts are distributed acro
 sectors. It also creates a coordination problem: the ministry that owns a mission may
 not control land, electricity distribution, urban services or local implementation.
 
-### 5. Strongest criticism and reply
+### 5. Post-2008 evolution and nodal ownership
+
+```text
+2008: NAPCC launched with eight missions
+  ↓
+2010-15: mission documents/programmes operationalised across solar, habitat,
+         water, mountains, forests, agriculture, efficiency and knowledge
+  ↓
+2019 onward: climate-and-human-health programme becomes the ninth current mission area
+  ↓
+2021-30: Sustainable Habitat and Green India operate through revised mission frameworks
+  ↓
+2026: official NDC and Economic Survey describe nine mission areas
+```
+
+| Mission/current health area | Principal nodal institution |
+|---|---|
+| National Solar Mission | Ministry of New and Renewable Energy (MNRE) |
+| National Mission for Enhanced Energy Efficiency | Ministry of Power; Bureau of Energy Efficiency (BEE) administers PAT and related instruments |
+| National Mission on Sustainable Habitat | Ministry of Housing and Urban Affairs (MoHUA) |
+| National Water Mission | Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti |
+| National Mission for Sustaining the Himalayan Ecosystem | Department of Science and Technology (DST) |
+| National Mission for a Green India | Ministry of Environment, Forest and Climate Change (MoEFCC) |
+| National Mission for Sustainable Agriculture | Ministry of Agriculture and Farmers Welfare |
+| National Mission on Strategic Knowledge for Climate Change | Department of Science and Technology |
+| Climate change and human health | Ministry of Health and Family Welfare through the National Programme on Climate Change and Human Health/NCDC architecture |
+
+The table names principal owners, not exclusive implementers. States, regulators, local
+bodies, research institutions, firms and communities still carry essential functions.
+
+### 6. Strongest criticism and reply
 
 **Criticism:** A mission-based framework can fragment responsibility. Each ministry
 may pursue its own scheme without a common carbon, resilience or accountability
@@ -189,6 +220,8 @@ clearly tracked.
 9. States and local bodies are indispensable because many implementation powers are sub-national.
 10. The co-benefits frame joins climate outcomes with energy security, livelihoods and public health.
 11. Mission-based mainstreaming needs common metrics and accountability.
+12. Eight missions formed the 2008 architecture; current official documents describe nine with health.
+13. Every mission has a sectoral nodal institution, while MoEFCC coordinates national climate policy.
 
 ### Concept check
 
@@ -213,8 +246,9 @@ clearly tracked.
 Progress: 2 / 12 | Stage: Core | Subtopic: Supply transformation and demand reduction
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Official MNRE and BEE material supplies current programme status.
-Current-affairs use: None; dated capacity figures are treated as policy status.
+Book context: queried — released Topic 20/21 owners and official MNRE/BEE material.
+CA search: "site:mnre.gov.in physical progress 31 August 2026 solar non-fossil capacity"
+CA found: MNRE, “Programme/Scheme-wise Cumulative Physical Progress as on 31 August 2026” — 168.04 GW solar and 304.334 GW total non-fossil capacity.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: two different routes to the same climate objective
@@ -278,9 +312,10 @@ It has four principal initiatives:
 3. **Energy Efficiency Financing Platform (EEFP);**
 4. **Framework for Energy Efficient Economic Development (FEEED).**
 
-PAT sets plant-specific **Specific Energy Consumption (SEC)** targets for designated
-energy-intensive consumers. A unit that exceeds its savings target may receive
-tradable **Energy Saving Certificates (ESCerts)**.
+BEE administers PAT under the Ministry of Power. PAT sets plant-specific **Specific
+Energy Consumption (SEC)** targets for designated energy-intensive consumers. A unit
+that exceeds its savings target may receive tradable **Energy Saving Certificates
+(ESCerts)**.
 
 ```text
 baseline SEC → assigned reduction target → measured performance
@@ -293,13 +328,14 @@ baseline SEC → assigned reduction target → measured performance
 
 ### 4. PAT is not a carbon cap
 
-PAT trades certified energy savings, usually expressed through energy-performance
-metrics. The Carbon Credit Trading Scheme uses greenhouse-gas-emissions-intensity
-targets and carbon credit certificates denominated in tonnes of CO2 equivalent.
+PAT trades certified energy savings. BEE material defines one ESCert as the
+energy-saving attribute of **one metric tonne of oil equivalent**. The Carbon Credit
+Trading Scheme instead uses greenhouse-gas-emissions-intensity targets and Carbon
+Credit Certificates denominated in tonnes of CO2 equivalent.
 
 | Instrument | Unit | Immediate purpose |
 |---|---|---|
-| PAT / ESCert | energy saved, linked to SEC | industrial energy efficiency |
+| PAT / ESCert | one metric tonne of oil equivalent of energy saving; linked to SEC | industrial energy efficiency |
 | CCTS / carbon credit certificate | tCO2e | greenhouse-gas-intensity performance |
 
 The institutional experience of PAT supports the emerging carbon market, but the
@@ -334,10 +370,10 @@ limits without abandoning development.
 3. Solar installed capacity reached 168.04 GW on 31 August 2026.
 4. Installed capacity does not equal annual generation.
 5. NMEEE is one of the eight original NAPCC missions.
-6. PAT targets Specific Energy Consumption for designated consumers.
+6. BEE administers PAT and sets Specific Energy Consumption targets for designated consumers.
 7. Better-than-target performance can earn ESCerts.
 8. MTEE, EEFP and FEEED complement PAT.
-9. ESCerts measure energy-saving performance; carbon credits are denominated in tCO2e.
+9. One ESCert represents one metric tonne of oil equivalent of energy saving; a CCC is denominated in tCO2e.
 10. Solar expansion requires transmission, storage and distribution reform.
 11. Efficiency can reduce emissions intensity even while output grows.
 
@@ -364,8 +400,9 @@ limits without abandoning development.
 Progress: 3 / 12 | Stage: Core | Subtopic: Urban systems and water security
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: NAPCC, LT-LEDS and official mission material cover urban and water systems.
-Current-affairs use: None; no additional event is required.
+Book context: queried — official NMSH 2021-2030, National Water Mission and LT-LEDS material.
+CA search: "site:indiabudget.gov.in Economic Survey 2025-26 sustainable habitat national water mission"
+CA found: Economic Survey 2025-26, Chapter 10, released 29 January 2026 — identifies sustainable habitat and water management within the current nine-mission architecture.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: cities and water are linked systems
@@ -387,16 +424,19 @@ Land use, mobility, water, waste, heat and drainage interact.
 
 ### 1. National Mission on Sustainable Habitat
 
-The mission was approved in 2010. Its central deliverables include:
+The original mission was approved in 2010. The revised **National Mission on
+Sustainable Habitat 2021-2030** now organises action across five thematic areas:
 
-- sustainable-habitat standards;
-- city development plans integrating adaptation and mitigation;
-- comprehensive mobility plans;
-- capacity building.
+1. energy and green buildings;
+2. urban planning, green cover and biodiversity;
+3. mobility and air quality;
+4. water management;
+5. waste management.
 
-Its policy instruments now include building codes, public transport, non-motorised
-mobility, cooling efficiency, solid and liquid waste management, water reuse and
-climate-sensitive urban planning.
+This revised framework builds on sustainable-habitat standards, climate-sensitive city
+planning, comprehensive mobility planning and capacity building. Its instruments include
+building codes, public transport, non-motorised mobility, cooling efficiency, solid and
+liquid waste management, water reuse and risk-sensitive urban planning.
 
 The LT-LEDS deepens this mission through four directions:
 
@@ -472,16 +512,17 @@ flood risk reduced, service equity and lifecycle emissions.
 ### Revision notes
 
 1. Sustainable Habitat integrates urban mitigation and adaptation.
-2. City plans should incorporate climate risks rather than add them afterward.
-3. Mobility planning affects fuel demand, congestion and air pollution.
-4. Building codes address operational energy and thermal comfort.
-5. Municipal water and waste services have significant climate implications.
-6. The National Water Mission promotes integrated and equitable water management.
-7. Its headline efficiency objective is a 20% improvement.
-8. Its five goals include data, citizen/State action, vulnerable areas, efficiency and basin management.
-9. Water savings often produce energy savings.
-10. Watersheds do not follow municipal boundaries.
-11. Infrastructure expenditure is not the same as resilient service delivery.
+2. The current NMSH mission framework covers 2021-2030 and has five thematic areas.
+3. City plans should incorporate climate risks rather than add them afterward.
+4. Mobility planning affects fuel demand, congestion and air pollution.
+5. Building codes address operational energy and thermal comfort.
+6. Municipal water and waste services have significant climate implications.
+7. The National Water Mission promotes integrated and equitable water management.
+8. Its headline efficiency objective is a 20% improvement.
+9. Its five goals include data, citizen/State action, vulnerable areas, efficiency and basin management.
+10. Water savings often produce energy savings.
+11. Watersheds do not follow municipal boundaries.
+12. Infrastructure expenditure is not the same as resilient service delivery.
 
 ### Concept check
 
@@ -506,8 +547,9 @@ flood risk reduced, service equity and lifecycle emissions.
 Progress: 4 / 12 | Stage: Core | Subtopic: Ecosystem-based adaptation and carbon sinks
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Official NAPCC, DST, MoEFCC and forest-policy material are available.
-Current-affairs use: None; ecological status is presented without a separate news anchor.
+Book context: queried — released Topic 12 owners, DST material and revised official GIM document.
+CA search: "site:napccindia.moef.gov.in revised Green India Mission 2021-2030 September 2026"
+CA found: Revised National Mission for a Green India document, available on the official NAPCC portal in September 2026 — three sub-missions and a 2021-2030 convergence framework.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: two ecological missions, different spatial logics
@@ -556,7 +598,10 @@ damage, but global mitigation still determines the scale of long-term warming.
 
 ### 3. National Mission for a Green India
 
-GIM combines adaptation and mitigation. Its official mission goals include:
+GIM combines adaptation and mitigation. Keep its original and revised frameworks
+separate.
+
+**Original framework:**
 
 | Goal | Exact scale |
 |---|---:|
@@ -564,9 +609,21 @@ GIM combines adaptation and mitigation. Its official mission goals include:
 | Improve quality of existing forest/tree cover | **another 5 million hectares** |
 | Improve forest-based livelihood income | about **3 million households** |
 
-Its sub-missions cover forest quality, ecosystem restoration, urban/peri-urban trees,
-agroforestry/social forestry and wetlands, supported by alternative energy and
-livelihood interventions.
+These were mission objectives, not verified national achievement figures.
+
+**Revised 2021-2030 framework:**
+
+| Boundary | Official revised architecture |
+|---|---|
+| Three sub-missions | forest quality/ecosystem services; forest/tree-cover increase and ecosystem restoration; household-income and livelihood diversification |
+| Convergence envelope | **24 million hectares** through Central/State schemes and CAMPA: 12 million hectares in 2021-25 and another 12 million hectares in 2025-30 |
+| Direct GIM financing | **1 million hectares** of intervention under the dedicated mission outlay |
+| Planning | vulnerable-landscape and micro-ecosystem approach through State Afforestation Perspective Plans |
+| Monitoring | JFMC/Gram Sabha participation, social audit, GIS/remote sensing, web-MIS and third-party monitoring |
+
+The 24-million-hectare convergence envelope and the 1-million-hectare directly financed
+intervention have different boundaries. Neither figure proves achievement, and neither
+should be added to the legacy 5+5-million-hectare framework.
 
 ### 4. Carbon sink is not plantation count
 
@@ -621,12 +678,13 @@ together. A carbon-only audit is as incomplete as a plantation-only audit.
 3. Glaciers, hydrology, biodiversity and livelihoods are linked.
 4. National adaptation cannot substitute for global mitigation.
 5. GIM combines adaptation and mitigation.
-6. GIM seeks 5 million hectares of additional forest/tree cover.
-7. It also seeks quality improvement over another 5 million hectares.
-8. Its livelihood objective covers about 3 million households.
-9. Carbon sink is measured in CO2 equivalent, not merely hectares planted.
-10. GIM and CAMPA are related but legally and functionally distinct.
-11. Ecological quality and community rights are essential accountability tests.
+6. The original GIM framework used 5 million hectares of additional cover plus quality improvement over another 5 million hectares.
+7. The revised 2021-2030 framework has three sub-missions and a micro-ecosystem approach.
+8. It separates 24 million hectares through convergence from 1 million hectares directly financed under GIM.
+9. These are targets and programme boundaries, not verified achievement figures.
+10. Carbon sink is measured in CO2 equivalent, not merely hectares planted.
+11. GIM and CAMPA are related but legally and functionally distinct.
+12. Ecological quality, monitoring and community rights are essential accountability tests.
 
 ### Concept check
 
@@ -640,7 +698,7 @@ together. A carbon-only audit is as incomplete as a plantation-only audit.
 
 **Mains prompt:** Compare the climate-policy roles of the National Mission for Sustaining the Himalayan Ecosystem and the Green India Mission.
 
-**Illustrative model:** The Himalayan mission is a region-specific adaptation and knowledge mission. It studies glaciers, hydrology, biodiversity and livelihoods while building scientific, institutional and State capacity for a mountain system whose risks cross administrative borders. It can improve monitoring, catchment protection and preparedness, but cannot independently stop warming-driven glacier loss. The Green India Mission is a national landscape-restoration mission combining adaptation and mitigation. It seeks to add forest/tree cover over 5 million hectares, improve quality over another 5 million hectares and enhance forest-based incomes for about 3 million households. It also supports carbon storage, biodiversity, water services, agroforestry and wetland restoration. The missions converge through ecosystem services and community resilience but differ in spatial and operational logic. Accountability must go beyond research outputs or plantation counts: Himalayan policy should show usable risk knowledge, while GIM should demonstrate survival, ecological fit, durable carbon stock and livelihood benefits. Together they illustrate ecosystem-based climate action, but global mitigation and rights-sensitive local implementation remain indispensable.
+**Illustrative model:** The Himalayan mission is a region-specific adaptation and knowledge mission. It studies glaciers, hydrology, biodiversity and livelihoods while building scientific, institutional and State capacity for a mountain system whose risks cross administrative borders. It can improve monitoring, catchment protection and preparedness, but cannot independently stop warming-driven glacier loss. The Green India Mission is a national landscape-restoration mission combining adaptation and mitigation. Its legacy 5+5-million-hectare objectives must be distinguished from the revised 2021-2030 framework: three sub-missions, 24 million hectares through convergence and 1 million hectares specifically financed under GIM. These are programme targets, not achievement claims. The missions converge through ecosystem services and community resilience but differ in spatial and operational logic. Accountability must go beyond research outputs or plantation counts: Himalayan policy should show usable risk knowledge, while GIM should demonstrate survival, ecological fit, durable carbon stock and livelihood benefits. Together they illustrate ecosystem-based climate action, but global mitigation and rights-sensitive local implementation remain indispensable.
 
 **Quantified rubric (15):** Himalayan role 3; GIM goals 3; comparison 3; sink-quality analysis 3; limitation and conclusion 3.
 
@@ -651,8 +709,9 @@ together. A carbon-only audit is as incomplete as a plantation-only audit.
 Progress: 5 / 12 | Stage: Core | Subtopic: Climate-resilient production, knowledge and health
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Official agriculture, DST, NAPCC and Economic Survey material is available.
-Current-affairs use: None; the mission-count update is treated as current policy architecture.
+Book context: queried — official agriculture, DST, health-programme, NAPCC and Economic Survey material.
+CA search: "site:indiabudget.gov.in Economic Survey 2025-26 NAPCC nine missions health"
+CA found: Economic Survey 2025-26, Chapter 10, released 29 January 2026 — describes nine mission areas and the National Programme on Climate Change and Human Health.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: evidence must change field decisions
@@ -788,8 +847,9 @@ Expenditure or number of advisories alone cannot answer that question.
 Progress: 6 / 12 | Stage: Core | Subtopic: Federal translation and local delivery
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: LT-LEDS and the 2026 NDC state the federal and SAPCC architecture.
-Current-affairs use: None; this lesson concerns institutional design.
+Book context: queried — released Topic 20 owners, LT-LEDS and the April 2026 NDC.
+CA search: "site:unfccc.int India NDC 2031-2035 SAPCC almost all States revised risks"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — states that almost all States have plans and that SAPCCs are being revised for updated risks and vulnerabilities.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: climate policy moves downward and evidence moves upward
@@ -924,8 +984,9 @@ metrics and periodic public review—not uniform central micromanagement.
 Progress: 7 / 12 | Stage: Core | Subtopic: Successive formal Paris contributions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India's official NDC submissions provide the exact commitments.
-Current-affairs use: One official 2026 submission is used in this lesson.
+Book context: queried — India's official 2015, 2022 and April 2026 NDC submissions.
+CA search: "site:unfccc.int India NDC 2031-2035 April 2026 47 percent 60 percent"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — communicates the new 2035 targets and their means-of-implementation conditions.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a ratchet, not three unrelated documents
@@ -938,7 +999,10 @@ UPDATED FIRST NDC — 2022, still to 2030
 45% intensity cut · about 50% non-fossil capacity · LiFE update
                            ↓ next contribution
 NDC — APRIL 2026, for 2031–2035
-47% intensity cut · about 60% non-fossil capacity · 3.5–4 GtCO2e sink
+47% intensity cut · about 60% non-fossil capacity*
+· 3.5–4 GtCO2e sink
+
+* with the help of transfer of technology and low-cost international finance
 ```
 
 An NDC is a formal Paris Agreement contribution. A political announcement may shape
@@ -970,15 +1034,15 @@ The 2022 update formally strengthened:
 The sink target of 2.5–3 billion tonnes CO2e remained. The document states that the
 update is a step towards net zero by 2070.
 
-### 3. Exactly one current-affairs linkage — April 2026 NDC submission
+### 3. April 2026 NDC submission
 
-India submitted its NDC for **2031–2035** in April 2026. It is the single current-affairs
-linkage used in this session because it materially changes the target architecture:
+India submitted its NDC for **2031–2035** in April 2026. It materially changes the
+target architecture:
 
 | 2035 commitment | Exact metric |
 |---|---|
 | Emissions intensity | reduce GDP emissions intensity **47% by 2035 from 2005** |
-| Power capacity | about **60% cumulative electric-power installed capacity from non-fossil sources by 2035** |
+| Power capacity | about **60% cumulative electric-power installed capacity from non-fossil fuel-based energy resources by 2035, with the help of transfer of technology and low-cost international finance** |
 | Forest/tree sink | **3.5–4.0 billion tonnes CO2e by 2035 compared with 2005** |
 | Adaptation | enhance investment in agriculture, water, Himalayas, coasts, health and disaster management |
 | Enablers | finance, technology transfer, capacity building and collaborative R&D |
@@ -1042,10 +1106,11 @@ means of implementation and equity—not as a single absolute carbon cap.
 6. It raised the non-fossil installed-capacity share to about 50%.
 7. The 2022 update incorporated LiFE.
 8. India submitted an NDC for 2031–2035 in April 2026.
-9. The 2035 targets are 47% intensity, about 60% non-fossil capacity and a 3.5–4.0 billion-tonne sink.
-10. The 2026 NDC creates no specific sectoral reduction obligation.
-11. BUR-4 is reporting; an NDC is a pledge; LT-LEDS is a pathway.
-12. Intensity reduction and absolute emissions reduction are different.
+9. The 2035 capacity target is about 60% non-fossil installed capacity, expressly linked to technology transfer and low-cost international finance.
+10. The other quantified 2035 commitments are 47% intensity from 2005 and a 3.5–4.0 billion-tonne forest/tree-cover sink relative to 2005.
+11. The 2026 NDC creates no specific sectoral reduction obligation.
+12. BUR-4 is reporting; an NDC is a pledge; LT-LEDS is a pathway.
+13. Intensity reduction and absolute emissions reduction are different.
 
 ### Concept check
 
@@ -1059,7 +1124,7 @@ means of implementation and equity—not as a single absolute carbon cap.
 
 **Mains prompt:** Trace the evolution of India's formal NDC targets from 2015 to the contribution for 2031–2035.
 
-**Illustrative model:** India's first NDC, submitted in 2015, committed by 2030 to reduce GDP emissions intensity 33–35% from 2005, achieve about 40% cumulative electric-power installed capacity from non-fossil sources subject to support, and create an additional 2.5–3 billion tonnes CO2e forest/tree sink. The 2022 update strengthened the first two quantified targets to 45% intensity reduction and about 50% non-fossil installed capacity, while incorporating LiFE and retaining the sink, adaptation, finance and technology architecture. In April 2026 India submitted its 2031–2035 NDC: 47% intensity reduction from 2005, about 60% non-fossil installed capacity and a 3.5–4.0 billion-tonne sink compared with 2005, alongside adaptation and implementation support. The progression shows a Paris-style ratchet, but metrics must remain distinct. Intensity is not absolute emissions; installed capacity is not generation; and the NDC imposes no sector-specific reduction obligation. Credibility therefore depends on inventories, sector implementation, adaptation outcomes and adequate finance and technology.
+**Illustrative model:** India's first NDC, submitted in 2015, committed by 2030 to reduce GDP emissions intensity 33–35% from 2005, achieve about 40% cumulative electric-power installed capacity from non-fossil sources subject to support, and create an additional 2.5–3 billion tonnes CO2e forest/tree sink. The 2022 update strengthened the first two quantified targets to 45% intensity reduction and about 50% non-fossil installed capacity, with the latter retaining technology-transfer and low-cost-international-finance support, while incorporating LiFE and retaining the sink and adaptation architecture. In April 2026 India submitted its 2031–2035 NDC: 47% intensity reduction from 2005, about 60% non-fossil installed capacity **with the help of transfer of technology and low-cost international finance**, and a 3.5–4.0 billion-tonne forest/tree-cover sink relative to 2005. The progression shows a Paris-style ratchet, but metrics must remain distinct. Intensity is not absolute emissions; installed capacity is not generation; and the NDC imposes no sector-specific reduction obligation. Credibility therefore depends on inventories, sector implementation, adaptation outcomes and adequate finance and technology.
 
 **Quantified rubric (15):** 2015 targets 3; 2022 update 3; 2026 contribution 4; metric distinctions 3; judgement 2.
 
@@ -1070,8 +1135,9 @@ means of implementation and equity—not as a single absolute carbon cap.
 Progress: 8 / 12 | Stage: Core | Subtopic: Five commitments without target/status conflation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The official COP26 statement, NDCs and dated ministry capacity data are available.
-Current-affairs use: None beyond the single linkage already identified in Lesson 7.
+Book context: queried — official COP26 statement, successive NDCs and dated MNRE capacity data.
+CA search: "site:mnre.gov.in 31 August 2026 total non-fossil capacity 304334"
+CA found: MNRE cumulative physical progress as on 31 August 2026 — 295.554 GW renewable capacity plus 8.780 GW nuclear, totalling 304.334 GW non-fossil capacity.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: five commitments, four metric families
@@ -1195,8 +1261,9 @@ denominator, baseline, time horizon, source and reporting date.
 Progress: 9 / 12 | Stage: Core | Subtopic: Long-term sectoral pathway to net zero
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India's official 2022 LT-LEDS supplies the complete transition framework.
-Current-affairs use: None; this is the standing long-term strategy.
+Book context: queried — India's official 2022 LT-LEDS and released Advanced Topic 20 owner.
+CA search: "site:unfccc.int India NDC 2031-2035 April 2026 net zero 2070 LT-LEDS"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — aligns the next contribution with the 2070 net-zero pathway while leaving LT-LEDS as the standing long-term strategy.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: seven transitions under four cross-cutting conditions
@@ -1215,7 +1282,7 @@ Current-affairs use: None; this is the standing long-term strategy.
 LT-LEDS is the bridge between a distant net-zero year and sector choices. It is a
 strategy, not a statute assigning enforceable carbon budgets to each sector.
 
-### 1. Transition 1 — low-carbon electricity systems
+### 1. Transition 1 — low-carbon development of electricity systems consistent with enhanced development benefits
 
 The strategy emphasises:
 
@@ -1229,7 +1296,7 @@ The strategy emphasises:
 This is not an immediate coal-exit schedule. It is a development-conditioned decline
 in fossil share alongside rising electricity demand.
 
-### 2. Transition 2 — integrated, efficient and inclusive transport
+### 2. Transition 2 — development of an integrated, efficient and inclusive low-carbon transport system
 
 The pathway combines:
 
@@ -1242,7 +1309,7 @@ The pathway combines:
 
 Electric vehicles deliver greater mitigation when the grid itself becomes cleaner.
 
-### 3. Transition 3 — urban design, buildings and sustainable urbanisation
+### 3. Transition 3 — adaptation in urban design, energy and material efficiency in buildings, and sustainable urbanisation
 
 The focus is:
 
@@ -1252,7 +1319,7 @@ The focus is:
 - resilient water, solid-waste and liquid-waste services;
 - low-carbon mobility and cooling.
 
-### 4. Transition 4 — efficient, innovative low-emission industry
+### 4. Transition 4 — economy-wide decoupling of growth from emissions and an efficient, innovative low-emission industrial system
 
 The industrial pathway includes:
 
@@ -1263,13 +1330,13 @@ The industrial pathway includes:
 - R&D for steel, cement and other hard-to-abate sectors;
 - finance and knowledge support for MSMEs.
 
-### 5. Transition 5 — CO2 removal and engineering solutions
+### 5. Transition 5 — carbon dioxide removal and related engineering solutions
 
 LT-LEDS is cautious: CCUS is technically, economically and politically uncertain,
 capital-intensive and energy-intensive. It prioritises R&D, capacity and demonstration
 rather than assuming immediate economy-wide deployment.
 
-### 6. Transition 6 — forest and vegetative cover
+### 6. Transition 6 — enhancement of forest and vegetative cover consistent with socio-economic and ecological considerations
 
 The strategy combines:
 
@@ -1280,7 +1347,7 @@ The strategy combines:
 - fire protection and monitoring;
 - livelihoods, rights and ecological considerations.
 
-### 7. Transition 7 — economic and financial aspects
+### 7. Transition 7 — economic and financial aspects of low-carbon development
 
 Low-carbon transition requires new technology, infrastructure and transaction costs.
 LT-LEDS emphasises domestic finance, multilateral finance, technology transfer,
@@ -1345,8 +1412,9 @@ budgets and transparent progress indicators.
 Progress: 10 / 12 | Stage: Core | Subtopic: Conditions that determine feasible climate action
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: NDCs, LT-LEDS and India's adaptation communication support this framework.
-Current-affairs use: None; dated expenditure is used only as official status evidence.
+Book context: queried — successive NDCs, LT-LEDS, Adaptation Communication and Economic Survey.
+CA search: "site:unfccc.int India NDC 2031-2035 finance technology transfer capacity building April 2026"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — states that implementation depends on finance, technology transfer and capacity-building support.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: climate ambition rests on social and financial foundations
@@ -1391,8 +1459,11 @@ Finance must cover:
 - loss and damage;
 - skills, social protection and regional diversification.
 
-India's NDCs condition higher ambition on adequate, predictable and accessible finance
-and technology transfer from developed countries.
+India's NDC implementation depends on adequate, predictable and accessible finance,
+technology transfer and capacity building. The 2022 approximately 50% and 2026
+approximately 60% non-fossil installed-capacity commitments also contain explicit
+technology-transfer and low-cost-international-finance wording. This does not make every
+domestic action or every target identically conditional.
 
 ### 3. Technology
 
@@ -1497,8 +1568,9 @@ fair distribution within India.
 Progress: 11 / 12 | Stage: Core | Subtopic: System interactions and instrument choice
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Cross-topic climate, carbon-market, renewable-energy and forestry material is available.
-Current-affairs use: None; the lesson integrates standing policies.
+Book context: queried — released Topic 20/21/25/12 owners and official CCTS/CERC documents.
+CA search: "site:cercind.gov.in 2026 purchase sale carbon credit certificates regulations"
+CA found: CERC Terms and Conditions for Purchase and Sale of Carbon Credit Certificates Regulations — notified 27 February 2026 and published in the Gazette on 4 May 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: no sector decarbonises alone
@@ -1532,6 +1604,19 @@ India's Carbon Credit Trading Scheme has:
 
 It is a **baseline-and-credit intensity system**, not an economy-wide absolute
 cap-and-trade scheme.
+
+| Institution | Exact domestic role |
+|---|---|
+| Ministry of Power | notified the Carbon Credit Trading Scheme, 2023 and chairs the National Steering Committee |
+| Bureau of Energy Efficiency | Administrator for the Indian Carbon Market; also administers PAT, but ESCerts and CCCs remain different instruments |
+| MoEFCC | co-chairs the Steering Committee and notifies obligated-entity GEI targets under the prescribed recommendation process |
+| Grid Controller of India Limited | Registry for entity accounts, certificate holdings and transaction records |
+| Central Electricity Regulatory Commission | regulator for CCC trading; its 2026 regulations provide the exchange-trading framework |
+
+This institutional and regulatory architecture should not be mistaken for an achievement
+claim. A notified scheme, notified sectoral targets and notified trading regulations do not
+prove that certificates have been issued, traded and surrendered at scale or that a liquid
+market and verified mitigation outcome already exist.
 
 Market integrity requires:
 
@@ -1607,6 +1692,7 @@ boundaries and a common data architecture.
 
 - Explain the power–transport and power–hydrogen dependencies.
 - Distinguish a carbon price from the physical technology that reduces emissions.
+- Distinguish PAT/ESCert administration from CCTS/CCC administration and regulation.
 - Use sector-specific solutions instead of “renewables everywhere.”
 - Include agriculture and forestry as livelihood systems, not only emission sources or
   sinks.
@@ -1625,6 +1711,9 @@ boundaries and a common data architecture.
 10. Agricultural policy links water, energy, fertiliser, methane and resilience.
 11. Forest sinks require biodiversity, permanence and rights safeguards.
 12. Common MRV is needed to prevent overlap and double counting.
+13. BEE is CCTS Administrator; Grid Controller is Registry; CERC regulates trading.
+14. MoEFCC notifies compliance GEI targets under the prescribed process.
+15. Trading regulations are not proof of a liquid market or verified emissions reduction.
 
 ### Concept check
 
@@ -1649,8 +1738,9 @@ boundaries and a common data architecture.
 Progress: 12 / 12 | Stage: Advanced | Subtopic: From ambition to accountable outcomes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Advanced climate-policy material and official reporting architecture are available.
-Current-affairs use: None; this lesson evaluates the completed Core framework.
+Book context: queried — released Advanced Topic 20 owner, 2026 NDC, BUR-4 and dated implementation reports.
+CA search: "site:unfccc.int India NDC 2031-2035 April 2026 implementation indicators 52.57"
+CA found: India NDC (2031-2035), submitted 24 April 2026 — reports dated capacity, intensity and sink indicators while preserving separate future commitments.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the accountability chain
@@ -1784,22 +1874,39 @@ milestones, comparable State indicators, transparent finance and outcome-based r
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The complete official questions appear first. No answer clue or key is embedded in
-their wording.
+Directly relevant official questions appear without an answer clue or key. Ownership
+follows the repository's verified routing rather than mere thematic proximity.
+
+## Ownership and provenance firewall
+
+- **2021 GS-III Question 6 is adjacent-only here.** Its Green Grid Initiative/ISA demand
+  belongs primarily to Topic 25, `Renewable-Energy-and-Green-Hydrogen`, with an
+  energy-infrastructure cross-route. It is not reproduced or solved in this Topic 20
+  question set. Official source:
+  `books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf`,
+  PDF p. 2.
+- **2021 GS-III Question 17 has split ownership.** Topic 19 is primary for negotiated
+  COP26 outcomes; Topic 20 owns India's Panchamrit commitments and their later NDC
+  translation. Official source: the same 2021 GS-III PDF, PDF p. 4.
+- **2025 GS-III Question 18 is directly owned by Topic 20**, with Topic 19 supporting
+  Paris/COP treaty architecture. Official source:
+  `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf`, PDF p. 4.
+- **2026 Prelims GS-I Question 21 is directly owned by Topic 20.** Official Set-A
+  source: `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, PDF p. 11.
+  The locally held key at
+  `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` is
+  **provisional**; no answer letter, truth-value mapping or key is reproduced or
+  inferred here.
 
 ## Exact neutral question set
 
-### 2021 GS-III, Question 6 — 10 marks, 150 words
-
-> Explain the purpose of the Green Grid Initiative launched at the World Leaders Summit
-> of the COP26 UN Climate Change Conference in Glasgow in November 2021. When was
-> this idea first floated in the International Solar Alliance (ISA)?
-
-### 2021 GS-III, Question 17 — 15 marks, 250 words
+### 2021 GS-III, Question 17 — 15 marks, 250 words — split ownership
 
 > Describe the major outcomes of the 26th session of the Conference of the Parties
 > (COP) to the United Nations Framework Convention on Climate Change (UNFCCC).
 > What are the commitments made by India in this conference?
+
+**Ownership:** Topic 19 — negotiated COP26 outcomes; Topic 20 — India's commitments.
 
 ### 2025 GS-III, Question 18 — 15 marks, 250 words
 
@@ -1810,24 +1917,24 @@ their wording.
 
 ### 2026 Prelims GS-I, Question 21
 
-> Consider the following statements with reference to India's response to climate change:
+> Consider the following statements with reference to India’s response to climate change :
 >
-> I. India's Long-Term Low Emission Development Strategy (LT-LEDS) is a crucial tool
+> I. India’s Long-Term Low Emission Development Strategy (LT-LEDS) is a crucial tool
 > for achieving net-zero emissions by 2070.
 >
-> II. India's 4th Biennial Update Report (BUR-4) submitted in December, 2024 recorded
+> II. India’s 4th Biennial Update Report (BUR-4) submitted in December, 2024 recorded
 > around 8% decrease in Greenhouse gas emissions in 2020 over 2019.
 >
 > III. Climate-resilient development necessarily depends on quick and short-term
 > achievement of emission reduction targets.
 >
-> Which of the following relationships among the above statements is/are correct?
+> Which of the following relationships among the above statements is/are correct ?
 >
-> 1. Statement I is empirically supported by Statement II.
+> 1. Statement I is empirically supported by statement II.
 > 2. Statement III contradicts the approach implicit in statement I.
 > 3. Statement I and statement III together establish the premise of long-term sustainability.
 >
-> Select the answer using the code given below:
+> Select the answer using the code given below :
 >
 > (a) 1 only
 > (b) 1 and 2
@@ -1838,8 +1945,8 @@ their wording.
 
 | PYQ | Demand | Concise approach |
 |---|---|---|
-| 2021 Q6 | purpose plus origin of a solar-grid initiative | define the cross-border green-grid idea, explain time-zone/resource balancing and connect it to the earlier ISA vision; keep institutional chronology precise |
-| 2021 Q17 | COP26 outcomes plus India's commitments | separate negotiated Glasgow outcomes from India's unilateral Panchamrit; list the five commitments with exact metrics |
+| 2021 Q6 — adjacent-only | purpose plus origin of a solar-grid initiative | route to Topic 25; do not claim direct Topic 20 ownership |
+| 2021 Q17 — split | COP26 outcomes plus India's commitments | use Topic 19 for negotiated Glasgow outcomes and Topic 20 for Panchamrit; keep the two legal categories separate |
 | 2025 Q18 | review across three stages | first NDC → Panchamrit → 2022 updated NDC; distinguish announced pledges from formal NDC entries and add one dated implementation qualification |
 | 2026 Q21 | relationship-based objective reasoning | test each statement for instrument function, reporting period and the difference between long-term development and short-term emissions change; do not infer an answer from statement tone |
 
@@ -1977,7 +2084,8 @@ finance announced ─X─ finance disbursed ─X─ resilience achieved
 - **2022:** LT-LEDS submitted with seven strategic transitions toward net zero by 2070.
 - **December 2024:** BUR-4 submitted with the 2020 inventory.
 - **April 2026:** NDC for 2031–2035 submitted—47% intensity, about 60% non-fossil
-  installed capacity and 3.5–4.0 billion tonnes CO2e sink by 2035.
+  installed capacity **with technology-transfer and low-cost-international-finance
+  support**, and 3.5–4.0 billion tonnes CO2e sink by 2035.
 
 ## NAPCC principles
 
@@ -1991,16 +2099,17 @@ finance announced ─X─ finance disbursed ─X─ resilience achieved
 
 ## Eight original missions and current evolution
 
-| Mission | Core function | Current evolution/status |
+| Mission/current area | Principal owner | Current evolution/status |
 |---|---|---|
-| Solar | rapid solar diffusion | 168.04 GW solar installed on 31 August 2026 |
-| Enhanced Energy Efficiency | reduce SEC and transform efficiency markets | PAT, ESCerts, MTEE, EEFP and FEEED; institutional bridge toward wider carbon-intensity trading |
-| Sustainable Habitat | integrated urban mitigation and adaptation | buildings, mobility, cooling, waste, water and resilient planning |
-| Water | integrated, equitable and efficient water management | five goals; 20% efficiency objective; State and basin focus |
-| Himalayan Ecosystem | science, institutions and mountain resilience | glacier, hydrology, biodiversity and livelihood knowledge networks |
-| Green India | restoration, quality, sinks and livelihoods | 5 mha additional cover + quality improvement over another 5 mha + livelihood gains |
-| Sustainable Agriculture | resilient and resource-efficient farming | rainfed systems, soil health, water efficiency and climate services |
-| Strategic Knowledge | research, modelling, networks and capacity | enabling knowledge across all missions |
+| Solar | MNRE | 168.04 GW solar installed on 31 August 2026; capacity is not generation |
+| Enhanced Energy Efficiency | Ministry of Power/BEE | BEE-administered PAT; ESCerts use tonnes of oil equivalent, not tCO2e |
+| Sustainable Habitat | MoHUA | revised NMSH 2021-2030: buildings, planning/biodiversity, mobility/air, water and waste |
+| Water | Jal Shakti | five goals; 20% efficiency objective; State and basin focus |
+| Himalayan Ecosystem | DST | glacier, hydrology, biodiversity and livelihood knowledge networks |
+| Green India | MoEFCC | legacy 5+5 mha objectives; revised 2021-2030 three-sub-mission framework, 24 mha through convergence and 1 mha directly financed |
+| Sustainable Agriculture | Agriculture Ministry | rainfed systems, soil health, water efficiency and climate services |
+| Strategic Knowledge | DST | research, modelling, networks and capacity across all missions |
+| Climate and human health — current ninth area, not original | MoHFW/NCDC | awareness, climate-sensitive disease and health-system resilience |
 
 **Count trap:** eight original missions; current official documents describe nine by
 including climate and human health.
@@ -2017,9 +2126,9 @@ including climate and human health.
 
 | Contribution | Intensity | Non-fossil installed capacity | Sink |
 |---|---:|---:|---:|
-| 2015 first NDC | 33–35% by 2030 from 2005 | about 40% by 2030 | additional 2.5–3 GtCO2e by 2030 |
-| 2022 updated first NDC | 45% by 2030 from 2005 | about 50% by 2030 | retained |
-| 2026 NDC for 2031–2035 | 47% by 2035 from 2005 | about 60% by 2035 | 3.5–4.0 GtCO2e by 2035 compared with 2005 |
+| 2015 first NDC | 33–35% by 2030 from 2005 | about 40% by 2030, with technology/low-cost-finance support | additional 2.5–3 GtCO2e by 2030 |
+| 2022 updated first NDC | 45% by 2030 from 2005 | about 50% by 2030, with technology transfer and low-cost international finance including GCF | retained |
+| 2026 NDC for 2031–2035 | 47% by 2035 from 2005 | about 60% by 2035, with the help of technology transfer and low-cost international finance | 3.5–4.0 GtCO2e by 2035 compared with 2005 |
 
 ## Panchamrit recall
 
@@ -2031,7 +2140,7 @@ including climate and human health.
 - more than 45% carbon-intensity reduction by 2030.
 - net zero by 2070.
 
-## Status firewall on 3 October 2026
+## Status firewall through 5 October 2026
 
 - 304.334 GW total non-fossil capacity on 31 August 2026.
 - 52.57% non-fossil share of installed capacity on 28 February 2026.
@@ -2043,13 +2152,13 @@ including climate and human health.
 
 ## LT-LEDS seven-transition map
 
-1. low-carbon electricity;
-2. integrated, efficient and inclusive transport;
-3. urban design, buildings and sustainable urbanisation;
-4. low-emission industry and economy-wide decoupling;
-5. CO2 removal and engineering solutions;
-6. forest and vegetative cover;
-7. economic and financial transition.
+1. low-carbon development of electricity systems consistent with enhanced development benefits;
+2. development of an integrated, efficient and inclusive low-carbon transport system;
+3. adaptation in urban design, energy/material efficiency in buildings and sustainable urbanisation;
+4. economy-wide decoupling of growth from emissions and an efficient, innovative low-emission industrial system;
+5. carbon dioxide removal and related engineering solutions;
+6. enhancement of forest and vegetative cover consistent with socio-economic and ecological considerations;
+7. economic and financial aspects of low-carbon development.
 
 Cross-cutting: research, adaptation, LiFE and international cooperation.
 
@@ -2073,6 +2182,14 @@ forests → quality/additionality/permanence/rights
 markets → price signal + MRV, never a technology substitute
 ```
 
+## PAT and CCTS ownership firewall
+
+- PAT: Ministry of Power/BEE; SEC targets; ESCerts in tonnes of oil equivalent.
+- CCTS framework: Ministry of Power; Administrator: BEE.
+- Compliance GEI notifications: MoEFCC under the prescribed recommendation process.
+- Registry: Grid Controller of India Limited.
+- Trading regulator: CERC; 2026 regulations do not prove market liquidity or mitigation.
+
 ## Examiner traps
 
 - target ≠ status;
@@ -2095,69 +2212,105 @@ course correction—not headline targets alone.
 
 # COVERAGE MATRIX
 
-| Required coverage | Main location | Revision/register location | Practice location |
+The five repaired direct/cross-owner canonical files are fixed at isolated release commit
+`d81a9e49e`. Topic 19 and Topic 25 remain cross-owners only; their material is not
+reassigned to Topic 20.
+
+| Coverage unit | Canonical owner and boundary | Teaching location | Retrieval/practice proof |
 |---|---|---|---|
-| NAPCC principles and architecture | Lesson 1 | NAPCC principles | Lesson 1 check/model |
-| National Solar Mission | Lesson 2 | eight-mission table | Lesson 2 check/model |
-| NMEEE and PAT | Lesson 2 | eight-mission table; sector spine | Lesson 2 check/model |
-| Sustainable Habitat | Lesson 3 | eight-mission table | Lesson 3 check/model |
-| National Water Mission | Lesson 3 | eight-mission table | Lesson 3 check/model |
-| Himalayan Ecosystem mission | Lesson 4 | eight-mission table | Lesson 4 check/model |
-| Green India Mission | Lesson 4 | eight-mission table; sink traps | Lesson 4 check/model |
-| Sustainable Agriculture | Lesson 5 | eight-mission table | Lesson 5 check/model |
-| Strategic Knowledge | Lesson 5 | eight-mission table | Lesson 5 check/model |
-| ninth health evolution | Lesson 5 | mission-count trap | Lesson 5 check/model |
-| SAPCC and Centre–State–local governance | Lesson 6 | federal implementation | Lesson 6 check/model |
-| 2015 NDC | Lesson 7 | NDC precision | Lesson 7 model |
-| 2022 updated first NDC | Lesson 7 | NDC precision | 2025 PYQ approach |
-| 2026 NDC for 2031–2035 | Lesson 7 | chronology and NDC precision | Lesson 7 check/model |
-| Panchamrit exact commitments | Lesson 8 | Panchamrit recall | Lesson 8 check/model |
-| installed capacity/generation/non-fossil/renewable/intensity distinctions | Lesson 8 | status and examiner traps | cumulative Check 2 |
-| current official status dated to 3 October 2026 | Lessons 2, 7 and 8 | status firewall | 15-mark final model |
-| LT-LEDS seven transitions | Lesson 9 | LT-LEDS map | Lesson 9 check/model |
-| adaptation and resilience | Lesson 10 | equity/finance notes | Lesson 10 model |
-| finance and technology | Lesson 10 | equity/finance notes | Lesson 10 model |
-| equity and CBDR-RC | Lesson 10 | equity/finance notes | Lesson 10 model |
-| just transition | Lesson 10 | equity/finance notes | cumulative Check 5 |
-| carbon markets | Lesson 11 | sector spine | Lesson 11 check/model |
-| energy, transport, industry and buildings | Lessons 9 and 11 | sector spine | Lesson 11 model |
-| agriculture and forestry intersections | Lessons 4, 5 and 11 | sector spine | Lessons 4, 5 and 11 |
-| implementation and accountability | Lesson 12 | examiner traps and conclusion | Lesson 12 model |
-| exact 2021, 2025 and 2026 PYQs | PYQ question set | chronology and traps | demand-approach table |
-| exactly one current-affairs linkage | Lesson 7 | chronology | Lesson 7 model |
-| final register notes last before ledgers | consolidated register notes | same section | final model practice precedes it |
+| NAPCC principles, co-benefits and architecture | `basic\20` §§1-4 direct Core; `advanced\20` §1 analytical depth | Lesson 1 | Lesson 1 check/model; final principles |
+| post-2008 evolution and nodal institutions | `basic\20` §§2-4 direct Core | Lessons 1-5 | nodal table; final mission table |
+| Solar Mission and installed-capacity discipline | `basic\20` direct NAPCC owner; Topic 25 owns broader renewable/grid depth | Lesson 2 | Lesson 2 check/model; status firewall |
+| NMEEE, PAT and ESCerts | `basic\20` direct mission owner; `basic\21` cross-owner for certificate boundaries | Lesson 2 | Lesson 2 check/model; PAT/CCTS firewall |
+| Sustainable Habitat 2021-2030 and Water Mission | `basic\20` direct mission owner; official NMSH/NWM documents supplement | Lesson 3 | Lesson 3 check/model |
+| Himalayan Ecosystem mission | `basic\20` direct mission owner | Lesson 4 | Lesson 4 comparison/model |
+| original and revised Green India Mission; CAMPA boundary | `basic\12` and `advanced\12` cross-owners; Topic 20 owns NAPCC placement | Lesson 4 | Lesson 4 check/model; sink traps |
+| Sustainable Agriculture, Strategic Knowledge and health evolution | `basic\20` direct Core | Lesson 5 | Lesson 5 check/model |
+| SAPCC and Centre-State-local delivery | `basic\20` direct Core; `advanced\20` coordination analysis | Lesson 6 | Lesson 6 check/model; final federal notes |
+| 2015 first NDC and 2022 updated first NDC | `basic\20` direct Core; Topic 19 owns treaty process | Lesson 7 | Lesson 7 model; 2025 Q18 route |
+| April 2026 NDC for 2031-2035, exact conditionality and scope | released `basic\20`/`advanced\20`, commit `d81a9e49e` | Lesson 7 | Lesson 7 check/model; final NDC table |
+| Panchamrit political commitments versus NDC entries | `basic\20` direct facts; `advanced\20` §3 metric analysis | Lesson 8 | Lesson 8 check/model; cumulative Check 1-2 |
+| capacity, generation, non-fossil, renewable, energy-requirement and intensity distinctions | `basic\20`/`advanced\20` direct | Lessons 2, 7 and 8 | Lesson 8 model; status/metric firewalls |
+| all seven LT-LEDS strategic transitions and cross-cutting chapters | `advanced\20` §2 complete owner; `basic\20` Core support | Lesson 9 | Lesson 9 check/model; final seven-transition map |
+| adaptation, finance, technology, equity/CBDR-RC, LiFE and just transition | `basic\20`/`advanced\20` direct; Topic 19 cross-owns treaty finance/equity | Lesson 10 | Lesson 10 model; cumulative Check 5 |
+| CCTS design and institutional roles | `basic\21` cross-owner; Topic 20 uses it only as a sector intersection | Lesson 11 | Lesson 11 check/model; PAT/CCTS firewall |
+| renewable power, grids and green hydrogen | Topic 25 primary; Topic 20 uses only NAPCC/LT-LEDS intersections | Lessons 2, 9 and 11 | Lesson 11 model; 2021 Q6 adjacent-only route |
+| COP26 negotiated outcomes versus India's commitments | Topic 19 primary for negotiated outcome; Topic 20 owns Panchamrit | Lessons 7-8 | 2021 Q17 split-ownership route |
+| implementation, accountability and policy coherence | `advanced\20` §§4-6 direct Advanced | Lesson 12 | Lesson 12 check/model; remediation |
+| verified PYQs through 2026 | exact routes and paper provenance below | PYQ section | answer-neutral question set and approaches |
+| current evidence through 5 October 2026 | official dated source in every pre-teach checklist | all 12 lessons | status firewall and source ledger |
+| final register notes last before ledgers | complete Topic 20 synthesis | consolidated register notes | final models precede notes |
 
 # SOURCE LEDGER
 
-## Primary documents and dated evidence
+**Verification/currentness cut-off:** 5 October 2026. Official web sources below were
+accessed or rechecked on that date.
 
-| Source | Material used |
-|---|---|
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | core architecture, distinctions and answer spine |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | co-benefits framing, implementation tensions and LT-LEDS analysis |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | Paris, NDC, equity and finance context |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` | CCTS, baseline-and-credit and CCUS distinctions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md` | renewable, grid, hydrogen and hard-to-abate links |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` | GIM, CAMPA, sink quality and rights distinctions |
-| Government of India, *National Action Plan on Climate Change* (2008), and MoEFCC NAPCC FAQ (2021) | principles, eight missions and mission functions |
-| Government of India, *India's Updated First Nationally Determined Contribution* (August 2022), UNFCCC | exact 2030 targets |
-| Government of India, *India's Nationally Determined Contribution (2031–2035)* (April 2026), UNFCCC | exact 2035 targets, status and SAPCC update |
-| MoEFCC, *India's Long-Term Low-Carbon Development Strategy* (2022), UNFCCC | seven transitions, adaptation, finance, LiFE and cooperation |
-| MoEFCC, *Fourth Biennial Update Report* (submitted December 2024), UNFCCC | 2020 inventory, 7.93% annual decline and 36% intensity progress |
-| MNRE, *Programme/Scheme-wise Cumulative Physical Progress as on 31 August 2026* | solar, renewable and non-fossil capacity |
-| Government of India, *Economic Survey 2025–26*, Chapter 10 | nine-mission description, adaptation-relevant expenditure and dated transition evidence |
-| MEA, National Statement at COP26, 2021 | exact Panchamrit wording |
-| Local official UPSC question papers for 2025 GS-III and 2026 Prelims GS-I; audited central PYQ ledgers for 2021 | exact neutral questions and marks/word limits |
+## Canonical Markdown and ownership
+
+| Exact repository path | Ownership/material used | Version control |
+|---|---|---|
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | direct Core owner: NAPCC, NDCs, Panchamrit, SAPCC and LT-LEDS foundation | certified/released in `d81a9e49e` |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` | direct Advanced owner: seven transitions, target taxonomy and implementation tensions | certified/released in `d81a9e49e` |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` | cross-owner: original/revised GIM and CAMPA distinction | certified/released in `d81a9e49e` |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` | cross-owner: revised GIM boundaries, monitoring and ecological-quality analysis | certified/released in `d81a9e49e` |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` | cross-owner: PAT/CCTS legal and institutional boundaries | certified/released in `d81a9e49e` |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` | treaty/COP/CBDR-RC context; primary owner for negotiated COP26 outcomes | read-only cross-owner |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md` | renewable/grid/hydrogen depth; primary owner for 2021 GS-III Q6 | read-only cross-owner |
+
+## Persistent official evidence
+
+| Official source | Material actually used | Persistent locator and document pages |
+|---|---|---|
+| MoEFCC, *National Action Plan on Climate Change* (2008) | principles and eight original missions | https://moef.gov.in/wp-content/uploads/2017/08/NAP_E.pdf |
+| MoEFCC NAPCC Dashboard | current nine-mission architecture and nodal mission pages | https://napccindia.moef.gov.in/ |
+| MoHUA/MoEFCC, *National Mission on Sustainable Habitat 2021-2030* | revised five-theme habitat architecture | https://napccindia.moef.gov.in/resources/pdfs/nmsh-mission-document-2021.pdf |
+| MoEFCC, revised *National Mission for a Green India* | legacy objectives; revised three sub-missions; 24-mha convergence/1-mha direct boundary; monitoring | https://napccindia.moef.gov.in/uploads/2026/09/1789207182206-03-green-india-revised-mission.pdf — PDF pp. 8-10 and 41-48 |
+| India first NDC/INDC (2015) | original 2030 intensity, capacity and sink commitments | https://unfccc.int/sites/default/files/NDC/2016/INDIA%20INDC%20TO%20UNFCCC.pdf |
+| India updated first NDC (August 2022) | LiFE and exact 45%/about-50% updated commitments and capacity conditionality | https://unfccc.int/sites/default/files/NDC/2022-08/India%20Updated%20First%20Nationally%20Determined%20Contrib.pdf — PDF pp. 2-3 |
+| India NDC for 2031-2035 (April 2026) | exact 47%, about-60% conditional target, 3.5-4.0-billion-tCO2e sink, sectoral-scope clarification, SAPCC and dated status | https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf — PDF p. 5 and pp. 10-12 |
+| MoEFCC, *India's Long-Term Low-Carbon Development Strategy* (2022) | all seven transitions and cross-cutting chapters | https://moef.gov.in/uploads/2022/11/Indias-LT-LEDS.pdf — PDF pp. 26-33 |
+| MoEFCC, *Fourth Biennial Update Report* | 2020 inventory, 7.93% annual decline and 36% intensity progress | https://napccindia.moef.gov.in/uploads/2026/09/1789120793932-India_BUR-4_compressed.pdf — PDF pp. 27 and 33 |
+| India Initial Adaptation Communication | adaptation architecture and expenditure context | https://unfccc.int/documents/636648 |
+| MNRE cumulative physical progress | 31 August 2026 solar, renewable, nuclear and total non-fossil installed capacity | https://mnre.gov.in/en/physical-progress/ |
+| Economic Survey 2025-26, Chapter 10 | nine missions, adaptation-relevant expenditure and 51.93% installed-capacity status | https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap10.pdf — PDF pp. 8 and 14 |
+| MEA National Statement at COP26 | exact five Panchamrit political commitments | https://www.mea.gov.in/speeches-statements?dtl/34466/National+Statement+by+Prime+Minister+Shri+Narendra+Modi+at+COP26+Summit+in+Glasgow |
+| Ministry of Power, CCTS 2023 | Ministry/BEE/Registry/CERC institutional scheme | https://powermin.gov.in/static/uploads/2025/06/93e194db9a5c9b726ac95e0081c1abf4.pdf — PDF pp. 7-9 |
+| BEE CCTS compliance procedure | MoEFCC GEI notification process and registry procedure | https://beeindia.gov.in/WriteReadData/L45218/7772386525993811.pdf — PDF pp. 4, 9 and 22 |
+| CERC CCC trading regulations (2026) | exchange-trading regulatory layer without an operational-outcome inference | https://www.cercind.gov.in/regulations/205-Noti.pdf — PDF pp. 1-3 |
+| BEE PAT/ESCert material | BEE administration and ESCert denomination | https://beeindia.gov.in/WriteReadData/L45218/1734412025.pdf — PDF p. 24 |
+
+## PYQ provenance and key control
+
+| PYQ | Exact local official source | PDF page | Ownership/key control |
+|---|---|---:|---|
+| 2021 GS-III Q6 | `books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf` | 2 | adjacent-only; Topic 25 primary; not reproduced or solved here |
+| 2021 GS-III Q17 | same 2021 GS-III PDF | 4 | Topic 19 primary for COP outcomes; Topic 20 owns India's commitments |
+| 2025 GS-III Q18 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` | 4 | Topic 20 direct owner |
+| 2026 Prelims GS-I Q21 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` | 11 | Topic 20 direct owner; answer-free display |
+
+The locally held 2026 key,
+`books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf`, is provisional.
+No answer letter or truth-value mapping from it appears in this live session.
+
+## Attribution and exclusion control
+
+- Exact UPSC question wording is reproduced only from locally held official papers for
+  educational analysis, with paper/page attribution and without copying any answer key.
+- Brief exact target language is attributed to the relevant official Government/UNFCCC
+  document; other policy teaching is paraphrased and analysed.
+- No source, wording or finding is taken from the permanently excluded
+  final-learning-package directory or from learner-v2 artifacts.
 
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | Basic owner, Advanced owner and relevant cross-topic files listed above |
-| Final learner package | not relevant | Permanently excluded from live-session work |
-| Layered/complete session | checked | Nyaya-Vaisesika, Yoga and Mimamsa live editions supplied the learner-facing structural benchmark |
-| Solved workbook | not relevant | Permanently excluded from live-session work |
-| Advanced dossier | checked | `advanced\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` |
-| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\economic-survey-2025-26.pdf` and locally held official UPSC papers |
-| PYQs through 2026 | checked | 2021 central ledger plus official 2025 GS-III and 2026 Prelims GS-I papers |
-| Official live sources | checked | UNFCCC NDC/LT-LEDS/BUR documents, MNRE physical progress, MEA COP26 statement and official mission pages |
+| Canonical Markdown | checked | exact Basic/Advanced Topic 20 and cross-owner paths listed above; five repaired owners certified in commit `d81a9e49e` |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | structural benchmarks: `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`, and `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md`, commit `d81a9e49e`; relevant `advanced\12` GIM cross-owner also checked |
+| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\economic-survey-2025-26.pdf`, Chapter 10; exact official question-paper PDFs are listed in the PYQ table |
+| PYQs through 2026 | checked | exact paper paths/pages above; 2026 Set-A question verified and provisional-key status expressly controlled |
+| Official live sources | checked | persistent official URLs, document pages and 5 October 2026 currentness cut-off recorded above |
