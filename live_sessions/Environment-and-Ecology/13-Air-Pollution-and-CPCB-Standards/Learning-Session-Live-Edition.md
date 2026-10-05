@@ -561,22 +561,28 @@ Legal and programme rules determine consequences
 
 ### 1. National Ambient Air Quality Standards
 
-India's 2009 NAAQS cover 12 pollutants: PM10, PM2.5, SO2, NO2, ozone, CO, lead, ammonia, benzene, benzo(a)pyrene, arsenic and nickel. A standard specifies a pollutant, averaging period, concentration and compliance method. Annual and short-term standards answer different questions.
+India's 2009 NAAQS cover 12 pollutants: PM10, PM2.5, SO2, NO2, ozone, CO, lead, ammonia, benzene, benzo(a)pyrene, arsenic and nickel. A standard specifies a pollutant, averaging period, concentration, area class where applicable and compliance method. Annual and short-term standards answer different questions.
 
-| Pollutant | Annual NAAQS | Short-period NAAQS used here |
-|---|---:|---:|
-| PM10 | 60 µg/m³ | 100 µg/m³, 24-hour |
-| PM2.5 | 40 µg/m³ | 60 µg/m³, 24-hour |
-| SO2 | 50 µg/m³ | 80 µg/m³, 24-hour |
-| NO2 | 40 µg/m³ | 80 µg/m³, 24-hour |
-| Ozone | — | 100 µg/m³, 8-hour; 180 µg/m³, 1-hour |
-| CO | — | 2 mg/m³, 8-hour; 4 mg/m³, 1-hour |
+| Pollutant | Annual: industrial, residential, rural and other areas | Annual: ecologically sensitive area notified by Central Government | Short-period standard | Unit |
+|---|---:|---:|---|---|
+| SO2 | 50 | 20 | 80, 24-hour | µg/m³ |
+| NO2 | 40 | 30 | 80, 24-hour | µg/m³ |
+| PM10 | 60 | 60 | 100, 24-hour | µg/m³ |
+| PM2.5 | 40 | 40 | 60, 24-hour | µg/m³ |
+| Ozone | — | — | 100, 8-hour; 180, 1-hour | µg/m³ |
+| Lead | 0.50 | 0.50 | 1.0, 24-hour | µg/m³ |
+| CO | — | — | 2, 8-hour; 4, 1-hour | mg/m³ |
+| Ammonia | 100 | 100 | 400, 24-hour | µg/m³ |
+| Benzene | 5 | 5 | — | µg/m³ |
+| Benzo(a)pyrene, particulate phase only | 1 | 1 | — | ng/m³ |
+| Arsenic | 6 | 6 | — | ng/m³ |
+| Nickel | 20 | 20 | — | ng/m³ |
 
-These selected values do not replace the full notification. Units and averaging times are inseparable.
+The lower annual SO2 and NO2 values for notified ecologically sensitive areas are a frequent close-option trap. Units and averaging periods are inseparable: CO is in mg/m³; benzo(a)pyrene, arsenic and nickel are in ng/m³; the remaining displayed values are in µg/m³.
 
 ### 2. Monitoring and compliance data rules
 
-Manual stations can provide scheduled integrated samples and laboratory analysis; continuous ambient air-quality monitoring stations generate high-frequency data. A network requires:
+Manual stations can provide scheduled integrated samples and laboratory analysis; **Continuous Ambient Air Quality Monitoring Stations (CAAQMS)** generate high-frequency data. A network requires:
 
 1. representative and purpose-specific siting;
 2. calibrated instruments and standard methods;
@@ -604,12 +610,14 @@ The national AQI communicates eight pollutants—PM10, PM2.5, NO2, SO2, CO, ozon
 |---:|---|
 | 0-50 | Good |
 | 51-100 | Satisfactory |
-| 101-200 | Moderate |
+| 101-200 | Moderately polluted |
 | 201-300 | Poor |
 | 301-400 | Very poor |
 | 401-500 | Severe |
 
-Pollutant concentrations are converted into sub-indices using breakpoint functions. The overall AQI is driven by the highest qualifying sub-index, not a simple arithmetic average of all pollutant concentrations.
+Pollutant concentrations are converted into sub-indices using breakpoint functions. The CPCB calculation protocol requires valid data for at least **three pollutants**, and at least one must be **PM10 or PM2.5**. A pollutant sub-index requires at least **16 hours of valid data**. PM10, PM2.5, NO2, SO2, ammonia and lead use 24-hour concentration averages for daily AQI; CO and ozone use 8-hour averages. Once those sufficiency conditions are met, the overall AQI is the highest qualifying sub-index, not a simple arithmetic average of pollutant concentrations.
+
+CAAQMS data availability is therefore not identical to AQI availability. A station can report some concentrations while lacking enough valid pollutant-hours to publish an overall AQI.
 
 ### 4. The six distinctions UPSC can test
 
@@ -636,7 +644,7 @@ If a power plant meets its stack PM emission limit, nearby ambient PM may still 
 
 ### Prelims distinction drill
 
-Prelims close-option logic often turns on four pairs: annual versus 24-hour average; µg/m³ versus mg/m³; 12 NAAQS pollutants versus eight AQI pollutants; ambient concentration versus source emission.
+Prelims close-option logic often turns on five pairs: annual versus 24-hour/8-hour/1-hour average; µg/m³ versus mg/m³ versus ng/m³; 12 NAAQS pollutants versus eight AQI pollutants; NAAQS compliance rules versus AQI data-sufficiency rules; ambient concentration versus source emission.
 
 ### Standards-and-monitoring recall
 
@@ -646,7 +654,7 @@ Prelims close-option logic often turns on four pairs: annual versus 24-hour aver
 4. AQI communicates risk; it does not replace NAAQS.
 5. Overall AQI is driven by the highest qualifying sub-index.
 6. Annual and short-term standards cannot be swapped.
-7. PM values use µg/m³; CO standards are commonly expressed in mg/m³.
+7. PM values use µg/m³; CO uses mg/m³; benzo(a)pyrene, arsenic and nickel use ng/m³.
 8. Monitoring requires siting, calibration, completeness and QA/QC.
 9. A station reading is not automatically a citywide average.
 10. Ambient and emission standards regulate different points in the causal chain.
@@ -654,7 +662,9 @@ Prelims close-option logic often turns on four pairs: annual versus 24-hour aver
 12. Installation of monitors is an input, not an air-quality outcome.
 13. Pollutant-wise data should accompany the headline AQI.
 14. WHO guidelines and Indian NAAQS have different legal status.
-15. Annual compliance needs at least 104 site measurements; short-period values use the 98% rule and consecutive-exceedance trigger.
+15. Annual compliance needs at least 104 site measurements; short-period NAAQS values use the 98% rule and consecutive-exceedance trigger.
+16. AQI publication needs at least three pollutant sub-indices, including PM10 or PM2.5, and at least 16 valid hours for each calculated sub-index.
+17. Daily AQI uses 24-hour averages for six pollutants and 8-hour averages for CO and ozone.
 
 ### Concept check
 
@@ -684,9 +694,9 @@ Progress: 5/8 | Stage: Core | Subtopic: Legal-institutional chain
 
 Book context: No relevant local book finding was available.
 
-CA search: "official CPCB SPCB Air Act institutional update 2 April-2 October 2026"
+CA search: "official Air Act consent amendment G.S.R. 62(E) 2026 CPCB SPCB current"
 
-CA found: No material dated institutional change was needed for this legal foundation.
+CA found: G.S.R. 62(E), dated 23 January 2026, amended the national consent guidelines and changed the current CTO-validity architecture.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -694,7 +704,8 @@ CA found: No material dated institutional change was needed for this legal found
 
 ```text
 PARLIAMENT / CENTRAL GOVERNMENT
-        │ Air Act 1981; rules/notifications; policy
+        │ Air Act 1981 + Environment (Protection) Act/Rules;
+        │ national rules, notifications and policy
         ▼
 CPCB — national planning, coordination, technical support,
        standards/guidance, data and nationwide programmes
@@ -714,22 +725,35 @@ consent conditions + emission limits + monitoring + corrective action
 
 The Air (Prevention and Control of Pollution) Act, 1981 establishes the prevention, control and abatement framework. It followed the Stockholm Conference context and was enacted using Parliament's Article 253 power. The existing Central and State Boards created under the Water Act perform functions under the Air Act.
 
+The current statute must be read with the Jan Vishwas amendments. **G.S.R. 757(E), 18 October 2023**, brought the Air Act entries in the Jan Vishwas (Amendment of Provisions) Act, 2023 into force on **1 April 2024**. **G.S.R. 701(E), 12 November 2024**, then notified the Air (Prevention and Control of Pollution) (Manner of Holding Inquiry and Imposition of Penalty) Rules, 2024 for adjudication of covered contraventions. Monetary adjudication changed the sanction route for specified provisions; it did not repeal pollution standards, consent, inspection or direction powers.
+
 ### 2. CPCB and SPCB functions
 
-Under the Air Act, CPCB's national role includes advising the Union, planning nationwide programmes, coordinating State Boards, technical assistance, research, training, information and air-quality functions. SPCBs plan state programmes, advise states, inspect control areas and plants, assess emissions and administer on-ground control.
+Under the Air Act, CPCB's national role includes advising the Union, planning nationwide programmes, coordinating State Boards, technical assistance, research, training, information and air-quality functions. Section 16(2)(h) assigns CPCB the function of laying down standards for the quality of air. SPCBs plan state programmes, advise states, inspect control areas and plants, assess emissions and administer on-ground control; section 17(1)(g) places source-emission standard setting with the State Board, in consultation with CPCB and having regard to CPCB's ambient-air standards.
+
+Many sector-specific source-emission limits are separately notified by the Central Government under sections 3 and 6 of the Environment (Protection) Act, 1986 and rule 3/Schedule I of the Environment (Protection) Rules, 1986. The authority map is therefore:
 
 The exam-safe distinction is:
 
 ```text
-CPCB: national standard-setting / coordination / technical architecture
-SPCB: state consent / inspection / enforcement / local implementation
+CPCB: national ambient-air standards / coordination / technical architecture
+SPCB: consulted source standards + state consent / inspection / enforcement
+Central Government under EPA/Rules: many industry/process emission standards
 ```
 
-This is a functional emphasis, not a claim that CPCB has no enforcement role or that SPCBs make policy in isolation.
+This is a functional emphasis, not a claim that CPCB has no enforcement role, that SPCBs make policy in isolation, or that every national source-emission limit is a CPCB notification.
 
 ### 3. Air-pollution-control areas and industrial consent
 
 The statutory chain allows declaration of air-pollution-control areas and regulates industrial plants within the framework. Consent to Establish and Consent to Operate translate general law into source-specific conditions. Conditions may concern fuel, technology, emission controls, monitoring and operation.
+
+The **Control of Air Pollution (Grant, Refusal or Cancellation of Consent) Guidelines, 2025**, notified through **G.S.R. 84(E), 29 January 2025**, created a nationally structured consent procedure under section 21A. The **2026 Amendment Guidelines, G.S.R. 62(E), 23 January 2026**, now provide that:
+
+1. once granted, **Consent to Operate continues until it is cancelled** under the guidelines;
+2. a State/UT may set a one-time CTO fee for a chosen **5-25 year** period, with a further fee for the next chosen period;
+3. Registered Environment Auditors may perform specified verification functions;
+4. CPCB must develop a unified consent-and-authorisation portal, after which consent processing is to occur through it; and
+5. eligible micro and small units in duly notified industrial estates/areas receive deemed Consent to Establish on submission of the prescribed self-certified application.
 
 **Critical distinction:** a consent order is permission subject to conditions. It is not a certificate that continuous compliance has already occurred.
 
@@ -746,9 +770,9 @@ The statutory chain allows declaration of air-pollution-control areas and regula
 
 ### 5. Regulatory reform without category confusion
 
-The **Jan Vishwas (Amendment of Provisions) Act, 2023** replaced imprisonment with monetary-penalty/adjudication routes for specified minor Air Act offences. This is decriminalisation of listed contraventions, not repeal of emission standards, consent duties, inspection powers or serious environmental accountability. The policy trade-off is precise: simpler, trust-based compliance may reduce procedural criminalisation, but penalties must remain large and certain enough to deter profitable non-compliance.
+The Jan Vishwas reform and the 2024 inquiry rules create a monetary-penalty/adjudication route for specified Air Act contraventions. This is decriminalisation of listed contraventions, not repeal of emission standards, consent duties, inspection powers or serious environmental accountability. The policy trade-off is precise: simpler, trust-based compliance may reduce procedural criminalisation, but penalties and verification must remain sufficiently certain to deter profitable non-compliance.
 
-CPCB's revised industrial classification adds **Blue** to Red, Orange, Green and White. Blue is for industries providing essential environmental services for managing domestic waste and carries an **additional two-year extension** beyond the consent validity otherwise applicable to the category; it does not mean that consent validity is only two years. It is a regulatory category based on pollution/service logic, not an AQI class or proof of zero pollution.
+CPCB's revised industrial classification adds **Blue** to Red, Orange, Green and White. Blue identifies industries providing essential environmental services for managing domestic waste. The Economic Survey 2025-26 recorded a two-year extension in the then category-linked consent-validity framework, based on information retrieved on 14 January 2026. That duration statement must not be used as the current CTO rule: **G.S.R. 62(E), issued on 23 January 2026, now makes CTO continuous until cancellation**, with one-time fee periods of 5-25 years. Blue is a pollution/service classification, not an AQI class, proof of zero pollution or a current two-year CTO.
 
 ### 6. CPCB/SPCB, CAQM and NGT are not substitutes
 
@@ -775,8 +799,8 @@ Use institutional verbs precisely: CPCB **coordinates/sets national architecture
 
 1. The Air Act was enacted in 1981 in the Stockholm/Article 253 context.
 2. Water Act Boards perform Air Act functions.
-3. CPCB has national planning, coordination and technical functions.
-4. SPCBs are central to state-level consent, inspection and enforcement.
+3. CPCB has national planning, coordination and ambient-air-standard functions.
+4. SPCBs are central to consulted source-standard setting, state consent, inspection and enforcement.
 5. Consent to Establish differs from Consent to Operate.
 6. Consent is conditional permission, not proof of continuous compliance.
 7. Emission monitoring needs valid methods and calibrated equipment.
@@ -786,8 +810,11 @@ Use institutional verbs precisely: CPCB **coordinates/sets national architecture
 11. MoEFCC policy and CPCB/SPCB regulation are related but distinct.
 12. Regulator capacity varies and should be measured rather than asserted vaguely.
 13. Legal authority, administrative capacity and political cooperation are separate variables.
-14. Jan Vishwas decriminalised specified minor Air Act offences through monetary-penalty/adjudication routes; it did not remove compliance duties.
-15. Blue is CPCB's essential-environmental-service category for domestic-waste management, with an additional two-year extension beyond the otherwise applicable consent validity, not a total validity of only two years.
+14. G.S.R. 757(E) made the Air Act Jan Vishwas changes effective on 1 April 2024; G.S.R. 701(E) supplies the 2024 inquiry-and-penalty procedure.
+15. G.S.R. 84(E) created the 2025 uniform consent guidelines; G.S.R. 62(E) amended them in 2026.
+16. Current CTO continues until cancellation; 5-25 years is a one-time fee period, not the legal expiry of the consent itself.
+17. Blue remains an essential-environmental-service classification; its earlier extra-validity description must not override the current CTO-continuity rule.
+18. Many sector-specific source limits arise under the Environment (Protection) Act/Rules, not from NAAQS or AQI.
 
 ### Concept check
 
@@ -801,11 +828,11 @@ Use institutional verbs precisely: CPCB **coordinates/sets national architecture
 
 **Mains prompt:** Examine the CPCB-SPCB regulatory chain under the Air Act and identify the points at which formal standards can fail to become cleaner air.
 
-**Model:** The Air Act creates a multi-level chain. CPCB advises the Union, plans nationwide programmes, coordinates State Boards and develops technical and air-quality architecture. SPCBs plan state action, administer consent, inspect plants, monitor emissions and issue enforcement directions. Consent conditions translate general standards into source obligations.
+**Model:** The Air Act creates a multi-level chain. CPCB advises the Union, coordinates State Boards and lays ambient-air-quality standards; SPCBs set source-emission standards in consultation with CPCB, administer consent, inspect plants, monitor emissions and issue enforcement directions. Many industry/process emission limits are separately notified under the Environment (Protection) Act/Rules. Consent conditions translate these general standards into source obligations.
 
 Failure can occur at each link. Standards may lag health evidence or omit important pollutants. Emission inventories and permits may not reflect actual operating conditions. Sparse monitoring, poor calibration or missing CEMS data weaken detection. Staffing, laboratories and legal capacity differ across SPCBs. Penalties may arrive late or be cheaper than compliance. Finally, a corrected stack may not deliver ambient attainment when transport, dust, household fuel, agriculture or secondary aerosols dominate.
 
-Reform should therefore link legal limits to risk-based inspection, tamper-resistant monitoring, accredited laboratories, public data, time-bound adjudication and verified corrective action. CPCB can standardise methods and compare board performance; states must strengthen staff and enforcement; airshed bodies are needed where sources cross borders. Yet centralisation alone is not a cure: local knowledge and accountable state implementation remain essential.
+Reform should therefore link legal limits to risk-based inspection, tamper-resistant monitoring, accredited laboratories, public data, time-bound adjudication and verified corrective action. Since G.S.R. 62(E) makes CTO continuous until cancellation, ongoing verification matters more—not less. CPCB can standardise methods and compare board performance; states must strengthen staff and enforcement; airshed bodies are needed where sources cross borders. Yet centralisation alone is not a cure: local knowledge and accountable state implementation remain essential.
 
 The chain succeeds only when permission, measurement, compliance, emission reduction and ambient outcomes are reported separately and connected causally.
 
@@ -821,9 +848,9 @@ Progress: 6/8 | Stage: Core | Subtopic: Structural, episodic and regional govern
 
 Book context: No relevant local book finding was available.
 
-CA search: "official NCAP CAQM GRAP airshed India update 2 April-2 October 2026"
+CA search: "official NCAP results September 2026 CAQM GRAP 21 November 2025 M.C. Mehta air quality"
 
-CA found: No material dated update was needed for this standing programme comparison.
+CA found: PIB's 7 September 2026 NCAP status note; CAQM's operative GRAP revision dated 21 November 2025; Supreme Court supervision in *M.C. Mehta v. Union of India* and a 29 May 2026 CAQM order issued in pursuance of that supervision.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -841,9 +868,11 @@ inventory → source apportionment → plan → implementation → monitoring �
 
 ### 1. NCAP
 
-The National Clean Air Programme, launched in 2019, is a national framework for improving air quality in identified cities through action plans, monitoring and inter-agency coordination. Its target architecture evolved from an initial 20-30% particulate reduction formulation toward up to 40% PM10 reduction or attainment of the PM10 NAAQS by 2025-26. A target is not proof of achievement.
+The National Clean Air Programme, launched in 2019, is a national framework for improving air quality through action plans, monitoring and inter-agency coordination. Its target architecture evolved from an initial tentative **20-30% reduction in particulate concentration by 2024 against the 2017 base year** to **up to 40% reduction in annual PM10 concentration, or attainment of the PM10 NAAQS of 60 µg/m³, by 2025-26**. The end-year target is not proof that every city attained it.
 
-For NCAP identification, a **non-attainment city** is one that did not meet the notified NAAQS for **PM10 or NO2 over the prescribed five-year monitoring period**. This criterion is narrower than saying that any city with one bad AQI day is non-attainment, and it should not be silently expanded to every pollutant.
+Current official programme language must be separated from the historical identification shorthand. MoEFCC's Annual Report 2025-26 defines a **non-attainment city** as one exceeding the annual average concentration of **any notified NAAQS parameter consecutively for five years**. The current 130-city NCAP/grant universe also includes identified million-plus cities; it is not simply the original PM10/NO2 list.
+
+**Official outcome status, 7 September 2026:** PIB reported that, in FY 2025-26, **108 of 130 cities** recorded lower annual PM10 than in **2017-18**; **72** recorded reductions above 20%, **26** above 40%, and **14** met the PM10 NAAQS. These are government-reported city outcomes for a specified year and baseline, not proof of uniform national attainment, health improvement or causal attribution to one intervention.
 
 **Verified Mains wording, 2020 GS-III, Question 17, 15 marks, 250 words:**
 
@@ -867,11 +896,22 @@ A list of activities without quantified source logic is an administrative checkl
 
 ### 3. GRAP
 
-GRAP is a graded, severity-triggered response for Delhi-NCR. It escalates controls as air quality worsens. It is valuable for acute exposure reduction but is reactive. Construction restrictions, vehicle controls or industrial curbs during an episode cannot substitute for year-round structural change.
+The operative CAQM schedule reviewed here is the **GRAP revision dated 21 November 2025** for the entire NCR, using Delhi AQI and forecasts:
+
+| Stage | Delhi AQI band |
+|---|---:|
+| I — Poor | 201-300 |
+| II — Very Poor | 301-400 |
+| III — Severe | 401-450 |
+| IV — Severe+ | above 450 |
+
+Stages may be invoked in advance when IMD/IITM forecasts show a sustained projected breach; an actual episodic breach can trigger immediate action; and higher-stage restrictions are cumulative with lower stages. GRAP is valuable for acute exposure reduction but remains reactive. Construction restrictions, vehicle controls or industrial curbs during an episode cannot substitute for year-round structural change.
 
 ### 4. CAQM and the coordination problem
 
-CAQM was first created by ordinance in 2020 and placed on a statutory footing by the 2021 Act. Its jurisdiction covers the NCT of Delhi and NCR/adjoining areas in Haryana, Punjab, Rajasthan and Uttar Pradesh. Its design recognises that an airshed crosses municipal and state borders.
+CAQM was first created by ordinance in 2020 and placed on a statutory footing by the 2021 Act. Its field covers the NCR and **adjoining areas**—areas in Haryana, Punjab, Rajasthan and Uttar Pradesh where a pollution source causes adverse impact on NCR air quality. This does not convert the entirety of all four states into NCR. Its design recognises that an airshed crosses municipal and state borders.
+
+Supreme Court supervision remains institutionally distinct from CAQM administration. In its **17 December 2025** order in *M.C. Mehta v. Union of India*, W.P.(C) No. 13029/1985, the Court treated Delhi air quality as a live issue, sought CAQM's expert opinion and requested it to revisit long-term measures across mobility, clean industry/energy, stubble, construction, household pollution, green cover, public transport and inter-state coordination. CAQM's **29 May 2026** GRAP order expressly states that the modified 21 November 2025 schedule operates in pursuance of Supreme Court directions. The Court supervises and issues case-specific directions; CAQM remains the statutory expert commission that invokes, revokes and coordinates GRAP.
 
 ### 5. What is an airshed?
 
@@ -907,12 +947,12 @@ announced reduction ≠ measured attainment
 ### Programme-and-airshed recall
 
 1. NCAP is a national programme launched in 2019.
-2. Its target formulation has evolved; cite the date and baseline.
+2. The original target used a 2017 base; the revised target was up to 40% PM10 reduction or PM10 NAAQS attainment by 2025-26.
 3. NCAP action plans are structural and multi-year.
-4. GRAP is reactive and episode-triggered.
+4. The operative 21 November 2025 GRAP has four stages, uses Delhi AQI/forecasts and applies actions across the entire NCR.
 5. NAAQS define ambient benchmarks; neither NCAP nor GRAP replaces them.
 6. CAQM is statutory under the 2021 Act.
-7. CAQM addresses NCR's cross-jurisdiction coordination failure.
+7. CAQM addresses NCR and source-linked adjoining-area coordination; it does not govern all air regulation nationwide or the entirety of four adjoining states.
 8. An airshed is defined by transport and meteorology, not political lines alone.
 9. Source apportionment must be seasonal and method-aware.
 10. City plans need named agencies, budgets, milestones and outcome indicators.
@@ -920,7 +960,9 @@ announced reduction ≠ measured attainment
 12. Regional governance must preserve transparent accountability.
 13. Transboundary control requires shared data and reciprocal action.
 14. Emergency response and structural prevention are complements.
-15. NCAP non-attainment identification uses failure to meet PM10 or NO2 NAAQS over the prescribed five-year monitoring period.
+15. Current MoEFCC language defines non-attainment by annual exceedance of any notified NAAQS parameter consecutively for five years; the 130-city programme also includes identified million-plus cities.
+16. The 7 September 2026 official status reported 108/130 cities with lower PM10 than 2017-18, 72 above 20% reduction, 26 above 40%, and 14 attaining the PM10 NAAQS.
+17. Supreme Court supervision in *M.C. Mehta* coexists with, rather than replaces, CAQM's statutory GRAP administration.
 
 ### Concept check
 
@@ -1002,7 +1044,18 @@ Transport controls operate through:
 - freight logistics and cleaner commercial fleets;
 - road-dust and congestion management.
 
-**Current linkage — CAQM Direction No. 102 (19 August 2026):** the direction applies to **new registrations**, not the existing fleet, and phases the transition for **N1 and N2 goods vehicles**. For N1 vehicles the sequence begins in Delhi on **1 January 2027**, extends to the five high-vehicle-density NCR districts—Gurugram, Faridabad, Sonipat, Ghaziabad and Gautam Buddha Nagar—on **1 July 2027**, and reaches the remaining NCR districts on **1 January 2028**. For N2 vehicles the corresponding dates are **1 January 2028**, **1 July 2028** and **1 January 2029**. This is a structural **fleet-entry rule**: it changes the technology composition of future freight vehicles rather than waiting for an AQI emergency. Evaluation should test fleet emissions and ambient exposure, not merely registration paperwork.
+**Current linkage — CAQM Direction No. 102 (19 August 2026):** the direction applies to **new registrations**, not operation of the existing fleet. For this direction, N1 light goods vehicles have gross vehicle weight up to **3.5 tonnes** and the covered N2 light goods vehicles are above **3.5 tonnes and up to 7.5 tonnes**.
+
+| Vehicle/area | Restriction and start date |
+|---|---|
+| N1, Delhi | No new diesel/petrol/CNG registration from **1 January 2027**; the direction frames the transition as electric |
+| N1, five high-vehicle-density districts: Gurugram, Faridabad, Sonipat, Ghaziabad, Gautam Buddha Nagar | No new diesel/petrol/CNG registration from **1 July 2027** |
+| N1, remaining NCR districts | No new diesel/petrol registration from **1 January 2028**; CNG remains permitted |
+| N2, Delhi | No new diesel/petrol/CNG registration from **1 January 2028** |
+| N2, the five high-vehicle-density districts | No new diesel/petrol/CNG registration from **1 July 2028** |
+| N2, remaining NCR districts | No new diesel/petrol registration from **1 January 2029**; CNG remains permitted |
+
+This is a structural **fleet-entry rule**. It changes the technology composition of future freight vehicles rather than waiting for an AQI emergency. Evaluation should test fleet emissions and ambient exposure, not merely registration paperwork.
 
 ### 4. Construction and road dust
 
@@ -1057,7 +1110,8 @@ Avoid generic lists such as "awareness, afforestation and strict laws" unless ea
 12. Residue-burning control must address farm economics and timing.
 13. Cloud seeding is conditional and episodic.
 14. Equity support should be conditional on verified cleaner performance.
-15. Evaluate rules by emissions and exposure, not paperwork alone.
+15. Direction No. 102 excludes new diesel/petrol/CNG N1/N2 registration in Delhi and the five high-density districts on the phased dates and frames the transition as electric; it permits CNG in the remaining NCR districts while excluding new diesel/petrol registration.
+16. Evaluate rules by emissions and exposure, not paperwork alone.
 ### Concept check
 
 **Question:** Why is replacing older commercial vehicles with cleaner vehicles a structural measure, while banning them for two severe-AQI days is episodic?
@@ -1334,7 +1388,7 @@ Thus NCAP and GRAP are complementary pillars, not a complete architecture. They 
 
 **Question:** Propose an outcome-oriented reform of India's air-pollution governance architecture.
 
-**Model answer:** Reform should begin by separating six accountability levels: standards, monitoring, compliance, emissions, ambient concentration and health/ecological outcomes. CPCB should maintain harmonised methods, national inventories and comparable board-performance reporting; SPCBs need staff, laboratories, digital permits, risk-based inspection and independently verified source data. Consent must become a continuously verified obligation rather than periodic paperwork.
+**Model answer:** Reform should begin by separating six accountability levels: standards, monitoring, compliance, emissions, ambient concentration and health/ecological outcomes. CPCB should maintain harmonised methods, national inventories and comparable board-performance reporting; SPCBs need staff, laboratories, digital permits, risk-based inspection and independently verified source data. Because current CTO continues until cancellation, continuous verification must replace reliance on periodic renewal paperwork.
 
 NCAP city plans should be recast as source budgets with named agencies, finance and annual emission milestones. Scientific airsheds should coordinate power, industry, transport, agriculture and waste across borders; CAQM offers one model but requires transparent state participation. GRAP should remain an emergency shield, not the headline measure of structural success.
 
@@ -1443,11 +1497,17 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 ## NAAQS and AQI
 
 - 2009 NAAQS cover 12 pollutants.
-- Key values: PM10 annual/24-hour 60/100 µg/m³; PM2.5 40/60; SO2 50/80; NO2 40/80.
+- PM10 annual/24-hour: 60/100 µg/m³; PM2.5: 40/60.
+- SO2 annual: 50 µg/m³ in industrial/residential/rural/other areas and 20 in notified ecologically sensitive areas; 24-hour: 80.
+- NO2 annual: 40 µg/m³ in industrial/residential/rural/other areas and 30 in notified ecologically sensitive areas; 24-hour: 80.
 - Ozone: 100 µg/m³ over 8 hours and 180 over 1 hour; CO: 2 mg/m³ over 8 hours and 4 over 1 hour.
+- Lead annual/24-hour: 0.50/1.0 µg/m³; ammonia: 100/400 µg/m³.
+- Annual-only values: benzene 5 µg/m³; benzo(a)pyrene 1 ng/m³; arsenic 6 ng/m³; nickel 20 ng/m³.
 - AQI uses eight pollutants and six categories from Good to Severe.
-- The 101-200 AQI category is **Moderate**.
-- Overall AQI is driven by the highest qualifying sub-index.
+- The 101-200 AQI category is **Moderately polluted**.
+- AQI needs at least three pollutant sub-indices, including PM10 or PM2.5, with at least 16 valid hours for each calculated sub-index.
+- Daily AQI uses 24-hour averages for PM10, PM2.5, NO2, SO2, ammonia and lead, and 8-hour averages for CO and ozone.
+- Overall AQI is driven by the highest qualifying sub-index after the data-sufficiency gate.
 - NAAQS = benchmark; monitoring = evidence; AQI = communication.
 - Ambient standards and source-emission standards are not interchangeable.
 - Annual NAAQS calculation requires at least 104 site measurements; applicable short-period values use the 98% compliance rule, with no two consecutive monitoring-day exceedances.
@@ -1455,22 +1515,26 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 ## Institutions and law
 
 - Air Act, 1981: prevention, control and abatement; Stockholm/Article 253 context.
-- CPCB: national planning, coordination, technical guidance, standards/data architecture.
-- SPCBs/PCCs: state programmes, consent, inspection, source monitoring and enforcement.
+- CPCB under section 16(2)(h): national planning, coordination, technical guidance and ambient-air-quality standards.
+- SPCBs under section 17(1)(g): source-emission standards in consultation with CPCB, plus state programmes, consent, inspection, source monitoring and enforcement.
+- Central Government under the Environment (Protection) Act/Rules: many industry/process source-emission standards.
 - Consent is conditional permission, not demonstrated continuous compliance.
 - CAQM: statutory regional body under the 2021 Act for NCR/adjoining areas.
 - NGT adjudicates; MoEFCC frames/administers policy and programmes.
 - Capacity, authority and political cooperation are separate governance variables.
-- Jan Vishwas decriminalised specified minor Air Act offences through monetary penalties/adjudication; standards, consent and enforcement duties remain.
-- CPCB's Blue industry category covers essential environmental services for domestic-waste management and adds two years to the consent validity otherwise applicable to the category; it does not set total validity at two years.
+- G.S.R. 757(E): Air Act Jan Vishwas changes effective 1 April 2024; G.S.R. 701(E): 2024 inquiry-and-penalty rules.
+- G.S.R. 84(E): 2025 consent guidelines; G.S.R. 62(E): 2026 amendment.
+- Current CTO remains valid until cancellation; a 5-25-year period concerns one-time fee payment.
+- Blue covers essential environmental services for domestic-waste management; its earlier two-year extra-validity description does not override the current CTO-continuity rule.
 
 ## Programme architecture
 
 - NCAP: structural, multi-year national framework launched in 2019.
-- A non-attainment city failed PM10 or NO2 NAAQS over the prescribed five-year monitoring period.
-- Cite NCAP targets with baseline and date; announced target ≠ attainment.
-- GRAP: reactive, severity-triggered Delhi-NCR episode response.
-- CAQM: response to cross-jurisdiction pollution.
+- Current MoEFCC definition: annual exceedance of any notified NAAQS parameter consecutively for five years; the 130-city universe also includes identified million-plus cities.
+- Target chronology: initial 20-30% particulate reduction by 2024 against 2017; revised up to 40% PM10 reduction or attainment of 60 µg/m³ by 2025-26.
+- Official 7 September 2026 result: 108/130 cities improved against 2017-18; 72 exceeded 20% reduction, 26 exceeded 40%, and 14 met PM10 NAAQS.
+- GRAP: reactive NCR episode response under the operative 21 November 2025 four-stage schedule.
+- CAQM: response to cross-jurisdiction pollution; Supreme Court supervision in *M.C. Mehta* does not replace CAQM administration.
 - Airshed boundaries follow transport and meteorology, not only administration.
 - Clean-air plans need inventory, source apportionment, agencies, budgets, milestones and outcome review.
 
@@ -1479,7 +1543,7 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 - Power/industry: cleaner fuel/process, efficiency, PM capture, SO2/NOx control, QA-assured CEMS.
 - Surat ETS: 317 plants; mandatory CEMS; 20-30% lower particulate emissions and 11-14% lower abatement cost in the experimental comparison.
 - Transport: avoid trips, shift mode, improve technology/maintenance, manage freight and dust.
-- Sole current linkage — CAQM Direction No. 102 (19 August 2026): it limits **new registrations**, not operation of the already-registered fleet. N1 registration restrictions begin in Delhi on **1 January 2027**, the five high-vehicle-density NCR districts on **1 July 2027**, and the remaining NCR districts on **1 January 2028**; N2 restrictions begin in the same three groups on **1 January 2028**, **1 July 2028** and **1 January 2029**, respectively.
+- CAQM Direction No. 102 (19 August 2026) limits **new registrations**, not operation of the existing fleet. Delhi and the five high-density districts exclude new diesel/petrol/CNG N1/N2 registrations on the phased dates; remaining NCR districts exclude new diesel/petrol registration but continue to permit CNG. The direction's covered N2 LGVs are above 3.5 and up to 7.5 tonnes.
 - Construction: contain, cover, clean access and remove debris; sprinkling alone is weak.
 - Waste: service delivery and enforcement against open burning.
 - Household energy: clean fuel/technology reduces indoor and ambient exposure.
@@ -1528,19 +1592,19 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 | Meteorology, inversion, transport | Lesson 2 | Chemistry register | Lesson 2 Mains |
 | Health, exposure and vulnerable groups | Lesson 3 | Health/justice register | Lesson 3 Mains |
 | Ecology, crops, materials, black carbon | Lesson 3 | Health/ecology register | Final 20-marker evidence route |
-| NAAQS pollutants, values and compliance/data-sufficiency rules | Lesson 4 | NAAQS/AQI register | Lesson 4 concept check |
-| Monitoring, siting, QA, 104-measurement minimum and 98% rule | Lessons 4, 8 | NAAQS/outcome registers | Lesson 8 concept check |
-| AQI pollutants, categories and maximum sub-index | Lesson 4 | NAAQS/AQI register | Lesson 4 Mains |
+| Complete 12-pollutant NAAQS table, area-sensitive SO2/NO2 values, averaging periods and units | Lesson 4 | NAAQS/AQI register | Lesson 4 concept check |
+| Monitoring, CAAQMS, siting, QA, 104-measurement minimum and 98% rule | Lessons 4, 8 | NAAQS/outcome registers | Lesson 8 concept check |
+| AQI pollutants, categories, 3-pollutant/PM/16-hour gate, averaging periods and maximum sub-index | Lesson 4 | NAAQS/AQI register | Lesson 4 Mains |
 | Ambient/emission/compliance/outcome distinctions | Lessons 4, 5, 8 | Master matrix | Final 10/20 markers |
-| Air Act, Jan Vishwas decriminalisation and CPCB/SPCB functions | Lesson 5 | Institutions register | Lesson 5 Mains |
-| Consent, inspection and enforcement | Lesson 5 | Institutions register | Remediation table |
-| CPCB Blue industry category: additional two-year consent-validity extension, not total two-year validity | Lesson 5 | Institutions register | Institutional distinction route |
-| NCAP, non-attainment criterion and city action plans | Lesson 6 | Programme register | 2020 PYQ and final 15-marker |
-| GRAP versus structural control | Lesson 6 | Programme register | Lesson 6 concept check |
-| CAQM, airshed and transboundary governance | Lesson 6 | Programme/governance maps | Lesson 6 Mains |
+| Air Act, EPA/Rules standards boundary, Jan Vishwas commencement, 2024 penalty rules and CPCB/SPCB functions | Lesson 5 | Institutions register | Lesson 5 Mains |
+| G.S.R. 84(E)/62(E), current CTO continuity, consent, inspection and enforcement | Lesson 5 | Institutions register | Remediation table |
+| CPCB Blue industry category, historically reported extra validity and current CTO-continuity override | Lesson 5 | Institutions register | Institutional distinction route |
+| NCAP target chronology, current non-attainment definition, 130-city scope and September 2026 results | Lesson 6 | Programme register | 2020 PYQ and final 15-marker |
+| Operative 21 November 2025 GRAP versus structural control | Lesson 6 | Programme register | Lesson 6 concept check |
+| CAQM, *M.C. Mehta* supervision, airshed and transboundary governance | Lesson 6 | Programme/governance maps | Lesson 6 Mains |
 | Power/industrial controls and quantitative Surat ETS evidence | Lesson 7 | Sector register | Lesson 7 Mains |
 | Transport, dust, waste, household and agriculture | Lesson 7 | Sector register | Lesson 7 concept check |
-| Exactly one current linkage | Lesson 7 | Sector register repeats the same sole linkage for final retrieval, including phased dates and the new-registration limitation | Lesson 7 evaluation prompt |
+| Dated current evidence | Lessons 5-7 | Consent reform, September 2026 NCAP status, operative GRAP/court supervision and Direction No. 102 | Lessons 5-7 evaluation prompts |
 | Cloud seeding limitation | Lessons 2 and 7 | Sector register | 2025 objective route |
 | Inventory, source apportionment and MRV | Lesson 8 | Outcome register | Lesson 8 concept check/Mains |
 | Outcome measurement and causal attribution | Lesson 8 | Master matrix | Final 20-marker |
@@ -1554,14 +1618,14 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\13_Air-Pollution-and-CPCB-Standards.md` is completely mapped to Lessons 1-7 before the Advanced teaching block |
+| Canonical Markdown | checked | The complete air-pollution content in `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\13_Air-Pollution-and-CPCB-Standards.md` is mapped to Lessons 1-7; the unrelated communalism tail formerly appended after the Topic 13 PYQ block was removed from the canonical owner during this bounded repair |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Layered/complete session | not available | No permitted pre-existing Topic 13 live-session edition existed at the requested path; learner-v2 artifacts were excluded |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\13_Air-Pollution-and-CPCB-Standards.md` is mapped after the Basic sequence to Lesson 8's reactive/structural, CAQM, source-apportionment, NCAP/data-limit, tension and outcome-governance treatment |
 | OCR books | not available | No permitted OCR-searchable Environment/air-pollution book PDF was present in the repository workspace |
 | PYQs through 2026 | checked | Prelims routing ledgers for 2018-2026, Mains GS-III ledgers for 2018-2025, and the OCR-verified official 2026 GS-III paper in `_PYQ-GS3-2026.md` were checked; no direct 2026 Topic 13 item is routed |
-| Official live sources | checked | Exact CPCB NAAQS/AQI/ambient-monitoring and OCEMS documents, India Code statutes, Economic Survey 2025-26 Chapter 10, WHO 2021 AQG, CPCB NCAP/PRANA material and CAQM Direction No. 102 were used as listed below |
+| Official live sources | checked | CPCB NAAQS/AQI/monitoring and OCEMS documents; current Air Act consent/penalty Gazettes; EPA/Rules; MoEFCC Annual Report 2025-26; PIB's 7 September 2026 NCAP status; CAQM's 21 November 2025 GRAP and 29 May 2026 order; the Supreme Court's 17 December 2025 *M.C. Mehta* order; and CAQM Direction No. 102 were checked as listed below |
 
 ## Canonical and cross-owner evidence
 
@@ -1583,22 +1647,34 @@ ULBs / transport / power / agriculture / industry agencies: delivery
 
 ## Official and primary-source docket
 
-- Air (Prevention and Control of Pollution) Act, 1981, India Code, especially sections 16-17: `https://www.indiacode.nic.in/handle/123456789/1378?locale=en`.
+- Air (Prevention and Control of Pollution) Act, 1981, India Code text, especially sections 16-17 and 21: `https://www.indiacode.nic.in/indiacode/bitstream/123456789/7781/1/air_act-1981.pdf`.
+- Environment (Protection) Act, 1986 and Environment (Protection) Rules, 1986, including rule 3/Schedule I source-emission standards: `https://www.moef.gov.in/uploads/2018/03/THE_ENVIRONMENT.pdf`.
 - Commission for Air Quality Management in National Capital Region and Adjoining Areas Act, 2021, India Code: `https://www.indiacode.nic.in/handle/123456789/16898?locale=en`.
 - CPCB, **National Ambient Air Quality Standards**, notification **B-29016/20/90/PCI-I, 18 November 2009**, including the 104-measurement, 98% compliance and consecutive-exceedance notes: `https://airquality.cpcb.gov.in/ccr_docs/Air_quality_standards.pdf`.
-- CPCB, **Guidelines for the Measurement of Ambient Air Pollutants, Volume I**, report **NAAQMS/36/2012-13**: `https://cpcb.nic.in/displaypdf.php?id=cGhwL3B1YmxpY2F0aW9uX2ZpbGVzL0dVSURFTElORVNGT1JNQVVBTFNBTVBMSU5HX0FOT0FMWVlTSVNWb2xELklfTkFBUU1TXzM2XzIwMTItMTMuLnBkZg==`.
-- CPCB/IIT Kanpur, **National Air Quality Index: Final Report** (2014), methodology, breakpoints and category term **Moderate**: `https://app.cpcbccr.com/ccr_docs/FINAL-REPORT_AQI_.pdf`.
-- CPCB, **Guidelines for Continuous Emission Monitoring Systems**, Revision-01, August 2018: `http://cpcb.nic.in/upload/thrust-area/revised-ocems-guidelines-29.08.2018.pdf`.
+- CPCB publication record for **Guidelines for the Measurement of Ambient Air Pollutants, Volume I**, report **NAAQMS/36/2012-13**: `https://cpcb.gov.in/publication-details.php?pid=OA`.
+- CPCB, **About National Air Quality Index**, for the official AQI category labels, ranges and pollutant breakpoints, including **Moderately polluted**: `https://airquality.cpcb.gov.in/ccr_docs/About_AQI.pdf`.
+- CPCB, **How is AQI Calculated?**, for the minimum three pollutants, mandatory PM pollutant, 16-hour sufficiency rule, averaging periods and maximum-sub-index method: `https://airquality.cpcb.gov.in/ccr_docs/How_AQI_Calculated.pdf`.
+- CPCB, **Guidelines for Continuous Emission Monitoring Systems**, Revision-01, August 2018: `https://cpcb.nic.in/upload/thrust-area/revised-ocems-guidelines-29.08.2018.pdf`.
+- MoEFCC, **Annual Report 2025-26**, NCAP/CAAQMS status, current non-attainment definition and revised target: `https://moef.gov.in/uploads/pdf-uploads/Nitin_Rev_4.pdf`.
+- PIB, **India's Path to Blue Skies**, 7 September 2026, for FY 2025-26 results across 130 cities: `https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/sep/doc_9816_20260907_20291701.pdf`.
 - CPCB, National Clean Air Programme official resource page: `https://cpcb.gov.in/ncap/`; official PRANA portal: `https://prana.cpcb.gov.in/`.
-- Economic Survey 2025-26, Chapter 10, paragraphs 10.84-10.95 and Box X.9, for Surat ETS, Blue category's additional two-year consent-validity extension (not total two-year validity) and decriminalisation: `https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap10.pdf`.
+- MoEFCC, **G.S.R. 757(E), 18 October 2023**, making Air Act Jan Vishwas amendments effective 1 April 2024: `https://egazette.gov.in/WriteReadData/2023/249554.pdf`.
+- MoEFCC, **G.S.R. 701(E), 12 November 2024**, Air (Prevention and Control of Pollution) (Manner of Holding Inquiry and Imposition of Penalty) Rules, 2024: `https://egazette.gov.in/WriteReadData/2024/258629.pdf`.
+- MoEFCC, **G.S.R. 84(E), 29 January 2025**, Control of Air Pollution (Grant, Refusal or Cancellation of Consent) Guidelines, 2025: `https://egazette.gov.in/WriteReadData/2025/260611.pdf`.
+- MoEFCC, **G.S.R. 62(E), 23 January 2026**, Control of Air Pollution (Grant, Refusal or Cancellation of Consent) Amendment Guidelines, 2026: `https://egazette.gov.in/WriteReadData/2026/269608.pdf`.
+- Economic Survey 2025-26, Chapter 10, paragraphs 10.84-10.95 and Box X.9, for Surat ETS, the Blue category's then-recorded additional two-year validity treatment based on information retrieved 14 January 2026, and decriminalisation: `https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap10.pdf`.
 - WHO, *Global Air Quality Guidelines* (2021): `https://www.who.int/publications/i/item/9789240034228`.
-- CAQM, **Direction No. 102, 19 August 2026**, official direction PDF on phased new N1/N2 goods-vehicle registration requirements: `https://caqm.nic.in/FileUploadDomain/WebsiteDocument/Advisories%20and%20Direction/Directions/db43400f-bee0-4479-af3e-963f666becc9.pdf` — the sole dated current-affairs linkage used in the teaching file.
+- CAQM, **GRAP for NCR, revision dated 21 November 2025**, four stages, advance invocation and cumulative action: `https://caqm.nic.in/FileUploadDomain/WebsiteDocument/Home/News/GRAP%20Schedule7e3bd726-7308-484f-995f-7cb3fa705b8d.pdf`.
+- Supreme Court, *M.C. Mehta v. Union of India*, W.P.(C) No. 13029/1985, order dated **17 December 2025**, long-term air-quality measures and CAQM consultation: `https://api.sci.gov.in/supremecourt/1985/63998/63998_1985_1_301_67080_Order_17-Dec-2025.pdf`.
+- CAQM, order dated **29 May 2026**, stating that the modified 21 November 2025 GRAP operates in pursuance of Supreme Court directions: `https://caqm.nic.in/FileUploadDomain/WebsiteDocument/Whats%20New/Latest%20Updates/GRAP%20Stage%20I%20Revocation%20Order%2029052026996e5190-fa00-43c9-bb1c-6a0a70a548ee.pdf`.
+- CAQM, **Direction No. 102, 19 August 2026**, official direction PDF on phased new N1/N2 goods-vehicle registration requirements and the distinct CNG rule for remaining NCR districts: `https://caqm.nic.in/FileUploadDomain/WebsiteDocument/Advisories%20and%20Direction/Directions/db43400f-bee0-4479-af3e-963f666becc9.pdf`.
 
 ## Evidence cautions
 
-- NCAP targets and baselines have changed; every numeric target should carry its date and baseline.
+- NCAP targets, city groupings and baselines have changed; every numeric target or outcome should carry its date, denominator and baseline.
 - Source shares are study-, receptor-, season- and method-specific.
 - WHO guidelines are health recommendations, not Indian statutory limits.
 - Precise mortality, morbidity or crop-loss totals require named study provenance.
-- The Basic owner contains an unrelated corrupted tail after its air-pollution material; no communalism content from that tail was used.
+- The unrelated communalism tail formerly appended to the Basic owner was removed during this bounded repair; the repaired canonical file now ends with Topic 13 air-pollution/PYQ material.
+- The Economic Survey's Blue-category extra-validity description reflects information retrieved on 14 January 2026; G.S.R. 62(E), dated 23 January 2026, controls the current CTO-continuity rule.
 - No official answer key is reproduced or inferred for any displayed objective PYQ.
