@@ -2,7 +2,7 @@
 
 Climate science asks a disciplined sequence of questions: **How does Earth gain and lose energy? What disturbed that balance? How do we know the disturbance is mainly human-caused? What follows for the ocean, ice, extremes and India? What can mitigation change, and what must adaptation manage?** This session answers those questions in dependency order. It distinguishes long-term climate change from short-term weather variability, physical forcing from feedback, observation from attribution, and robust findings from conditional projections.
 
-> **Scientific status:** Findings are stated as at **3 October 2026**. IPCC AR6 remains the latest completed full assessment; the AR7 cycle is underway, with its Synthesis Report scheduled after the Working Group reports and planned for late 2029. The latest global annual-status evidence used here is WMO's *State of the Global Climate 2025*.
+> **Scientific status:** Findings were rechecked through **5 October 2026**. IPCC AR6 remains the latest completed full assessment; the AR7 cycle is underway, with its Synthesis Report scheduled after the Working Group reports and planned for late 2029. Current controls used here include WMO's *State of the Global Climate 2025*, the peer-reviewed *Global Carbon Budget 2025* and *Indicators of Global Climate Change 2025*, and IMD's *Statement on the Climate of India during 2025*.
 
 ## Roadmap
 
@@ -49,9 +49,11 @@ Progress: 1/15 | Stage: Foundation | Subtopic: Timescale, baseline, variability 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Long observational records and physical mechanisms are needed before trends can be separated from variability.
+📚 Book context: Queried — long observational records and physical mechanisms are needed before trends can be separated from variability.
 
-📰 Current context: None used; this is a timeless conceptual foundation.
+🔍 CA search: `site:wmo.int climate variability global warming 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: WMO, *Global Annual to Decadal Climate Update 2026–2035* (2026; accessed 5 October 2026). It is an outlook, not evidence for attributing the historical trend taught here.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -174,9 +176,11 @@ Progress: 2/15 | Stage: Foundation | Subtopic: Shortwave input, longwave output,
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: The greenhouse effect is an energy-flow mechanism, not a glass-roof analogy taken literally.
+📚 Book context: Queried — the greenhouse effect is an energy-flow mechanism, not a glass-roof analogy taken literally.
 
-📰 Current context: None used; the governing physics is established.
+🔍 CA search: `site:nasa.gov greenhouse effect Earth energy balance 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: No new dated assessment replaced the governing mechanism. NASA energy-balance and Earth-indicator pages were checked on 5 October 2026; static physics remains controlled by IPCC AR6.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -288,7 +292,7 @@ shortwave arrival → surface absorption → longwave emission
 
 **Mains prompt:** Explain the natural greenhouse effect and show how human activity enhances it.
 
-**Model (210 words):** Earth's climate is governed by an energy balance. Incoming solar radiation is mainly shortwave; part is reflected by clouds, aerosols and bright surfaces, while the remainder is absorbed. The warmed surface emits longwave infrared radiation. Greenhouse gases such as water vapour, carbon dioxide, methane and nitrous oxide absorb selected infrared wavelengths and re-emit energy upward and downward. This natural process keeps the surface roughly 33°C warmer than a planet without greenhouse gases and is therefore essential for life.
+**Model (201 words):** Earth's climate is governed by an energy balance. Incoming solar radiation is mainly shortwave; part is reflected by clouds, aerosols and bright surfaces, while the remainder is absorbed. The warmed surface emits longwave infrared radiation. Greenhouse gases such as water vapour, carbon dioxide, methane and nitrous oxide absorb selected infrared wavelengths and re-emit energy upward and downward. This natural process keeps the surface roughly 33°C warmer than a planet without greenhouse gases and is therefore essential for life.
 
 Human activity enhances, rather than creates, this mechanism. Fossil-fuel combustion and cement production add CO₂; deforestation weakens land carbon uptake and can release stored carbon; agriculture, fossil-energy leakage and waste emit methane; fertilised soils and manure emit nitrous oxide; industry emits fluorinated gases. Higher concentrations increase effective radiative forcing. The altitude from which infrared radiation effectively escapes rises into colder air, so outgoing energy initially falls below absorbed solar energy. Ocean, land and atmosphere then warm until a new energy balance is reached.
 
@@ -304,9 +308,11 @@ Progress: 3/15 | Stage: Foundation | Subtopic: CO₂, CH₄, N₂O, water vapour
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: A gas matters through concentration, radiative efficiency, lifetime, spectral overlap and indirect chemical effects—not one potency ranking.
+📚 Book context: Queried — a gas matters through concentration, radiative efficiency, lifetime, spectral overlap and indirect chemical effects—not one potency ranking.
 
-📰 Current context: None used; assessment values are tied to IPCC AR6.
+🔍 CA search: `site:ipcc.ch methane nitrous oxide lifetime GWP 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: No post-AR6 IPCC gas-lifetime or GWP assessment was released in the bounded window; AR6 values remain controlling as at 5 October 2026.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -364,6 +370,15 @@ This does not make CO₂ irrelevant. The rapidly adjusting variable is water vap
 
 **Global Warming Potential (GWP)** compares the integrated radiative effect of a pulse emission with CO₂ over a chosen time horizon. A short-lived gas appears relatively more important over a short horizon than over a century.
 
+**Carbon-dioxide equivalent (CO₂-e or CO₂eq)** is an accounting conversion:
+
+```text
+mass of a greenhouse gas × its selected GWP time-horizon value
+                         = mass of CO₂-equivalent
+```
+
+Thus one tonne of a gas multiplied by its stated GWP-20 produces tonnes CO₂-e on a 20-year basis; using GWP-100 produces a different value for the same gas mass. The assessment version, gas category and horizon must accompany the result. CO₂-e is not the gas's physical mass, atmospheric lifetime or instantaneous forcing, and equal annual CO₂-e totals do not guarantee equal temperature pathways. In particular, conventional pulse-emission GWP can obscure the different temperature effects of sustained short-lived-gas emissions and cumulative CO₂.
+
 **Objection:** A higher GWP means that gas should always be cut before CO₂.
 
 **Reply:** Priority depends on the policy objective. Methane cuts can slow near-term warming, but cumulative CO₂ determines long-term temperature stabilisation. A single metric cannot erase this distinction.
@@ -391,8 +406,10 @@ source → atmospheric adjustment time → radiative role
 8. Cement emits CO₂ through energy use and limestone calcination.
 9. Rice and livestock are important methane sources; fertilised soils are major N₂O sources.
 10. GWP must always be accompanied by its time horizon.
-11. Methane mitigation offers faster benefits but does not replace CO₂ mitigation.
-12. Net-zero CO₂ is required to stabilise CO₂-driven warming.
+11. CO₂-e equals gas mass multiplied by the selected GWP-horizon value; it is a metric, not a lifetime.
+12. Equal CO₂-e totals can produce different temperature pathways.
+13. Methane mitigation offers faster benefits but does not replace CO₂ mitigation.
+14. Net-zero CO₂ is required to stabilise CO₂-driven warming.
 
 ### Concept check
 
@@ -406,7 +423,7 @@ source → atmospheric adjustment time → radiative role
 
 **Mains prompt:** Why must climate mitigation distinguish carbon dioxide, methane and nitrous oxide rather than treat all greenhouse gases identically?
 
-**Model (224 words):** Greenhouse gases differ in sources, atmospheric adjustment time, radiative efficiency and policy response. Carbon dioxide arises mainly from fossil-energy use, cement and land-use change. It has no single lifetime: ocean and land remove parts of a pulse at different rates, while a fraction persists for centuries to millennia. Consequently, warming is closely related to cumulative CO₂ emissions, and stabilising temperature requires net-zero anthropogenic CO₂.
+**Model (203 words):** Greenhouse gases differ in sources, atmospheric adjustment time, radiative efficiency and policy response. Carbon dioxide arises mainly from fossil-energy use, cement and land-use change. It has no single lifetime: ocean and land remove parts of a pulse at different rates, while a fraction persists for centuries to millennia. Consequently, warming is closely related to cumulative CO₂ emissions, and stabilising temperature requires net-zero anthropogenic CO₂.
 
 Methane comes from fossil-fuel leakage, livestock, rice, waste and wetlands. Its assessed perturbation lifetime is about twelve years. Strong methane cuts can therefore reduce near-term warming relatively quickly and also lower tropospheric ozone, producing health and crop benefits. Yet methane action cannot compensate for continuing CO₂ accumulation.
 
@@ -424,9 +441,11 @@ Progress: 4/15 | Stage: Core | Subtopic: Positive and negative forcing, effectiv
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Forcing identifies the imposed energy disturbance; feedback describes the system's response to it.
+📚 Book context: Queried — forcing identifies the imposed energy disturbance; feedback describes the system's response to it.
 
-📰 Current context: None used; quantitative statements use IPCC AR6 assessment periods.
+🔍 CA search: `site:wmo.int aerosols radiative forcing climate 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: WMO, *Air Quality and Climate Bulletin No. 6* (September 2026), reaffirmed aerosol–cloud and air-quality–climate linkages; no numerical forcing estimate from the bulletin is imported here.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -522,7 +541,7 @@ Use the answer line: **"Observed warming is the residual of strong greenhouse fo
 
 **Mains prompt:** Explain the aerosol-masking problem in climate policy.
 
-**Model (143 words):** Anthropogenic aerosols and greenhouse gases affect the same energy budget in different ways. Long-lived greenhouse gases produce positive forcing, while sulphate-rich aerosols scatter sunlight and modify clouds, generating a net cooling influence. IPCC AR6 therefore describes observed warming as greenhouse warming partly masked by aerosol cooling. Because aerosols remain in the atmosphere briefly, air-pollution controls can remove their cooling faster than CO₂ concentrations decline, revealing additional near-term warming. This creates a sequencing challenge, not a reason to retain pollution. Sulphur pollution causes major health and ecological damage, while black carbon itself warms the atmosphere and darkens Himalayan snow. Policy must clean the air and simultaneously accelerate CO₂ and methane reduction. The correct conclusion is that air-quality action and climate action have large co-benefits but are not physically identical; control of short-lived cooling particles cannot substitute for control of long-lived warming gases.
+**Model (141 words):** Anthropogenic aerosols and greenhouse gases affect the same energy budget in different ways. Long-lived greenhouse gases produce positive forcing, while sulphate-rich aerosols scatter sunlight and modify clouds, generating a net cooling influence. IPCC AR6 therefore describes observed warming as greenhouse warming partly masked by aerosol cooling. Because aerosols remain in the atmosphere briefly, air-pollution controls can remove their cooling faster than CO₂ concentrations decline, revealing additional near-term warming. This creates a sequencing challenge, not a reason to retain pollution. Sulphur pollution causes major health and ecological damage, while black carbon itself warms the atmosphere and darkens Himalayan snow. Policy must clean the air and simultaneously accelerate CO₂ and methane reduction. The correct conclusion is that air-quality action and climate action have large co-benefits but are not physically identical; control of short-lived cooling particles cannot substitute for control of long-lived warming gases.
 
 **Unique quantified rubric (10):** opposing forcings 2; masking mechanism 2; short-lived adjustment 2; health-climate trade-off 2; integrated policy conclusion 2.
 
@@ -534,9 +553,11 @@ Progress: 5/15 | Stage: Core | Subtopic: Planck response, water vapour, clouds, 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Feedbacks determine how strongly the climate responds after forcing begins.
+📚 Book context: Queried — feedbacks determine how strongly the climate responds after forcing begins.
 
-📰 Current context: None used; confidence statements follow IPCC AR6.
+🔍 CA search: `site:ipcc.ch climate feedback clouds water vapour 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: No completed 2026 IPCC assessment of cloud or water-vapour feedbacks was found; AR6 remains the controlling assessment.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -632,7 +653,7 @@ trigger → intermediate change → energy/carbon effect → sign
 
 **Mains prompt:** Explain how major climate feedbacks modify the response to greenhouse-gas forcing.
 
-**Model (222 words):** Greenhouse-gas forcing creates an initial energy imbalance; feedbacks determine the resulting temperature response. The fundamental damping mechanism is the Planck response: a warmer Earth emits more infrared radiation, tending to restore balance. Several other feedbacks amplify warming.
+**Model (197 words):** Greenhouse-gas forcing creates an initial energy imbalance; feedbacks determine the resulting temperature response. The fundamental damping mechanism is the Planck response: a warmer Earth emits more infrared radiation, tending to restore balance. Several other feedbacks amplify warming.
 
 First, warmer air contains more water vapour, itself a greenhouse gas. This positive feedback is partly assessed with the globally negative lapse-rate feedback, but their combined effect remains amplifying. Second, loss of snow and sea ice exposes darker land or ocean, lowers albedo and increases solar absorption. Third, cloud amount, height, phase and distribution change. Low clouds can cool through reflection, whereas high cold clouds impede infrared loss; IPCC AR6 assesses the net global cloud feedback as positive while retaining uncertainty in magnitude.
 
@@ -650,9 +671,11 @@ Progress: 6/15 | Stage: Core | Subtopic: Response metrics, cumulative emissions 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Sensitivity estimates temperature response to forcing; a carbon budget translates the near-linear cumulative CO₂ relationship into a limit.
+📚 Book context: Queried — sensitivity estimates temperature response to forcing; a carbon budget translates the near-linear cumulative CO₂ relationship into a limit.
 
-📰 Current context: None used; the numerical budget is identified by its AR6 baseline rather than presented as a 2026 remainder.
+🔍 CA search: `Indicators of Global Climate Change 2025 remaining carbon budget 2026 peer reviewed after:2026-04-05 before:2026-10-06`
+
+📰 CA found: *Global Carbon Budget 2025* (published 13 May 2026) and *Indicators of Global Climate Change 2025* (published 11 June 2026) provide peer-reviewed start-2026 updates; their baselines and methods are kept separate from the AR6 start-2020 figure.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -713,9 +736,15 @@ A remaining budget specifies:
 5. allowance for Earth-system feedbacks; and
 6. treatment of warming after net zero.
 
-AR6 estimated about **500 GtCO₂ from the beginning of 2020** for a 50% likelihood of limiting warming to 1.5°C. That is an assessment-baseline figure, not the remaining amount on 3 October 2026. Emissions since 2020 have depleted it.
+AR6 estimated about **500 GtCO₂ from the beginning of 2020** for a 50% likelihood of limiting warming to 1.5°C. That is an assessment-baseline figure, not the remaining amount on 5 October 2026. Emissions since 2020 have depleted it.
 
-### 6. Budget does not mean permission to emit
+### 6. The peer-reviewed 2026 update
+
+The peer-reviewed *Global Carbon Budget 2025*, published on **13 May 2026**, estimated a remaining budget from the **beginning of 2026** of about **170 GtCO₂** for a 50% likelihood of limiting warming to 1.5°C—around four years at 2025 emissions levels. Its authors expressly emphasised large uncertainty when the remaining margin is this small. The independent annual update *Indicators of Global Climate Change 2025*, published on **11 June 2026**, likewise updates remaining budgets relative to the start of 2026 and estimated human-induced warming at **1.37°C in 2025**.
+
+These updates do not make the AR6 figure "wrong." They use later observations, emissions and methodological updates and begin from a later date. An answer must never combine the AR6 start-2020 value and a start-2026 update as if they were estimates for the same baseline.
+
+### 7. Budget does not mean permission to emit
 
 A global budget does not allocate national shares. Equity requires separate principles concerning historical responsibility, capacity, development needs and vulnerability. Nor does a 50% budget guarantee success; it openly accepts a substantial chance of exceedance.
 
@@ -749,8 +778,10 @@ temperature limit + probability + baseline
 8. Net-zero anthropogenic CO₂ is required for temperature stabilisation.
 9. A carbon budget must state temperature, probability and start date.
 10. The AR6 500 GtCO₂ figure begins in 2020 and is not a current 2026 remainder.
-11. Global carbon-budget physics does not by itself allocate national shares.
-12. Delay consumes the budget and raises dependence on steep cuts or removals.
+11. *Global Carbon Budget 2025* estimated about 170 GtCO₂ from start-2026 for a 50% likelihood of 1.5°C.
+12. Budget estimates from different baselines and methods must not be silently combined.
+13. Global carbon-budget physics does not by itself allocate national shares.
+14. Delay consumes the budget and raises dependence on steep cuts or removals.
 
 ### Concept check
 
@@ -764,7 +795,7 @@ temperature limit + probability + baseline
 
 **Mains prompt:** Explain the scientific basis and policy significance of the remaining carbon budget.
 
-**Model (229 words):** The remaining carbon budget follows from the near-linear relationship between cumulative anthropogenic CO₂ emissions and global mean warming. CO₂ accumulates because natural sinks remove emissions only gradually and a fraction persists for very long periods. Consequently, limiting warming to a chosen level requires limiting total net cumulative CO₂ and ultimately reaching net-zero anthropogenic CO₂.
+**Model (207 words):** The remaining carbon budget follows from the near-linear relationship between cumulative anthropogenic CO₂ emissions and global mean warming. CO₂ accumulates because natural sinks remove emissions only gradually and a fraction persists for very long periods. Consequently, limiting warming to a chosen level requires limiting total net cumulative CO₂ and ultimately reaching net-zero anthropogenic CO₂.
 
 A budget is meaningful only when its conditions are stated: temperature limit, probability, start date, non-CO₂ assumptions and Earth-system feedback allowance. IPCC AR6 estimated roughly 500 GtCO₂ from the start of 2020 for a 50% likelihood of limiting warming to 1.5°C. It is not a current 2026 remainder; emissions since the baseline have consumed part of it.
 
@@ -782,9 +813,11 @@ Progress: 7/15 | Stage: Core | Subtopic: Observations, fingerprints, counterfact
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Attribution combines observations, physical theory, models and exclusion of competing explanations.
+📚 Book context: Queried — attribution combines observations, physical theory, models and exclusion of competing explanations.
 
-📰 Current context: WMO, *State of the Global Climate 2025*, published in 2026.
+🔍 CA search: `site:wmo.int State of the Global Climate 2025 published 2026 after:2026-03-01 before:2026-10-06`
+
+📰 CA found: WMO, *State of the Global Climate 2025*, released 23 March 2026; annual observations are not substituted for formal long-term attribution.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -887,7 +920,7 @@ Use the phrase: **"Anthropogenic attribution is a best-explanation test across f
 
 **Mains prompt:** How does climate science distinguish anthropogenic warming from natural variability?
 
-**Model (223 words):** Climate attribution tests competing causal explanations rather than relying on simple correlation. First, observations detect coherent changes: surface warming, ocean heat gain, glacier retreat, sea-level rise and shifts in atmospheric temperature. Second, the spatial and vertical fingerprints are examined. Greenhouse forcing produces tropospheric warming with stratospheric cooling, whereas stronger solar output would not produce the same pattern.
+**Model (192 words):** Climate attribution tests competing causal explanations rather than relying on simple correlation. First, observations detect coherent changes: surface warming, ocean heat gain, glacier retreat, sea-level rise and shifts in atmospheric temperature. Second, the spatial and vertical fingerprints are examined. Greenhouse forcing produces tropospheric warming with stratospheric cooling, whereas stronger solar output would not produce the same pattern.
 
 Third, climate-model ensembles create counterfactual worlds. Simulations driven only by solar and volcanic forcing fail to reproduce the observed multi-decadal warming, while simulations including anthropogenic greenhouse gases, aerosols and land-use change reproduce its broad magnitude and pattern. Energy-budget evidence and paleoclimate constraints provide independent checks.
 
@@ -905,9 +938,11 @@ Progress: 8/15 | Stage: Core | Subtopic: Where excess energy and carbon go
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: The ocean records the energy imbalance, absorbs carbon and links warming to delayed sea-level and ecosystem change.
+📚 Book context: Queried — the ocean records the energy imbalance, absorbs carbon and links warming to delayed sea-level and ecosystem change.
 
-📰 Current context: None added; global evidence uses IPCC AR6 and Indian-region evidence uses the MoES assessment.
+🔍 CA search: `site:wmo.int ocean heat sea level State of Global Climate 2025 after:2026-03-01 before:2026-10-06`
+
+📰 CA found: WMO, *State of the Global Climate 2025* (23 March 2026), reports continuing ocean warming and record climate-system imbalance; the lesson retains AR6 quantities where exact assessment periods are required.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1018,7 +1053,7 @@ Build answers through **mechanism → global indicator → local modifier → im
 
 **Mains prompt:** Explain how ocean warming, ocean acidification, sea-level rise and cryosphere loss are connected yet scientifically distinct.
 
-**Model (235 words):** These changes originate from anthropogenic forcing but operate through different pathways. The planetary energy imbalance sends most excess heat into the ocean. Ocean warming drives thermal expansion, intensifies marine heat stress and influences circulation. Acidification is chemically distinct: absorbed atmospheric CO₂ forms carbonic-acid species, lowers pH and reduces carbonate-ion availability. A warmer ocean can aggravate ecological stress, but temperature itself is not the cause of acidification.
+**Model (200 words):** These changes originate from anthropogenic forcing but operate through different pathways. The planetary energy imbalance sends most excess heat into the ocean. Ocean warming drives thermal expansion, intensifies marine heat stress and influences circulation. Acidification is chemically distinct: absorbed atmospheric CO₂ forms carbonic-acid species, lowers pH and reduces carbonate-ion availability. A warmer ocean can aggravate ecological stress, but temperature itself is not the cause of acidification.
 
 Sea-level rise combines thermal expansion with added water from mountain glaciers and the Greenland and Antarctic ice sheets. Groundwater use, reservoirs, circulation, gravity and vertical land motion modify regional and relative sea level. IPCC AR6 assessed about 0.20 m global mean rise between 1901 and 2018, with acceleration.
 
@@ -1036,9 +1071,11 @@ Progress: 9/15 | Stage: Core | Subtopic: Probability, intensity, exposure and ev
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Climate change usually alters the odds or intensity of an event type; it is rarely the sole cause of the observed disaster.
+📚 Book context: Queried — climate change usually alters the odds or intensity of an event type; it is rarely the sole cause of the observed disaster.
 
-📰 Current context: None used; attribution confidence follows IPCC AR6 event categories.
+🔍 CA search: `site:worldweatherattribution.org extreme event attribution 2026 heat flood after:2026-04-05 before:2026-10-06`
+
+📰 CA found: Rapid-attribution reports for 2026 heat and rainfall events were located, but no event-specific statistic is used because the lesson teaches method and IPCC-assessed event-category confidence rather than an unreviewed event claim.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1130,7 +1167,7 @@ observed event
 
 **Mains prompt:** State the scientific limits of attributing an individual extreme event to climate change.
 
-**Model (145 words):** Event attribution asks whether human-caused warming changed the probability or intensity of a precisely defined event compared with a counterfactual climate. Its confidence depends on observational length, model skill, event rarity and the physical mechanism. Heatwaves generally have stronger attribution because warming directly shifts temperature distributions. Heavy rainfall also has a robust moisture mechanism, but a flood additionally depends on catchment saturation, drainage, dams and settlement. Drought attribution varies by drought type, while tropical-cyclone frequency, track, rainfall and intensity must not be conflated. A disaster's losses further depend on exposure and vulnerability. Therefore, "climate change caused the disaster" is often too absolute. A better conclusion states the attributable change in odds or intensity, records uncertainty and identifies non-climatic contributors. Where no event-specific study exists, trend evidence may justify concern but not a precise numerical attribution.
+**Model (135 words):** Event attribution asks whether human-caused warming changed the probability or intensity of a precisely defined event compared with a counterfactual climate. Its confidence depends on observational length, model skill, event rarity and the physical mechanism. Heatwaves generally have stronger attribution because warming directly shifts temperature distributions. Heavy rainfall also has a robust moisture mechanism, but a flood additionally depends on catchment saturation, drainage, dams and settlement. Drought attribution varies by drought type, while tropical-cyclone frequency, track, rainfall and intensity must not be conflated. A disaster's losses further depend on exposure and vulnerability. Therefore, "climate change caused the disaster" is often too absolute. A better conclusion states the attributable change in odds or intensity, records uncertainty and identifies non-climatic contributors. Where no event-specific study exists, trend evidence may justify concern but not a precise numerical attribution.
 
 **Unique quantified rubric (10):** counterfactual method 2; hazard-specific confidence 2; compound causation 2; data/model limits 2; calibrated wording 2.
 
@@ -1142,9 +1179,11 @@ Progress: 10/15 | Stage: Core | Subtopic: Observed regional change, aerosols, ra
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Indian climate signals are shaped by global forcing, regional aerosols, ocean coupling, land use and strong monsoon variability.
+📚 Book context: Queried — Indian climate signals are shaped by global forcing, regional aerosols, ocean coupling, land use and strong monsoon variability.
 
-📰 Current context: None added; period-specific findings come from the MoES Indian-region assessment.
+🔍 CA search: `site:mausam.imd.gov.in Statement climate of India 2025 after:2025-12-31 before:2026-10-06`
+
+📰 CA found: IMD, *Statement on the Climate of India during 2025* (press release dated 1 January 2026): 2025 was India's eighth warmest year since 1901, while 2024 remained the warmest.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1216,6 +1255,10 @@ CO₂ fertilisation cannot be treated as an unqualified benefit because heat, wa
 
 **Qualification:** Indian monsoon attribution is more complex than global-temperature attribution because circulation, aerosols and internal variability create high regional noise.
 
+### 6. Current annual record: observation, not trend replacement
+
+IMD's *Statement on the Climate of India during 2025*, dated **1 January 2026**, reported that India's annual mean land-surface air temperature in 2025 was **0.28°C above the 1991–2020 average**, making it the **eighth warmest year since 1901**. It retained **2024** as the warmest year, at **0.65°C above** that baseline, and identified **2016–2025** as India's warmest decade on record. These annual anomalies use a 1991–2020 reference and must not be added to, or directly compared as if identical with, the MoES 1901–2018 long-trend estimate.
+
 ### UPSC application
 
 Use the line: **"India's climate risk is a distributional problem: modest mean changes can reorganise heat thresholds, dry-spell length and rainfall intensity."**
@@ -1234,7 +1277,9 @@ Use the line: **"India's climate risk is a distributional problem: modest mean c
 10. Urban form can amplify exposure without causing global warming.
 11. Food security includes availability, access, utilisation and stability.
 12. CO₂ fertilisation is conditional, not an automatic yield gain.
-13. Regional projections must retain scenario and model uncertainty.
+13. IMD ranked 2025 as India's eighth warmest year; 2024 remained the warmest.
+14. Annual anomalies and century-scale trends use different baselines and answer different questions.
+15. Regional projections must retain scenario and model uncertainty.
 
 ### Concept check
 
@@ -1248,7 +1293,7 @@ Use the line: **"India's climate risk is a distributional problem: modest mean c
 
 **Mains prompt:** Explain why climate change can simultaneously intensify India's flood, drought and heat risks.
 
-**Model (225 words):** Climate change alters distributions rather than producing one uniform outcome. The MoES assessment found Indian mean temperature rose about 0.7°C during 1901–2018, raising the baseline from which heat extremes occur. Higher humidity and warmer nights further increase physiological heat stress, while urban heat islands magnify exposure.
+**Model (197 words):** Climate change alters distributions rather than producing one uniform outcome. The MoES assessment found Indian mean temperature rose about 0.7°C during 1901–2018, raising the baseline from which heat extremes occur. Higher humidity and warmer nights further increase physiological heat stress, while urban heat islands magnify exposure.
 
 Monsoon behaviour illustrates the coexistence of opposites. Summer monsoon precipitation declined by about 6% during 1951–2015, influenced partly by anthropogenic aerosol effects on land-sea thermal contrast. Yet a warmer atmosphere holds more moisture, and MoES reported more intense wet spells and a strong increase in very heavy daily rainfall over central India. Thus fewer rainy days or longer dry spells can alternate with intense downpours.
 
@@ -1266,9 +1311,11 @@ Progress: 11/15 | Stage: Core | Subtopic: Coupled regional hazards and attributi
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: India's coastal and mountain risks arise from interacting climate components, not one uniform national trend.
+📚 Book context: Queried — India's coastal and mountain risks arise from interacting climate components, not one uniform national trend.
 
-📰 Current context: None added; evidence is tied to the MoES assessment periods.
+🔍 CA search: `site:moes.gov.in Indian Ocean warming cyclone climate 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: MoES/PIB releases in 2026 restated the dated Indian Ocean and cyclone assessment evidence; no newer basin-wide anthropogenic-attribution estimate replaced the MoES 2020 assessment.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1368,7 +1415,7 @@ Connect **ocean warming → cyclone characteristics → sea-level baseline → e
 
 **Mains prompt:** Analyse the implications of climate change for India's coastal and Himalayan regions.
 
-**Model (239 words):** India's coasts and Himalaya are linked to different slow and extreme components of climate change. The tropical Indian Ocean warmed about 1°C during 1951–2015 in the MoES assessment, while North Indian Ocean sea-level rise accelerated in the satellite-era assessment period. Warmer water can increase cyclone potential intensity and rainfall, but formation and tracks still depend on shear and circulation. Even without more cyclones, stronger storms, a higher surge baseline, subsidence and dense coastal exposure can increase losses. Deltas, islands, ports, aquifers, mangroves and fisheries face compound risk from sea-level rise, surge, waves, erosion and salinisation.
+**Model (203 words):** India's coasts and Himalaya are linked to different slow and extreme components of climate change. The tropical Indian Ocean warmed about 1°C during 1951–2015 in the MoES assessment, while North Indian Ocean sea-level rise accelerated in the satellite-era assessment period. Warmer water can increase cyclone potential intensity and rainfall, but formation and tracks still depend on shear and circulation. Even without more cyclones, stronger storms, a higher surge baseline, subsidence and dense coastal exposure can increase losses. Deltas, islands, ports, aquifers, mangroves and fisheries face compound risk from sea-level rise, surge, waves, erosion and salinisation.
 
 The Hindu Kush Himalaya warmed about 1.3°C during 1951–2014. Snow decline and glacier retreat alter seasonal runoff, reduce long-term ice storage and can intensify glacial-lake, slope and permafrost-related hazards. However, response is heterogeneous: the high-elevation Karakoram displayed different behaviour, so uniform-retreat claims are unsound. Glacier change must also not be equated with total annual river flow, which depends heavily on monsoon rainfall and basin management.
 
@@ -1384,9 +1431,11 @@ Progress: 12/15 | Stage: Core synthesis | Subtopic: Scientific response logic, l
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Mitigation changes the hazard trajectory; adaptation changes exposure and vulnerability; neither makes the other redundant.
+📚 Book context: Queried — mitigation changes the hazard trajectory; adaptation changes exposure and vulnerability; neither makes the other redundant.
 
-📰 Current context: None added; the response framework follows IPCC AR6.
+🔍 CA search: `site:ipcc.ch mitigation adaptation climate resilient development 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: AR7 cycle material was found, but no completed 2026 assessment replaced the AR6 climate-resilient-development framework.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1504,7 +1553,7 @@ physical objective → instrument → co-benefit → trade-off
 
 **Mains prompt:** "Mitigation and adaptation solve different parts of the climate-risk equation." Discuss.
 
-**Model (222 words):** Climate risk emerges from hazard, exposure and vulnerability. Mitigation acts mainly on the hazard driver by reducing greenhouse-gas emissions or increasing durable removals. Deep CO₂ cuts limit cumulative warming; methane control slows near-term warming; land-sink protection and carefully governed removal address residual emissions. Adaptation acts on exposure and vulnerability through heat-health plans, resilient infrastructure, water management, ecosystem buffers, climate services and social protection.
+**Model (198 words):** Climate risk emerges from hazard, exposure and vulnerability. Mitigation acts mainly on the hazard driver by reducing greenhouse-gas emissions or increasing durable removals. Deep CO₂ cuts limit cumulative warming; methane control slows near-term warming; land-sink protection and carefully governed removal address residual emissions. Adaptation acts on exposure and vulnerability through heat-health plans, resilient infrastructure, water management, ecosystem buffers, climate services and social protection.
 
 The two are complementary. Adaptation is unavoidable because warming and some sea-level rise are already committed. Yet it cannot stabilise global temperature, stop ocean acidification or protect every ecosystem. Soft limits may be reduced through finance and institutions, but hard biophysical limits expand with warming. Conversely, mitigation cannot instantly reverse present heat exposure, floodplain occupation or glacier-related hazards.
 
@@ -1524,9 +1573,11 @@ Progress: 13/15 | Stage: Advanced | Subtopic: Fingerprinting, ensembles, conditi
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Advanced reasoning asks what the model experiment holds fixed, what varies and what conclusion the evidence permits.
+📚 Book context: Queried — advanced reasoning asks what the model experiment holds fixed, what varies and what conclusion the evidence permits.
 
-📰 Current context: None used; AR7 is in progress, so no AR7 physical-science finding is treated as completed.
+🔍 CA search: `site:ipcc.ch AR7 physical science models scenarios October 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: IPCC Working Group I Second Lead Author Meeting update (23 April 2026); the First Order Draft review ran 10 August–2 October 2026, but no draft finding is treated as an assessment conclusion.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1634,7 +1685,7 @@ Before using a projection, state:
 
 **Mains prompt:** Evaluate the role and limitations of climate models in attribution and projection.
 
-**Model (235 words):** Climate models perform two distinct functions. In attribution, ensembles driven by natural forcings alone and by natural plus anthropogenic forcings are compared with observations. Greenhouse gases, aerosols and natural drivers possess different spatial and vertical fingerprints; observed warming is reproduced only when human influence is included. Initial-condition ensembles estimate internal variability, while single-forcing experiments help isolate causal responses.
+**Model (218 words):** Climate models perform two distinct functions. In attribution, ensembles driven by natural forcings alone and by natural plus anthropogenic forcings are compared with observations. Greenhouse gases, aerosols and natural drivers possess different spatial and vertical fingerprints; observed warming is reproduced only when human influence is included. Initial-condition ensembles estimate internal variability, while single-forcing experiments help isolate causal responses.
 
 In projection, models estimate the response to conditional emissions pathways. SSP scenarios are not predictions of social behaviour and IPCC WGI does not assign each a likelihood. Scenario uncertainty concerns future emissions; model uncertainty concerns physical response; internal variability shapes regional and near-term outcomes; observational uncertainty limits evaluation.
 
@@ -1652,9 +1703,11 @@ Progress: 14/15 | Stage: Advanced | Subtopic: Thresholds, hysteresis, irreversib
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Tipping language is useful only when threshold, feedback, timescale and confidence remain explicit.
+📚 Book context: Queried — tipping language is useful only when threshold, feedback, timescale and confidence remain explicit.
 
-📰 Current context: None used; risk statements follow IPCC AR6.
+🔍 CA search: `climate tipping elements peer reviewed 2026 after:2026-04-05 before:2026-10-06`
+
+📰 CA found: A peer-reviewed interacting-tipping-elements risk framework was published in *Earth System Dynamics* in 2026; it is not used to replace AR6 confidence statements or to assign a new threshold.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1748,7 +1801,7 @@ Then conclude that precaution grows with irreversibility and consequence.
 
 **Mains prompt:** Explain the policy relevance of climate tipping elements despite uncertainty about their thresholds.
 
-**Model (219 words):** Climate tipping elements are large Earth-system components that may undergo substantial nonlinear change when warming crosses a threshold range. Their policy relevance arises from self-reinforcing feedback, long persistence and potentially irreversible consequences. Ice-sheet elevation and albedo feedbacks can commit the world to long-term sea-level rise; permafrost thaw can release additional greenhouse gases; forest dieback or coral collapse can weaken ecosystem services and carbon storage.
+**Model (200 words):** Climate tipping elements are large Earth-system components that may undergo substantial nonlinear change when warming crosses a threshold range. Their policy relevance arises from self-reinforcing feedback, long persistence and potentially irreversible consequences. Ice-sheet elevation and albedo feedbacks can commit the world to long-term sea-level rise; permafrost thaw can release additional greenhouse gases; forest dieback or coral collapse can weaken ecosystem services and carbon storage.
 
 Uncertainty concerns the exact threshold, rate and regional expression, not whether consequences matter. IPCC AR6 assesses that the likelihood of abrupt or irreversible change and of low-likelihood high-impact outcomes increases with warming. Risk management must therefore combine probability with consequence. Infrastructure, coastal planning and ecosystem protection should be robust to plausible upper-tail outcomes, while monitoring improves early detection.
 
@@ -1766,9 +1819,11 @@ Progress: 15/15 | Stage: Advanced synthesis | Subtopic: Near-term forcers, cumul
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
-📚 Reading context: Advanced policy follows the physics of stocks, flows, masks, sinks and differentiated national circumstances.
+📚 Book context: Queried — advanced policy follows the physics of stocks, flows, masks, sinks and differentiated national circumstances.
 
-📰 Current context: None added; this synthesis uses the single current-status item already taught in Lesson 7.
+🔍 CA search: `India methane black carbon carbon budget climate 2026 official after:2026-04-05 before:2026-10-06`
+
+📰 CA found: No new official gas-specific Indian inventory meeting the source threshold was found in the bounded search; no current emissions quantity or ranking is added.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1874,7 +1929,7 @@ End a climate-science answer with:
 
 **Mains prompt:** Design a scientifically coherent climate-response framework for India using the distinctions among CO₂, methane, aerosols and adaptation.
 
-**Model (240 words):** India's response should operate on three clocks. First, cumulative CO₂ determines long-term warming. Power, transport, buildings and industry therefore require early efficiency, clean electricity, electrification, process innovation and protection of durable land sinks. A distant net-zero date is insufficient without a declining near-term emissions pathway.
+**Model (210 words):** India's response should operate on three clocks. First, cumulative CO₂ determines long-term warming. Power, transport, buildings and industry therefore require early efficiency, clean electricity, electrification, process innovation and protection of durable land sinks. A distant net-zero date is insufficient without a declining near-term emissions pathway.
 
 Second, short-lived warming agents offer rapid gains. Methane control should target fossil leakage, waste, livestock and rice through livelihood-sensitive measures. Black-carbon reduction in clean cooking, diesel and brick kilns improves health and reduces warming and Himalayan snow darkening. These actions complement, but cannot replace, CO₂ cuts.
 
@@ -1892,7 +1947,13 @@ Equity must specify the metric. India's lower historical and per-capita emission
 
 The questions below are presented before any demand analysis. No objective key, truth-value cue or option elimination is supplied.
 
+### Limited-reproduction and release basis
+
+The repository reproduces only the exact UPSC question text needed for source-attributed educational analysis, demand decoding and topic routing. Each item is tied to an identified official or repository-held official paper below; objective answers remain undisclosed in this live edition. This is a limited instructional use under the repository's verified-PYQ policy, not a claim that UPSC papers are copyright-free or that unrestricted republication is authorised. UPSC remains the source authority, and any wider commercial or non-instructional redistribution requires a separate rights assessment.
+
 ### 2018 Prelims GS-I, Question 65
+
+**Official-paper provenance:** `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`; booklet code `CYRF-F-TXLI`; PDF page 29, printed page `29-A`; objective question; no answer is displayed.
 
 Which of the following statements best describes "carbon fertilization"?
 
@@ -1903,6 +1964,8 @@ Which of the following statements best describes "carbon fertilization"?
 
 ### 2019 Prelims GS-I, Question 25
 
+**Official-paper provenance:** `books\more_previous_papers\csp-p1.pdf`; Series A, booklet code `BKL-F-GHP/54A`; PDF/printed page 11; objective question; no answer is displayed.
+
 In the context of which of the following do some scientists suggest the use of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere?
 
 **(a)** Creating the artificial rains in some regions
@@ -1911,6 +1974,8 @@ In the context of which of the following do some scientists suggest the use of c
 **(d)** Reducing the global warming
 
 ### 2019 Prelims GS-I, Question 34
+
+**Official-paper provenance:** `books\more_previous_papers\csp-p1.pdf`; Series A, booklet code `BKL-F-GHP/54A`; PDF/printed page 15; objective question; no answer is displayed.
 
 Which of the following statements are correct about the deposits of 'methane hydrate'?
 
@@ -1939,6 +2004,8 @@ How do the melting of the Arctic ice and glaciers of the Antarctic differently a
 
 ### 2022 Prelims GS-I, Question 21
 
+**Official-paper provenance:** `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Set A, booklet code `VGYH-U-FGT`; PDF page 13, printed page `13-A`; objective question; the official-final key is held separately and is not displayed.
+
 Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide?
 
 **(a)** Cotton
@@ -1947,6 +2014,8 @@ Among the following crops, which one is the most important anthropogenic source 
 **(d)** Wheat
 
 ### 2022 Prelims GS-I, Question 22
+
+**Official-paper provenance:** `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Set A, booklet code `VGYH-U-FGT`; PDF page 13, printed page `13-A`; objective question; the official-final key is held separately and is not displayed.
 
 "System of Rice Intensification" of cultivation, in which alternate wetting and drying of rice fields is practised, results in:
 
@@ -1963,7 +2032,7 @@ Select the correct answer using the code given below:
 
 ### 2022 Prelims GS-I, Question 81 — Series A
 
-**Official-paper metadata:** Series A · booklet code `VGYH-U-FGT` · page 37-A · objective question · official answer key unavailable locally; no answer is inferred or displayed.
+**Official-paper provenance:** `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Series A, booklet code `VGYH-U-FGT`; PDF page 37, printed page `37-A`; objective question; the official-final key is held separately and is not displayed.
 
 Consider the following statements:
 
@@ -1979,11 +2048,13 @@ Which of the statements given above is/are correct?
 
 ### 2022 Mains GS-III, Question 17 — 15 marks, 250 words
 
+**Official-paper provenance:** `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf`; PDF/printed page 5; no set designation; printed instruction: “Answer in 250 words”.
+
 Discuss global warming and mention its effects on the global climate. Explain the control measures to bring down the level of greenhouse gases which cause global warming, in the light of the Kyoto Protocol, 1997.
 
 ### 2023 Prelims GS-I, Question 62 — Series A
 
-**Official-paper metadata:** Series A · booklet code `XDTG-F-GST/62A` · page 25 · objective question · official answer key unavailable locally; no answer is inferred or displayed.
+**Official-paper provenance:** `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`; Series A, booklet code `XDTG-F-GST/62A`; PDF/printed page 25; objective question; the official-final key is held separately and is not displayed.
 
 With reference to the Earth's atmosphere, which one of the following statements is correct?
 
@@ -1994,9 +2065,13 @@ With reference to the Earth's atmosphere, which one of the following statements 
 
 ### 2023 Mains GS-I, Question 4 — 10 marks, 150 words
 
+**Official-paper provenance:** `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf`; PDF/printed page 2; no set designation; printed instruction: “Answer in 150 words”.
+
 Discuss the consequences of climate change on the food security in tropical countries.
 
 ### 2023 Mains GS-III, Question 18 — 15 marks, 250 words
+
+**Official-paper provenance:** `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf`; PDF/printed page 4; booklet code `SKYC-G-GST/36`; no set designation; printed instruction: “Answer in 250 words”.
 
 The Intergovernmental Panel on Climate Change (IPCC) has predicted a global sea level rise of about one metre by AD 2100. What would be its impact in India and the other countries in the Indian Ocean region?
 
@@ -2027,6 +2102,8 @@ What is sea surface temperature rise? How does it affect the formation of tropic
 
 ### 2025 Prelims GS-I, Question 29
 
+**Official-paper provenance:** `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; Set A; PDF/printed page 13; objective question; the official-final Set-A key is held separately and is not displayed.
+
 Consider the following statements:
 
 I. Without the atmosphere, temperature would be well below freezing point everywhere on the Earth's surface.
@@ -2041,6 +2118,8 @@ Which of the statements given above are correct?
 **(d)** II and III only
 
 ### 2025 Prelims GS-I, Question 31
+
+**Official-paper provenance:** `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; Set A; PDF/printed page 15; objective question; the official-final Set-A key is held separately and is not displayed.
 
 Consider the following statements:
 
@@ -2057,6 +2136,8 @@ Which one of the following is correct in respect of the above statements?
 
 ### 2025 Prelims GS-I, Question 38
 
+**Official-paper provenance:** `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; Set A, booklet code `LVPK-O-PSO/56A`; PDF/printed page 19; objective question; the official-final Set-A key is held separately and is not displayed.
+
 Consider the following statements:
 
 I. Carbon dioxide (CO₂) emissions in India are less than 0.5 t CO₂/capita.
@@ -2072,29 +2153,31 @@ Which of the statements given above is/are correct?
 
 ### 2025 Mains GS-I, Question 4 — 10 marks, 150 words
 
+**Official-paper provenance:** `books\mains\UPSC Mains 2025 GS Paper 1.pdf`; PDF/printed page 2; no set designation; printed instruction: “Answer in 150 words”.
+
 How are climate change and the sea level rise affecting the very existence of many island nations? Discuss with examples.
 
 ## Demand and answer-approach index
 
 | PYQ | Lesson link | Demand | Neutral approach |
 |---|---:|---|---|
-| 2018 Prelims Q65 | 5, 10 | Meaning of carbon fertilisation | Distinguish plant physiological response from warming, acidification and organismal adaptation; then recall limiting factors |
-| 2019 Prelims Q25 | 12 | Solar-radiation modification | Classify the two named techniques by the part of Earth's radiation budget they seek to alter |
-| 2019 Prelims Q34 | 3, 5, 14 | Methane hydrate, location and atmospheric fate | Test each statement separately through reservoir, warming feedback and methane chemistry |
+| 2018 Prelims Q65 | 5, 10 | Meaning of carbon fertilisation | Verify the tested definition against an authoritative plant–carbon source and assess each option independently; no result is supplied here |
+| 2019 Prelims Q25 | 12 | Solar-radiation modification | Verify the stated purpose of each named intervention against a primary scientific description, then compare all four options without importing a key |
+| 2019 Prelims Q34 | 3, 5, 14 | Methane hydrate, location and atmospheric fate | Verify each printed statement separately against authoritative reservoir and atmospheric-chemistry evidence; no truth value is supplied here |
 | 2019 GS-I Q4 | 5, 8 | Global warming and coral life systems | Link ocean warming, marine heatwaves, bleaching and acidification to coral mortality, reef recovery limits and ecosystem-service loss; use named reef examples without treating every stressor as temperature-only |
 | 2021 GS-I Q15 | 8, 10, 11 | Different effects of Arctic sea-ice melt and Antarctic glacier loss | Contrast albedo and circulation effects of floating Arctic sea ice with sea-level and Southern Ocean implications of grounded Antarctic ice loss; then connect both to weather and human activity |
-| 2022 Prelims Q21 | 3, 10 | Crop-linked CH₄ and N₂O | Match flooded anaerobic conditions and fertiliser/soil nitrogen processes to the crop system |
-| 2022 Prelims Q22 | 3, 10 | Alternate wetting/drying effects | Trace water management to anaerobic methane production, pumping energy and crop-input requirements |
-| 2022 Prelims Q81 | 5 | High-cloud and low-cloud radiative effects | Distinguish shortwave reflection from longwave trapping and evaluate each printed statement independently |
+| 2022 Prelims Q21 | 3, 10 | Crop-linked CH₄ and N₂O | Check every crop option against authoritative evidence for both gases; do not infer the choice from one gas alone |
+| 2022 Prelims Q22 | 3, 10 | Alternate wetting/drying effects | Assess each claimed consequence independently against agronomic and energy-use evidence; no statement status is supplied here |
+| 2022 Prelims Q81 | 5 | High-cloud and low-cloud radiative effects | Separate shortwave and longwave processes, then test each printed statement without recording its truth value here |
 | 2022 GS-III Q17 | 2–6, 12 | Science, impacts and Kyoto control measures | Define mechanism; organise effects by climate component; then connect gas control to Kyoto architecture without making treaty detail substitute for science |
-| 2023 Prelims Q62 | 2, 3 | Insolation, infrared radiation and atmospheric absorption | Test the equator–pole magnitude, spectral share, lower-atmosphere water-vapour absorption and visible-spectrum claims separately |
+| 2023 Prelims Q62 | 2, 3 | Insolation, infrared radiation and atmospheric absorption | Verify each quantitative, spectral and absorption proposition independently; no option or statement status is supplied here |
 | 2023 GS-I Q4 | 10 | Tropical food security | Use availability, access, utilisation and stability; connect heat/rainfall mechanisms to each |
 | 2023 GS-III Q18 | 8, 11 | Sea-level impact across Indian Ocean | Separate global components from relative local sea level; organise impacts by islands, deltas, cities, aquifers, ecosystems and displacement |
-| 2024 Prelims Q1 | 2 | Solar versus terrestrial heating and greenhouse-gas absorption | Evaluate Statement-I and Statement-II separately before examining whether the second explains the first |
+| 2024 Prelims Q1 | 2 | Solar versus terrestrial heating and greenhouse-gas absorption | Evaluate both statements and the asserted explanatory relation independently; no truth value is supplied here |
 | 2024 GS-I Q4 | 8, 9, 11 | Sea-surface-temperature rise and tropical-cyclone formation | Define SST rise, trace ocean heat through evaporation and latent-heat release, then qualify genesis thresholds, atmospheric conditions and intensity-versus-frequency |
-| 2025 Prelims Q29 | 2 | Atmospheric greenhouse mechanism | Evaluate atmosphere, temperature and radiation clauses separately; avoid treating all gases as equal absorbers |
-| 2025 Prelims Q31 | 3 | Cement-process emissions | Separate fuel emissions from process emissions and trace limestone-to-clinker chemistry |
-| 2025 Prelims Q38 | 3, 15 | India emissions metrics and sources | Keep per-capita level, regional rank and sectoral source as three independent propositions with dated data |
+| 2025 Prelims Q29 | 2 | Atmospheric greenhouse mechanism | Verify each atmospheric, temperature and radiation clause separately against an authoritative physical-science source; no statement status is supplied here |
+| 2025 Prelims Q31 | 3 | Cement-process emissions | Test the emissions, raw-material and clinker-chemistry propositions independently; do not use one statement to disclose another's status |
+| 2025 Prelims Q38 | 3, 15 | India emissions metrics and sources | Verify the per-capita, regional-rank and sectoral-source propositions separately against date-matched data; no result is supplied here |
 | 2025 GS-I Q4 | 8, 11 | Island-state existence | Build sea-level mechanism → compound coastal impacts → sovereignty, habitability and adaptation limits, with examples |
 
 # CUMULATIVE CONCEPT CHECKS
@@ -2153,7 +2236,7 @@ How are climate change and the sea level rise affecting the very existence of ma
 
 **Question:** Explain why the natural greenhouse effect and anthropogenic global warming are not contradictory concepts.
 
-**Model (145 words):** The natural greenhouse effect is the normal absorption and re-emission of outgoing infrared radiation by water vapour, carbon dioxide, methane, nitrous oxide and other gases. It keeps Earth's mean surface roughly 33°C warmer than a no-greenhouse atmosphere and is essential for life. Anthropogenic global warming is the additional warming caused when human activity raises long-lived greenhouse-gas concentrations beyond their earlier levels. Fossil fuels, cement, deforestation, agriculture and industry increase positive radiative forcing. The effective altitude from which infrared energy escapes shifts upward into colder air, creating an energy imbalance until the surface and lower atmosphere warm. Thus climate policy does not seek to abolish the greenhouse effect. It seeks to limit its human-driven enhancement. Albedo change, aerosols and feedbacks modify the response but do not erase this distinction.
+**Model (128 words):** The natural greenhouse effect is the normal absorption and re-emission of outgoing infrared radiation by water vapour, carbon dioxide, methane, nitrous oxide and other gases. It keeps Earth's mean surface roughly 33°C warmer than a no-greenhouse atmosphere and is essential for life. Anthropogenic global warming is the additional warming caused when human activity raises long-lived greenhouse-gas concentrations beyond their earlier levels. Fossil fuels, cement, deforestation, agriculture and industry increase positive radiative forcing. The effective altitude from which infrared energy escapes shifts upward into colder air, creating an energy imbalance until the surface and lower atmosphere warm. Thus climate policy does not seek to abolish the greenhouse effect. It seeks to limit its human-driven enhancement. Albedo change, aerosols and feedbacks modify the response but do not erase this distinction.
 
 **Why this earns marks:** It defines both concepts, supplies the energy mechanism, names sources and ends with a precise distinction.
 
@@ -2163,7 +2246,7 @@ How are climate change and the sea level rise affecting the very existence of ma
 
 **Question:** "Observed warming is greenhouse-gas warming partly hidden by aerosol cooling." Explain and evaluate the policy implications.
 
-**Model (217 words):** Human activity changes Earth's energy budget through warming and cooling agents. Carbon dioxide, methane, nitrous oxide, ozone and halogenated gases exert positive effective radiative forcing. Sulphate-rich aerosols scatter sunlight and alter clouds, producing a net negative forcing. IPCC AR6 therefore assessed that well-mixed greenhouse gases contributed more warming than the net observed temperature rise, while other human drivers, principally aerosols, offset part of it.
+**Model (196 words):** Human activity changes Earth's energy budget through warming and cooling agents. Carbon dioxide, methane, nitrous oxide, ozone and halogenated gases exert positive effective radiative forcing. Sulphate-rich aerosols scatter sunlight and alter clouds, producing a net negative forcing. IPCC AR6 therefore assessed that well-mixed greenhouse gases contributed more warming than the net observed temperature rise, while other human drivers, principally aerosols, offset part of it.
 
 This masking creates a sequencing problem. Aerosols remain in the atmosphere briefly, whereas CO₂ persists across much longer timescales. Rapid sulphur-pollution control can remove cooling before greenhouse concentrations fall, exposing additional near-term warming. Yet retaining aerosols is not a defensible climate strategy because particulate pollution causes severe health and ecological damage and is regionally uneven. Black carbon further complicates the picture because it warms the atmosphere and darkens snow and ice.
 
@@ -2177,7 +2260,7 @@ Policy must therefore combine clean-air action with faster cuts in warming agent
 
 **Question:** Assess the scientific evidence for anthropogenic climate change and its implications for India's development planning.
 
-**Model (240 words):** Evidence for anthropogenic climate change rests on converging observations, mechanisms and counterfactual tests. IPCC AR6 found human influence unequivocally warmed the atmosphere, ocean and land. Its best estimate of human-caused warming in 2010–2019 relative to 1850–1900 was 1.07°C, while natural drivers made only a small assessed contribution. Greenhouse fingerprints include tropospheric warming with stratospheric cooling, ocean heat accumulation, cryosphere loss and sea-level rise. Natural-only model ensembles fail to reproduce the observed trend; human-plus-natural ensembles reproduce its broad magnitude and pattern.
+**Model (218 words):** Evidence for anthropogenic climate change rests on converging observations, mechanisms and counterfactual tests. IPCC AR6 found human influence unequivocally warmed the atmosphere, ocean and land. Its best estimate of human-caused warming in 2010–2019 relative to 1850–1900 was 1.07°C, while natural drivers made only a small assessed contribution. Greenhouse fingerprints include tropospheric warming with stratospheric cooling, ocean heat accumulation, cryosphere loss and sea-level rise. Natural-only model ensembles fail to reproduce the observed trend; human-plus-natural ensembles reproduce its broad magnitude and pattern.
 
 For India, MoES assessed about 0.7°C warming during 1901–2018, rapid tropical Indian Ocean warming, changing monsoon distribution, stronger heavy-rainfall occurrence over central India, accelerated North Indian Ocean sea-level rise and heterogeneous Himalayan cryosphere change. Attribution is strongest for global warming and heat; local rainfall and cyclone trends require greater qualification because aerosols, circulation and internal variability matter.
 
@@ -2354,6 +2437,8 @@ If a climate claim sounds absolute, ask:
 | Tropospheric ozone | Precursor chemistry | Short-lived, regional | Warming + air pollution |
 | Fluorinated gases | Cooling, foams, electronics, electrical systems | Compound-specific, often long-lived | Targeted technology and regulation |
 
+**CO₂-equivalent recall:** multiply a gas mass by the stated GWP-horizon value. Always name the assessment and horizon; CO₂-e is not atmospheric lifetime and does not make short-lived and cumulative gases temperature-equivalent through time.
+
 ## Forcing, aerosols and feedbacks
 
 - Positive forcing adds warming pressure; negative forcing adds cooling pressure.
@@ -2379,6 +2464,8 @@ If a climate claim sounds absolute, ask:
 - Net-zero anthropogenic CO₂ is required for temperature stabilisation.
 - A remaining budget must state temperature, probability, baseline and non-CO₂ assumptions.
 - AR6's roughly 500 GtCO₂ figure began at start-2020 for a 50% chance of 1.5°C; it is not a 2026 remainder.
+- *Global Carbon Budget 2025* estimated roughly 170 GtCO₂ from start-2026 for the same headline likelihood and temperature limit, with large uncertainty.
+- *Indicators of Global Climate Change 2025* is a separate annual update; preserve its method and start date.
 - A budget constrains the global total but does not allocate national shares.
 - Delay increases cumulative emissions and dependence on steep later cuts/removal.
 
@@ -2410,6 +2497,8 @@ If a climate claim sounds absolute, ask:
 ## India-specific evidence and implications
 
 - MoES: India warmed about 0.7°C during 1901–2018.
+- IMD: 2025 was India's eighth warmest year since 1901; 2024 remained the warmest, using a 1991–2020 anomaly baseline.
+- IMD: 2016–2025 was India's warmest decade on record.
 - MoES: tropical Indian Ocean SST rose about 1°C during 1951–2015.
 - MoES: summer monsoon precipitation declined about 6% during 1951–2015.
 - Dry spells became more frequent and intense wet spells increased in the assessed periods.
@@ -2469,7 +2558,7 @@ If a climate claim sounds absolute, ask:
 | Earth energy balance | Lesson 2 | Final 10-mark model |
 | Natural versus enhanced greenhouse effect | Lesson 2 | 2025 Prelims Q29 route |
 | Major gases, sources and lifetimes | Lesson 3 | Lesson 3 and final gas table |
-| Radiative roles and GWP horizon | Lessons 3–4 | Lesson 4 model |
+| Radiative roles, GWP horizon and CO₂-equivalent | Lessons 3–4 | Lesson 3 definition and cumulative stock–flow check |
 | Forcing versus feedback | Lessons 4–5 | Cumulative check 1 |
 | Water-vapour feedback | Lessons 3, 5 | Register notes |
 | Cloud feedback | Lesson 5 | Lesson 5 check |
@@ -2477,14 +2566,14 @@ If a climate claim sounds absolute, ask:
 | Carbon-cycle feedback | Lessons 5–6 | 2018 Prelims Q65 route |
 | Aerosols and black carbon | Lessons 4, 12, 15 | Final 15-mark model |
 | Climate sensitivity | Lesson 6 | Register notes |
-| Carbon budget and baseline caution | Lessons 6, 15 | Lesson 6 model |
+| Carbon budget and baseline caution | Lessons 6, 15 | AR6 start-2020 and peer-reviewed start-2026 estimates kept separate |
 | Observed warming and attribution | Lesson 7 | Final 20-mark model |
 | Ocean heat and acidification | Lesson 8 | Lesson 8 model |
 | Sea level and cryosphere | Lessons 8, 11 | 2023/2025 Mains routes |
 | Extreme-event attribution limits | Lesson 9 | Lesson 9 model |
 | Tipping elements and deep uncertainty | Lesson 14 | Lesson 14 model |
 | Scenario and model interpretation | Lesson 13 | Lesson 13 model |
-| India observations and monsoon | Lesson 10 | Lesson 10 model |
+| India observations, monsoon and current annual record | Lesson 10 | MoES period-specific trends plus IMD 2025 annual statement |
 | India heat implications | Lesson 10 | Register notes |
 | India cyclone implications | Lesson 11 | Lesson 11 check |
 | India coasts and cryosphere | Lesson 11 | Lesson 11 model |
@@ -2492,7 +2581,7 @@ If a climate claim sounds absolute, ask:
 | Gas-specific Indian response | Lesson 15 | Lesson 15 model |
 | Misinformation traps | Lesson 12 | Remediation table |
 | Exact official neutral PYQs | Final PYQ section | Complete directly owned and necessary Geography cross-topic set through 2025; all questions precede the demand index |
-| One genuine current linkage | Lesson 7 only | WMO 2025 interpretation caution |
+| Date-bounded current-source checks | Every lesson pre-teach block | WMO, IPCC, NASA, IMD, MoES and peer-reviewed 2026 controls; only material findings integrated |
 | Complete Core before Advanced | Lessons 1–12 before Lessons 13–15 | Roadmap and stage labels |
 | Register notes last among learning content | Complete Consolidated Register Notes | Followed only by accountability ledgers |
 
@@ -2515,10 +2604,29 @@ If a climate claim sounds absolute, ask:
 | IPCC, *Climate Change 2021: The Physical Science Basis*, Summary for Policymakers | Observed warming, attribution, sensitivity, scenarios, carbon budget, ocean and extremes |
 | IPCC AR6 WGI Chapter 7, *The Earth's Energy Budget, Climate Feedbacks and Climate Sensitivity* | Energy inventory, ERF, aerosol forcing, feedbacks, ECS, CH₄ and N₂O lifetimes |
 | IPCC, *Climate Change 2023: Synthesis Report*, Summary for Policymakers | Irreversibility, tipping risk, mitigation, adaptation and limits |
-| IPCC AR7 official cycle page, accessed 3 October 2026 | Current assessment-cycle status only; no unfinished AR7 finding used |
-| WMO, *State of the Global Climate 2025* | The single current-affairs linkage and latest annual global status used |
-| R. Krishnan et al. (eds.), MoES, *Assessment of Climate Change over the Indian Region* (2020) | India warming, monsoon, ocean, sea-level, cyclone and cryosphere evidence with original assessment periods |
-| Official UPSC question papers held under `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\`, `mains\` and `prelima_question_paper_answers\` | Exact official PYQ wording and metadata |
+| IPCC AR7 official cycle page and WGI Second Lead Author Meeting release, accessed 5 October 2026 | Current assessment-cycle status and review timetable only; no unfinished AR7 finding used |
+| WMO, *State of the Global Climate 2025* (released 23 March 2026), <https://wmo.int/publication-series/state-of-global-climate/state-of-global-climate-2025> | Latest completed global annual-status control used; annual observations kept separate from formal attribution |
+| Friedlingstein et al., *Global Carbon Budget 2025*, *Earth System Science Data* 18, 3211–3288 (published 13 May 2026), <https://doi.org/10.5194/essd-18-3211-2026> | Start-2026 remaining-carbon-budget update and explicit near-threshold uncertainty |
+| Forster et al., *Indicators of Global Climate Change 2025*, *Earth System Science Data* 18, 3889–3933 (published 11 June 2026), <https://doi.org/10.5194/essd-18-3889-2026> | Annual update of human-induced warming, emissions, energy imbalance and remaining-budget methodology |
+| IMD, *Statement on the Climate of India during 2025* (1 January 2026), <https://mausam.imd.gov.in/Forecast/marquee_data/Statement_climate_of_india_2025.pdf> | Current Indian annual temperature, rainfall and cyclone record; PDF pages 1–3 |
+| R. Krishnan et al. (eds.), MoES, *Assessment of Climate Change over the Indian Region* (2020), <https://doi.org/10.1007/978-981-15-4327-2> | India warming, monsoon, ocean, sea-level, cyclone and cryosphere evidence; open-access PDF pages 11 and 13–14, printed pages xiii and xv–xvi |
+| Repository-held official UPSC question-paper PDFs listed in the two provenance tables below | Exact question wording, page metadata and answer-neutral release control |
+
+## Direct-owner PYQ official-paper provenance
+
+| PYQ | Official/local paper provenance and status |
+|---|---|
+| 2018 Prelims GS-I Q65 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`; booklet `CYRF-F-TXLI`; PDF page 29, printed page 29-A; answer not displayed |
+| 2019 Prelims GS-I Q25 | `books\more_previous_papers\csp-p1.pdf`; Series A, booklet `BKL-F-GHP/54A`; PDF/printed page 11; answer not displayed |
+| 2019 Prelims GS-I Q34 | `books\more_previous_papers\csp-p1.pdf`; Series A, booklet `BKL-F-GHP/54A`; PDF/printed page 15; answer not displayed |
+| 2022 Prelims GS-I Q21 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Set A, booklet `VGYH-U-FGT`; PDF page 13, printed page 13-A; official-final key held separately |
+| 2022 Prelims GS-I Q22 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Set A, booklet `VGYH-U-FGT`; PDF page 13, printed page 13-A; official-final key held separately |
+| 2022 Mains GS-III Q17 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf`; PDF/printed page 5; 15 marks; 250 words |
+| 2023 Mains GS-I Q4 | `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf`; PDF/printed page 2; 10 marks; 150 words |
+| 2023 Mains GS-III Q18 | `books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-III-180923.pdf`; PDF/printed page 4; booklet `SKYC-G-GST/36`; 15 marks; 250 words |
+| 2025 Prelims GS-I Q31 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; Set A; PDF/printed page 15; official-final key held separately |
+| 2025 Prelims GS-I Q38 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`; Set A, booklet `LVPK-O-PSO/56A`; PDF/printed page 19; official-final key held separately |
+| 2025 Mains GS-I Q4 | `books\mains\UPSC Mains 2025 GS Paper 1.pdf`; PDF/printed page 2; 10 marks; 150 words |
 
 ## Cross-topic PYQ owner and official-paper provenance
 
@@ -2526,8 +2634,8 @@ If a climate claim sounds absolute, ask:
 |---|---|---|
 | 2019 GS-I Q4 | `upsc-ai-kit\knowledge\Geography\basic\11_Islands-and-Coral-Reefs.md` | `books\more_previous_papers\QP-CSM19-GeneralStudies-I.pdf`; 10 marks; printed 150-word instruction; no set designation |
 | 2021 GS-I Q15 | `upsc-ai-kit\knowledge\Geography\basic\25_Arctic-or-Polar-Climate.md` | `books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-I-110122.pdf`; 15 marks; printed 250-word instruction; no set designation |
-| 2022 Prelims GS-I Q81 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Series A, booklet `VGYH-U-FGT`, page 37-A; official key unavailable locally |
-| 2023 Prelims GS-I Q62 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`; Series A, booklet `XDTG-F-GST/62A`, page 25; official key unavailable locally |
+| 2022 Prelims GS-I Q81 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`; Series A, booklet `VGYH-U-FGT`, page 37-A; official-final key held separately and not displayed |
+| 2023 Prelims GS-I Q62 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`; Series A, booklet `XDTG-F-GST/62A`, page 25; official-final key held separately and not displayed |
 | 2024 Prelims GS-I Q1 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`; Set A, booklet `KSPC-P-GSPO`, page 3-A; official Set-A key held locally but not displayed |
 | 2024 GS-I Q4 | `upsc-ai-kit\knowledge\Geography\basic\13_Weather-Elements.md` | `books\mains\UPSC Mains 2024 GS Paper I.pdf`; 10 marks; printed 150-word instruction; no set designation |
 
@@ -2536,8 +2644,11 @@ If a climate claim sounds absolute, ask:
 | Claim | Status control |
 |---|---|
 | AR6 ~500 GtCO₂ remaining budget | Start-2020, 50% likelihood for 1.5°C; not presented as the 2026 remainder |
+| *Global Carbon Budget 2025* ~170 GtCO₂ remaining budget | Start-2026, 50% likelihood for 1.5°C; approximately four years at 2025 emissions, with large near-threshold uncertainty |
+| *Indicators of Global Climate Change 2025* | Peer-reviewed annual update; human-induced warming estimate is not substituted for WMO's observed annual anomaly |
 | WMO 2025 temperature | Annual and three-year observational status; not equated with long-term Paris-threshold crossing |
 | MoES India observations | Retain each report period; not silently extended to 2026 |
+| IMD 2025 annual record | Uses a 1991–2020 baseline; not added to or conflated with the MoES 1901–2018 trend |
 | Cyclone attribution | Mechanistic and projected intensity statements separated from observed basin-trend attribution |
 | Sea level | Global mean, North Indian Ocean and local relative sea level kept distinct |
 | Objective PYQs | Questions shown without answer keys or truth-value clues |
@@ -2549,9 +2660,9 @@ If a climate claim sounds absolute, ask:
 |---|---|---|
 | Canonical Markdown | checked | Basic and Advanced Topic 17 owners, five Environment cross-topic owners and three exact Geography cross-topic owners are listed above |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Layered/complete session | not available | No permitted pre-existing climate live edition or complete session was used |
+| Layered/complete session | checked | `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` and `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` were checked only for learner-facing structure; they supplied no climate claim |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\17_Climate-Change-Science-Greenhouse-Effect.md` |
-| OCR books | checked | MoES 2020 Indian-region assessment and local official UPSC PDFs were read as searchable text |
+| OCR books | checked | Repository-held official UPSC PDFs listed above were read as searchable text; no local MoES book copy is claimed |
 | PYQs through 2026 | checked | Official papers and verified ledgers were checked; the complete directly owned and necessary Geography cross-topic set through 2025 is displayed neutrally, and no direct 2026 Topic 17 question was identified |
-| Official live sources | checked | IPCC AR6/AR7 official pages and WMO State of Global Climate 2025 were used with dated status |
+| Official live sources | checked | Dated IPCC, WMO, IMD and MoES sources plus the two identified 2026 peer-reviewed primary updates are listed above with URLs, dates and bounded uses |
