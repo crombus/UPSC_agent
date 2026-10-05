@@ -2,7 +2,7 @@
 
 > **Live learning session | Environment and Ecology | GS-III + Prelims + GS-II linkage**
 >
-> **Status cut-off:** 3 October 2026.
+> **Status cut-off:** 5 October 2026.
 >
 > **Evidence convention:** ✅ treaty, official-document or authoritative fact · ⚠️ analytical inference, comparison or qualified judgement.
 >
@@ -31,9 +31,13 @@ The questions below are reproduced before any demand decoding. No answer, truth 
 
 ### UPSC CSE Mains 2018 — GS-III, Question 17 — 15 marks, 250 words
 
+> **Local official-paper provenance and ownership:** `books\more_previous_papers\GENERAL-STUDIES-PAPER-III.pdf`, PDF p. 4. Primary owner: Environment and Ecology Topic 22; Topic 04 supplies biodiversity-foundation support.
+
 > How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and fauna?
 
 ### UPSC CSE Prelims 2023 — GS Paper I, Question 20
+
+> **Local official-paper provenance and ownership:** `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 9, series `XDTG-F-GST`. Primary owner: Environment and Ecology Topic 22; Topic 17 supplies greenhouse-gas science support.
 
 > Consider the following:
 >
@@ -51,6 +55,8 @@ The questions below are reproduced before any demand decoding. No answer, truth 
 
 ### UPSC CSE Prelims 2023 — GS Paper I, Question 59
 
+> **Local official-paper provenance and ownership:** `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 25, series `XDTG-F-GST`. Primary owner: Environment and Ecology Topic 22's Minamata boundary; pollution and waste owners remain supporting references.
+
 > Consider the following statements regarding mercury pollution:
 >
 > 1. Gold mining activity is a source of mercury pollution in the world.
@@ -66,6 +72,8 @@ The questions below are reproduced before any demand decoding. No answer, truth 
 
 ### UPSC CSE Prelims 2023 — GS Paper I, Question 79
 
+> **Local official-paper provenance and ownership:** `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 33, series `XDTG-F-GST`. Primary owner: Environment and Ecology Topic 22; Topic 04 supplies biodiversity-level support.
+
 > Consider the following statements:
 >
 > 1. In India, the Biodiversity Management Committees are key to the realization of the objectives of the Nagoya Protocol.
@@ -79,6 +87,8 @@ The questions below are reproduced before any demand decoding. No answer, truth 
 > (d) Neither 1 nor 2
 
 ### UPSC CSE Mains 2026 — GS-III, Question 8 — 10 marks, 150 words
+
+> **Local official-paper provenance and ownership:** `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`, PDF p. 3. Primary owner: Environment and Ecology Topic 22; Topics 04, 06 and 07 supply bounded biodiversity/site examples.
 
 > Discuss the aim and goals of Kunming-Montreal global biodiversity framework. Mention India's commitments and initiatives to achieve the goals and targets of this framework giving suitable examples.
 
@@ -94,7 +104,7 @@ Book context: treaty formation, legal effect and governing institutions.
 
 CA search: `"multilateral environmental treaty amendment COP decision binding status official 2026"`
 
-CA found: None used; this lesson establishes timeless legal grammar.
+CA found: None found; no official development in the status window altered this lesson's treaty-form and bindingness grammar.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -236,7 +246,7 @@ But institutional strength differs. A compliance committee may be formal and cas
 
 **Mains prompt:** Distinguish a treaty, a protocol, an amendment and a COP decision in multilateral environmental governance.
 
-**Model (126 words):** A treaty or convention is the principal legal instrument and binds only Parties for which it has entered into force. A protocol is a separate treaty nested under a framework convention; thus CBD membership does not automatically create Nagoya Protocol obligations. An amendment formally changes treaty text or adds a new control architecture and becomes binding under the instrument's acceptance rules, as with Kigali under Montreal. A COP decision is taken by the treaty's governing body and may adopt budgets, guidance, monitoring systems or annex listings where the treaty delegates that power. Its legal effect therefore depends on the enabling clause. Montreal's adjustments form a special category: they can tighten existing substance-control schedules through an expedited procedure. Precise classification prevents candidates from treating political targets, procedural decisions and ratified obligations as interchangeable.
+**Model (132 words):** A treaty or convention is the principal legal instrument and binds only Parties for which it has entered into force. A protocol is a separate treaty nested under a framework convention; thus CBD membership does not automatically create Nagoya Protocol obligations. An amendment formally changes treaty text or adds a new control architecture and becomes binding under the instrument's acceptance rules, as with Kigali under Montreal. A COP decision is taken by the treaty's governing body and may adopt budgets, guidance, monitoring systems or annex listings where the treaty delegates that power. Its legal effect therefore depends on the enabling clause. Montreal's adjustments form a special category: they can tighten existing substance-control schedules through an expedited procedure. Precise classification prevents candidates from treating political targets, procedural decisions and ratified obligations as interchangeable.
 
 **Unique rubric (10):** treaty definition 2 · protocol distinction 2 · amendment rule 2 · COP-decision qualification 2 · accurate example and conclusion 2.
 
@@ -252,7 +262,7 @@ Book context: CBD objectives, institutions, finance and India's biodiversity-law
 
 CA search: `"CBD Article 1 Article 6 institutions financial mechanism official 2026"`
 
-CA found: None used; current CBD framework status rests on official treaty decisions and national implementation evidence.
+CA found: None found; current GBF/COP implementation developments are taught in Lesson 4 rather than forced into this CBD treaty-foundation lesson.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -431,7 +441,7 @@ The limitation is equally important. A statute can create institutions and permi
 
 **Mains prompt:** Explain why the CBD is a framework convention rather than a Montreal-style control treaty.
 
-**Model (131 words):** The CBD establishes a comprehensive legal bargain around conservation, sustainable use and fair benefit-sharing, but biodiversity loss arises from diverse national sectors and ecosystems rather than one bounded set of chemicals. It therefore relies on national biodiversity strategies, integration into sectoral planning, in-situ and ex-situ measures, access regulation and periodic reporting. Its COP, SBSTTA and SBI develop scientific guidance, frameworks and review systems, while the GEF supports implementation. Unlike the Montreal Protocol, the CBD does not assign each Party a uniform, substance-specific phase-out calendar backed by a dedicated compliance fund. This flexibility enables ecological and developmental differentiation, but it also weakens comparability and accountability. The CBD is thus legally binding in its treaty duties while many collective targets require domestic translation before they can shape conduct.
+**Model (126 words):** The CBD establishes a comprehensive legal bargain around conservation, sustainable use and fair benefit-sharing, but biodiversity loss arises from diverse national sectors and ecosystems rather than one bounded set of chemicals. It therefore relies on national biodiversity strategies, integration into sectoral planning, in-situ and ex-situ measures, access regulation and periodic reporting. Its COP, SBSTTA and SBI develop scientific guidance, frameworks and review systems, while the GEF supports implementation. Unlike the Montreal Protocol, the CBD does not assign each Party a uniform, substance-specific phase-out calendar backed by a dedicated compliance fund. This flexibility enables ecological and developmental differentiation, but it also weakens comparability and accountability. The CBD is thus legally binding in its treaty duties while many collective targets require domestic translation before they can shape conduct.
 
 **Unique rubric (10):** three-objective foundation 2 · national implementation logic 2 · institutions/finance 2 · Montreal contrast 2 · balanced qualification 2.
 
@@ -447,7 +457,7 @@ Book context: Cartagena biosafety, Nagoya benefit-sharing and India's local ABS 
 
 CA search: `"Cartagena Nagoya Protocol compliance clearing house official status 2026"`
 
-CA found: None used; protocol architecture is treated as static law.
+CA found: CBD COP16 concluded on 27 February 2025 with the DSI multilateral mechanism and Cali Fund in place; the Cartagena/Nagoya treaty distinction remained unchanged at the 5 October 2026 cut-off.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -608,7 +618,7 @@ This resolves the 2023 PYQ's institutional distinction without converting the BM
 
 **Mains prompt:** Compare the Cartagena and Nagoya Protocols as two different implementations of the CBD.
 
-**Model (137 words):** Cartagena implements biodiversity protection through biosafety. It governs specified transboundary movements of living modified organisms, uses advance informed agreement, risk assessment and the Biosafety Clearing-House, and permits precaution where scientific uncertainty remains. Nagoya implements the CBD's benefit-sharing objective. It links access to genetic resources with prior informed consent, mutually agreed terms, monetary or non-monetary benefits and the ABS Clearing-House. Their compliance committees are facilitative rather than international criminal tribunals. The decisive difference is the regulated transaction: Cartagena manages ecological risk from an LMO movement; Nagoya governs fairness in access and utilisation. Digital sequence information exposes Nagoya's modern difficulty because commercially useful information may circulate without another physical sample. India therefore needs separate biosafety regulation and an efficient NBA-SBB-BMC/ABS chain rather than one undifferentiated "biotechnology law."
+**Model (125 words):** Cartagena implements biodiversity protection through biosafety. It governs specified transboundary movements of living modified organisms, uses advance informed agreement, risk assessment and the Biosafety Clearing-House, and permits precaution where scientific uncertainty remains. Nagoya implements the CBD's benefit-sharing objective. It links access to genetic resources with prior informed consent, mutually agreed terms, monetary or non-monetary benefits and the ABS Clearing-House. Their compliance committees are facilitative rather than international criminal tribunals. The decisive difference is the regulated transaction: Cartagena manages ecological risk from an LMO movement; Nagoya governs fairness in access and utilisation. Digital sequence information exposes Nagoya's modern difficulty because commercially useful information may circulate without another physical sample. India therefore needs separate biosafety regulation and an efficient NBA-SBB-BMC/ABS chain rather than one undifferentiated "biotechnology law."
 
 **Unique rubric (10):** Cartagena mechanism 2 · Nagoya mechanism 2 · regulated-transaction distinction 2 · DSI/India application 2 · qualification 2.
 
@@ -697,7 +707,7 @@ national targets + NBSAPs + indicators + national reports + global review
 
 ⚠️ Establishing a fund or indicator does not prove money has reached all intended beneficiaries or that targets are on track. Institutional adoption and implementation outcome are different claims.
 
-### 5. India interface as of 3 October 2026
+### 5. India interface as of 5 October 2026
 
 ```text
 KMGBF
@@ -738,7 +748,7 @@ These figures are **examples**, not a declaration that all 23 NBTs are achieved.
 
 ### 7. 📰 Current application: scheduled CBD COP17
 
-✅ **CBD COP17 is scheduled in Yerevan, Armenia, from 19 to 30 October 2026**. As of 3 October 2026, it remains forthcoming and is due to review implementation of the KMGBF alongside meetings of Parties to the Cartagena and Nagoya Protocols.
+✅ **CBD COP17 is scheduled in Yerevan, Armenia, from 19 to 30 October 2026**. As of 5 October 2026, it remains forthcoming and is due to review implementation of the KMGBF alongside meetings of Parties to the Cartagena and Nagoya Protocols.
 
 ⚠️ Exam use: describe it as **scheduled**, not completed; do not attribute outcomes before adoption. The analytical question is whether national targets, finance and indicators are producing measurable delivery.
 
@@ -789,7 +799,7 @@ These figures are **examples**, not a declaration that all 23 NBTs are achieved.
 
 **Mains prompt:** How does India's NBSAP translate the KMGBF from a global framework into a national implementation system?
 
-**Model (145 words):** India's NBSAP 2024-2030 translates the KMGBF by aligning 23 National Biodiversity Targets with its four goals and 23 global targets. NR-7 adds a 142-indicator monitoring architecture and dated examples, including 98 Ramsar sites, 58 Tiger Reserves and species estimates. Delivery rests on the Biological Diversity Act, the 2024 Rules, the NBA-SBB-BMC chain and the 2025 ABS Regulations covering digital sequence information. Protected areas, OECMs, restoration and sectoral policy support Goals A and B, while ABS addresses Goal C. Goal D requires finance: Target 19 includes at least USD 30 billion annually in international biodiversity finance to developing countries by 2030 within the wider USD 200 billion mobilisation goal. Yet an indicator, rule or funding target is not an ecological outcome. India must demonstrate habitat quality, species trends, equitable benefits, actual finance and accountable implementation.
+**Model (134 words):** India's NBSAP 2024-2030 translates the KMGBF by aligning 23 National Biodiversity Targets with its four goals and 23 global targets. NR-7 adds a 142-indicator monitoring architecture and dated examples, including 98 Ramsar sites, 58 Tiger Reserves and species estimates. Delivery rests on the Biological Diversity Act, the 2024 Rules, the NBA-SBB-BMC chain and the 2025 ABS Regulations covering digital sequence information. Protected areas, OECMs, restoration and sectoral policy support Goals A and B, while ABS addresses Goal C. Goal D requires finance: Target 19 includes at least USD 30 billion annually in international biodiversity finance to developing countries by 2030 within the wider USD 200 billion mobilisation goal. Yet an indicator, rule or funding target is not an ecological outcome. India must demonstrate habitat quality, species trends, equitable benefits, actual finance and accountable implementation.
 
 **Unique rubric (10):** NBSAP/NBT alignment 2 · monitoring architecture 2 · domestic legal institutions 2 · examples across goals 2 · outcome-versus-process qualification 2.
 
@@ -804,7 +814,7 @@ Book context: Basel waste classification, consent, environmentally sound managem
 
 CA search: `"Basel Convention PIC Ban Amendment implementation status official 2026"`
 
-CA found: None used; the operative Basel legal status is stated from treaty sources.
+CA found: Basel COP17 concluded on 9 May 2025 and adopted the 2025-2031 Strategic Framework; the Ban Amendment's Party-specific status remained unchanged at the 5 October 2026 cut-off.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -902,15 +912,24 @@ The Convention requires Parties to treat illegal traffic as criminal and to take
 
 ✅ The Ban Amendment entered into force on 5 December 2019.
 
-✅ It prohibits covered hazardous-waste exports from Parties listed in Annex VII—OECD members, the European Union and Liechtenstein—to non-Annex VII Parties for final disposal and for recovery/recycling operations.
+✅ For an **Annex VII Party bound by the Amendment**, the two prohibition limbs are:
 
-⚠️ It is binding for Parties for which the Amendment is in force. It should not be rewritten as "Basel bans all hazardous-waste trade everywhere."
+| Destination and operation | Waste coverage |
+|---|---|
+| Annex VII → non-Annex VII for Annex IV A final disposal | Hazardous wastes covered by the Convention |
+| Annex VII → non-Annex VII for Annex IV B recovery/recycling | Hazardous wastes referred to in Article 1(1)(a) |
+
+Annex VII comprises OECD members, the European Union and Liechtenstein, but **Annex VII status** is the treaty's operative category. "OECD to non-OECD" is unsafe shorthand because it can obscure EU membership and the annex text.
+
+⚠️ The Amendment binds only Parties that accepted it. It does not prohibit every waste category, every direction of movement or all hazardous-waste trade worldwide.
 
 ### 7. India interface
 
 ✅ India implements Basel principally through the **Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016**, under the Environment (Protection) Act, 1986, with subsequent amendments.
 
 ✅ MoEFCC is the central authority for transboundary-movement decisions; customs, CPCB, ports and SPCBs/PCCs have connected enforcement roles.
+
+✅ **Status at 5 October 2026:** India is a Basel Party and is bound by the plastic-waste and e-waste annex amendments, but it has **not accepted the Ban Amendment**. India's domestic import prohibitions and conditions remain independently applicable; non-acceptance of the Ban is not permission for unrestricted hazardous-waste imports.
 
 ⚠️ Ship-breaking, metal scrap and used electronic equipment expose the recurring problem of distinguishing a reusable commodity from waste destined for low-cost dismantling or disposal.
 
@@ -927,7 +946,9 @@ The Convention requires Parties to treat illegal traffic as criminal and to take
 - Basel = waste movement and disposal, not chemical production generally.
 - PIC is necessary but not sufficient; add ESM and minimisation.
 - Ban Amendment is stronger than the original PIC architecture but narrower than a universal ban.
+- For the Ban, write Annex VII → non-Annex VII and separate the final-disposal and Article 1(1)(a) recovery limbs.
 - Illegal traffic is a Convention-defined legal category.
+- India is bound by the plastic/e-waste amendments but had not accepted the Ban Amendment at the cut-off.
 - Compare Basel finance cautiously with Montreal's dedicated Fund.
 
 ### Revision notes
@@ -943,8 +964,10 @@ The Convention requires Parties to treat illegal traffic as criminal and to take
 9. COP, OEWG, Secretariat, ICC and regional centres have distinct roles.
 10. Basel lacks a Montreal-style dedicated compliance fund.
 11. The Ban Amendment entered into force on 5 December 2019.
-12. The Ban applies from Annex VII to non-Annex VII Parties for covered hazardous wastes.
-13. India's HOWM Rules, 2016 are the principal domestic interface.
+12. The Ban's final-disposal limb covers Convention hazardous wastes; its recovery limb uses Article 1(1)(a).
+13. The Ban binds accepting Annex VII Parties for exports to non-Annex VII States.
+14. India had not accepted the Ban, but was bound by the plastic/e-waste amendments at the cut-off.
+15. India's HOWM Rules, 2016 are the principal domestic interface.
 
 ### Concept check
 
@@ -958,7 +981,7 @@ The Convention requires Parties to treat illegal traffic as criminal and to take
 
 **Mains prompt:** Explain how the Basel Convention combines sovereign consent with environmental protection.
 
-**Model (143 words):** Basel permits only controlled transboundary movement of hazardous and other covered wastes. The exporting state must notify the importing and relevant transit states, and movement ordinarily requires written consent. This respects the importing state's sovereign choice. Yet consent is embedded in a wider environmental framework: waste generation and movement should be minimised, disposal should occur as close as practicable to source, and export must not proceed where environmentally sound management cannot be expected. False documentation, movement without consent and deliberate dumping constitute illegal traffic. The 2019 entry into force of the Ban Amendment further prohibits covered Annex VII-to-non-Annex VII hazardous-waste exports for disposal and recovery for Parties bound by it. Thus Basel is neither unrestricted consent-based trade nor a universal ban; its weakness lies in classification fraud, capacity gaps and enforcement incentives.
+**Model (129 words):** Basel permits only controlled transboundary movement of hazardous and other covered wastes. The exporting state must notify the importing and relevant transit states, and movement ordinarily requires written consent. This respects the importing state's sovereign choice. Yet consent is embedded in a wider environmental framework: waste generation and movement should be minimised, disposal should occur as close as practicable to source, and export must not proceed where environmentally sound management cannot be expected. False documentation, movement without consent and deliberate dumping constitute illegal traffic. For bound Annex VII Parties, the Ban Amendment prohibits Convention hazardous-waste exports for final disposal and Article 1(1)(a) hazardous-waste exports for recovery to non-Annex VII States. Basel is therefore neither unrestricted consent-based trade nor a universal ban; classification fraud, capacity gaps and enforcement incentives remain.
 
 **Unique rubric (10):** PIC chain 2 · minimisation/ESM 2 · illegal traffic 2 · Ban qualification 2 · implementation limitation 2.
 
@@ -974,7 +997,7 @@ Book context: Basel plastic and e-waste amendments, mercury sources and connecte
 
 CA search: `"Basel plastic waste e-waste amendments effective 2025 official"`
 
-CA found: None used; amendment entry-into-force dates are treated as legal status.
+CA found: Basel COP17 concluded on 9 May 2025; decision BC-17/11 continued review of plastic-waste-amendment implementation, while the e-waste amendments had been effective since 1 January 2025 for bound Parties.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1041,25 +1064,56 @@ after 2025: A1181 or Y49 -> PIC control for covered e-waste movements
 | Basel e-waste amendments tighten PIC | E-Waste (Management) Rules, 2022 govern producer EPR and authorised recycling |
 | Basel plastic amendments classify shipments | Plastic Waste Management Rules govern packaging EPR and specified restrictions |
 
+✅ India is bound by both Basel annex-amendment packages: the plastic-waste entries became effective from 1 January 2021 and the e-waste entries from 1 January 2025. This status is separate from India's non-acceptance of the Ban Amendment.
+
 ⚠️ Domestic EPR and Basel PIC solve different stages. EPR allocates lifecycle responsibility within India; Basel controls a cross-border movement. One does not replace the other.
 
 ### 4. Rotterdam: connected administration, different object
 
-✅ The Rotterdam Convention applies PIC to international trade in certain listed hazardous chemicals and pesticides.
+✅ The Rotterdam Convention applies PIC to international trade in chemicals listed in **Annex III**. It does not prohibit those chemicals globally.
 
-| Basel | Rotterdam |
-|---|---|
-| Waste shipment | Chemical or pesticide in trade |
-| Disposal/recovery destination matters | Import response for listed chemical matters |
-| ESM and illegal waste traffic | Information exchange and import decisions |
+```text
+national ban/severe-restriction notifications
+from two PIC regions
+        OR
+developing/transition-economy proposal for
+a severely hazardous pesticide formulation
+                    |
+                    v
+Secretariat verification -> CRC review
+                    |
+                    v
+CRC recommendation + decision guidance document
+                    |
+                    v
+Rotterdam COP decides Annex III listing
+                    |
+                    v
+each Party submits import response:
+consent / no consent / consent under conditions
+                    |
+                    v
+Secretariat circulates response -> exporting Party enforces it
+```
 
-✅ Basel, Rotterdam and Stockholm form the **BRS** cluster, with coordinated secretariat arrangements and back-to-back COPs.
+✅ The **Chemical Review Committee (CRC)** recommends; the Rotterdam COP lists. An import response is a general decision for future trade in the Annex III chemical, not a new Basel-style written consent for each shipment.
 
-⚠️ Joint administration does not merge their legal scopes.
+| Test | Basel | Rotterdam | Stockholm |
+|---|---|---|---|
+| Regulated object | Waste shipment | Annex III chemical/pesticide in trade | POP production, use, release and waste |
+| Scientific/legal gate | Waste classification under annexes/national law | CRC recommendation → COP Annex III listing | Annex D/E/F POPRC review → COP Annex A/B/C listing |
+| Consent/control | Notification and written consent for proposed movement | Published import response: consent/no/conditions | Elimination, restriction or unintentional-release reduction |
+| Legal effect | PIC + ESM + movement duties | Informed trade decision; not a global ban | Annex-specific POP control obligations |
+
+✅ Rotterdam COP12 in 2025 added **carbosulfan** and the specified ultra-low-volume **fenthion formulation** to Annex III. Those amendments entered into force on 22 October 2025; import responses were due by 21 July 2026.
+
+✅ Basel, Rotterdam and Stockholm form the **BRS** cluster, with coordinated secretariat arrangements and back-to-back COPs. Basel and Stockholm secretariat functions are administered by UNEP; Rotterdam's Secretariat is jointly provided by FAO and UNEP.
+
+⚠️ Coordinated administration does not merge their legal scopes.
 
 ### 5. Minamata: mercury lifecycle, not a fourth BRS convention
 
-✅ The Minamata Convention on Mercury controls anthropogenic mercury across supply, trade, products, processes, emissions, releases, storage and waste.
+✅ The Minamata Convention on Mercury was adopted on **10 October 2013**, entered into force internationally on **16 August 2017**, and controls anthropogenic mercury across supply, trade, products, processes, emissions, releases, storage and waste.
 
 ✅ India deposited its instrument of ratification on 18 June 2018, and the Convention entered into force for India on 16 September 2018.
 
@@ -1102,7 +1156,10 @@ The likely legal starting points are Rotterdam, Basel plastic entries, Basel e-w
 
 - Plastic amendments: A3210, Y48 and B3011.
 - E-waste amendments: A1181 and Y49; effective 1 January 2025.
-- Rotterdam PIC concerns listed chemicals/pesticides, not waste.
+- India is bound by the plastic/e-waste amendments but not the Ban Amendment.
+- Rotterdam PIC concerns Annex III chemicals/pesticides, not waste.
+- CRC recommends and the Rotterdam COP lists; Parties then issue import responses.
+- Rotterdam import responses are neither global bans nor Basel shipment-specific consents.
 - Minamata concerns mercury through its lifecycle.
 - Gold-amalgam use and coal combustion are mercury-release pathways; health analysis must distinguish elemental, inorganic and methylmercury exposure.
 - BRS means Basel-Rotterdam-Stockholm, not Basel-Rotterdam-Stockholm-Minamata.
@@ -1119,12 +1176,12 @@ The likely legal starting points are Rotterdam, Basel plastic entries, Basel e-w
 7. A1181 covers hazardous e-waste.
 8. Y49 covers other e-waste.
 9. Covered hazardous and non-hazardous e-waste movements now enter PIC.
-10. Rotterdam governs listed hazardous chemicals and pesticides in trade.
-11. Stockholm governs POPs.
-12. Minamata governs mercury across its lifecycle.
-13. Gold mining and coal combustion are major anthropogenic mercury pathways; even small exposure can be harmful, with special risks to fetal and child development.
-14. BRS coordination does not erase separate treaty scopes.
-15. India's domestic EPR and Basel PIC address different governance stages.
+10. India is bound by the plastic/e-waste amendments but not the Ban Amendment.
+11. Rotterdam Annex III chemicals receive import responses: consent, no consent or conditions.
+12. CRC recommends; the Rotterdam COP lists.
+13. Rotterdam PIC is not a global ban or Basel shipment consent.
+14. Minamata governs mercury; Stockholm governs POPs; BRS excludes Minamata.
+15. Domestic EPR and Basel PIC address different governance stages.
 
 ### Concept check
 
@@ -1138,7 +1195,7 @@ The likely legal starting points are Rotterdam, Basel plastic entries, Basel e-w
 
 **Mains prompt:** Distinguish the Basel, Rotterdam and Minamata Conventions using a transboundary pollution lens.
 
-**Model (133 words):** Basel regulates transboundary movements and disposal or recovery of hazardous and other wastes. Its PIC procedure, plastic-waste entries and 2025 e-waste amendments focus on waste classification, consent and environmentally sound management. Rotterdam instead applies prior informed consent to trade in listed hazardous chemicals and pesticides; the object is a chemical product in trade, not waste as such. Minamata regulates mercury across supply, trade, products, processes, emissions, releases, storage and waste. Mercury waste can therefore engage both Minamata's lifecycle controls and Basel's waste-movement rules. Basel and Rotterdam share PIC language, but the regulated transaction differs. Minamata cooperates with the BRS system but is not itself a BRS Convention. Accurate answers should identify the material, its legal status as product or waste, and the stage of its lifecycle.
+**Model (126 words):** Basel regulates transboundary movements and disposal or recovery of hazardous and other wastes. Its PIC procedure, plastic-waste entries and 2025 e-waste amendments focus on waste classification, consent and environmentally sound management. Rotterdam instead applies prior informed consent to trade in listed hazardous chemicals and pesticides; the object is a chemical product in trade, not waste as such. Minamata regulates mercury across supply, trade, products, processes, emissions, releases, storage and waste. Mercury waste can therefore engage both Minamata's lifecycle controls and Basel's waste-movement rules. Basel and Rotterdam share PIC language, but the regulated transaction differs. Minamata cooperates with the BRS system but is not itself a BRS Convention. Accurate answers should identify the material, its legal status as product or waste, and the stage of its lifecycle.
 
 **Unique rubric (10):** Basel scope 2 · Rotterdam scope 2 · Minamata scope 2 · overlap/boundary 2 · classification method 2.
 
@@ -1154,7 +1211,7 @@ Book context: Stockholm POP criteria, annex controls, listing procedure and entr
 
 CA search: `"Stockholm Convention revised 2025 Annex A B C official"`
 
-CA found: None used; COP12 adoption and the later treaty entry date are kept legally separate.
+CA found: Stockholm COP12 concluded on 9 May 2025; decisions SC-12/9, SC-12/10, SC-12/12 and SC-12/14 were checked against the later UN depositary notifications before stating current legal effect.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1243,7 +1300,7 @@ Unintentional POPs arise from combustion and industrial processes. Parties devel
 
 ✅ Basel technical work helps operationalise environmentally sound management of POP wastes. Stockholm does not replace Basel's movement-control system.
 
-### 6. COP12 adoption versus entry into force as of 3 October 2026
+### 6. COP12 adoption versus entry into force as of 5 October 2026
 
 ✅ Stockholm COP12, meeting from 28 April to 9 May 2025, adopted decisions SC-12/9, SC-12/10 and SC-12/12 to amend Annex A by listing:
 
@@ -1257,7 +1314,9 @@ with the specific exemptions contained in the adopted decisions.
 
 The UN depositary communicated the three new Annex A amendments through notification **C.N.672.2025.TREATIES-XXVII.15 on 16 December 2025**. Under Article 22's default annex-amendment rule, the one-year period expires on **16 December 2026**. The amendments then enter into force for Parties that have not submitted a notification of non-acceptance; a Party operating under the separate Article 25(4) declaration route is bound only through its applicable consent procedure.
 
-**Status on 3 October 2026:** the COP had adopted the amendments, but the default 16 December 2026 entry-into-force date had not arrived. Therefore, do not describe the three COP12 listings as already operative treaty annex obligations at the cut-off. Adoption, depositary communication, entry into force for a Party and any registered exemption are separate questions.
+The UV-328 decision requires separate status treatment. **SC-12/14** amended the existing Annex A listing of UV-328 by adding a specific exemption for defined aircraft uses; it did not newly list UV-328. The UN depositary communicated this amendment through **C.N.542.2025.TREATIES-XXVII.15 on 9 October 2025**, producing a default entry-into-force date of **9 October 2026** for Parties that neither notified non-acceptance nor operate under Article 25(4).
+
+**Status on 5 October 2026:** neither default date had arrived. SC-12/14's UV-328 exemption amendment was four days from its default date, while the three new-listing amendments remained due on 16 December 2026. Adoption, depositary communication, entry into force for a Party, Article 25(4) acceptance and registration of an exemption are separate questions.
 
 ### 7. Strongest objection, reply and residual
 
@@ -1291,8 +1350,8 @@ The UN depositary communicated the three new Annex A amendments through notifica
 11. Specific exemptions are registered and generally time-limited.
 12. BAT and BEP are central to Annex C.
 13. POP-waste management links Stockholm and Basel.
-14. COP12 adopted three Annex A listing amendments in 2025; C.N.672.2025 communicated them on 16 December 2025.
-15. Their default entry date is 16 December 2026, so they were not yet operative by 3 October 2026; Party procedure and exemptions still matter.
+14. C.N.542.2025 communicated SC-12/14's additional UV-328 exemption on 9 October 2025; its default date was 9 October 2026.
+15. C.N.672.2025 communicated three new listings on 16 December 2025; their default date was 16 December 2026. Neither default date had arrived by 5 October 2026.
 
 ### Concept check
 
@@ -1306,7 +1365,7 @@ The UN depositary communicated the three new Annex A amendments through notifica
 
 **Mains prompt:** Explain how the Stockholm Convention combines precaution with a science-based listing process.
 
-**Model (137 words):** Stockholm aims to protect health and the environment from chemicals whose persistence, bioaccumulation, adverse effects and long-range transport make national regulation insufficient. A Party proposes a chemical, after which the POPs Review Committee screens the evidence, develops a risk profile and evaluates risk-management options. The Committee recommends, but the COP legally decides whether to amend Annex A, B or C and whether exemptions are needed. This staged process makes precaution operational without treating suspicion alone as a completed listing. Annex A seeks elimination, Annex B restriction and Annex C reduction of unintentional releases through inventories, BAT and BEP. The strength is adaptive scientific control; the limitation is delay, during which substitute chemicals may spread. Effective governance therefore requires monitoring and attention to chemical classes as well as individual compounds.
+**Model (129 words):** Stockholm aims to protect health and the environment from chemicals whose persistence, bioaccumulation, adverse effects and long-range transport make national regulation insufficient. A Party proposes a chemical, after which the POPs Review Committee screens the evidence, develops a risk profile and evaluates risk-management options. The Committee recommends, but the COP legally decides whether to amend Annex A, B or C and whether exemptions are needed. This staged process makes precaution operational without treating suspicion alone as a completed listing. Annex A seeks elimination, Annex B restriction and Annex C reduction of unintentional releases through inventories, BAT and BEP. The strength is adaptive scientific control; the limitation is delay, during which substitute chemicals may spread. Effective governance therefore requires monitoring and attention to chemical classes as well as individual compounds.
 
 **Unique rubric (10):** POP criteria 2 · POPRC stages 2 · COP legal role 2 · annex logic 2 · precaution-delay balance 2.
 
@@ -1322,7 +1381,7 @@ Book context: Stockholm finance, compliance, effectiveness review and India's 20
 
 CA search: `"India updated Stockholm Convention National Implementation Plan official 2026"`
 
-CA found: None used; India's publicly available NIP status is stated with a 3 October 2026 cut-off.
+CA found: None found; no final publicly available Indian replacement NIP was verified by the 5 October 2026 cut-off.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1419,11 +1478,15 @@ It addresses:
 
 ✅ DDT's permitted disease-vector-control use under Stockholm should not be converted into permission for agricultural use.
 
-### 6. Status qualification as of 3 October 2026
+### 6. Status qualification as of 5 October 2026
 
 ✅ An UNEP/GEF-supported project was designed to review and update India's NIP for newly listed POPs.
 
-⚠️ By 3 October 2026, update work existed but no final publicly available replacement had displaced the 2011 NIP. Therefore:
+✅ India made a declaration under **Article 25(4)**. It is therefore an **opt-in Party** for annex amendments: a later Annex A, B or C amendment binds India only after India deposits an instrument accepting that specific amendment. The general one-year default rule applicable to non-opt-in Parties must not be applied automatically to India.
+
+⚠️ Consequently, neither the 9 October 2026 default date for SC-12/14 nor the 16 December 2026 default date for the three new COP12 listings would, by itself, make those amendments binding on India. India's acceptance status must be checked amendment by amendment.
+
+⚠️ By 5 October 2026, update work existed but no final publicly available replacement had displaced the 2011 NIP. Therefore:
 
 - cite the 2011 NIP as the published plan;
 - describe the update as required and undertaken;
@@ -1443,6 +1506,7 @@ It addresses:
 - GEF finance and Article 16 effectiveness evaluation are different mechanisms.
 - NIP is required under Article 7.
 - India NIP 2011 is the published baseline.
+- India is an Article 25(4) opt-in Party for annex amendments.
 - State update status cautiously; absence of a final public replacement is not proof that no administrative work occurred.
 - DDT = restricted vector-control use, not unrestricted production/use.
 
@@ -1462,6 +1526,7 @@ It addresses:
 12. DDT use is restricted to disease-vector control under conditions.
 13. India's NIP update is necessary for newly listed POPs.
 14. No final public replacement NIP had displaced the 2011 plan by the status cut-off.
+15. India is an Article 25(4) opt-in Party; later annex amendments need specific Indian acceptance.
 
 ### Concept check
 
@@ -1475,7 +1540,7 @@ It addresses:
 
 **Mains prompt:** Assess the role of National Implementation Plans in making the Stockholm Convention effective.
 
-**Model (139 words):** A Stockholm listing becomes effective domestically only when a Party converts it into law, inventories, sector controls, budgets and disposal arrangements. Article 7 National Implementation Plans perform this translation by identifying production, use, stockpiles, releases and contaminated sites; assigning institutional responsibility; planning BAT/BEP and waste management; and estimating finance and technology needs. They also provide a base for national reporting and Article 16 effectiveness evaluation. India's 2011 NIP, for example, addressed DDT for disease-vector control, PCBs, unintentional POPs, stockpiles and institutional capacity. However, a plan can become outdated as new POPs are listed. By 3 October 2026, update work existed but no final public replacement had displaced the 2011 plan. NIPs are therefore necessary implementation instruments, not proof of completed elimination.
+**Model (121 words):** A Stockholm listing becomes effective domestically only when a Party converts it into law, inventories, sector controls, budgets and disposal arrangements. Article 7 National Implementation Plans perform this translation by identifying production, use, stockpiles, releases and contaminated sites; assigning institutional responsibility; planning BAT/BEP and waste management; and estimating finance and technology needs. They also provide a base for national reporting and Article 16 effectiveness evaluation. India's 2011 NIP, for example, addressed DDT for disease-vector control, PCBs, unintentional POPs, stockpiles and institutional capacity. However, a plan can become outdated as new POPs are listed. By 5 October 2026, update work existed but no final public replacement had displaced the 2011 plan. NIPs are therefore necessary implementation instruments, not proof of completed elimination.
 
 **Unique rubric (10):** Article 7 purpose 2 · operational components 2 · India example 2 · update requirement 2 · plan-versus-outcome qualification 2.
 
@@ -1491,7 +1556,7 @@ Book context: Vienna-Montreal legal architecture, ozone science, finance and com
 
 CA search: `"Montreal Protocol control schedules Multilateral Fund compliance official 2026"`
 
-CA found: None used; ozone recovery and control schedules are stated with their dates and conditions.
+CA found: MOP37 concluded in Nairobi on 7 November 2025; ExMOP6 met in Bangkok on 14 July 2026; MOP38 was scheduled for 2-6 November 2026 and had not occurred by the cut-off.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1520,9 +1585,9 @@ trade with non-Parties   reporting     Article 5 differentiation
 
 ### 1. Formation and legal relationship
 
-✅ The Vienna Convention for the Protection of the Ozone Layer was adopted in 1985 and entered into force in 1988.
+✅ The Vienna Convention for the Protection of the Ozone Layer was adopted on **22 March 1985** and entered into force on **22 September 1988**.
 
-✅ The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987 and entered into force in 1989.
+✅ The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted on **16 September 1987** and entered into force on **1 January 1989**.
 
 ✅ Montreal is a protocol under Vienna, not a stand-alone convention.
 
@@ -1562,7 +1627,31 @@ more harmful UV-B reaches surface
 | ✅ Licensing and reporting | Track production and trade |
 | ✅ Article 4 trade controls | Restrict controlled-substance trade with non-Parties |
 
-### 4. Adjustment versus amendment
+### 4. London Amendment and the controlled-substance annexes
+
+✅ The **London Amendment** was adopted on **29 June 1990** and entered into force on **10 August 1992**. It:
+
+- added Annex B control groups;
+- strengthened the control schedules; and
+- established the Article 10 financial mechanism that includes the Multilateral Fund.
+
+| Montreal annex | Controlled group | Legal caution |
+|---|---|---|
+| ✅ Annex A, Group I | Specified CFCs | Original ODS controls |
+| ✅ Annex A, Group II | Halons | Original ODS controls |
+| ✅ Annex B, Group I | Other fully halogenated CFCs | Added through London |
+| ✅ Annex B, Group II | Carbon tetrachloride | Added through London |
+| ✅ Annex B, Group III | 1,1,1-trichloroethane (methyl chloroform) | Added through London |
+| ✅ Annex C, Group I | HCFCs | Article 2F; differentiated phase-out with a limited servicing tail |
+| ✅ Annex C, Group II | Hydrobromofluorocarbons (HBFCs) | Article 2G; separate schedule, not the HCFC timetable |
+| ✅ Annex C, Group III | Bromochloromethane | Article 2I; separate schedule |
+| ✅ Annex E, Group I | Methyl bromide | Separate Article 2H schedule and exemptions |
+| ✅ Annex F, Group I | Listed HFCs | Kigali climate phase-down in CO2 equivalents |
+| ✅ Annex F, Group II | HFC-23 | Kigali phase-down plus Article 2J by-product-emissions controls |
+
+⚠️ Annex D lists products containing controlled substances; it is not another substance-control schedule. Shared annex lettering does not mean identical deadlines: Annex C Groups I, II and III use different control articles and timetables.
+
+### 5. Adjustment versus amendment
 
 ✅ An **adjustment** tightens control measures for already controlled substances through an expedited process and does not require the same separate ratification process as a formal amendment.
 
@@ -1570,11 +1659,11 @@ more harmful UV-B reaches surface
 
 This is a major reason the regime can respond faster than a treaty that must reopen its full text for every stricter schedule.
 
-### 5. Differentiation and the Multilateral Fund
+### 6. Differentiation and the Multilateral Fund
 
 ✅ Article 5 recognises the special situation of developing countries and provides differentiated timing.
 
-✅ Article 10 established the **Multilateral Fund**, operational from 1991, to meet agreed incremental costs of eligible Article 5 Parties.
+✅ The London Amendment's Article 10 financial mechanism includes the **Multilateral Fund**, operational from 1991, to meet agreed incremental costs of eligible Article 5 Parties.
 
 It supports:
 
@@ -1589,7 +1678,7 @@ It supports:
 
 ⚠️ This finance-compliance bargain is deeper than merely offering project grants: differentiated deadlines are paired with agreed financial and technological support.
 
-### 6. Compliance and expert bodies
+### 7. Compliance and expert bodies
 
 | Body | Role |
 |---|---|
@@ -1602,7 +1691,21 @@ It supports:
 
 ✅ The non-compliance procedure is managerial and facilitative. It can combine plans, assistance and cautions, with the MOP retaining authority over responses.
 
-### 7. Evidence of effectiveness
+### 8. Current implementation through 5 October 2026
+
+✅ **MOP37** met in Nairobi from **3 to 7 November 2025** and adopted 23 decisions. Current implementation work included:
+
+- methodologies and data gaps for HFC-23 generation and emissions;
+- information on used and unwanted controlled substances and end-of-life management;
+- regional atmospheric-monitoring gaps;
+- terms of reference for the 2027-2029 Multilateral Fund replenishment study; and
+- sustainable-cooling and energy-efficiency cooperation under Kigali.
+
+✅ **ExMOP6** met in Bangkok on **14 July 2026** to resolve the outstanding 2026 membership of the Implementation Committee. The Eastern European group nominated Azerbaijan, completing the committee's membership issue.
+
+✅ **MOP38** was scheduled for **Kigali, Rwanda, from 2 to 6 November 2026**. At the 5 October cut-off it had not opened; no MOP38 outcome may be claimed.
+
+### 9. Evidence of effectiveness
 
 ✅ The 2022 WMO/UNEP Scientific Assessment projected return of total-column ozone to 1980 values, if current policies remain in place, around:
 
@@ -1614,7 +1717,7 @@ It supports:
 
 ⚠️ These are conditional projections, not declarations that the ozone hole has already disappeared.
 
-### 8. Strongest objection, reply and residual
+### 10. Strongest objection, reply and residual
 
 **Objection:** Montreal succeeded only because the technical problem was easier than biodiversity or waste governance.
 
@@ -1626,29 +1729,33 @@ It supports:
 
 - Vienna = framework science and cooperation.
 - Montreal = operative controlled-substance treaty.
+- London = Annex B expansion plus Article 10/Multilateral Fund architecture.
+- Annex C Groups I, II and III are HCFCs, HBFCs and bromochloromethane with separate schedules.
+- Annex F Group I contains listed HFCs; Group II is HFC-23.
 - Production and consumption are treaty-defined quantities.
 - Adjustment and amendment are distinct.
 - MLF supports Article 5 compliance.
 - Article 4 trade controls help prevent free riding.
+- MOP37 and ExMOP6 were concluded; MOP38 was still scheduled at the cut-off.
 - Recovery years must be attributed to the 2022 assessment and conditional on continued policies.
 
 ### Revision notes
 
-1. Vienna was adopted in 1985.
-2. Montreal was adopted in 1987.
+1. Vienna: adopted 22 March 1985; in force 22 September 1988.
+2. Montreal: adopted 16 September 1987; in force 1 January 1989.
 3. Montreal is a protocol under Vienna.
-4. Vienna centres research, observation and cooperation.
-5. Montreal controls production and consumption.
-6. Annexes organise controlled substances.
-7. Adjustments tighten existing controls more rapidly.
-8. Amendments require treaty consent under their entry rules.
-9. Article 4 restricts trade with non-Parties.
-10. Article 5 differentiates developing-country schedules.
-11. Article 10 created the Multilateral Fund.
-12. TEAP is technical/economic, not the compliance body.
-13. The Implementation Committee addresses possible non-compliance.
-14. Ozone recovery projections are conditional.
-15. Montreal's success combines problem structure and institutional design.
+4. London: adopted 29 June 1990; in force 10 August 1992.
+5. London added Annex B and the Article 10 financial mechanism.
+6. Annex A covers specified CFCs/halons; Annex B adds other CFCs, carbon tetrachloride and methyl chloroform.
+7. Annex C Groups I/II/III are HCFCs/HBFCs/bromochloromethane with separate schedules.
+8. Annex E covers methyl bromide; Annex F Groups I/II cover listed HFCs/HFC-23.
+9. ODS are phased out; Annex F HFCs are phased down.
+10. Adjustments tighten existing controls; amendments require treaty consent.
+11. Article 4 restricts trade with non-Parties.
+12. Article 5 differentiates schedules; Article 10 supplies the Fund.
+13. TEAP advises; the Implementation Committee reviews possible non-compliance.
+14. MOP37 and ExMOP6 concluded; MOP38 remained scheduled.
+15. Ozone recovery projections are conditional on continued policy.
 
 ### Concept check
 
@@ -1662,7 +1769,7 @@ It supports:
 
 **Mains prompt:** Identify the institutional features that made the Montreal Protocol unusually effective.
 
-**Model (148 words):** Montreal converted ozone science into enforceable production and consumption schedules for a bounded list of substances. Baselines, freezes, staged reductions and reporting made performance measurable. Article 4 trade controls reduced incentives to remain outside the regime. The adjustment procedure allowed existing schedules to be tightened faster than ordinary treaty amendment. Developing countries received differentiated timing under Article 5, while the Multilateral Fund financed agreed incremental costs, technology conversion, training and institutional strengthening. TEAP and scientific panels continually linked control decisions to alternatives and atmospheric evidence. A facilitative Implementation Committee addressed non-compliance through plans, assistance and recommendations to the Meeting of the Parties. The 2022 assessment's conditional recovery projections indicate environmental effect. However, technical substitutability and a relatively narrow problem also aided success; the model cannot be copied mechanically to diffuse problems such as biodiversity loss.
+**Model (135 words):** Montreal converted ozone science into enforceable production and consumption schedules for a bounded list of substances. Baselines, freezes, staged reductions and reporting made performance measurable. Article 4 trade controls reduced incentives to remain outside the regime. The adjustment procedure allowed existing schedules to be tightened faster than ordinary treaty amendment. Developing countries received differentiated timing under Article 5, while the Multilateral Fund financed agreed incremental costs, technology conversion, training and institutional strengthening. TEAP and scientific panels continually linked control decisions to alternatives and atmospheric evidence. A facilitative Implementation Committee addressed non-compliance through plans, assistance and recommendations to the Meeting of the Parties. The 2022 assessment's conditional recovery projections indicate environmental effect. However, technical substitutability and a relatively narrow problem also aided success; the model cannot be copied mechanically to diffuse problems such as biodiversity loss.
 
 **Unique rubric (10):** schedules/measurement 2 · trade/adjustment 2 · differentiation/finance 2 · science/compliance 2 · qualified transferability 2.
 
@@ -1678,7 +1785,7 @@ Book context: Kigali HFC controls, India's differentiated schedule and industria
 
 CA search: `"India HFC baseline 2024 2026 freeze 2028 official Kigali"`
 
-CA found: None used; India's HFC schedule is an operative legal commitment.
+CA found: MoEFCC's Office Memorandum dated 1 April 2026 restricted environmental clearances and commissioning for controlled HFC-production capacity ahead of India's 1 January 2028 freeze.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1706,9 +1813,11 @@ HFC phase-down + low-GWP transition + efficiency opportunity
 
 ### 1. Legal character
 
-✅ The Kigali Amendment was adopted in 2016 as an amendment to the Montreal Protocol and entered into force internationally in 2019.
+✅ The Kigali Amendment was adopted on **15 October 2016** as an amendment to the Montreal Protocol and entered into force internationally on **1 January 2019**.
 
-✅ It adds specified HFCs in Annex F and establishes differentiated production and consumption phase-down schedules.
+✅ It adds **Annex F Group I HFCs** and **Group II HFC-23** and establishes differentiated production and consumption phase-down schedules expressed in CO2 equivalents.
+
+✅ Article 2J also requires Parties manufacturing Annex C Group I or Annex F substances to destroy, to the extent practicable using approved technology, Annex F Group II HFC-23 generated at those facilities. This by-product-emissions rule complements, but is not identical to, the aggregate Annex F phase-down.
 
 ✅ A **phase-down** differs from a universal zero phase-out. The schedules reduce the aggregate controlled quantity against a baseline, with specified residual levels.
 
@@ -1815,6 +1924,8 @@ Risks:
 ### UPSC application
 
 - HFCs are greenhouse gases, not ozone-depleting substances.
+- Annex F Group I contains the listed HFCs; Group II contains HFC-23.
+- HFC-23 also has a specific Article 2J by-product-emissions control.
 - They may act as aerosol propellants, foam blowing agents, specialised fire-suppression agents and carriers in some aerosol lubricant products; the industrial role must be identified precisely.
 - Kigali is an amendment to Montreal.
 - India is in the later Article 5 schedule.
@@ -1825,21 +1936,21 @@ Risks:
 
 ### Revision notes
 
-1. Kigali was adopted in 2016.
-2. It entered into force internationally in 2019.
-3. It controls HFCs under Montreal Annex F.
-4. HFCs generally do not deplete ozone but often have high global-warming potential.
-5. HFCs may serve as aerosol propellants, foam blowing agents, specialised extinguishing agents or carriers in aerosol lubricant products.
+1. Kigali: adopted 15 October 2016; in force 1 January 2019.
+2. Annex F Group I contains listed HFCs; Group II contains HFC-23.
+3. Article 2J adds an HFC-23 by-product-emissions control.
+4. HFCs generally do not deplete ozone but often have high GWP.
+5. HFCs serve aerosol, foam, fire-suppression and other technical roles.
 6. Kigali mandates phase-down, not universal phase-out.
-7. India ratified Kigali in September 2021.
-8. India's baseline uses 2024-26 HFC data plus 65% of the HCFC baseline component.
+7. India ratified Kigali on 27 September 2021.
+8. India's baseline uses 2024-26 HFC data plus 65% of the HCFC baseline.
 9. India's freeze begins in 2028.
 10. Reduction steps are 10%, 20%, 30% and 85%.
 11. The final listed milestone is 2047.
 12. HPMP Stage III concerns HCFCs through 2030.
 13. Ozone Cell coordinates domestic implementation.
 14. Low-GWP transition must account for safety and efficiency.
-15. Cooling-demand growth can offset gains if policy addresses refrigerant only.
+15. Cooling-demand growth can offset refrigerant-only gains.
 
 ### Concept check
 
@@ -1853,7 +1964,7 @@ Risks:
 
 **Mains prompt:** Discuss the significance and implementation challenges of India's Kigali schedule.
 
-**Model (147 words):** Kigali brings high-GWP HFCs within the Montreal Protocol's proven reporting, finance and technology architecture even though HFCs do not deplete ozone. India uses a 2024-26 baseline plus the treaty-specified HCFC component, freezes controlled production and consumption in 2028, and then reduces the baseline by 10% in 2032, 20% in 2037, 30% in 2042 and 85% in 2047. The schedule can lower direct refrigerant emissions and stimulate efficient low-GWP cooling. MoEFCC's 2026 environmental-clearance direction and the Ozone Cell provide a domestic implementation bridge. Challenges include conversion cost for small firms, safe handling of flammable or toxic alternatives, technician training, legacy equipment banks, illegal trade and rapidly growing cooling demand. India should therefore pair refrigerant transition with appliance efficiency, servicing reform and affordable access rather than treat compliance as a chemical substitution exercise alone.
+**Model (132 words):** Kigali brings high-GWP HFCs within the Montreal Protocol's proven reporting, finance and technology architecture even though HFCs do not deplete ozone. India uses a 2024-26 baseline plus the treaty-specified HCFC component, freezes controlled production and consumption in 2028, and then reduces the baseline by 10% in 2032, 20% in 2037, 30% in 2042 and 85% in 2047. The schedule can lower direct refrigerant emissions and stimulate efficient low-GWP cooling. MoEFCC's 2026 environmental-clearance direction and the Ozone Cell provide a domestic implementation bridge. Challenges include conversion cost for small firms, safe handling of flammable or toxic alternatives, technician training, legacy equipment banks, illegal trade and rapidly growing cooling demand. India should therefore pair refrigerant transition with appliance efficiency, servicing reform and affordable access rather than treat compliance as a chemical substitution exercise alone.
 
 **Unique rubric (10):** legal significance 2 · exact India schedule 2 · domestic mechanism 2 · challenges 2 · integrated policy conclusion 2.
 
@@ -1869,7 +1980,7 @@ Book context: comparative treaty design, finance, compliance and adaptability.
 
 CA search: `"comparative effectiveness Montreal CBD Basel Stockholm institutional design"`
 
-CA found: None used; this lesson compares the established design of the four regimes.
+CA found: None found; no single official development altered the comparative design framework, so the lesson uses treaty-specific current evidence without inventing a common ranking.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -2019,7 +2130,7 @@ new assessment and control cycle
 
 **Mains prompt:** What institutional-design factors explain the Montreal Protocol's relative success? Can they be replicated under the CBD?
 
-**Model (215 words):** Montreal's relative success rests on mutually reinforcing design features. First, it regulates identifiable substances through measurable production and consumption baselines, freezes and dated reduction schedules. Second, Article 4 trade controls reduce free-riding and leakage. Third, Article 5 differentiation is matched by the Multilateral Fund, which pays agreed incremental costs of technology conversion, training and institutional strengthening. Fourth, TEAP and scientific panels connect feasible alternatives with atmospheric evidence. Fifth, an adjustment procedure permits faster tightening of existing controls, while a facilitative Implementation Committee identifies difficulty early and links compliance plans with assistance. Conditional ozone-recovery projections show that this architecture has generated environmental results.
+**Model (184 words):** Montreal's relative success rests on mutually reinforcing design features. First, it regulates identifiable substances through measurable production and consumption baselines, freezes and dated reduction schedules. Second, Article 4 trade controls reduce free-riding and leakage. Third, Article 5 differentiation is matched by the Multilateral Fund, which pays agreed incremental costs of technology conversion, training and institutional strengthening. Fourth, TEAP and scientific panels connect feasible alternatives with atmospheric evidence. Fifth, an adjustment procedure permits faster tightening of existing controls, while a facilitative Implementation Committee identifies difficulty early and links compliance plans with assistance. Conditional ozone-recovery projections show that this architecture has generated environmental results.
 
 Some lessons are transferable to the CBD: clearer national milestones, predictable finance, common indicators, transparent review and technology support. However, mechanical replication would fail. Biodiversity loss is produced by land use, agriculture, infrastructure, consumption and local governance across highly varied ecosystems. A single global phase-out calendar cannot capture ecological representation, community rights or sustainable use. The KMGBF should therefore borrow Montreal's accountability chain—measurable national targets, finance, reporting and review—while retaining differentiated, place-based implementation. Montreal is a design benchmark, not a universal template.
 
@@ -2035,9 +2146,9 @@ Progress: 12 / 12 | Stage: Advanced Synthesis | Subtopic: Principles, trade, fin
 
 Book context: complete four-regime comparison, Indian implementation and legal-status discipline.
 
-CA search: `"CBD Basel Stockholm Montreal comparative legal status 3 October 2026"`
+CA search: `"CBD Basel Stockholm Montreal comparative legal status 5 October 2026 official"`
 
-CA found: None used; the comparison applies the legal status established for each regime.
+CA found: CBD COP17 and Montreal MOP38 were still scheduled, while the 2025 BRS decisions and July 2026 ExMOP6 outcome were already adopted; the comparison uses that proposed/adopted/in-force separation.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -2064,12 +2175,12 @@ substance annex -> baseline/freeze -> phase-out/down -> finance/compliance
 | Dimension | CBD | Basel | Stockholm | Vienna-Montreal |
 |---|---|---|---|---|
 | Primary object | Biodiversity, sustainable use, benefit-sharing | Hazardous and other waste movement/disposal | Persistent organic pollutants | Ozone layer and controlled substances; HFC climate phase-down under Kigali |
-| Core mechanism | NBSAPs, national targets, protocols, reporting | PIC, ESM, movement documents, illegal-traffic control | Annex A/B/C controls, POPRC listing, NIPs | Binding schedules, trade controls, reporting, adjustments |
+| Core mechanism | NBSAPs, national targets, protocols, reporting | PIC, ESM, movement documents, illegal-traffic control | Annex A/B/C controls, POPRC listing, NIPs | ODS phase-out schedules; London finance/Annex B; Kigali Annex F phase-down |
 | Governing body | COP; Protocol MOPs separately | COP | COP | Vienna COP and Montreal MOP |
-| Finance | GEF under COP guidance | Budget, voluntary/project support, regional centres | GEF under COP guidance | Dedicated Multilateral Fund |
+| Finance | GEF under COP guidance | Budget, voluntary/project support, regional centres | GEF under COP guidance | London-Amendment Article 10 mechanism and dedicated Multilateral Fund |
 | Compliance | No parent-CBD committee; protocol committees | ICC | Facilitative committee | Implementation Committee |
 | Trade dimension | Access/LMO movement under protocols | Waste shipments | Permitted-purpose import/export | Trade controls with non-Parties |
-| India interface | BDA, Rules, NBSAP, NBA-SBB-BMC | HOWM Rules | NIP and chemical/waste laws | ODS Rules, Ozone Cell, HPMP and Kigali plan |
+| India interface | BDA, Rules, NBSAP, NBA-SBB-BMC | HOWM Rules; bound plastic/e-waste amendments, not Ban | NIP, chemical/waste laws and Article 25(4) opt-in | ODS Rules, Ozone Cell, HPMP and Kigali plan |
 
 ### 2. Principles: use precise verbs
 
@@ -2106,16 +2217,17 @@ Montreal: controlled-substance trade -> non-Party restrictions + licensing
 
 ⚠️ **Implementation evidence, not law:** a project count, fund announcement, registration total or reported outcome.
 
-### 5. Status docket — 3 October 2026
+### 5. Status docket — 5 October 2026
 
 | Regime | Operative position at the cut-off |
 |---|---|
 | CBD | KMGBF remains the global framework; COP16 completed finance, monitoring and DSI decisions in February 2025; COP17 was scheduled for 19-30 October 2026 and had not yet occurred |
 | India-CBD | NBSAP 2024-2030, 23 NBTs, official 2026 NR-7 material with 142 indicators, 2024 Rules and 2025 ABS Regulations including DSI form the current implementation interface |
-| Basel | Ban Amendment has been in force since 5 December 2019; plastic amendments since 1 January 2021; e-waste amendments since 1 January 2025 for Parties bound by them |
-| Stockholm | COP12 adopted three Annex A listing amendments in 2025, but C.N.672.2025 set the default entry date at 16 December 2026; they were not yet operative on 3 October 2026. The formal compliance mechanism dates from COP11 |
-| India-Stockholm | The 2011 NIP remained the published public plan; update work existed, but no final public replacement had displaced it |
-| Montreal/Kigali | Ozone control and recovery architecture remains operative; India is measuring its 2024-26 HFC baseline before the 2028 freeze and later reduction steps |
+| Basel | Ban Amendment in force since 5 December 2019 for accepting Parties; plastic amendments effective 1 January 2021 and e-waste amendments 1 January 2025. India is bound by plastic/e-waste amendments but had not accepted the Ban |
+| Rotterdam | COP12 Annex III additions—carbosulfan and the specified fenthion formulation—entered into force 22 October 2025; import responses were due 21 July 2026 |
+| Stockholm | SC-12/14 UV-328 exemption amendment: C.N.542.2025 dated 9 October 2025, default date 9 October 2026. Three new listings: C.N.672.2025 dated 16 December 2025, default date 16 December 2026. Neither default date had arrived |
+| India-Stockholm | India is an Article 25(4) opt-in Party; annex amendments require specific Indian acceptance. The 2011 NIP remained the published plan; no final public replacement was verified |
+| Montreal/Kigali | London/Annex B/Article 10 architecture and ODS phase-out remain operative; Annex F HFC phase-down continues. MOP37 and ExMOP6 concluded; MOP38 was scheduled for 2-6 November 2026 |
 
 ### 6. India-wide implementation map
 
@@ -2147,6 +2259,10 @@ MoEFCC
 8. Treating BRS as including Minamata.
 9. Treating the Multilateral Fund and GEF as interchangeable.
 10. Claiming an upcoming COP has already adopted outcomes.
+11. Applying one HCFC schedule to all Annex C groups.
+12. Treating Rotterdam import responses as Basel shipment consents.
+13. Applying Stockholm's default annex-amendment date automatically to India.
+14. Treating London ODS controls and Kigali HFC controls as the same amendment architecture.
 
 ### 8. Strongest objection, reply and residual
 
@@ -2169,18 +2285,18 @@ MoEFCC
 1. CBD governs biodiversity through broad objectives and national implementation.
 2. Basel governs transboundary hazardous and other waste.
 3. Stockholm governs listed POPs.
-4. Montreal governs controlled ozone-depleting substances; Kigali adds HFC phase-down.
-5. Cartagena AIA, Nagoya PIC/MAT and Basel PIC regulate different transactions.
-6. GEF serves CBD and Stockholm financial mechanisms.
-7. Montreal has a dedicated Multilateral Fund.
-8. Basel's support architecture is less centralised.
+4. London added Annex B and the Article 10/Multilateral Fund architecture.
+5. Montreal phases out ODS; Kigali phases down Annex F HFCs.
+6. Annex C Groups I/II/III have separate control schedules.
+7. Cartagena AIA, Nagoya PIC/MAT, Basel PIC and Rotterdam import responses differ.
+8. GEF serves CBD/Stockholm; Montreal has a dedicated Fund.
 9. Parent CBD lacks a formal compliance committee.
 10. Basel, Stockholm and Montreal have facilitative compliance bodies.
 11. COP decision, amendment and adjustment must be distinguished.
-12. Annex controls can be legally binding through treaty procedures.
-13. BRS excludes Minamata.
-14. India uses separate domestic legal tracks under a common nodal ministry.
-15. Status claims require a date and adopted-versus-proposed discipline.
+12. Annex controls can bind through treaty-specific procedures.
+13. India: no Basel Ban; Stockholm annex amendments require opt-in.
+14. BRS excludes Minamata.
+15. Status claims require exact dates and legal stages.
 
 ### Concept check
 
@@ -2194,7 +2310,7 @@ MoEFCC
 
 **Mains prompt:** Compare the legal and institutional architecture of the CBD, Basel Convention, Stockholm Convention and Montreal Protocol. What lessons emerge for effective multilateral environmental governance?
 
-**Model (237 words):** The four regimes match different problems with different tools. The CBD protects biodiversity through three objectives, national strategies, protocols, reporting and GEF-supported implementation. Its parent convention lacks a formal compliance committee, and KMGBF targets require national translation. Basel controls transboundary movements of hazardous and other wastes through prior informed consent, environmentally sound management, movement documents and an Implementation and Compliance Committee. Its Ban, plastic and e-waste amendments progressively tightened trade controls. Stockholm uses scientific review by POPRC and COP amendments to place chemicals in Annex A, B or C; NIPs, GEF finance, monitoring and a facilitative compliance mechanism translate listings into action. The Vienna-Montreal regime combines science with measurable production and consumption schedules, non-Party trade controls, expert panels, a compliance procedure and the dedicated Multilateral Fund. Kigali extends this architecture to HFC phase-down.
+**Model (212 words):** The four regimes match different problems with different tools. The CBD protects biodiversity through three objectives, national strategies, protocols, reporting and GEF-supported implementation. Its parent convention lacks a formal compliance committee, and KMGBF targets require national translation. Basel controls transboundary movements of hazardous and other wastes through prior informed consent, environmentally sound management, movement documents and an Implementation and Compliance Committee. Its Ban, plastic and e-waste amendments progressively tightened trade controls. Stockholm uses scientific review by POPRC and COP amendments to place chemicals in Annex A, B or C; NIPs, GEF finance, monitoring and a facilitative compliance mechanism translate listings into action. The Vienna-Montreal regime combines science with measurable production and consumption schedules, non-Party trade controls, expert panels, a compliance procedure and the dedicated Multilateral Fund. Kigali extends this architecture to HFC phase-down.
 
 Three lessons follow. First, obligations must fit the problem: chemical schedules cannot simply be copied to ecosystems. Second, finance and technology must be linked to differentiated compliance, not added after deadlines. Third, monitoring and adaptive amendment procedures must distinguish adopted law from political targets. India reflects this differentiated translation through biodiversity law and NBSAP, hazardous-waste rules, a Stockholm NIP and Ozone Cell-led transition. Coordination can reduce fragmentation, but effectiveness depends on preserving precise mandates, credible data and domestic enforcement.
 
@@ -2206,13 +2322,13 @@ Three lessons follow. First, obligations must fit the problem: chemical schedule
 
 The exact neutral wording appears before all teaching in the opening docket. The approaches below do not supply objective keys or solved PYQ models.
 
-| Year / paper | Lesson mapping | Demand | Answer-neutral route |
-|---|---|---|---|
-| 2018 GS-III Q17 | Lessons 2 and 4 | Explain India's biodiversity variation and evaluate the Biological Diversity Act's conservation role | Organise biodiversity by ecological/geographic variation, then map conservation, sustainable use, ABS and NBA-SBB-BMC functions; end with implementation limits |
-| 2023 Prelims Q20 | Lesson 10 | Test sectoral uses of HFCs | Classify each listed application independently using refrigerant, foam, aerosol, fire-protection and industrial-use knowledge; do not infer from the number pattern |
-| 2023 Prelims Q59 | Lesson 6 boundary | Test mercury sources and exposure-risk language | Separate anthropogenic source claims from a toxicology-threshold claim; use Minamata/health evidence without confusing mercury with a POP |
-| 2023 Prelims Q79 | Lessons 2-3 | Test BMC functions and Nagoya implementation | Check the statutory local-body role, ABS consultation and fee powers independently; distinguish BMC from NBA/SBB jurisdiction |
-| 2026 GS-III Q8 | Lesson 4 | Explain KMGBF aim/goals and India's commitments with examples | Use aim -> four goals -> grouped 23 targets -> India NBSAP/NBT/indicator/legal tools -> measured qualification |
+| Year / paper | Local official provenance and owner | Lesson mapping | Demand | Answer-neutral route |
+|---|---|---|---|---|
+| 2018 GS-III Q17 | `GENERAL-STUDIES-PAPER-III.pdf`, p. 4; Topic 22 primary, Topic 04 support | Lessons 2 and 4 | Explain India's biodiversity variation and evaluate the Biological Diversity Act's conservation role | Organise biodiversity by ecological/geographic variation, then map conservation, sustainable use, ABS and NBA-SBB-BMC functions; end with implementation limits |
+| 2023 Prelims Q20 | `QP_CS_Pre_Exam_2023_280523.pdf`, p. 9; Topic 22 primary, Topic 17 support | Lesson 10 | Test sectoral uses of HFCs | Classify each listed application independently using refrigerant, foam, aerosol, fire-protection and industrial-use knowledge; do not infer from the number pattern |
+| 2023 Prelims Q59 | `QP_CS_Pre_Exam_2023_280523.pdf`, p. 25; Topic 22 Minamata boundary | Lesson 6 boundary | Test mercury sources and exposure-risk language | Separate anthropogenic source claims from a toxicology-threshold claim; use Minamata/health evidence without confusing mercury with a POP |
+| 2023 Prelims Q79 | `QP_CS_Pre_Exam_2023_280523.pdf`, p. 33; Topic 22 primary, Topic 04 support | Lessons 2-3 | Test BMC functions and Nagoya implementation | Check the statutory local-body role, ABS consultation and fee powers independently; distinguish BMC from NBA/SBB jurisdiction |
+| 2026 GS-III Q8 | `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`, p. 3; Topic 22 primary | Lesson 4 | Explain KMGBF aim/goals and India's commitments with examples | Use aim -> four goals -> grouped 23 targets -> India NBSAP/NBT/indicator/legal tools -> measured qualification |
 
 ## PYQ use boundary
 
@@ -2231,9 +2347,9 @@ The exact neutral wording appears before all teaching in the opening docket. The
 
 ### Cumulative check 2 — consent vocabulary
 
-**Question:** Why are Cartagena AIA, Nagoya PIC and Basel PIC not interchangeable?
+**Question:** Why are Cartagena AIA, Nagoya PIC, Basel PIC and Rotterdam import responses not interchangeable?
 
-**Response:** Cartagena concerns specified LMO movement and biosafety; Nagoya concerns access to genetic resources and benefit-sharing; Basel concerns transboundary movement of waste and ESM.
+**Response:** Cartagena concerns specified LMO movement and biosafety; Nagoya concerns access to genetic resources and benefit-sharing; Basel concerns a proposed transboundary waste movement and ESM; Rotterdam records a Party's general trade decision for an Annex III chemical.
 
 ### Cumulative check 3 — chemical classification
 
@@ -2253,13 +2369,19 @@ The exact neutral wording appears before all teaching in the opening docket. The
 
 **Response:** Distinguish **proposed**, **adopted** and **entered into force**. For meetings, distinguish **scheduled**, **opened** and **concluded**.
 
+### Cumulative check 6 — Montreal annex architecture
+
+**Question:** Distinguish Annex C Groups I-III from Annex F Groups I-II.
+
+**Response:** Annex C Groups I, II and III contain HCFCs, HBFCs and bromochloromethane under separate ODS control articles and schedules. Kigali Annex F Group I contains listed HFCs and Group II contains HFC-23; Annex F is phased down in CO2 equivalents, with an additional Article 2J HFC-23 by-product-emissions rule.
+
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## 10 marks — 150 words
 
 **Question:** Distinguish the trade-control mechanisms of Basel, Stockholm and Montreal.
 
-**Model (142 words):** Basel regulates transboundary movements of hazardous and other wastes through notification, written consent, movement documents and environmentally sound management; the Ban Amendment prohibits specified Annex VII-to-non-Annex VII hazardous-waste exports for Parties bound by it. Stockholm restricts import and export of listed POPs to permitted uses, registered exemptions or environmentally sound disposal, linking trade to Annex A/B obligations and POP-waste rules. Montreal uses licensing, reporting and Article 4 controls on trade in controlled substances with non-Parties, reducing free-riding from states outside the regime. These mechanisms share a preventive purpose but regulate different objects: waste, persistent chemicals and ozone/HFC-controlled substances. Rotterdam's PIC should not be inserted as a Basel rule, and domestic EPR should not be treated as an international consent procedure. Effective comparison therefore begins with the regulated transaction.
+**Model (128 words):** Basel regulates transboundary movements of hazardous and other wastes through notification, written consent, movement documents and environmentally sound management; the Ban Amendment prohibits specified Annex VII-to-non-Annex VII hazardous-waste exports for Parties bound by it. Stockholm restricts import and export of listed POPs to permitted uses, registered exemptions or environmentally sound disposal, linking trade to Annex A/B obligations and POP-waste rules. Montreal uses licensing, reporting and Article 4 controls on trade in controlled substances with non-Parties, reducing free-riding from states outside the regime. These mechanisms share a preventive purpose but regulate different objects: waste, persistent chemicals and ozone/HFC-controlled substances. Rotterdam's PIC should not be inserted as a Basel rule, and domestic EPR should not be treated as an international consent procedure. Effective comparison therefore begins with the regulated transaction.
 
 **Rubric (10):** Basel 3 · Stockholm 2 · Montreal 2 · boundary distinctions 2 · synthesis 1.
 
@@ -2267,7 +2389,7 @@ The exact neutral wording appears before all teaching in the opening docket. The
 
 **Question:** Evaluate finance and compliance as determinants of multilateral environmental agreement effectiveness.
 
-**Model (213 words):** Environmental obligations succeed when Parties can identify the duty, finance the transition and address implementation difficulty early. Montreal offers the clearest integrated model. Article 5 differentiation gives developing countries later schedules, while the Multilateral Fund finances agreed incremental costs, technology conversion, training and institutions. Reported production and consumption data feed a facilitative Implementation Committee and MOP response.
+**Model (194 words):** Environmental obligations succeed when Parties can identify the duty, finance the transition and address implementation difficulty early. Montreal offers the clearest integrated model. Article 5 differentiation gives developing countries later schedules, while the Multilateral Fund finances agreed incremental costs, technology conversion, training and institutions. Reported production and consumption data feed a facilitative Implementation Committee and MOP response.
 
 CBD and Stockholm use the GEF under COP guidance. This supports biodiversity planning, protected-area and ABS capacity, POP inventories, alternatives and waste management. However, their needs are broader and more diffuse than a bounded refrigerant conversion. Basel relies on its budget, voluntary technical cooperation, projects and regional centres rather than a comparable dedicated incremental-cost fund, even though customs, laboratories and ESM infrastructure are expensive.
 
@@ -2279,7 +2401,7 @@ Compliance mechanisms also differ. Basel's ICC and Stockholm's committee review 
 
 **Question:** "Multilateral environmental law works best when it differentiates without diluting accountability." Discuss with reference to the four regimes.
 
-**Model (231 words):** Differentiation recognises unequal capacity, responsibility and development conditions; accountability ensures that flexibility does not become indefinite delay. Montreal combines both most explicitly. Article 5 Parties receive later control schedules, but must report data and meet staged baselines, while the Multilateral Fund supports agreed incremental costs. Kigali similarly gives India a 2024-26 baseline, a 2028 freeze and later reduction steps.
+**Model (208 words):** Differentiation recognises unequal capacity, responsibility and development conditions; accountability ensures that flexibility does not become indefinite delay. Montreal combines both most explicitly. Article 5 Parties receive later control schedules, but must report data and meet staged baselines, while the Multilateral Fund supports agreed incremental costs. Kigali similarly gives India a 2024-26 baseline, a 2028 freeze and later reduction steps.
 
 CBD differentiation is more nationally mediated. Parties prepare strategies, targets and reports within a shared framework, while finance and technology support implementation. This is appropriate for diverse ecosystems, but the absence of a parent-treaty compliance committee and non-uniform targets can weaken comparability. Basel allows sovereign import decisions through PIC, yet insists on ESM and criminalisation of illegal traffic; the Ban Amendment further differentiates Annex VII-to-non-Annex VII flows. Stockholm permits chemical-specific exemptions and acceptable purposes while requiring NIPs, reporting and eventual elimination or restriction.
 
@@ -2415,7 +2537,7 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - India: NBSAP 2024-2030; 23 NBTs; NR-7 with 142 indicators.
 - Named NR-7 examples: 98 Ramsar sites, 58 Tiger Reserves, 33 Elephant Reserves, 3,682 tigers, 4,014 greater one-horned rhinoceroses, 22,446 wild elephants, 891 Asiatic lions, 718 snow leopards, 6,327 riverine dolphins, 22 agrobiodiversity hotspots and 25.17% forest/tree cover.
 - Biological Diversity Act 2002, amended 2023; Rules 2024; ABS Regulations 2025 including DSI.
-- COP17 was scheduled for 19-30 October 2026 at the 3 October cut-off.
+- COP17 was scheduled for 19-30 October 2026 at the 5 October cut-off.
 
 ## Basel Convention
 
@@ -2425,8 +2547,8 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - Illegal traffic includes no consent, fraud, document mismatch and deliberate illegal disposal.
 - COP; OEWG; ICC; Secretariat; regional centres.
 - No Montreal-style dedicated incremental-cost fund.
-- Ban Amendment in force 5 December 2019: covered Annex VII-to-non-Annex VII hazardous-waste exports prohibited for Parties bound.
-- India: HOWM Rules, 2016 and institutional border/environment controls.
+- Ban Amendment in force 5 December 2019 for accepting Parties: Convention hazardous wastes for final disposal and Article 1(1)(a) hazardous wastes for recovery, Annex VII → non-Annex VII.
+- India: HOWM Rules, 2016; bound by plastic/e-waste amendments, not the Ban Amendment.
 
 ## Basel amendments and boundaries
 
@@ -2434,9 +2556,10 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - A3210 hazardous; Y48 special-consideration; B3011 narrow clean sorted recycling.
 - E-waste amendments effective 1 January 2025.
 - A1181 hazardous e-waste; Y49 other e-waste; covered movements enter PIC.
-- Rotterdam = listed hazardous chemicals/pesticides in trade.
+- Rotterdam = Annex III chemicals/pesticides; CRC recommends, COP lists, Parties issue import responses.
+- Rotterdam import response ≠ global ban and ≠ Basel shipment consent.
 - BRS = Basel, Rotterdam, Stockholm.
-- Minamata = mercury lifecycle; India ratified in 2018; mercury waste can overlap Basel.
+- Minamata adopted 10 October 2013; in force 16 August 2017; India ratified in 2018; mercury waste can overlap Basel.
 - Gold amalgamation and coal combustion are mercury-release pathways; WHO warns that even small amounts may cause serious harm, while chemical form and exposure route remain relevant.
 - Domestic EPR and international PIC are different tools.
 
@@ -2450,7 +2573,9 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - Specific exemptions differ from acceptable purposes.
 - Imports/exports are limited to permitted purposes or ESM disposal.
 - COP12 in 2025 adopted Annex A amendments for chlorpyrifos, MCCPs and long-chain PFCAs with decision-specific exemptions.
-- UN notification C.N.672.2025 dated 16 December 2025 produces a default entry date of 16 December 2026 for Parties not notifying non-acceptance; the amendments were not yet operative on 3 October 2026.
+- SC-12/14 added a UV-328 aircraft-use exemption; C.N.542.2025 dated 9 October 2025 set a default date of 9 October 2026.
+- C.N.672.2025 dated 16 December 2025 set a default date of 16 December 2026 for three new listings.
+- Neither default date had arrived by 5 October 2026.
 
 ## Stockholm implementation and India
 
@@ -2461,22 +2586,29 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - Global Monitoring Plan tracks human and environmental concentrations.
 - India's published public NIP is from 2011.
 - DDT use is restricted to disease-vector control, not agriculture.
-- Update work exists; no final public replacement NIP had displaced the 2011 plan by 3 October 2026.
+- India is an Article 25(4) opt-in Party; annex amendments require specific Indian acceptance.
+- Update work exists; no final public replacement NIP had displaced the 2011 plan by 5 October 2026.
 
 ## Vienna-Montreal regime
 
-- Vienna 1985 = science, observation and cooperation.
-- Montreal 1987 = binding control schedules.
+- Vienna: adopted 22 March 1985; in force 22 September 1988.
+- Montreal: adopted 16 September 1987; in force 1 January 1989.
+- London Amendment: adopted 29 June 1990; in force 10 August 1992; Annex B plus Article 10 finance.
+- Annex A: CFCs/halons; Annex B: other CFCs, carbon tetrachloride, methyl chloroform.
+- Annex C Groups I/II/III: HCFCs/HBFCs/bromochloromethane with separate schedules.
+- Annex E: methyl bromide; Annex F Groups I/II: listed HFCs/HFC-23.
 - Production and consumption use treaty calculations.
 - Article 4 = trade controls with non-Parties.
 - Article 5 = developing-country differentiation.
 - Article 10 = Multilateral Fund.
 - TEAP advises on technology/economics; Implementation Committee reviews non-compliance.
+- MOP37 and ExMOP6 concluded; MOP38 remained scheduled for 2-6 November 2026.
 - 2022 assessment recovery projections: near-global 2040, Arctic 2045, Antarctic 2066, conditional on continued policy.
 
 ## Kigali and India
 
-- Kigali adopted 2016; international entry into force 2019.
+- Kigali adopted 15 October 2016; international entry into force 1 January 2019.
+- Annex F Group I = listed HFCs; Group II = HFC-23 with additional by-product-emissions control.
 - HFCs are generally ozone-safe but climate-warming.
 - Uses include aerosol propellants, foam blowing agents, specialised fire-suppression agents and carriers in some aerosol lubricant products.
 - Phase-down, not universal phase-out.
@@ -2509,6 +2641,9 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - Annex A ≠ no possible exemption.
 - DDT ≠ unrestricted and ≠ universally eliminated.
 - Rotterdam PIC ≠ Basel PIC.
+- Annex C group ≠ common schedule.
+- India Stockholm annex status ≠ default entry rule.
+- London ODS architecture ≠ Kigali HFC architecture.
 - Minamata ≠ BRS member.
 - GEF ≠ Multilateral Fund.
 - Scheduled COP ≠ completed COP.
@@ -2527,22 +2662,23 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 | Cartagena Protocol | Core | Lesson 3 | AIA, BCH, precaution, compliance, liability boundary |
 | Nagoya Protocol | Core | Lesson 3 | PIC, MAT, benefits, ABSCH, compliance, DSI |
 | KMGBF and COP16 | Core | Lesson 4 | Four goals, grouped targets, Target 19's USD 30 billion international-finance component, monitoring and DSI |
-| KMGBF current status | Core | Lessons 4 and 12 | Status to 3 October 2026 |
+| KMGBF current status | Core | Lessons 4 and 12 | Status to 5 October 2026 |
 | India CBD interface | Core | Lessons 2-4 | Biodiversity variation; Act, Rules, ABS, BMC collection fees, NBSAP/NR-7 and named India examples |
 | Basel scope and PIC | Core | Lesson 5 | Classification, consent, ESM and illegal traffic |
-| Basel Ban Amendment | Core | Lesson 5 | Scope, date and Party qualification |
+| Basel Ban Amendment | Core | Lesson 5 | Exact final-disposal/recovery limbs, date, Annex VII scope and India non-acceptance |
 | Plastic amendments | Core | Lesson 6 | A3210, Y48, B3011 |
 | E-waste amendments | Core | Lesson 6 | A1181, Y49 and 2025 effect |
-| Rotterdam boundary | Core | Lesson 6 | Product trade versus waste |
+| Rotterdam boundary | Core | Lesson 6 | Annex III, CRC→COP, import responses, 2025 listings and Basel/Stockholm contrast |
 | Minamata boundary | Core | Lesson 6 | Mercury lifecycle, gold-mining and coal sources, exposure-risk language and Basel interface |
-| Stockholm POP listing | Core | Lesson 7 | POPRC stages, COP adoption, C.N.672.2025 and default 16 December 2026 entry date |
+| Stockholm POP listing | Core | Lesson 7 | POPRC stages, SC-12/14/C.N.542.2025 and C.N.672.2025 Party-specific entry rules |
 | Stockholm Annexes/exemptions | Core | Lesson 7 | A/B/C, specific exemptions, acceptable purposes |
 | Stockholm trade/waste | Core | Lesson 7 | Purpose-limited trade and Basel waste interface |
 | Stockholm effectiveness | Core | Lesson 8 | Article 16, GMP and qualified findings |
-| India Stockholm NIP | Core | Lesson 8 | 2011 plan and truthful update status |
-| Vienna/Montreal schedules | Core | Lesson 9 | Framework/protocol, baselines, controls and trade |
-| Multilateral Fund | Core | Lesson 9 | Article 5/10 support architecture |
-| Kigali and India schedule | Core | Lesson 10 | HFC application roles, exact baseline, freeze and reduction steps |
+| India Stockholm NIP/status | Core | Lesson 8 | 2011 plan, truthful update status and Article 25(4) opt-in |
+| Vienna/Montreal schedules | Core | Lesson 9 | Exact dates, London, Annex A/B/C/E/F architecture, separate schedules and trade |
+| Multilateral Fund | Core | Lesson 9 | London-Amendment Article 10 and Article 5 support architecture |
+| Montreal current implementation | Core | Lesson 9 | MOP37, ExMOP6 and scheduled MOP38 status |
+| Kigali and India schedule | Core | Lesson 10 | Annex F groups, HFC-23, exact baseline, freeze and reduction steps |
 | Comparative principles | Advanced | Lesson 12 | Precaution, consent, ESM, differentiation, sovereignty |
 | Comparative effectiveness | Advanced | Lesson 11 | Problem structure, precision, finance, compliance, adaptability |
 | Regrettable substitution | Advanced | Lesson 11 | Stockholm/Kigali comparison with limits |
@@ -2561,14 +2697,14 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` and relevant basic cross-topic owners 04, 15 and 17 were audited |
+| Canonical Markdown | checked | Certified `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` from commit `a3e7ef499`; boundary owners 04, 07, 09, 15, 17, 19 and 21 were checked |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Layered/complete session | not relevant | No permitted prior topic-specific live session was needed; excluded learner-v2 material was not consulted |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` plus relevant Advanced owners 04, 15 and 17 |
-| OCR books | checked | Official 2018/2023 UPSC papers under `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\`; official 2026 GS-III paper `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\new_papers\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`; Economic Survey 2025-26 Chapter 10 file `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\attempts\_book_text\official_eco_survey_2025_26\echap10.pdf`, PDF p. 38 / printed p. 414, paragraph 10.93 |
-| PYQs through 2026 | checked | Official OCR papers plus `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` and `_PYQ-GS3-2026.md`; five directly owned questions reproduced neutrally |
-| Official live sources | checked | CBD, Basel/BRS, Stockholm, Ozone Secretariat, UNEP/WMO, NBA, MoEFCC/Parivesh, PIB and UN depositary sources checked to 3 October 2026 |
+| Advanced dossier | checked | Certified `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md` from commit `a3e7ef499`; relevant Advanced boundary owners 04, 07, 09, 15, 17, 19 and 21 were checked |
+| OCR books | checked | Official 2018 GS-III `books\more_previous_papers\GENERAL-STUDIES-PAPER-III.pdf`, p. 4; official 2023 Prelims `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, pp. 9, 25 and 33; official 2026 GS-III `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`, p. 3; Economic Survey 2025-26 Chapter 10 local file, PDF p. 38 / printed p. 414, paragraph 10.93 |
+| PYQs through 2026 | checked | Exact official-paper pages above plus `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` and `_PYQ-GS3-2026.md`; five questions reproduced neutrally with primary/support ownership and no objective key |
+| Official live sources | checked | Persistent CBD, Basel/BRS, Rotterdam, Stockholm, Minamata, Ozone Secretariat, UNEP/WMO, NBA, MoEFCC/Parivesh, PIB and UN depositary sources checked through 5 October 2026 |
 
 ## Primary legal and institutional sources
 
@@ -2577,24 +2713,44 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 - KMGBF official portal and decision 15/4: <https://www.cbd.int/gbf>
 - COP16 resumed-session outcome: <https://www.cbd.int/article/cop16-resumed-session-closing-2025>
 - CBD COP17 official meeting page: <https://www.cbd.int/meetings/COP-17>
-- Cartagena Protocol and BCH: <https://bch.cbd.int/protocol>
+- Cartagena Protocol text and BCH: <https://www.cbd.int/doc/legal/cartagena-protocol-en.pdf>, <https://www.cbd.int/biosafety/protocol.shtml> and <https://bch.cbd.int/>
 - Nagoya Protocol and ABS Clearing-House: <https://www.cbd.int/abs/> and <https://absch.cbd.int/>
 - Basel Convention overview: <https://www.basel.int/TheConvention/Overview/tabid/1271/Default.aspx>
-- Basel Ban Amendment: <https://www.basel.int/implementation/legalmatters/banamendment/overview/tabid/1484/default.aspx>
+- Basel Ban Amendment text/Q&A: <https://www.basel.int/Implementation/LegalMatters/BanAmendment/QuestionsandAnswers/tabid/3596/Default.aspx>
+- Basel Ban acceptance status: <https://www.basel.int/Countries/StatusofRatifications/BanAmendment/tabid/1344/Default.aspx>
 - Basel plastic-waste amendments: <https://www.basel.int/Implementation/Plasticwaste/Amendments/Overview/tabid/8426/Default.aspx>
+- Basel plastic-amendment Party status: <https://www.basel.int/Countries/StatusofRatifications/PlasticWasteamendments/tabid/8377/Default.aspx>
 - Basel e-waste amendments: <https://www.basel.int/Implementation/Ewaste/EwasteAmendments/Overview/tabid/9266/Default.aspx>
+- Basel e-waste-amendment Party status: <https://www.basel.int/Countries/StatusofRatifications/EwasteAmendments/tabid/10103/Default.aspx>
 - Basel Implementation and Compliance Committee: <https://www.basel.int/TheConvention/ImplementationComplianceCommittee/Overview/tabid/2868/Default.aspx>
+- Basel COP17 decision BC-17/1, Strategic Framework 2025-2031: <https://www.basel.int/Portals/4/download.aspx?d=UNEP-CHW-COP.17-BC-17-1.English.pdf>
+- Basel COP17 decision BC-17/11, plastic-waste follow-up: <https://www.basel.int/Portals/4/download.aspx?d=UNEP-CHW-COP.17-BC-17-11.English.pdf>
+- Rotterdam PIC procedure and import responses: <https://www.pic.int/Procedures/PICProcedure/tabid/1364> and <https://www.pic.int/en-us/procedures/importresponses.aspx>
+- Rotterdam Chemical Review Committee: <https://www.pic.int/TheConvention/ChemicalReviewCommittee/OverviewandMandate/tabid/1059/language/en-US/Default.aspx>
+- Rotterdam Annex III chemicals and COP12 communication: <https://www.pic.int/TheConvention/Chemicals/AnnexIIIChemicals/tabid/1132/language/en-US/Default.aspx> and <https://www.pic.int/Portals/5/download.aspx?d=UNEP-FAO-COMM-Ltr-DGD-IMPORT-20251022.English.pdf>
+- BRS Secretariat structure, including joint FAO/UNEP service for Rotterdam: <https://www.brsmeas.org/Secretariat/Overview/tabid/3609/language/en-US/Default.aspx>
 - Stockholm revised Convention text and annexes: <https://chm.pops.int/TheConvention/Overview/TextoftheConvention/tabid/2232/Default.aspx>
 - Stockholm POPRC: <https://www.pops.int/TheConvention/POPsReviewCommittee/tabid/2732/Default.aspx>
 - Stockholm compliance mechanism: <https://www.pops.int/TheConvention/ComplianceCommittee/Overview/tabid/61/Default.aspx>
 - Stockholm effectiveness evaluation: <https://chm.pops.int/Implementation/EffectivenessEvaluation/Outcomes/2023Outcomes/tabid/9559/Default.aspx>
+- Stockholm annex-amendment/Article 25(4) status table: <https://chm.pops.int/Countries/StatusofRatifications/Amendmentstoannexes/tabid/3486/Default.aspx>
+- UN depositary notification C.N.542.2025, SC-12/14 UV-328 exemption amendment, communicated 9 October 2025: <https://treaties.un.org/doc/Publication/CN/2025/CN.542.2025-Eng.pdf>
 - UN depositary notification C.N.672.2025, communicated 16 December 2025: <https://treaties.un.org/doc/Publication/CN/2025/CN.672.2025-Eng.pdf>
+- Minamata Convention official overview and treaty text: <https://minamataconvention.org/sites/default/files/documents/2021-07/Overview%20of%20the%20Minamata%20Convention%20on%20Mercury%20EN.pdf> and <https://minamataconvention.org/en/documents/minamata-convention-mercury-text-and-annexes>
 - Montreal Protocol text and institutions: <https://ozone.unep.org/treaties/montreal-protocol>
+- London Amendment, adopted 29 June 1990 and in force 10 August 1992: <https://ozone.unep.org/treaties/montreal-protocol/amendments/london-amendment-1990-amendment-montreal-protocol-agreed>
 - Montreal Article 4 trade control: <https://ozone.unep.org/treaties/montreal-protocol/articles/article-4-control-trade-non-parties>
 - Montreal Article 5 differentiation: <https://ozone.unep.org/treaties/montreal-protocol/articles/article-5-special-situation-developing-countries>
+- Montreal Article 10 financial mechanism: <https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism>
+- Annex C Group II HBFCs and Article 2G: <https://ozone.unep.org/treaties/annex-c-group-ii-hbfcs> and <https://ozone.unep.org/treaties/montreal-protocol/articles/article-2g-hydrobromofluorocarbons>
+- Annex C Group III bromochloromethane and Article 2I: <https://ozone.unep.org/treaties/montreal-protocol/annex-c-group-iii-bromochloromethane> and <https://ozone.unep.org/treaties/montreal-protocol/articles/article-2i-bromochloromethane>
+- Annex F Group I HFCs/Group II HFC-23 and Article 2J: <https://ozone.unep.org/treaties/montreal-protocol/articles/annex-f-controlled-substances> and <https://ozone.unep.org/treaties/montreal-protocol/articles/article-2j-hydrofluorocarbons>
 - Multilateral Fund: <https://www.multilateralfund.org/>
 - Ozone Scientific Assessment: <https://ozone.unep.org/science/assessment/sap>
 - Kigali Annex F: <https://ozone.unep.org/treaties/montreal-protocol/annex-f-hydrofluorocarbons>
+- MOP37 decisions and Party-action letter: <https://ozone.unep.org/sites/default/files/2026-01/Letter%20to%20parties_MOP37%20decisions.pdf>
+- ExMOP6 final report, UNEP/OzL.Pro.ExMOP.6/3: <https://ozone.unep.org/system/files/documents/ExMOP-6-3E.pdf>
+- MOP38 official meeting page and invitation: <https://ozone.unep.org/meetings/thirty-eighth-meeting-parties> and <https://ozone.unep.org/sites/default/files/2026-08/MOP38-Inv_ltr-Eng.pdf>
 
 ## India official sources
 
@@ -2617,8 +2773,12 @@ Montreal -> Ozone Cell/ODS Rules -> HPMP + Kigali industry transition
 ## Verification qualifications
 
 - No objective PYQ answer key is supplied.
+- Exact official question wording is reproduced only for examination provenance and remains answer-neutral; no copyrighted teaching text was copied.
 - COP17 is described only as scheduled at the cut-off.
+- MOP38 is described only as scheduled at the cut-off; MOP37 and ExMOP6 are described as concluded.
 - India's Stockholm NIP update is not described as final because a public replacement was not verified.
-- Stockholm COP12 adoption is separated from operation: C.N.672.2025 was dated 16 December 2025, making 16 December 2026 the default entry date for Parties not notifying non-acceptance; Basel amendments are likewise qualified by their treaty entry rules.
+- Stockholm COP12 adoption is separated from operation: C.N.542.2025 produces a 9 October 2026 default date for SC-12/14; C.N.672.2025 produces a 16 December 2026 default date for the three new listings. India is an Article 25(4) opt-in Party and requires specific acceptance.
+- Basel Ban, plastic and e-waste amendment status is Party-specific; India is bound by plastic/e-waste amendments but had not accepted the Ban at the cut-off.
 - Ozone recovery years are conditional projections from the 2022 assessment.
+- ODS phase-out schedules, the three distinct Annex C group controls and Annex F HFC phase-down are not merged.
 - Numerical India biodiversity outcomes are not used as timeless proof of target achievement.
