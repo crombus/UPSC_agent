@@ -11,8 +11,8 @@
 
 | Lesson | Learning dependency | Stage |
 |---:|---|---|
-| 1 | Carbon-accounting grammar: avoidance, reduction, removal; allowance and credit | Foundation |
-| 2 | Carbon tax, cap-and-trade and baseline-and-credit | Foundation |
+| 1 | Carbon-accounting grammar; allowance/credit; Common Carbon Metric boundary | Foundation |
+| 2 | Carbon tax, cap-and-trade, baseline-and-credit and complementary industrial policy | Foundation |
 | 3 | Compliance and voluntary markets; project cycle and MRV | Core |
 | 4 | Additionality, baselines, leakage, permanence and double counting | Core |
 | 5 | Integrity, justice and distributional design | Core |
@@ -21,8 +21,8 @@
 | 8 | India's legal and institutional carbon-market architecture | Core |
 | 9 | India's compliance, offset and related-scheme boundaries | Core |
 | 10 | CCUS chain: capture, conditioning, transport, use and storage | Core |
-| 11 | Geological storage, MRV, liability, energy penalty and economics | Advanced |
-| 12 | Carbon dioxide removal, DAC, BECCS and nature-based methods | Advanced |
+| 11 | Geological storage, MRV, liability, energy penalty and economics | Core |
+| 12 | Carbon dioxide removal, DAC, DACCS, BECCS and wider CDR taxonomy | Core |
 | 13 | Removal limits, lifecycle integrity and mitigation-deterrence risk | Advanced |
 | 14 | Indian sectoral applications and integrated policy evaluation | Advanced |
 
@@ -53,7 +53,7 @@ to vulnerable people?**
 Progress: 1 / 14 | Stage: Foundation | Subtopic: Avoidance, reduction, removal, allowances and credits
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Core climate-accounting foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "official carbon accounting avoided emissions reductions removals allowance credit"
 CA found: No distinct current-affairs linkage; this is the timeless conceptual foundation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -153,7 +153,26 @@ often convert them into **tonnes of carbon-dioxide equivalent (tCO2e)** using sp
 warming potential values. This aids comparison and trading; it does not make methane, nitrous
 oxide and carbon dioxide physically identical.
 
-### 6. Comparison with an ordinary commodity
+### 6. Common Carbon Metric: a building-operations accounting protocol
+
+The **Common Carbon Metric**, developed through the United Nations Environment Programme's
+Sustainable Buildings and Climate Initiative (UNEP-SBCI), is a protocol for consistently
+measuring energy use and reporting greenhouse-gas emissions from **existing building
+operations**. Its operational boundary covers energy used to run buildings, including purchased
+electricity and relevant on-site energy; it supports comparable data, baselines and policy.
+
+| Test | Exam-safe answer |
+|---|---|
+| Institution | UNEP-SBCI, with technical collaboration reflected in the protocol |
+| Primary boundary | Energy use and GHG emissions from building operations |
+| Why it matters here | Shows that comparable MRV and a defined activity boundary must precede policy incentives or carbon claims |
+| What it is not | Not a carbon-credit unit, trading platform, whole-country footprint, world fossil-fuel total or complete embodied-carbon assessment |
+
+**Routing boundary:** Topic 21 owns the carbon-accounting/MRV distinction tested by the 2021
+question. Detailed building codes, embodied materials and urban-habitat policy belong to their
+respective building and urban-policy owners.
+
+### 7. Comparison with an ordinary commodity
 
 A tonne of steel is a tangible product. A carbon unit is a **rule-created environmental
 attribute**. Its quality therefore depends unusually heavily on:
@@ -172,6 +191,8 @@ the commodity before trading can allocate it.
 ### UPSC integration
 
 - **Prelims:** distinguish allowance, credit, avoided emission, reduction and removal.
+- **Named metric:** Common Carbon Metric concerns the operational carbon footprint of buildings;
+  it is an accounting protocol, not a carbon market.
 - **Mains:** begin an answer by separating physical mitigation from the instrument used to
   finance or account for it.
 - **Answer-use:** evaluate any carbon claim through the chain from atmospheric outcome to final
@@ -195,6 +216,9 @@ the commodity before trading can allocate it.
 10. Registry issuance and retirement do not substitute for sound physical quantification.
 11. A project's boundary and time horizon determine what enters the net-benefit calculation.
 12. The atmosphere, not transaction volume, is the ultimate integrity test.
+13. UNEP-SBCI's Common Carbon Metric measures and reports building-operations energy/GHG data.
+14. It is an MRV/accounting protocol, not a carbon credit, ETS or national carbon footprint.
+15. Topic 21 owns its accounting distinction; detailed building policy remains cross-owned.
 
 ### Concept check
 
@@ -248,7 +272,7 @@ reduction or removal. Climate integrity begins with accurate classification befo
 Progress: 2 / 14 | Stage: Foundation | Subtopic: Price certainty, quantity certainty and intensity targets
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Carbon-pricing foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "official carbon tax emissions trading baseline and credit comparison"
 CA found: No distinct current-affairs linkage; instrument design is taught as static policy
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -379,6 +403,34 @@ expect a durable incentive to invest.
 The choice is not tax **or** market in the abstract. A hybrid can combine an ETS with a price
 floor, sectoral standards, public investment and border measures.
 
+### 8. EU Net-Zero Industry Act: industrial policy, not a carbon market
+
+The **Net-Zero Industry Act (NZIA)** is **Regulation (EU) 2024/1735**. It strengthens the
+European Union's net-zero-technology manufacturing ecosystem through production, permitting,
+skills, procurement, strategic projects and CO2-storage infrastructure. Its official objectives
+include approaching or reaching manufacturing capacity equal to at least **40% of the EU's annual
+deployment needs for net-zero technologies by 2030**, and aiming for **15% of world production by
+2040**.
+
+Its relevance to this topic is indirect but examinable:
+
+```text
+EU carbon price / climate targets
+        +
+domestic manufacturing and storage infrastructure
+        =
+industrial capacity to deploy net-zero technologies
+```
+
+The NZIA complements carbon pricing and industrial decarbonisation; it is **not** an ETS,
+allowance or offset mechanism. It does not change the EU's binding climate-neutrality objective
+to 2040, and it does not require every clean technology used in Europe to be manufactured
+domestically.
+
+**Routing boundary:** Topic 21 owns only the carbon-market, CCUS-storage and industrial-
+decarbonisation connection tested by the 2024 question. Wider EU industrial, procurement and
+trade-law detail remains adjacent policy context.
+
 ### UPSC integration
 
 - **Prelims:** tax fixes price; a cap fixes allowance quantity; baseline-and-credit rewards
@@ -387,6 +439,8 @@ floor, sectoral standards, public investment and border measures.
   innovation rather than declaring one instrument universally superior.
 - **India link:** India's compliance architecture uses greenhouse-gas emission-intensity targets,
   so it is closer to baseline-and-credit than economy-wide absolute cap-and-trade.
+- **EU neighbour:** the NZIA is supply-side net-zero industrial policy, not a carbon-pricing
+  instrument; do not infer a 2040 EU neutrality target or complete technology autarky.
 
 > **Answer-grabbing line:** Carbon taxes provide greater price certainty, cap-and-trade provides
 > greater aggregate quantity control, and baseline-and-credit controls relative performance but
@@ -407,6 +461,8 @@ floor, sectoral standards, public investment and border measures.
 11. Price floors, reserves and escalators can strengthen investment confidence.
 12. Instrument choice must consider MRV capacity, growth, trade exposure and justice.
 13. Complementary regulation is needed where price response is weak or infrastructure is missing.
+14. Regulation (EU) 2024/1735 is industrial/manufacturing policy, not an ETS or offset scheme.
+15. Its benchmarks do not mean EU climate neutrality by 2040 or all technology made domestically.
 
 ### Concept check
 
@@ -470,7 +526,7 @@ over time.
 Progress: 3 / 14 | Stage: Core | Subtopic: Obligations, project cycle, MRV and claims
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Compliance and offset foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "official compliance voluntary carbon market MRV registry retirement"
 CA found: No separate current-affairs item; market architecture is taught before dated status
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -573,9 +629,14 @@ MRV must answer:
 | Which factors are used? | Measured carbon content or approved emission factor |
 | How is uncertainty handled? | Conservative deductions or uncertainty analysis |
 | Who verifies? | Accredited independent verifier with conflict controls |
+| How can a sector standardise reporting? | UNEP-SBCI Common Carbon Metric for building operations |
 
 Digital monitoring can improve frequency and traceability, but bad sensors, opaque algorithms or
 uncontrolled data access can digitise error rather than eliminate it.
+
+The Common Carbon Metric illustrates the distinction between **measurement infrastructure** and a
+**market instrument**: it can standardise building-operations data and support baselines, but it
+does not itself issue a credit, create an allowance or authorise a climate claim.
 
 ### 5. Registry, issuance, transfer and retirement
 
@@ -620,6 +681,8 @@ cheap offsets while expanding high-carbon assets, the market may enable mitigati
 - **Mains:** explain the project cycle and why retirement is necessary but insufficient.
 - **Governance:** focus on accredited verification, transparent registries, conflict-of-interest
   control and claims discipline.
+- **Named MRV example:** use the Common Carbon Metric to show how a sector-specific accounting
+  boundary can support policy without itself becoming a tradable unit.
 
 > **Answer-grabbing line:** Compliance and voluntary markets differ in the source of demand, but
 > both require rigorous MRV, serialised registries and truthful claims because trading cannot
@@ -641,6 +704,7 @@ cheap offsets while expanding high-carbon assets, the market may enable mitigati
 12. Claims must identify purpose, scope, period, unit type and treatment of residual emissions.
 13. Credit use should follow, not replace, direct decarbonisation.
 14. Verifier competence and independence are core governance requirements.
+15. Common Carbon Metric is a building-operations MRV protocol, not a market certificate.
 
 ### Concept check
 
@@ -696,7 +760,7 @@ carbon unit from a promise into a contestable environmental claim.
 Progress: 4 / 14 | Stage: Core | Subtopic: Baselines, leakage, permanence and double counting
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Market-integrity foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "UNFCCC Article 6 environmental integrity corresponding adjustment additionality"
 CA found: No distinct news linkage; official accounting concepts are treated as institutional rules
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -951,7 +1015,7 @@ causal, quantified, durable and exclusive atmospheric benefit can survive scruti
 Progress: 5 / 14 | Stage: Core | Subtopic: Distribution, participation, land, labour and transition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Climate-justice foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "carbon market safeguards local communities benefit sharing just transition official"
 CA found: No distinct current-affairs linkage; justice principles are integrated as design criteria
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1175,7 +1239,7 @@ climate action not only fairer but also more durable against backlash and policy
 Progress: 6 / 14 | Stage: Core | Subtopic: Emissions trading, Joint Implementation and CDM
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: UNFCCC and Kyoto treaty foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md`; no permitted OCR book available
 CA search: "UNFCCC Kyoto Protocol flexibility mechanisms CDM transition official"
 CA found: No distinct news linkage; the focus is treaty evolution and institutional legacy
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1298,7 +1362,7 @@ Paris Article 6.4 is not a simple renaming of the CDM. Important changes include
 - the mechanism includes both reductions and removals under agreed rules;
 - eligible CDM activities and units face transition conditions and deadlines.
 
-As of 3 October 2026, the CDM-to-Article-6.4 transition is an active institutional process. It is
+As of 5 October 2026, the CDM-to-Article-6.4 transition is an active institutional process. It is
 safer to describe eligible transitions and registry arrangements than to assume every old CER
 automatically becomes a Paris unit.
 
@@ -1363,7 +1427,7 @@ different treaty architecture.
 **Question (10 marks, 150 words):** Assess the legacy of the Clean Development Mechanism for the
 Paris carbon-market architecture.
 
-#### Model response (143 words)
+#### Model response (142 words)
 
 The Clean Development Mechanism allowed projects in developing-country hosts to generate
 Certified Emission Reductions for developed-country compliance. Its positive legacy is
@@ -1396,12 +1460,12 @@ an automatically transferable credit stock.
 
 ## Lesson 7 — Paris Agreement Article 6: cooperation with accounting
 
-Progress: 7 / 14 | Stage: Core | Subtopic: Article 6.2, 6.4 and 6.8 with status as of 3 October 2026
+Progress: 7 / 14 | Stage: Core | Subtopic: Article 6.2, 6.4 and 6.8 with status as of 5 October 2026
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Paris Agreement Article 6 foundation available
-CA search: "UNFCCC Article 6.2 6.4 6.8 operational status 3 October 2026"
-CA found: No separate news item; the lesson records the official institutional status
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\19_UNFCCC-COP-Kyoto-Paris-Agreement.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\19_UNFCCC-COP-Kyoto-Paris-Agreement.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
+CA search: "UNFCCC Article 6.2 6.4 6.8 operational status 5 October 2026"
+CA found: UNFCCC status checked 5 October 2026 — first A6.4ER issuance approved 26 February 2026; Interim Mechanism Registry v2.0 remained in use while the final registry was under development
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one Article, three cooperation routes
@@ -1499,22 +1563,27 @@ Host mitigation occurs
 Authorisation is a sovereign policy decision. A host can reserve sectors or technologies for its
 own NDC, attach conditions, limit quantities or decline authorisation.
 
-### 6. Current institutional status — 3 October 2026
+### 6. Current institutional status — 5 October 2026
 
 The safe status description is:
 
 1. The Article 6 rulebook and accounting guidance are adopted and being implemented.
-2. Article 6.2 reporting operates through UNFCCC infrastructure including the Centralized
-   Accounting and Reporting Platform, with technical review and registry arrangements continuing
-   to mature.
-3. The Article 6.4 Supervisory Body has adopted core standards and procedures. PACM activity
-   registration, methodology work, verifier accreditation and CDM transition are operational
-   processes.
-4. An interim mechanism registry supports functions while the full registry architecture is
-   completed and migrated.
-5. Eligible CDM transitions and eligible CER transfers are governed by specific deadlines and
-   conditions; no blanket conversion should be assumed.
-6. Article 6.8 continues through its work programme and Glasgow Committee rather than through a
+2. Article 6.2 reports and authorisation material are published through the Centralized Accounting
+   and Reporting Platform. International Registry and Additional Registry Services continued to
+   use interim/offline arrangements while the full digital system was developed.
+3. The first issuance of Article 6.4 emission reductions was approved on **26 February 2026** for
+   a Myanmar clean-cooking programme transitioned from the CDM: **648,783 tCO2e** were verified
+   for 2021-2022. This is evidence of actual issuance, not evidence of a deep liquid market.
+4. The Article 6.4 Supervisory Body's core activity-cycle, methodology, accreditation and
+   transition procedures are in effect. By 30 June 2026, host Parties had approved 418 CDM
+   transition requests under the applicable process.
+5. The **Interim Mechanism Registry**, documented in version 2.0 of its September 2026 user guide,
+   remained the operating registry layer. The guide states that the final registry was still under
+   development and that interim data would be automatically migrated when it became available.
+   No cited official source verified that the final Article 6.4 registry was live by 5 October.
+6. Eligible CDM transitions and CER treatment remain governed by specific conditions and
+   deadlines; no blanket conversion should be assumed.
+7. Article 6.8 continues through its work programme and Glasgow Committee rather than through a
    tradeable-credit registry.
 
 This status does **not** justify describing Article 6 as a mature, deep and fully liquid global
@@ -1567,7 +1636,8 @@ certificate is not automatically an ITMO.
 12. UNFCCC reporting and technical review are part of integrity architecture.
 13. Interim registry operation and full-registry completion are distinct stages.
 14. CDM transition is conditional, not automatic.
-15. As of 3 October 2026, implementation is real but uneven and should not be called a fully mature global market.
+15. As of 5 October 2026, implementation included a first A6.4ER issuance and interim registry
+    operation, but remained uneven and should not be called a fully mature global market.
 
 ### Concept check
 
@@ -1588,7 +1658,7 @@ international double-counting controls.
 **Question (15 marks, 250 words):** Explain the architecture of Paris Agreement Article 6 and
 evaluate its principal integrity challenge.
 
-#### Model response (214 words)
+#### Model response (211 words)
 
 Article 6 enables voluntary international cooperation toward Paris goals through three routes.
 Article 6.2 provides accounting guidance for Party-designed cooperative approaches using
@@ -1632,7 +1702,7 @@ judged by atmospheric outcomes, not market volume.
 Progress: 8 / 14 | Stage: Core | Subtopic: Energy Conservation Act, CCTS governance and current legal stage
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India climate-policy and CCTS foundation available
+Book context: queried — certified `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md`; no permitted OCR book available
 CA search: "PIB 22 January 2026 India CCTS 490 obligated entities"
 CA found: PIB, 22 January 2026 — compliance coverage expanded to 490 obligated entities
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1723,7 +1793,7 @@ actual GEI above target
 Certificate quantity depends on the notified formula, verified production and emissions. It is
 not an economy-wide absolute cap.
 
-### 6. Exactly one current-affairs linkage
+### 6. Current official status anchors
 
 **PIB update, 22 January 2026:** the Government reported that compliance coverage had reached
 **490 obligated entities** after targets were extended beyond the earlier aluminium, cement,
@@ -1736,7 +1806,12 @@ intensity obligations across a wider industrial base. The update should not be o
 proof of a mature, liquid market, uniform certificate issuance or a discovered nationwide carbon
 price.
 
-### 7. Current stage as of 3 October 2026
+**CERC trading-rule update:** CERC notified the **Terms and Conditions for Purchase and Sale of
+Carbon Credit Certificates Regulations, 2026** on 27 February 2026; Gazette publication followed
+on 4 May 2026. These regulations establish the exchange-trading rule layer. They do not prove that
+CCCs had already been issued, actively traded or priced in a liquid market.
+
+### 7. Current stage as of 5 October 2026
 
 | Component | Status-safe description |
 |---|---|
@@ -1745,15 +1820,16 @@ price.
 | Compliance targets | Entity-specific GEI targets notified for 490 obligated entities in notified sector groups |
 | Proposed iron-and-steel expansion | **Draft only, not operative:** MoEFCC's G.S.R. 517(E), dated 26 June 2026, proposed a Third Schedule with plant-specific targets for 255 iron-and-steel entities |
 | Detailed compliance procedure | Published by BEE |
-| Verification ecosystem | Accreditation and operational arrangements being built and used under notified procedures |
+| Verification ecosystem | Accreditation procedures and operational framework published; verify actual validation/verification events before claiming completed use |
 | Registry/portal | Institutional and digital infrastructure established/being operationalised |
+| Exchange-trading regulation | CERC's 2026 purchase-and-sale regulations notified; legal rules do not prove completed trades |
 | Trading depth | Do not assume a mature liquid market or stable discovered price without exchange data |
 | Offset mechanism | Sectors, procedures and methodologies are being operationalised in phases |
 
 The iron-and-steel draft uses FY2023-24 production and GEI as the baseline, leaves the FY2025-26
 target column blank, and proposes targets for FY2026-27. It invited objections or suggestions
 within 60 days and states that the amendment would commence only upon publication in the Official
-Gazette. No final notification was verified by the 3 October 2026 cut-off. The 255 proposed
+Gazette. No final notification was verified by the 5 October 2026 cut-off. The 255 proposed
 entities therefore must not be added to the 490 entities already covered by the **notified** GEI
 Rules, and the draft cannot yet create certificate-earning or surrender obligations for steel
 plants.
@@ -1829,7 +1905,7 @@ cap-and-trade.
 **Question (15 marks, 250 words):** Explain the legal and institutional architecture of India's
 Carbon Credit Trading Scheme and assess its present stage.
 
-#### Model response (245 words)
+#### Model response (241 words)
 
 India's carbon market rests on the Energy Conservation Act, 2001 as amended in 2022. Section
 14(w) empowers the Central Government to specify a carbon credit trading scheme, while Section
@@ -1875,7 +1951,7 @@ outcomes rather than notification alone.
 Progress: 9 / 14 | Stage: Core | Subtopic: PAT, Green Credit, Article 6 and policy coherence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India climate-policy and renewable-energy cross-topic owners available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md`; no permitted OCR book available
 CA search: "India CCTS offset mechanism PAT Green Credit Article 6 distinction official"
 CA found: No additional current-affairs item; legal and accounting boundaries are the focus
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1918,9 +1994,21 @@ fuel emissions, purchased energy treatment and product output must therefore be 
 ### 2. Offset mechanism
 
 The offset mechanism allows eligible non-obligated entities to register mitigation activities
-under approved sectors and methodologies. The design can mobilise action in energy, industry,
-agriculture, waste, forestry, transport, construction, fugitive emissions and CCUS-related
-categories as formally approved.
+under approved sectors and methodologies. The official ten-sector list is:
+
+1. energy;
+2. industries;
+3. agriculture;
+4. waste handling and disposal;
+5. forestry;
+6. transport;
+7. fugitive emissions;
+8. construction;
+9. solvent use; and
+10. carbon capture, utilisation and storage (CCUS).
+
+This is an eligibility architecture, not proof that every proposed activity has an approved
+methodology, has registered or has generated a CCC.
 
 Its project cycle requires:
 
@@ -2101,7 +2189,7 @@ outcome only through national authorisation and required accounting.
 Progress: 10 / 14 | Stage: Core | Subtopic: Capture, conditioning, transport, utilisation and geological storage
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: CCUS technical foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` at certified commit `c631d2b4a`; no permitted OCR book available
 CA search: "IEA IPCC CCUS capture transport utilisation storage chain official"
 CA found: No additional current-affairs item; the lesson teaches the technical chain
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2329,18 +2417,12 @@ lifecycle MRV and durable storage, not as a general licence for fossil lock-in.
 | Energy, cost and infrastructure limitations | 2 |
 | Storage/lifecycle qualification and verdict | 2 |
 
-# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
-
-The foundation is now complete. The next four lessons deepen the storage, removal, integrity and
-Indian policy questions. They refine a strong answer; they should not displace the core
-definitions and mechanisms already taught.
-
 ## Lesson 11 — Geological storage: MRV, liability, energy penalty and economics
 
-Progress: 11 / 14 | Stage: Advanced | Subtopic: Reservoir performance, long-term responsibility and business models
+Progress: 11 / 14 | Stage: Core | Subtopic: Reservoir performance, long-term responsibility and business models
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Geological-storage technical foundation available
+Book context: queried — certified `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "IPCC geological CO2 storage MRV liability leakage energy penalty official"
 CA found: No additional current-affairs item; advanced engineering and governance are the focus
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2586,10 +2668,10 @@ it into a credible climate service.
 
 ## Lesson 12 — Carbon dioxide removal and Direct Air Capture
 
-Progress: 12 / 14 | Stage: Advanced | Subtopic: DAC processes, DACCS, BECCS and nature-based removal
+Progress: 12 / 14 | Stage: Core | Subtopic: DAC separation, DACCS, BECCS and the wider CDR taxonomy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Carbon-removal and DAC technical foundation available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` at certified commit `c631d2b4a`; no permitted OCR book available
 CA search: "IPCC carbon dioxide removal DACCS BECCS nature based methods official"
 CA found: No additional current-affairs item; scientific distinctions are taught without a news anchor
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2601,7 +2683,8 @@ ATMOSPHERIC CO2
       |
       +--> photosynthesis --> forests / soils / biomass
       |                         |
-      |                         +--> ecosystem storage
+      |                         +--> ecosystem / soil storage
+      |                         +--> biochar / durable biological products
       |                         `--> BECCS: bioenergy + capture + geological storage
       |
       +--> chemical separation --> DIRECT AIR CAPTURE
@@ -2640,7 +2723,12 @@ rapid gross-emissions reduction first
 Using speculative future removal to justify avoidable present emissions increases scale, cost and
 delivery risk.
 
-### 3. Direct Air Capture process
+### 3. Direct Air Capture is the separation step
+
+DAC names the process of separating CO2 from ambient air. It does not, by itself, prove carbon
+dioxide removal: the captured stream may be stored, mineralised, used in a long-lived product,
+recycled through fuel or released from a short-lived use. The destination, energy source and full
+lifecycle determine the claim.
 
 Ambient air passes through a contactor containing a chemical sorbent or solvent that selectively
 binds CO2. Energy regenerates the material and releases a concentrated stream.
@@ -2703,7 +2791,7 @@ stores it. It can be net-negative only after accounting for:
 Bioenergy from residues can differ greatly from dedicated crops that displace food, forests or
 communities.
 
-### 7. Nature-based removal
+### 7. Biological, terrestrial and product-storage removal
 
 Afforestation, reforestation, ecosystem restoration, agroforestry and soil-carbon management can
 remove carbon while supporting biodiversity, water and livelihoods. Their advantages include
@@ -2715,6 +2803,11 @@ near-term availability and co-benefits. Limitations include:
 - measurement uncertainty;
 - dependence on continuing management;
 - non-equivalence with permanent fossil-carbon storage.
+
+Soil-carbon practices require repeated measurement and continued management; gains can saturate
+or reverse. Biochar can store a fraction of biomass carbon in a more persistent product or soil
+pool, but its net value depends on feedstock counterfactuals, production energy, stability and end
+use. A label such as "nature-based" or "biochar" does not replace method-specific lifecycle MRV.
 
 Protecting existing high-carbon ecosystems avoids emissions and preserves sinks; it should not
 always be described as a new removal.
@@ -2731,6 +2824,7 @@ monitoring and governance. Their scientific promise does not remove the need for
 | Method | Storage | Main strength | Main limit |
 |---|---|---|---|
 | Forest/soil | Biological/terrestrial | Co-benefits and current availability | Reversal, land and measurement |
+| Biochar/product storage | Product/soil pool | Potentially longer-lived biogenic storage | Feedstock, process energy, stability and MRV |
 | BECCS | Geological after biomass route | Energy plus potential removal | Biomass sustainability and land |
 | DACCS | Geological | Measurable atmospheric source; limited land coupling | High energy and cost |
 | Enhanced weathering | Mineral/ocean bicarbonate pathways | Potential durability | Material scale and MRV |
@@ -2760,9 +2854,9 @@ No method is unlimited or impact-free. Portfolios reduce dependence on one uncer
 9. Clean energy determines net DAC removal.
 10. BECCS needs sustainable biomass and geological storage.
 11. Land-use change can erase BECCS benefits.
-12. Forest and soil methods offer co-benefits but face reversal and saturation.
+12. Forest, soil and biochar methods need reversal, saturation, feedstock, stability and MRV controls.
 13. Protecting an existing sink may be avoided emission, not a new removal.
-14. Enhanced weathering and ocean methods need lifecycle and ecological MRV.
+14. Enhanced weathering and ocean methods need lifecycle, ecological and governance MRV.
 15. A diversified removal portfolio reduces technological and ecological dependence.
 
 ### Concept check
@@ -2783,7 +2877,7 @@ and storage time are decisive.
 **Question (15 marks, 250 words):** Distinguish carbon dioxide removal from emissions avoidance,
 and compare DACCS, BECCS and nature-based removal.
 
-#### Model response (205 words)
+#### Model response (213 words)
 
 Emissions avoidance prevents a new greenhouse-gas flow, whereas carbon dioxide removal withdraws
 CO2 already present in the atmosphere and stores it. Conventional point-source CCS is therefore
@@ -2800,9 +2894,10 @@ removal, but only if regrowth, land-use change, fertiliser, transport, capture a
 accounted for. Dedicated biomass at large scale may compete with food, water, biodiversity and
 community rights.
 
-Forests, soils and ecosystem restoration are available now and can provide biodiversity,
-livelihood and adaptation co-benefits. Yet biological carbon can saturate or reverse through
-fire, drought, harvest and management change, and measurement is difficult.
+Forests, soils, ecosystem restoration and carefully governed biochar can provide biodiversity,
+livelihood, adaptation or product-storage co-benefits. Yet biological carbon can saturate or
+reverse through fire, drought, harvest and management change; biochar depends on feedstock,
+production emissions and stability; and measurement remains method-specific.
 
 Accordingly, removals are not interchangeable tonnes. Policy should reduce gross emissions
 rapidly, reserve removals for residuals, match claims to storage duration, protect rights and use
@@ -2821,12 +2916,19 @@ justify avoidable emissions today.
 
 ---
 
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+The complete Basic/Core spine now includes point-source CCUS, geological-storage integrity,
+DAC versus DACCS, lifecycle net removal and the wider CDR taxonomy. The final two lessons add
+advanced removal-governance and India-specific policy-design depth; they refine but are not
+required to define or distinguish the core instruments.
+
 ## Lesson 13 — Removal integrity, limits and moral hazard
 
 Progress: 13 / 14 | Stage: Advanced | Subtopic: Durability, equivalence, scale, claims and mitigation deterrence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Removal-governance foundation available
+Book context: queried — certified `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`; no permitted OCR book available
 CA search: "carbon dioxide removal durability equivalence mitigation deterrence governance"
 CA found: No additional current-affairs item; the lesson develops evaluative principles
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -3044,7 +3146,7 @@ feasibility.
 Progress: 14 / 14 | Stage: Advanced | Subtopic: Cement, steel, fertiliser, refineries, clusters and evaluation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: India LT-LEDS, renewable-energy and carbon-market owners available
+Book context: queried — `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\20_India-Climate-Policy-NAPCC-Panchamrit-LTLEDS.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md`; no permitted OCR book available
 CA search: "India CCUS industrial clusters cement steel fertiliser DAC policy official"
 CA found: No additional current-affairs item; sectoral applications are evaluated from official policy architecture
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -3245,7 +3347,7 @@ lock-in. Gross capture alone can overstate benefit and crowd out cheaper direct 
 **Question (20 marks, 250 words):** Design an integrated policy framework for carbon markets,
 CCUS and carbon dioxide removal in India's net-zero transition.
 
-#### Model response (231 words)
+#### Model response (230 words)
 
 India needs a mitigation hierarchy rather than interchangeable climate instruments. First,
 efficiency, material circularity, renewable electricity, electrification, public transport and
@@ -3293,16 +3395,17 @@ should determine success.
 
 No answer, key, truth marking, elimination cue or corrective mapping is provided in this block.
 The objective questions are reproduced for practice; answer approaches begin only after all
-questions have been displayed.
+questions have been displayed. UPSC attribution and exact local official-paper provenance are
+recorded in the final source ledger; no third-party explanation or answer text is reproduced here.
 
-### UPSC Civil Services Preliminary Examination, 2021 — General Studies Paper I
+### UPSC Civil Services Preliminary Examination, 2021 — General Studies Paper I, Question 29
 
-**The ‘Common Carbon Metric’, supported by UNEP, has been developed for**
+**The 'Common Carbon Metric', supported by UNEP, has been developed for**
 
 (a) assessing the carbon footprint of building operations around the world
 (b) enabling commercial farming entities around the world to enter carbon emission trading
 (c) enabling governments to assess the overall carbon footprint caused by their countries
-(d) assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time
+(d) assessing the overall carbon foot-print caused by the use of fossil fuels by the world in a unit time
 
 ### UPSC Civil Services Preliminary Examination, 2023 — General Studies Paper I, Question 23
 
@@ -3375,15 +3478,15 @@ inter-country non-market strategies to reach their climate targets.
 
 ### UPSC Civil Services Preliminary Examination, 2025 — General Studies Paper I, Question 36
 
-**With reference to ‘Direct Air Capture’, an emerging technology, which of the following
+**With reference to 'Direct Air Capture', an emerging technology, which of the following
 statements is/are correct?**
 
-1. It can be used as a way of carbon sequestration.
-2. It can be a valuable approach for plastic production and in food processing.
-3. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic
+I. It can be used as a way of carbon sequestration.
+II. It can be a valuable approach for plastic production and in food processing.
+III. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic
    low-carbon fuel.
 
-**Select the correct answer using the code given below:**
+**Select the correct answer using the code given below.**
 
 (a) I and II only
 (b) III only
@@ -3392,7 +3495,7 @@ statements is/are correct?**
 
 ### UPSC Civil Services (Main) Examination, 2025 — General Studies Paper III, Question 7
 
-**What is Carbon Capture, Utilization and Storage (CCUS)? What is its potential role in tackling
+**What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling
 climate change?**
 **10 marks · Answer in 150 words**
 
@@ -3561,7 +3664,7 @@ MRV, exclusive claims and liability for reversal.
 **Question (15 marks, 250 words):** Critically evaluate India's intensity-based Carbon Credit
 Trading Scheme as an instrument of industrial decarbonisation.
 
-### Model response (250 words)
+### Model response (247 words)
 
 India's CCTS creates a statutory price incentive under the Energy Conservation Act. Obligated
 entities receive greenhouse-gas emission-intensity targets; outperformance can earn Carbon Credit
@@ -3607,7 +3710,7 @@ process emissions and eventual absolute-emissions discipline.
 deep decarbonisation, but neither can substitute for it. Discuss with reference to Article 6,
 CCUS and Direct Air Capture.
 
-### Model response (242 words)
+### Model response (239 words)
 
 Carbon markets and removal technologies perform different functions. Markets attach value to
 verified mitigation and can lower compliance cost by directing action toward cheaper
@@ -3791,6 +3894,8 @@ NET-ZERO CLAIM
 - **Allowance:** regulatory permission to emit a stated quantity.
 - **Credit:** quantified reduction/removal against a baseline or performance rule.
 - **Gross capture ≠ net benefit:** subtract energy, transport, leakage and later release.
+- **Common Carbon Metric:** UNEP-SBCI protocol for energy/GHG reporting from building operations;
+  it is neither a credit nor a trading scheme.
 - **Exam line:** identify source, boundary, destination and storage duration before naming the
   outcome.
 
@@ -3806,6 +3911,10 @@ NET-ZERO CLAIM
 - Free allocation may address leakage but risks windfalls.
 - Auction/tax revenue can support households, infrastructure and just transition.
 - Price signal needs standards, innovation, grids and finance.
+- **EU NZIA:** Regulation (EU) 2024/1735 strengthens net-zero-technology manufacturing and CO2
+  storage infrastructure; it complements, but is not, the EU ETS.
+- **Trap:** its 2030 manufacturing and 2040 world-production benchmarks are not a 2040
+  climate-neutrality target or a requirement to make all clean technology domestically.
 
 ## 3. Compliance and voluntary markets
 
@@ -3863,9 +3972,10 @@ real + additional + conservative baseline - leakage
 
 - Authorisation and corresponding adjustments are central for internationally used outcomes.
 - Article 6.4 includes adaptation share and overall-mitigation cancellation.
-- As of 3 October 2026: rulebook adopted; 6.2 reporting/review and registries developing;
-  PACM standards, accreditation, activity processes and CDM transition operating; interim
-  registry arrangements remain relevant; do not claim a fully mature global market.
+- As of 5 October 2026: the rulebook was adopted; Article 6.2 reporting and interim registry
+  services were operating; the first A6.4ER issuance had been approved on 26 February 2026;
+  the September 2026 Interim Mechanism Registry guide still described the final registry as
+  under development with automatic data migration planned. Do not claim a mature global market.
 
 ## 8. India CCTS legal spine
 
@@ -3878,8 +3988,11 @@ real + additional + conservative baseline - leakage
 - BEE: administrator.
 - Grid Controller of India: registry.
 - CERC: trading regulator.
+- CERC purchase-and-sale regulations notified 27 February 2026 and gazetted 4 May 2026;
+  trading rules do not prove completed trades or price discovery.
 - Accredited Carbon Verification Agencies: validation/verification.
 - Compliance design: entity-level GEI baseline-and-credit.
+- Offset eligibility spans ten sectors, including solvent use and CCUS.
 - PIB, 22 January 2026: coverage reached 490 obligated entities.
 - G.S.R. 517(E), 26 June 2026: draft Third Schedule proposed FY2026-27 GEI targets for 255
   iron-and-steel entities using FY2023-24 baselines; it was not an operative addition to the
@@ -3926,12 +4039,13 @@ source -> capture -> purification/dehydration -> compression
 
 ## 12. CDR and DAC
 
-- CDR = atmosphere-to-reservoir transfer.
-- DAC separates CO2 from ambient air.
-- DACCS = DAC plus durable storage.
+- CDR = intentional atmospheric uptake plus durable storage and lifecycle net removal.
+- DAC separates CO2 from ambient air; separation alone is not a durable-removal claim.
+- DACCS = DAC plus transport and durable storage, with energy, leakage, MRV and liability deducted.
 - DAC-to-fuel = recycling/possible avoidance, not permanent removal.
 - BECCS needs sustainable biomass, full land-use accounting and storage.
-- Forest/soil removal gives co-benefits but can saturate and reverse.
+- Forest, restoration and soil removal give co-benefits but can saturate and reverse.
+- Biochar/product storage needs feedstock, process-energy, stability and time-horizon accounting.
 - Enhanced weathering/ocean approaches need mining, energy, ecological and MRV scrutiny.
 - Mitigation hierarchy: deep gross cuts → small residual → high-integrity removal.
 
@@ -4023,6 +4137,8 @@ mitigation hierarchy
 | Baseline-and-credit | Lesson 2 | Lesson 8; Cumulative 2 |
 | Compliance versus voluntary markets | Lesson 3 | Register 3 |
 | MRV and project cycle | Lesson 3 | Lesson 3 Mains |
+| Common Carbon Metric | Lessons 1 and 3 | 2021 Prelims Q29; UNEP-SBCI building-operations MRV protocol distinguished from a credit or market |
+| EU Net-Zero Industry Act | Lesson 2 | 2024 Prelims Q96; Regulation (EU) 2024/1735 taught only within carbon-market/industrial-decarbonisation boundary |
 | Additionality and baselines | Lesson 4 | Final 10-marker |
 | Leakage and permanence | Lesson 4 | Final 10-marker |
 | Double counting/corresponding adjustments | Lessons 4 and 7 | Article 6 map; Cumulative 4 |
@@ -4033,10 +4149,10 @@ mitigation hierarchy
 | Article 6.2 | Lesson 7 | PYQ 2025 Article 6; Register 7 |
 | Article 6.4/PACM | Lesson 7 | PYQ 2025 Article 6; Register 7 |
 | Article 6.8 non-market approaches | Lesson 7 | PYQ 2025 Article 6; Register 7 |
-| Article 6 status to 3 October 2026 | Lesson 7 | Register 7 |
+| Article 6 status to 5 October 2026 | Lesson 7 | First A6.4ER issuance and interim/final registry distinction; Register 7 |
 | India statutory basis | Lesson 8 | Final 15-marker; Register 8 |
 | India institutions | Lesson 8 | Lesson 8 Mains |
-| India compliance targets/current stage | Lesson 8 | Exactly one current linkage; notified 490-entity coverage separated from draft G.S.R. 517(E) proposal for 255 iron-and-steel entities; Register 8 |
+| India compliance targets/current stage | Lesson 8 | PIB 490-entity coverage and CERC trading rules separated from draft G.S.R. 517(E) proposal for 255 iron-and-steel entities; Register 8 |
 | PAT, Green Credit, REC and Article 6 boundaries | Lesson 9 | Cumulative 8; Register 9 |
 | CCTS offset mechanism | Lesson 9 | Lesson 9 Mains |
 | CCUS chain | Lesson 10 | PYQ 2025 CCUS; Register 10 |
@@ -4045,10 +4161,10 @@ mitigation hierarchy
 | Utilisation versus storage | Lesson 10 | Cumulative 6 |
 | Storage geology and trapping | Lessons 10-11 | Register 10-11 |
 | Storage MRV and liability | Lesson 11 | Lesson 11 Mains |
-| CDR distinction | Lesson 12 | Final 20-marker |
+| CDR distinction and broader taxonomy | Lesson 12 | DAC/DACCS, BECCS, biological/product, geochemical and ocean routes; Final 20-marker |
 | DAC process and DACCS | Lesson 12 | PYQ 2025 DAC; Register 12 |
 | BECCS | Lesson 12 | Lesson 12 Mains |
-| Nature-based removal | Lessons 12-13 | Cumulative 7 |
+| Biological, soil and biochar removal | Lessons 12-13 | Cumulative 7; Register 12-13 |
 | Enhanced weathering/ocean approaches | Lesson 12 | PYQ 2023 sequestration |
 | Moral hazard and durability | Lesson 13 | Lesson 13 Mains |
 | India sectoral applications | Lesson 14 | Lesson 14 Mains; Register 14 |
@@ -4058,7 +4174,7 @@ mitigation hierarchy
 | One check/model/misconception per lesson | Lessons 1-14 | One complete concept-check block in each lesson |
 | Lesson Mains models/rubrics | Lessons 1-14 | One model and unique quantified rubric each |
 | Final 10/15/20 models | Final Mains practice | Three quantified rubrics |
-| Exactly one current-affairs linkage | Lesson 8 | PIB 22 January 2026 only |
+| Dated current-status anchors | Lessons 7-8 | UNFCCC A6.4 issuance/registry status; PIB 490-entity update; CERC 2026 trading rules |
 
 # SOURCE LEDGER
 
@@ -4066,14 +4182,14 @@ mitigation hierarchy
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` audited in full; current CCTS cross-owner checked at `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` lines 92-108 |
+| Canonical Markdown | checked | Certified Basic owner `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` at commit `c631d2b4a` audited in full; current CCTS cross-owner checked at `upsc-ai-kit\knowledge\Economy\basic\25_Climate-Economics-Green-Finance-and-Circular-Economy.md` |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Layered/complete session | not available | No permitted prior live session exists for Environment-and-Ecology Topic 21; the target was absent before generation |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` audited in full |
-| OCR books | not available | No permitted OCR book/source-PDF collection exists in this workspace; generated notes and excluded package PDFs were not used as book evidence |
-| PYQs through 2026 | checked | Audited routing ledgers for 2018-2023 and 2024-2025, Environment README, and exact question wording cross-checked against available paper reproductions; no directly owned 2026 PYQ is routed to Topic 21 |
-| Official live sources | checked | India Code/BEE/MoP/MoEFCC/PIB, UNFCCC Article 6/CDM, IPCC and IEA sources listed below; status reviewed to 3 October 2026 |
+| Advanced dossier | checked | Certified Advanced owner `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md` at commit `c631d2b4a` audited in full |
+| OCR books | not available | No permitted OCR book/source-PDF collection was available; every lesson's Book context therefore names the exact queried Markdown owner and records this absence |
+| PYQs through 2026 | checked | Exact wording checked against the local official-paper paths and PDF pages listed below; no directly owned 2026 PYQ is routed to Topic 21 |
+| Official live sources | checked | Persistent MoP/BEE/CERC/PIB/MoEFCC, UNFCCC, UNEP-SBCI, EUR-Lex, IPCC and IEA controls are listed below; legal and operational status reviewed through 5 October 2026 |
 
 ## Canonical and cross-topic owners
 
@@ -4095,40 +4211,51 @@ mitigation hierarchy
 4. `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`
 5. `upsc-ai-kit\knowledge\Environment-and-Ecology\README.md`
 
-The 2021 objective question is reproduced without asserting a question number because locally
-held routing and circulated set references use inconsistent numbering. The wording and options,
-not an uncertain set-number label, are preserved. No objective answer key is displayed or
-inferred in this live session.
+| Neutral PYQ | Exact local official source | PDF page | Ownership/control |
+|---|---|---:|---|
+| 2021 Prelims GS-I Q29 | `books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf` | 15 | Topic 21 direct owner; printed `foot-print` preserved; answer-free |
+| 2023 Prelims GS-I Q23 | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf` | 11 | Topic 21 direct owner; answer-free |
+| 2023 Prelims GS-I Q68 | same 2023 official paper | 29 | Topic 21 direct owner; answer-free |
+| 2024 Prelims GS-I Q96 | `books\prelima_question_paper_answers\2024-GS1-Set A.pdf` | 41 | Peripheral industrial-policy neighbour; answer-free |
+| 2025 Prelims GS-I Q34 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf` | 17 | Topic 21 direct Article 6 owner; answer-free |
+| 2025 Prelims GS-I Q36 | same 2025 official paper | 17 | Topic 21 direct DAC owner; Roman numbering and printed punctuation preserved; answer-free |
+| 2025 Mains GS-III Q7 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` | 2 | Topic 21 direct CCUS owner; exact 10-mark/150-word wording |
+
+UPSC/Government-source attribution is retained. Full wording is reproduced only for these bounded,
+directly routed educational questions; no objective key, solved answer or third-party explanation
+appears in the neutral-display block. Demand decoding begins only after every question is shown.
 
 ## Official legal and policy sources
 
-1. **Energy Conservation Act, 2001 as amended in 2022**, India Code, Section 14(w) and Section
-   14AA.
-2. **Energy Conservation (Amendment) Act, 2022**, official BEE/Gazette text.
-3. **Carbon Credit Trading Scheme, 2023**, S.O. 2825(E), 28 June 2023, Ministry of Power.
-4. **Detailed Procedure for Compliance Mechanism under CCTS**, Bureau of Energy Efficiency.
-5. **Indian Carbon Market/CCTS institutional material**, Bureau of Energy Efficiency.
-6. **PIB PRID 2217239**, 22 January 2026, entity-level GEI target expansion and 490 obligated
-   entities.
-7. **PIB PRID 2223703**, 5 February 2026, parliamentary reply on CCTS architecture.
-8. **MoEFCC revised list of activities eligible under Article 6.2**, official memorandum.
-9. **MoEFCC draft G.S.R. 517(E), 26 June 2026**, proposed Third Schedule under the Greenhouse
-   Gases Emission Intensity Target Rules, 2025 for 255 iron-and-steel entities:
-   <https://moef.gov.in/storage/tender/1783408897.pdf>.
+| Official source | Controlled claim | Persistent URL/page |
+|---|---|---|
+| Energy Conservation (Amendment) Act, 2022 | Sections 14(w) and 14AA; statutory CCTS and certificate basis | <https://egazette.gov.in/WriteReadData/2022/241246.pdf> — PDF pp. 2 and 4-5 |
+| Ministry of Power, Carbon Credit Trading Scheme, 2023 | NSCICM, BEE Administrator, Grid Controller Registry and CERC role | <https://powermin.gov.in/static/uploads/2025/06/93e194db9a5c9b726ac95e0081c1abf4.pdf> — PDF pp. 7-9 |
+| BEE, Detailed Procedure for the Compliance Mechanism | MoEFCC GEI notification process, entity procedure and registry/CERC interface | <https://beeindia.gov.in/WriteReadData/L45218/7772386525993811.pdf> — PDF pp. 4, 9 and 22 |
+| CERC, Terms and Conditions for Purchase and Sale of CCC Regulations, 2026 | Exchange-trading regulatory layer; not evidence of completed trading | <https://www.cercind.gov.in/regulations/205-Noti.pdf> — PDF pp. 1-3 |
+| Economic Survey 2025-26, Chapter 10 | Dual CCTS design and the ten offset sectors, including solvent use and CCUS | <https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap10.pdf> — PDF pp. 22-23 |
+| BEE PAT/ESCert material | PAT metric and one-ESCert energy-saving denomination | <https://beeindia.gov.in/WriteReadData/L45218/1734412025.pdf> — PDF p. 24 |
+| PIB PRID 2217239, 22 January 2026 | 208 additional entities and total notified coverage of 490 obligated entities | <https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2217239> |
+| PIB PRID 2223703, 5 February 2026 | Compliance/offset architecture, power-exchange design and institutional split | <https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2223703> |
+| MoEFCC draft G.S.R. 517(E), 26 June 2026 | Draft Third Schedule for 255 iron-and-steel entities; not final at the cut-off | <https://moef.gov.in/storage/tender/1783408897.pdf> — PDF pp. 1-2 and entity schedules |
 
 ## Official international and technical sources
 
-1. **Paris Agreement, Article 6**, UNFCCC treaty text.
-2. **Article 6.2 guidance and reporting infrastructure**, UNFCCC.
-3. **Paris Agreement Crediting Mechanism registry and Supervisory Body documents**, UNFCCC.
-4. **Article 6.8 non-market approaches work programme**, UNFCCC.
-5. **CDM transition and registry deadlines**, UNFCCC/CDM.
-6. **IPCC AR6 WGIII Chapter 12 and Carbon Dioxide Removal Factsheet**, CDR definitions and
-   method distinctions.
-7. **IPCC Special Report on Carbon Dioxide Capture and Storage**, geological storage,
-   trapping, monitoring and leakage.
-8. **IEA, Direct Air Capture 2022**, DAC process, energy and deployment constraints.
-9. **IEA, CCUS in Clean Energy Transitions**, capture-chain, sectoral role and innovation.
+| Official source | Controlled claim | Persistent URL/page |
+|---|---|---|
+| Paris Agreement official text | Article 6.2, 6.4 and 6.8 treaty boundaries | <https://unfccc.int/documents/54061> — Article 6 |
+| Article 6.2 guidance, decision 4/CMA.6 | Authorisation, first transfer, reporting, inconsistencies and registry services | <https://unfccc.int/sites/default/files/resource/cma2024_L15_adv.pdf> |
+| UNFCCC Article 6.2 International Registry/ARS information | Interim/offline registry services during development of the full system | <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6/article-62/international-registry-and-ars> and <https://unfccc.int/sites/default/files/resource/19Jun_Info_Session_International_Registry.pdf> |
+| UNFCCC, *Accelerating Article 6.4 Engagement*, Baku Climate Week 2026 | First A6.4ER issuance on 26 February 2026; 648,783 tCO2e; 418 host-approved CDM transition requests by 30 June | <https://unfccc.int/sites/default/files/resource/Accelerating_A6.4_Engagement_BakuClimateWeek2026.pdf> — “Where PACM stands” slides |
+| UNFCCC, Interim Mechanism Registry User Guide v2.0 | September 2026 interim-registry functions, final registry under development and automatic migration | <https://unfccc.int/sites/default/files/resource/UserGuide_Interim_Mechanism_Registry.pdf> — PDF pp. 2-4 |
+| CMA7 report addendum 2 | Article 6.8 work-programme status | <https://unfccc.int/sites/default/files/resource/cma2025_19_a02.pdf> — decision 18/CMA.7, PDF pp. 30-33 |
+| UNEP-SBCI, *Common Carbon Metric: Protocol for Measuring Energy Use and Reporting GHG Emissions from Building Operations* | Institution, building-operations boundary, energy/carbon-intensity metrics and policy/MRV purpose | UNEP WESR record: <https://wesr-search.unep.org/ckan/dataset/doc-unep-other-rbb-common-carbon-metric-for-measuring-energy-use-and-reporting-greenhouse-gas-emiss>; official EU-hosted protocol mirror: <https://capacity4dev.europa.eu/system/files/documents/common-carbon-metric-for_pilot_testing_220410.pdf> — PDF pp. 1, 5 and 9-11 |
+| Regulation (EU) 2024/1735, Net-Zero Industry Act | Net-zero-technology manufacturing ecosystem, 2030/2040 benchmarks and CO2-storage infrastructure; not an ETS | Official text: <https://eur-lex.europa.eu/eli/reg/2024/1735/oj/eng>; EUR-Lex summary: <https://eur-lex.europa.eu/EN/legal-content/summary/eu-net-zero-industry-act.html> |
+| IPCC AR6 WGIII Carbon Dioxide Removal Factsheet | CDR definition, durable storage and method distinctions | <https://www.ipcc.ch/report/ar6/wg3/downloads/outreach/IPCC_AR6_WGIII_Factsheet_CDR.pdf> — PDF pp. 1-2 |
+| IPCC AR6 WGIII Chapter 12, Section 12.3 | DACCS, BECCS, biological, product, enhanced-weathering and ocean CDR taxonomy | <https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf> — PDF pp. 17-33, printed pp. 1261-1277 |
+| IPCC Special Report on Carbon Dioxide Capture and Storage | Geological storage, trapping, monitoring and leakage | <https://www.ipcc.ch/site/assets/uploads/2018/03/srccs_wholereport-1.pdf> — Chapters 5-6 |
+| IEA, *Direct Air Capture 2022* | DAC separation, energy needs and storage/use distinction | <https://www.iea.org/reports/direct-air-capture-2022> |
+| IEA, *CCUS in Clean Energy Transitions* | Point-source capture chain, sectoral role and infrastructure | <https://www.iea.org/reports/ccus-in-clean-energy-transitions> |
 
 ## Status and uncertainty controls
 
@@ -4138,9 +4265,10 @@ inferred in this live session.
   infrastructure exist.
 - The 490 entities under notified GEI rules are kept distinct from the 255 iron-and-steel
   entities proposed in draft G.S.R. 517(E); no final steel-sector notification was verified by
-  3 October 2026, so the draft is not treated as operative.
-- Article 6 is described as operationalising through rules, reporting, registries, activity
-  procedures and transition; no unsupported claim of a deep global market is made.
+  5 October 2026, so the draft is not treated as operative.
+- Article 6 status includes the first A6.4ER issuance and the operating Interim Mechanism
+  Registry, while preserving the official statement that the final registry remained under
+  development; no unsupported claim of a deep or liquid global market is made.
 - Technology costs and energy penalties are treated as project-specific; no universal numerical
   estimate is asserted.
 - Geological capacity is separated into theoretical and practically usable capacity.
