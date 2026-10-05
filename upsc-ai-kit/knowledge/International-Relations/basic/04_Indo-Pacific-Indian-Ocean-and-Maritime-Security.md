@@ -65,7 +65,7 @@ major powers are also present and competing for influence.
 | ✅ **SAGAR (Security and Growth for All in the Region)** | India's declared maritime vision for the Indian Ocean Region, articulated in Mauritius on 12 March 2015, combining security cooperation with economic and developmental partnership for littoral and island states. |
 | ✅ **MAHASAGAR (2025)** | ✅ Announced at Port Louis on 12 March 2025: India's vision for the Global South would be "going beyond SAGAR — it will be MAHASAGAR, i.e. 'Mutual and Holistic Advancement for Security and Growth Across Regions'," encompassing "trade for development, capacity building for sustainable growth, and mutual security for a shared future," delivered through "technology sharing, concessional loan and grants." ⚠️ An extension of scope, not a replacement: the same speech reaffirms that India is "moving ahead with the SAGAR Vision." |
 | ✅ **UNCLOS** | The UN Convention on the Law of the Sea — the treaty framework governing territorial waters, exclusive economic zones and high-seas navigation rights that underpins all maritime-security diplomacy. India signed on 10 December 1982 and ratified on 29 June 1995; domestically, the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976 defines India's maritime zones (World History/Polity own treaty-law chronology and domestic legislative detail; IR applies it to India's regional engagement). |
-| ✅ **BBNJ Agreement ("High Seas Treaty")** | The UNCLOS implementing agreement on marine biodiversity of areas beyond national jurisdiction: adopted 19 June 2023, opened for signature 20 September 2023, and **entered into force on 17 January 2026** after the 60th ratification was deposited on 19 September 2025. ⚠️ India **signed on 25 September 2024** but had not deposited ratification as of 3 August 2026 — signature is not ratification, and India is therefore not yet a party. |
+| ✅ **BBNJ Agreement ("High Seas Treaty")** | The UNCLOS implementing agreement on marine biodiversity of areas beyond national jurisdiction: adopted 19 June 2023, opened for signature 20 September 2023, and **entered into force on 17 January 2026** after the 60th ratification was deposited on 19 September 2025. ⚠️ India **signed on 25 September 2024** but had not deposited ratification as of **5 October 2026** — signature is not ratification, and India was therefore not yet a Party. |
 | ✅ **Indian Ocean Rim Association (IORA)** | A 23-member regional intergovernmental organisation (Secretariat at Ebène, Mauritius) with 12 dialogue partners; ✅ referenced in VisionIAS security material as a mechanism India works to strengthen, alongside linkages to the Indian Ocean Naval Symposium (IONS). 📰 India assumed the IORA chair in November 2025 for the 2025-27 term. |
 | ✅ **Indian Ocean Naval Symposium (IONS)** | ✅ A voluntary initiative (established 2008) to increase maritime cooperation among navies of Indian Ocean littoral states. 📰 India assumed the IONS chair on 20 February 2026. |
 | ✅ **Information Fusion Centre-Indian Ocean Region (IFC-IOR)** | ✅ A regional maritime-security centre hosted by the Indian Navy, established in 2018 in Gurugram, for maritime domain awareness and information-sharing. 📰 As stated in November 2025 it collaborated with 25 partner countries and hosted International Liaison Officers from 15 countries. |
@@ -144,8 +144,22 @@ major powers are also present and competing for influence.
   China Sea Annex-VII award and called for freedom of navigation and overflight,
   peaceful settlement, self-restraint and respect for UNCLOS — ⚠️ without
   pronouncing on the merits.
+
+### UNCLOS territorial sea, innocent passage and EEZ — treaty doctrine
+
+| Proposition | Exact treaty control | Boundary |
+|---|---|---|
+| **Territorial-sea breadth** | Article 3 permits a coastal State to establish a territorial sea up to, but not exceeding, **12 nautical miles**, measured from Convention-compliant baselines. | The coastal State has sovereignty, subject to UNCLOS and other international law. |
+| **Right of innocent passage** | Article 17 gives ships of **all States, whether coastal or land-locked**, the right of innocent passage through the territorial sea. | It is a navigation right through territorial sea, not a transfer of resource rights or sovereignty. |
+| **Meaning of passage** | Article 18 requires passage to be **continuous and expeditious**. Stopping or anchoring is covered only when incidental to ordinary navigation, required by force majeure/distress, or needed to assist persons, ships or aircraft in danger. | A port call or movement to/from internal waters can still be passage under the Article's terms. |
+| **Meaning of innocent** | Under Article 19, passage is innocent only while it is not prejudicial to the coastal State's **peace, good order or security**. Weapons exercises, intelligence collection, fishing, research, wilful serious pollution and other listed conduct can make passage non-innocent. | "Innocent passage" is conditional; it is not unrestricted activity in territorial waters. |
+| **EEZ outer limit** | Article 57 states that the EEZ shall not extend beyond **200 nautical miles** from the baselines used to measure the territorial sea. | The EEZ confers specified sovereign rights and jurisdiction, not territorial sovereignty. |
+
+> **Objective-question firewall:** the table teaches the treaty provisions independently.
+> The repository routing ledger records the key status as **not available**, so this owner does
+> not assign truth values, map a statement set to an option or identify an answer.
 - 📰 **BBNJ Agreement** — in force 17 January 2026; India signed 25 September
-  2024 and had not ratified as of 3 August 2026. ⚠️ Cite India's status as
+  2024 and had not ratified as of 5 October 2026. ⚠️ Cite India's status as
   "signatory, not party."
 
 ### India's Indo-Pacific institutional layer
@@ -444,6 +458,12 @@ major powers are also present and competing for influence.
 - ✅ India signed UNCLOS on 10 December 1982 and ratified it on 29 June 1995;
   India's maritime zones are defined domestically by the Territorial Waters,
   Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976.
+- ✅ UNCLOS Articles 3, 17 and 57 respectively control the 12-nautical-mile territorial-sea
+  maximum, the right of innocent passage for ships of all coastal or land-locked States, and
+  the 200-nautical-mile EEZ outer limit.
+- ✅ Innocent passage must be continuous and expeditious and non-prejudicial to the coastal
+  State's peace, good order or security; it does not permit fishing, research, weapons
+  exercises or wilful serious pollution in the territorial sea.
 - ✅ IONS was established in 2008 as a voluntary Indian Ocean littoral-navy
   cooperation initiative; India assumed its chair on 20 February 2026.
 - ✅ IORA has 23 member states and 12 dialogue partners, with its Secretariat at
@@ -484,7 +504,13 @@ major powers are also present and competing for influence.
 - ❌ India is a party to the BBNJ Agreement because it signed in September 2024.
   -> Signature expresses consent to the text and an obligation not to defeat its
   object; party status requires ratification, which India had not deposited as
-  of 3 August 2026.
+  of 5 October 2026.
+- ❌ Innocent passage allows any activity by a foreign ship in the territorial sea. ->
+  UNCLOS Articles 18-19 confine it to continuous, expeditious and non-prejudicial passage;
+  fishing, research, weapons exercises and wilful serious pollution can make it non-innocent.
+- ❌ Innocent passage applies because the EEZ is sovereign territory. -> The right concerns
+  passage through the territorial sea; the EEZ carries specified sovereign rights, not full
+  territorial sovereignty.
 - ❌ Chairing IORA and IONS gives India control over Indian Ocean security
   policy. -> Both are consensus-based bodies; a chairship confers agenda-setting
   and convening advantage, not decision-making authority over members.
@@ -628,6 +654,18 @@ China/US roles, UNCLOS institutions, blue economy, climate and non-traditional t
   operational cycle to
   `Disaster-Management/basic/17_Humanitarian-Logistics-Relief-Rehabilitation-and-Recovery.md`.
 
+**Persistent treaty and question sources**
+
+- UNCLOS Part II, Articles 3 and 17-19:
+  <https://www.un.org/depts/los/convention_agreements/texts/unclos/part2.htm>.
+- UNCLOS Part V, Article 57:
+  <https://www.un.org/depts/los/convention_agreements/texts/unclos/part5.htm>.
+- UN BBNJ status:
+  <https://www.un.org/bbnjagreement/en>.
+- Routed question source: local official Set-A booklet
+  `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF page 37. The routing ledger
+  records the key status as **not available** for this integration.
+
 ## 2026 Mains PYQ integration (manual)
 
 > **Source:** OCR-verified English text from the locally preserved official
@@ -676,7 +714,9 @@ executable 10-mark spine (Section 4A).
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The repository routing ledger records the 2018-2023 objective-key
+> status as **not available** for this integration. No option, truth set or answer is
+> recorded or inferred.
 
 - **Years represented:** 2020, 2021, 2022, 2023
 - **Paper(s):** GS-II, Prelims GS-I
@@ -686,8 +726,8 @@ executable 10-mark spine (Section 4A).
 |---:|---|---:|---|---|---|---|
 | 2020 | GS-II | 20 | Indo-US and Indo-Russian defence deals and Indo-Pacific stability | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-II | 20 | AUKUS in the Indo-Pacific and existing regional partnerships | Discuss the strength and impact · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 85 | UNCLOS territorial sea innocent passage and EEZ provisions | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
-| 2022 | Prelims GS-I | 86 | Senkaku Islands maritime territorial dispute East China Sea | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 85 | UNCLOS territorial sea innocent passage and EEZ provisions | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 86 | Senkaku Islands maritime territorial dispute East China Sea | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | GS-II | 20 | Role of the IMO in protecting environment and maritime safety | Discuss · 15 marks · 250 words | Core route supersedes older Advanced ownership | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support
@@ -706,8 +746,17 @@ executable 10-mark spine (Section 4A).
 - **Official syllabus/index and owned core:** The Indo-Pacific and Indian Ocean framework links sea-lane security, maritime domain awareness, naval diplomacy, coastal resilience, blue economy, connectivity and a rules-based order while retaining ASEAN centrality and the sovereignty of littoral and island states.
 - **Indispensable distinction and prerequisite taxonomy:** UNCLOS membership is not acceptance of every maritime claim, freedom of navigation is not identical to a specific naval operation, the Quad is not a treaty alliance, SAGAR is a policy vision, and an exercise or logistics agreement does not prove automatic combat commitment.
 - **Mechanism, implementation and evidence control:** Verify grouping membership, exercise participants, institutional mandate and operational status; separate objective, platform, deployment, capacity-building and outcome while testing escalation, access, interoperability, environmental, fiscal and small-state agency risks.
-- **✅ Verified current fact (official sources rechecked 6 September 2026):**
-  Rechecked 6 September 2026: the UN confirms BBNJ entry into force on 17 January 2026; IORA confirms India's 2025-27 chairship. Signature, ratification, entry into force, chairship and operational maritime capacity are distinct, and the Quad remains a non-treaty consultation. Sources: https://www.un.org/bbnjagreement/en; https://www.iora.int/troika; https://www.iora.int/sites/default/files/2026-08/List%20of%20IORA%20Chair%20002.pdf; https://www.bimstec.org/
+- **✅ Verified current fact (official sources rechecked 5 October 2026):**
+  The UN confirms BBNJ entry into force on 17 January 2026 and continued Indian
+  signatory-but-not-Party status; UNCLOS Articles 3, 17-19 and 57 supply the routed objective
+  propositions. IORA confirms India's 2025-27 chairship. Signature, ratification, entry into
+  force, chairship and operational maritime capacity are distinct, and the Quad remains a
+  non-treaty consultation. Sources: https://www.un.org/bbnjagreement/en;
+  https://www.un.org/depts/los/convention_agreements/texts/unclos/part2.htm;
+  https://www.un.org/depts/los/convention_agreements/texts/unclos/part5.htm;
+  https://www.iora.int/troika;
+  https://www.iora.int/sites/default/files/2026-08/List%20of%20IORA%20Chair%20002.pdf;
+  https://www.bimstec.org/
 - **⚠️ Analytical inference:** a summit, declaration, trade change, deployment,
   project announcement or diplomatic statement supports a causal claim only
   after legal character, implementation, partner response, counterfactual,
@@ -722,4 +771,4 @@ executable 10-mark spine (Section 4A).
   were checked for absent doctrines, actors, instruments, memberships,
   mandates, status chains, mechanisms, comparisons, current facts, answer
   architecture and dependent artifacts.
-- **Verified PYQ ownership, 2018-2026:** Four General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 20 on Indo-United States and Indo-Russian defence deals and Indo-Pacific stability, a Discuss demand of 15 marks and 250 words; 2021 General Studies Paper II question 20 on AUKUS in the Indo-Pacific and existing regional partnerships, a Discuss the strength and impact demand of 15 marks and 250 words, for which the ledger records that the opening clause of the printed stem was truncated in the scan; 2023 General Studies Paper II question 20 on the role of the International Maritime Organization in protecting the environment and maritime safety, a Discuss demand of 15 marks and 250 words with the word limit taken from the instruction block; and 2024 General Studies Paper II question 20 on the geopolitical and geostrategic importance of Maldives for India, a Discuss demand of 15 marks and 250 words. For the 2020, 2021 and 2023 demands the ledger records that the Core route supersedes the older Advanced ownership. Two objective demands are also routed to this owner and are carried as coverage requirements only: 2022 Prelims General Studies Paper I question 85 on Convention provisions for the territorial sea, innocent passage and the exclusive economic zone, and 2022 Prelims General Studies Paper I question 86 on the Senkaku Islands maritime territorial dispute in the East China Sea. The official 2018-2023 Prelims keys are not held locally, and no option or answer letter is recorded or inferred for either objective demand. Where a printed stem is recorded as truncated or defective in the scan, that defect is reported rather than silently repaired. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme or official answer key was imported.
+- **Verified PYQ ownership, 2018-2026:** Four General Studies Paper II Mains demands are routed to this topic in the audited routing ledgers and each is reproduced below as a demand card with its printed year, paper, question number, directive, marks and word limit exactly as the ledger records them: 2020 General Studies Paper II question 20 on Indo-United States and Indo-Russian defence deals and Indo-Pacific stability, a Discuss demand of 15 marks and 250 words; 2021 General Studies Paper II question 20 on AUKUS in the Indo-Pacific and existing regional partnerships, a Discuss the strength and impact demand of 15 marks and 250 words, for which the ledger records that the opening clause of the printed stem was truncated in the scan; 2023 General Studies Paper II question 20 on the role of the International Maritime Organization in protecting the environment and maritime safety, a Discuss demand of 15 marks and 250 words with the word limit taken from the instruction block; and 2024 General Studies Paper II question 20 on the geopolitical and geostrategic importance of Maldives for India, a Discuss demand of 15 marks and 250 words. For the 2020, 2021 and 2023 demands the ledger records that the Core route supersedes the older Advanced ownership. Two objective demands are also routed to this owner and are carried as coverage requirements only: 2022 Prelims General Studies Paper I question 85 on Convention provisions for the territorial sea, innocent passage and the exclusive economic zone, and 2022 Prelims General Studies Paper I question 86 on the Senkaku Islands maritime territorial dispute in the East China Sea. The routing ledger records their key status as **not available**; no answer letter, statement truth set or option combination is imported. Where a printed stem is recorded as truncated or defective in the scan, that defect is reported rather than silently repaired. The locally held OCR-searchable official General Studies papers were read only to confirm the printed wording of the routed Mains demands; no question was invented from them, no stem was paraphrased into an apparent routing, and no marking scheme was imported.

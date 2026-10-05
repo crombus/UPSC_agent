@@ -31,6 +31,24 @@
 
 > 🔑 Trap: Coral reefs are not deep-sea features; they are warm, shallow, clear-water tropical landforms.
 
+### 2.1 Global coral distribution and biodiversity controls
+
+1. ✅ **Tropical distribution:** most shallow, reef-building coral reefs occur in tropical and
+   subtropical waters because their symbiotic algae require light and the reef builders operate
+   within a relatively narrow temperature-salinity window. Cold-water corals exist, but they do
+   not overturn the global distribution of shallow reef systems.
+2. ✅ **Indo-Pacific concentration:** Australia contains the Great Barrier Reef, while
+   Indonesia and the Philippines lie within the Coral Triangle, the principal global centre
+   of reef-building-coral diversity. An exact claim about their combined share of global reef
+   area requires a dated, method-specific area dataset.
+3. ✅ **Animal-phylum diversity:** NOAA describes coral reefs as among the world's most diverse
+   ecosystems, with representatives of many major animal groups. That fact does not by itself
+   settle a numerical or comparative phylum claim against tropical rainforests.
+
+> 🔑 **Objective-question firewall:** these are independent teaching facts. The repository
+> routing ledger records the key status as **not available**, so this owner does not assign truth
+> values, construct a statement combination or identify an answer.
+
 ## 3. Reef types and Darwin's sequence
 
 | Reef type | Position/form | Recognition point |
@@ -46,6 +64,10 @@
 - ✅ Island types: continental, oceanic/volcanic and coral.
 - ✅ Coral polyps build limestone skeletons; zooxanthellae are symbiotic algae.
 - ✅ Coral needs warm, shallow, sunlit, clear and normally saline water; local species tolerances vary.
+- ✅ Most shallow reef systems are tropical; the Indo-Pacific, especially the Coral Triangle,
+  is the principal global diversity centre.
+- ✅ Australia, Indonesia and the Philippines are major Indo-Pacific reef jurisdictions;
+  exact combined-area fractions require a dated source.
 - ✅ Reef sequence/types: fringing, barrier and atoll.
 - ✅ Darwin's **subsidence** theory: fringing → barrier → atoll as island sinks.
 - ✅ Atoll = ring reef enclosing a lagoon.
@@ -58,24 +80,31 @@
 - ❌ Coral islands are high and rugged → Coral islands are generally **low**; volcanic islands are high.
 - ❌ Zooxanthellae are coral skeletons → Zooxanthellae are **symbiotic algae** associated with coral polyps.
 - ❌ All islands are continental fragments → Islands may be continental, oceanic/volcanic or coral.
+- ❌ A tropical distribution rule means no coral can occur in cold or deep water. → The rule
+  concerns shallow reef-building systems; cold-water corals are a real exception.
 
 ## 6. 📰 Current link
 
-### CA Anchor — Fourth Global Coral Bleaching Event (2024)
+### CA Anchor — NOAA closure assessment of the fourth global bleaching event (2026)
 
-📰 **News trigger:** In 2024 NOAA declared the fourth global coral bleaching event — warm seas (global warming + El Nino) bleached reefs worldwide, including India's Lakshadweep and Gulf of Mannar.
+📰 **News trigger:** NOAA's June 2026 assessment concluded that the fourth global mass coral
+bleaching event, declared in April 2024, likely ended in 2025 after unprecedented ocean heat.
+NOAA reported that bleaching-level heat stress had affected about 84% of the world's reef area
+across 83 countries and territories during the event.
 
 ✅ Bleaching is heat stress made visible: corals expel their zooxanthellae, turn white and, if stress persists, die — directly linking reef geomorphology to climate change.
 
 - ✅ Bleaching = expulsion of symbiotic zooxanthellae under heat stress; the coral whitens and may die.
-- ✅ Trigger 2024: record sea-surface temperatures (warming + El Nino); the 4th global event (after 1998, 2010, 2015–17).
-- ✅ Indian hotspots hit: Lakshadweep (severe), Gulf of Mannar (India's first marine biosphere reserve, ~117 coral species).
+- ✅ Timeline: heat stress began in 2023, NOAA declared the event on 15 April 2024, and the
+  June 2026 assessment said it likely ended in 2025.
+- ⚠️ A global event does not establish a uniform mortality percentage for every Indian reef;
+  Indian-site claims require dated INCOIS, ZSI, CMFRI or other survey evidence.
 
 ### Current-link Must-Know Facts
 
-- ✅ 2024 = 4th global bleaching event (NOAA); after 1998, 2010, 2015–17.
+- ✅ Fourth global event: declared 2024; NOAA assessed in June 2026 that it likely ended in 2025.
 - ✅ Cause: high SST (warming + El Nino) → zooxanthellae expelled.
-- ✅ India hit: Lakshadweep, Gulf of Mannar, Andaman & Nicobar.
+- ✅ Global exposure does not equal universal reef death or uniform local severity.
 
 ### Current-link Traps
 
@@ -90,6 +119,18 @@
 
 Geography → Physical → Islands & Coral Reefs (GC Leong: Coral Reefs; Majid: Islands)  
 Geography → Coral Reefs → Bleaching / Climate (applied CA)
+
+**Persistent source control**
+
+- NOAA coral-reef ecology and biodiversity:
+  <https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems>.
+- NOAA Coral Triangle profile:
+  <https://coralreef.noaa.gov/digital-corals/stories/jun20/coral-triangle/>.
+- NOAA June 2026 bleaching update:
+  <https://www.nesdis.noaa.gov/news/worlds-fourth-mass-coral-bleaching-event-likely-ended-2025>.
+- Routed question source: local official Series-A booklet
+  `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF page 37. The routing ledger records
+  the key status as **not available** for this integration.
 
 ## 9. Two distinct threats: warming-driven bleaching and ocean acidification
 
@@ -119,6 +160,9 @@ Geography → Coral Reefs → Bleaching / Climate (applied CA)
 > 🔑 **Trap:** a bleached coral is **not** a dead coral. It has lost its symbionts and is starving;
 > recovery is possible if the thermal stress ends. Mortality follows only if the stress persists or
 > recurs before recovery.
+
+> 🔑 **Trap:** ocean acidification does not mean that average seawater has become acidic. Seawater
+> remains alkaline, but its pH is declining and carbonate ions become less available.
 
 > ⚠️ **Factual caution:** do not quote a pH value, a percentage of reefs lost, a species count or a
 > bleaching-event date from memory. Where the file already carries a dated NOAA-attributed bleaching
@@ -183,7 +227,9 @@ Geography → Coral Reefs → Bleaching / Climate (applied CA)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The repository routing ledger records the 2018 Prelims key status as
+> **not available** for this integration. No statement truth value, combination or answer is
+> recorded or inferred.
 
 - **Years represented:** 2018, 2019
 - **Paper(s):** GS-I, Prelims GS-I
@@ -191,7 +237,7 @@ Geography → Coral Reefs → Bleaching / Climate (applied CA)
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 87 | Coral reef global distribution tropical waters and biodiversity | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 87 | Coral reef global distribution tropical waters and biodiversity | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2019 | GS-I | 4 | Global warming impact on the coral life system | Assess with examples · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

@@ -28,8 +28,10 @@ BLUE ECONOMY = sustainable use of ocean/coastal resources for economic growth
 **Core proposition:** India's coastal governance rests on a graded CRZ zonation (from
 strictly protected ecologically sensitive areas to regulated urban and rural coastal zones
 and territorial waters) balanced against a Blue Economy policy vision that treats sustainable
-ocean-resource use as an economic growth driver — the two must be read together, since
-CRZ compliance is the regulatory precondition for legitimate Blue Economy activity.
+ocean-resource use as an economic growth driver. CRZ compliance is a regulatory precondition
+for activities within the notification's mapped coastal and near-shore scope; it is not a
+universal licence for fisheries, shipping, offshore energy or other activity throughout the
+EEZ or high seas.
 
 ## 2. Essential definitions
 
@@ -40,11 +42,11 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
 | ✅ **No Development Zone (NDZ)** | A buffer distance from the shoreline in CRZ-III (rural coastal) areas within which new construction is restricted, aimed at protecting the immediate coastal zone. |
 | ✅ **Blue Economy** | The sustainable use of ocean and coastal resources (fisheries, shipping, ports, tourism, offshore renewable energy, marine biotechnology) for economic growth, improved livelihoods and ocean-ecosystem health. |
 | ✅ **Mangrove ecosystem** | A salt-tolerant coastal forest ecosystem at the land-sea interface, providing coastal protection, fish nursery habitat and carbon storage ("blue carbon"). |
-| ✅ **Coral reef** | A marine ecosystem built by colonies of coral polyps, among the most biodiverse marine ecosystems, highly sensitive to temperature change (coral bleaching) and pollution. The three classical reef forms are **fringing** (attached to the shore), **barrier** (separated from shore by a lagoon) and **atoll** (a ring enclosing a lagoon). India's four major reef areas are the **Gulf of Mannar, Gulf of Kachchh, Lakshadweep and the Andaman and Nicobar Islands** — Lakshadweep being atoll reefs. |
+| ✅ **Coral reef** | A marine ecosystem whose calcium-carbonate framework is built principally by colonies of coral animals, commonly in symbiosis with photosynthetic algae. This owner teaches ecological services, bleaching, acidification, pollution and restoration limits; reef forms, formation models and Indian island geomorphology remain with `Geography/basic/11_Islands-and-Coral-Reefs.md`. |
 | ✅ **Seawater (saline) intrusion** | The landward movement of seawater into a coastal freshwater aquifer, driven chiefly by **over-extraction of groundwater** lowering the freshwater head, and compounded by sea-level rise, reduced recharge, tidal-canal/creek modification and aquaculture ponds. Remedies are recharge-side (artificial recharge, check dams, rainwater harvesting), demand-side (extraction regulation, crop shifts) and barrier-based (recharge/injection wells, subsurface barriers). |
-| ✅ **BBNJ Agreement (2023)** | The "**High Seas Treaty**" — an implementing agreement under **UNCLOS** on the conservation and sustainable use of **marine biological diversity of areas beyond national jurisdiction**. It covers marine genetic resources and benefit-sharing, area-based management tools including marine protected areas on the high seas, environmental impact assessments, and capacity-building/technology transfer. ⚠️ Verify India's signature/ratification status and the Agreement's entry into force on un.org before asserting them. |
+| ✅ **BBNJ Agreement (2023)** | The "**High Seas Treaty**" — an implementing agreement under **UNCLOS** on the conservation and sustainable use of **marine biological diversity of areas beyond national jurisdiction**. It covers marine genetic resources and benefit-sharing, area-based management tools including marine protected areas, environmental impact assessments, and capacity-building/technology transfer. It entered into force on **17 January 2026**; India signed on **25 September 2024** but had not deposited ratification by **5 October 2026**, so India was a signatory, not a Party. |
 | ✅ **Deep Ocean Mission (2021)** | Ministry of Earth Sciences mission covering deep-sea mining technology, a manned submersible (**Samudrayaan**/*Matsya-6000*), ocean climate-change advisory services, deep-sea biodiversity, offshore energy and desalination, and an advanced marine-station for ocean biology. It is India's principal Blue-Economy science programme. |
-| ✅ **Exclusive Economic Zone (EEZ)** | The zone extending to **200 nautical miles** from the baseline, within which a coastal state has sovereign rights over living and non-living resources — the legal basis for most Blue Economy activity. |
+| ✅ **Exclusive Economic Zone (EEZ)** | A zone that shall not extend beyond **200 nautical miles** from the baseline, within which a coastal State has specified sovereign rights over living and non-living resources and related jurisdiction. These are resource rights, not full territorial sovereignty; detailed UNCLOS navigation doctrine remains with the International Relations owner. |
 
 ## 3. Topic mechanism
 
@@ -52,11 +54,11 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
    classifies India's coastline into four zones, each with a different permitted-activity
    regime — from CRZ-I's strict protection of ecologically sensitive areas to CRZ-II's
    regulated urban development and CRZ-III's rural No Development Zone buffer.
-2. The 2019 Notification reduced the No Development Zone distance for CRZ-III areas
-   compared to the earlier 2011 norms (reflecting a policy shift toward enabling more
-   coastal tourism/infrastructure development), while also introducing simplified clearance
-   procedures for certain categories of projects, illustrating an explicit development-
-   facilitation objective alongside conservation.
+2. The 2019 Notification made the **50-metre seafront NDZ** available to densely populated
+   **CRZ-IIIA** areas only after approval of the revised 2019 CZMP; **CRZ-IIIB remains at
+   200 metres**. It also reduced the tidal-water-body reach after plan transition and
+   simplified specified clearance routes. This is a calibrated development-facilitation
+   shift, not a blanket reduction for every CRZ-III coast.
 3. Coastal and marine ecosystems (mangroves, coral reefs, seagrass meadows, estuaries)
    provide critical ecosystem services — storm-surge/cyclone buffering, fish-nursery
    habitat, carbon sequestration ("blue carbon"), and livelihood support for coastal fishing
@@ -72,9 +74,13 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
 
 ## 4. Institutions and policy tools
 
-- ✅ **MoEFCC:** administers the CRZ Notification and coastal-clearance process.
-- ✅ **National Coastal Zone Management Authority (NCZMA) / State Coastal Zone Management
-  Authorities (SCZMAs):** appraise and monitor CRZ compliance and clearances.
+- ✅ **MoEFCC:** issues and amends the notification, approves CZMPs, exercises central
+  oversight and decides specified central CRZ or composite clearances.
+- ✅ **NCZMA:** advises and coordinates at the national level; it is not the routine final
+  authority for every site-level clearance.
+- ✅ **State/UT Coastal Zone Management Authorities:** appraise mapped compliance, recommend
+  cases to the competent authority, decide categories delegated to them, monitor conditions
+  and act on violations.
 - ✅ **Ministry of Earth Sciences (including National Institute of Ocean Technology, National
   Centre for Coastal Research):** provide scientific/technical inputs on coastal processes
   and marine ecosystem health.
@@ -98,40 +104,59 @@ CRZ compliance is the regulatory precondition for legitimate Blue Economy activi
 - ✅ The CRZ Notification, 2019 classifies India's coastline into four zones: CRZ-I
   (ecologically sensitive/inter-tidal), CRZ-II (urban), CRZ-III (rural, with a No
   Development Zone), and CRZ-IV (territorial waters/tidal water bodies).
-- ✅ The 2019 Notification reduced the No Development Zone distance for CRZ-III areas
-  compared to the 2011 Notification, reflecting a development-facilitation policy shift.
-- ✅ Mangroves provide coastal protection, fish-nursery habitat and carbon sequestration
-  ("blue carbon") services.
+- ✅ CRZ-IIIA uses a 50-metre seafront NDZ only after approval of the revised 2019 CZMP;
+  CRZ-IIIB retains a 200-metre NDZ. Publication of CRZ 2019 alone did not activate the
+  reduced IIIA distance everywhere.
+- ✅ Mangroves provide conditional wave attenuation, fish-nursery and livelihood functions;
+  they do not store freshwater or convert saline estuarine land into freshwater paddy or
+  aquaculture zones.
+- ✅ **Blue carbon** in the standard climate-policy sense focuses on carbon captured and
+  stored by coastal vegetated ecosystems—especially mangroves, seagrasses and salt marshes,
+  with major storage in waterlogged sediments. It is not a synonym for all carbon dissolved
+  in the ocean, and disturbance can reverse part of the stored benefit.
 - ✅ Coral bleaching results primarily from elevated sea-surface temperature stress causing
-  corals to expel their symbiotic algae, and is linked to broader climate-change impacts.
+  corals to expel their symbiotic algae. Bleaching is severe stress, not automatic mortality;
+  ocean acidification is a separate CO₂-driven reduction in pH and carbonate availability.
 - ✅ India's Blue Economy policy vision spans fisheries, shipping/ports, coastal tourism,
   offshore renewable energy and marine biotechnology.
-- ✅ **Reef forms:** fringing, barrier and atoll. India's reef areas are the Gulf of Mannar,
-  Gulf of Kachchh, Lakshadweep (atolls) and the Andaman and Nicobar Islands.
+- ✅ **Biorock/mineral accretion** passes a low-voltage direct current through a submerged
+  metal structure so minerals precipitate on it and provide a substrate for coral
+  restoration. Evidence is site- and method-dependent; it does not remove heat,
+  acidification, sediment or pollution stress.
 - ✅ **Seawater intrusion** into coastal aquifers is driven primarily by **groundwater
   over-extraction**, not by sea-level rise alone — the causal ordering matters in an answer.
 - ✅ The **BBNJ ("High Seas") Agreement, 2023** is an implementing agreement under **UNCLOS**
   covering marine genetic resources, area-based management tools (including high-seas MPAs),
-  EIAs and capacity-building beyond national jurisdiction.
+  EIAs and capacity-building beyond national jurisdiction. It entered into force on
+  17 January 2026; India remained a signatory but not a Party on 5 October 2026.
 - ✅ The **EEZ extends to 200 nautical miles**; CRZ-IV, by contrast, covers the water area
   from the Low Tide Line up to **12 nautical miles** and tidally influenced water bodies.
 - ✅ **MISHTI** targets restoration of about **540 sq km of mangroves across 9 coastal States
   and 4 UTs over 2023-2028**, with an estimated carbon sink of 4.5 million tonnes and around
   22.8 million person-days of employment; the **National Coastal Mission** and **NPCA**
   complete India's coastal-resilience architecture (Economic Survey 2025-26, Ch. 10).
+- ✅ The **Deep Ocean Mission** is implemented by the Ministry of Earth Sciences;
+  **Samudrayaan** is a project under it and **Matsya-6000** is designed for a crew of three.
 
 ## 7. UPSC traps
 
 - ❌ CRZ-I is the least protected coastal zone category. -> It is the most strictly
   protected category, covering ecologically sensitive areas and the inter-tidal zone.
-- ❌ The 2019 CRZ Notification increased No Development Zone distances compared to 2011. ->
-  It reduced them for CRZ-III areas, reflecting a development-facilitation shift.
+- ❌ Every CRZ-III coast received a 50-metre NDZ in 2019. -> The reduction is specific to
+  CRZ-IIIA and depends on approval of the revised 2019 CZMP; CRZ-IIIB remains at 200 metres.
 - ❌ CRZ-IV refers to a land-based coastal zone category like CRZ-I to III. -> It refers to
   the water area from the Low Tide Line to 12 nautical miles and tidal-influenced water
   bodies.
 - ❌ Coral bleaching is caused primarily by ocean pollution, unrelated to temperature. -> It
   is primarily caused by elevated sea-surface temperature stress, though pollution can be a
   compounding stressor.
+- ❌ Bleaching means the coral colony is already dead. -> Bleaching is loss of symbionts and
+  energy; mortality depends on the duration, severity and recurrence of stress.
+- ❌ Ocean acidification means seawater has become acidic. -> Average seawater remains
+  alkaline; "acidification" means its pH is falling and carbonate availability is declining.
+- ❌ Blue carbon means all carbon stored anywhere in the ocean. -> The routed UPSC concept is
+  operationally anchored in coastal ecosystems, especially mangroves, seagrasses and salt
+  marshes and their sediments.
 - ❌ Blue Economy refers to unrestricted extraction of ocean resources for maximum economic
   gain. -> It specifically refers to sustainable use of ocean resources balancing economic
   growth with ecosystem health.
@@ -176,7 +201,9 @@ coast.
 - ⚠️ Recurring Prelims pattern: correctly match CRZ-I through CRZ-IV to their defining
   characteristics and permitted-activity regime.
 - ⚠️ Mains linkage: the mangrove/coral-reef ecosystem-service framing is used to argue for
-  robust CRZ enforcement as a precondition for genuine Blue Economy sustainability.
+  robust CRZ enforcement as a safeguard for coastal and near-shore Blue Economy activity
+  within the notification's scope; fisheries, shipping and wider maritime zones retain their
+  own legal regimes.
 
 ## 10. Mains angles
 
@@ -190,7 +217,10 @@ coast.
   treating healthy coastal ecosystems as productive natural capital, not merely space to be
   developed.
 
-> **Answer thesis:** Treat CRZ regulation as the governance precondition for genuine Blue Economy sustainability, and evaluate any CRZ liberalisation or Blue Economy expansion by whether it preserves the ecosystem services (fisheries, storm protection, blue carbon) that both coastal communities and Blue Economy sectors ultimately depend on.
+> **Answer thesis:** Treat CRZ regulation as an essential safeguard for Blue Economy activity
+> within mapped coastal and near-shore space, while preserving separate fisheries, shipping
+> and maritime-zone regimes; evaluate expansion by whether it maintains the ecosystem services
+> and access rights on which coastal communities and blue sectors depend.
 
 ## 11. Probable questions
 
@@ -210,6 +240,20 @@ coast.
   bleaching and sea-level rise.
 - ✅ Geography companion: `Geography/basic/11_Islands-and-Coral-Reefs.md` — the physical-
   geography basis of coral-reef formation.
+
+### Persistent source control for repaired facts
+
+- CRZ Notification 2019 with amendments through 24 November 2022, Government of Kerala
+  official compilation:
+  <https://envt.kerala.gov.in/wp-content/uploads/2025/03/CRZ-Notification-2019_with-Amendments_19.pdf>.
+- UN BBNJ Agreement status and entry into force:
+  <https://www.un.org/bbnjagreement/en>.
+- NOAA blue-carbon definition and permanence/reversal caution:
+  <https://www.climate.gov/news-features/understanding-climate/understanding-blue-carbon>.
+- UNEP blue-carbon ecosystems:
+  <https://www.unep.org/explore-topics/oceans-seas/what-we-do/protecting-restoring-blue-carbon-ecosystems>.
+- Mineral Accretion Technique evidence review, PLOS ONE (2024), article e0315475:
+  <https://doi.org/10.1371/journal.pone.0315475>.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -288,7 +332,9 @@ Use `ecosystem service → pressure → legal/institutional response → livelih
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The repository routing ledger records the 2018-2023 objective-key
+> status as **not available** for this integration. No option, truth set or answer is
+> recorded or inferred.
 
 - **Years represented:** 2018, 2019, 2021, 2022, 2023
 - **Paper(s):** GS-I, GS-III, Prelims GS-I
@@ -299,9 +345,9 @@ Use `ecosystem service → pressure → legal/institutional response → livelih
 | 2018 | GS-I | 7 | Consequences of spreading marine dead zones | What are the consequences · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | GS-I | 5 | Causes of mangrove depletion and their coastal ecology role | Discuss and explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2019 | GS-III | 7 | Coastal sand mining threats and impacts on Indian coasts | Analyse · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2021 | Prelims GS-I | 19 | Blue carbon and coastal ecosystem carbon capture | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2021 | Prelims GS-I | 19 | Blue carbon and coastal ecosystem carbon capture | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2022 | GS-III | 18 | Causes effects and management techniques for coastal erosion India | Explain · 15 marks · 250 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2022 | Prelims GS-I | 49 | Biorock technology application in coral reef restoration | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2022 | Prelims GS-I | 49 | Biorock technology application in coral reef restoration | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
 | 2023 | GS-III | 8 | Oil pollution impacts on marine ecosystem and India vulnerability | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 
 ### What this owner must now support

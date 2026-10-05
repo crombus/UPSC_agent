@@ -767,6 +767,9 @@ alone.
   → Statutory agricultural-income conditions apply.
 - ❌ High milk/fish production proves high producer income.  
   → Cost, mortality, price, spoilage, debt and market share determine net income.
+- ❌ FAO's Four Betters and Blue Transformation's three objectives are interchangeable lists.
+  → The Four Betters are the organisation-wide Strategic Framework; Blue Transformation is an
+  aquatic-food programme priority operating within that wider framework.
 
 ## 23. Generic Mains answer engine
 
@@ -807,6 +810,9 @@ S  Schemes, standards and state capacity
 - Poultry/dairy/wool income is not automatically agricultural income for tax.
 - Manure/poultry litter can emit ammonia/nitrous oxide; ruminants also emit methane.
 - Disease control is a private-productivity and public One Health investment.
+- FAO Four Betters = better production + better nutrition + a better environment + a better life.
+- Blue Transformation's three aquatic-food objectives are distinct from, but nested within,
+  the wider Four Betters framework.
 
 ## 25. Sources and study links
 
@@ -820,6 +826,8 @@ S  Schemes, standards and state capacity
 - [Livestock Health and Disease Control](https://dahd.gov.in/en/schemes-programmes/lh-dc)
 - [NDDB — Operation Flood](https://www.nddb.coop/about/genesis/flood)
 - [Department of Fisheries schemes](https://www.dof.gov.in/offerings)
+- [FAO Strategic Framework 2022-31 and the Four Betters](https://www.fao.org/strategic-framework/en)
+- [FAO Blue Transformation](https://www.fao.org/blue-transformation/en/)
 - [Income Tax Department — agricultural income](https://incometaxindia.gov.in/w/farmer-1)
 - [FSSAI regulations and dairy-testing references](https://www.fssai.gov.in/cms/food-safety-and-standards-regulations.php)
 
@@ -882,6 +890,39 @@ S  Schemes, standards and state capacity
 - ✅ It frames aquatic foods as central to food security, nutrition and the SDGs (notably
   SDG 2 hunger, SDG 14 life below water and SDG 1 poverty), not as a fisheries-only technical
   document.
+
+### 27.1A Four Betters — independent FAO doctrine
+
+The **Four Betters** are the overarching organising aspirations of the **FAO Strategic
+Framework 2022-31**:
+
+| Four Better | Exact exam wording | Function |
+|---|---|---|
+| 1 | **Better production** | efficient, inclusive, resilient and sustainable agrifood production |
+| 2 | **Better nutrition** | food security, healthy diets and reduced malnutrition |
+| 3 | **A better environment** | sustainable resource use, ecosystem protection and climate response |
+| 4 | **A better life** | inclusion, reduced inequality, resilient livelihoods and leaving no one behind |
+
+**Ownership and hierarchy firewall:**
+
+```text
+FAO Strategic Framework 2022-31
+        |
+        +-> Four Betters = organisation-wide systems lens
+        |
+        `-> Blue Transformation = Programme Priority Area under Better Production
+                |
+                +-> sustainable aquaculture expansion
+                +-> effective fisheries management
+                `-> upgraded aquatic value chains
+```
+
+- ⚠️ Do not collapse the two taxonomies: the **Four Betters are four strategic aspirations**;
+  Blue Transformation has **three aquatic-food objectives**.
+
+> **Objective-question firewall:** the exact FAO terminology is taught as independent
+> doctrine. The locally held 2026 key is provisional, so this owner does not map the doctrine
+> to an option, identify a combination or infer a final answer.
 
 ### 27.2 Relevance to this file's syllabus scope
 
@@ -966,10 +1007,11 @@ rather than eliminate, risk.**
 aquaculture economics, evidenced by direct correspondence with this file's own framework.**
 - **Named evidence:** The three Blue Transformation objectives (§27.1) map onto capture-
   fisheries stock management, aquaculture growth and value-chain upgrading already taught in
-  §12.
-- **Significance:** Closes the declared 2026 Prelims routed demand (§ generated PYQ block)
-  without inventing detail, and gives an internationally framed answer opening for GS-II/III
-  "global governance of the blue economy" questions.
+  §12; the Four Betters (§27.1A) supply the wider FAO systems lens.
+- **Significance:** Supplies the exact FAO taxonomy without confusing it with the three Blue
+  Transformation objectives, while preserving answer neutrality for the provisionally keyed
+  objective item; it also gives an internationally framed opening for GS-II/III "global
+  governance of the blue economy" questions.
 - **Limitation/status-caution:** A roadmap/vision statement, not a binding treaty; India's
   actual implementation runs through PMMSY and domestic institutions, not through FAO
   enforcement (§27.2).
@@ -1132,6 +1174,12 @@ Reasoned verdict + sequenced reform (§20) (3 lines)
 - **Mechanism, implementation and evidence control:** State species/product, unit, denominator, reference year and source; distinguish census from annual production series and announced, approved, operational and completed programme stages while analysing women, smallholders, biosecurity and ecology.
 - **✅ Verified current fact (official sources rechecked 5 September 2026):**
   Rechecked 6 September 2026 against the listed official publisher or regulator source. NDDB substantively confirmed Operation Flood's institutional history. DAHD pages were shells and the fisheries page was blocked, so the package imports no current livestock, milk, egg, meat, fish, export, income, census-release, scheme-coverage or disease-outcome figure. Sources: https://www.nddb.coop/about/genesis/flood; https://dahd.gov.in/en/schemes-programmes; https://dahd.gov.in/en/schemes/programmes/national_livestock_mission; https://www.dof.gov.in/offerings
+- **✅ FAO repaired-fact control (official sources rechecked 5 October 2026):**
+  FAO's Strategic Framework confirms the Four Betters as better production, better nutrition,
+  a better environment and a better life. FAO's Blue Transformation page separately confirms
+  the aquatic-food programme and its three objectives. Sources:
+  https://www.fao.org/strategic-framework/en;
+  https://www.fao.org/blue-transformation/en/
 - **⚠️ Analytical inference:** institutional design, allocation, a portal, a
   registration, a report, a training completion, a disposal count or a ranking
   can support a causal argument only after authority, capacity, incentives,

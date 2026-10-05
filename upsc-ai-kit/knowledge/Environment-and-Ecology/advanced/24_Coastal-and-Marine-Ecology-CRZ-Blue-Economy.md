@@ -12,8 +12,10 @@
 
 ⚠️ The advanced-level analytical requirement here is to characterise the 2019 CRZ
 Notification's liberalisation (relative to 2011) precisely and even-handedly. The shift —
-reduced No Development Zone distances, simplified clearance procedures for specified
-project categories, greater flexibility for coastal tourism infrastructure — was explicitly
+the conditional 50-metre seafront NDZ for densely populated CRZ-IIIA after revised-CZMP
+approval, the reduced tidal-water-body reach after plan transition, simplified clearance
+procedures for specified project categories, and greater flexibility for coastal tourism
+infrastructure — was explicitly
 justified on grounds of enabling coastal-state economic development, tourism-sector growth,
 and addressing long-standing complaints from coastal communities that the stricter 2011
 norms constrained even small-scale housing/livelihood construction. Critics counter that
@@ -26,17 +28,16 @@ an unambiguous regression.
 
 ## 2. Blue carbon: the underappreciated climate-mitigation dimension of coastal ecosystems
 
-1. ✅ Mangroves, seagrass meadows and salt marshes ("blue carbon" ecosystems) sequester and
-   store carbon at rates that, per unit area, can exceed many terrestrial forest ecosystems,
-   particularly in below-ground sediment carbon storage — making their conservation
-   directly relevant to climate-mitigation strategy, not solely biodiversity or coastal-
-   protection policy.
-2. ⚠️ **Analytical significance:** blue-carbon ecosystems are frequently under-accounted for
-   in national greenhouse-gas inventories and forest-carbon-sink targets (which have
-   historically focused on terrestrial forests, cross-refer Topic 20's LT-LEDS forestry
-   pathway) — meaning mangrove degradation represents both a biodiversity/coastal-protection
-   loss and an under-recognised carbon-emissions source, a nuance that strengthens the case
-   for integrating blue-carbon accounting into India's climate-mitigation strategy.
+1. ✅ Mangroves, seagrass meadows and salt marshes ("blue carbon" ecosystems) can hold large
+   carbon stocks, particularly in waterlogged sediments — making their conservation directly
+   relevant to climate-mitigation strategy, not solely biodiversity or coastal-protection
+   policy. Per-area comparisons with terrestrial forests depend on whether the measure is a
+   stock or annual flux, the depth and boundary used, habitat condition and study method.
+2. ⚠️ **Analytical significance:** blue-carbon extent, condition, sediment stocks and
+   disturbance emissions may be incompletely represented in climate accounts. Do not convert
+   that caution into the unsupported claim that India records no coastal carbon. Mangrove or
+   seagrass degradation can release stored carbon, so permanence and reversal risk are part
+   of the mitigation claim.
 3. ⚠️ Mangrove degradation for aquaculture (e.g., shrimp farming) or coastal infrastructure
    illustrates a direct economic-versus-blue-carbon trade-off, where short-term aquaculture/
    development revenue is weighed against long-term coastal-protection and carbon-storage
@@ -60,8 +61,10 @@ an unambiguous regression.
 
 ## 4. Institutional and governance complexity in coastal management
 
-- ✅ CRZ implementation requires coordination between MoEFCC/NCZMA (environmental clearance),
-  state Coastal Zone Management Authorities (local zonation/plan implementation), Ministry
+- ✅ CRZ implementation requires coordination between MoEFCC (notification, CZMP approval,
+  central oversight and specified central clearances), NCZMA (national advice and
+  coordination), State/UT Coastal Zone Management Authorities (mapped appraisal,
+  recommendations, delegated decisions, monitoring and enforcement), Ministry
   of Ports, Shipping and Waterways (port/shipping infrastructure), and state fisheries
   departments (fishing-community livelihood interests) — a genuinely multi-actor governance
   challenge given the coast's simultaneous ecological, economic and livelihood significance.
@@ -98,12 +101,12 @@ an unambiguous regression.
 
 ## 7. Must-Know Facts for Advanced Prelims
 
-- ✅ The 2019 CRZ Notification's reduced No Development Zone distances and simplified
-  clearance procedures reflect a deliberate development-facilitation policy shift from the
-  2011 Notification, with documented ecological/disaster-risk counter-arguments.
-- ✅ Blue-carbon ecosystems (mangroves, seagrass, salt marshes) can sequester carbon per
-  unit area at rates exceeding many terrestrial forests, particularly in below-ground
-  sediment storage, and are often under-accounted for in national carbon-sink inventories.
+- ✅ CRZ 2019 made a 50-metre seafront NDZ available to CRZ-IIIA only after revised-CZMP
+  approval; CRZ-IIIB retains 200 metres. This and the changed tidal-water-body reach and
+  specified clearance routes form a deliberate development-facilitation shift.
+- ✅ Blue-carbon ecosystems (mangroves, seagrass and salt marshes) can store substantial
+  carbon, particularly below ground. Quantitative forest comparisons and national-accounting
+  claims require an identified method, boundary, source year and reversal-risk treatment.
 - ✅ Coral reefs face a compounding dual stress from rising atmospheric CO₂ — sea-surface-
   temperature-driven bleaching and independently, ocean-acidification-driven reduced
   carbonate-ion availability for skeleton-building.
@@ -120,9 +123,10 @@ an unambiguous regression.
   direct mechanism. -> They are distinct but related stress mechanisms (temperature-driven
   symbiont expulsion versus acidification-driven reduced carbonate-ion availability), both
   ultimately linked to rising atmospheric CO₂.
-- ❌ Blue-carbon ecosystems are fully and comprehensively accounted for in India's national
-  greenhouse-gas inventory and forest-carbon-sink targets. -> They have historically been
-  under-accounted for relative to terrestrial forest carbon, a documented gap.
+- ❌ Blue-carbon ecosystems are either fully captured or wholly absent from India's climate
+  accounts. -> The defensible position is narrower: comprehensive, comparable accounting of
+  extent, condition, sediment carbon, disturbance emissions and permanence remains limited,
+  and any quantitative claim needs a named method and source.
 - ❌ Local marine protected areas alone can fully protect coral reefs from bleaching. ->
   Local measures reduce compounding local stress but cannot substitute for addressing the
   global climate drivers (temperature rise, acidification) of reef stress.
@@ -131,10 +135,10 @@ an unambiguous regression.
 
 | Verified current anchor | Topic-specific analytical use |
 |---|---|
-| 📰 CRZ Notification, 2019, remains the current governing framework (verify latest state Coastal Zone Management Plan approvals/amendments and their dates before citing specific implementation details). | Use as the current regulatory baseline while presenting the balanced development-versus-ecological-risk critique of its 2011-to-2019 liberalisation for full analytical depth. |
+| 📰 CRZ Notification, 2019, remained the current mainland framework on **5 October 2026**; the located national amendment sequence is S.O. 4886(E), 26 November 2021 and S.O. 5495(E), 24 November 2022. State/UT CZMP approval remains jurisdiction-specific. | Use as the current regulatory baseline while presenting the balanced development-versus-ecological-risk critique of its 2011-to-2019 liberalisation for full analytical depth. |
 | 📰 **MISHTI** (~540 sq km mangrove restoration, 9 coastal States + 4 UTs, 2023-2028; ~22.8 million person-days; ~4.5 Mt estimated carbon sink), **National Coastal Mission** and **NPCA** — the Survey's stated "integrated approach to coastal and marine resilience, linking ecosystem protection with livelihood security and climate adaptation" (Economic Survey 2025-26, Ch. 10). | The strongest available reframing: mangroves are being funded as **coastal defence infrastructure with a livelihood dividend**, not as a conservation cost. That turns the CRZ development-versus-conservation binary into a **which kind of coastal capital** question — grey (seawalls, embankments) versus green (mangrove, dune, reef). Examiners reward candidates who dissolve a false binary rather than balance it. |
-| ✅ **BBNJ ("High Seas") Agreement, 2023** under UNCLOS — covering marine genetic resources and benefit-sharing, area-based management tools including high-seas MPAs, EIA, and capacity-building/technology transfer beyond national jurisdiction. ⚠️ Verify India's signature/ratification status and entry into force before citing. | Completes the marine-governance map that a CRZ-only answer misses: **CRZ governs the coast, the EEZ governs 200 nm, and BBNJ governs beyond it**. It also mirrors the DSI/ABS fight from Topic 22 — marine genetic resources raise exactly the same benefit-sharing question as terrestrial ones. |
-| ✅ **Deep Ocean Mission (2021, Ministry of Earth Sciences)** — deep-sea mining technology, the *Matsya-6000* manned submersible under **Samudrayaan**, ocean climate-advisory services, deep-sea biodiversity, offshore energy and desalination. | The uncomfortable but examinable tension: India's flagship Blue-Economy science mission includes **deep-sea mineral exploration**, while the global scientific debate questions whether deep-sea mining can be conducted without irreversible loss of poorly understood benthic ecosystems. A top answer names the tension rather than presenting the Mission as unambiguously "green". |
+| ✅ **BBNJ ("High Seas") Agreement, 2023** under UNCLOS — entered into force on **17 January 2026**. India signed on **25 September 2024** but had not ratified by **5 October 2026**. | BBNJ governs biodiversity beyond national jurisdiction for its Parties. It does not extend CRZ or replace the separate UNCLOS Part XI/International Seabed Authority regime for mineral resources in "the Area". |
+| ✅ **Deep Ocean Mission (2021, Ministry of Earth Sciences)** — deep-sea mining technology, the *Matsya-6000* three-person submersible under **Samudrayaan**, ocean climate-advisory services, deep-sea biodiversity, offshore energy and desalination. | Scientific capability or an exploration contract is not ownership of deep-seabed minerals or permission for commercial exploitation. Beyond national jurisdiction, mineral activities are organised through the International Seabed Authority under UNCLOS Part XI. |
 
 ## 10. PYQ-based analytical application
 
@@ -184,6 +188,21 @@ cannot substitute for global climate mitigation.
   that could integrate blue-carbon accounting.
 - ✅ `26_Disaster-Management-Framework-and-Sendai.md` — coastal-erosion and cyclone-risk
   linkages relevant to CRZ buffer-distance debates.
+
+## 14. Persistent source control for repaired facts
+
+- CRZ Notification 2019 with amendments through 24 November 2022, Government of Kerala
+  official compilation:
+  <https://envt.kerala.gov.in/wp-content/uploads/2025/03/CRZ-Notification-2019_with-Amendments_19.pdf>.
+- NOAA blue-carbon synthesis:
+  <https://repository.library.noaa.gov/view/noaa/40456/noaa_40456_DS1.pdf>.
+- IPCC SROCC, including coastal blue-carbon and ocean-change assessment:
+  <https://www.ipcc.ch/srocc/>.
+- UN BBNJ Agreement status:
+  <https://www.un.org/bbnjagreement/en>.
+- UNCLOS Part XI, Articles 136-137, and the International Seabed Authority mandate:
+  <https://www.un.org/depts/los/convention_agreements/texts/unclos/part11-2.htm>;
+  <https://www.isa.org.jm/about-isa/>.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)

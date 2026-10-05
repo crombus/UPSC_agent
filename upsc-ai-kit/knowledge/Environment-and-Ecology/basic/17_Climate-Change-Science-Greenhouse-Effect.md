@@ -95,6 +95,44 @@ state precisely.
   glacier-fed river systems illustrate a direct, high-stakes Indian consequence of global
   warming.
 
+### 5.1 Small-island existence pathway — routed 2025 GS-I demand
+
+IPCC AR6 WG-II Chapter 15 and SROCC Chapter 4 treat small islands as a distinct risk setting.
+The answer is not simply "sea level rises, therefore islands drown":
+
+```text
+relative sea-level rise + waves/surge + reef/sediment change
+                         |
+       -----------------------------------------
+       |                 |                     |
+ chronic flooding    erosion/land loss   saline intrusion
+       |                 |                     |
+ infrastructure      settlement space     freshwater lens,
+ and services        and ecosystems       crops and sanitation
+       \_________________|_____________________/
+                         |
+       habitability, livelihoods, culture and sovereignty at risk
+```
+
+- ✅ **Named examples:** the **Maldives, Kiribati, Tuvalu and Marshall Islands** are
+  low-lying island-country examples used in small-island climate assessment and policy
+  discussion. Use them to illustrate pathways, not to claim that every island has the same
+  elevation, exposure or adaptation capacity.
+- ✅ **Freshwater before disappearance:** many coral islands depend on thin freshwater lenses.
+  Over-abstraction, drought, storm overwash and rising saline pressure can undermine water
+  security before permanent land loss.
+- ✅ **Reef-sediment connection:** reef islands are maintained partly by carbonate sediment.
+  Warming, bleaching and acidification can weaken sediment production and wave attenuation,
+  compounding sea-level risk.
+- ⚠️ **Existence means habitability as well as territory:** recurrent flooding, erosion,
+  contaminated water, damaged infrastructure, food insecurity, displacement and loss of
+  cultural sites can make continued settlement untenable before an island is physically
+  submerged.
+- ⚠️ **Qualification:** some reef islands can accrete, migrate or be raised and defended.
+  Avoid deterministic claims that every small island nation will disappear on one date.
+  Adaptation limits depend on emissions, local relative sea level, reef health, finance,
+  land availability and social choice.
+
 ## 6. Must-Know Facts for Prelims
 
 - ✅ The natural greenhouse effect keeps Earth's surface substantially warmer than it would
@@ -120,6 +158,10 @@ state precisely.
   and the Indo-Gangetic Plain.
 - ✅ GWP values are horizon-specific: quote **GWP-20** or **GWP-100** explicitly, never a bare
   "GWP".
+- ✅ Small-island climate risk operates through flooding, erosion, freshwater-lens
+  salinisation, reef/sediment decline and adaptation limits—not inundation alone.
+- ✅ Maldives, Kiribati, Tuvalu and Marshall Islands are usable named examples, but their
+  exposure and adaptation pathways are not identical.
 
 ## 7. UPSC traps
 
@@ -138,6 +180,8 @@ state precisely.
   the broader term encompassing warming plus its downstream weather-pattern effects.
 - ❌ Ocean acidification is caused by rising sea temperature alone. -> It is specifically
   caused by oceans absorbing atmospheric CO₂, forming carbonic acid.
+- ❌ Ocean acidification means the ocean has become acidic. -> Average seawater remains
+  alkaline; acidification means a decline in pH and carbonate-ion availability.
 - ❌ A "positive feedback" is a beneficial one. -> It means an **amplifying** feedback; the
   ice-albedo and permafrost-carbon feedbacks are positive and harmful.
 - ❌ All atmospheric particles warm the planet. -> Most **aerosols cool** it; black carbon is
@@ -145,6 +189,9 @@ state precisely.
 - ❌ Cutting methane and black carbon has the same effect as cutting CO₂. -> SLCF cuts deliver
   faster **near-term** temperature benefits, but only CO₂ reduction addresses the long-term,
   cumulative warming commitment.
+- ❌ Every island nation will simply vanish beneath a uniform global sea level. -> Local
+  relative sea level, reef and sediment condition, freshwater, extreme events, land form and
+  adaptation capacity determine habitability and territorial outcomes.
 
 ## 8. 📰 Current anchor
 
@@ -157,12 +204,18 @@ state precisely.
 depletes with ongoing emissions — always attribute it to its assessment baseline year
 (2020, per AR6) rather than treating it as a static, currently unchanged figure.
 
+- 📰 **Small-island control:** IPCC AR6 WG-II Chapter 15 and SROCC Chapter 4 remain the
+  authoritative assessment basis through 5 October 2026 for the island-habitability chain
+  used above.
+
 ## 9. PYQ application
 
 - ⚠️ Recurring Prelims pattern: identify the correct greenhouse gases, their relative
   potency (GWP) and atmospheric lifetime characteristics.
 - ⚠️ Mains linkage: the natural-versus-enhanced greenhouse-effect distinction is used to
   precisely frame climate-change causation in policy-analysis answers.
+- ✅ **2025 GS-I Q4:** organise the answer as sea-level mechanism → flooding/erosion →
+  freshwater and reef-sediment pathways → named island examples → adaptation and its limits.
 
 ## 10. Mains angles
 
@@ -196,6 +249,11 @@ depletes with ongoing emissions — always attribute it to its assessment baseli
   findings.
 - ✅ `19_UNFCCC-COP-Kyoto-Paris-Agreement.md` — the policy architecture responding to this
   science.
+- ✅ IPCC AR6 WG-II Chapter 15, *Small Islands*:
+  <https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-15/>.
+- ✅ IPCC SROCC Chapter 4, *Sea Level Rise and Implications for Low-Lying Islands, Coasts and
+  Communities*:
+  <https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/>.
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2024-2025 -->
 ## Recent PYQ Integration (2024-2025)
 
@@ -227,6 +285,9 @@ depletes with ongoing emissions — always attribute it to its assessment baseli
 
 - Separate the **natural greenhouse effect**, **anthropogenic forcing**, **event attribution** and **impact pathway**. Do not use a global average as a local causal verdict.
 - **Thesis:** climate policy must be gas-specific and time-sensitive: cut long-lived CO₂ for cumulative warming while also reducing short-lived forcers for near-term health and temperature gains.
+- **2025 island-nation thesis:** climate change threatens the existence of low-lying island
+  nations through declining **habitability**—flooding, erosion, freshwater salinisation,
+  reef/sediment loss and displacement—before or alongside permanent territorial submergence.
 
 ### 13.2 Reusable evidence units
 
@@ -234,11 +295,15 @@ depletes with ongoing emissions — always attribute it to its assessment baseli
 |---|---|---|
 | Warming is physical, not generic pollution. | **IPCC AR6 Synthesis Report (2023), ~1.1°C above pre-industrial** → links anthropogenic GHG forcing to observed warming. | It is a global assessment; do not downscale it into an India-specific temperature claim. |
 | CO₂ creates linked ocean and coastal risks. | **Ocean CO₂ uptake → carbonic acid → lower pH** plus thermal expansion/land-ice contribution to sea-level rise → connects climate science to island/coastal vulnerability. | Do not attribute a particular island flood or cyclone to climate change without event-specific attribution evidence. |
+| Small-island risk is compound. | **Maldives, Kiribati, Tuvalu and Marshall Islands** → low elevation, freshwater-lens dependence and concentrated coastal infrastructure convert modest relative rise and extremes into habitability risk. | Island responses differ; accretion, elevation, protection, migration and finance prevent a deterministic disappearance claim. |
 | Co-pollutant policy has a trade-off. | **Aerosol cooling versus black-carbon warming** → explains why clean-air policy brings health gains but cannot replace CO₂/methane mitigation. | “Positive feedback” means amplifying, not beneficial; aerosol effects vary by type and location. |
 
 ### 13.3 Mark-scaled spines
 
 - **10 marks:** shortwave–longwave mechanism, human enhancement and one named downstream pathway.
+- **2025 GS-I island demand, 10 marks:** define relative sea-level risk; use two named island
+  examples; explain flooding/erosion, freshwater and reef-sediment pathways; add adaptation
+  options and one limit; conclude with habitability rather than automatic disappearance.
 - **15/20 marks:** add GWP/lifetime distinction, feedbacks and attribution-confidence discipline; organise impacts under water, food, health, coasts and equity.
 - For a tropical food-security or island-nation demand, link heat/rainfall/sea-level mechanisms to crops, freshwater, infrastructure and displacement, then state adaptation limits and mitigation necessity rather than offering only a generic “resilience” conclusion.
 

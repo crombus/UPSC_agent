@@ -45,6 +45,18 @@
 | ✅ Dalmatian coast | Drowned ridges parallel to coast | Long islands/channels parallel to shore |
 | ✅ Emergent coast | Land uplift or sea-level fall | Raised beaches, straight cliffed coasts, deeper offshore water |
 
+### 4.1 Rann of Kachchh: saline-marsh classification and process
+
+- ✅ The **Great Rann of Kachchh** is an extensive seasonal saline marsh/mudflat occupying a
+  former shallow marine-gulf setting. Its present landscape records **relative marine
+  regression**, sediment infilling and tectonic movement, not one simple global eustatic event.
+- ⚠️ Do not generalise the stem into "sea-level fall alone created the Rann." Holocene sea-level
+  change interacted with fault movement, uplift/subsidence, river and tidal sedimentation,
+  aridity and events such as formation of the Allah Bund.
+- ⚠️ Classification must remain process-based: a natural saline marsh or mudflat, a mangrove
+  estuary, an engineered salt pan and another swamp/wetland are not interchangeable merely
+  because all may appear flat, wet or saline.
+
 ## 5. Must-Know Facts (Prelims) + traps
 
 - ✅ Erosional sequence: **cave → arch → stack → stump**.
@@ -53,6 +65,8 @@
 - ✅ Tombolo ties an island to the mainland.
 - ✅ Submergent: **ria = drowned river valley**, **fjord = drowned glacial trough**, **Dalmatian = drowned parallel ridges**.
 - ✅ Emergent coast produces raised beaches and straight cliffed coasts.
+- ✅ Rann of Kachchh = extensive seasonal saline marsh in a former shallow marine setting;
+  relative sea-level change, tectonics and sedimentation interacted in its evolution.
 
 > 🔑 Trap: A **fjord** is not a drowned river valley; it is a drowned **glacial trough**. A drowned river valley is a **ria**.
 
@@ -63,6 +77,8 @@
 - ❌ Lagoon is always freshwater → Coastal lagoons may be **brackish** because of sea-water and river-water mixing.
 - ❌ Bars and spits are erosional → They are **depositional** landforms.
 - ❌ Emergent and submergent coasts are wave-energy classes → They are based on **relative land/sea-level change**.
+- ❌ The Rann proves that eustatic sea-level fall acting alone creates every saline marsh. →
+  Kachchh requires a combined relative-sea-level, tectonic, sedimentary and climatic explanation.
 
 ## 6. 📰 Current link
 
@@ -99,6 +115,12 @@ either coast as uniformly emergent or submergent.
 
 Geography → Physical → Coastal Landforms (G.C. Leong; Majid Husain)  
 Geography → Coasts → Coastal Erosion (applied CA)
+
+**Authoritative source for the repaired Rann statement:** Srivastava et al.,
+*Journal of Maps* (2023), "Extremely fast Holocene coastal landscape evolution in the
+Kachchh Upland", <https://doi.org/10.1080/17445647.2023.2167617>; background synthesis,
+*Landscapes and Landforms of India*, chapter "The Great Rann of Kachchh",
+<https://link.springer.com/content/pdf/10.1007/978-94-017-8029-2_25.pdf>.
 
 ## 9. Sea-level change and the retreating coast
 
@@ -247,7 +269,8 @@ Geography → Coasts → Coastal Erosion (applied CA)
 
 > **Status:** Question-level PYQ demand is integrated into this owner.
 > **Provenance:** Audited local official-paper routing ledgers: `_PYQ-ROUTING-PRELIMS-2018-2023.md`.
-> **Answer-key rule:** The official 2018-2023 Prelims/CSAT keys are not held locally; no option or answer has been inferred.
+> **Answer-key rule:** The repository routing ledger records the 2023 Prelims key status as
+> **not available** for this integration. No choice or answer is selected or inferred here.
 
 - **Years represented:** 2023
 - **Paper(s):** Prelims GS-I
@@ -255,7 +278,7 @@ Geography → Coasts → Coastal Erosion (applied CA)
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2023 | Prelims GS-I | 5 | Repeated sea level changes forming extensive marshlands | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 5 | Repeated sea level changes forming extensive marshlands | Objective question; key status `not available` | Routed; no answer inferred | Cover the named fact/concept and its likely statement-level distinctions. |
 
 ### What this owner must now support
 
@@ -282,7 +305,7 @@ Geography → Coasts → Coastal Erosion (applied CA)
   universal coast label or substitute for a site map.
 - **Date/status control:** NCCR's 33.6 percent eroding, 26.9 percent accreting
   and 39.6 percent stable classes refer to the analysed 1990-2018 mainland
-  coastline and are not annual rates. CRZ Notification 2019 is S.O. 37(E)
+  coastline and are not annual rates. CRZ Notification 2019 is G.S.R. 37(E)
   dated 18 January 2019; amendments, CZMP approval, appraisal, clearance and
   compliance remain distinct dated legal states.
 - **Terminology control:** shoreline differs from coast and legal HTL; erosion
@@ -297,8 +320,9 @@ Geography → Coasts → Coastal Erosion (applied CA)
   Topic 09 owns lakes/wetlands; Topic 11 owns islands and coral reefs; Disaster
   Management owns warning/evacuation depth; Environment owns marine ecology.
   Topic 10 owns coastal landforms, sediment-cell reasoning and CRZ application.
-- **Verified PYQ ownership, 2018-2026:** the direct route is the 2023 GS-I
-  coastline resource-potential and natural-hazard preparedness demand.
+- **Verified PYQ ownership, 2018-2026:** direct routes are the 2023 Prelims
+  Rann/marshland geomorphology demand and the 2023 GS-I coastline
+  resource-potential and natural-hazard preparedness demand.
   Mangrove, blue-carbon, coral and tsunami questions remain with their routed
   Environment, island or Disaster Management owners; no direct CRZ PYQ or
   objective key is invented.
