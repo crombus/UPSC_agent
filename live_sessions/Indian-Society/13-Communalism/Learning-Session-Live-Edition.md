@@ -153,13 +153,29 @@ Members of one religious community differ by:
 
 The communal claim suppresses these cross-cutting interests by presenting the community as one actor.
 
-### 5. Example and limit
+### 5. 2017 direct PYQ: religiosity versus communalism
+
+> **2017, GS-I, Q19 — 15 marks, 250 words:** “Distinguish between religiousness/religiosity and communalism giving one example of how the former has got transformed into the latter in independent India.”
+
+Religiosity concerns faith, ritual, ethics or worship; communalism converts religious identity into a political claim of homogeneous and opposed community interests. The transformation requires mechanisms such as exclusive framing, organisation, symbolic mobilisation, competition and weak institutional mediation. Intensity of belief alone is not the cause.
+
+An independent-India illustration must identify a bounded transformation chain without blaming believers collectively:
+
+```text
+religious symbol or practice
+        -> exclusive political claim
+        -> organisation and mobilisation
+        -> opposed community interests
+        -> polarisation or violence under enabling conditions
+```
+
+### 6. Example and limit
 
 Suppose residents of several faiths seek better municipal water. This is a shared civic interest. If an organiser reframes unequal water access as proof that one religion’s permanent interest conflicts with another’s, a communal interpretation has been introduced.
 
 The illustration does not prove that every religiously expressed grievance is communal. A faith group may legitimately report discrimination and seek equal rights. The test is whether the claim seeks equal citizenship or constructs another community as an inherently opposed bloc.
 
-### 6. Strongest objection, reply and residual
+### 7. Boundary stress test: faith, fear and political framing
 
 **Objection:** Defining communalism as ideology underestimates genuine religious attachment and historical fear.
 
@@ -167,7 +183,7 @@ The illustration does not prove that every religiously expressed grievance is co
 
 **Residual issue:** The boundary can be contested. Analysts must identify the words, organisation, target and demanded outcome rather than label a community or grievance casually.
 
-## UPSC application
+## Deploying the definition in an answer
 
 Open every communalism answer by drawing the boundary:
 
@@ -178,7 +194,7 @@ religion ≠ prejudice ≠ discrimination ≠ communal ideology
 
 Then identify the stage of the opposed-interest claim and the mechanism that converts it into action.
 
-## Revision notes
+## Boundary recall sheet
 
 1. Religion and communalism are not synonyms.
 2. Communalism concerns political-social construction of religious community interests.
@@ -298,7 +314,7 @@ A majority organisation demanding that minority citizenship depend on cultural c
 
 The example does not justify assigning guilt to every member of either religion. Analysis concerns organisations, claims and power.
 
-### 7. Strongest objection, reply and residual
+### 7. Asymmetry challenge: explanation without excuse
 
 **Objection:** Emphasising asymmetry excuses communalism by less powerful groups.
 
@@ -306,11 +322,11 @@ The example does not justify assigning guilt to every member of either religion.
 
 **Residual issue:** Power varies by scale. A national minority may be locally dominant, and a national majority may be locally insecure. Specify the arena.
 
-## UPSC application
+## Classification use in Mains
 
 Use a four-column mental table: **form → claim → power position → citizenship effect**. Avoid moral arithmetic detached from institutional capacity.
 
-## Revision notes
+## Typology retrieval points
 
 1. Majority, minority and separatist communalism are a heuristic typology.
 2. The categories describe mobilisation, not every believer.
@@ -422,7 +438,7 @@ Suppose two religious communities live in a town:
 
 Together they explain attachment, agency and social production.
 
-### 5. Strongest objection, reply and residual
+### 5. Theory stress test: avoiding an unfalsifiable blend
 
 **Objection:** Combining all three theories makes the explanation unfalsifiable.
 
@@ -430,7 +446,7 @@ Together they explain attachment, agency and social production.
 
 **Residual issue:** Evidence about motive is difficult. Public claims, organisational behaviour and institutional effects should be distinguished from assumed private intention.
 
-## UPSC application
+## Selecting theory under exam pressure
 
 Use the triad:
 
@@ -440,7 +456,7 @@ attachment -> activation -> construction
 
 Then state which evidence supports each step and reject any leap from attachment to inevitable conflict.
 
-## Revision notes
+## Theory comparison recap
 
 1. Primordialism explains depth and durability of identity.
 2. It must not become a theory of natural hostility.
@@ -553,7 +569,7 @@ This historical support question is relevant here only because it tests the inst
 
 Separate electorates made religion legally relevant to political representation. The example establishes institutional incentive, not a claim that all community leaders or voters held identical views.
 
-### 7. Strongest objection, reply and residual
+### 7. Historical responsibility test
 
 **Objection:** A colonial-institution explanation shifts responsibility entirely away from Indian political actors.
 
@@ -561,7 +577,7 @@ Separate electorates made religion legally relevant to political representation.
 
 **Residual issue:** The relative weight of colonial design, elite agency and social competition varied by period and region. Avoid a universal proportion.
 
-## UPSC application
+## Building a bounded history paragraph
 
 For a historical mechanism paragraph:
 
@@ -572,7 +588,7 @@ institution -> incentive -> organisation -> boundary hardening
 
 Do not turn “colonial legacy” into a complete contemporary explanation.
 
-## Revision notes
+## Colonial-mechanism recall
 
 1. Bipan Chandra treats communalism as a modern political ideology.
 2. Colonial enumeration made community categories administratively salient.
@@ -702,7 +718,7 @@ A competition over municipal representation may be communalised if leaders claim
 
 It does not prove that voters accept the claim or that religion is the original cause of the municipal dispute.
 
-### 7. Strongest objection, reply and residual
+### 7. Elite-agency challenge
 
 **Objection:** The power-struggle explanation treats communities as puppets of elites.
 
@@ -710,11 +726,11 @@ It does not prove that voters accept the claim or that religion is the original 
 
 **Residual issue:** Leadership, follower agency and institutional opportunity must all be evidenced; none should be assumed from the outcome.
 
-## UPSC application
+## Writing the power mechanism
 
 Power-struggle paragraphs should identify **the office or resource, the organiser, the communal frame and the institutional opportunity**.
 
-## Revision notes
+## Power-channel recap
 
 1. Power extends beyond electoral office.
 2. Representation, resources and public symbols can be contested.
@@ -839,7 +855,7 @@ If graduates from one community believe that another community receives unfair a
 
 The example demonstrates a grievance mechanism, not the truth of the allegation or inevitability of conflict.
 
-### 7. Strongest objection, reply and residual
+### 7. Subjectivity challenge: when perception becomes evidence
 
 **Objection:** Relative deprivation is too subjective to explain politics.
 
@@ -847,7 +863,7 @@ The example demonstrates a grievance mechanism, not the truth of the allegation 
 
 **Residual issue:** Narratives can reshape the reference group itself. Actors may strategically direct comparison toward a religious rival.
 
-## UPSC application
+## Converting deprivation into an answer chain
 
 Always write:
 
@@ -859,7 +875,7 @@ perceived gap -> grievance
 
 Never write “poverty causes communalism.”
 
-## Revision notes
+## Deprivation retrieval notes
 
 1. Absolute deprivation is a low level of resources or opportunity.
 2. Relative deprivation is a perceived unfair comparative gap.
@@ -982,7 +998,7 @@ Imagine a group perceiving under-representation in a municipal body. A political
 
 This hypothetical illustrates mechanism, not evidence about a real community or locality.
 
-### 6. Strongest objection, reply and residual
+### 6. Either-or challenge and integrated reply
 
 **Objection:** An interaction thesis avoids choosing between the two explanations demanded by the question.
 
@@ -990,7 +1006,7 @@ This hypothetical illustrates mechanism, not evidence about a real community or 
 
 **Residual issue:** Some cases may be driven predominantly by one mechanism. The interaction thesis must remain open to local evidence.
 
-## UPSC application
+## Structuring the 2018 argument
 
 Use two columns, then a bridge:
 
@@ -1001,7 +1017,7 @@ actor/incentive | grievance/reference gap
       framing + organisation
 ```
 
-## Revision notes
+## Interaction-model recap
 
 1. Power struggle and relative deprivation are distinct.
 2. Power struggle concerns office, resources, status and control.
@@ -1146,7 +1162,7 @@ An urban market may bring traders and workers of several communities into cooper
 
 The illustration shows mediation, not a national economic trend.
 
-### 7. Strongest objection, reply and residual
+### 7. Material-reduction challenge
 
 **Objection:** Economic explanations reduce communalism to material self-interest and ignore ideology.
 
@@ -1154,7 +1170,7 @@ The illustration shows mediation, not a national economic trend.
 
 **Residual issue:** The same reform can have different local effects. National aggregates cannot establish a local communal mechanism.
 
-## UPSC application
+## Deploying the post-liberal pathways
 
 Use:
 
@@ -1164,7 +1180,7 @@ economic change -> differentiated outcome -> local comparison
                 -> communal or integrative result
 ```
 
-## Revision notes
+## Economy-identity recall
 
 1. Post-liberal economy refers to transformations associated with reforms after 1991.
 2. Outcomes differ by skill, class, region and locality.
@@ -1303,7 +1319,7 @@ A linguistic minority seeking education in its language is an ethnic-recognition
 
 The categories can overlap in actual cases; classification depends on the organising claim, not a single identity label.
 
-### 7. Strongest objection, reply and residual
+### 7. Overlap challenge: ethnicity without conceptual collapse
 
 **Objection:** Distinguishing ethnicity from communalism is artificial because religious communities often possess ethnic features.
 
@@ -1311,11 +1327,11 @@ The categories can overlap in actual cases; classification depends on the organi
 
 **Residual issue:** Identity labels change across time and scale. Evidence should show which boundary was salient in the specific context.
 
-## UPSC application
+## Using the ethnic distinction in Q20
 
 For the 2023 demand, define ethnic identity first, then show why economic change can strengthen identity without necessarily producing communalism.
 
-## Revision notes
+## Ethnicity and communalism recap
 
 1. Ethnicity can involve ancestry, language, territory, culture and memory.
 2. Religion may be one ethnic marker.
@@ -1435,7 +1451,7 @@ A segregated locality with strong stereotypes but no trigger or mobilisation dem
 
 The example prevents structural analysis from becoming prediction.
 
-### 7. Strongest objection, reply and residual
+### 7. Stigma challenge: risk is not destiny
 
 **Objection:** Structural-risk lists can stigmatise mixed or segregated localities as “communal.”
 
@@ -1443,11 +1459,11 @@ The example prevents structural analysis from becoming prediction.
 
 **Residual issue:** The same condition can have different meanings. Dense community networks may enable exclusion or trusted mediation.
 
-## UPSC application
+## Ordering structure before trigger
 
 Write a structure paragraph before the trigger paragraph. Ask what made a local incident interpretable as a group threat.
 
-## Revision notes
+## Structural-risk retrieval notes
 
 1. Structural causes precede a proximate trigger.
 2. Structure creates susceptibility, not destiny.
@@ -1580,7 +1596,7 @@ A personal altercation may be recirculated as a planned attack by an entire comm
 
 The hypothetical does not imply that all disputed claims are false. Verification must remain open to genuine wrongdoing.
 
-### 7. Strongest objection, reply and residual
+### 7. Grievance challenge: misinformation without depoliticisation
 
 **Objection:** Focusing on misinformation depoliticises real grievances.
 
@@ -1588,11 +1604,11 @@ The hypothetical does not imply that all disputed claims are false. Verification
 
 **Residual issue:** Correction can fail when institutions lack credibility. Long-term trust repair is therefore necessary.
 
-## UPSC application
+## Tracing timing, feedback and interruption
 
 Use the trigger as the starting point for timing, then move backward to structure and forward to institutional response.
 
-## Revision notes
+## Rumour-loop recap
 
 1. A trigger explains timing, not full causation.
 2. Rumour converts uncertainty into a group-threat story.
@@ -1728,7 +1744,7 @@ Schools, municipal services, markets, local associations and elected bodies shap
 
 Prompt protection and transparent investigation after a local incident may prevent escalation. That does not prove deep reconciliation; residential segregation or unequal service access may persist.
 
-### 8. Strongest objection, reply and residual
+### 8. Impartiality challenge: claims versus observable conduct
 
 **Objection:** “Impartiality” is an abstract ideal that every institution claims.
 
@@ -1736,7 +1752,7 @@ Prompt protection and transparent investigation after a local incident may preve
 
 **Residual issue:** Equal procedure may still produce unequal outcomes where vulnerability differs. Impartiality may require proportionate protection, not identical deployment.
 
-## UPSC application
+## Writing the institutional response chain
 
 Replace “strict action” with an institutional chain:
 
@@ -1744,7 +1760,7 @@ Replace “strict action” with an institutional chain:
 verify -> protect -> investigate -> remedy -> review -> rebuild contact
 ```
 
-## Revision notes
+## Trust-repair retrieval notes
 
 1. Institutional presence is not institutional impartiality.
 2. Impartiality must be visible in comparable treatment.
@@ -1869,7 +1885,7 @@ A school where students cooperate in mixed teams under fair rules can create ind
 
 One institution cannot prove wider harmony, and formal mixing may conceal bullying or unequal voice.
 
-### 7. Strongest objection, reply and residual
+### 7. Contact challenge: coexistence under unequal power
 
 **Objection:** Contact approaches place the burden on ordinary citizens while ignoring power and discrimination.
 
@@ -1877,7 +1893,7 @@ One institution cannot prove wider harmony, and formal mixing may conceal bullyi
 
 **Residual issue:** Deep segregation can make initial contact difficult. Trusted intermediaries and low-risk common tasks may be necessary.
 
-## UPSC application
+## Using everyday secularism as prevention
 
 Use everyday secularism as the preventive counterpart to communal mobilisation:
 
@@ -1886,7 +1902,7 @@ communal frame homogenises groups
 everyday contact individuates persons and multiplies shared interests
 ```
 
-## Revision notes
+## Contact and coexistence recap
 
 1. Everyday secularism concerns lived equal participation.
 2. Absence of violence is an insufficient measure.
@@ -1930,11 +1946,11 @@ Hence contact complements rather than replaces protection, redistribution, accou
 
 ## Lesson 14 — Communalism, regionalism and unity-in-diversity
 
-Progress: 14 / 16 | Stage: Core | Subtopic: Religious and territorial mobilisation, interaction and the provisional 2026 supporting PYQ
+Progress: 14 / 16 | Stage: Core | Subtopic: Religious and territorial mobilisation, interaction and the verified 2026 supporting PYQ
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Unity-in-diversity, regionalism and cross-cutting identity distinctions were checked
-CA search: Not run — the 2026 question is treated provisionally without a current-affairs claim
+CA search: Not run — the official-paper verified 2026 question is a PYQ linkage, not a current-affairs claim
 CA found: None used
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -2005,11 +2021,11 @@ Communalism weakens unity by:
 
 Regionalism challenges unity only when claims deny equal belonging or reject constitutional coexistence; many regional demands can deepen integration through accommodation.
 
-### 6. Provisional 2026 supporting PYQ
+### 6. Official-paper verified 2026 supporting PYQ
 
-> **Provisional 2026, GS-I, Question 8 — 10 marks, 150 words:** “Unity in diversity remains the defining feature of Indian society despite the challenges from communalism and regionalism. Comment.”
+> **2026, GS-I, Question 8 — 10 marks, 150 words:** “Unity in diversity remains the defining feature of Indian society despite the challenges from communalism and regionalism. Comment.”
 
-The official paper scan is unavailable here, so the wording remains provisional.
+The wording and metadata are verified against the official local GS-I paper, SHA-256 `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601`.
 
 **Demand:** “Comment” requires a clear position, compact evidence and qualification.
 
@@ -2017,7 +2033,7 @@ The official paper scan is unavailable here, so the wording remains provisional.
 
 No solved PYQ answer is supplied.
 
-### 7. Strongest objection, reply and residual
+### 7. Unity challenge: aspiration without romanticism
 
 **Objection:** “Unity-in-diversity” romanticises harmony and hides exclusion.
 
@@ -2025,11 +2041,11 @@ No solved PYQ answer is supplied.
 
 **Residual issue:** National cohesion can coexist with local exclusion. Analysis needs more than symbolic national unity.
 
-## UPSC application
+## Comparing communal and regional mobilisation
 
 Do not write “communalism and regionalism are divisive forces” and stop. Distinguish their identity bases, democratic forms and matching responses.
 
-## Revision notes
+## Unity-in-diversity retrieval notes
 
 1. Communalism organises religious opposed interests.
 2. Regionalism organises territorial identity or interests.
@@ -2043,7 +2059,7 @@ Do not write “communalism and regionalism are divisive forces” and stop. Dis
 10. Equal citizenship and accommodation are central.
 11. Communalism makes belonging conditional.
 12. Democratic regional accommodation can deepen integration.
-13. The 2026 supporting wording remains provisional; “Comment” requires a thesis and qualification.
+13. The 2026 supporting wording is official-paper verified; “Comment” requires a thesis and qualification.
 14. National integration is constitutional-institutional membership; communal harmony is everyday social trust and coexistence.
 15. Neither automatically guarantees the other.
 
@@ -2170,7 +2186,7 @@ Communal incident or casualty counts require:
 
 No such statistic is needed for this session’s causal teaching. Unsupported precision would weaken rather than strengthen an answer.
 
-### 7. Strongest objection, reply and residual
+### 7. Procedure challenge: legal precision without losing sociology
 
 **Objection:** Legal status and evidence cautions make the answer too procedural.
 
@@ -2178,7 +2194,7 @@ No such statistic is needed for this session’s causal teaching. Unsupported pr
 
 **Residual issue:** Official records can be incomplete or delayed. State the limitation and avoid filling the gap with assertion.
 
-## UPSC application
+## Bounded use of law and institutional status
 
 Use legal material in one bounded paragraph:
 
@@ -2188,7 +2204,7 @@ rule/status -> social purpose -> objection -> no outcome inference
 
 Use NIC as an institutional example with its exact advisory status, 2013 latest located meeting and no formal-abolition claim.
 
-## Revision notes
+## Evidence-status recall
 
 1. Places of Worship Act baseline: 15 August 1947.
 2. Ayodhya is excluded.
@@ -2298,7 +2314,7 @@ Use:
 5. local mediation and evidence caution;
 6. conditional verdict.
 
-### 4. Provisional 2026 supporting architecture
+### 4. Verified 2026 supporting architecture
 
 > “Unity in diversity remains the defining feature of Indian society despite the challenges from communalism and regionalism. Comment.”
 
@@ -2311,7 +2327,7 @@ Use:
 5. accommodation and equality;
 6. compact qualification.
 
-The official scan is unavailable here, so the wording remains provisional.
+The official local GS-I paper controls the wording and directive.
 
 ### 5. Mark scaling
 
@@ -2344,7 +2360,7 @@ Avoid “all religions must live in harmony.” Prefer:
 
 > Communalism is a contingent conversion of identity and grievance into antagonistic mobilisation. Prevention requires credible non-communal remedies, impartial institutions and everyday cross-cutting citizenship.
 
-### 8. Strongest objection, reply and residual
+### 8. Formula challenge: spine without canned prose
 
 **Objection:** A fixed answer spine produces formulaic responses.
 
@@ -2352,11 +2368,11 @@ Avoid “all religions must live in harmony.” Prefer:
 
 **Residual issue:** Under time pressure, candidates may overfill history or current affairs. Directive fidelity should decide what is omitted.
 
-## UPSC application
+## Final answer-planning routine
 
 Before writing, circle the directive, scope and comparison word. Then allocate each paragraph to a causal task.
 
-## Revision notes
+## Directive and architecture recap
 
 1. “Argue” requires a thesis.
 2. “Discuss impact” requires multiple pathways.
@@ -2372,7 +2388,7 @@ Before writing, circle the directive, scope and comparison word. Then allocate e
 12. Fifteen markers need multidimensional analysis.
 13. Twenty markers need integration, not repetition.
 14. Conclusions must reject inevitability and collective blame.
-15. Provisional wording must remain labelled.
+15. Official wording and directive must remain distinct from analytical paraphrase.
 
 ### Concept check
 
@@ -2402,7 +2418,16 @@ Communalism is preventable mobilisation, never a trait of a faith; responsibilit
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The questions below remain answer-neutral. Direct-question wording is preserved; 2026 material is explicitly provisional because the cited official scans were unavailable for verification. Only demand and approach are added—never a solved PYQ answer or objective key.
+The questions below remain answer-neutral. Direct-question wording is preserved from official local papers where listed. The 2026 Mains question is official-paper verified; only the separate 2026 Prelims support remains provisional because no official local Prelims scan is cited. Only demand and approach are added—never a solved PYQ answer or objective key.
+
+## 2017 GS-I, Question 19 — direct — 15 marks, 250 words
+
+> “Distinguish between religiousness/religiosity and communalism giving one example of how the former has got transformed into the latter in independent India.”
+
+- **Directive:** Distinguish and illustrate transformation.
+- **Demand:** Separate faith and worship from opposed-interest political ideology, then explain one bounded independent-India transformation mechanism.
+- **Lesson route:** Lesson 1, supported by Lessons 4–7 and 11–12.
+- **Neutral approach:** conceptual comparison → transformation chain → one qualified illustration → institutional conditions → anti-collective-blame verdict.
 
 ## 2018 GS-I, Question 20 — direct — 15 marks, 250 words
 
@@ -2422,11 +2447,11 @@ The questions below remain answer-neutral. Direct-question wording is preserved;
 - **Lesson route:** Lessons 8–9.
 - **Neutral approach:** differentiated gains/insecurity → identity assertion → communal framing conditions → integrative market/contact effects → local evidence caution → qualified verdict.
 
-## 2026 GS-I, Question 8 — provisional supporting demand — 10 marks, 150 words
+## 2026 GS-I, Question 8 — verified supporting demand — 10 marks, 150 words
 
 > “Unity in diversity remains the defining feature of Indian society despite the challenges from communalism and regionalism. Comment.”
 
-- **Status:** Supporting rather than exclusively communalism-focused; wording remains provisional because the official scan is unavailable here.
+- **Status:** Supporting rather than exclusively communalism-focused; exact wording and metadata are verified against the official local GS-I paper.
 - **Directive:** Comment—state a concise judgment, support it and qualify it.
 - **Lesson route:** Lesson 14, supported by Lessons 12–13.
 - **Neutral approach:** unity mechanisms → communalism distinction → regionalism distinction → institutional accommodation → conditional verdict.
@@ -2861,7 +2886,7 @@ definition and boundary
 - National integration means constitutional-institutional equal membership, accommodation and peaceful belonging.
 - Communal harmony means everyday inter-religious coexistence and trust.
 - The two reinforce but do not guarantee each other: formal integration can coexist with local distrust, while cordial relations can remain fragile without durable rights and institutions.
-- 2026 GS-I Q8 support remains provisional.
+- 2026 GS-I Q8 support is official-paper verified.
 
 ## 16. Places of Worship Act status
 
@@ -2894,8 +2919,9 @@ definition and boundary
 ## 19. PYQ and directive routes
 
 - **2018 direct:** Argue—power struggle, deprivation, interaction and illustrations.
+- **2017 direct:** Distinguish religiosity and communalism → trace one transformation chain → qualify actor responsibility.
 - **2023 direct:** Discuss impact—economic sharpening and integrative pathways, ethnic distinction.
-- **2026 supporting provisional:** Comment—unity mechanisms, two challenges and conditional resilience.
+- **2026 supporting verified:** Comment—unity mechanisms, two challenges and conditional resilience.
 - **2026 Prelims support provisional:** institutional history only; no options or key.
 - Directive controls structure: argue ≠ discuss impact ≠ comment.
 
@@ -2926,6 +2952,7 @@ definition and boundary
 |---|---|---|
 | Concept boundary | Lesson 1; Master map 1; Register Notes 1 | Complete |
 | Bipan Chandra ladder | Lesson 1; Master map 2; Register Notes 2 | Complete with attribution and non-inevitability |
+| 2017 direct PYQ | Lesson 1; final PYQ section | Exact official-paper question; religiosity/communalism distinction and transformation mechanism |
 | Forms and power asymmetry | Lesson 2; Register Notes 3 | Complete; no false equivalence |
 | Primordialism, instrumentalism, constructivism | Lesson 3; Master map 3 | Complete with strengths and limits |
 | Colonial institutionalisation | Lesson 4; Register Notes 5 | Bounded mechanism; no sole-cause claim |
@@ -2944,7 +2971,7 @@ definition and boundary
 | Everyday secularism/contact | Lesson 13; Register Notes 14 | Complete with contact conditions |
 | Regionalism/unity | Lesson 14; Master map 8 | Complete distinction and interaction |
 | National integration versus communal harmony | Lesson 14; Register Notes 15 | Explicitly distinguished as institutional membership versus everyday social trust; neither treated as a guarantee of the other |
-| 2026 supporting Mains PYQ | Lesson 14; final PYQ section | Exact ledger wording, provisional scan status |
+| 2026 supporting Mains PYQ | Lesson 14; final PYQ section | Exact official-paper wording and metadata |
 | Places Act static design | Lesson 15; Register Notes 16 | Baseline, exceptions and freeze distinction |
 | Sole current linkage | Lesson 15; Source Ledger | Official Supreme Court status, no merits claim |
 | NIC status correction | Lesson 15; Register Notes 17 | Non-statutory advisory; 2013 latest meeting; no abolition claim |
@@ -2973,7 +3000,7 @@ definition and boundary
 | Source | SHA-256 | Bounded use |
 |---|---|---|
 | `upsc-ai-kit\knowledge\Modern-Indian-History\basic\17_Growth-of-Communalism-and-Muslim-League.md` | `81e167124e64ea97b6303cc47d38ba125992629439151daafa53574e636fa3f5` | Bipan Chandra ladder and bounded colonial institutionalisation |
-| `live_sessions\Modern-Indian-History\17-Growth-of-Communalism-and-Muslim-League\Learning-Session-Live-Edition.md` | `caa80ec2ad8b9a78a9bf1a64792857b401ed8dd42754797b1f7d7d77b387e772` | Permitted exact 2018 cross-topic PYQ wording check |
+| `live_sessions\Modern-Indian-History\17-Growth-of-Communalism-and-Muslim-League\Learning-Session-Live-Edition.md` | `262263fe244f84f84eeb58c4aa7f2caa43501d1bfd4f8ebb66955c49dbdf16cc` | Permitted exact 2018 cross-topic PYQ wording check |
 | `upsc-ai-kit\knowledge\Polity\basic\National-Integration-and-Foreign-Policy.md` | `069e0124e77d9a976732507ef0288411da31f6e6b7b5e76322168359e4ab4557` | NIC constitutional status, latest located meeting and no-abolition caution |
 | `upsc-ai-kit\knowledge\Indian-Society\basic\01_Salient-Features-and-Diversity-of-Indian-Society.md` | `f8140e221a33521963bb7c2f43464e40d932b9645235d05d8b60b919904c5ea3` | Unity-in-diversity and cross-cutting cleavages |
 | `upsc-ai-kit\knowledge\Indian-Society\basic\14_Regionalism.md` | `5bc1b69250039313d016b42ce422ea8d667078c1d37fa8cf6c697589155ea8b7` | Regionalism, autonomy, statehood and secession distinctions |
@@ -2983,14 +3010,16 @@ definition and boundary
 
 | Source | SHA-256 | Status |
 |---|---|---|
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` | `4f1610333cdd8eea2786495b59ed1746bd8e6b4577384e0d81870332bad35afe` | Confirms 2018 and 2023 year, paper, question number, neutral demand, directive, marks and word limit |
+| `books\previous_papers_2013_2018\2017\mains-gs1.pdf` | `aaa5b248c054200a29baef94457795e6071c50afdcc04e16f064977659d988a5` | Identity-verified archived official paper controlling 2017 Q19 wording and metadata |
+| `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md` | `717f50959b6cfe76e9e7dd6374003d2128b31b68f6411194159a2e747066d230` | Confirms 2018 and 2023 year, paper, question number, neutral demand, directive, marks and word limit |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md` | `c6e229c805fb01218f4d42a4a1c3fa0b4b5bd34db0cc8e043a36ad5da1518c21` | Negative control: no direct standalone 2024–2025 communalism question |
-| `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | `09edb09bc8dacd73d7eb7eb10ff7cc1f186ad9d7d6eecdcd7382699f709b3369` | Contains supporting 2026 Q8 wording; official scan path unavailable here, so provisional |
+| `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` | `09edb09bc8dacd73d7eb7eb10ff7cc1f186ad9d7d6eecdcd7382699f709b3369` | Complete routing ledger for official-paper verified 2026 Q8 |
+| `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` | `49418ba3d1a93de14f2e4d21be2c77aafdd9f194b32238e05d5242d9747a2601` | Official local paper controlling 2026 Q8 wording and metadata |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` | `a0c6a6c0afd365da0da7c15439550619c864a6e80b631d3360dc186ecb9129b2` | Provisional neutral demand for 2026 Q18; no answer letter inferred |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` | `3b6e234b5ae5219fdc332a65d7f79bd7bb4e1b77a15aaf0ad0558ea15bdf903b` | No direct Topic 13 objective ownership asserted |
 | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md` | `fbee5d08c69abdcc219a7aae47fdc73363403852832234cead5a9e646d50561a` | No direct Topic 13 objective ownership asserted |
 
-The 2018 exact wording is also present in the permitted Modern Indian History live session named above. The 2023 exact wording was cross-checked against multiple public question-paper transcriptions while the local routing ledger controls metadata; no claim is made that a local official 2023 paper PDF was opened. For 2026 Mains and Prelims support, the ledger wording is retained provisionally because the cited official scans are absent from this worktree.
+The identity-verified official 2017 local paper controls Q19. The 2018 exact wording is also present in the permitted Modern Indian History live session named above. The 2023 exact wording was cross-checked against multiple public question-paper transcriptions while the local routing ledger controls metadata; no claim is made that a local official 2023 paper PDF was opened. The official local 2026 GS-I paper controls the Mains Q8 wording and metadata. The separate 2026 Prelims support remains provisional and answer-neutral because no official local Prelims scan is cited.
 
 ## Institutional status evidence
 
@@ -3013,7 +3042,7 @@ Source search refreshed on 4 October 2026. No later official final merits order 
 2. No communal incident or casualty statistic is used.
 3. No final merits position on the Places of Worship Act is asserted.
 4. The NIC is not labelled formally abolished or regularly active.
-5. The 2026 supporting Mains and objective demands remain provisional because official scans are absent.
+5. The 2026 supporting Mains demand is official-paper verified; only the objective support remains provisional because no official local Prelims scan is cited.
 6. No official UPSC model answer, marking scheme or objective answer key is claimed.
 7. Exact 2023 wording is not attributed to a local official PDF.
 
@@ -3027,5 +3056,5 @@ Source search refreshed on 4 October 2026. No later official final merits order 
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | Complete Topic 13 Advanced owner and bounded institutional/theory material listed above |
 | OCR books | not available | No permitted OCR-searchable topic-specific sociology book was available in this worktree |
-| PYQs through 2026 | checked | 2018/2023 direct metadata, 2024–2025 negative control, provisional 2026 supporting Mains and objective demand, and answer-neutrality controls recorded above |
+| PYQs through 2026 | checked | 2017/2018/2023 direct coverage, 2024–2025 negative control, official-paper verified 2026 supporting Mains demand, provisional answer-neutral Prelims support, and source controls recorded above |
 | Official live sources | checked | Sole current linkage is the refreshed official Supreme Court Places of Worship Act litigation record; NIC evidence is an institutional-status correction, not a second current-affairs anchor |
