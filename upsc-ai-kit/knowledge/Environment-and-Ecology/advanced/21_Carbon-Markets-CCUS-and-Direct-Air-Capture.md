@@ -35,18 +35,18 @@ broader emissions/removal-crediting mechanism, while maintaining the intensity-b
 ## 3. CCUS: economics and the "negative emissions" versus "emissions avoidance" distinction
 
 1. ⚠️ **Critical distinction:** CCUS applied to a fossil-fuel power plant or industrial
-   facility is fundamentally an *emissions-avoidance* technology (it prevents newly
-   generated CO₂ from reaching the atmosphere) — it is not, by itself, a *negative-
-   emissions* (atmospheric CO₂ removal) technology unless paired with bioenergy (BECCS —
-   Bioenergy with Carbon Capture and Storage, where biomass-derived CO₂, having been
-   originally drawn from the atmosphere by the plant material, is captured and stored,
-   yielding a genuine net-negative result) or applied to direct air capture.
-2. ⚠️ **Analytical significance:** a common conceptual error is treating all "carbon
-   capture" technology as equally capable of reversing past emissions — only DAC and BECCS
-   (not standard fossil-source CCUS) deliver genuine atmospheric carbon removal; standard
-   CCUS merely prevents additional emissions from a specific source, an important but
-   analytically distinct contribution.
-3. ✅ CCUS economics depend heavily on CO₂ concentration at the capture point (higher
+   facility normally prevents a portion of newly generated CO₂ from reaching the atmosphere.
+   It is therefore emissions avoidance or reduction, not atmospheric removal, even when the
+   captured CO₂ is stored securely.
+2. ⚠️ **BECCS qualification:** Bioenergy with Carbon Capture and Storage can provide CDR only
+   when biomass uptake, land-use change, cultivation, processing, transport, capture energy
+   and durable geological storage produce a net atmospheric withdrawal. The label "biogenic"
+   does not make the full pathway automatically net-negative.
+3. ⚠️ **DAC qualification:** Direct Air Capture is a separation process. DAC followed by
+   durable geological storage (DACCS), or another demonstrably durable storage route, can
+   provide CDR after lifecycle deductions. DAC-derived fuels and short-lived products may
+   re-release CO₂ and are normally carbon recycling or possible avoidance, not durable removal.
+4. ✅ CCUS economics depend heavily on CO₂ concentration at the capture point (higher
    concentration flue gas, e.g., from cement kilns or certain industrial processes, is
    cheaper to capture per tonne than more dilute sources) and on the availability of
    suitable geological storage or utilisation pathways (e.g., enhanced oil recovery,
@@ -55,20 +55,56 @@ broader emissions/removal-crediting mechanism, while maintaining the intensity-b
 
 ## 4. Direct Air Capture: the frontier technology and its genuine deployment constraints
 
-- ⚠️ DAC's fundamental technical challenge is thermodynamic: atmospheric CO₂ concentration
-  is measured in a few hundred parts per million, vastly more dilute than industrial flue
-  gas, meaning DAC requires substantially more energy input per tonne of CO₂ captured —
-  making DAC currently the most expensive widely discussed capture technology per tonne,
-  though costs are actively being researched and are expected to decline with technology
-  maturation and scale.
-- ⚠️ **Policy implication:** because DAC delivers genuine atmospheric removal (unlike
-  standard point-source CCUS), it is specifically relevant to addressing "residual"
-  emissions in a net-zero framework — emissions from sectors that cannot be fully
-  eliminated even after all feasible mitigation (e.g., certain aviation, agriculture)
-  require genuine removal (DAC or nature-based sinks like forests) to achieve true net-zero,
-  rather than simply avoiding new emissions.
+- ⚠️ DAC's fundamental technical challenge is the low concentration of atmospheric CO₂
+  relative to industrial streams. Moving large air volumes and regenerating solvents or
+  sorbents require significant heat and electricity; net removal therefore depends on the
+  carbon intensity and additionality of the energy supply.
+- ⚠️ The complete chain is:
 
-## 5. Data and conceptual limitations
+  ```text
+  ambient-air separation
+      -> regeneration and compression
+      -> transport
+      -> use or storage
+      -> monitoring, reversal control and liability
+      -> lifecycle net-removal calculation
+  ```
+
+- ⚠️ **Destination controls the claim:** geological storage can support long-duration DACCS;
+  mineralised or long-lived products require method-specific duration and lifecycle proof;
+  fuels and short-lived products normally return the CO₂ to the atmosphere.
+- ⚠️ **Policy implication:** DACCS can help balance genuinely residual emissions after deep
+  direct mitigation. DAC without durable storage should not be booked as permanent removal,
+  and uncertain future deployment should not justify avoidable present emissions.
+
+## 5. CDR taxonomy, durability and data limitations
+
+IPCC defines CDR as human activity that intentionally removes CO₂ from the atmosphere and
+durably stores it in geological, terrestrial or ocean reservoirs, or in products. The shared
+atmospheric function does not make the methods physically, socially or temporally equivalent.
+
+| Route family | Representative methods | Storage and principal integrity questions |
+|---|---|---|
+| Biological/terrestrial | Afforestation, reforestation, ecosystem restoration, soil-carbon management | Biomass/soil storage can saturate or reverse through fire, drought, harvest or management change; additionality, land rights, biodiversity and repeated measurement matter. Protecting an existing sink usually avoids emissions rather than creating a new removal. |
+| Biological-product | Biochar and durable harvested-wood/product pathways | Feedstock counterfactual, process energy, product decay, soil effects and the credited permanence period must be specified. |
+| Bioenergy-technological | BECCS | Biomass sustainability, land-use change, capture coverage, transport and geological storage determine whether the lifecycle is net-negative. |
+| Technological | DACCS | Ambient-air origin is measurable, but low-carbon energy, capture efficiency, transport, geological storage MRV and long-term liability determine net removal. |
+| Geochemical | Enhanced weathering and mineralisation | Mining, grinding, transport, reaction rate, product fate, ecological effects and verification of atmospheric uptake require conservative accounting. |
+| Ocean-based | Ocean alkalinity enhancement and other proposed ocean CDR approaches | Additionality, monitoring, ecological effects, transboundary governance and durability remain method-specific and uncertain; scientific potential is not deployment proof. |
+
+Durability is a time-horizon claim, not a binary label. Forest, soil, product, mineral,
+geological and ocean reservoirs have different reversal pathways and monitoring needs. A
+credible CDR unit or policy claim should identify:
+
+```text
+atmospheric uptake
+  - full lifecycle emissions
+  - leakage
+  = net removal
+  + named storage medium and expected duration
+  + reversal monitoring/replacement or liability
+  + unique issuance and claim
+```
 
 - ⚠️ Global CCUS and DAC deployment capacity remains small relative to the scale IPCC
   mitigation-pathway modelling suggests may eventually be needed in many scenarios; citing
@@ -90,26 +126,35 @@ broader emissions/removal-crediting mechanism, while maintaining the intensity-b
 | Tension | Balanced framing |
 |---|---|
 | Market flexibility/cost-efficiency vs MRV integrity risk | Markets can lower mitigation costs, but only rigorous MRV design prevents the credit system from becoming a paper exercise without genuine atmospheric benefit. |
-| CCUS as emissions-avoidance vs genuine negative-emissions need | Standard fossil-source CCUS is valuable for avoiding new emissions from existing hard-to-abate infrastructure, but true net-zero requires genuine removal (DAC/BECCS/nature-based sinks) for residual, unavoidable emissions. |
-| DAC's technological promise vs current cost/energy-intensity reality | DAC is strategically important for addressing residual emissions long-term, but is not yet a cost-effective, at-scale solution today — both facts are simultaneously true. |
+| CCUS as emissions-avoidance vs CDR | Standard fossil/process-source CCUS can avoid new emissions; CDR requires intentional atmospheric uptake plus durable storage and lifecycle net removal. |
+| DAC separation vs DACCS removal | DAC identifies the atmospheric source; storage destination, energy, transport, MRV and permanence determine whether the pathway becomes CDR. |
+| CDR portfolio vs false equivalence | Biological, technological, geochemical and ocean-based methods can all contribute, but differ in saturation, reversal, ecological impact, uncertainty and storage time horizon. |
 
 ## 7. Must-Know Facts for Advanced Prelims
 
 - ✅ India's carbon market has a two-track design: a compliance mechanism (building on PAT,
   intensity-based) and an offset mechanism (voluntary project-based crediting).
-- ✅ Standard fossil-source CCUS is an emissions-avoidance technology; genuine atmospheric
-  carbon removal (negative emissions) requires DAC or BECCS (Bioenergy with Carbon Capture
-  and Storage) specifically.
+- ✅ Standard fossil/process-source CCUS is normally emissions avoidance or reduction, not CDR.
+- ✅ DAC is ambient-air separation; DACCS is DAC followed by durable storage. DAC-to-fuel or
+  short-lived use is not permanent removal.
 - ✅ DAC's higher cost/energy-intensity relative to CCUS stems from the much lower CO₂
   concentration in ambient air compared to industrial flue gas.
-- ✅ Net-zero frameworks require genuine removal technologies (DAC/BECCS/nature-based sinks)
-  specifically to offset residual, technically unavoidable emissions from certain sectors.
+- ✅ CDR includes biological/terrestrial methods, biochar and other qualified product storage,
+  BECCS, DACCS, enhanced weathering/mineralisation and proposed ocean-based approaches.
+- ✅ Every CDR method needs lifecycle accounting, a named storage reservoir and duration,
+  method-appropriate MRV, reversal or leakage controls and exclusive accounting.
 
 ## 8. Advanced Prelims traps
 
 - ❌ All CCUS applications, including standard fossil-power-plant CCUS, deliver negative
-  (atmosphere-reducing) emissions. -> Standard fossil-source CCUS is emissions-avoidance;
-  only DAC or BECCS deliver genuine negative emissions.
+  (atmosphere-reducing) emissions. -> Standard fossil/process-source CCUS is normally
+  emissions avoidance or reduction.
+- ❌ DAC automatically delivers permanent removal. -> DAC only separates ambient CO₂; DACCS
+  or another durable, lifecycle-verified storage route is required for a removal claim.
+- ❌ Only DAC and BECCS count as CDR. -> IPCC's wider portfolio includes biological/
+  terrestrial, product, geochemical and ocean-based routes, each with specific caveats.
+- ❌ Every credited removal is equivalent to one permanently removed tonne. -> Net quantity,
+  storage duration, reversal risk, lifecycle emissions and accounting exclusivity differ.
 - ❌ India's carbon market is a single-track, purely compliance-based system. -> It has a
   two-track design combining a compliance mechanism and a voluntary offset mechanism.
 - ❌ DAC is currently deployed at a scale comparable to global CCUS capacity. -> DAC remains
@@ -144,29 +189,28 @@ broader emissions/removal-crediting mechanism, while maintaining the intensity-b
 
 ## 11. Mains-ready framework
 
-**Central thesis:** Carbon markets, CCUS and Direct Air Capture are complementary but
-analytically distinct mitigation instruments — a price-based incentive mechanism whose value
-depends entirely on MRV integrity, an emissions-avoidance technology for hard-to-abate point
-sources, and a genuine (but currently costly) atmospheric-removal technology respectively —
-and India's own two-track carbon-market design and nascent CCUS/DAC engagement must be
-evaluated against these precise functional distinctions rather than treated as
-interchangeable "climate solutions."
+**Central thesis:** Carbon markets, point-source CCUS and CDR are complementary but
+analytically distinct: a price/accounting architecture, an emissions-avoidance chain for
+selected point sources, and an atmosphere-to-reservoir service. DAC is only an ambient-air
+separation process; DACCS becomes potential CDR when low-emission operation, transport,
+durable storage, lifecycle MRV and long-term liability are demonstrated. The wider CDR
+portfolio must be differentiated by storage medium, reversal risk and governance.
 
 1. Define carbon markets' price-incentive logic and India's two-track (compliance/offset)
    design.
 2. Introduce the MRV-integrity challenge as the central determinant of a market's genuine
    climate value.
-3. Precisely distinguish CCUS (point-source, emissions-avoidance) from DAC (ambient-air,
-   genuine removal), and both from BECCS.
-4. Apply the residual-emissions/net-zero framing to explain why genuine removal technology
-   is specifically necessary alongside broader mitigation.
-5. Conclude with an MRV-strengthening and removal-technology-investment recommendation as
-   the genuine determinant of these instruments' long-term climate value.
+3. Distinguish point-source CCUS from DAC, and DAC separation from DACCS removal.
+4. Compare biological, technological and geochemical/ocean-based CDR routes through lifecycle,
+   storage-duration, reversal, ecological and rights criteria.
+5. Apply the residual-emissions/net-zero framing: direct mitigation first, diversified CDR
+   capacity for a narrowly defined residual, and no reliance on speculative future scale.
+6. Conclude with method-specific MRV, durable liability and claims discipline.
 
 ## 12. Probable questions
 
-- ⚠️ **Prelims:** Distinguish emissions-avoidance (standard CCUS) from genuine negative-
-  emissions (DAC/BECCS) technologies.
+- ⚠️ **Prelims:** Distinguish point-source CCUS, DAC, DACCS, BECCS and biological/
+  geochemical CDR by source, storage and lifecycle outcome.
 - ⚠️ **Mains (10 marks):** Why does a carbon market's climate value depend on its Monitoring,
   Reporting and Verification system rather than its existence alone?
 - ⚠️ **Mains (15 marks):** Discuss the distinct roles of carbon markets, CCUS and Direct Air
@@ -181,3 +225,19 @@ interchangeable "climate solutions."
   relying on these technologies for hard-to-abate sectors.
 - ✅ `25_Renewable-Energy-and-Green-Hydrogen.md` — the complementary decarbonisation pathway
   for sectors better served by direct electrification/hydrogen than capture technology.
+
+## 14. Persistent official source control
+
+- IPCC AR6 WGIII Carbon Dioxide Removal Factsheet, definition, durable-storage condition
+  and cross-method distinctions at PDF pp. 1-2:
+  https://www.ipcc.ch/report/ar6/wg3/downloads/outreach/IPCC_AR6_WGIII_Factsheet_CDR.pdf
+- IPCC AR6 WGIII Chapter 12, Section 12.3, CDR definition and assessment of DACCS,
+  enhanced weathering, ocean-based methods, afforestation/reforestation, biochar, BECCS
+  and soil-carbon sequestration at PDF pp. 17-33 (printed pp. 1261-1277):
+  https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_Chapter12.pdf
+- IEA, Direct Air Capture 2022, DAC separation, energy and capture-to-storage/use
+  constraints (web report; no stable PDF pagination):
+  https://www.iea.org/reports/direct-air-capture-2022
+- IEA, Carbon Capture, Utilisation and Storage, point-source chain and sector role
+  (web technology page; no stable PDF pagination):
+  https://www.iea.org/energy-system/renewables-and-low-emissions/carbon-capture-utilisation-and-storage
