@@ -1,8 +1,9 @@
 # Disaster Management Framework and Sendai — Complete Live Session Edition
 
-**Status date:** 3 October 2026
+**Status date:** 5 October 2026
 **Subject placement:** Environment and Ecology, catalogue Topic 26
-**Focus:** This topic teaches the complete risk-governance foundation, institutional architecture and applied framework required for the questions mapped here.
+**Ownership:** **PARTIAL Environment owner** — this session retains the environment, climate, ecosystem and Sendai application layer. Exact disaster-risk doctrine, law, institutions, finance, Incident Response System and MHEWS architecture are routed to the released Disaster Management owners at commit `555ddedd9`.
+**Focus:** Risk-sensitive development, ecosystem resilience, Sendai application and the bounded institutional framework required for the questions mapped here.
 
 ## Roadmap
 
@@ -11,7 +12,7 @@
 | 1 | Foundation | Why does the same hazard become a disaster for one community but not another? | Hazard, exposure, vulnerability, capacity, risk and resilience |
 | 2 | Core | What changes before, during and after a disaster? | Prevention, mitigation, preparedness, response, recovery and BBB |
 | 3 | Core | What exactly does Sendai require and measure? | Evolution, four priorities, seven targets and monitoring |
-| 4 | Core | What is India's current disaster law after the 2025 amendment? | Enacted/in-force provisions versus enabling powers and rollout |
+| 4 | Core | What is India's current disaster law after the 2025 and 2026 amendments? | Institutional reform versus later s. 51-53 term changes |
 | 5 | Core | Who leads at the Union level? | NDMA, NEC, NCMC, HLC, MHA, NIDM, NDRF and NPDRR |
 | 6 | Core | Who converts policy into local action? | SDMA, SEC, DDMA, UDMA, local bodies and communities |
 | 7 | Core | Why do “NDRF” and “SDRF” cause repeated confusion? | National/State funds, mitigation funds, response forces and district funds |
@@ -30,10 +31,15 @@
 DEVELOPMENT CHOICE
       |
       v
-hazard x exposure x vulnerability / capacity
+hazard | exposure | vulnerability | capacity
+      \       |       |       /
+       \      |       |      /
+        v     v       v     v
+probabilistic interaction in a specific time and place
       |
       v
 DISASTER RISK
+(explicitly non-arithmetic)
       |
       +--> prevent new risk
       +--> reduce existing risk
@@ -49,26 +55,28 @@ DISASTER RISK
 Progress: 1 / 17 | Stage: Foundation | Subtopic: Hazard, exposure, vulnerability, capacity, risk and resilience
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — disaster-risk definitions and resilience material checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 4-5 and 8; current terminology checked against `upsc-ai-kit\knowledge\Disaster-Management\basic\01_Concepts-Risk-Resilience-and-Sendai.md` at `555ddedd9`
+CA search: "Official UNDRR disaster risk hazard exposure vulnerability capacity update September 2026" | window: 5 Apr-5 Oct 2026
+CA found: UNDRR Strategic Framework 2026-2030—risk knowledge, locally led DRR, financing and recovery readiness; accessed 5 Oct 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual: the risk equation as a thinking tool
+### Visual: four interacting determinants of risk
 
 ```text
-HAZARD                dangerous event/process
-   x
-EXPOSURE              people/assets/ecosystems in harm's way
-   x
-VULNERABILITY         susceptibility to damage
-   ÷
-CAPACITY              ability to anticipate, cope, adapt and recover
-   =
-DISASTER RISK
+HAZARD             dangerous process/event
+EXPOSURE           people/assets/ecosystems in harm's way
+VULNERABILITY      susceptibility to harm
+CAPACITY           strengths/resources for managing and reducing risk
+   \        |        |        /
+    \       |        |       /
+     v      v        v      v
+PROBABILISTIC, CONTEXT-SPECIFIC INTERACTION
+                   |
+                   v
+            DISASTER RISK
 ```
 
-This is a conceptual relation, not a universal arithmetic formula. It disciplines the answer by asking which component policy can change.
+UNDRR defines disaster risk as potential loss in a specific period, determined probabilistically as a **function of hazard, exposure, vulnerability and capacity**. The visual is explicitly non-arithmetic: no component is a fixed multiplier or denominator.
 
 ### 1. Hazard is not disaster
 
@@ -107,17 +115,17 @@ adaptability  learn and change future risk
 
 Urban growth, climate change, migration, ageing infrastructure and ecosystem loss can create or redistribute risk. New construction can lock in exposure for decades. Therefore risk assessment must be repeated, not treated as a one-time map.
 
-### Strongest objection, reply and residual
+### Boundary test: physical intensity versus socially produced risk
 
 **Objection:** The hazard's intensity ultimately determines disaster loss.
 **Reply:** Intensity matters, but comparable hazards produce very different losses because exposure, vulnerability and capacity differ.
 **Residual:** Social analysis cannot erase physical thresholds; extreme events can exceed even strong systems, so residual risk and contingency capacity remain.
 
-### UPSC use
+### Exam lens: diagnose the risk components
 
 Begin any disaster answer by naming the hazard, exposed system, dominant vulnerabilities and capacities. This prevents a generic list of measures.
 
-### Revision notes
+### Risk-diagnosis recall
 
 1. A hazard is a potentially damaging event or process; it is not automatically a disaster.
 2. Exposure identifies people, assets, services and ecosystems located in harm's way.
@@ -140,7 +148,7 @@ Begin any disaster answer by naming the hazard, exposed system, dominant vulnera
 
 **Misconception to avoid:** A protective structure does not eliminate residual risk or justify uncontrolled exposure behind it.
 
-### Lesson-local Mains practice
+### Applied Mains practice — risk interaction
 
 **Question (10 marks, 150 words):** Explain how hazard, exposure, vulnerability and capacity interact to determine disaster risk.
 
@@ -155,9 +163,9 @@ Thus identical rainfall can cause limited loss in a city with protected drains, 
 Progress: 2 / 17 | Stage: Core | Subtopic: Prevention, mitigation, preparedness, response, recovery and Build Back Better
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — disaster-cycle and preparedness chapters checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF p. 6; IRS doctrine routed to Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official India disaster preparedness response recovery Build Back Better update between 5 April and 5 October 2026 site:mha.gov.in OR site:ndmindia.mha.gov.in OR site:pib.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: MHA's 2026-31 mitigation-fund operational guidance, dated 31 Jul 2026, renewed the ex-ante mitigation/recovery-readiness context
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: a cycle, not a sequence that ends
@@ -191,17 +199,31 @@ Preparedness builds the capability to act when threat is imminent or impact occu
 
 A plan without trained people, transport, accessible shelters and exercises is a document, not preparedness.
 
-### 3. Response
+### 3. Incident Response System: command without creating a new authority
+
+NDMA's **Incident Response System (IRS) Guidelines** organise incident-level response; they do not create another statutory tier. The **Responsible Officer** activates and oversees the arrangement. The **Incident Commander** directs field operations through:
+
+```text
+INCIDENT COMMANDER
+   +--> Operations Section: tactical response and field resources
+   +--> Planning Section: situation information and Incident Action Plan
+   +--> Logistics Section: personnel, facilities, supplies and communications
+   +--> Finance/Administration: activated where incident needs require it
+```
+
+IRS must be pre-designated, trained and exercised through State/district plans. Exact operational doctrine belongs to `upsc-ai-kit\knowledge\Disaster-Management\basic\02_Indian-Legal-and-Institutional-Architecture.md` at released commit `555ddedd9`.
+
+### 4. Response
 
 Response protects life and meets immediate needs: warning confirmation, evacuation, search and rescue, triage, food, water, temporary shelter, protection, restoration of essential communications and rapid needs assessment. Speed matters, but accountability and “do no harm” matter too.
 
-### 4. Recovery, rehabilitation and reconstruction
+### 5. Recovery, rehabilitation and reconstruction
 
 **Relief** meets urgent needs. **Rehabilitation** restores basic services, livelihoods and functional capability. **Reconstruction** rebuilds damaged assets. **Recovery** is the wider process connecting all three to social, economic and institutional renewal.
 
 **Build Back Better (BBB)** means recovery, rehabilitation and reconstruction reduce future risk. It may require safer location, stronger standards, redundancy, restored ecosystems, diversified livelihoods and maintenance systems—not merely a stronger replica in the same unsafe site.
 
-### 5. Why the cycle loops
+### 6. Why the cycle loops
 
 Post-disaster assessment reveals failed buildings, warning gaps and exclusion. That evidence must update land-use plans, codes, training and finance. Otherwise recovery reproduces the conditions of the next disaster.
 
@@ -209,24 +231,26 @@ Post-disaster assessment reveals failed buildings, warning gaps and exclusion. T
 
 Response readiness cannot be sacrificed on the assumption that prevention will work perfectly. Yet politically visible relief should not crowd out low-visibility mitigation. Risk-based budgeting must sustain both.
 
-### UPSC use
+### Exam lens: place each measure in the cycle
 
 Locate every proposed measure in the cycle. If an answer lists only rescue and compensation, it is reactive. If it lists only prevention, it ignores residual risk.
 
-### Revision notes
+### Cycle recall
 
 1. Prevention avoids new or avoidable risk; mitigation reduces likely consequences.
 2. Structural and non-structural measures are complementary.
 3. Preparedness converts knowledge into executable capability.
-4. Mock drills test assumptions, roles, communication and evacuation time.
-5. Response prioritises life safety and immediate essential needs.
-6. Relief, rehabilitation, reconstruction and recovery are not synonyms.
-7. Build Back Better reduces future risk during recovery.
-8. BBB can require relocation, livelihood change and management reform, not only stronger concrete.
-9. Post-event learning must feed the next prevention and preparedness cycle.
-10. Residual risk requires response capacity even after strong mitigation.
-11. Relief visibility can crowd out prevention unless budgets protect mitigation.
-12. Every recommendation should be assigned to a cycle phase and responsible actor.
+4. IRS separates the Responsible Officer's oversight from the Incident Commander's field direction.
+5. Operations, Planning and Logistics are distinct response functions.
+6. Mock drills test assumptions, roles, communication and evacuation time.
+7. Response prioritises life safety and immediate essential needs.
+8. Relief, rehabilitation, reconstruction and recovery are not synonyms.
+9. Build Back Better reduces future risk during recovery.
+10. BBB can require relocation, livelihood change and management reform, not only stronger concrete.
+11. Post-event learning must feed the next prevention and preparedness cycle.
+12. Residual risk requires response capacity even after strong mitigation.
+13. Relief visibility can crowd out prevention unless budgets protect mitigation.
+14. Every recommendation should be assigned to a cycle phase and responsible actor.
 
 ### Concept check
 
@@ -236,7 +260,7 @@ Locate every proposed measure in the cycle. If an answer lists only rescue and c
 
 **Misconception to avoid:** BBB does not mean only faster construction or stronger buildings.
 
-### Lesson-local Mains practice
+### Applied Mains practice — the management cycle
 
 **Question (15 marks, 250 words):** Differentiate prevention, mitigation, preparedness, response and recovery. Why must they be treated as a continuous cycle?
 
@@ -253,9 +277,9 @@ No phase is sufficient alone. Prevention cannot remove residual risk, while resp
 Progress: 3 / 17 | Stage: Core | Subtopic: Global DRR evolution and monitoring
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — global-framework chapter and official UNDRR text checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 61-62; official Hyogo and Sendai texts checked
+CA search: "Official Sendai Framework Monitor global progress published 24 September 2026 site:undrr.org" | window: 5 Apr-5 Oct 2026
+CA found: UNDRR, "Sendai Framework data shows both progress and persistent gaps in reducing disaster risk", 24 Sep 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: evolution of the global framework
@@ -306,9 +330,22 @@ Priorities tell governments what to do. Targets specify global results or means 
 
 The Sendai Framework Monitor uses **38 internationally agreed indicators** for the seven targets. Monitoring requires comparable mortality, affected-person, economic-loss, infrastructure, strategy, cooperation and warning-access data. Missing baselines or changing definitions can create false trends.
 
-### 5. Sendai versus Hyogo
+The **2023 Midterm Review** and UNGA resolution 77/289 remain the historical political milestone. They are not the latest monitoring snapshot. UNDRR's **24 September 2026** release, based on official national submissions, reported:
 
-Hyogo had five priorities and strengthened institutional DRR. Sendai sharpened the focus on preventing new risk, reducing existing risk, exposure, health, critical infrastructure, recovery and measurable targets. Do not claim Hyogo ignored prevention or that Sendai is legally binding.
+| Reported global trend | Official snapshot |
+|---|---:|
+| countries reporting through the Sendai Framework Monitor | 176 |
+| average disaster mortality rate, 2005-2014 to 2016-2025 | down 65% |
+| affected-person rate over the same periods | doubled |
+| reported direct economic losses, 2016-2025 | above US$1 trillion |
+| countries reporting national DRR strategies | 151 |
+| countries reporting multi-hazard early-warning systems | 128 |
+
+Reporting completeness varies by country, target and year. These are **reported global trends**, not proof that Sendai alone caused the change, not uniform national performance and not India's own target achievement.
+
+### 5. Hyogo continuity and Sendai deepening
+
+Hyogo already centred DRR and the resilience of nations and communities through five priorities: institutional foundations; risk assessment and early warning; knowledge and education; reduction of underlying risk factors; and preparedness. Sendai deepened this foundation by making prevention of new risk and reduction of existing risk more explicit, widening attention to health, livelihoods, critical infrastructure and systemic risk, adding seven targets and placing Build Back Better explicitly within recovery. Do not portray Hyogo as response-only or Sendai as legally binding.
 
 ### 6. India's policy bridge: the Prime Minister's Ten-Point Agenda
 
@@ -335,27 +372,27 @@ The agenda is not another statutory tier or a replacement for Sendai. It is a po
 **Reply:** Shared definitions, indicators and reporting create comparability and political accountability.
 **Residual:** Monitoring is only as good as national loss data and local implementation; reported strategy existence may not prove reduced risk.
 
-### UPSC use
+### Exam lens: separate priorities, targets and trends
 
 When asked for “global targets,” name A-G. When asked for “priorities,” list the four exact action priorities. A high-scoring answer then diagnoses which priority is weakest in the case at hand.
 
-### Revision notes
+### Sendai recall
 
 1. Sendai covers 2015-2030 and was adopted on 18 March 2015.
 2. It succeeded the Hyogo Framework for Action 2005-2015.
 3. Sendai is voluntary and non-binding.
-4. Priority 1 is understanding disaster risk.
-5. Priority 2 is strengthening risk governance.
-6. Priority 3 is investing in DRR for resilience.
-7. Priority 4 joins preparedness, effective response and Build Back Better.
-8. Sendai has seven global targets A-G.
-9. Targets A-D reduce losses; E-G increase means of implementation.
-10. Target E alone carried a 2020 deadline.
-11. The Sendai Framework Monitor uses 38 agreed indicators.
-12. A strategy on paper is a means indicator, not proof of lower mortality or loss.
-13. Hyogo's five priorities and Sendai's four priorities plus seven targets must not be conflated.
-14. The Prime Minister announced the Ten-Point Agenda at AMCDRR, New Delhi, in November 2016.
-15. Its themes connect development, universal risk coverage, women's leadership, risk mapping, technology, universities, communication, local capacity, learning and international cooperation.
+4. Priorities 1-2 are understanding risk and strengthening risk governance.
+5. Priorities 3-4 are investing in resilience and preparedness/effective response with BBB.
+6. Sendai has seven global targets A-G.
+7. Targets A-D reduce losses; E-G increase means of implementation.
+8. Target E alone carried a 2020 deadline.
+9. The Sendai Framework Monitor uses 38 agreed indicators.
+10. The 2023 Midterm Review is historical; the current monitoring snapshot is UNDRR's 24 September 2026 release.
+11. The snapshot covers 176 reporting countries, with uneven reporting completeness.
+12. Reported mortality rate fell 65%, while the affected-person rate doubled; causation cannot be assigned from these trends alone.
+13. Reported direct loss exceeded US$1 trillion; 151 countries reported national strategies and 128 reported MHEWS.
+14. A strategy on paper is a means indicator, not proof of lower mortality or loss; Hyogo and Sendai lists must not be conflated.
+15. The PM's November 2016 Ten-Point Agenda links development, coverage, women's leadership, mapping, technology, universities, communication, local capacity, learning and cooperation.
 
 ### Concept check
 
@@ -365,26 +402,26 @@ When asked for “global targets,” name A-G. When asked for “priorities,” 
 
 **Misconception to avoid:** The existence of a plan is not equivalent to a resilience outcome.
 
-### Lesson-local Mains practice
+### Applied Mains practice — Sendai architecture
 
 **Question (15 marks, 250 words):** Describe the four priorities and seven global targets of the Sendai Framework. Assess its principal accountability limitation.
 
-**Model (157 words):** The Sendai Framework 2015-2030 organises action through four priorities: understanding disaster risk; strengthening risk governance; investing in DRR for resilience; and enhancing preparedness for effective response while Building Back Better in recovery, rehabilitation and reconstruction.
+**Model (168 words):** The Sendai Framework 2015-2030 organises action through four priorities: understanding disaster risk; strengthening risk governance; investing in DRR for resilience; and enhancing preparedness for effective response while Building Back Better in recovery, rehabilitation and reconstruction.
 
 Its seven targets are: A, lower disaster mortality; B, fewer affected people; C, lower direct economic loss relative to GDP; D, less damage to critical infrastructure and disruption of basic services; E, more countries with national and local DRR strategies; F, stronger international cooperation for developing countries; and G, wider access to multi-hazard warning and risk information. A-D reduce losses, while E-G strengthen means; Target E alone had a 2020 deadline.
 
-Sendai's strength is a common measurable vocabulary, supported by 38 agreed indicators. Its limitation is that it is voluntary and sets global rather than automatically enforceable national obligations. Data gaps and strategy-counting can also mask weak implementation. Its value therefore depends on financed local plans, comparable loss data and public accountability.
+Sendai's strength is a common measurable vocabulary, supported by 38 agreed indicators. Its limitation is that it is voluntary and sets global rather than automatically enforceable national obligations. The 24 September 2026 UNDRR snapshot shows mixed reported progress—mortality rate down but affected-person rate doubled—with incomplete reporting. Its value therefore depends on financed local plans, comparable loss data and public accountability.
 
 **Unique quantified rubric (15):** four priorities 4 | seven targets 5 | monitoring 2 | limitation 3 | conclusion 1
 
-## Lesson 4 — India's current disaster law: the 2005 Act as amended in 2025
+## Lesson 4 — India's current disaster law: institutional reform in 2025, penalty-term changes in 2026
 
-Progress: 4 / 17 | Stage: Core | Subtopic: Legal evolution, commencement and status verbs
+Progress: 4 / 17 | Stage: Core | Subtopic: 2025 institutional amendment, Jan Vishwas 2026 and status verbs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — official Gazette Act, commencement notification and consolidated legal material checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 11-16 and 52 provides legacy architecture only; current law checked against official Gazette PDFs and Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official Jan Vishwas Amendment Provisions Act 2026 Disaster Management Act sections 51 52 53 S.O. 2181(E) site:ndmindia.mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: S.O. 2181(E), dated 30 Apr 2026, commenced Schedule serial 60 changes for the DM Act on 15 May 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: legal-status ladder
@@ -406,7 +443,7 @@ The **Disaster Management Act, 2005** created a national-State-district architec
 
 The Constitution contains no separate entry titled “disaster management.” The legal basis is commonly traced, among other sectoral powers, to **Concurrent List Entry 23** on social security and social insurance and **Concurrent List Entry 29** on preventing the inter-State spread of infectious or contagious diseases affecting humans, animals or plants. Entry 29 is especially relevant to biological emergencies; neither entry is a free-standing constitutional entry called disaster management. Responsibilities therefore operate through Union, State and local competencies, the central statute and cooperative federal practice. Public order or ordinary law-and-order situations are not transformed into disasters merely by administrative convenience.
 
-### 2. The current amendment is enacted law
+### 2. The 2025 institutional amendment is enacted law
 
 The **Disaster Management (Amendment) Act, 2025, Act 10 of 2025** received assent and was gazetted on **29 March 2025**. Notification **S.O. 1648(E), 8 April 2025** appointed **9 April 2025** as the commencement date. It must not be described as a pending Bill or a provision-wise proposal.
 
@@ -420,47 +457,59 @@ The **Disaster Management (Amendment) Act, 2025, Act 10 of 2025** received assen
 | s. 8B | gives statutory footing to the High Level Committee |
 | s. 41A | enables a State to constitute Urban Disaster Management Authorities |
 | s. 44A | enables a State to constitute a specialist State Disaster Response Force |
-| s. 60A | permits hazard-related government action and provides a contravention penalty |
+| s. 60A | permits specified hazard-related government action; use the enacted text for its exact offence consequence |
 | s. 76A | gives NDMA regulation-making power with prior Central approval |
 
 The amendment also shifts preparation of national and State plans to NDMA and SDMAs, prescribes review/update cycles, provides for hazard-wise nodal departments and strengthens database duties.
 
-### 4. Enacted does not mean universally constituted
+### 4. The later Jan Vishwas amendment is narrower
+
+The **Jan Vishwas (Amendment of Provisions) Act, 2026, Act 8 of 2026**, Schedule serial 60, changed only maximum imprisonment terms in three DM Act provisions:
+
+| DM Act provision | Enacted substitution |
+|---|---|
+| s. 51 | one year became six months; the aggravated two-year term became one year |
+| s. 52 | two years became six months |
+| s. 53 | two years became one year |
+
+**S.O. 2181(E), 30 April 2026** brought those substitutions into force on **15 May 2026**. This did not redesign NDMA, NCMC, HLC, UDMA, NDRF, planning or database powers. Do not infer conversion to civil penalties, changes to fines, compounding or new adjudication procedures: the cited schedule makes only the stated term substitutions.
+
+### 5. Enacted does not mean universally constituted
 
 Sections 41A and 44A use **“may”**. They create enabling powers. A UDMA or State force exists only after the relevant State Gazette notification. The Act's commencement is settled; rollout is an operational question.
 
 A UDMA may be constituted for a State capital and each Municipal Corporation city, except the NCT of Delhi and the UT of Chandigarh. It is chaired by the Municipal Commissioner, with the District Collector as Vice-Chairperson, and prepares an Urban Plan for SDMA approval.
 
-### 5. Database status discipline
+### 6. Database status discipline
 
 The Act mandates creation of a national disaster database and State inputs. The statute does not itself prove that every field is populated, validated, public or interoperable. Current operational status needs separate official evidence.
 
-### Strongest objection, reply and residual
+### Federalism challenge: common law and uneven capacity
 
 **Objection:** A central statute over-centralises a State-facing function.
 **Reply:** Cross-border hazards, national standards, specialised forces and fiscal support require Union coordination, while implementation remains heavily State, district and local.
 **Residual:** Ambiguous accountability and uneven local capacity can persist unless plans, finance and data specify responsibility.
 
-### UPSC use
+### Exam lens: use exact legal-status verbs
 
 Always distinguish law, commencement, enabling provision, notification, constitution, operation and outcome. That single discipline prevents most current-status errors.
 
-### Revision notes
+### Legal-status recall
 
 1. The Disaster Management Act, 2005 remains the principal statute but must be read as amended.
-2. Act 10 of 2025 was assented and gazetted on 29 March 2025.
-3. All provisions commenced on 9 April 2025 under S.O. 1648(E).
-4. The amendment is no longer a Bill or draft.
-5. Sections 8A and 8B give statutory footing to NCMC and HLC.
-6. Section 41A concerns Urban Disaster Management Authorities.
-7. Section 44A concerns a State Disaster Response Force, not the SDRF fund.
+2. Act 10 of 2025 was gazetted 29 March and commenced 9 April 2025 under S.O. 1648(E).
+3. Jan Vishwas Act 2026 Schedule serial 60 commenced for the DM Act on 15 May 2026 under S.O. 2181(E).
+4. Its changes are confined to maximum imprisonment terms in ss. 51-53.
+5. The 2025 amendment is no longer a Bill or draft.
+6. Sections 8A and 8B give statutory footing to NCMC and HLC.
+7. Section 41A concerns UDMAs; s. 44A concerns a State force, not the SDRF fund.
 8. Sections 41A and 44A are enabling and require State action.
 9. Section 2(da) defines the disaster database.
-10. Section 2(ea) defines disaster risk using hazard, exposure, vulnerability and capacity.
+10. Section 2(ea) defines risk probabilistically as a function of hazard, exposure, vulnerability and capacity.
 11. Section 76A concerns NDMA regulations.
 12. Statutory mandate, notified body, operating system and measured outcome are separate statuses.
 13. The Constitution has no dedicated entry named disaster management.
-14. The constitutional footing draws, among other powers, on Concurrent List Entries 23 and 29; these must not be misdescribed as a dedicated disaster-management entry.
+14. Concurrent List Entries 23 and 29 contribute to the legal footing but are not a dedicated DM entry.
 
 ### Concept check
 
@@ -470,13 +519,13 @@ Always distinguish law, commencement, enabling provision, notification, constitu
 
 **Misconception to avoid:** An enabling provision does not automatically constitute every permitted body.
 
-### Lesson-local Mains practice
+### Applied Mains practice — current law and implementation
 
-**Question (15 marks, 250 words):** Explain the major changes introduced by the Disaster Management (Amendment) Act, 2025. Why must legal and operational status be distinguished?
+**Question (15 marks, 250 words):** Explain the current amendment position of the Disaster Management Act through 5 October 2026. Why must legal and operational status be distinguished?
 
-**Model (167 words):** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025. It defines disaster risk and a disaster database; gives statutory status to the National Crisis Management Committee and High Level Committee; enables Urban Disaster Management Authorities and State Disaster Response Forces; authorises hazard-related directions; and gives NDMA regulation-making power. It also strengthens national and State database duties, hazard-wise nodal arrangements and plan preparation and review.
+**Model (178 words):** The Disaster Management (Amendment) Act, 2025 received assent on 29 March 2025 and came into force on 9 April 2025. It defines disaster risk and a disaster database; gives statutory status to the National Crisis Management Committee and High Level Committee; enables Urban Disaster Management Authorities and State Disaster Response Forces; authorises hazard-related directions; and gives NDMA regulation-making power. It also strengthens national and State database duties, hazard-wise nodal arrangements and plan preparation and review.
 
-Legal status must be read precisely. The Act and its commencement are settled facts. By contrast, sections 41A and 44A use enabling language: a State must issue its own Gazette notification before a particular urban authority or force exists. Similarly, a statutory database duty does not prove full data population, interoperability or publication.
+The Jan Vishwas Act 2026 later reduced maximum imprisonment terms in ss. 51-53, effective 15 May 2026 under S.O. 2181(E), without changing that architecture. Legal status must be precise: sections 41A and 44A remain enabling, so a State notification is required before a particular authority or force exists. A statutory database duty also does not prove full data population, interoperability or publication.
 
 This distinction matters for accountability. Calling a permission an operational achievement exaggerates implementation, while calling an enacted amendment a Bill understates current law. Evaluation should therefore follow enactment, commencement, subordinate rules, constitution, staffing, functioning and outcomes as separate stages.
 
@@ -487,9 +536,9 @@ This distinction matters for accountability. Calling a permission an operational
 Progress: 5 / 17 | Stage: Core | Subtopic: NDMA, NEC, NCMC, HLC, MHA, NIDM, NDRF and NPDRR
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — institutional material and current MHA legal/status evidence checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 11-15; current roles routed to Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official India disaster management NDRF NDMA institutional update from 5 April to 5 October 2026 site:mha.gov.in OR site:ndmindia.mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: MHA issued 2026-31 SDMF/NDMF operational guidelines on 31 Jul 2026; no new statute changed the national body-role firewall in this window
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: do not collapse distinct national roles
@@ -510,6 +559,8 @@ MHA has overall national coordination for disaster management and works with aff
 
 The **National Disaster Management Authority**, chaired by the Prime Minister, lays down national policies, plans and guidelines, approves relevant plans and exercises general superintendence, direction and control over the National Disaster Response Force. It is an apex policy and oversight body, not the field commander for every local incident.
 
+Its statutory composition is the Prime Minister as ex officio Chairperson plus **not more than nine other members nominated by the Chairperson**; one member may be designated Vice-Chairperson. “PM-chaired” must not be expanded into an invented ministerial membership list.
+
 ### 3. NEC
 
 The **National Executive Committee**, chaired by the Union Home Secretary, coordinates and monitors implementation across Union ministries and States. It translates policy into inter-ministerial executive coordination and may issue directions within the Act.
@@ -518,7 +569,7 @@ The **National Executive Committee**, chaired by the Union Home Secretary, coord
 
 The **National Crisis Management Committee**, chaired by the Cabinet Secretary, is the nodal body for major disasters with serious or national ramifications. It is an escalation/coordination mechanism, not a substitute for the NDMA-SDMA-DDMA cascade.
 
-The **High Level Committee** handles specified financial-assistance decisions under response and mitigation funds. The 2025 amendment gave both bodies statutory footing; it did not create their administrative existence from nothing.
+Under s. 8A, NCMC consists of the Cabinet Secretary as Chairperson and other members notified by the Central Government. The **High Level Committee** handles specified financial-assistance decisions under response and mitigation funds; s. 8B makes the Minister in charge of the Union ministry/department controlling disaster management its Chairperson, with other members notified by the Central Government. The 2025 amendment gave both bodies statutory footing; it did not create their administrative existence from nothing.
 
 ### 5. NIDM
 
@@ -536,31 +587,32 @@ The **National Platform for Disaster Risk Reduction**, chaired by the Union Home
 
 IMD, CWC, INCOIS, GSI, health agencies and others generate specialised warning or risk information. NDMA does not replace scientific mandates; it helps integrate them into action.
 
-### Strongest objection, reply and residual
+### Coordination test: differentiation without fragmentation
 
 **Objection:** Multiple national bodies duplicate responsibility.
 **Reply:** Policy, executive coordination, major-crisis escalation, finance, training and field response are genuinely different functions.
 **Residual:** Overlap becomes harmful when triggers, information ownership and command relationships are unclear or unexercised.
 
-### UPSC use
+### Exam lens: name the institution and its verb
 
 Use verbs: NDMA lays down; NEC coordinates; NCMC handles major national ramifications; HLC decides specified assistance; NIDM builds capacity; NDRF responds; NPDRR reviews/advises.
 
-### Revision notes
+### National-institution recall
 
 1. MHA provides overall national coordination while States retain primary operational responsibility.
 2. NDMA is chaired by the Prime Minister.
 3. NDMA's core role is policy, plan, guideline and oversight.
-4. NEC is chaired by the Union Home Secretary.
-5. NCMC is chaired by the Cabinet Secretary and addresses major disasters with national ramifications.
-6. HLC's role is financial assistance under the statutory fund architecture.
-7. NIDM is the nodal capacity-development, training and research institution.
-8. NDRF is a specialised response force, not a fund.
-9. MHA reported 16 operational NDRF battalions and sanctioned strength 18,581 on 22 July 2025.
-10. Battalion count is an input, not a resilience outcome.
-11. NPDRR is chaired by the Union Home Minister and is advisory/review-oriented.
-12. Technical warning agencies retain hazard-specific mandates.
-13. Institutional multiplicity requires clear triggers, drills and information protocols.
+4. NDMA has the PM plus not more than nine nominated members; one may be Vice-Chairperson.
+5. NEC is chaired by the Union Home Secretary.
+6. NCMC is chaired by the Cabinet Secretary and has other notified members.
+7. HLC's statutory chair is the Minister in charge of the Union DM-controlling ministry/department.
+8. NIDM is the nodal capacity-development, training and research institution.
+9. NDRF is a specialised response force, not a fund.
+10. MHA reported 16 operational NDRF battalions and sanctioned strength 18,581 on 22 July 2025.
+11. Battalion count is an input, not a resilience outcome.
+12. NPDRR is chaired by the Union Home Minister and is advisory/review-oriented.
+13. Technical warning agencies retain hazard-specific mandates.
+14. Institutional multiplicity requires clear triggers, drills and information protocols.
 
 ### Concept check
 
@@ -570,7 +622,7 @@ Use verbs: NDMA lays down; NEC coordinates; NCMC handles major national ramifica
 
 **Misconception to avoid:** NDMA, NEC, NCMC and NDRF are not interchangeable labels for 'the Centre'.
 
-### Lesson-local Mains practice
+### Applied Mains practice — national institutional roles
 
 **Question (10 marks, 150 words):** Differentiate the principal national institutions under India's disaster-management architecture.
 
@@ -587,9 +639,9 @@ The distinction matters because policy authority is not field execution, and a r
 Progress: 6 / 17 | Stage: Core | Subtopic: SDMA, SEC, DDMA, UDMA, local authorities and community interface
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — State/district architecture and local-capacity evidence checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 12-15; amended plan cycles and UDMA law routed to Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official Urban Disaster Management Authority India update 5 April 2026 to 5 October 2026 site:mha.gov.in OR site:ndmindia.mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: No new official UDMA-constitution update located in the date window; latest official nationwide snapshot remains MHA's 11 Feb 2026 reply, outside the window
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: policy loses value if the chain breaks at the bottom
@@ -613,6 +665,8 @@ The **State Disaster Management Authority**, chaired by the Chief Minister, lays
 ### 2. DDMA
 
 The **District Disaster Management Authority** is chaired by the District Magistrate/Collector, with an elected local-authority representative as Co-Chairperson, subject to statutory provisions. It prepares and implements the district plan, coordinates line departments, ensures guideline compliance and links warning, evacuation, relief and recovery to actual settlements.
+
+After the 2025 amendment, the district plan must be reviewed **at least once every two years or earlier as necessary**. Document age still does not prove operational readiness.
 
 Districts hold local knowledge but often face thin specialist staff, multiple Collector responsibilities, weak risk data, irregular plan updating and inadequate exercises. This is the architecture's recurrent implementation gap.
 
@@ -641,31 +695,32 @@ Residents, SHGs, CBOs, ward committees and volunteers know mobility constraints,
 
 Act at the lowest capable level; escalate when scale exceeds capacity. This avoids both over-centralisation and abandonment of weak local institutions.
 
-### Strongest objection, reply and residual
+### Last-mile paradox: authority without capability
 
 **Objection:** District leadership by the Collector ensures unified command.
 **Reply:** It gives authority and convening power.
 **Residual:** Authority without dedicated staff, data, finance, local participation and exercises can remain paper coordination.
 
-### UPSC use
+### Exam lens: assign the responsible local tier
 
 Name the tier responsible for each recommendation. “Government should improve preparedness” earns less than “DDMA should maintain ward-level vulnerability registers with ULB health, transport and volunteer protocols.”
 
-### Revision notes
+### Last-mile governance recall
 
 1. SDMA is chaired by the Chief Minister.
 2. SEC is chaired by the Chief Secretary.
 3. DDMA is chaired by the District Magistrate/Collector.
 4. An elected local-authority representative serves as DDMA Co-Chairperson under the statutory design.
-5. DDMA is the closest formal coordinating tier to affected communities.
-6. Local bodies control many risk-creating and risk-reducing services.
-7. Section 41A UDMA is enabling and requires a State Gazette notification.
-8. UDMA is chaired by the Municipal Commissioner with the District Collector as Vice-Chairperson.
-9. Delhi and Chandigarh are excluded from the section 41A model.
-10. MHA reported one Karnataka/BBMP UDMA as of 11 February 2026.
-11. A dated example cannot be extrapolated into national rollout.
-12. Community participation complements rather than replaces public duty.
-13. Subsidiarity requires escalation when local capacity is exceeded.
+5. District plans are reviewed at least every two years or earlier as necessary.
+6. DDMA is the closest formal coordinating tier to affected communities.
+7. Local bodies control many risk-creating and risk-reducing services.
+8. Section 41A UDMA is enabling and requires a State Gazette notification.
+9. UDMA is chaired by the Municipal Commissioner with the District Collector as Vice-Chairperson.
+10. Delhi and Chandigarh are excluded from the section 41A model.
+11. MHA reported one Karnataka/BBMP UDMA as of 11 February 2026.
+12. A dated example cannot be extrapolated into national rollout.
+13. Community participation complements rather than replaces public duty.
+14. Subsidiarity requires escalation when local capacity is exceeded.
 
 ### Concept check
 
@@ -675,7 +730,7 @@ Name the tier responsible for each recommendation. “Government should improve 
 
 **Misconception to avoid:** A plan's approval date is not evidence that people, equipment and institutions can execute it.
 
-### Lesson-local Mains practice
+### Applied Mains practice — district and local capability
 
 **Question (15 marks, 250 words):** Why is the district and local tier often described as the decisive link in India's disaster-governance chain?
 
@@ -694,9 +749,9 @@ Reform should fund district technical cells, link plans to ULB/PRI budgets, main
 Progress: 7 / 17 | Stage: Core | Subtopic: NDRF/SDRF response funds, mitigation funds, response forces and district funds
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — DM Act fund sections, FC16 memorandum and MHA operational guidance checked
-CA search: "site:mha.gov.in heatwaves lightning notified calamities SDRF NDRF 4 August 2026"
-CA found: MHA confirmed on 4 August 2026 that heatwaves and lightning were included for the 2026-31 operational guidelines
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF p. 15 is historical; current finance checked against FC16 and MHA 2026-31 guidelines
+CA search: "Official SDRF NDRF SDMF NDMF operational guidelines 2026-31 immediate relief district funds 5 April to 5 October 2026 site:ndmindia.mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: MHA issued 2026-31 response/mitigation guidance in Jun-Jul 2026; Lok Sabha reply of 4 Aug 2026 confirmed heatwaves and lightning in the notified list
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the fund-force firewall
@@ -737,6 +792,10 @@ For **2026-27 to 2030-31**, the Sixteenth Finance Commission recommended—and t
 
 The State corpus retains an **80:20 response-to-mitigation split**. Union-State sharing is **75:25** for non-NEH States and **90:10** for Northeastern and Hilly States. From 2027-28, complete and validated NDMIS data for the preceding financial year is a condition for disaster-management grants.
 
+For the **₹79,406 crore national pool**, MHA's current response-fund page describes **75% earmarked for the National Disaster Response Fund and a maximum 25% for the National Disaster Mitigation Fund**. Treat this as the stated allocation rule, not as expenditure or completed-project evidence.
+
+Section 48 contemplates District Disaster Response and Mitigation Funds. The official sources checked here do **not** establish a uniform nationwide constitution or operating status for those district funds. A claim about a particular district or State therefore requires its own dated notification or official fund record; no district-fund “exception” is inferred from the Sixteenth Finance Commission Explanatory Memorandum.
+
 ### 4. Current notified-calamity status
 
 #### Current-affairs linkage
@@ -749,17 +808,17 @@ States can also use a limited local-disaster window under prescribed conditions 
 
 The National response force and a State response force deploy people and equipment. Funds pay eligible expenditure. Money cannot rescue without capability; force deployment cannot substitute for compensation, recovery or mitigation finance.
 
-### Strongest objection, reply and residual
+### Fiscal-capacity test: corpus versus resilience
 
 **Objection:** Larger disaster funds necessarily create resilience.
 **Reply:** They improve fiscal capacity.
 **Residual:** Resilience depends on timely access, transparent norms, ex-ante mitigation, procurement quality, maintenance and measured outcomes—not corpus alone.
 
-### UPSC use
+### Exam lens: expand every ambiguous acronym
 
 Write the full form on first use. Add “force” or “fund” every time ambiguity is possible.
 
-### Revision notes
+### Fund-force recall
 
 1. National Disaster Response Force and National Disaster Response Fund share an acronym but perform different functions.
 2. State Disaster Response Force and State Disaster Response Fund are also distinct.
@@ -769,13 +828,13 @@ Write the full form on first use. Add “force” or “fund” every time ambig
 6. Section 44A enables a specialist State response force.
 7. State response finance is the primary immediate-relief window; national support supplements severe needs.
 8. Mitigation funds finance ex-ante risk reduction.
-9. FC16 State corpus for 2026-31 is ₹2,04,401 crore, split 80:20.
-10. SDRF is ₹1,63,521 crore and SDMF ₹40,880 crore for the award period.
-11. The national NDRF+NDMF allocation is ₹79,406 crore.
-12. Sharing is 75:25 for non-NEH and 90:10 for NEH States.
-13. Heatwaves and lightning entered the notified list for 2026-31 operational guidelines.
-14. Fund allocation or project sanction is not an outcome claim.
-15. NDMIS data validation becomes a grant condition from 2027-28.
+9. FC16 State corpus is ₹2,04,401 crore: SDRF ₹1,63,521 crore and SDMF ₹40,880 crore, split 80:20.
+10. The national NDRF+NDMF allocation is ₹79,406 crore.
+11. Sharing is 75:25 for non-NEH and 90:10 for NEH States.
+12. The national pool rule is 75% NDRF and maximum 25% NDMF.
+13. Section 48 provides for district funds; actual constitution/operation requires a dated State or district source.
+14. Heatwaves and lightning entered the 2026-31 notified list.
+15. Allocation/sanction is not outcome evidence; NDMIS validation becomes a grant condition from 2027-28.
 
 ### Concept check
 
@@ -785,15 +844,15 @@ Write the full form on first use. Add “force” or “fund” every time ambig
 
 **Misconception to avoid:** Never infer force deployment from fund release or fund availability from battalion strength.
 
-### Lesson-local Mains practice
+### Applied Mains practice — funds and forces
 
 **Question (15 marks, 250 words):** Distinguish India's disaster-response and mitigation funds from its specialised response forces. Explain the current Finance Commission structure.
 
-**Model (175 words):** India's disaster architecture separates personnel from finance. NDRF may mean the National Disaster Response Force under section 44 or the National Disaster Response Fund under section 46. At State level, section 44A enables a State Disaster Response Force, while section 48 provides the State Disaster Response Fund. Sections 47 and 48 provide national and State mitigation funds; section 48 also contemplates district response and mitigation funds.
+**Model (223 words):** India's disaster architecture separates personnel from finance. NDRF may mean the National Disaster Response Force under section 44 or the National Disaster Response Fund under section 46. At State level, section 44A enables a State Disaster Response Force, while section 48 provides the State Disaster Response Fund. Sections 47 and 48 provide national and State mitigation funds; section 48 also contemplates district response and mitigation funds.
 
-Response funds meet eligible immediate relief and recovery needs; mitigation funds finance ex-ante risk reduction. State resources are primary, while national response assistance supplements severe needs through the statutory approval process.
+Response funds meet eligible **immediate-relief** expenditure under notified norms; they are not a general long-term reconstruction or recovery-finance window. Mitigation funds finance ex-ante risk reduction. State resources are primary, while national response assistance supplements severe needs through the statutory approval process.
 
-For 2026-31, the accepted Sixteenth Finance Commission recommendations provide ₹2,04,401 crore for State response and mitigation funds: ₹1,63,521 crore SDRF and ₹40,880 crore SDMF, an 80:20 split. The national NDRF-plus-NDMF allocation is ₹79,406 crore. Union-State sharing remains 75:25 for non-NEH and 90:10 for NEH States.
+For 2026-31, the accepted Sixteenth Finance Commission recommendations provide ₹2,04,401 crore for State response and mitigation funds: ₹1,63,521 crore SDRF and ₹40,880 crore SDMF, an 80:20 split. The national pool is ₹79,406 crore, with 75% earmarked for NDRF and a maximum 25% for NDMF. Union-State sharing remains 75:25 for non-NEH and 90:10 for NEH States. Section 48 provides for district funds, but this source set does not establish uniform constitution or operation; use a dated State/district source for any specific status claim.
 
 These corpora measure fiscal provision, not resilience. Transparent triggers, validated data, rapid access, project quality and audited risk reduction determine whether finance becomes capability.
 
@@ -804,9 +863,9 @@ These corpora measure fiscal provision, not resilience. Transparent triggers, va
 Progress: 8 / 17 | Stage: Core | Subtopic: Risk financing, insurance, risk layering and accountability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — risk-transfer material and current finance architecture checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 5 and 15; insurance/risk-transfer limits routed to Disaster Management Topic 16 at `555ddedd9`
+CA search: "Official disaster risk financing insurance social protection India update 5 April to 5 October 2026 site:fincomindia.nic.in OR site:ndmindia.mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: No new standalone official disaster-insurance instrument located; 31 Jul 2026 mitigation guidelines continued the public response/mitigation-fund architecture
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: finance matched to the layer of risk
@@ -857,17 +916,17 @@ allocation -> release -> expenditure -> asset/service delivered
 
 CAG and legislative audit matter because announcement and utilisation are not the same. Loss accounting should separate emergency relief, reconstruction and mitigation outcomes.
 
-### Strongest objection, reply and residual
+### Justice test: transfer without physical risk reduction
 
 **Objection:** Insurance privatises a public responsibility.
 **Reply:** Risk transfer can complement universal public relief and mitigation.
 **Residual:** It becomes unjust if premiums, exclusions or data gaps leave high-risk poor households unprotected or if public policy substitutes insurance for prevention.
 
-### UPSC use
+### Exam lens: build a layered finance portfolio
 
 Use a layered portfolio. Do not present one fund or insurance product as a complete finance strategy.
 
-### Revision notes
+### Risk-finance recall
 
 1. Risk acceptance, avoidance, reduction and transfer are distinct strategies.
 2. Insurance transfers financial loss; it does not make the asset physically safer.
@@ -890,7 +949,7 @@ Use a layered portfolio. Do not present one fund or insurance product as a compl
 
 **Misconception to avoid:** Financial compensation is not equivalent to physical resilience.
 
-### Lesson-local Mains practice
+### Applied Mains practice — risk-transfer limits
 
 **Question (10 marks, 150 words):** Discuss the role and limitations of risk-transfer instruments in disaster management.
 
@@ -907,9 +966,9 @@ India should therefore use risk layering: budgets and social protection for freq
 Progress: 9 / 17 | Stage: Core | Subtopic: Risk assessment and structural/non-structural mitigation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — DRR planning and resilient-infrastructure material checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 27-31 and 61-64
+CA search: "Official CDRI member countries partner organisations current October 2026 resilient infrastructure site:cdri.world" | window: 5 Apr-5 Oct 2026
+CA found: CDRI current About page reports 59 member countries, 13 partner organisations and Secretariat International Organization status; accessed 5 Oct 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: assessment must change a decision
@@ -976,7 +1035,7 @@ India launched the **Coalition for Disaster Resilient Infrastructure (CDRI)** at
 
 CDRI therefore broadens “strong infrastructure” into risk-informed siting, standards, finance, maintenance, continuity and recovery. Membership or guidance does not prove that a particular asset is resilient; project-level design, compliance and performance still require evidence.
 
-CDRI's official membership listing reported **58 member countries and 12 member organisations as of June 2026**. This demonstrates convening reach, not completed infrastructure retrofits or measured loss reduction.
+CDRI's official current page, accessed **5 October 2026**, reports **59 member countries** and **13 partner organisations**. Its New Delhi Secretariat holds **International Organization** status. Keep those categories separate: partner organisations are not relabelled member organisations, and no combined membership total is inferred. Participation demonstrates convening reach, not completed retrofits or measured loss reduction.
 
 ### 7. Ecologically sensitive areas: manage development without manufacturing risk
 
@@ -998,17 +1057,17 @@ In the Himalaya, road cutting, tunnelling, hydropower and hill-town construction
 
 New flagship infrastructure attracts attention, but existing schools, bridges, drains, dams and hospitals often contain the largest exposure. Risk-informed asset management prioritises inspection, retrofit and maintenance based on consequence of failure.
 
-### Strongest objection, reply and residual
+### Regulation trade-off: safety, affordability and informality
 
 **Objection:** Strict codes and zoning slow housing and infrastructure.
 **Reply:** Unpriced risk creates larger future fiscal and human costs.
 **Residual:** Compliance must be affordable, transparent and paired with technical support and safe alternatives, or it can drive construction into informality.
 
-### UPSC use
+### Exam lens: explain enforceability and maintenance
 
 Move beyond “enforce building codes.” Explain adoption, inspection, retrofit, affordability and accountability.
 
-### Revision notes
+### Risk-informed development recall
 
 1. Risk assessment combines hazard, exposure, vulnerability, capacity and uncertainty.
 2. A risk map earns value only when it changes planning, design or budgets.
@@ -1018,13 +1077,13 @@ Move beyond “enforce building codes.” Explain adoption, inspection, retrofit
 6. Retrofitting existing stock is as important as regulating new construction.
 7. Structural measures can transfer risk or induce risky development.
 8. Non-structural measures include zoning, codes, warning, insurance and ecosystem protection.
-9. Critical infrastructure must preserve function, not merely remain standing.
-10. Redundancy and rapid repair reduce service disruption.
-11. Interdependencies must be mapped across power, water, telecom, health and transport.
-12. Maintenance is a DRR investment.
-13. Compliance design must address affordability and informality.
-14. CDRI links infrastructure risk assessment, standards, finance and Build Back Better; it is not an operational command authority.
-15. Ecologically sensitive infrastructure requires cumulative risk assessment, avoidance, low-impact design, monitoring and enforceable residual-risk limits.
+9. Critical infrastructure must preserve function through redundancy and rapid repair, not merely remain standing.
+10. Interdependencies must be mapped across power, water, telecom, health and transport.
+11. Maintenance is a DRR investment.
+12. Compliance design must address affordability and informality.
+13. CDRI links risk assessment, standards, finance and BBB; it is not operational command.
+14. CDRI reports 59 member countries and 13 partner organisations; its Secretariat has International Organization status, but participation is not a resilience outcome.
+15. Ecologically sensitive infrastructure requires cumulative assessment, avoidance, low-impact design, monitoring and enforceable residual-risk limits.
 
 ### Concept check
 
@@ -1034,7 +1093,7 @@ Move beyond “enforce building codes.” Explain adoption, inspection, retrofit
 
 **Misconception to avoid:** Critical-infrastructure resilience is not identical to structural strength.
 
-### Lesson-local Mains practice
+### Applied Mains practice — risk-informed development
 
 **Question (15 marks, 250 words):** How can risk assessment and development regulation prevent the creation of new disaster risk?
 
@@ -1053,9 +1112,9 @@ Thus a risk assessment is successful when it changes a development decision and 
 Progress: 10 / 17 | Stage: Core | Subtopic: Risk knowledge, detection, dissemination and response capability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — early-warning material and official agency roles checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF p. 8; exact MHEWS ownership routed to Disaster Management Topic 04 at `555ddedd9`
+CA search: "Official India multi-hazard early warning decision support system April 2026 site:pib.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: PIB, "India's Multi-Hazard Early Warning Decision Support System", 28 Apr 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: warning is a chain
@@ -1118,17 +1177,17 @@ Forecast-based action releases resources or triggers steps before impact: pre-po
 
 Early Warnings for All targets universal protection by **2027** through four pillars: UNDRR risk knowledge, WMO observations/forecasting, ITU dissemination and IFRC preparedness/response. It operationalises Sendai Target G.
 
-### Strongest objection, reply and residual
+### Last-mile warning test: signal versus feasible action
 
 **Objection:** More sensors and faster alerts solve warning gaps.
 **Reply:** They reduce information delay.
 **Residual:** People still need trusted authority, accessible messages, transport, shelter and the power to act; otherwise technology can widen inequality.
 
-### UPSC use
+### Exam lens: follow the warning-to-action chain
 
 Name the complete chain and one hazard-specific institution. Avoid generic “use technology” answers.
 
-### Revision notes
+### Warning-chain recall
 
 1. Early warning is an end-to-end social and technical chain.
 2. Risk knowledge identifies exposed groups and feasible actions.
@@ -1152,7 +1211,7 @@ Name the complete chain and one hazard-specific institution. Avoid generic “us
 
 **Misconception to avoid:** Warning accuracy and warning effectiveness are related but not identical.
 
-### Lesson-local Mains practice
+### Applied Mains practice — end-to-end warning
 
 **Question (15 marks, 250 words):** What constitutes an effective multi-hazard early-warning system? Discuss India's institutional requirements.
 
@@ -1171,9 +1230,9 @@ Technology alone is insufficient: a precise forecast fails if residents lack tru
 Progress: 11 / 17 | Stage: Core | Subtopic: GIS, remote sensing, satellites, drones, AI and data governance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — GIS/technology material and current statutory data duties checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 8 and 66; current database law routed to Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official India AI-based early warning weather disaster forecasting update April to October 2026 site:pib.gov.in OR site:moes.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: MoES official releases in May and Aug 2026 documented operational AI/ML integration in forecasting; programme use is not uniform-skill proof
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: technology must support a decision
@@ -1230,17 +1289,17 @@ Good governance requires metadata, common definitions, validation, update cycles
 
 Public reports can reveal blocked roads or trapped persons faster than official surveys. They can also spread rumours, duplicate requests, expose personal data or be manipulated. Verification, geolocation confidence and authoritative correction are essential.
 
-### Strongest objection, reply and residual
+### Automation challenge: speed versus accountable judgement
 
 **Objection:** Human judgement introduces bias, so automated allocation is more objective.
 **Reply:** Models can improve consistency and speed.
 **Residual:** Training data and objectives embed choices; accountable human review, appeal and field verification remain necessary.
 
-### UPSC use
+### Exam lens: link function, decision, limit and fallback
 
 For every technology, write function -> decision -> limitation -> fallback.
 
-### Revision notes
+### Technology-governance recall
 
 1. GIS stores, analyses and presents spatial information.
 2. Remote sensing provides repeated observations but still needs ground validation.
@@ -1265,7 +1324,7 @@ For every technology, write function -> decision -> limitation -> fallback.
 
 **Misconception to avoid:** Algorithmic output is not objective when source data omit vulnerable groups.
 
-### Lesson-local Mains practice
+### Applied Mains practice — technology under uncertainty
 
 **Question (15 marks, 250 words):** Assess the role and limitations of geospatial and artificial-intelligence tools in disaster management.
 
@@ -1284,9 +1343,9 @@ Digital tools reduce information uncertainty; they do not replace institutions, 
 Progress: 12 / 17 | Stage: Core | Subtopic: Local knowledge, gender, disability, age, displacement and dignity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — community and social-vulnerability chapters checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 4-5 and 66-67; inclusive-protection ownership routed to Disaster Management Topic 03 at `555ddedd9`
+CA search: "Official India community participation disaster management Aapda Mitra update 5 April to 5 October 2026 site:mha.gov.in OR site:ndma.gov.in OR site:pib.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: No dated national scheme-status release located inside the window; NDMA's Aapda Mitra portal and community-volunteering framework were checked on 5 Oct 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: inclusion must run through every phase
@@ -1339,17 +1398,17 @@ Displaced people may face aid discrimination, violence, trafficking, recruitment
 
 Livestock and companion animals influence whether households evacuate. Inclusive planning should consider safe animal shelter and veterinary support where relevant, without compromising human safety.
 
-### Strongest objection, reply and residual
+### Inclusion trade-off: useful data versus privacy
 
 **Objection:** Disaggregated planning is too complex during emergency response.
 **Reply:** Pre-disaster design simplifies response by identifying needs, responsibilities and accessible options in advance.
 **Residual:** Registers can stigmatise or expose personal data; consent, minimisation and security are required.
 
-### UPSC use
+### Exam lens: name group, mechanism, phase and actor
 
 Never write “focus on vulnerable sections” alone. Name group -> risk mechanism -> phase-specific measure -> responsible local actor.
 
-### Revision notes
+### Inclusion recall
 
 1. Community-based DRR assigns specific roles before, during and after disaster.
 2. Community capacity complements rather than replaces State responsibility.
@@ -1375,7 +1434,7 @@ Never write “focus on vulnerable sections” alone. Name group -> risk mechani
 
 **Misconception to avoid:** Formal equality of communication does not guarantee substantive equality of protection.
 
-### Lesson-local Mains practice
+### Applied Mains practice — community and inclusion
 
 **Question (15 marks, 250 words):** Community participation and social inclusion are central, not peripheral, to disaster resilience. Discuss.
 
@@ -1394,9 +1453,9 @@ Resilience is not achieved when the average population receives a warning; it is
 Progress: 13 / 17 | Stage: Core | Subtopic: Climate-sensitive hazards, slow-onset risk and ecosystem-based DRR
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — climate-risk and Economic Survey ecosystem-resilience evidence checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF p. 6; `books\economic-survey-2025-26.pdf`, PDF pp. 435-436
+CA search: "Official India heatwave lightning notified disaster climate risk 4 August 2026 site:mha.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: MHA Lok Sabha UQ 2541, 4 Aug 2026—heatwaves and lightning included in the 2026-31 notified-calamity list
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: overlapping, not identical agendas
@@ -1440,17 +1499,17 @@ The Economic Survey 2025-26 describes mangrove restoration and protected wetland
 
 Mitigation avoids future climate forcing; adaptation reduces vulnerability to unavoidable impacts; residual loss and damage concerns impacts not avoided or adapted to. Disaster relief, adaptation finance and loss-and-damage mechanisms are not synonyms.
 
-### Strongest objection, reply and residual
+### Integration boundary: convergence without merger
 
 **Objection:** Integrating DRR and adaptation creates one coherent system.
 **Reply:** Shared data, finance and local plans reduce duplication.
 **Residual:** Full merger can obscure non-climatic hazards, differing time horizons, legal mandates and attribution standards.
 
-### UPSC use
+### Exam lens: preserve adaptation-DRR boundaries
 
 Write a Venn diagram in prose: common tools, distinct scopes, coordinating mechanism.
 
-### Revision notes
+### Climate-DRR recall
 
 1. DRR covers climate and non-climate hazards.
 2. Climate adaptation addresses climate variability and long-term change.
@@ -1474,7 +1533,7 @@ Write a Venn diagram in prose: common tools, distinct scopes, coordinating mecha
 
 **Misconception to avoid:** Overlap does not erase the different scope and accountability of DRR and adaptation.
 
-### Lesson-local Mains practice
+### Applied Mains practice — climate-DRR convergence
 
 **Question (10 marks, 150 words):** Explain the convergence and distinctions between climate-change adaptation and disaster risk reduction.
 
@@ -1491,9 +1550,9 @@ Integration should use shared climate-risk data, compatible local plans, anticip
 Progress: 14 / 17 | Stage: Core | Subtopic: Urban risk and critical-infrastructure interdependence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — urban and critical-infrastructure resilience material checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 27-31 and 61-64
+CA search: "Official Urban Flood Risk Mitigation Programme India update August 2026 site:mha.gov.in OR site:pib.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: No verified official UFRMP update located inside the window. Older status source only: MHA Lok Sabha UQ 478, 3 Feb 2026 (outside the window), reporting Phase I/II sanction and monitoring; no later PIB update is inferred
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one failure becomes many
@@ -1584,23 +1643,23 @@ Do not collapse four different urban-resilience instruments:
 
 These distinctions prevent institutional confusion: a guideline recommendation, a financed programme, an international standards coalition and a statutory authority perform different jobs.
 
-The Urban Flooding Cell was recommended in NDMA's **2010 Guidelines on Management of Urban Flooding**; the recommendation does not prove that a universal functioning Cell was constituted. UFRMP has moved beyond recommendation into sanctioned mitigation finance: Chennai was approved in December 2023, six further cities in July 2024, and **Phase II for 11 cities was approved on 1 October 2025 with an outlay of ₹2,444.42 crore on a 90:10 basis**. Approval and release remain distinct from completed drainage, maintained assets or reduced flood loss.
+The Urban Flooding Cell was recommended in NDMA's **2010 Guidelines on Management of Urban Flooding**; the recommendation does not prove that a universal functioning Cell was constituted. **MHA Lok Sabha UQ 478, answered 3 February 2026**, reported UFRMP Phase I for seven cities and Phase II for eleven cities, with respective outlays of ₹3,075.65 crore and ₹2,444.42 crore under NDMF. Earlier approvals included Chennai in December 2023, six further cities in July 2024 and Phase II on 1 October 2025. This is an older institutional status source outside the current CA window; sanction and monitoring do not prove completed works or reduced flood loss.
 
 ### 7. Crowd disasters
 
 Crowd density can itself generate hazard. Capacity-linked entry, holding areas, one-way circulation, accessible exits, real-time density monitoring, medical access and authoritative communication are prevention measures. Technology does not compensate for exceeding safe capacity.
 
-### Strongest objection, reply and residual
+### Redundancy trade-off: resilience versus cost
 
 **Objection:** Redundancy is inefficient duplication.
 **Reply:** Spare routes, backup power and distributed capacity carry an insurance value when failure consequences are large.
 **Residual:** Unlimited redundancy is unaffordable; criticality and consequence analysis should prioritise it.
 
-### UPSC use
+### Exam lens: draw a three-link urban cascade
 
 Write one three-link cascade. It demonstrates systems thinking better than a long list of damaged assets.
 
-### Revision notes
+### Urban-systems recall
 
 1. Cascading risk is failure propagation from one system to another.
 2. Compound risk combines multiple hazards or drivers.
@@ -1613,7 +1672,7 @@ Write one three-link cascade. It demonstrates systems thinking better than a lon
 9. UDMA needs metropolitan and inter-district coordination.
 10. Crowd disasters require flow and capacity design.
 11. Redundancy should be prioritised by criticality, not applied without limit.
-12. The Urban Flooding Cell is a 2010 guideline recommendation; UFRMP is an NDMF-financed mitigation programme.
+12. The Urban Flooding Cell is a 2010 guideline recommendation; MHA UQ 478 of 3 February 2026 is the cited UFRMP Phase I/II status source.
 13. CDRI, UFC, UFRMP and UDMA differ respectively as coalition, recommended cell, financed programme and State-notified authority.
 14. Mumbai 2005 combined exceptionally intense rainfall with low-lying/reclaimed exposure, drainage constraints and waste blockage.
 15. Chennai 2015 combined northeast-monsoon extreme rainfall with altered wetlands/waterways and drainage and land-use stress.
@@ -1626,7 +1685,7 @@ Write one three-link cascade. It demonstrates systems thinking better than a lon
 
 **Misconception to avoid:** Asset hardening alone is not system resilience.
 
-### Lesson-local Mains practice
+### Applied Mains practice — urban systemic risk
 
 **Question (15 marks, 250 words):** Urban disasters are increasingly cascading failures of interdependent systems. Discuss.
 
@@ -1645,9 +1704,9 @@ Redundancy has cost, so consequence analysis should prioritise hospitals, water,
 Progress: 15 / 17 | Stage: Core | Subtopic: Rehabilitation, reconstruction, livelihoods and safer recovery
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — recovery, finance and Sendai Priority 4 material checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 6 and 62; recovery detail routed to Disaster Management Topics 16-17 at `555ddedd9`
+CA search: "Official Build Back Better recovery disaster resilience update April to October 2026 site:undrr.org OR site:cdri.world" | window: 5 Apr-5 Oct 2026
+CA found: No verified official CDRI BBB item dated inside the window. Older institutional context only: CDRI-UNDP Regional Workshop on Resilient Recovery and Build Back Better, Dominican Republic, April 2025 (outside the window); not treated as current CA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: recovery choices create the next risk profile
@@ -1704,17 +1763,17 @@ Emergency procurement needs speed and integrity. Publish contracts, unit costs a
 
 Mental-health support, family reunification, protection from violence, cultural continuity and community institutions affect long-term resilience. Rebuilding houses without restoring agency is incomplete.
 
-### Strongest objection, reply and residual
+### Recovery trade-off: speed versus safer rebuilding
 
 **Objection:** BBB delays urgent reconstruction through higher standards and consultation.
 **Reply:** Pre-approved standards, risk maps and recovery plans can combine speed with safety.
 **Residual:** Higher standards require finance, skills and maintenance; otherwise safer design remains unaffordable or unenforced.
 
-### UPSC use
+### Exam lens: pair safer change with an implementation condition
 
 Use claim -> safer change -> named implementation condition -> qualification.
 
-### Revision notes
+### Recovery and BBB recall
 
 1. Recovery includes services, livelihoods, housing, ecosystems and institutions.
 2. Damage, economic loss and recovery needs are different categories.
@@ -1738,7 +1797,7 @@ Use claim -> safer change -> named implementation condition -> qualification.
 
 **Misconception to avoid:** A stronger structure can coexist with weaker social and economic resilience.
 
-### Lesson-local Mains practice
+### Applied Mains practice — Build Back Better
 
 **Question (10 marks, 150 words):** Explain the meaning of Build Back Better and the challenges of applying it in post-disaster recovery.
 
@@ -1755,9 +1814,9 @@ Governments should prepare recovery frameworks before disasters, use transparent
 Progress: 16 / 17 | Stage: Core | Subtopic: NDMP, Centre-State relations, audits and measurable implementation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — NDMP, current parliamentary status and audit architecture checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 14 and 16-18; current plan cycles routed to Disaster Management Topic 02 at `555ddedd9`
+CA search: "Official National Disaster Management Plan India latest plan review update April to October 2026 site:ndmindia.mha.gov.in OR site:ndma.gov.in" | window: 5 Apr-5 Oct 2026
+CA found: No new public NDMP edition or review outcome located in the date window; revised NDMP 2019 remained the latest official edition found on 5 Oct 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: accountability loop
@@ -1771,9 +1830,16 @@ audit <- public data <- outcome indicators <- exercise/event evidence
 
 ### 1. National planning
 
-India's first National Disaster Management Plan was issued in 2016; as of **3 October 2026**, the **revised NDMP 2019** remains the latest published national plan. It aligns disaster planning with Sendai, the SDGs and climate commitments and assigns responsibilities across phases and hazards.
+India's first National Disaster Management Plan was issued in 2016. As of **5 October 2026**, the **revised NDMP 2019** remains the latest published national plan located in the official MHA/NDM India repository. It aligns disaster planning with Sendai, the SDGs and climate commitments and assigns responsibilities across phases and hazards. The 2025 amendment changes plan preparation and cycles:
 
-The 2025 amendment changes the statutory plan-preparation architecture and provides review and update cycles. The Act's change does not itself prove a new public plan edition has been issued.
+| Plan | Preparation/approval after the amendment | Statutory cycle |
+|---|---|---|
+| National Plan | NDMA coordinates preparation and approval, consulting governments and stakeholders | review once every 3 years; update at least once every 5 years |
+| State Plan | SDMA coordinates preparation and approves it | review once every 3 years; update at least once every 5 years |
+| District Plan | DDMA prepares; SDMA approves under the amended architecture | review at least once every 2 years or earlier as necessary |
+| Urban Plan | State-notified UDMA prepares; SDMA approves | no universal review interval stated in s. 41A; check State rules/notification |
+
+The changed Act does not itself prove a new public national-plan edition has been issued.
 
 ### 2. The NDMP's five themes and accountability limitation
 
@@ -1831,33 +1897,33 @@ Count outcomes as well as inputs:
 | plans approved | exercises, updates and completed mitigation |
 | shelters built | accessibility, maintenance and safe occupancy |
 
-### Strongest objection, reply and residual
+### Measurement challenge: attribution without false comparison
 
 **Objection:** Outcome attribution is impossible because disasters differ.
 **Reply:** Perfect causal isolation is rare, but comparable indicators, counterfactual analysis, exercises and repeated trends improve judgement.
 **Residual:** Avoid simplistic cross-event casualty comparisons without controlling for hazard intensity and exposure.
 
-### UPSC use
+### Exam lens: specify actor, deadline, finance, indicator and audit
 
 Conclude with a testable reform: funded action, responsible tier, deadline, public indicator and audit route.
 
-### Revision notes
+### Planning and accountability recall
 
-1. NDMP 2016 was the first edition; revised NDMP 2019 remained the latest published national plan as of 3 October 2026.
-2. The 2025 amendment changes statutory plan responsibilities and cycles.
-3. A changed Act does not prove publication of a new plan edition.
-4. States have primary response responsibility; the Union supplements severe needs.
-5. Federal coordination needs common standards and State/local adaptation.
-6. A plan requires named responsibility, time, budget and resources.
-7. Exercises should generate corrective-action records.
-8. CAG audits test implementation and expenditure, not merely institutional existence.
-9. A State audit should not be generalised to all India without evidence.
-10. Legislative, judicial, media, social and community accountability are complementary.
-11. Input counts should be linked to action and outcome indicators.
-12. Casualty comparisons require hazard and exposure context.
-13. Good reforms specify actor, deadline, finance, indicator and audit.
-14. NDMP's five themes are risk understanding, coordination, structural investment, non-structural investment and capacity development.
-15. A documented 2016-plan limitation was the absence of its own goals, targets, timeframes and funding projections; current evaluation must test the revised plan's executable detail.
+1. NDMP 2016 was the first edition; revised NDMP 2019 remained the latest published national plan located as of 5 October 2026.
+2. National and State Plans are reviewed every three years and updated at least every five years.
+3. District Plans are reviewed at least every two years or earlier as necessary.
+4. Section 41A does not itself prescribe a universal Urban Plan review interval.
+5. A changed Act does not prove publication of a new plan edition.
+6. States have primary response responsibility; the Union supplements severe needs.
+7. Federal coordination needs common standards and State/local adaptation.
+8. A plan requires named responsibility, time, budget and resources.
+9. Exercises should generate corrective-action records.
+10. CAG audits test implementation/expenditure; a State audit cannot be generalised nationally without evidence.
+11. Legislative, judicial, media, social and community accountability are complementary.
+12. Input counts should be linked to action and outcome indicators.
+13. Casualty comparisons require hazard and exposure context.
+14. Good reforms specify actor, deadline, finance, indicator and audit.
+15. NDMP's five themes must be tested against the documented 2016 absence of goals, timelines and funding projections and the revised plan's executable detail.
 
 ### Concept check
 
@@ -1867,7 +1933,7 @@ Conclude with a testable reform: funded action, responsible tier, deadline, publ
 
 **Misconception to avoid:** Counting plans can reward compliance paperwork rather than risk reduction.
 
-### Lesson-local Mains practice
+### Applied Mains practice — accountable implementation
 
 **Question (15 marks, 250 words):** India's disaster-management challenge is increasingly one of accountable implementation rather than institutional absence. Examine.
 
@@ -1886,9 +1952,9 @@ Accountability should link statutory duties to responsible officers, deadlines, 
 Progress: 17 / 17 | Stage: Advanced | Subtopic: Systemic reform, Sendai accountability and implementation critique
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — advanced risk-governance, legal, finance and accountability analysis checked
-CA search: not applicable to this lesson
-CA found: none used in this lesson
+Book context: `books\VisionIAS Value Added Material Disaster Management.pdf`, PDF pp. 14-18 and 61-62; advanced governance routes checked against Disaster Management Topics 01, 02, 14 and 18 at `555ddedd9`
+CA search: "Official Sendai Framework Monitor global progress published 24 September 2026 site:undrr.org" | window: 5 Apr-5 Oct 2026
+CA found: UNDRR's 24 Sep 2026 status showed mixed progress and persistent gaps, reinforcing the means-versus-outcomes critique
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the reform stack
@@ -1922,9 +1988,9 @@ The tier with the most local knowledge and immediate responsibility often has th
 
 Targets A-D measure losses that depend on hazard exposure as well as policy. Targets E-G measure means that governments control more directly. A country can improve strategy and warning indicators without clearly lowering loss. The 38-indicator framework enables monitoring but cannot substitute for causal evaluation.
 
-### 4. The 2025 amendment's asymmetry
+### 4. Amendment asymmetry: 2025 architecture, 2026 penalty terms
 
-The amendment strengthens apex accountability by giving statutory status to NCMC and HLC and creating database duties. Yet UDMA and State-force provisions are enabling. This can produce a stronger top while local rollout remains uneven.
+The 2025 amendment strengthens apex accountability by giving statutory status to NCMC and HLC and creating database duties. Yet UDMA and State-force provisions are enabling. The Jan Vishwas Act 2026 changes only ss. 51-53 imprisonment terms and does not solve local rollout. The combined position can therefore leave a stronger apex while urban and State operational capacity remains uneven.
 
 ### 5. Finance must purchase risk reduction
 
@@ -1961,17 +2027,17 @@ Cyclone experience shows the value of repeated investment, standard operating pr
 7. integrate ecosystems and critical-infrastructure continuity;
 8. publish recovery and mitigation outcomes.
 
-### Strongest objection, reply and residual
+### Accountability trade-off: emergency discretion versus audit
 
 **Objection:** More monitoring and accountability slow emergency action.
 **Reply:** Pre-agreed standards, delegated thresholds and transparent data can speed action.
 **Residual:** Emergency discretion remains necessary; retrospective audit must distinguish good-faith urgency from avoidable opacity or neglect.
 
-### UPSC use
+### Exam lens: use advanced depth selectively
 
 Use this depth to qualify a Core answer, not to replace the clear institutional and Sendai foundation.
 
-### Revision notes
+### Advanced reform recall
 
 1. Disaster risk can be created by ordinary development decisions.
 2. Better response does not compensate for continuous creation of new exposure.
@@ -1979,7 +2045,7 @@ Use this depth to qualify a Core answer, not to replace the clear institutional 
 4. Permanent district cells and State technical pools can reduce the capacity gap.
 5. Sendai loss targets and means targets have different accountability properties.
 6. Thirty-eight indicators improve comparability but not automatic causal attribution.
-7. The 2025 amendment strengthens apex bodies more automatically than local rollout.
+7. The 2025 amendment strengthens apex bodies more automatically than local rollout; the 2026 amendment changes only ss. 51-53 maximum terms.
 8. Enabling urban and State-force provisions require notifications and resources.
 9. Mitigation finance should be prioritised by expected risk reduction and maintenance.
 10. Urban risk crosses administrative boundaries and utility silos.
@@ -1987,7 +2053,7 @@ Use this depth to qualify a Core answer, not to replace the clear institutional 
 12. Open standards, ground truth and appeal protect public-interest technology.
 13. Emergency discretion should coexist with retrospective audit.
 14. Advanced critique should end in specific, testable reforms.
-15. Cyclone preparedness is more institutionally mature than heatwave and urban-flood preparedness, but cross-event outcome claims still require comparable evidence.
+15. Cyclone preparedness is more mature institutionally than heatwave/urban-flood preparedness, but comparisons still require controlled evidence.
 
 ### Concept check
 
@@ -1997,7 +2063,7 @@ Use this depth to qualify a Core answer, not to replace the clear institutional 
 
 **Misconception to avoid:** Means-of-implementation progress is valuable but cannot be reported as loss reduction.
 
-### Lesson-local Mains practice
+### Applied Mains practice — systemic reform
 
 **Question (20 marks, 250 words):** Critically examine the proposition that India's disaster-management deficit lies less in institutional design than in local capability, accountability and risk-producing development.
 
@@ -2184,7 +2250,7 @@ Sendai's priorities and targets provide a global benchmark, but strategy or aler
 
 **Question (20 marks, 250 words):** Critically evaluate India's disaster-risk-governance architecture after the Disaster Management (Amendment) Act, 2025.
 
-**Model (203 words):** India's current architecture combines the Disaster Management Act, NDMA-SDMA-DDMA tiers, executive and crisis committees, specialised forces, statutory funds, technical warning agencies and a Sendai-aligned plan. The 2025 amendment, in force from 9 April 2025, strengthens this structure by defining disaster risk and a disaster database, giving statutory footing to NCMC and HLC, enabling urban authorities and State response forces, and expanding plan and regulation provisions.
+**Model (224 words):** India's current architecture combines the Disaster Management Act, NDMA-SDMA-DDMA tiers, executive and crisis committees, specialised forces, statutory funds, technical warning agencies and a Sendai-aligned plan. The 2025 amendment, in force from 9 April 2025, strengthens this structure by defining disaster risk and a disaster database, giving statutory footing to NCMC and HLC, enabling urban authorities and State response forces, and expanding plan and regulation provisions. The Jan Vishwas Act 2026 later reduced maximum imprisonment terms in ss. 51-53 from 15 May 2026 without redesigning these institutions.
 
 Its strength is differentiated responsibility: national policy and standards, State adaptation, district coordination, local service delivery and community action. FC16's response-mitigation architecture and data condition can improve fiscal discipline, while interoperable warning and geospatial tools strengthen preparedness.
 
@@ -2212,9 +2278,9 @@ Reform should create permanent district and metropolitan technical cells, cost a
 
 **Repair:** Four action priorities; seven targets A-G. Write both lists separately.
 
-## Error 5 — the 2025 amendment is a Bill
+## Error 5 — the law stopped changing after the 2025 amendment
 
-**Repair:** It is Act 10 of 2025, gazetted 29 March and in force 9 April 2025.
+**Repair:** Act 10 of 2025 is enacted and in force from 9 April 2025. Separately, Jan Vishwas Act 2026 changed only maximum imprisonment terms in ss. 51-53 from 15 May 2026 under S.O. 2181(E).
 
 ## Error 6 — section 41A created every UDMA automatically
 
@@ -2348,7 +2414,7 @@ DEFINE risk and boundary
 - Exposure = people/assets/services/ecosystems in harm's way.
 - Vulnerability = physical, social, economic, environmental, institutional and attitudinal susceptibility.
 - Capacity = knowledge, institutions, finance, social networks, infrastructure and ability to act.
-- Working logic: hazard x exposure x vulnerability / capacity -> risk.
+- Disaster risk is determined probabilistically as a function of hazard, exposure, vulnerability and capacity; this is dynamic interaction, not arithmetic.
 - Resilience = resist, absorb, accommodate, adapt, transform and recover while preserving essential function.
 - Properties: robustness, redundancy, resourcefulness, rapidity, adaptability.
 - Risk is dynamic and development can create new risk.
@@ -2374,14 +2440,21 @@ DEFINE risk and boundary
 - Targets E-G: strategies, cooperation, multi-hazard warning/risk information.
 - Target E deadline 2020; others 2030.
 - Sendai Framework Monitor: 38 agreed indicators.
+- Hyogo already centred DRR/resilience; Sendai deepened risk governance, investment, targets and BBB.
+- The 2023 Midterm Review is the historical political milestone.
+- UNDRR 24 Sep 2026: 176 reporting countries; mortality rate down 65%; affected-person rate doubled; reported direct losses above US$1tn; 151 national strategies; 128 MHEWS.
+- Reporting coverage varies; the global trends do not prove causation or India's performance.
 - Yokohama 1994 -> Hyogo 2005-15 (five priorities) -> Sendai.
 - PM's Ten-Point Agenda: AMCDRR, New Delhi, November 2016.
 - Agenda themes: mainstream development; universal risk coverage; women's leadership; mapping; technology; university networks; social/mobile communication; local capacity; lessons from disasters; cohesive international response.
 
 ## D. Current legal status
 
-- DM Act 2005 is principal law, read with 2025 amendment.
+- DM Act 2005 is principal law, read with the 2025 institutional amendment and the narrower 2026 s. 51-53 changes.
 - Act 10 of 2025: assent/Gazette 29 Mar 2025; in force 9 Apr 2025 via S.O. 1648(E).
+- Jan Vishwas Act 2026, Schedule serial 60: s. 51 maximum terms reduced to six months/one year; s. 52 to six months; s. 53 to one year.
+- S.O. 2181(E), 30 Apr 2026: those substitutions effective 15 May 2026.
+- Do not infer changes to fines, procedure, compounding or institutional powers beyond the enacted substitutions.
 - s. 2(da) disaster database; s. 2(ea) disaster risk.
 - s. 8A NCMC; s. 8B HLC.
 - s. 41A UDMA; s. 44A State Disaster Response Force.
@@ -2401,12 +2474,15 @@ DEFINE risk and boundary
 - NIDM: capacity building, training, research, documentation, advocacy.
 - NDRF force: 16 operational battalions; sanctioned 18,581 (MHA, 22 Jul 2025).
 - NPDRR, Home Minister-chaired: multi-stakeholder review/advice.
+- IRS: Responsible Officer oversight; Incident Commander field direction; Operations, Planning and Logistics sections, with Finance/Administration where required.
 
 ## F. State, district and local chain
 
 - SDMA, CM-chaired: State policy and plan.
 - SEC, Chief Secretary-chaired: coordination and monitoring.
 - DDMA, DM/Collector-chaired with elected local Co-Chair: district plan and implementation.
+- National/State Plans: review every 3 years, update at least every 5.
+- District Plan: review at least every 2 years or earlier as necessary.
 - ULB/PRI: land use, drainage, local services, shelters, relief and recovery.
 - DDMA challenge: thin specialist capacity, competing duties, data and finance gaps.
 - MHA reply 11 Feb 2026: Karnataka BBMP was the one reported UDMA then; not national rollout.
@@ -2419,7 +2495,10 @@ DEFINE risk and boundary
 - FC16 2026-31: State corpus ₹2,04,401 crore.
 - SDRF ₹1,63,521 crore; SDMF ₹40,880 crore; 80:20.
 - National NDRF+NDMF allocation ₹79,406 crore.
+- National pool rule: 75% NDRF; maximum 25% NDMF.
 - Sharing: 75:25 non-NEH; 90:10 NEH.
+- SDRF/NDRF finance eligible immediate relief under norms, not general long-term reconstruction.
+- Section 48 contemplates district funds; specific constitution/operation requires dated State or district evidence.
 - Complete validated NDMIS data becomes grant condition from 2027-28.
 - **4 Aug 2026 current anchor:** MHA confirmed heatwaves and lightning in the notified list for 2026-31.
 - Corpus, release, expenditure, delivery and outcome are separate.
@@ -2445,7 +2524,8 @@ DEFINE risk and boundary
 - Critical infrastructure resilience means functional continuity.
 - Backup, redundancy, spare capacity and rapid repair are essential.
 - CDRI links risk assessment, standards, finance and BBB across the infrastructure life cycle; it is not operational command.
-- CDRI reported 58 member countries and 12 member organisations as of June 2026; membership is not an infrastructure-resilience outcome.
+- CDRI current page: 59 member countries and 13 partner organisations; New Delhi Secretariat has International Organization status.
+- Keep member-country and partner-organisation categories separate; participation is not an infrastructure-resilience outcome.
 - Ecologically sensitive infrastructure needs cumulative assessment, avoidance, low-impact design, monitoring and enforceable residual-risk limits.
 
 ## J. Early warning
@@ -2502,7 +2582,7 @@ DEFINE risk and boundary
 - Informal settlement requires upgrading or rights-sensitive relocation.
 - UDMA must coordinate DDMA, utilities, ULB and neighbouring jurisdictions.
 - UFC = NDMA 2010 recommended coordination cell; UFRMP = NDMF-financed mitigation programme.
-- UFRMP status: Chennai approved Dec 2023; six cities Jul 2024; Phase II approved 1 Oct 2025 for 11 cities, ₹2,444.42 crore, 90:10.
+- UFRMP status source: MHA Lok Sabha UQ 478, 3 Feb 2026, reported Phase I/II sanction and monitoring; this older source is outside the CA window and is not a later update.
 - CDRI = international infrastructure-resilience coalition; UDMA = State-notified statutory authority under s. 41A.
 - Crowd safety = capacity, flow, entry/exit, holding, communication and medical access.
 
@@ -2556,8 +2636,8 @@ India's framework is strongest when the full chain works: risk-informed developm
 | Build Back Better | Lessons 2, 15 | finance/accountability depth | 2018/2024 PYQs; Lesson 15 model |
 | Sendai evolution/priorities/targets | Lesson 3 | accountability asymmetry Lesson 17 | 2018 and 2024 Q17 |
 | PM's Ten-Point Agenda/AMCDRR 2016 | Lesson 3 | policy bridge to Sendai | 2018 PYQ route |
-| Sendai monitoring/38 indicators | Lesson 3 | causal limitation Lesson 17 | Check 5 |
-| Current DM Act and 2025 amendment | Lesson 4 | apex/local asymmetry Lesson 17 | 2020 GS-II; final 20-mark |
+| Sendai monitoring/38 indicators/current 2026 status | Lesson 3 | reporting and causal limitation Lesson 17 | Check 5 |
+| Current DM Act: 2025 institutional and 2026 s. 51-53 amendments | Lesson 4 | apex/local asymmetry Lesson 17 | 2020 GS-II; final 20-mark |
 | Constitutional basis/Concurrent Entries 23 and 29 | Lesson 4 | cooperative-federal qualification | 2020 GS-II |
 | Enacted/in-force/enabling/rollout distinctions | Lesson 4 | Lesson 17 | Check 2 |
 | NDMA/NEC/NCMC/HLC/MHA | Lesson 5 | coordination critique Lesson 17 | Check 3; final 10-mark |
@@ -2565,7 +2645,7 @@ India's framework is strongest when the full chain works: risk-informed developm
 | SDMA/SEC/DDMA/local authorities | Lesson 6 | DDMA paradox Lesson 17 | 2020 GS-III |
 | UDMA/current rollout | Lessons 4, 6 | urban reform Lesson 17 | final 20-mark |
 | Force/fund distinctions | Lesson 7 | finance effectiveness Lesson 17 | Check 4 |
-| NDRF/SDRF/NDMF/SDMF/district funds | Lesson 7 | FC16 outcome critique | Lesson 7 model |
+| NDRF/SDRF/NDMF/SDMF/district funds | Lesson 7 | immediate-relief, national-split and district-status evidence boundary | Lesson 7 model |
 | Current notified calamity update | Lesson 7 only | no second CA | exactly-one CA scan |
 | Financing/insurance/risk transfer | Lesson 8 | finance must buy reduction | Check 7 |
 | Risk assessment/land use/codes | Lesson 9 | risk-producing development | final 15-mark |
@@ -2584,6 +2664,7 @@ India's framework is strongest when the full chain works: risk-informed developm
 | UFC/UFRMP/CDRI/UDMA distinctions | Lessons 9, 14 | status and outcome qualification | 2024 Q18 |
 | Recovery/rehabilitation/reconstruction | Lesson 15 | rights and procurement | Lesson 15 model |
 | Federal coordination/NDMP themes and limitations/accountability | Lesson 16 | full critique Lesson 17 | 2020 GS-II/III |
+| National/State/District statutory plan cycles and IRS roles | Lessons 2, 6, 16 | operational doctrine routed to DM Topic 02 | Lessons 2 and 16 models |
 | Cyclone versus heatwave/urban-flood preparedness maturity | Lesson 17 | evidence-comparability qualification | Advanced model |
 | CAG and outcome metrics | Lesson 16 | Lesson 17 | final 20-mark |
 | Exact PYQs before clues | final PYQ H1 | scope boundary explicit | eight complete neutral PYQs |
@@ -2599,16 +2680,18 @@ India's framework is strongest when the full chain works: risk-informed developm
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\26_Disaster-Management-Framework-and-Sendai.md` read completely |
+| Canonical Markdown | checked | Environment Basic/Advanced Topic 26 plus the full 16-file Disaster Management dependency set, independently certified and released at commit `555ddedd99238407f4287f078b13bb7b6f985913` |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Layered/complete session | not available | No permitted pre-existing topic-specific live session was available; only mandatory style benchmarks were consulted |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\26_Disaster-Management-Framework-and-Sendai.md` read completely and placed after Core |
-| OCR books | checked | `..\upsc-agent\books\VisionIAS Value Added Material Disaster Management.pdf`, especially PDF pp. 4-18, 27-31 and 61-67; `..\upsc-agent\books\economic-survey-2025-26.pdf`, disaster-risk and ecosystem-resilience passages |
-| PYQs through 2026 | checked | Eight exact Mains questions reproduced from the official-paper files listed below; 2026 wording is independently reproducible through `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md` and the preserved official scan |
-| Official live sources | checked | Official Act/Gazette, MHA, NIDM, NDMA, UNDRR, Finance Commission, technical-agency and CAG sources listed below; status reviewed to 3 October 2026 |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\26_Disaster-Management-Framework-and-Sendai.md` and routed Disaster Management Advanced owners at `555ddedd9` |
+| OCR books | checked | `books\VisionIAS Value Added Material Disaster Management.pdf`, exact lesson mappings across PDF pp. 4-18, 27-31 and 61-67; `books\economic-survey-2025-26.pdf`, exact PDF pp. 435-436 |
+| PYQs through 2026 | checked | Eight answer-neutral Mains questions verified against the local official-paper pages listed below; 2026 OCR provenance preserved separately |
+| Official live sources | checked | Exact official URLs below, all accessed/rechecked 5 October 2026; current claims date-labelled and qualified |
 
 ## Canonical and cross-topic knowledge
+
+**Ownership/persistence control:** Environment Topic 26 is a **PARTIAL owner**. Detailed disaster-risk doctrine, law, institutions, finance, IRS and MHEWS remain owned by the 16 upstream files released in isolated commit `555ddedd99238407f4287f078b13bb7b6f985913`; this live file records and applies them without changing upstream ownership.
 
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\26_Disaster-Management-Framework-and-Sendai.md`
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\26_Disaster-Management-Framework-and-Sendai.md`
@@ -2630,50 +2713,76 @@ India's framework is strongest when the full chain works: risk-informed developm
 - `upsc-ai-kit\knowledge\Disaster-Management\advanced\16_Disaster-Finance-Risk-Transfer-and-Build-Back-Better.md`
 - `upsc-ai-kit\knowledge\Disaster-Management\advanced\18_Governance-Capacity-and-International-Cooperation.md`
 
-## Primary official sources
+## Primary official sources — persistent URL ledger
 
-| Source | Exact use |
-|---|---|
-| Disaster Management Act, 2005 and Disaster Management (Amendment) Act, 2025, NIDM official PDFs | current sections, definitions, institutional and fund architecture |
-| Gazette notification S.O. 1648(E), 8 Apr 2025 | commencement of all 2025 amendment provisions on 9 Apr 2025 |
-| MHA Rajya Sabha UQ 1336, 11 Feb 2026 | UDMA rollout, database and dated AI/ML implementation status |
-| MHA Lok Sabha UQ 284, 22 Jul 2025 | 16 operational NDRF battalions and sanctioned strength 18,581 |
-| MHA Lok Sabha UQ 2541, 4 Aug 2026 | heatwave/lightning inclusion under 2026-31 operational guidelines; dated current linkage |
-| Sixteenth Finance Commission Explanatory Memorandum | 2026-31 State/national disaster-fund allocations, sharing and NDMIS condition |
-| NIDM About/Act pages | NIDM statutory capacity-building role and official legal documents |
-| UNDRR Sendai Framework text | adoption, outcome, four priorities and seven targets |
-| UNDRR Sendai Framework Monitor | 38 indicators and monitoring architecture |
-| UNDRR Early Warnings for All | Target G operational programme and pillar logic |
-| Prime Minister's Ten-Point Agenda for DRR, AMCDRR 2016; official DST annexure | ten agenda points and their Sendai policy bridge |
-| Constitution of India — `https://legislative.gov.in/constitution-of-india/` | Concurrent List Entries 23 and 29 and federal qualification |
-| PM's Ten-Point Agenda — `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/RS11032026/2163.pdf` | exact agenda points and AMCDRR 2016 policy bridge |
-| CDRI official membership — `https://driconnect.cdri.world/more/cdri-member-countries?view=members` and founding material | launch, four infrastructure-resilience functions and June 2026 membership status |
-| NDMA urban-flood guidelines; MHA UFRMP reply — `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS03022026/478.pdf` | Urban Flooding Cell recommendation and dated UFRMP sanction status |
-| NDMA SACHET/CAP portal and NDMA guidance | interoperable warning architecture |
-| IMD, CWC, INCOIS, GSI and NCS official services | hazard-specific warning/information roles |
-| CAG Performance Audit of Disaster Preparedness in India, Report 5 of 2013; Karnataka Report 8 of 2025 | accountability and sampled implementation-audit role |
+| Official source URL | Accessed | Exact use/status boundary |
+|---|---|---|
+| `https://nidm.gov.in/PDF/En_DM_act2005.pdf` | 5 Oct 2026 | base statute, NDMA composition, NDMA-SDMA-DDMA roles and fund provisions, read with later amendments |
+| `https://nidm.gov.in/PDF/En_DM_act2025.pdf` | 5 Oct 2026 | Act 10 of 2025: definitions, NCMC/HLC, UDMA, State force, plans, databases and regulation power |
+| `https://nidm.gov.in/PDF/En_DM_act2005Amend.pdf` | 5 Oct 2026 | S.O. 1648(E), 8 Apr 2025; 2025 amendment commenced 9 Apr 2025 |
+| `https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Viswash-Act-Notifications.pdf` | 5 Oct 2026 | Jan Vishwas Act 2026 Schedule serial 60, Gazette PDF p. 126: exact s. 51-53 term substitutions |
+| `https://ndmindia.mha.gov.in/ndmi/images/laws-plans-and-policies/Jan-Vishwash-Act-2026.pdf` | 5 Oct 2026 | S.O. 2181(E), notification PDF p. 3: substitutions effective 15 May 2026 |
+| `https://ndmindia.mha.gov.in/ndmi/laws-plans-and-policies` | 5 Oct 2026 | official law/plan repository; revised NDMP 2019 was latest published edition found |
+| `https://nidm.gov.in/PDF/guidelines/Incident_Response_System.pdf` | 5 Oct 2026 | IRS ownership: Responsible Officer, Incident Commander and section structure |
+| `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/RS11022026/1336.pdf` | 5 Oct 2026 | UDMA snapshot, national database and dated AI/ML claims; not permanent rollout proof |
+| `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2025-pdfs/LS22072025/284.pdf` | 5 Oct 2026 | 16 operational NDRF battalions; sanctioned strength 18,581 |
+| `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS04082026/2541.pdf` | 5 Oct 2026 | heatwave/lightning inclusion in 2026-31 notified list |
+| `https://ndmindia.mha.gov.in/ndmi/responsefund` | 5 Oct 2026 | SDRF/NDRF immediate-relief boundary; 2026-31 figures; 75% NDRF/maximum 25% NDMF rule |
+| `https://fincomindia.nic.in/asset/doc/commission-reports/16th-FC/16fc-EM.pdf` | 5 Oct 2026 | accepted FC16 allocations, sharing and NDMIS condition; not used as evidence of district-fund constitution/status |
+| `https://www.undrr.org/terminology/disaster-risk` | 5 Oct 2026 | probabilistic function of hazard, exposure, vulnerability and capacity; no literal equation |
+| `https://www.undrr.org/terminology/disaster` | 5 Oct 2026 | disaster as serious disruption from hazardous-event interaction |
+| `https://www.undrr.org/terminology/prevention`; `https://www.undrr.org/terminology/mitigation`; `https://www.undrr.org/terminology/preparedness`; `https://www.undrr.org/terminology/response`; `https://www.undrr.org/terminology/recovery`; `https://www.undrr.org/terminology/build-back-better` | 5 Oct 2026 | cycle distinctions and BBB |
+| `https://www.undrr.org/publication/hyogo-framework-action-2005-2015-building-resilience-nations-and-communities-disasters` | 5 Oct 2026 | Hyogo DRR/resilience continuity; prevents response-only portrayal |
+| `https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030` | 5 Oct 2026 | adoption, non-binding framework, four priorities and seven targets |
+| `https://www.undrr.org/implementing-sendai-framework/monitoring-sendai-framework` | 5 Oct 2026 | 38-indicator monitoring architecture |
+| `https://www.undrr.org/news/sendai-framework-data-shows-both-progress-and-persistent-gaps-reducing-disaster-risk` | 5 Oct 2026 | official 24 Sep 2026 global snapshot and reporting qualifications |
+| `https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all` | 5 Oct 2026 | EW4All 2027 objective and pillar route |
+| `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/RS11032026/2163.pdf` | 5 Oct 2026 | exact PM Ten-Point Agenda/AMCDRR 2016 wording |
+| `https://legislative.gov.in/constitution-of-india/` | 5 Oct 2026 | Concurrent List Entries 23 and 29; no dedicated DM entry |
+| `https://cdri.world/about/` | 5 Oct 2026 | 59 member countries, 13 partner organisations, New Delhi Secretariat International Organization status |
+| `https://cdri.world/capacity-building/regional-workshop-on-resilient-recovery-and-build-back-better/` | 5 Oct 2026 | CDRI-UNDP workshop held in the Dominican Republic in April 2025; older BBB institutional context outside the 5 Apr-5 Oct 2026 CA window |
+| `https://ndma.gov.in/sites/default/files/PDF/Guidelines/urbanfloodingguidelines.pdf` | 5 Oct 2026 | 2010 Urban Flooding Cell recommendation |
+| `https://www.mha.gov.in/MHA1/Par2017/pdfs/par2026-pdfs/LS03022026/478.pdf` | 5 Oct 2026 | UFRMP Phase I/II sanction and monitoring status; no outcome inference |
+| `https://sachet.ndma.gov.in/` | 5 Oct 2026 | CAP-based official alert portal |
+| `https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc202642838501.pdf` | 5 Oct 2026 | 28 Apr 2026 MHEW-DSS current-affairs anchor |
+| `https://cag.gov.in/en/audit-report/details/676` | 5 Oct 2026 | CAG Report 5 of 2013, sampled national preparedness audit |
+| `https://cag.gov.in/en/audit-report/details/123611` | 5 Oct 2026 | Karnataka Report 8 of 2025; jurisdiction-specific audit evidence |
 
 ## Exact official PYQ evidence
 
-| Question | Local official paper |
-|---|---|
-| 2018 GS-III Q18 | `..\upsc-agent\books\more_previous_papers\GENERAL-STUDIES-PAPER-III.pdf` |
-| 2019 GS-III Q8 | `..\upsc-agent\books\more_previous_papers\QP-CSM19-GeneralStudies-III.pdf` |
-| 2020 GS-II Q11 | `..\upsc-agent\books\more_previous_papers\Gen_St_P2.pdf` |
-| 2020 GS-III Q18 | `..\upsc-agent\books\more_previous_papers\Gen_St_P3.pdf` |
-| 2024 GS-III Q17-Q18 | `..\upsc-agent\books\mains\03 UPSC 2024 Paper-III.pdf` |
-| 2026 GS-III Q7 and Q18 | `..\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` (SHA-256 `1de20983aa9349d17f77d00c324dd02a31ff6dc09c1d11126d5e7b89fd793e7c`); OCR-verified transcription at `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md` |
-| Question-index controls | `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`, matching GS-I/GS-II indexes and Prelims indexes through 2026 |
-| Stable official UPSC provenance | `https://upsc.gov.in/examinations/question-papers` and `https://upsc.gov.in/examinations/previous-question-papers` |
+| Question | Local official paper | Exact PDF page |
+|---|---|---:|
+| 2018 GS-III Q18 | `books\more_previous_papers\GENERAL-STUDIES-PAPER-III.pdf` | 4 |
+| 2019 GS-III Q8 | `books\more_previous_papers\QP-CSM19-GeneralStudies-III.pdf` | 3 |
+| 2020 GS-II Q11 | `books\more_previous_papers\Gen_St_P2.pdf` | 3 |
+| 2020 GS-III Q18 | `books\more_previous_papers\Gen_St_P3.pdf` | 4 |
+| 2024 GS-III Q17-Q18 | `books\mains\03 UPSC 2024 Paper-III.pdf` | 4 |
+| 2026 GS-III Q7 | `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` | 3 |
+| 2026 GS-III Q18 | same official scan (SHA-256 `1de20983aa9349d17f77d00c324dd02a31ff6dc09c1d11126d5e7b89fd793e7c`) | 6 |
+| Question-index controls | `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`, matching GS-I/GS-II indexes and Prelims indexes through 2026 | — |
+| Stable official UPSC provenance | `https://upsc.gov.in/examinations/question-papers` and `https://upsc.gov.in/examinations/previous-question-papers` | — |
+
+## Persistence and copyright control
+
+- The source and PYQ ledgers are stored inside this learner-facing file so URLs, access date, local evidence paths and page locations survive later validation.
+- Exact PYQ wording is reproduced only in the segregated answer-neutral official-question bank; no answer clue appears before the later route table.
+- Proprietary book material is paraphrased and page-cited. No long proprietary passage, scanned page or derived paid-package text is reproduced.
+- Official legal and policy text is quoted only where exact terminology is necessary; substantive teaching is independently written.
+- The permanently excluded final learner-package directory and learner-v2 artifacts were not read or used.
 
 ## Status and uncertainty controls
 
-- Review date: **3 October 2026**.
-- The 2025 amendment is enacted and wholly in force from 9 April 2025; it is not a Bill, draft or provision-wise pending law.
+- Review date: **5 October 2026**.
+- The 2025 amendment is enacted and wholly in force from 9 April 2025; the Jan Vishwas Schedule serial 60 substitutions in ss. 51-53 are effective from 15 May 2026.
+- No change to fines, procedure, compounding or institutional powers is inferred from the Jan Vishwas source beyond its exact term substitutions.
 - Sections 41A and 44A are enabling; named authority/force rollout requires a State notification.
 - The 11 February 2026 MHA reply is a dated implementation snapshot, not permanent nationwide status.
-- The FC16 amounts are accepted award-period recommendations, not expenditure or outcome figures.
+- SDRF/NDRF cover eligible immediate relief under norms; long-term reconstruction/recovery requires separate financing.
+- The FC16 amounts and national 75%/maximum-25% rule are fiscal architecture, not expenditure or outcome figures.
+- Section 48 provides for district funds; no uniform nationwide constitution/status is inferred without dated State or district evidence.
 - Heatwave/lightning inclusion creates eligibility under the stated operational guidelines; it is not proof of relief delivery or heat-risk reduction.
 - AI/ML integration is reported programme status; no uniform accuracy, seven-day skill or outcome is asserted for every hazard and location.
+- The 24 September 2026 Sendai figures are reported global trends with uneven reporting completeness, not causal or India-specific achievement claims.
+- CDRI's 59 member countries and 13 partner organisations are separate categories and not infrastructure-resilience outcomes.
 - CAG findings are audit-scope evidence and are not generalised beyond their audited jurisdiction/sample.
 - Hazard examples are used only to establish supported causal, governance and infrastructure lessons; claims beyond the cited evidence are not inferred.
