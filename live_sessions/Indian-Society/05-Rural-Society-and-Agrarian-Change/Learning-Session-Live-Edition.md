@@ -1872,11 +1872,11 @@ Srinivas identifies numbers-land-office dominance; Béteille separates caste, cl
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-## Direct ownership status through 2025; 2026 unavailable
+## Direct ownership status through 2026
 
-The audited General Studies routing ledgers for 2018–2025 assign **no direct GS-I Mains question** to Rural Society and Agrarian Change. As of **4 October 2026**, the official 2026 GS-I paper was not accessible in the permissible local sources or on the official UPSC question-paper page, so the 2026 direct-PYQ status is **not verified**. No absence is inferred for 2026, and no rural-society question has been reconstructed, borrowed from another owner or presented as a verified direct PYQ.
+The audited General Studies routing ledgers for 2018–2025 assign **no direct GS-I Mains question** to Rural Society and Agrarian Change. The committed OCR-verified 2026 routing ledger and the on-disk official 2026 GS-I paper likewise contain no direct Topic 05 question. No rural-society question has been reconstructed, borrowed from another owner or presented as a verified direct PYQ.
 
-This verified 2018–2025 zero-direct status does **not** imply low examination value. It means preparation should use the recurring demand families that the syllabus and canonical material support:
+This verified 2018–2026 zero-direct status does **not** imply low examination value. It means preparation should use the recurring demand families that the syllabus and canonical material support:
 
 | Demand family | Concepts required | Answer approach |
 |---|---|---|
@@ -2459,7 +2459,7 @@ claim
 | Regional trajectories | Lesson 12 | comparative typology | Srinivas-Béteille-Desai synthesis | lesson check and 20-mark model |
 | Data boundaries | Lesson 11 | Census/survey/admin/field distinctions | triangulation and source limitations | lesson check and 10-mark model |
 | Exactly one dated CA anchor | Lesson 11 | PLFS Annual Report 2025, 27 March 2026 | methodological use and limitation | cumulative Check 10 |
-| Verified direct PYQ status | Final PYQ section | zero direct 2018–2025; 2026 unavailable and not verified; no borrowed stem | ownership and provenance boundaries stated | original demand-family practice |
+| Verified direct PYQ status | Final PYQ section | zero direct 2018–2026 after ledger and official-paper verification; no borrowed stem | ownership and provenance boundaries stated | original demand-family practice |
 | Consolidated answer architecture | Register notes §§16–17 | traps and mark-ready spines | synthesis verdict | final 10/15/20 models |
 
 # SOURCE LEDGER
@@ -2474,7 +2474,7 @@ claim
 | Solved workbook | not relevant | Permanently excluded from live-session evidence by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Indian-Society\advanced\05_Rural-Society-and-Agrarian-Change.md` and relevant cross-topic Advanced boundaries audited |
 | OCR books | not available | No topic-specific OCR-searchable rural-sociology book was present under `books\`; unrelated examination PDFs were not used as substantive sociology evidence |
-| PYQs through 2026 | not available | Official-source routing is verified through 2018–2025. The 2026 routing artifact was inspected, but its claimed official GS-I scan is absent and the official UPSC paper was not accessible; no 2026 direct/no-direct conclusion is made. |
+| PYQs through 2026 | checked | The 2018–2025 routing ledgers contain no direct Topic 05 question. The committed OCR-verified `_PYQ-GS1-2026.md` ledger and on-disk official 2026 GS-I paper cover all 20 questions and likewise contain no Rural Society and Agrarian Change question. |
 | Official live sources | checked | MoSPI PLFS Annual Report 2025 press note and PIB release dated 27 March 2026 used for the single current anchor |
 
 ## Canonical and cross-topic sources used
@@ -2500,10 +2500,8 @@ claim
 
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`
-
-## Unverified 2026 routing artifact
-
-- `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` was inspected only as a provisional repository artifact. Its named source, `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`, is absent, and the official UPSC paper was not accessible as of 4 October 2026. Its Topic 05 routing omission is therefore not treated as verified evidence.
+- `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
+- `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`
 
 ## Official live source
 
@@ -2514,7 +2512,7 @@ claim
 
 - No topic-specific OCR sociology book was available.
 - No direct Topic 05 GS-I question appears in the audited 2018–2025 routing ledgers.
-- The claimed `books\mains\2026\` official-paper directory and GS-I PDF were absent after an exhaustive permissible local search. The generic `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` was inspected and is the 2022 Preliminary paper, not the 2026 Mains paper.
-- The official UPSC previous-question-paper page did not yield an accessible 2026 GS-I paper as of 4 October 2026. Accordingly, 2026 remains unavailable and not verified: no direct-PYQ absence is inferred and no 2026 stem is reproduced.
+- The committed OCR-verified 2026 routing ledger and the on-disk official 2026 GS-I paper were checked; none of the 20 questions is owned by Rural Society and Agrarian Change.
+- No 2026 stem is reproduced because the verified result is zero direct ownership, not a licence to borrow a question from another topic.
 - The PIB page returned an access restriction in the fetcher; the official MoSPI press-note URL and official-domain search result supplied the date and reference period.
 - No unsupported rural population share, landholding share, caste statistic, Panchayat outcome rate or causal inference has been added.
