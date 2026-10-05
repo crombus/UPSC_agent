@@ -2451,6 +2451,16 @@ The questions below appear only after the complete independent teaching sequence
 
 **Answer approach:** Use equality as rights baseline, equity as differentiated conversion support and empowerment as agency; test time, mobility, asset and social constraints; measure control rather than coverage.
 
+## Cross-owned GS-I linkage
+
+### 2024 · GS-I · Question 19 · 15 marks · 250 words
+
+> Globalization has increased urban migration by skilled, young, unmarried women from various classes. How has this trend impacted upon their personal freedom and relationship with family?
+
+**Demand:** Evaluate how migration can expand agency while also reorganising care, surveillance, bargaining and family ties across class locations.
+
+**Answer approach:** Trace income, mobility and decision-making gains; test housing, safety, care and workplace constraints; compare family negotiation, translocal support and conflict; retain class variation and a qualified verdict. Primary ownership remains with Family and Globalisation; this topic supplies the gender-agency dimension.
+
 ## Closely relevant GS-II linkages
 
 ### 2019 · GS-II · Question 13 · 15 marks · 250 words
@@ -2493,9 +2503,9 @@ The questions below appear only after the complete independent teaching sequence
 
 **Answer approach:** Sequence bonding, bridging and linking capital; connect each to trust, scale and institutional access; qualify exclusion and control.
 
-## 2026 availability and scope note
+## 2026 verification and scope note
 
-Official-paper verification for 2026 is not available because the underlying official GS-I scan was absent. A provisional no-direct-question report for GS-I was inspected, but it was not independently verified or certified. No 2026 question is displayed or treated as verified here.
+The on-disk official 2026 GS-I paper and OCR-verified routing ledger cover all 20 questions and contain no direct Women and Women's Organisations question. Near-neighbour questions on disability, digital empowerment, caste, demographic transition and youth globalisation remain with their respective owners; none is borrowed here.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -2905,7 +2915,7 @@ MEMBERSHIP   → organisational presence, not voice
 | Achievements and movement critiques | Lesson 14 | Final 20-mark practice |
 | Policy pathways and measurement | Lesson 15 | Register data controls |
 | NFHS-6 current linkage | Lesson 15 | Source ledger |
-| Verified answer-neutral PYQs, 2018-2025; provisional 2026 no-direct-question report | PYQ section | Source ledger |
+| Verified answer-neutral PYQs, 2018-2026, including the cross-owned 2024 women-migration demand and verified zero-direct 2026 status | PYQ section | Source ledger |
 | Original 10/15/20-mark final practice | Final practice section | Rubrics |
 | Common-error remediation | Remediation | Register controls |
 
@@ -2921,7 +2931,7 @@ MEMBERSHIP   → organisational presence, not voice
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Indian-Society\advanced\07_Women-and-Womens-Organisations.md` plus relevant advanced Social Justice, Governance and Social Empowerment owners |
 | OCR books | not available | No topic-specific OCR sociology or women's-studies book/PDF was present in `books\`; only unrelated papers were available |
-| PYQs through 2026 | not available | Displayed 2018-2025 PYQs were checked against the audited ledgers and verbatim paper reproductions; the official 2026 GS-I scan was absent, so only the ledger's provisional no-direct-question report was inspected and not independently certified |
+| PYQs through 2026 | checked | Displayed 2018-2025 PYQs were checked against audited ledgers and available official papers. The on-disk official 2026 GS-I paper and OCR-verified ledger cover all 20 questions and confirm zero direct Topic 07 ownership |
 | Official live sources | checked | Official NFHS/IIPS release page for NFHS-6; Legislative Department Constitution source; India Code legal texts; PIB Census-status material |
 
 ## Canonical and repository sources used
@@ -2947,9 +2957,9 @@ MEMBERSHIP   → organisational presence, not voice
 
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`
 - `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`
-- `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md` — inspected only for its provisional no-direct-question report; not independently OCR-verified or certified
-- UPSC official previous-question-paper archive: `https://upsc.gov.in/examinations/previous-question-papers` — archive locator recorded, but the relevant official 2026 GS-I scan was not available for inspection
-- Exact displayed 2018-2025 stems were checked against verbatim paper reproductions; audited ledgers control year, paper, question number, directive, marks and word limit. No 2026 stem is displayed or independently certified.
+- `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`
+- `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf` (SHA-256 `49418BA3D1A93DE14F2E4D21BE2C77AAFDD9F194B32238E05D5242D9747A2601`)
+- Exact displayed 2018-2025 stems were checked against audited ledgers and available official papers. The official 2026 paper confirms that no direct Topic 07 question appears.
 - No official model answer, key or marking scheme is claimed.
 
 ## Official and institutional sources
