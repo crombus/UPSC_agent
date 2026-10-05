@@ -1,6 +1,6 @@
 # Renewable Energy and Green Hydrogen — Complete Live Session Edition
 
-**Status date:** 3 October 2026
+**Status date:** 5 October 2026
 **Subject:** Environment and Ecology | **Primary paper:** GS-III | **Also useful for:** Prelims, GS-I resource geography, economy and infrastructure
 
 This session begins with the physical and accounting basics of renewable electricity, completes the technology and Indian-policy core, then moves to hydrogen. Optional advanced depth comes only after the complete Core.
@@ -45,9 +45,9 @@ The governing question throughout is not “Is the technology green?” but:
 Progress: 1 / 16 | Stage: Foundation | Subtopic: Energy categories and power-system metrics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — standard geography and Economic Survey energy chapters checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, Chapter 10, printed pp. 379-396; `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF p. 240
+CA search: "official India renewable non-fossil installed capacity 1 January-5 October 2026 MNRE CEA"
+CA found: MNRE/CEA physical progress — latest consolidated dataset remained 31 August 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four questions hidden inside one headline
@@ -92,6 +92,8 @@ annual generation = installed capacity x hours in year x capacity factor
 
 **Capacity factor** is actual generation divided by the generation that would have occurred had the plant operated at rated output for every hour. It reflects resource availability, outages, maintenance and curtailment. It is not the same as conversion efficiency. A solar panel can have a respectable conversion efficiency but a lower annual capacity factor because night exists.
 
+Indian power documents also use **capacity utilisation factor (CUF)**, especially for renewable projects, and **plant load factor (PLF)**, especially for thermal stations. Their formulae may resemble capacity factor in a stated context, but none means conversion efficiency, demand load factor or installed capacity. Always follow the source's defined numerator, denominator and period.
+
 ### 3. Capacity share does not equal generation share
 
 Solar and wind can form a large share of installed capacity yet a smaller share of annual generation because their output varies with irradiance, wind and season. Thermal, nuclear or reservoir hydro units may generate for more hours. Neither share by itself proves reliable supply at the evening peak.
@@ -133,13 +135,13 @@ CEA's total installed-capacity denominator for the same date was **554,544 MW**,
 
 Most close-option traps change only the noun or unit: renewable to non-fossil, MW to MWh, installed to generated, allocated to commissioned, or variable to unreliable. The correct answer usually begins by restoring the boundary.
 
-### Strongest objection, reply and residual
+### Metric challenge — does a lower capacity factor prove inferiority?
 
-**Objection:** If capacity factor is lower, variable renewables are inherently inferior.
-**Reply:** Capacity factor alone ignores fuel cost, modularity, construction time, emissions and portfolio diversity. The system optimises total cost and reliability, not one ratio.
-**Residual:** High variable-renewable shares still require real spending on networks, storage, reserves and flexibility; those costs cannot be wished away.
+**Claim under test:** If capacity factor is lower, variable renewables are inherently inferior.
+**Why it fails:** Capacity factor alone ignores fuel cost, modularity, construction time, emissions and portfolio diversity. The system optimises total cost and reliability, not one ratio.
+**Remaining constraint:** High variable-renewable shares still require real spending on networks, storage, reserves and flexibility; those costs cannot be wished away.
 
-### Revision notes
+### Revision notes — category and metric firewall
 
 1. Renewable is a subset of non-fossil; nuclear is non-fossil but not renewable.
 2. Hydrogen is an energy carrier/feedstock, not a primary renewable source.
@@ -162,11 +164,11 @@ Most close-option traps change only the noun or unit: renewable to non-fossil, M
 
 **Misconception to avoid:** A percentage attached to “capacity” cannot be silently converted into a percentage of generation or energy requirements.
 
-### Lesson-local Mains practice
+### Mains application — separating power-system quantities
 
 **Question (10 marks, 150 words):** Distinguish installed capacity, electricity generation, capacity factor and firm power. Why do these distinctions matter for India's energy transition?
 
-**Model (133 words):** Installed capacity is the rated instantaneous capability of power assets, measured in MW or GW. Generation is the electricity actually produced over time, measured in MWh or TWh. Capacity factor is actual generation divided by the maximum possible generation at continuous rated output. Firm power is the dependable output available when the system requires it. These distinctions matter because India's solar and wind fleet can raise non-fossil capacity rapidly without producing the same share of annual electricity or evening-peak supply. The 31 August 2026 non-fossil capacity share of 54.88%, for example, is not a generation claim. Reliable transition therefore requires transmission, forecasting, storage, flexible demand, reserves and suitable dispatchable capacity alongside new renewable plants. Success should be judged through capacity, generation, curtailment, reliability, affordability and lifecycle outcomes, not headline gigawatts alone.
+**Model (131 words):** Installed capacity is the rated instantaneous capability of power assets, measured in MW or GW. Generation is the electricity actually produced over time, measured in MWh or TWh. Capacity factor is actual generation divided by the maximum possible generation at continuous rated output. Firm power is the dependable output available when the system requires it. These distinctions matter because India's solar and wind fleet can raise non-fossil capacity rapidly without producing the same share of annual electricity or evening-peak supply. The 31 August 2026 non-fossil capacity share of 54.88%, for example, is not a generation claim. Reliable transition therefore requires transmission, forecasting, storage, flexible demand, reserves and suitable dispatchable capacity alongside new renewable plants. Success should be judged through capacity, generation, curtailment, reliability, affordability and lifecycle outcomes, not headline gigawatts alone.
 
 **Unique quantified rubric (10):** definitions 3 | correct units/formula 2 | India application 2 | reliability mechanism 2 | qualification 1
 
@@ -175,9 +177,9 @@ Most close-option traps change only the noun or unit: renewable to non-fossil, M
 Progress: 2 / 16 | Stage: Core | Subtopic: Solar resource and technology
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — solar-resource and Indian regional-geography treatment checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF p. 240; `books\economic-survey-2025-26.pdf`, printed pp. 391-394
+CA search: "official India solar rooftop PM Surya Ghar solar PV PLI status 1 January-5 October 2026 MNRE"
+CA found: MNRE physical progress — solar 168.04 GW, including 32.59 GW grid-connected rooftop, at 31 August 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: one resource, two conversion families
@@ -237,7 +239,19 @@ Grid parity therefore supports renewable adoption while leaving the integration 
 | Solar pumps | Reduces diesel use and improves daytime irrigation access | Free power can encourage groundwater over-extraction unless incentives reward conservation |
 | Off-grid/mini-grid solar | Serves remote or weak-grid areas | Battery replacement, maintenance and productive-load viability |
 
-### 6. Regional variation and value
+### 6. India scheme and ownership map
+
+| Instrument | Bounded ownership and status |
+|---|---|
+| National Solar Mission | One of the original NAPCC missions; MNRE is the nodal ministry. Its climate-policy origin and NAPCC architecture belong to Topic 20. |
+| Solar parks and competitive procurement | MNRE frames programme policy; SECI or another designated intermediary may run a specific tender. An auction award is not commissioned capacity. |
+| PM-KUSUM | MNRE scheme implemented through state agencies and DISCOM-linked arrangements for decentralised plants, stand-alone pumps and pump/feeder solarisation. The notified period ran to **31 March 2026**; no post-period continuation is claimed without a fresh official instrument. |
+| PM Surya Ghar | MNRE residential-rooftop scheme, implemented to FY 2026-27; REC Limited was initially designated the national implementation agency and DISCOMs the state-level implementation agencies. |
+| High-Efficiency Solar PV PLI | MNRE owns the ₹24,000-crore manufacturing scheme; IREDA implemented Tranche I and SECI Tranche II. Manufacturing awards do not equal installed generating capacity. |
+
+These instruments answer different problems: climate direction, project aggregation, farm energy, household rooftop access and manufacturing capability.
+
+### 7. Regional variation and value
 
 The 2020 GS-I demand asks why development varies regionally. The answer is not only sunshine:
 
@@ -249,17 +263,17 @@ irradiance + available land + evacuation grid + state policy
 
 Rajasthan and Gujarat combine high irradiance, land and major transmission development. Rooftop potential, however, follows urban roofs, consumer tariffs and distribution conditions rather than desert geography.
 
-### 7. Benefits and limits
+### 8. Benefits and limits
 
 Solar has no fuel bill during operation, low operational air pollution and emissions, modular construction and strong daytime alignment with cooling loads. It can reduce imports and diversify supply. Yet lifecycle assessment must include mining, polysilicon and module production, land transformation, water for cleaning, transmission, inverter replacement and end-of-life recovery.
 
 At **31 August 2026**, solar installed capacity was **168.04 GW**, comprising about **123.99 GW ground-mounted**, **32.59 GW grid-connected rooftop**, **4.83 GW solar component in hybrid projects** and **6.63 GW off-grid**. These are capacity categories, not separate generation claims.
 
-### Strongest objection, reply and residual
+### Cost claim under stress — does cheap solar settle the system question?
 
-**Objection:** Solar is cheap, so storage and grid costs are irrelevant objections.
-**Reply:** Cheap daytime energy remains valuable, but the system must still meet evening demand and manage congestion.
-**Residual:** The economic answer depends on the marginal system need: another midday unit may be worth less than a flexible evening unit unless transmission, storage or demand shifts are available.
+**Learner claim:** Solar is cheap, so storage and grid costs are irrelevant.
+**Correction:** Cheap daytime energy remains valuable, but the system must still meet evening demand and manage congestion.
+**System caveat:** The economic answer depends on the marginal system need: another midday unit may be worth less than a flexible evening unit unless transmission, storage or demand shifts are available.
 
 ### UPSC traps
 
@@ -268,7 +282,7 @@ At **31 August 2026**, solar installed capacity was **168.04 GW**, comprising ab
 - A “largest” park or floating project is time-sensitive and must be dated.
 - A solar-powered airport can consume grid power at other times while balancing annual solar procurement; the phrase does not prove hourly islanded operation.
 
-### Revision notes
+### Revision notes — solar conversion, geography and policy
 
 1. PV converts light directly to electricity; solar thermal first produces heat.
 2. An inverter converts DC output into usable/grid-compatible AC.
@@ -283,6 +297,7 @@ At **31 August 2026**, solar installed capacity was **168.04 GW**, comprising ab
 11. Rooftop capacity was 32.59 GW within that solar total.
 12. Regional development requires resource, land, grid, policy, finance and offtake together.
 13. Grid parity compares generation cost under stated assumptions; it does not prove firm or total-system parity.
+14. National Solar Mission, PM-KUSUM, PM Surya Ghar and solar-PV PLI have different owners, beneficiaries and status measures.
 
 ### Concept check
 
@@ -292,11 +307,11 @@ At **31 August 2026**, solar installed capacity was **168.04 GW**, comprising ab
 
 **Misconception to avoid:** “Highest irradiance” and “best location for every solar application” are not synonymous.
 
-### Lesson-local Mains practice
+### Mains application — regional variation and responsible scale-up
 
 **Question (15 marks, 250 words):** Explain the regional variation in India's solar-energy development and assess the ecological and economic benefits of solar generation.
 
-**Model (203 words):** India's solar resource is widespread, but development is regionally uneven because projects need more than sunshine. Rajasthan and Gujarat combine high irradiance, relatively large land parcels and major evacuation infrastructure, favouring utility parks. Peninsular states add strong demand and grid networks, while cities offer rooftop potential close to consumers. Commissioning also depends on state policy, land title, DISCOM payment capacity, finance and transmission access.
+**Model (197 words):** India's solar resource is widespread, but development is regionally uneven because projects need more than sunshine. Rajasthan and Gujarat combine high irradiance, relatively large land parcels and major evacuation infrastructure, favouring utility parks. Peninsular states add strong demand and grid networks, while cities offer rooftop potential close to consumers. Commissioning also depends on state policy, land title, DISCOM payment capacity, finance and transmission access.
 
 Economically, solar has no fuel cost in operation, short modular construction cycles and the capacity to reduce fossil-fuel imports. Rooftop and decentralised systems can lower daytime purchases, serve remote loads and create installation and maintenance work. Ecologically, replacing fossil generation reduces operational greenhouse gases and local air pollutants; solar pumps can displace diesel.
 
@@ -311,9 +326,9 @@ Thus solar policy should combine resource-sensitive siting, rooftop and agrivolt
 Progress: 3 / 16 | Stage: Core | Subtopic: Onshore and offshore wind
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — Indian resource-geography and official wind assessment checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF p. 240; no specialised wind-engineering OCR book was available
+CA search: "official India onshore offshore wind VGF status 1 January-5 October 2026 MNRE NIWE"
+CA found: MNRE physical progress — 58.52 GW wind at 31 August 2026; no operating offshore-wind capacity was claimed
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the wind-to-wire chain
@@ -359,6 +374,8 @@ Wind power is highly sensitive to wind speed, but real output is limited by aero
 
 India's National Offshore Wind Energy Policy (2015) makes MNRE the nodal ministry and NIWE the nodal agency for surveys and block development. Viability-gap support seeks to overcome first-project costs. An announced block or survey is not operating offshore capacity.
 
+The offshore-wind VGF scheme is an MNRE support instrument for designated initial projects and enabling infrastructure. NIWE's survey/block role, an MNRE/SECI procurement step, a VGF approval and an operating wind farm are separate statuses. As of the cutoff, this session does not claim commissioned Indian offshore-wind generation.
+
 ### 4. Why spatial spread remains limited
 
 The 2022 GS-I question requires two parts: potential and concentration. Limited spread results from:
@@ -380,13 +397,13 @@ Solar and wind profiles can partly complement one another across hours or season
 
 At **31 August 2026**, India had **58.52 GW** of installed wind capacity. Capacity alone does not reveal seasonal generation or grid absorption.
 
-### Strongest objection, reply and residual
+### Geography versus technology — can taller or offshore turbines erase place?
 
-**Objection:** Taller turbines and offshore sites make geography irrelevant.
-**Reply:** Technology expands the exploitable resource but does not remove port, seabed, cable, land, grid, finance and ecological constraints.
-**Residual:** Resource assessment is necessary, yet bankable potential is always smaller than gross technical potential.
+**Technology claim:** Taller turbines and offshore sites make geography irrelevant.
+**Geographic reply:** Technology expands the exploitable resource but does not remove port, seabed, cable, land, grid, finance and ecological constraints.
+**Planning residual:** Resource assessment is necessary, yet bankable potential is always smaller than gross technical potential.
 
-### Revision notes
+### Revision notes — wind resource, turbine curve and corridors
 
 1. Wind follows pressure gradients produced by uneven heating.
 2. Commercial assessment uses speed distribution, turbulence, hub height and terrain.
@@ -409,11 +426,11 @@ At **31 August 2026**, India had **58.52 GW** of installed wind capacity. Capaci
 
 **Misconception to avoid:** A resource atlas is not a project pipeline.
 
-### Lesson-local Mains practice
+### Mains application — potential versus spatial concentration
 
 **Question (10 marks, 150 words):** Examine the potential of wind energy in India and explain the reasons for its limited spatial spread.
 
-**Model (146 words):** India has a large wind resource concentrated in corridors across Gujarat, Tamil Nadu, Karnataka, Maharashtra, Rajasthan, Andhra Pradesh, Madhya Pradesh and Telangana. NIWE's gross assessment rises from 695.5 GW at 120-metre hub height to 1,163.9 GW at 150 metres. Offshore prospects are concentrated initially off Gujarat and Tamil Nadu.
+**Model (142 words):** India has a large wind resource concentrated in corridors across Gujarat, Tamil Nadu, Karnataka, Maharashtra, Rajasthan, Andhra Pradesh, Madhya Pradesh and Telangana. NIWE's gross assessment rises from 695.5 GW at 120-metre hub height to 1,163.9 GW at 150 metres. Offshore prospects are concentrated initially off Gujarat and Tamil Nadu.
 
 Actual deployment is narrower because commercial wind requires sustained speed distributions, low turbulence, land and setbacks, road access for large components and available transmission. State procurement, DISCOM payment risk, finance and clearances further shape projects. Bird, bat, grassland, coastal and fisheries impacts require site-specific safeguards. Offshore wind adds ports, specialised vessels, subsea cables and higher capital cost. Repowering old sites can raise output but faces fragmented leases and evacuation constraints.
 
@@ -426,9 +443,9 @@ Thus India's constraint is not absence of wind nationally; it is the conversion 
 Progress: 4 / 16 | Stage: Core | Subtopic: Hydro technology and flexibility
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — hydrology, river-resource and storage evidence checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed pp. 393-394; no specialised hydro-engineering OCR book was available
+CA search: "official India pumped storage hydropower roadmap status 1 January-5 October 2026 CEA"
+CA found: CEA Roadmap to 100 GW of Hydro Pumped Storage Projects by 2035-36, January 2026; commissioned status remained a separate MNRE/CEA datum
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four hydro configurations
@@ -447,6 +464,8 @@ turbine -> power       turbine -> power                           lower reservoi
 Water at height possesses potential energy. Flow through a turbine converts it into mechanical and then electrical energy. Reservoir projects can schedule releases, provide peaking power and sometimes irrigation or flood moderation. Run-of-river projects depend more directly on river flow and may have limited pondage.
 
 **Small hydro** in India's MNRE programme generally means projects up to **25 MW**. Small does not mean impact-free: diversion channels, altered flows, fish passage and cumulative cascade effects still matter.
+
+India's administrative and policy boundaries must be separated. Projects up to 25 MW are the MNRE small-hydro category; projects above 25 MW are handled within the Ministry of Power's large-hydro domain. Since the March 2019 policy decision, large hydro is also classified as renewable energy. Size, ministry and renewable classification are three different questions.
 
 ### 2. Pumped-storage hydropower is storage
 
@@ -477,11 +496,11 @@ Reservoir hydro and pumped storage can start and ramp faster than many large the
 
 Cumulative assessment matters where many projects occupy one basin. Project-by-project clearance can miss combined sediment, flow, fish and disaster effects.
 
-### Strongest objection, reply and residual
+### Storage classification dispute — renewable source or temporal shifter?
 
-**Objection:** Pumped storage is not renewable because it consumes grid electricity.
-**Reply:** It is correctly classified as energy storage; its emissions depend on charging electricity and project lifecycle. It can help integrate renewables without itself being a primary source.
-**Residual:** A pumped-storage project still needs water, land, geology, finance and ecological appraisal.
+**Classification challenge:** Pumped storage is not renewable because it consumes grid electricity.
+**Resolution:** It is correctly classified as energy storage; its emissions depend on charging electricity and project lifecycle. It can help integrate renewables without itself being a primary source.
+**Site-specific remainder:** A pumped-storage project still needs water, land, geology, finance and ecological appraisal.
 
 ### UPSC traps
 
@@ -490,7 +509,7 @@ Cumulative assessment matters where many projects occupy one basin. Project-by-p
 - Storage MW must be paired with MWh or hours.
 - “Run-of-river” does not mean zero diversion, zero pondage or zero impact.
 
-### Revision notes
+### Revision notes — hydro configurations and storage value
 
 1. Hydro converts gravitational potential energy of water into electricity.
 2. Reservoir hydro can schedule release; run-of-river is more flow-dependent.
@@ -504,6 +523,7 @@ Cumulative assessment matters where many projects occupy one basin. Project-by-p
 10. India had 7,425.6 MW pumped-storage capacity within large hydro on 31 August 2026.
 11. A 100-GW roadmap is not present operational capacity.
 12. Pumped storage is a flexibility asset, not an independent primary-energy source.
+13. Since 2019, large hydro is counted as renewable; MNRE's small-hydro category remains up to 25 MW, while large hydro belongs to the Ministry of Power domain.
 
 ### Concept check
 
@@ -513,11 +533,11 @@ Cumulative assessment matters where many projects occupy one basin. Project-by-p
 
 **Misconception to avoid:** Energy efficiency alone does not measure the value of storage.
 
-### Lesson-local Mains practice
+### Mains application — flexibility with river-basin safeguards
 
 **Question (15 marks, 250 words):** Assess the role of hydropower and pumped-storage projects in integrating variable renewable energy in India.
 
-**Model (196 words):** Hydropower contributes both electricity and flexibility. Reservoir stations can store inflows and vary output, while run-of-river plants provide lower scheduling freedom. Pumped-storage hydropower is different: it consumes electricity to lift water and later generates during scarce or peak periods. Though round-trip losses occur, the plant can absorb midday solar surplus, reduce curtailment, meet the evening ramp and supply reserves and ancillary services.
+**Model (195 words):** Hydropower contributes both electricity and flexibility. Reservoir stations can store inflows and vary output, while run-of-river plants provide lower scheduling freedom. Pumped-storage hydropower is different: it consumes electricity to lift water and later generates during scarce or peak periods. Though round-trip losses occur, the plant can absorb midday solar surplus, reduce curtailment, meet the evening ramp and supply reserves and ancillary services.
 
 India had 7,425.6 MW of pumped storage within large hydro on 31 August 2026, while CEA's much larger potential and 2035-36 roadmap indicate planned expansion rather than current delivery. Storage value must therefore be stated with status and duration.
 
@@ -532,9 +552,9 @@ India should prioritise basin-level appraisal, dam safety, environmental-flow co
 Progress: 5 / 16 | Stage: Core | Subtopic: Biomass, biogas, waste-to-energy and biofuels
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — biomass-resource and Economic Survey bioenergy treatment checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed pp. 391-394; `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF p. 240
+CA search: "official India National Bioenergy Programme Phase I status and bioenergy capacity 1 January-5 October 2026 MNRE"
+CA found: MNRE confirms Phase I ended 31 March 2026; physical progress supplies dated 31 August 2026 capacity, with no evidenced Phase II continuation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: choose the conversion route from the feedstock
@@ -579,21 +599,25 @@ feedstock origin -> land/water/fertiliser -> conversion energy
 
 The 2020 Prelims biofuel question tests the breadth of feedstocks permitted under policy, while the 2024 SAF question tests that sustainable aviation fuel can arise from several biological waste or crop pathways. **Feedstock eligibility is not proof of unlimited sustainable supply.**
 
-### 4. India programme and status
+### 4. India programme, ownership and status
 
-The National Bioenergy Programme is organised around waste-to-energy, biomass and biogas sub-programmes. At **31 August 2026**, grid-connected bagasse cogeneration stood at **9,821.32 MW**, non-bagasse biomass cogeneration at **1,047.85 MW**, grid-connected waste-to-energy at **324.24 MW**, and off-grid waste-to-energy equivalent at **554.16 MWeq**.
+MNRE's **National Bioenergy Programme Phase I** covered waste-to-energy, biomass and biogas for **1 April 2021 to 31 March 2026**. No Phase II or extension located by the cutoff is invented; projects or legacy support must be described through their actual sanction/status.
+
+Liquid transport biofuels have a different owner: the **Ministry of Petroleum and Natural Gas** administers the National Policy on Biofuels, 2018 as amended in 2022. Microbial, enzymatic and algal conversion mechanisms belong to Science and Technology Topic 13. This lesson owns the renewable-resource, pollution, land/feedstock and lifecycle boundaries.
+
+At **31 August 2026**, grid-connected bagasse cogeneration stood at **9,821.32 MW**, non-bagasse biomass cogeneration at **1,047.85 MW**, grid-connected waste-to-energy at **324.24 MW**, and off-grid waste-to-energy equivalent at **554.16 MWeq**.
 
 ### 5. Competing uses and justice
 
 Crop residues may already be fodder, bedding, soil cover or household fuel. Removing too much can reduce soil organic matter. Energy contracts must consider farmers' collection costs, seasonal supply, storage fire risk and bargaining power. Biogas can improve sanitation and clean cooking, but plants fail when feedstock, water, maintenance or digestate markets are ignored.
 
-### Strongest objection, reply and residual
+### Carbon-neutrality audit — when does the short carbon cycle fail?
 
-**Objection:** Biomass merely releases the carbon plants absorbed, so it is always neutral.
-**Reply:** Timing, regrowth, land-use change, processing energy and methane leakage determine net impact.
-**Residual:** Some residue and waste routes can be strongly beneficial, while dedicated crops or poor combustion can impose food, land, air-quality and biodiversity costs.
+**Carbon-neutrality claim:** Biomass merely releases the carbon plants absorbed, so it is always neutral.
+**Lifecycle correction:** Timing, regrowth, land-use change, processing energy and methane leakage determine net impact.
+**Qualified verdict:** Some residue and waste routes can be strongly beneficial, while dedicated crops or poor combustion can impose food, land, air-quality and biodiversity costs.
 
-### Revision notes
+### Revision notes — feedstock, conversion and ownership
 
 1. Biomass renewability depends on replenishment and lifecycle management.
 2. Cogeneration produces useful heat and power together.
@@ -607,6 +631,8 @@ Crop residues may already be fodder, bedding, soil cover or household fuel. Remo
 10. Residue collection can compete with fodder and soil functions.
 11. India had 9.82 GW bagasse cogeneration on 31 August 2026.
 12. Lifecycle accounting must include land, fertiliser, transport, conversion and co-products.
+13. MNRE Bioenergy Phase I ended 31 March 2026; MoPNG owns the National Policy on Biofuels.
+14. Biotechnology mechanisms route to Science and Technology Topic 13.
 
 ### Concept check
 
@@ -616,11 +642,11 @@ Crop residues may already be fodder, bedding, soil cover or household fuel. Remo
 
 **Misconception to avoid:** “Waste” does not mean ecologically or economically valueless material.
 
-### Lesson-local Mains practice
+### Mains application — lifecycle integrity of bioenergy
 
 **Question (10 marks, 150 words):** Bioenergy can support both waste management and energy security, but only under a lifecycle approach. Explain.
 
-**Model (142 words):** Bioenergy converts residues, dung, sewage and other organic feedstocks into heat, electricity, biogas, CBG or liquid fuels. It can reduce open residue burning, capture methane from waste, replace imported fuels and provide decentralised rural energy. Bagasse cogeneration also combines industrial heat and power.
+**Model (146 words):** Bioenergy converts residues, dung, sewage and other organic feedstocks into heat, electricity, biogas, CBG or liquid fuels. It can reduce open residue burning, capture methane from waste, replace imported fuels and provide decentralised rural energy. Bagasse cogeneration also combines industrial heat and power.
 
 However, the renewable label is conditional. Crop residues may be needed for fodder or soil cover; dedicated energy crops can compete for land and water. Collection, drying and transport use energy. Poor combustion causes local air pollution, while leakage from digestion systems erodes climate gains because methane is powerful. Waste-to-energy can also undermine segregation and recycling if plants demand mixed combustible waste.
 
@@ -633,9 +659,9 @@ Policy should therefore apply the waste hierarchy, sustainable-removal limits, l
 Progress: 6 / 16 | Stage: Core | Subtopic: Geothermal, tidal, wave and OTEC
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — physical-geography treatment of geothermal and ocean processes checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 141 and 240; the p. 141 India-deployment sentence was rejected in favour of current MNRE status
+CA search: "official India geothermal tidal wave OTEC status 1 January-5 October 2026 MNRE"
+CA found: no new commercial-deployment announcement located; MNRE continued to classify ocean technologies as R&D and not economically viable at scale
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four different physical engines
@@ -681,13 +707,13 @@ site specificity + expensive civil works/drilling
 small commercial deployment
 ```
 
-### Strongest objection, reply and residual
+### Predictability is not viability — testing niche renewable claims
 
-**Objection:** Because geothermal and tides can be steadier or more predictable than solar and wind, policy should prioritise them.
-**Reply:** System value matters, but cost, site availability, construction risk and ecological effects can dominate.
-**Residual:** Targeted demonstration and co-product use may be justified without assuming national-scale near-term deployment.
+**Priority claim:** Because geothermal and tides can be steadier or more predictable than solar and wind, policy should prioritise them.
+**Viability test:** System value matters, but cost, site availability, construction risk and ecological effects can dominate.
+**Bounded conclusion:** Targeted demonstration and co-product use may be justified without assuming national-scale near-term deployment.
 
-### Revision notes
+### Revision notes — geothermal and ocean boundaries
 
 1. Geothermal uses Earth's internal heat; it is not solar-derived.
 2. Binary plants transfer geothermal heat to another working fluid.
@@ -710,11 +736,11 @@ small commercial deployment
 
 **Misconception to avoid:** A superior single attribute does not establish overall technology superiority.
 
-### Lesson-local Mains practice
+### Mains application — promise, maturity and site constraints
 
 **Question (15 marks, 250 words):** Discuss the technological promise and deployment constraints of geothermal and ocean energy in India.
 
-**Model (184 words):** Geothermal and ocean energy broaden India's renewable portfolio beyond weather-dependent solar and wind. Geothermal resources can provide steady heat or electricity through steam, flash or binary-cycle systems. Tidal energy is predictable; wave energy exploits wind-driven sea motion; and OTEC uses the temperature difference between warm surface and cold deep ocean water. MNRE cites theoretical Indian potentials of about 10 GW geothermal, 12,455 MW tidal and 41,300 MW wave energy.
+**Model (179 words):** Geothermal and ocean energy broaden India's renewable portfolio beyond weather-dependent solar and wind. Geothermal resources can provide steady heat or electricity through steam, flash or binary-cycle systems. Tidal energy is predictable; wave energy exploits wind-driven sea motion; and OTEC uses the temperature difference between warm surface and cold deep ocean water. MNRE cites theoretical Indian potentials of about 10 GW geothermal, 12,455 MW tidal and 41,300 MW wave energy.
 
 Yet theoretical potential is far larger than bankable capacity. Geothermal projects face costly exploration, failed-well risk, mineralised fluids, reinjection and possible induced seismicity. Tidal barrages can alter estuarine sediment, salinity, wetlands and fisheries. Wave devices face storms, corrosion, biofouling and difficult offshore maintenance. OTEC has low thermodynamic efficiency, needs large seawater flows and expensive deep-water pipes.
 
@@ -727,9 +753,9 @@ India should therefore support resource mapping, carefully bounded demonstration
 Progress: 7 / 16 | Stage: Core | Subtopic: Forecasting, scheduling, balancing and curtailment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — Economic Survey grid-integration discussion checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, Chapter 10, printed pp. 379 and 393-394
+CA search: "official India renewable generation grid integration transmission status 1 January-5 October 2026 CEA Ministry of Power"
+CA found: CEA August 2026 renewable-generation report preserved the distinction between 295.55 GW renewable capacity and metered generation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the net-load “duck” problem
@@ -795,13 +821,13 @@ A plant can have a high capacity factor but low marginal value if output arrives
 
 The Economic Survey 2025-26 describes an “entropy effect”: transition measures can multiply bottlenecks unless grids, buffers and institutions grow together. The durable lesson is **integration, not installation**.
 
-### Strongest objection, reply and residual
+### Reliability doubt clinic — variable plant versus reliable portfolio
 
-**Objection:** Forecasting cannot remove weather variability, so variable renewables threaten reliability.
-**Reply:** Reliability is a portfolio property. Forecasting, transmission, storage, responsive demand, reserves and grid-forming controls can manage high shares.
-**Residual:** The required infrastructure and market reform have real costs and long lead times; delay can strand otherwise cheap generation.
+**Operational doubt:** Forecasting cannot remove weather variability, so variable renewables threaten reliability.
+**Portfolio answer:** Reliability is a system property. Forecasting, transmission, storage, responsive demand, reserves and grid-forming controls can manage high shares.
+**Implementation limit:** The required infrastructure and market reform have real costs and long lead times; delay can strand otherwise cheap generation.
 
-### Revision notes
+### Revision notes — balancing the real-time grid
 
 1. Variable output is weather-dependent; it is not wholly unpredictable.
 2. Non-dispatchable means the operator cannot command the primary resource.
@@ -824,11 +850,11 @@ The Economic Survey 2025-26 describes an “entropy effect”: transition measur
 
 **Misconception to avoid:** “More total demand” does not mean every renewable unit can be absorbed at every place and time.
 
-### Lesson-local Mains practice
+### Mains application — integration beyond installation
 
 **Question (15 marks, 250 words):** Why is grid integration, rather than renewable installation alone, the decisive challenge in India's next phase of energy transition?
 
-**Model (207 words):** India can add solar and wind capacity faster than it can automatically convert that capacity into dependable electricity. Their output varies by hour, season and location, whereas the grid must balance supply and demand continuously. A high-capacity share can therefore coexist with congestion, curtailment, steep evening ramps and inadequate peak supply.
+**Model (189 words):** India can add solar and wind capacity faster than it can automatically convert that capacity into dependable electricity. Their output varies by hour, season and location, whereas the grid must balance supply and demand continuously. A high-capacity share can therefore coexist with congestion, curtailment, steep evening ramps and inadequate peak supply.
 
 Integration begins with accurate forecasting and shorter scheduling intervals. Interstate transmission moves power from resource-rich regions to load centres and pools diverse weather. Flexible hydro or thermal units, reserves and ancillary-service markets manage deviations. Batteries and pumped storage shift energy; demand response, time-of-day tariffs, electric-vehicle charging and industrial loads can move consumption towards renewable-rich hours. Inverter standards and system controls are also needed for frequency and voltage stability.
 
@@ -843,9 +869,9 @@ India should therefore measure transition through renewable generation absorbed,
 Progress: 8 / 16 | Stage: Core | Subtopic: Flexibility technologies and procurement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — CEA storage projections and power-system economics checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed pp. 393-394
+CA search: "official India energy storage ACC PLI grid-scale tender 1 January-5 October 2026 CEA MNRE MHI"
+CA found: MHI opened the 10-GWh grid-scale ACC manufacturing tranche on 15 July 2026; bids remained due after the cutoff
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: duration ladder
@@ -899,19 +925,19 @@ A firm or round-the-clock renewable contract combines variable generation with s
 
 ### 6. India's scale challenge
 
-CEA estimated about **336 GWh** of energy storage requirement by 2029-30 and **411 GWh** by 2031-32. These are planning estimates, not installed battery totals. The scale explains why domestic manufacturing, recycling, pumped storage, markets and demand response all matter.
+CEA planning estimates about **336.4 GWh** of total energy-storage requirement by 2029-30 and **411.4 GWh** by 2031-32. The latter comprises **175.18 GWh pumped storage** and **236.22 GWh battery storage**. These are multi-technology planning requirements, not installed battery totals. The scale explains why domestic manufacturing, recycling, pumped storage, markets and demand response all matter.
 
 ### 7. ACC-PLI: manufacturing capacity is not deployed grid storage
 
-The Production Linked Incentive scheme for the **National Programme on Advanced Chemistry Cell Battery Storage** has an outlay of **₹18,100 crore** and a **50 GWh** domestic manufacturing objective. By the cutoff, **40 GWh had been awarded** on an end-use-agnostic basis, while the remaining **10 GWh was earmarked for grid-scale stationary storage** and was under a 2026 bid process. These figures describe manufacturing awards or procurement, not commissioned batteries, available discharge duration or grid services.
+The Ministry of Heavy Industries' Production Linked Incentive scheme for the **National Programme on Advanced Chemistry Cell Battery Storage** has an outlay of **₹18,100 crore** and a **50 GWh** domestic manufacturing objective. By the cutoff, **40 GWh had been awarded** on an end-use-agnostic basis, while the remaining **10 GWh was earmarked for grid-scale stationary storage** under an RFP issued on **15 July 2026** with bids due after the cutoff. These figures describe manufacturing awards or procurement, not commissioned batteries, available discharge duration or grid services. This ACC scheme is distinct from MNRE's solar-PV manufacturing PLI.
 
-### Strongest objection, reply and residual
+### Portfolio choice test — can one storage technology solve every duration?
 
-**Objection:** Falling battery costs will make transmission and flexible demand unnecessary.
-**Reply:** Batteries cannot economically solve every duration or location, and they still need networks for charging and delivery.
-**Residual:** Overbuilding any one flexibility option can raise cost and material demand; planning should compare portfolios.
+**Single-solution claim:** Falling battery costs will make transmission and flexible demand unnecessary.
+**Portfolio response:** Batteries cannot economically solve every duration or location, and they still need networks for charging and delivery.
+**Procurement lesson:** Overbuilding any one flexibility option can raise cost and material demand; planning should compare portfolios.
 
-### Revision notes
+### Revision notes — duration, service and manufacturing status
 
 1. Storage needs both MW and MWh; duration equals MWh divided by MW.
 2. Batteries are fast and modular but degrade and require safety systems.
@@ -922,7 +948,7 @@ The Production Linked Incentive scheme for the **National Programme on Advanced 
 7. A hybrid plant is not automatically firm.
 8. Firm contracts require a defined delivery profile and penalty structure.
 9. Demand response can substitute for some generation or storage at peaks.
-10. CEA's 411 GWh figure is a 2031-32 requirement estimate.
+10. CEA's 411.4 GWh figure is a 2031-32 total requirement estimate: 175.18 GWh PSP plus 236.22 GWh BESS.
 11. Storage can earn from several services; regulation must allow value stacking.
 12. Portfolio planning avoids dependence on one mineral- or site-intensive solution.
 13. ACC-PLI targets 50 GWh of domestic manufacturing; 40 GWh was awarded and 10 GWh earmarked for grid-scale storage.
@@ -936,13 +962,13 @@ The Production Linked Incentive scheme for the **National Programme on Advanced 
 
 **Misconception to avoid:** Storage power rating alone does not reveal how long supply can continue.
 
-### Lesson-local Mains practice
+### Mains application — complementary flexibility tools
 
 **Question (10 marks, 150 words):** “Transmission, storage and demand flexibility are complements rather than substitutes in a renewable-heavy grid.” Explain.
 
-**Model (138 words):** Transmission, storage and flexible demand solve different dimensions of variability. Transmission moves electricity from a windy or sunny region to another load centre and pools diverse weather. Storage shifts electricity from surplus to scarce hours and can provide rapid reserves. Demand response changes consumption so that charging, pumping, cooling or industrial processes occur when renewable output is abundant.
+**Model (148 words):** Transmission, storage and flexible demand solve different dimensions of variability. Transmission moves electricity from a windy or sunny region to another load centre and pools diverse weather. Storage shifts electricity from surplus to scarce hours and can provide rapid reserves. Demand response changes consumption so that charging, pumping, cooling or industrial processes occur when renewable output is abundant.
 
-They can partly substitute at specific bottlenecks: a local battery may defer a substation upgrade, while a stronger corridor may reduce storage needs. Yet none is universal. Storage cannot deliver remote power without networks; transmission cannot move noon electricity to the evening; and flexible demand cannot shift every essential load. CEA's projection of 411 GWh storage need by 2031-32 therefore belongs within, not outside, broader grid planning. India should procure least-cost portfolios based on location, duration, reliability and lifecycle impacts rather than treating one technology as the complete balancing solution.
+They can partly substitute at specific bottlenecks: a local battery may defer a substation upgrade, while a stronger corridor may reduce storage needs. Yet none is universal. Storage cannot deliver remote power without networks; transmission cannot move noon electricity to the evening; and flexible demand cannot shift every essential load. CEA's 411.4-GWh total requirement for 2031-32—175.18 GWh PSP and 236.22 GWh BESS—therefore belongs within broader grid planning. India should procure least-cost portfolios based on location, duration, reliability and lifecycle impacts rather than treating one technology as the complete balancing solution.
 
 **Unique quantified rubric (10):** spatial-temporal distinction 3 | complementarity examples 3 | India evidence 1 | limits 2 | conclusion 1
 
@@ -951,9 +977,9 @@ They can partly substitute at specific bottlenecks: a local battery may defer a 
 Progress: 9 / 16 | Stage: Core | Subtopic: Environmental and social trade-offs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — lifecycle, material-intensity and biodiversity evidence checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: not available — the available OCR books did not provide adequate current lifecycle or Great Indian Bustard legal treatment; official and primary evidence was used
+CA search: "official Great Indian Bustard renewable transmission Supreme Court update 1 January-5 October 2026"
+CA found: none in the date window; the latest controlling material used remained the Supreme Court order of 21 March 2024
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: lifecycle bow-tie
@@ -1003,13 +1029,13 @@ Design for disassembly, extended producer responsibility, collection, safe treat
 
 Solar needs cleaning; thermal plants and some hydrogen projects need cooling or process water; hydro and biomass reshape water use; mining can pollute catchments. National averages hide basin scarcity. Site-level water balance is essential.
 
-### Strongest objection, reply and residual
+### False binary — transition speed versus ecological safeguards
 
-**Objection:** Discussing renewable impacts helps fossil-fuel delay.
-**Reply:** Fossil harms are profound, but ignoring renewable impacts creates opposition, litigation and unjust siting that can slow transition.
-**Residual:** Comparative assessment must retain the fossil counterfactual while demanding better renewable design.
+**False choice:** Discussing renewable impacts helps fossil-fuel delay.
+**Reconciliation:** Fossil harms are profound, but ignoring renewable impacts creates opposition, litigation and unjust siting that can slow transition.
+**Comparison rule:** Retain the fossil counterfactual while demanding better renewable design.
 
-### Revision notes
+### Revision notes — lifecycle and least-conflict siting
 
 1. Low operational emissions do not mean zero lifecycle impact.
 2. Project land includes roads, substations and transmission.
@@ -1032,11 +1058,11 @@ Solar needs cleaning; thermal plants and some hydrogen projects need cooling or 
 
 **Misconception to avoid:** Low tree density does not mean low biodiversity or no social claim.
 
-### Lesson-local Mains practice
+### Mains application — environmental governance of clean infrastructure
 
 **Question (15 marks, 250 words):** Renewable-energy expansion produces a new environmental governance challenge rather than eliminating environmental trade-offs. Discuss.
 
-**Model (214 words):** Renewable power lowers operational greenhouse-gas emissions and air pollution relative to fossil generation, but it redistributes environmental pressure across land, minerals, water and infrastructure. Utility solar parks, wind roads and transmission lines can fragment grasslands, deserts and coastal habitats. The Great Indian Bustard conflict in Rajasthan and Gujarat shows that a clean-energy line can still create species-level collision risk. The Supreme Court's 21 March 2024 order moved from a blanket undergrounding remedy towards expert, area-specific feasibility, illustrating the need for differentiated solutions.
+**Model (208 words):** Renewable power lowers operational greenhouse-gas emissions and air pollution relative to fossil generation, but it redistributes environmental pressure across land, minerals, water and infrastructure. Utility solar parks, wind roads and transmission lines can fragment grasslands, deserts and coastal habitats. The Great Indian Bustard conflict in Rajasthan and Gujarat shows that a clean-energy line can still create species-level collision risk. The Supreme Court's 21 March 2024 order moved from a blanket undergrounding remedy towards expert, area-specific feasibility, illustrating the need for differentiated solutions.
 
 Upstream, solar, wind and batteries require mining, refining and component supply chains. A domestic mineral occurrence does not guarantee responsible extraction or processing security. Downstream, modules, blades, batteries and power electronics need collection and recycling. Water demand for cleaning, processing or hydrogen must be tested against basin scarcity. Land described administratively as “wasteland” may support grazing and livelihoods.
 
@@ -1049,9 +1075,9 @@ Environmental governance should apply the mitigation hierarchy: avoid critical h
 Progress: 10 / 16 | Stage: Core | Subtopic: Policy instruments and institutions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — electricity-market and policy architecture checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: not available — current RCO, REC and open-access law was taken from MoP/BEE/CERC primary instruments, not an OCR textbook
+CA search: "official India Renewable Consumption Obligation RCO replacement notification status 1 January-5 October 2026 Ministry of Power BEE"
+CA found: no later replacement located; S.O. 4421(E) of 27 September 2025 remained operative
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: four policy levers
@@ -1090,9 +1116,11 @@ Never collapse award into commissioning or generation.
 
 ### 3. RPO and the central RCO trajectory
 
-**Renewable Purchase Obligation (RPO)** is the familiar Electricity Act/SERC mechanism requiring specified entities to procure renewable electricity. From **1 April 2024**, the Ministry of Power's 20 October 2023 central notification under the amended Energy Conservation Act superseded earlier central RPO-trajectory notifications with a **Renewable Consumption Obligation (RCO)** framework for designated consumers. State regulatory instruments must be checked for alignment rather than assumed to have disappeared merely because the central label changed.
+**Renewable Purchase Obligation (RPO)** is the familiar Electricity Act/SERC mechanism requiring specified entities to procure renewable electricity. The central **Renewable Consumption Obligation (RCO)** framework operates under the amended Energy Conservation Act for designated consumers: distribution licensees, open-access consumers and captive users, with the latter two assessed on electricity consumed from sources other than their distribution licensee.
 
-Under the revised trajectory, the **2026-27 total RCO is 35.95%**, comprising:
+The operative central instrument at the cutoff was **Ministry of Power S.O. 4421(E), 27 September 2025**. It expressly superseded S.O. 4617(E) of **20 October 2023**, except for prior acts or omissions. State RPO instruments still require jurisdiction-specific checking; the central notification does not erase state-regulatory law.
+
+Under S.O. 4421(E), the **2026-27 total RCO is 35.95%**, comprising:
 
 | Category | 2026-27 |
 |---|---:|
@@ -1120,13 +1148,13 @@ Open access can enable corporate decarbonisation but may reduce DISCOM sales to 
 
 Auctions create supply, RCO/RPO creates demand, RECs create compliance flexibility, open access creates consumer choice and grids enable physical delivery. Each solves a different failure.
 
-### Strongest objection, reply and residual
+### Auction architecture stress test — price discovery is not delivery
 
-**Objection:** Competitive auctions alone guarantee the cheapest transition.
-**Reply:** Auctions reveal a contract price under assumptions; poor risk allocation can produce underbidding, delay or renegotiation.
-**Residual:** Procurement quality must be judged by timely commissioned, generating assets and reliable payment, not record-low bids alone.
+**Auction claim:** Competitive auctions alone guarantee the cheapest transition.
+**Contract correction:** Auctions reveal a price under stated assumptions; poor risk allocation can produce underbidding, delay or renegotiation.
+**Performance test:** Judge procurement by timely commissioned, generating assets and reliable payment, not record-low bids alone.
 
-### Revision notes
+### Revision notes — obligations, certificates and access
 
 1. MNRE makes sector policy; MoP governs the electricity framework.
 2. CEA plans and supplies technical data; regulators regulate markets and tariffs.
@@ -1135,7 +1163,7 @@ Auctions create supply, RCO/RPO creates demand, RECs create compliance flexibili
 5. A PPA converts future offtake into bankability.
 6. Award, financial closure, construction, commissioning and generation are separate statuses.
 7. RPO is the established state-regulatory procurement obligation.
-8. Central RCO superseded earlier central RPO trajectories from FY 2024-25.
+8. S.O. 4421(E), 27 September 2025 superseded the 20 October 2023 central RCO notification.
 9. The total RCO for 2026-27 is 35.95%.
 10. One REC represents 1 MWh of eligible renewable generation.
 11. RECs transfer attributes, not identifiable electrons.
@@ -1150,13 +1178,13 @@ Auctions create supply, RCO/RPO creates demand, RECs create compliance flexibili
 
 **Misconception to avoid:** An REC is neither a unit of installed capacity nor a guarantee of direct physical delivery from one plant.
 
-### Lesson-local Mains practice
+### Mains application — matching instrument to market failure
 
 **Question (15 marks, 250 words):** Explain how auctions, renewable obligations, RECs and green open access interact in India's renewable-electricity market.
 
-**Model (215 words):** India's renewable market uses complementary instruments. Competitive reverse auctions organised by agencies such as SECI discover tariffs and award projects. Long-term PPAs then provide revenue certainty for finance, while transmission and scheduling permit physical delivery. An award, however, is not commissioned generation.
+**Model (198 words):** India's renewable market uses complementary instruments. Competitive reverse auctions organised by agencies such as SECI discover tariffs and award projects. Long-term PPAs then provide revenue certainty for finance, while transmission and scheduling permit physical delivery. An award, however, is not commissioned generation.
 
-Demand is created through renewable obligations. RPO is the established Electricity Act/SERC concept. At the central level, the Ministry of Power's October 2023 RCO notification under the amended Energy Conservation Act superseded earlier central RPO trajectories from FY 2024-25; the total 2026-27 RCO is 35.95%. State alignment still needs jurisdiction-specific checking.
+Demand is created through renewable obligations. RPO is the established Electricity Act/SERC concept. At the central level, Ministry of Power **S.O. 4421(E) of 27 September 2025** superseded the 20 October 2023 RCO notification; the total 2026-27 RCO is 35.95% for the designated-consumer scope stated above. State alignment still needs jurisdiction-specific checking.
 
 RECs add compliance flexibility. One REC represents 1 MWh of eligible renewable generation whose attribute can be traded and retired separately from physical electricity. This helps entities unable to contract direct supply, but requires accurate metering and protection against double counting. Green open access enables eligible consumers—generally from 100 kW, with no minimum for captive users—to procure renewable power directly, subject to network access, banking and charges.
 
@@ -1169,9 +1197,9 @@ The architecture works only if contracts are bankable, grids are ready, DISCOM p
 Progress: 11 / 16 | Stage: Core | Subtopic: DERs, rooftop systems and transition status
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — distributed-resource and distribution-economics treatment checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: not available — no adequate current DER/rooftop OCR-book treatment was located; official scheme and power-system sources were used
+CA search: "official India distributed energy PM Surya Ghar rooftop capacity status 1 January-5 October 2026 MNRE"
+CA found: MNRE physical progress reported 32.59 GW grid-connected rooftop capacity at 31 August 2026; scheme beneficiaries were not inferred from it
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the distribution grid becomes two-way
@@ -1210,7 +1238,7 @@ PM Surya Ghar Muft Bijli Yojana targets one crore residential rooftop installati
 
 ### 4. Status map as of the cutoff
 
-Latest official MNRE physical progress available by 3 October 2026 was dated **31 August 2026**:
+Latest official MNRE physical progress available by **5 October 2026** was dated **31 August 2026**:
 
 ```text
 Solar total                       168.04 GW
@@ -1228,28 +1256,28 @@ Total non-fossil                  304.33 GW
 
 Do not add these rounded categories casually: the official table's treatment of grid/off-grid equivalents and subcategories controls the total.
 
-### 5. Nuclear boundary: firm non-fossil power, not renewable energy
+### 5. Nuclear boundary: non-fossil, not renewable
 
-The **8.78 GW nuclear capacity** in the status table is included in the non-fossil total but not in renewable capacity. Nuclear can provide firm low-carbon electricity in a variable-renewable-heavy system, while retaining distinct safety, waste, water, cost and liability questions.
-
-The **SHANTI Act, 2025** is an enacted civilian nuclear framework that permits licensed private participation while retaining exclusive Central control over specified sensitive activities. The **Nuclear Energy Mission** announced with a **₹20,000-crore** outlay targets at least **five indigenously designed and operational Small Modular Reactors by 2033**; Bharat Small Modular Reactor and SMR-55 work belongs to this firm-power context. Detailed reactor physics and nuclear-liability analysis remain with Science and Technology and energy-law study.
+The **8.78 GW nuclear capacity** in the August status table is included in the non-fossil total but not in renewable capacity. That category distinction is all this topic owns. Reactor technology, fuel cycle, institutions, liability and nuclear-policy targets route to Science and Technology Topic 04.
 
 ### 6. Target versus status
 
-India's announced **500 GW non-fossil capacity by 2030** is not identical to the updated NDC's “about 50% cumulative electric-power installed capacity from non-fossil sources by 2030.” Nor is either identical to the Panchamrit statement about 50% of energy requirements from renewables.
+India's announced **500 GW non-fossil capacity by 2030** is not identical to the 2022 NDC's “about 50% cumulative electric-power installed capacity from non-fossil sources by 2030.” Nor is either identical to the Panchamrit statement about 50% of energy requirements from renewables.
+
+India's April 2026 NDC for **2031-35** adds a later horizon: **about 60% cumulative electric-power installed capacity from non-fossil resources by 2035**, conditional on technology transfer and low-cost international finance. Detailed NDC chronology and climate-policy ownership remain with Topic 20.
 
 ```text
 target announced -> tendered -> awarded -> under construction
 -> commissioned capacity -> actual generation -> reliable service -> climate outcome
 ```
 
-### Strongest objection, reply and residual
+### Distributed-energy equity test — participation for whom?
 
-**Objection:** Distributed solar automatically democratises energy.
-**Reply:** It can broaden ownership, but roof, credit, information and metering barriers can exclude poorer consumers.
-**Residual:** Equity requires targeted finance, community models and fair network-cost rules.
+**Participation claim:** Distributed solar automatically democratises energy.
+**Distributional answer:** It can broaden ownership, but roof, credit, information and metering barriers can exclude poorer consumers.
+**Equity requirement:** Targeted finance, community models and fair network-cost rules.
 
-### Revision notes
+### Revision notes — DER operation, access and status
 
 1. DER describes location/scale and grid relation, not necessarily renewable origin.
 2. Batteries, biomass generators, fuel cells and rooftop PV can all be DERs.
@@ -1263,9 +1291,8 @@ target announced -> tendered -> awarded -> under construction
 10. Total renewable including large hydro was 295.55 GW.
 11. Total non-fossil capacity was 304.33 GW.
 12. Target, award, construction, commissioning and generation are separate statuses.
-13. India's 500-GW pledge and updated-NDC percentage are different formulations.
-14. Nuclear is firm non-fossil power, not renewable energy.
-15. SHANTI/SMR developments belong to the energy-security firmness boundary; detailed reactor and liability analysis lies outside this topic.
+13. Nuclear is non-fossil but not renewable; all detailed nuclear policy and technology route to Science and Technology Topic 04.
+14. The 500-GW pledge, 2030 NDC percentage, Panchamrit energy requirement and April 2026 NDC's about-60%-by-2035 formulation are distinct; Topic 20 owns the full chronology.
 
 ### Concept check
 
@@ -1275,11 +1302,11 @@ target announced -> tendered -> awarded -> under construction
 
 **Misconception to avoid:** Distributed, decentralised, off-grid and renewable are overlapping but non-identical labels.
 
-### Lesson-local Mains practice
+### Mains application — technical participation and distributional equity
 
 **Question (10 marks, 150 words):** Evaluate the role of distributed energy resources in India's energy transition.
 
-**Model (149 words):** Distributed energy resources include rooftop PV, batteries, biomass generators, fuel cells and controllable loads located near consumers. They can reduce some delivery losses, diversify ownership, support remote access, defer selected network investment and provide resilience or flexibility when aggregated. Rooftop solar also turns consumers into producers.
+**Model (144 words):** Distributed energy resources include rooftop PV, batteries, biomass generators, fuel cells and controllable loads located near consumers. They can reduce some delivery losses, diversify ownership, support remote access, defer selected network investment and provide resilience or flexibility when aggregated. Rooftop solar also turns consumers into producers.
 
 However, DER is not synonymous with renewable: batteries store their charging mix and fuel-cell emissions depend on fuel. Two-way flows create voltage, protection and transformer challenges, requiring smart inverters, interval meters and distribution planning. Financially, high-paying consumers may reduce DISCOM purchases while retaining grid backup, shifting fixed costs to non-adopters. Renters and low-income households can be excluded by roof and finance constraints.
 
@@ -1292,19 +1319,21 @@ Policy should combine transparent interconnection, time-sensitive tariffs, fair 
 Progress: 12 / 16 | Stage: Core | Subtopic: Production pathways, electrolyser types and efficiency
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — hydrogen production and mission documents checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: not available — no adequate hydrogen-production OCR textbook was available; the MNRE standard, certification scheme and mission documents controlled
+CA search: "official India Green Hydrogen Standard certification portal update 1 January-5 October 2026 MNRE PIB"
+CA found: Green Hydrogen Certification Portal launched on 17 June 2026; no certificate-count claim was made
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual: the molecule is the same; the pathway changes
+### Visual: the molecule is the same; route and measured emissions change
 
 ```text
 NATURAL GAS -> reforming -----------------------------> GREY H2 + CO2 emitted
 NATURAL GAS -> reforming + carbon capture/storage ---> BLUE H2 + residual emissions
 COAL --------> gasification --------------------------> BROWN/BLACK H2 + high emissions
-RE ELECTRICITY + WATER -> electrolysis --------------> GREEN H2 + O2
-NUCLEAR/other low-carbon power -> electrolysis ------> LOW-CARBON H2, label depends on standard
+RE ELECTRICITY + WATER -> electrolysis --------\
+                                                   +--> GREEN only if <=2 kg CO2e/kg H2
+QUALIFYING BIOMASS -> conversion ----------------/    well-to-gate over 12 months
+OTHER LOW-CARBON POWER -> electrolysis --------------> low-carbon label depends on standard
 ```
 
 The hydrogen molecule does not carry a colour. Colours are market shorthand for production pathways. The rigorous comparison is **kilograms of carbon-dioxide equivalent per kilogram of hydrogen across a declared boundary**.
@@ -1313,10 +1342,10 @@ The hydrogen molecule does not carry a colour. Colours are market shorthand for 
 
 **Grey hydrogen** usually comes from fossil fuels without carbon capture.
 **Blue hydrogen** uses a fossil pathway with carbon capture and storage. Its result depends on upstream methane leakage, capture rate, energy penalty and durable storage. It is not zero-carbon by definition.
-**Green hydrogen** under India's standard is hydrogen produced using renewable energy and meeting the notified emissions threshold.
+**Green hydrogen** under India's standard may follow an electrolysis-based or biomass-based production route, but it must use renewable energy/feedstock under the notified method and meet the emissions threshold.
 **Low-carbon hydrogen** is a broader performance label that can include non-renewable low-emission pathways, subject to the governing standard.
 
-India's Green Hydrogen Standard sets a **well-to-gate** threshold of no more than **2 kg CO2 equivalent per kg of hydrogen**, averaged over the preceding 12 months. Therefore electrolysis is not automatically green: electricity source and lifecycle accounting matter.
+India's Green Hydrogen Standard sets a **well-to-gate** threshold of no more than **2 kg CO2 equivalent per kg of hydrogen**, averaged over the preceding 12 months, and expressly covers electrolysis-based and biomass-based production. Therefore neither an electrolyser nor a biomass feedstock automatically establishes a green claim: electricity, feedstock, auxiliaries and the notified boundary matter.
 
 ### 2. Electrolysis mechanism
 
@@ -1327,6 +1356,8 @@ electricity + water -> hydrogen at cathode + oxygen at anode
 ```
 
 The stoichiometric minimum water incorporated into products is about **9 litres per kilogram of hydrogen**. Real facilities need additional water for purification, cooling and operations, depending on technology and design. Project appraisal must use the full water balance rather than the chemical minimum alone.
+
+A **hydrogen fuel cell** operates in the reverse functional direction: it consumes hydrogen and oxygen electrochemically to produce electricity, heat and water. It is an energy-conversion device, not a source of hydrogen; its lifecycle emissions depend on the hydrogen supplied.
 
 ### 3. Main electrolyser families
 
@@ -1362,18 +1393,18 @@ renewable contract/certificate
 
 India's notified standard and certification scheme determine the legal method. Analytical terms such as hourly matching and additionality explain why a yearly certificate alone may not always prove that electrolysis ran on contemporaneous new renewable output.
 
-### Strongest objection, reply and residual
+### Certification boundary challenge — is the machine or the measured pathway green?
 
-**Objection:** If an electrolyser is connected to a grid with renewable certificates, its hydrogen is necessarily green.
-**Reply:** Certification depends on the official system boundary, measured emissions and attribute rules, not merely equipment type.
-**Residual:** Standards evolve as data and trade requirements become more demanding; claims must name the applicable version and period.
+**Certification claim:** If an electrolyser is connected to a grid with renewable certificates, its hydrogen is necessarily green.
+**Measured answer:** Certification depends on the official system boundary, measured emissions and attribute rules, not merely equipment type.
+**Version caveat:** Standards evolve as data and trade requirements become more demanding; claims must name the applicable version and period.
 
-### Revision notes
+### Revision notes — routes, threshold and conversion direction
 
 1. Hydrogen colour describes pathway, not a different molecule.
 2. Grey hydrogen is fossil-based without capture.
 3. Blue hydrogen retains residual emissions and methane/capture risks.
-4. Green hydrogen requires renewable energy plus compliance with a standard.
+4. India's green-hydrogen definition covers qualifying electrolysis and biomass routes plus compliance with the emissions standard.
 5. Low-carbon hydrogen is broader than green hydrogen.
 6. India's threshold is at most 2 kg CO2e per kg H2, well-to-gate.
 7. Electrolysis produces hydrogen and oxygen from water using electricity.
@@ -1383,6 +1414,7 @@ India's notified standard and certification scheme determine the legal method. A
 11. Efficiency depends on HHV/LHV and stack/system boundaries.
 12. Cheap electricity, high utilisation and low carbon intensity can pull in different directions.
 13. Electrolysis alone does not establish a green claim.
+14. A hydrogen fuel cell consumes H2 and O2 to produce electricity, heat and water; it does not produce hydrogen.
 
 ### Concept check
 
@@ -1392,11 +1424,11 @@ India's notified standard and certification scheme determine the legal method. A
 
 **Misconception to avoid:** “Electrolytic hydrogen” and “green hydrogen” are not synonyms.
 
-### Lesson-local Mains practice
+### Mains application — pathway labels versus measured integrity
 
 **Question (15 marks, 250 words):** Distinguish green hydrogen from low-carbon and blue hydrogen. Explain why electrolysis efficiency alone cannot establish environmental integrity.
 
-**Model (201 words):** Hydrogen colours are shorthand for production pathways. Grey hydrogen is fossil-derived without carbon capture. Blue hydrogen adds carbon capture and storage, but its lifecycle performance depends on methane leakage, capture rate, energy use and storage permanence. Green hydrogen uses renewable energy and must satisfy the governing standard. Low-carbon hydrogen is a broader performance category that may include non-renewable low-emission pathways.
+**Model (198 words):** Hydrogen colours are shorthand for production pathways. Grey hydrogen is fossil-derived without carbon capture. Blue hydrogen adds carbon capture and storage, but its lifecycle performance depends on methane leakage, capture rate, energy use and storage permanence. India's green category can cover qualifying electrolysis or biomass conversion only when the well-to-gate threshold is met. Low-carbon hydrogen is a broader performance category that may include non-renewable low-emission pathways.
 
 India's standard defines green hydrogen through a well-to-gate emissions ceiling of 2 kg CO2 equivalent per kg of hydrogen, averaged over the specified period. This shows why an electrolyser is not inherently green. Efficiency measures how effectively electricity and other inputs become hydrogen, but environmental integrity also depends on the carbon intensity and timing of electricity, water treatment, compression, equipment manufacture and the certification boundary.
 
@@ -1411,9 +1443,9 @@ Policy should therefore report technology, energy source, product carbon footpri
 Progress: 13 / 16 | Stage: Core | Subtopic: Delivery chain and risk management
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — hydrogen infrastructure, water and safety evidence checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: not available — no adequate hydrogen-water/logistics OCR textbook was available; official mission material and IEA technical evidence were used
+CA search: "hydrogen water storage transport infrastructure update 1 January-5 October 2026 IEA official"
+CA found: IEA Global Hydrogen Review 2026, released 18 June 2026, highlighted infrastructure, trade and carrier-conversion constraints
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the delivered-hydrogen chain
@@ -1479,13 +1511,13 @@ Hydrogen is not uniquely unmanageable; industries handle it safely today. But sa
 
 A plant rated to produce hydrogen does not prove that storage, transport, offtake and compatible end-use equipment exist. The chain is only as strong as its weakest link. Hubs seek to co-locate producers and users to reduce early pipeline and logistics risk.
 
-### Strongest objection, reply and residual
+### Safety and infrastructure risk balance — manageable is not automatic
 
-**Objection:** Hydrogen's safety risks make large-scale use unacceptable.
-**Reply:** Risk can be managed through engineering, standards, monitoring and trained operations, as with natural gas and industrial chemicals.
-**Residual:** Novel scale, public-facing transport and repurposed infrastructure require evidence, not analogy alone.
+**Safety claim:** Hydrogen's risks make large-scale use unacceptable.
+**Engineering response:** Risk can be managed through design, standards, monitoring and trained operations, as with other industrial gases and chemicals.
+**Evidence threshold:** Novel scale, public-facing transport and repurposed infrastructure require evidence, not analogy alone.
 
-### Revision notes
+### Revision notes — water, carriers and delivered service
 
 1. The 9-litre figure is the chemical minimum, not total project withdrawal.
 2. Water assessment must be basin- and season-specific.
@@ -1508,11 +1540,11 @@ A plant rated to produce hydrogen does not prove that storage, transport, offtak
 
 **Misconception to avoid:** A derivative is not a lossless container for hydrogen.
 
-### Lesson-local Mains practice
+### Mains application — from factory gate to usable molecule
 
 **Question (15 marks, 250 words):** Analyse the water, logistics and safety constraints on scaling green hydrogen in India.
 
-**Model (207 words):** Electrolysis chemically consumes about 9 litres of water per kilogram of hydrogen, but a project's withdrawal is higher because purification, cooling and rejected streams must be included. The relevant test is therefore basin-specific: source, season, legal rights, treatment recovery and competition with drinking, agriculture and ecosystems. Desalination can reduce freshwater demand but adds electricity use and brine disposal.
+**Model (186 words):** Electrolysis chemically consumes about 9 litres of water per kilogram of hydrogen, but a project's withdrawal is higher because purification, cooling and rejected streams must be included. The relevant test is therefore basin-specific: source, season, legal rights, treatment recovery and competition with drinking, agriculture and ecosystems. Desalination can reduce freshwater demand but adds electricity use and brine disposal.
 
 Hydrogen also has low volumetric energy density. Compressed storage requires high-pressure equipment; liquefaction needs cryogenic energy and faces boil-off. Pipelines suit large steady flows but require compatible steels, seals and compressors. Trucks are flexible but costly; ammonia or methanol can simplify long-distance shipping, although conversion and reconversion add losses. Hubs can reduce distance by co-locating supply and demand.
 
@@ -1527,9 +1559,9 @@ India should therefore evaluate delivered hydrogen, not factory capacity alone. 
 Progress: 14 / 16 | Stage: Core | Subtopic: End-use hierarchy and hydrogen derivatives
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — industrial energy, fertiliser and transport applications checked
-CA search: not applicable to this static lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed p. 391 for mission and industrial context; no specialised end-use OCR book was available
+CA search: "official India green ammonia green methanol standards hard-to-abate uses 1 January-5 October 2026 MNRE PIB"
+CA found: Green Ammonia and Green Methanol Standards notified 27 February 2026 and announced by PIB on 7 March 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the end-use decision tree
@@ -1592,13 +1624,13 @@ Hydrogen can be stored and later used in turbines or fuel cells, but round-trip 
 | Long-duration strategic storage | rare-duration value may justify loss |
 | Routine passenger mobility or building heat | generally test direct electricity first |
 
-### Strongest objection, reply and residual
+### End-use allocation debate — scale versus efficient use
 
-**Objection:** Restricting hydrogen to hard-to-abate uses will prevent economies of scale.
-**Reply:** Scale without efficient end use can waste scarce renewable electricity and infrastructure.
-**Residual:** Technology and relative costs change; the hierarchy should be periodically retested rather than frozen.
+**Scale claim:** Restricting hydrogen to hard-to-abate uses will prevent economies of scale.
+**Efficiency response:** Scale without efficient end use can waste scarce renewable electricity and infrastructure.
+**Adaptive rule:** Technology and relative costs change; the hierarchy should be periodically retested rather than frozen.
 
-### Revision notes
+### Revision notes — direct electricity before clean molecules
 
 1. Direct electrification usually avoids conversion losses.
 2. Hydrogen is strongest where an industrial molecule or reducing agent is needed.
@@ -1622,11 +1654,11 @@ Hydrogen can be stored and later used in turbines or fuel cells, but round-trip 
 
 **Misconception to avoid:** Every technically possible hydrogen use is not equally efficient or strategically valuable.
 
-### Lesson-local Mains practice
+### Mains application — prioritising hard-to-abate demand
 
 **Question (15 marks, 250 words):** Green hydrogen should complement rather than replace direct electrification. Discuss with reference to hard-to-abate sectors.
 
-**Model (207 words):** Direct use of renewable electricity is generally more efficient because converting electricity into hydrogen, compressing or converting it, transporting it and possibly reconverting it loses energy. Motors, passenger electric vehicles, heat pumps and many low-temperature processes should therefore be electrified directly where practical.
+**Model (189 words):** Direct use of renewable electricity is generally more efficient because converting electricity into hydrogen, compressing or converting it, transporting it and possibly reconverting it loses energy. Motors, passenger electric vehicles, heat pumps and many low-temperature processes should therefore be electrified directly where practical.
 
 Hydrogen is valuable when the end use needs a molecule or properties batteries cannot readily supply. Fertiliser manufacture already consumes hydrogen for ammonia, making replacement of grey feedstock a strong early route. Refineries offer similar substitution, though this does not eliminate emissions from petroleum products. In selected steel routes, hydrogen can act as the reducing agent in direct-reduced iron. Ammonia, methanol or synthetic fuels may serve shipping and aviation where weight, range or bunkering constraints weaken direct electrification. Hydrogen may also provide rare long-duration storage, despite poor round-trip efficiency.
 
@@ -1639,8 +1671,8 @@ The hierarchy is not absolute. Costs, technology and infrastructure evolve, and 
 Progress: 15 / 16 | Stage: Core | Subtopic: Indian mission architecture and current implementation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — Economic Survey and mission implementation evidence checked
-CA search: "site:pib.gov.in green hydrogen certification portal June 2026 MNRE"
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed p. 391; official MNRE mission and scheme documents supplied implementation detail
+CA search: "site:pib.gov.in green hydrogen certification portal tender implementation January-5 October 2026 MNRE SECI"
 CA found: Green Hydrogen Certification Portal of India launched on 17 June 2026
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -1702,7 +1734,7 @@ Three ports have been designated as Green Hydrogen Hubs:
 2. V.O. Chidambaranar Port Authority, Tamil Nadu;
 3. Paradip Port Authority, Odisha.
 
-Port locations can support industrial clusters, bunkering and exports. They indicate strategic intent, not proof that all hub infrastructure or output is operational.
+Port locations can support nearby industrial clusters, shared infrastructure, bunkering, imports and exports. Port orientation does not legally make output export-only or exclude domestic fertiliser, refining, steel or transport demand. Hub designation is not proof that infrastructure or output is operational.
 
 ### 5. Standards and certification
 
@@ -1715,15 +1747,15 @@ Port locations can support industrial clusters, bunkering and exports. They indi
 
 Under the certification scheme, the final certificate is issued after the financial-year evaluation cycle and states product carbon footprint. Certification does not substitute for environmental, safety or other statutory clearances.
 
-### 6. Dated implementation status at 3 October 2026
+### 6. Dated implementation status at 5 October 2026
 
 - latest consolidated official figure located for commissioned green-hydrogen production capacity: about **8,000 tonnes per year by February 2026**;
 - 862,000 t/y production capacity allocated and 3,000 MW/y electrolyser manufacturing awarded, as above;
 - three ports designated as hubs;
-- certification scheme and digital portal operational architecture established;
+- certification scheme and digital portal architecture established; no cumulative certificate-issuance count is invented;
 - green-ammonia and green-methanol standards notified;
 - agreements signed for **6.7 lakh MTPA of green ammonia to 11 fertiliser plants** as reported on 17 June 2026;
-- SECI issued Mode 2A Tranche II on **24 September 2026** for **54,000 MTPA** green ammonia; bids were due after the cutoff, so the tender was live, not awarded.
+- SECI issued Mode 2A Tranche II on **24 September 2026** for **54,000 MTPA** green ammonia; the bid deadline was after the cutoff, so the tender was live, not awarded.
 
 No later consolidated official commissioned-capacity total was located by the cutoff. This uncertainty must be preserved.
 
@@ -1732,13 +1764,13 @@ No later consolidated official commissioned-capacity total was located by the cu
 **17 June 2026 — Green Hydrogen Certification Portal of India launched.** The portal matters because India's export and industrial strategy needs auditable product carbon footprints, not self-declared colour labels. It operationalises the distinction between a project announcement and verified green output.
 
 
-### Strongest objection, reply and residual
+### Implementation scorecard challenge — incentives versus verified delivery
 
-**Objection:** Production incentives risk subsidising supply before demand exists.
-**Reply:** SIGHT is paired with aggregated fertiliser/refinery procurement, hubs and pilots to build both sides.
-**Residual:** Cost, delivery infrastructure and long-term offtake remain decisive; allocation statistics must not be presented as output.
+**Implementation objection:** Production incentives risk subsidising supply before demand exists.
+**Design response:** SIGHT is paired with aggregated fertiliser/refinery procurement, hubs and pilots to build both sides.
+**Delivery test:** Cost, infrastructure and long-term offtake remain decisive; allocation statistics must not be presented as output.
 
-### Revision notes
+### Revision notes — mission design and status verbs
 
 1. NGHM was approved in January 2023.
 2. The 2030 target is at least 5 MMT per year production capacity.
@@ -1764,11 +1796,11 @@ No later consolidated official commissioned-capacity total was located by the cu
 
 **Misconception to avoid:** Capacity allocation is not production achievement.
 
-### Lesson-local Mains practice
+### Mains application — evaluating mission implementation
 
-**Question (20 marks, 250 words):** Evaluate the design and implementation status of India's National Green Hydrogen Mission as of 3 October 2026.
+**Question (20 marks, 250 words):** Evaluate the design and implementation status of India's National Green Hydrogen Mission as of 5 October 2026.
 
-**Model (243 words):** The National Green Hydrogen Mission combines industrial policy, climate policy and energy security. Approved in January 2023, it targets at least 5 MMT per year of production capacity by 2030 with about 125 GW associated renewable capacity. Its ₹19,744-crore outlay is dominated by the ₹17,490-crore SIGHT programme. At target scale, the Mission projects over ₹8 lakh crore investment, more than 6 lakh jobs and over ₹1 lakh crore lower fossil-fuel imports.
+**Model (231 words):** The National Green Hydrogen Mission combines industrial policy, climate policy and energy security. Approved in January 2023, it targets at least 5 MMT per year of production capacity by 2030 with about 125 GW associated renewable capacity. Its ₹19,744-crore outlay is dominated by the ₹17,490-crore SIGHT programme. At target scale, the Mission projects over ₹8 lakh crore investment, more than 6 lakh jobs and over ₹1 lakh crore lower fossil-fuel imports.
 
 Demand creation includes signed agreements for 6.7 lakh MTPA green ammonia to 11 fertiliser plants, 30,000 MTPA refinery hydrogen contracts and pilots in steel, shipping and transport. Agreement and award remain distinct from delivery. Three port-based hubs can lower logistics costs and support exports. Integrity is strengthened by the 2 kg CO2e/kg H2 well-to-gate standard, the April 2025 certification scheme, the June 2026 portal and February 2026 ammonia and methanol standards.
 
@@ -1783,9 +1815,9 @@ The Mission's strengths are integrated supply, demand, standards and hubs. Its t
 Progress: 16 / 16 | Stage: Advanced | Subtopic: Economics, trade, material security, siting and just transition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — advanced energy-transition analysis and Economic Survey constraints checked
-CA search: not applicable to this analytical lesson
-CA found: none used in this lesson
+Book context: queried — `books\economic-survey-2025-26.pdf`, printed pp. 379 and 393-394
+CA search: "official hydrogen trade system cost critical minerals update 1 January-5 October 2026 IEA India"
+CA found: IEA Global Hydrogen Review 2026 (18 June 2026) and Economic Survey 2025-26 support the trade, system-cost and material-security analysis
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: the advanced transition nexus
@@ -1837,6 +1869,8 @@ SIGHT is an industrial-policy bet that domestic manufacturing, scale and learnin
 
 Carbon markets and border measures can create demand for low-emission steel, fertiliser and fuels. The EU Carbon Border Adjustment Mechanism affects specified carbon-intensive goods and raises the value of credible embedded-emissions data. It does not make every green-hydrogen export automatically competitive.
 
+This lesson owns only the interface between product emissions, hydrogen economics and trade. The Indian Carbon Market, CCTS architecture, credit integrity and CCUS mechanics route to Topic 21.
+
 Certification becomes a trade instrument:
 
 ```text
@@ -1882,13 +1916,13 @@ number + unit + denominator + geography + source + as-on date + status verb
 
 Avoid false precision for hydrogen cost, water use, GIB mortality or future capacity. Use ranges only when the source and boundary are known.
 
-### Strongest objection, reply and residual
+### Advanced transition trade-off — wider constraints without policy paralysis
 
-**Objection:** Adding system, material and justice constraints dilutes climate urgency.
-**Reply:** Ignoring them produces bottlenecks, opposition and unreliable supply that can derail decarbonisation.
-**Residual:** Planning must not turn every uncertainty into paralysis; use adaptive standards, staged investment and transparent monitoring.
+**Urgency objection:** Adding system, material and justice constraints dilutes climate urgency.
+**Governance reply:** Ignoring them produces bottlenecks, opposition and unreliable supply that can derail decarbonisation.
+**Action residual:** Planning must not turn every uncertainty into paralysis; use adaptive standards, staged investment and transparent monitoring.
 
-### Revision notes
+### Revision notes — system cost, trade, materials and justice
 
 1. Plant-level LCOE is not the total system cost of reliable electricity.
 2. Integration costs rise with location, timing and system flexibility needs.
@@ -1913,11 +1947,11 @@ Avoid false precision for hydrogen cost, water use, GIB mortality or future capa
 
 **Misconception to avoid:** Energy independence is not the elimination of all international interdependence.
 
-### Lesson-local Mains practice
+### Mains application — system, material and justice synthesis
 
 **Question (20 marks, 250 words):** India's energy transition is moving from a fuel-security problem to a system, material and justice problem. Critically examine.
 
-**Model (243 words):** India's renewable expansion reduces exposure to imported fossil fuels and operational emissions, but the next constraints lie beyond generation plants. Variable solar and wind require transmission, forecasting, reserves, storage and flexible demand. Cheap project tariffs can therefore coexist with high system cost if integration is delayed. Green hydrogen adds another conversion chain whose competitiveness depends on renewable electricity, electrolyser utilisation, finance, water and delivery infrastructure.
+**Model (224 words):** India's renewable expansion reduces exposure to imported fossil fuels and operational emissions, but the next constraints lie beyond generation plants. Variable solar and wind require transmission, forecasting, reserves, storage and flexible demand. Cheap project tariffs can therefore coexist with high system cost if integration is delayed. Green hydrogen adds another conversion chain whose competitiveness depends on renewable electricity, electrolyser utilisation, finance, water and delivery infrastructure.
 
 Material dependence also changes form. Solar modules, grids, turbines, batteries and electrolysers require copper, aluminium, polysilicon, specialised minerals and power electronics. Geological resources alone do not provide security without refining, components, recycling and diversified supply. Carbon pricing and CBAM can reward low-emission industrial products, but only credible certification converts environmental performance into trade value.
 
@@ -2244,11 +2278,11 @@ Reform should be gradual and transparent: publish the support and beneficiary; p
 
 **Question:** Distinguish renewable electricity, energy storage and green hydrogen. Show how confusing these categories weakens energy-policy analysis.
 
-**Model (147 words):** Renewable electricity is generated from replenishing resources such as solar, wind, hydro, biomass, geothermal and ocean energy. Storage does not create energy; batteries and pumped storage shift previously generated electricity through time with losses. Green hydrogen is a manufactured carrier or feedstock produced through a qualifying low-emission renewable pathway, not an electricity source by itself.
+**Model (147 words):** Renewable electricity is generated from replenishing resources such as solar, wind, hydro, sustainable biomass, geothermal and ocean energy. Storage does not create energy; batteries and pumped storage shift previously generated electricity through time with losses. Green hydrogen is a manufactured carrier or feedstock from a qualifying electrolysis or biomass route meeting India's well-to-gate emissions threshold.
 
-Confusion produces faulty claims. Installed renewable capacity may be reported as generation; battery MW may be cited without duration; hydrogen output may be added to electricity capacity; and electrolysis may be labelled green without examining the power source. These errors hide transmission, flexibility and lifecycle needs.
+Confusion produces faulty claims. Installed renewable capacity may be reported as generation; battery MW may be cited without duration; hydrogen output may be added to electricity capacity; and an electrolyser may be labelled green without measured emissions. These errors hide transmission, flexibility and lifecycle needs.
 
-Policy analysis should therefore trace resource -> conversion -> storage/carrier -> delivery -> end use, while specifying units and boundaries. Renewable electricity should be used directly where efficient; storage should solve temporal mismatch; and green hydrogen should target selected hard-to-abate uses. Clear categories lead to better investment and credible climate accounting.
+Policy analysis should trace resource -> conversion -> storage/carrier -> delivery -> end use, with units and boundaries. Use renewable electricity directly where efficient, deploy storage for temporal mismatch, and reserve certified hydrogen for selected molecular or hard-to-electrify uses. Clear categories support credible investment and climate accounting.
 
 **Unique quantified rubric (10):** three definitions 3 | error examples 3 | chain/framework 2 | prioritisation 1 | conclusion 1
 
@@ -2256,9 +2290,9 @@ Policy analysis should therefore trace resource -> conversion -> storage/carrier
 
 **Question:** India's renewable-energy policy must now shift from capacity addition to reliable and ecologically responsible integration. Discuss.
 
-**Model (229 words):** Capacity addition remains necessary, but it is no longer a sufficient measure of transition success. On 31 August 2026 India had 295.55 GW of renewable capacity including large hydro and 304.33 GW of total non-fossil capacity. These are nameplate figures; actual generation and peak reliability depend on resource profiles, capacity factors, outages and curtailment.
+**Model (221 words):** Capacity addition remains necessary, but it is no longer a sufficient measure of transition success. On 31 August 2026 India had 295.55 GW of renewable capacity including large hydro and 304.33 GW of total non-fossil capacity. These are nameplate figures; actual generation and peak reliability depend on resource profiles, capacity factors, outages and curtailment.
 
-Reliable integration requires forecasting, interstate and intrastate transmission, flexible hydro or thermal output, ancillary services, demand response and storage of appropriate duration. CEA's 411-GWh storage requirement estimate for 2031-32 indicates the scale, but storage cannot replace networks or market reform. Auctions must be judged through commissioning, generation and payment performance rather than headline tariffs.
+Reliable integration requires forecasting, interstate and intrastate transmission, flexible hydro or thermal output, ancillary services, demand response and storage of appropriate duration. CEA's 411.4-GWh total storage requirement for 2031-32—175.18 GWh PSP and 236.22 GWh BESS—indicates the scale, but storage cannot replace networks or market reform. Auctions must be judged through commissioning, generation and payment performance rather than headline tariffs.
 
 Ecological integration is equally important. Solar parks, wind roads and transmission can transform commons and wildlife habitat. Hydro changes flows and sediment; batteries and turbines expand mineral demand. The Great Indian Bustard dispute demonstrates the need for sensitivity mapping, avoidance, rerouting, selective undergrounding and monitored mitigation. End-of-life module, blade and battery recovery must be planned before waste peaks.
 
@@ -2270,11 +2304,11 @@ India should adopt least-conflict spatial planning, grid-and-generation co-plann
 
 **Question:** Green hydrogen can strengthen India's industrial and energy security only if production incentives are matched by standards, infrastructure and disciplined end-use choices. Critically evaluate.
 
-**Model (247 words):** Green hydrogen can displace fossil-derived hydrogen in fertiliser and refining, act as a reducing agent in selected steel routes and support ammonia or methanol for shipping and trade. It may therefore reduce gas and coking-coal exposure while creating electrolyser, renewable-power and engineering industries. The National Green Hydrogen Mission supports this through its 5-MMT-per-year 2030 target, SIGHT incentives, pilots and port-based hubs.
+**Model (237 words):** Green hydrogen can displace fossil-derived hydrogen in fertiliser and refining, act as a reducing agent in selected steel routes and support ammonia or methanol for shipping and trade. It may therefore reduce gas and coking-coal exposure while creating electrolyser, renewable-power and engineering industries. The National Green Hydrogen Mission supports this through its 5-MMT-per-year 2030 target, SIGHT incentives, pilots and port-based hubs.
 
-Incentives alone cannot create a viable chain. Electrolysers need low-cost qualifying renewable power, water-secure sites and high enough utilisation. Hydrogen then requires compression, storage, pipelines, trucks or derivative conversion. Each step adds cost, loss and safety obligations. Allocated capacity must not be reported as output: 862,000 t/year had been allocated, while the latest consolidated commissioned figure located was about 8,000 t/year by February 2026.
+Incentives alone cannot create a viable chain. Electrolysis projects need low-cost qualifying renewable power, water-secure sites and adequate utilisation; biomass routes need sustainable feedstock and controlled lifecycle emissions. Hydrogen then requires compression, storage, pipelines, trucks or derivative conversion. Each step adds cost, loss and safety obligations. Allocated capacity must not be reported as output: 862,000 t/year had been allocated, while the latest consolidated commissioned figure located was about 8,000 t/year by February 2026.
 
-Standards protect climate and trade integrity. India's 2 kg CO2e/kg H2 threshold, certification scheme and ammonia/methanol standards convert colour labels into measurable product footprints. Yet export acceptance, additional renewable supply and robust verification remain important.
+Standards protect climate and trade integrity. India's electrolysis- and biomass-route ceiling of 2 kg CO2e/kg H2, certification scheme and ammonia/methanol standards convert colour labels into measurable product footprints. Yet export acceptance, additional renewable supply and robust verification remain important.
 
 End-use discipline is decisive. Existing grey-hydrogen replacement should precede applications that direct electrification serves more efficiently. Long-term procurement for fertiliser and refineries can create demand, while hubs lower logistics costs. Policy must also address water, critical minerals, finance, skills, leakage and emergency response.
 
@@ -2304,9 +2338,9 @@ Thus India should measure success through certified delivered output, fossil dis
 
 **Repair:** Add land, transmission, balancing, curtailment, finance and contract risk. Track award through commissioning and generation.
 
-## Common error 6 — all electrolysis is green
+## Common error 6 — route name alone makes hydrogen green
 
-**Repair:** Apply India's well-to-gate 2 kg CO2e/kg H2 threshold and the certification boundary. Check electricity attributes and auxiliary energy.
+**Repair:** India permits qualifying electrolysis and biomass routes, but both must satisfy the well-to-gate 2 kg CO2e/kg H2 threshold. Check electricity or feedstock attributes, auxiliaries and the certification boundary.
 
 ## Common error 7 — hydrogen water impact is one universal number
 
@@ -2386,7 +2420,7 @@ more solar/wind capacity
 
 ```text
 PRODUCTION PATHWAY
-grey / blue / electrolysis / other
+grey / blue / renewable electrolysis / qualifying biomass / other
         |
 LIFECYCLE BOUNDARY
 feedstock + electricity + methane + capture + auxiliaries + transport
@@ -2456,12 +2490,11 @@ DEFINE the category and boundary
 
 - **Renewable:** solar, wind, hydro, sustainably managed biomass, geothermal and ocean energy.
 - **Non-fossil:** renewables plus nuclear.
-- Nuclear is firm non-fossil power, not renewable; 8.78 GW was included in the Aug 2026 non-fossil total.
-- SHANTI Act 2025 permits licensed private civilian participation while specified sensitive activities remain under Central control.
-- Nuclear Energy Mission: ₹20,000 crore and at least five indigenous operational SMRs by 2033; detailed reactor/liability analysis remains outside this topic.
+- Nuclear is non-fossil power, not renewable; 8.78 GW was included in the Aug 2026 non-fossil total. All detailed nuclear policy and technology route to Science and Technology Topic 04.
 - **Electricity:** generated energy output; **hydrogen:** manufactured carrier/feedstock; **storage:** temporal shift.
 - **Capacity:** MW/GW; **generation:** MWh/GWh/TWh; **storage:** MW plus MWh/duration.
 - **Capacity factor:** actual generation / maximum possible generation at rated output.
+- CUF/PLF may use similar utilisation ratios in specified contexts; neither is conversion efficiency, demand load factor or installed capacity.
 - **Firmness:** dependable delivery when required; produced by a portfolio.
 - 31 Aug 2026: total renewable including large hydro **295,554.37 MW**; total non-fossil **304,334.37 MW**; total system capacity **554,544 MW**; non-fossil share **54.88%**.
 - Never convert a capacity share into generation or energy-requirements share.
@@ -2474,6 +2507,7 @@ DEFINE the category and boundary
 - Regional development = irradiance + land + grid + state policy + finance + offtake.
 - Rajasthan/Gujarat: major utility context; cities: rooftop value close to load.
 - Models: parks, rooftops, floating, agrivoltaic, pumps, mini-grids.
+- Scheme map: National Solar Mission—MNRE/NAPCC origin; PM-KUSUM—farm/decentralised solar to 31 Mar 2026; PM Surya Ghar—residential rooftop to FY 2026-27; solar-PV PLI—MNRE manufacturing scheme implemented through IREDA/SECI tranches.
 - 31 Aug 2026 solar: **168.04 GW** = 123.99 ground-mounted + 32.59 rooftop + 4.83 hybrid component + 6.63 off-grid.
 - Traps: resource potential != commissioned capacity; SECI auction != administrative tariff fixing; “largest” is date-sensitive.
 - PYQ route: geography -> enabling infrastructure -> benefits -> lifecycle/variability qualification.
@@ -2486,7 +2520,7 @@ DEFINE the category and boundary
 - NIWE gross potential: **695.5 GW at 120 m**; **1,163.9 GW at 150 m**.
 - Major states: Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, Tamil Nadu, Telangana.
 - Offshore: stronger/steadier potential; higher cost, ports, vessels, subsea cables, fisheries and marine ecology.
-- Initial offshore focus: Gujarat and Tamil Nadu.
+- Initial offshore focus: Gujarat and Tamil Nadu; MNRE is nodal, NIWE handles surveys/blocks, and VGF is support rather than operating capacity.
 - 31 Aug 2026 installed wind: **58.52 GW**.
 - PYQ route: potential -> concentration -> land/grid/logistics/finance/ecology -> qualified verdict.
 
@@ -2500,7 +2534,7 @@ DEFINE the category and boundary
 - Services: peaking, ramping, reserve, frequency and energy shifting.
 - Risks: flow alteration, sediment, fisheries, displacement, dam safety and hydrological change.
 - Storage duration = MWh / MW.
-- CEA planning estimate: **411 GWh by 2031-32**; estimate != installed stock.
+- CEA 2031-32 planning estimate: **411.4 GWh total** = **175.18 GWh PSP + 236.22 GWh BESS**; estimate != installed stock.
 - ACC-PLI: ₹18,100 crore, 50 GWh manufacturing objective; 40 GWh awarded and 10 GWh earmarked for grid-scale storage at the cutoff.
 - Manufacturing award != commissioned storage or discharge service.
 
@@ -2511,6 +2545,8 @@ DEFINE the category and boundary
 - Biogas -> purification/compression -> CBG; control methane leakage.
 - Waste hierarchy: prevent -> reduce -> reuse -> recycle/compost -> energy recovery -> disposal.
 - Carbon neutrality is conditional on regrowth, land use, logistics, leakage and pollution.
+- MNRE National Bioenergy Programme Phase I ran to **31 Mar 2026**; no later continuation is invented.
+- MoPNG owns the National Policy on Biofuels; biotechnology mechanisms route to Science and Technology Topic 13.
 - 31 Aug 2026: bagasse cogeneration **9,821.32 MW**; non-bagasse **1,047.85 MW**; grid WtE **324.24 MW**; off-grid WtE **554.16 MWeq**.
 - Feedstock eligibility != sustainable supply.
 - SAF is a specification/pathway outcome, not one feedstock.
@@ -2552,7 +2588,7 @@ DEFINE the category and boundary
 - MNRE policy; MoP electricity rules; CEA planning/data; CERC/SERC regulation; Grid-India/SLDC operation; SECI procurement; BEE RCO; DISCOM delivery.
 - Auction -> award -> PPA -> finance -> construction -> commissioning -> generation.
 - RPO: Electricity Act/SERC mechanism.
-- Central RCO superseded earlier central RPO trajectories from FY 2024-25; check state alignment.
+- MoP **S.O. 4421(E), 27 Sep 2025** superseded the 20 Oct 2023 central RCO notification; check state RPO alignment separately.
 - 2026-27 RCO: wind **1.97%**, hydro **1.34%**, distributed **2.70%**, other **29.94%**, total **35.95%**.
 - REC: **1 MWh** eligible renewable attribute; retirement prevents reuse.
 - Green open access: generally **100 kW** threshold; no minimum for captive users.
@@ -2567,15 +2603,17 @@ DEFINE the category and boundary
 - DISCOM issue: fixed-network cost versus reduced sales to high-paying users.
 - Equity: renters, apartment residents and low-income households need community/targeted models.
 - PM Surya Ghar target cannot be inferred from total rooftop capacity.
+- REC Limited was initially the national implementation agency and DISCOMs the state implementation agencies.
 
 ## K. Hydrogen taxonomy and electrolysis
 
 - Grey: fossil without capture.
 - Blue: fossil with CCS; residual CO2, methane leakage, capture and storage matter.
-- Green: renewable pathway meeting standard.
+- Green: qualifying electrolysis or biomass pathway meeting the standard.
 - Low-carbon: broader performance category; not necessarily renewable.
 - India's green-H2 standard: **<=2 kg CO2e/kg H2 well-to-gate**, averaged over 12 months.
 - Electrolysis: electricity + water -> H2 + O2.
+- Hydrogen fuel cell: H2 + O2 -> electricity + heat + water; reverse functional direction from electrolysis.
 - Chemical minimum water: about **9 litres/kg H2**; project withdrawal higher and site-specific.
 - Electrolysers: alkaline, PEM, solid oxide, AEM.
 - Efficiency depends on HHV/LHV and stack/system boundary.
@@ -2590,6 +2628,7 @@ DEFINE the category and boundary
 - Controls: compatible materials, ventilation, detection, relief, separation, shutdown and emergency response.
 - Production capacity != delivered usable molecule.
 - Hubs aggregate users and infrastructure; designation != operation.
+- Port hubs can serve domestic industry, bunkering and exports; port location does not make use export-exclusive.
 
 ## M. End-use hierarchy
 
@@ -2616,6 +2655,7 @@ DEFINE the category and boundary
 - Signed agreement, award, commissioning, delivery and fossil displacement are separate statuses.
 - Certification scheme: annual final certificate with product carbon footprint; not a statutory-clearance substitute.
 - **17 Jun 2026 current anchor:** Green Hydrogen Certification Portal launched, with dated Mission implementation updates.
+- No cumulative certification count is claimed without official publication.
 - No blanket percentage mandate should be invented.
 
 ## O. Advanced answer refinements
@@ -2635,6 +2675,7 @@ DEFINE the category and boundary
 - Benefits: economic + ecological -> lifecycle qualification.
 - Grid: interconnection purpose -> balancing value -> domestic network and governance.
 - 2030 target: distinguish NDC, Panchamrit and installed/generation/energy shares.
+- 2035 target: April 2026 NDC communicates about 60% non-fossil installed capacity by 2035; detailed ownership is Topic 20.
 - Energy independence: efficiency + electrification + clean generation + grid/storage + molecules + bioenergy + material security.
 - Objective questions: preserve exact year context; never use current “largest” facts to rewrite an older question.
 - 2026 GS-III Q11: availability + affordability + reliability + resilience + sustainability; diagnose imports, grids, minerals and finance, then propose a diversified just-transition portfolio.
@@ -2652,11 +2693,12 @@ India's transition succeeds when renewable resources become **reliable energy se
 | Renewable/non-fossil/hydrogen/storage taxonomy | Lesson 1 | Lesson 16 import-security framing | Lesson 1 check; final 10-mark |
 | Capacity/generation/capacity factor/firmness | Lesson 1 | Lesson 16 system cost | PYQs 16, 18; cumulative check 1 |
 | Solar PV/CST/grid parity/resource/regional variation | Lesson 2 | Lesson 16 system value | PYQs 1, 3, 4, 12, 13, 17 |
+| National Solar Mission/parks/PM-KUSUM/PM Surya Ghar/solar-PV PLI | Lessons 2, 11 | ownership, period and status boundaries | PYQs 3, 4, 10, 13 |
 | Rooftop/floating/pumps/parks | Lessons 2, 11 | equity/network refinements | PYQs 3, 4, 10 |
 | Wind resource/turbine/onshore/offshore | Lesson 3 | materials/siting in Lesson 16 | PYQ 15 |
 | Hydro/small hydro/run-of-river/reservoir | Lesson 4 | basin and planning limits | Lesson 4 Mains |
 | Pumped storage | Lessons 4, 8 | duration portfolio | PYQ 8 |
-| Biomass/biogas/cogeneration/WtE | Lesson 5 | just-transition and lifecycle | PYQs 2, 9, 18 |
+| Biomass/biogas/cogeneration/WtE and programme ownership | Lesson 5 | just-transition, lifecycle and S&T routing | PYQs 2, 9, 18 |
 | Geothermal/tidal/wave/OTEC | Lesson 6 | maturity/data caveat | Lesson 6 check/Mains |
 | Forecasting/scheduling/transmission | Lesson 7 | entropy/system-cost framing | PYQ 14 |
 | Curtailment/reserves/ancillary/demand response | Lesson 7 | market/institutional costs | Lesson 7 check/Mains |
@@ -2666,11 +2708,11 @@ India's transition succeeds when renewable resources become **reliable energy se
 | Biodiversity/GIB | Lesson 9 | Lesson 16 constitutional/planning depth | Lesson 9 Mains |
 | MNRE/MoP/CEA/CERC/SERC/SECI/BEE | Lesson 10 | institutional risk | PYQs 1, 13 |
 | Auctions/PPA | Lesson 10 | underbidding/system-cost caveat | PYQs 1, 13 |
-| RPO/RCO/REC | Lesson 10 | legal-alignment qualification | Lesson 10 check/Mains |
+| RPO/RCO/REC and S.O. 4421(E) | Lesson 10 | legal-alignment qualification | Lesson 10 check/Mains |
 | Open access | Lesson 10 | DISCOM/network-cost caveat | Lesson 10 Mains |
 | DER and distributed energy | Lesson 11 | equity and aggregation | PYQ 7 |
-| India targets, nuclear/non-fossil boundary and Aug 2026 status | Lessons 1, 11 | data criticism in Lesson 16 | PYQs 10, 16, 19 |
-| Hydrogen colours/low-carbon distinction | Lesson 12 | carbon-price depth | PYQ 11 |
+| India targets, nuclear/non-fossil boundary, 2035 NDC route and Aug 2026 status | Lessons 1, 11 | data criticism in Lesson 16 | PYQs 10, 16, 19 |
+| Hydrogen colours, electrolysis/biomass routes and fuel-cell direction | Lesson 12 | carbon-price depth | PYQs 5, 11 |
 | Electrolyser types/efficiency/utilisation | Lesson 12 | moving cost threshold | Lesson 12 check/Mains |
 | Water minimum and project balance | Lessons 12, 13 | data caution | Lesson 13 Mains |
 | H2 storage/transport/logistics | Lesson 13 | trade chain | Lesson 13 check/Mains |
@@ -2690,7 +2732,7 @@ India's transition succeeds when renewable resources become **reliable energy se
 | One check/model/misconception per lesson | Lessons 1-16 | preserved in Advanced lesson | exactly 16 lesson-local concept checks |
 | One original Mains model/rubric per lesson | Lessons 1-16 | advanced lesson included | exactly 16 unique rubrics |
 | Final 10/15/20-mark practice | final practice H1 | integrated synthesis | three distinct models and rubrics |
-| Dated current-affairs linkage | Lesson 15 | portal launch and Mission implementation update | PIB release of 17 June 2026 |
+| Dated current-affairs linkage | Lessons 1-16 | date-bounded official/reliable search in every pre-teach block | Aug capacity; 2026 storage, standards, portal and tender updates |
 | Final register notes | final teaching H1 before ledgers | Core/Advanced distinction retained | Sections A-Q |
 
 # SOURCE LEDGER
@@ -2699,14 +2741,14 @@ India's transition succeeds when renewable resources become **reliable energy se
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md` read completely |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\25_Renewable-Energy-and-Green-Hydrogen.md` read completely at released canonical commit `743941621` |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
 | Layered/complete session | not available | No permitted topic-specific live or layered session existed before this fresh generation; only the three mandatory philosophy style benchmarks were consulted |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\25_Renewable-Energy-and-Green-Hydrogen.md` read completely and placed after Core |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\25_Renewable-Energy-and-Green-Hydrogen.md` read completely at released canonical commit `743941621` and placed after Core |
 | OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\economic-survey-2025-26.pdf`, printed Chapter 10 pp. 379-396; `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 141 and 240; both paths verified present |
-| PYQs through 2026 | checked | In-worktree routing ledgers plus official UPSC papers through 2026; 2026 Prelims key remains provisional, while 2026 GS-III Q11 is an official Mains question |
-| Official live sources | checked | MNRE, Ministry of Power, BEE, CEA, CERC, SECI, PIB and IEA sources listed below; status reviewed to 3 October 2026 |
+| PYQs through 2026 | checked | In-worktree routing ledgers plus local official papers and exact PDF pages listed below; 2026 Prelims key remains provisional, while 2026 GS-III Q11 is an official Mains question |
+| Official live sources | checked | Persistent MNRE, MoP, BEE, CEA, CERC, SECI, PIB, UNFCCC and IEA URLs listed below; status reviewed to 5 October 2026 |
 
 ## Canonical and cross-topic knowledge used
 
@@ -2716,6 +2758,8 @@ India's transition succeeds when renewable resources become **reliable energy se
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\21_Carbon-Markets-CCUS-and-Direct-Air-Capture.md`
 - `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\05_IUCN-Red-List-and-Endemism.md`
 - `upsc-ai-kit\knowledge\Economy\basic\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`
+- `upsc-ai-kit\knowledge\Science-and-Technology\basic\04_Nuclear-Power-and-Three-Stage-Programme.md`
+- `upsc-ai-kit\knowledge\Science-and-Technology\basic\13_Biotechnology-Fundamentals-and-DBT-Missions.md`
 - `upsc-ai-kit\knowledge\Science-and-Technology\basic\20_Emerging-Materials-Rare-Earths-and-Critical-Minerals.md`
 
 ## Official primary sources
@@ -2726,50 +2770,71 @@ India's transition succeeds when renewable resources become **reliable energy se
 | CEA Installed Capacity Report, Aug 2026 — `https://cea.nic.in/wp-content/uploads/installed/2026/08/IC_Aug_2026.pdf` | total-system denominator and non-fossil share |
 | CEA Monthly RE Generation Report, Aug 2026 — `https://cea.nic.in/wp-content/uploads/resd/2026/08/Monthly_RE_Generation_report_August_2026.pdf` | capacity-versus-generation control |
 | MNRE Solar Overview — `https://mnre.gov.in/en/solar-overview/` | solar resource and technology basics |
+| MNRE PM-KUSUM — `https://mnre.gov.in/en/pradhan-mantri-kisan-urja-suraksha-evam-utthaan-mahabhiyaan-pm-kusum/` | three components and scheme period to 31 Mar 2026 |
+| MNRE PM Surya Ghar guidelines — `https://mnre.gov.in/en/notice/guidelines-for-pm-surya-ghar-muft-bijli-yojana/` | FY 2026-27 period; REC Limited/NPIA and DISCOM/SIA ownership |
+| MNRE High-Efficiency Solar PV PLI — `https://mnre.gov.in/en/production-linked-incentive-pli/` | ₹24,000-crore manufacturing scheme; IREDA Tranche I and SECI Tranche II |
 | MNRE Wind Overview — `https://mnre.gov.in/en/wind-overview/` | NIWE resource assessment and wind geography |
 | MNRE Offshore Wind — `https://mnre.gov.in/en/off-shore-wind/` | offshore policy and Gujarat/Tamil Nadu focus |
-| MNRE Bioenergy, Small Hydro and New Technologies pages | bioenergy, SHP, geothermal and ocean technology boundaries |
-| CEA PSP status/roadmap, 2026 | operational PSP status, potential and flexibility planning |
-| Ministry of Power Green Energy Open Access Rules, 2022 and amendments | 100-kW threshold and captive-user exception |
-| BEE/MoP RCO notification and operational guidelines | 2026-27 category trajectory and compliance architecture |
-| CERC REC Regulations, 2022 | 1-MWh certificate denomination and market rules |
-| MNRE National Green Hydrogen Mission page/document | mission target, outlay, SIGHT, pilots, hubs and enabling framework |
-| MNRE Green Hydrogen Standard, 18 Aug 2023 | 2 kg CO2e/kg H2 well-to-gate ceiling |
-| MNRE Green Hydrogen Certification Scheme, Apr 2025 | annual final certificate and product-carbon-footprint control |
-| MNRE Green Ammonia and Green Methanol Standards, 27 Feb 2026 | 0.38 and 0.44 kg CO2e/kg product thresholds |
-| SECI Green Ammonia Mode 2A documents | 724,000-MTPA original Tranche I design and 54,000-MTPA Tranche II tender dated 24 Sep 2026 |
+| MNRE Offshore Wind VGF guidelines — `https://mnre.gov.in/en/notice/scheme-guidelines-for-implementation-of-vgf-scheme-for-offshore-wind-energy-projects/` | support instrument; not operating capacity |
+| MNRE Bioenergy Overview — `https://mnre.gov.in/en/bio-energy-overview/` | Phase I period 1 Apr 2021-31 Mar 2026 and sub-programmes |
+| MoPNG National Policy on Biofuels, 2018 — `https://mopng.gov.in/files/uploads/NATIONAL_POLICY_ON_BIOFUELS-2018.pdf`; 2022 amendment — `https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1826266` | liquid-biofuel policy ownership and amended feedstock/target framework |
+| MNRE Small Hydro — `https://mnre.gov.in/en/small-hydro-overview/`; PIB hydro policy — `https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1744435` | 25-MW administrative boundary and large-hydro renewable classification |
+| MNRE New Technologies — `https://mnre.gov.in/en/new-technologies-overview/` | geothermal, tidal, wave and OTEC potential/maturity boundaries |
+| CEA PSP Roadmap, Jan 2026 — `https://cea.nic.in/wp-content/uploads/notification/2026/01/Roadmap_to_100_GW_of_Hydro_Pumped_Storage_Projects-1.pdf` | roadmap/potential distinguished from commissioned PSP |
+| MNRE Energy Storage Overview — `https://mnre.gov.in/en/energy-storage-systemsess-overview/` | 411.4-GWh 2031-32 requirement split between PSP and BESS |
+| Ministry of Power Green Energy Open Access Rules — `https://powermin.gov.in/static/uploads/2025/07/0cb3857a5da1666831f78010df6d031d.pdf` | 100-kW threshold and captive-user exception |
+| MoP S.O. 4421(E), 27 Sep 2025 — `https://powermin.gov.in/static/uploads/2026/08/894fb6d8fb18baec1c5d47f02d7777f4.pdf` | operative RCO notification, designated-consumer scope and 2026-27 trajectory |
+| CERC REC Regulations, 2022 — `https://www.cercind.gov.in/regulations/REC-Regulations-2022.pdf` | 1-MWh certificate denomination and market rules |
+| MNRE National Green Hydrogen Mission — `https://mnre.gov.in/en/national-green-hydrogen-mission/`; document — `https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2023/01/2023012338.pdf` | target, outlay, SIGHT, pilots, hubs and domestic/export infrastructure |
+| MNRE Green Hydrogen Standard — `https://mnre.gov.in/en/notice/green-hydrogen-standard-for-india/` | electrolysis/biomass routes and 2 kg CO2e/kg H2 well-to-gate ceiling |
+| MNRE Green Hydrogen Certification Scheme — `https://mnre.gov.in/en/notice/green-hydrogen-certification-scheme-of-india/` | annual final certificate and product-carbon-footprint control |
+| MNRE Green Ammonia Standard — `https://mnre.gov.in/en/notice/green-ammonia-standard-for-india/`; Green Methanol Standard — `https://mnre.gov.in/en/notice/green-methanol-standards-for-india/` | 0.38 and 0.44 kg CO2e/kg product thresholds |
+| SECI Mode 2A Tranche II — `https://www.seci.co.in/tender-details/Ymp1`; RfS — `https://www.seci.co.in/uploads/tenders/RfS_for_Supply_of_Green_Ammonia.pdf` | 54,000-MTPA tender dated 24 Sep 2026, live at cutoff |
 | PIB PRID 2274212, 17 Jun 2026 — `https://pib.gov.in/PressReleasePage.aspx?PRID=2274212&reg=3&lang=1` | certification portal; 6.7-lakh-MTPA signed green-ammonia agreements; refinery, SIGHT and mission-outcome status |
-| DAE Acts & Rules — `https://dae.gov.in/acts-rules/`; PIB PRID 2220183 — `https://pib.gov.in/PressReleasePage.aspx?PRID=2220183&reg=3&lang=1` | SHANTI Act enacted status, licensed private participation and reserved sensitive activities |
-| MHI ACC-PLI — `https://heavyindustries.gov.in/en/pli-acc`; PIB PRID 2284916 | ₹18,100-crore, 50-GWh programme; 40-GWh awards and 10-GWh grid-scale tranche |
+| PIB PRID 2245157, 25 Mar 2026 — `https://pib.gov.in/PressReleasePage.aspx?PRID=2245157&reg=3&lang=1` | about 8,000 TPA commissioned green-hydrogen capacity through Feb 2026 |
+| MHI 10-GWh ACC RFP — `https://heavyindustries.gov.in/en/request-proposal-rfp-selection-manufacturers-setting-10-gwh-manufacturing-capacities-advanced`; PIB PRID 2284916 — `https://pib.gov.in/PressReleasePage.aspx?PRID=2284916&reg=3&lang=1` | ₹18,100-crore, 50-GWh programme; 40-GWh awards and 10-GWh grid-scale tranche |
+| India NDC 2031-35 — `https://unfccc.int/sites/default/files/2026-04/INDIA%20NDC%202031-35.pdf` | about 60% non-fossil installed electric-power capacity by 2035 |
 | PIB PRID 1763712 — `https://pib.gov.in/PressReleasePage.aspx?PRID=1763712`; ISA and GOV.UK One Sun Declaration | ISA/GGI-OSOWOG chronology and cross-border-grid purpose |
 | PIB Cabinet NGHM release — `https://pib.gov.in/Pressreleaseshare.aspx?PRID=1888547` | official Mission investment, jobs, import-reduction and emissions estimates |
 | UPSC official question-paper portals — `https://upsc.gov.in/examinations/question-papers` and `https://upsc.gov.in/examinations/previous-question-papers` | stable official provenance for displayed PYQs |
-| IEA Global Hydrogen Review 2026 and electrolyser material | global infrastructure, trade, conversion-loss and project-status context |
+| IEA Global Hydrogen Review 2026 — `https://www.iea.org/reports/global-hydrogen-review-2026`; trade chapter — `https://www.iea.org/reports/global-hydrogen-review-2026/trade-and-infrastructure` | global infrastructure, trade, conversion-loss and project-status context |
 
 ## PYQ verification ledger
 
-| Period | Local official evidence |
+| Displayed PYQ | Exact local official-paper provenance |
 |---|---|
-| Prelims 2018 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSP-18-GS-I-C.pdf` |
-| Prelims 2020 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\CSP_2020_GS_Paper-1.pdf` |
-| Prelims 2022 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` |
-| Prelims 2023 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf` |
-| Prelims 2024-2026 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\prelima_question_paper_answers\2024-GS1-Set A.pdf`, `2025-GS1-Set A.pdf`, `2026-GS1-Set A.pdf` |
-| Mains 2020-2022 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\Gen_St_P1.pdf`, `Gen_St_P3.pdf`, `QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf`, `QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf`, `QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf` |
-| Mains 2025 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf`, `UPSC Mains 2025 GS Paper 3 3.pdf` |
-| Mains 2026 | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` |
+| Prelims 2018 GS-I Q67 | `books\more_previous_papers\QP-CSP-18-GS-I-C.pdf`, PDF p. 31 |
+| Prelims 2020 GS-I Q84 | `books\more_previous_papers\CSP_2020_GS_Paper-1.pdf`, PDF p. 37 |
+| Prelims 2020 GS-I Q88 | `books\more_previous_papers\CSP_2020_GS_Paper-1.pdf`, PDF p. 37 |
+| Prelims 2022 GS-I Q84 | `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF p. 37 |
+| Prelims 2023 GS-I Q60 | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 25 |
+| Prelims 2023 GS-I Q99 | `books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 43 |
+| Prelims 2024 GS-I Q27 | `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`, PDF p. 13 |
+| Prelims 2024 GS-I Q38 | `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`, PDF p. 17 |
+| Prelims 2024 GS-I Q46 | `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`, PDF p. 19 |
+| Prelims 2025 GS-I Q70 | `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`, PDF p. 31 |
+| Prelims 2026 GS-I Q45 | `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, PDF p. 23; local key provisional |
+| Mains 2020 GS-I Q16 | `books\more_previous_papers\Gen_St_P1.pdf`, PDF p. 4 |
+| Mains 2020 GS-III Q16 | `books\more_previous_papers\Gen_St_P3.pdf`, PDF p. 4 |
+| Mains 2021 GS-III Q6 | `books\more_previous_papers\QP-CSM-21-GENSTUDIESPAPER-III-110122.pdf`, PDF p. 2 |
+| Mains 2022 GS-I Q7 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER I-190922.pdf`, PDF p. 2 |
+| Mains 2022 GS-III Q12 | `books\more_previous_papers\QP-CSM-22-GENERAL-STUDIES-PAPER-III-190922.pdf`, PDF p. 4 |
+| Mains 2025 GS-I Q6 | `books\mains\UPSC Mains 2025 GS Paper 1.pdf`, PDF p. 2 |
+| Mains 2025 GS-III Q6 | `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf`, PDF p. 2 |
+| Mains 2026 GS-III Q11 | `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`, PDF p. 4 |
 | Routing control | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` |
 
 ## Status and uncertainty controls
 
-- Status cutoff: **3 October 2026**.
+- Status cutoff: **5 October 2026**.
 - Latest official installed-capacity table located by the cutoff: **31 August 2026**.
 - The September 2026 SECI green-ammonia Tranche II was still a tender at the cutoff; no award is claimed.
 - The 6.7-lakh-MTPA green-ammonia figure is signed supply agreements to 11 fertiliser plants as reported on 17 June 2026, not delivered output.
 - Mission investment, jobs and import-reduction figures are projected target-scale outcomes, not achieved results.
 - ACC-PLI figures are manufacturing programme awards/earmarking, not installed grid storage.
-- Nuclear is included only as firm non-fossil energy-security context; it is not classified as renewable.
+- Nuclear is included only for the non-fossil-versus-renewable distinction; detailed policy and technology route to Science and Technology Topic 04.
 - The latest consolidated official commissioned green-hydrogen figure located was about **8,000 t/year as of February 2026**; no later consolidated total is invented.
 - Gross resource potential, target, tender, award, allocation, construction, commissioning, generation/production and verified outcome remain separate throughout.
 - Hydrogen cost and practical water-withdrawal figures are not frozen into one universal number because technology, boundary, electricity, cooling and site conditions vary.
 - Objective PYQ answers are intentionally absent; the 2026 locally held key is provisional.
+- Exact PYQ wording is attributed to official UPSC papers for educational study; other external material is paraphrased and source-ledgered, with no copied coaching analysis or unlicensed visual asset.
