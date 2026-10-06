@@ -245,7 +245,7 @@ move, not an optional add-on. ⚠️
 
 ### Verified question links in this lesson
 
-No primary Aurobindo question from 2018-2026 asks only for Saccidananda. Use this lesson as the opening premise for **2020 Q8(a), 20 marks** and **2025 Q8(b), 15 marks**. The concise approach is: establish dynamic Saccidananda and real manifestation, then move to the question-specific doctrines of Life Divine or Spirit-Matter integration. Do not turn either answer into a generic essay on Brahman.
+No primary Aurobindo question from 2013-2026 asks only for Saccidananda. Use this lesson as the opening premise for **2020 Q8(a), 20 marks** and **2025 Q8(b), 15 marks**. The concise approach is: establish dynamic Saccidananda and real manifestation, then move to the question-specific doctrines of Life Divine or Spirit-Matter integration. Do not turn either answer into a generic essay on Brahman.
 
 ### Revision points
 
@@ -269,75 +269,37 @@ No primary Aurobindo question from 2018-2026 asks only for Saccidananda. Use thi
 
 ### Practice: manifestation without illusion
 
-#### Concept check
+#### MCQ 1 — Concept check
 
-**Q1.** Which formulation best states Aurobindo's relation between Saccidānanda and the world?
+Which formulation best states Aurobindo's relation between Saccidānanda and the world?
 
-A. The world is a real self-manifestation of a dynamic Absolute that also exceeds it.
-B. The world is an independent material substance existing beside the Absolute.
+A. The world is a real self-manifestation of a dynamic, world-exceeding Absolute.
+B. The world is an independent material substance existing wholly beside the Absolute.
 C. The world is absolutely unreal and has no spiritual significance.
-D. The Absolute becomes exhausted and finite by manifesting the world.
+D. The Absolute is exhausted and rendered finite by the act of manifesting the world.
 
-**Correct answer: A**
+**MCQ 1: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is exactly the dynamic-Saccidānanda formula: transcendence (exceeding the
-  world) and immanence (real manifestation) are held together.
-- **B is wrong.** Aurobindo is a non-dualist; he never treats matter as an independent second
-  substance beside the Divine — that would be closer to Sāṃkhya dualism, which he explicitly does
-  not accept as final ontology.
-- **C is wrong.** This is the illusionist reading Aurobindo explicitly rejects; confusing his
-  position with Advaita's strong *māyāvāda* is the single most common Aurobindo error.
-- **D is wrong.** This is the standard objection to dynamism (Part G), not Aurobindo's own claim; his
-  reply is precisely that free self-expression does *not* exhaust or finitise the Infinite.
+- **A — Correct:** This is exactly the dynamic-Saccidānanda formula: transcendence (exceeding the world) and immanence (real manifestation) are held together.
+- **B — Incorrect:** Aurobindo is a non-dualist; he never treats matter as an independent second substance beside the Divine — that would be closer to Sāṃkhya dualism, which he explicitly does not accept as final ontology.
+- **C — Incorrect:** This is the illusionist reading Aurobindo explicitly rejects; confusing his position with Advaita's strong *māyāvāda* is the single most common Aurobindo error.
+- **D — Incorrect:** This is the standard objection to dynamism (Part G), not Aurobindo's own claim; his reply is precisely that free self-expression does *not* exhaust or finitise the Infinite.
 
-#### Applied check
+#### MCQ 2 — Applied check
 
-**Q2.** A student writes: "Aurobindo agrees with Śaṃkara that the world is *mithyā*, but says this
-does not matter because Brahman is still real." What is the most precise correction?
+A student writes: "Aurobindo agrees with Śaṃkara that the world is *mithyā*, but says this does not matter because Brahman is still real." What is the most precise correction?
 
-A. The correction is unnecessary; the student's claim is accurate.
-B. Aurobindo denies that the world is *mithyā*; for him it is a real manifestation of Saccidānanda,
-   not an appearance to be finally sublated.
+A. The correction is unnecessary, because the student's paraphrase is already essentially accurate.
+B. Aurobindo denies the world is *mithyā*; it is a real self-manifestation of Saccidānanda.
 C. Aurobindo denies that Brahman is real at all.
 D. Aurobindo agrees the world is *mithyā* but only at the empirical, not the absolute, level.
 
-**Correct answer: B**
+**MCQ 2: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** The student's claim inverts Aurobindo's central anti-illusionist move; it is not
-  a minor imprecision.
-- **B is correct.** This is the exact doctrine of Part C.2 and C.4: real self-manifestation, not
-  illusion at any level.
-- **C is wrong.** Aurobindo affirms Saccidānanda as ultimate reality; his disagreement with Śaṃkara
-  is about the *status of the world*, never about whether Brahman/Saccidānanda is real.
-- **D is wrong.** This describes a possible *reading* of Śaṃkara's own two-level (*pāramārthika* /
-  *vyāvahārika*) theory, not Aurobindo's position, which denies that "ultimately unreal" is the
-  right final verdict on the world at all.
-
-#### Remedial check
-
-**Q3. [Remedial]** A common error is to write that "Aurobindo's dynamic Absolute is simply a more
-poetic name for Śaṃkara's nirguṇa Brahman." What is the precise correction?
-
-A. There is no difference; the terms are interchangeable in every context.
-B. Śaṃkara's Brahman is dynamic and Aurobindo's Saccidānanda is static.
-C. Aurobindo's Saccidānanda is explicitly described as capable of real self-manifestation and
-   creative dynamism, which the classical *nirguṇa* reading of Brahman as static and world-negating
-   does not require.
-D. The two conceptions belong to entirely unrelated philosophical traditions.
-
-**Correct answer: C**
-
-**Why each option is right or wrong:**
-- **A is wrong.** Treating the terms as simply interchangeable erases exactly the distinction (Part
-  C.3 table) that most 10- and 15-mark answers are tested on.
-- **B is wrong.** This reverses the actual positions.
-- **C is correct.** This states the precise, examinable difference: dynamism/creativity attributed
-  to the Absolute itself, not merely a different name.
-- **D is wrong.** Aurobindo explicitly works within and reinterprets the Vedāntic-Upaniṣadic
-  tradition that also produces Śaṃkara's Brahman (Part C.1–C.2); the traditions are directly
-  related, not unrelated.
+- **A — Incorrect:** The student's claim inverts Aurobindo's central anti-illusionist move; it is not a minor imprecision.
+- **B — Correct:** This is the exact doctrine of Part C.2 and C.4: real self-manifestation, not illusion at any level.
+- **C — Incorrect:** Aurobindo affirms Saccidānanda as ultimate reality; his disagreement with Śaṃkara is about the *status of the world*, never about whether Brahman/Saccidānanda is real.
+- **D — Incorrect:** This describes a possible *reading* of Śaṃkara's own two-level (*pāramārthika* / *vyāvahārika*) theory, not Aurobindo's position, which denies that "ultimately unreal" is the right final verdict on the world at all.
 
 ### J.4 Original Mains practice — 10 marks (~150 words)
 
@@ -688,6 +650,7 @@ Supermind gives Aurobindo's system strong *internal coherence*, not *external pr
 
 - **2019 Q8(b), 15 marks - Explain:** unique position of Supermind. **Demand:** definition, location, One-Many mediation, Real-Idea, Overmind/Mind distinction and significance. **Approach:** locate it between Saccidananda and lower creation; present the mini-argument; distinguish Overmind; connect involution and evolution; end with the verification residual.
 - **2023 Q5(e), 10 marks - Explain:** nature and role of Supermind in evolution. **Demand:** concise nature-plus-function answer. **Approach:** Truth-Consciousness and knowledge by identity; source and goal of the evolutionary movement; psychic/spiritual preparation; one caveat.
+- **2017 Q7(b), 15 marks - Discuss:** how Integral Yoga realises supramental consciousness. **Demand:** show the method-to-goal link from Supermind's side. **Approach:** define Supermind as Truth-Consciousness, then route the enacting method to Lessons 5–6 (triple transformation and double movement); end with one verification caveat.
 
 ### Revision points
 
@@ -711,70 +674,69 @@ Supermind gives Aurobindo's system strong *internal coherence*, not *external pr
 
 ### Practice: do not mentalise Supermind
 
-#### Concept check
+#### MCQ 3 — Bridge check (Lesson 1 → Lesson 2)
 
-**Q4.** Why does Aurobindo introduce Supermind into his metaphysical scheme?
+A common error is to write that "Aurobindo's dynamic Absolute is simply a more poetic name for Śaṃkara's nirguṇa Brahman." What is the precise correction?
+
+A. There is no difference at all; the two terms are fully interchangeable in every context.
+B. Śaṃkara's Brahman is dynamic and Aurobindo's Saccidānanda is static.
+C. Saccidānanda can really self-manifest, unlike the static *nirguṇa* reading.
+D. The two conceptions belong to entirely unrelated philosophical traditions.
+
+**MCQ 3: C**
+
+- **A — Incorrect:** Treating the terms as simply interchangeable erases exactly the distinction (Part C.3 table) that most 10- and 15-mark answers are tested on.
+- **B — Incorrect:** This reverses the actual positions.
+- **C — Correct:** This states the precise, examinable difference: dynamism/creativity attributed to the Absolute itself, not merely a different name.
+- **D — Incorrect:** Aurobindo explicitly works within and reinterprets the Vedāntic-Upaniṣadic tradition that also produces Śaṃkara's Brahman (Part C.1–C.2); the traditions are directly related, not unrelated.
+
+#### MCQ 4 — Concept check
+
+Why does Aurobindo introduce Supermind into his metaphysical scheme?
 
 A. To describe the unconscious biological mechanism of natural selection.
 B. To identify the highest form of ordinary discursive reasoning.
 C. To replace Saccidānanda as the ultimate reality.
-D. To mediate unity and multiplicity through integral Truth-Consciousness.
+D. To mediate unity and multiplicity through an integral, supramental Truth-Consciousness.
 
-**Correct answer: D**
+**MCQ 4: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Supermind is a metaphysical/epistemological principle, not a biological
-  mechanism; confusing the two collapses Aurobindo's teleology into Darwinian biology (see
-  Lesson 4).
-- **B is wrong.** This is precisely the common trap in Part I: Supermind is not enhanced discursive
-  reasoning; it is a different order of consciousness (Part C.5).
-- **C is wrong.** Supermind is a derived poise of Saccidānanda, not a replacement for it (Part
-  C.6).
-- **D is correct.** This is the exact function stated in Part C.3–C.4: Supermind is the Real-Idea
-  that holds distinctions within unity, explaining real plurality without fragmentation.
+- **A — Incorrect:** Supermind is a metaphysical/epistemological principle, not a biological mechanism; confusing the two collapses Aurobindo's teleology into Darwinian biology (see Lesson 4).
+- **B — Incorrect:** This is precisely the common trap in Part I: Supermind is not enhanced discursive reasoning; it is a different order of consciousness (Part C.5).
+- **C — Incorrect:** Supermind is a derived poise of Saccidānanda, not a replacement for it (Part C.6).
+- **D — Correct:** This is the exact function stated in Part C.3–C.4: Supermind is the Real-Idea that holds distinctions within unity, explaining real plurality without fragmentation.
 
-#### Applied check
+#### MCQ 5 — Applied check
 
-**Q5.** Which statement correctly distinguishes Overmind from Supermind?
+Which statement correctly distinguishes Overmind from Supermind?
 
-A. Overmind distributes divine truth-powers, while Supermind retains indivisible integration.
-B. Overmind is the Absolute, while Supermind belongs to ignorance.
-C. Overmind is Matter, while Supermind is Life.
-D. Overmind is ordinary reason, while Supermind is mystical emotion.
+A. Overmind distributes truth-powers; Supermind keeps indivisible integration.
+B. Overmind is the Absolute itself, whereas Supermind belongs to the plane of ignorance.
+C. Overmind is merely dense Matter, whereas Supermind is only a form of biological Life.
+D. Overmind is ordinary discursive reason, while Supermind is mere mystical emotion.
 
-**Correct answer: A**
+**MCQ 5: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the crucial distinction of Part C.8–C.9: Overmind is spiritually vast
-  but pluralises; Supermind alone is indivisible truth-consciousness.
-- **B is wrong.** Neither clause is correct: Overmind is not the Absolute (Saccidānanda is), and
-  Supermind is precisely what stands above the plane where ignorance first becomes possible.
-- **C is wrong.** This confuses two entirely different rungs of the hierarchy (Part C.10); Overmind
-  is far above Life and Matter.
-- **D is wrong.** Neither term refers to ordinary reason or emotion; both are supra-mental
-  principles, not psychological faculties.
+- **A — Correct:** This is the crucial distinction of Part C.8–C.9: Overmind is spiritually vast but pluralises; Supermind alone is indivisible truth-consciousness.
+- **B — Incorrect:** Neither clause is correct: Overmind is not the Absolute (Saccidānanda is), and Supermind is precisely what stands above the plane where ignorance first becomes possible.
+- **C — Incorrect:** This confuses two entirely different rungs of the hierarchy (Part C.10); Overmind is far above Life and Matter.
+- **D — Incorrect:** Neither term refers to ordinary reason or emotion; both are supra-mental principles, not psychological faculties.
 
-#### Remedial check
+#### MCQ 6 — Remedial check
 
-**Q6. [Remedial]** A student writes, "Knowledge by identity is just a very quick, intuitive guess
-that turns out to be correct." What is the precise correction?
+A student writes, "Knowledge by identity is just a very quick, intuitive guess that turns out to be correct." What is the precise correction?
 
-A. It is ordinary perception operating without the use of concepts.
-B. It is knowing through oneness of being, not a faster form of separative mental representation.
-C. It is an unverifiable synonym for emotion.
-D. It is identical with every flash of intuitive guesswork.
+A. It is ordinary sense-perception operating entirely without the use of concepts.
+B. Knowing through oneness of being, not separative representation.
+C. It is merely an unverifiable synonym for intense, private emotional feeling.
+D. It is identical with every passing flash of ordinary intuitive guesswork.
 
-**Correct answer: B**
+**MCQ 6: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Ordinary perception (even without concepts) is still separative direct contact
-  (Part D.2, grade 3), not identity (grade 1).
-- **B is correct.** Knowledge by identity changes the **mode** of knowing, not its speed; it is
-  native to Supermind, where knower and known are not divided (Part D.1, D.4).
-- **C is wrong.** It is not a synonym for emotion; it is a cognitive/ontological category distinct
-  from feeling.
-- **D is wrong.** An intuitive guess remains a mental event subject to error; knowledge by identity
-  is truth-native and cannot, by Aurobindo's definition, be mistaken (Part C.5, D.3).
+- **A — Incorrect:** Ordinary perception (even without concepts) is still separative direct contact (Part D.2, grade 3), not identity (grade 1).
+- **B — Correct:** Knowledge by identity changes the **mode** of knowing, not its speed; it is native to Supermind, where knower and known are not divided (Part D.1, D.4).
+- **C — Incorrect:** It is not a synonym for emotion; it is a cognitive/ontological category distinct from feeling.
+- **D — Incorrect:** An intuitive guess remains a mental event subject to error; knowledge by identity is truth-native and cannot, by Aurobindo's definition, be mistaken (Part C.5, D.3).
 
 ### K.4 Original Mains practice — 15 marks (~250 words)
 
@@ -1027,7 +989,7 @@ careful unpacking every time it is used in an answer — never leave "Inconscien
 
 ### Verified question links in this lesson
 
-No primary question from 2018-2026 isolates involution alone. It is indispensable to **2018 Q8(c)** and **2020 Q8(a)**. **Demand:** show why evolution or Life Divine is possible. **Approach:** define involution as logical-ontological concealment, explain the Inconscient, state the materialist-emergence challenge, and avoid presenting involution as dated history.
+Involution is examined directly in **2016 Q7(a), 20 marks - Discuss**, which pairs evolution with involution and asks how both differ from traditional Yoga philosophy; it also remains indispensable to **2018 Q8(c)** and **2020 Q8(a)**. **Demand:** define involution and show why evolution or Life Divine is possible; for 2016, add the contrast with traditional Pātañjala Yoga. **Approach:** define involution as logical-ontological concealment, explain the Inconscient, state the materialist-emergence challenge, avoid presenting involution as dated history, and — for 2016 — set transformation of nature against isolation of puruṣa from prakṛti.
 
 ### Revision points
 
@@ -1053,66 +1015,53 @@ No primary question from 2018-2026 isolates involution alone. It is indispensabl
 
 ### Practice: concealment is not chronology
 
-#### Concept check
+#### MCQ 7 — Concept check
 
-**Q7.** What is the most accurate meaning of involution in Aurobindo?
+What is the most accurate meaning of involution in Aurobindo?
 
-A. A merely moral decline in civilisation.
-B. A reverse biological mutation.
-C. The graded self-concealment of Spirit that logically precedes evolution.
-D. A dated historical fall of souls from heaven.
+A. A merely moral or cultural decline within human civilisation over time.
+B. A reverse, backward biological mutation occurring within organisms.
+C. Graded self-concealment of Spirit preceding evolution.
+D. A dated historical fall of pre-existent souls from a celestial heaven.
 
-**Correct answer: C**
+**MCQ 7: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Involution is an ontological/metaphysical category, not an ethical one (Part
-  C.6).
-- **B is wrong.** "Reverse mutation" imports a biological mechanism where Aurobindo is making a
-  metaphysical claim about concealment of consciousness, not a claim about genetics (Part C.6,
-  Part I).
-- **C is correct.** This is the exact formula of Part C.1–C.2, C.7.
-- **D is wrong.** This is the single most common trap (Part C.6, Part I): involution is not a dated
-  cosmic or mythic event.
+- **A — Incorrect:** Involution is an ontological/metaphysical category, not an ethical one (Part C.6).
+- **B — Incorrect:** "Reverse mutation" imports a biological mechanism where Aurobindo is making a metaphysical claim about concealment of consciousness, not a claim about genetics (Part C.6, Part I).
+- **C — Correct:** This is the exact formula of Part C.1–C.2, C.7.
+- **D — Incorrect:** This is the single most common trap (Part C.6, Part I): involution is not a dated cosmic or mythic event.
 
-#### Applied check
+#### MCQ 8 — Applied check
 
-**Q8.** Aurobindo's Inconscient is best understood as
+Aurobindo's Inconscient is best understood as
 
-A. absolute non-being from which existence is created out of nothing.
-B. the ordinary psychological subconscious memory store.
-C. a second eternal substance opposed to Spirit.
+A. absolute non-being, out of which existence is somehow created from sheer nothing.
+B. the ordinary psychological subconscious, a mere store of forgotten memories.
+C. a second eternal material substance standing permanently opposed to conscious Spirit.
 D. consciousness under extreme self-concealment or self-oblivion.
 
-**Correct answer: D**
+**MCQ 8: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Aurobindo explicitly denies that the Inconscient is absolute non-being; existence
-  is not created from nothing in his system (Part C.4).
-- **B is wrong.** This confuses a psychological category (subconscious memory) with a metaphysical
-  one (concealed consciousness at the base of Matter).
-- **C is wrong.** This treats the Inconscient as a rival ultimate to Spirit, which reintroduces
-  dualism Aurobindo explicitly rejects.
-- **D is correct.** This is the precise formula of Part C.4 and Part H: the nadir of concealment,
-  not a reality absolutely devoid of consciousness.
+- **A — Incorrect:** Aurobindo explicitly denies that the Inconscient is absolute non-being; existence is not created from nothing in his system (Part C.4).
+- **B — Incorrect:** This confuses a psychological category (subconscious memory) with a metaphysical one (concealed consciousness at the base of Matter).
+- **C — Incorrect:** This treats the Inconscient as a rival ultimate to Spirit, which reintroduces dualism Aurobindo explicitly rejects.
+- **D — Correct:** This is the precise formula of Part C.4 and Part H: the nadir of concealment, not a reality absolutely devoid of consciousness.
 
-#### Remedial check
+#### MCQ 9 — Remedial check
 
-**Q9. [Remedial]** Which statement avoids the common error about involution's temporal status?
+Which statement avoids the common error about involution's temporal status?
 
-A. It is the logical-ontological concealment presupposed by evolution, not a dated fall in cosmic
-   history.
-B. It means the moral decay of humanity across history.
+A. Logical-ontological concealment presupposed by evolution, not a dated fall.
+B. It means the gradual moral decay of all humanity across the whole of recorded history.
 C. It is natural selection operating backward in time.
-D. It is a historical event exactly datable before biological life began.
+D. It is a historical event precisely datable to a time before any biological life began.
 
-**Correct answer: A**
+**MCQ 9: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the exact correction stated in Part C.6 and reinforced in Part I.
-- **B is wrong.** Moral decay is an ethical category unrelated to involution's ontological claim.
-- **C is wrong.** Conflates a biological mechanism with a metaphysical claim (Part I common traps).
-- **D is wrong.** Treating involution as chronologically datable invites irrelevant empirical
-  dating objections that Aurobindo's doctrine was never designed to answer (Part C.6).
+- **A — Correct:** This is the exact correction stated in Part C.6 and reinforced in Part I.
+- **B — Incorrect:** Moral decay is an ethical category unrelated to involution's ontological claim.
+- **C — Incorrect:** Conflates a biological mechanism with a metaphysical claim (Part I common traps).
+- **D — Incorrect:** Treating involution as chronologically datable invites irrelevant empirical dating objections that Aurobindo's doctrine was never designed to answer (Part C.6).
 
 ### K.4 Original Mains practice — 10 marks (~150 words)
 
@@ -1404,6 +1353,7 @@ a flexible redescription. This tension is picked up again, systematically, in Le
 ### Verified question links in this lesson
 
 - **2018 Q8(c), 15 marks - What is/Describe:** evolution, triple transformation and gnostic being. This lesson teaches only the evolution limb. **Approach here:** define the Matter-Life-Mind ascent, teleology and transitional humanity; then hand the answer causally to Lesson 5 for triple transformation and Lesson 7 for gnostic being. Only linkage, demand and approach are supplied for the verified question.
+- **2016 Q7(a), 20 marks - Discuss:** evolution and involution, and their difference from traditional Yoga philosophy. **Approach here:** define the Matter-Life-Mind ascent and teleology, route involution to Lesson 3 and the traditional-Yoga contrast to Lessons 6 and 8.
 
 ### Revision points
 
@@ -1431,70 +1381,53 @@ a flexible redescription. This tension is picked up again, systematically, in Le
 
 ### Practice: evolution without preformation
 
-#### Concept check
+#### MCQ 10 — Concept check
 
-**Q10.** Which contrast between Darwinian theory and Aurobindo is exam-safe?
+Which contrast between Darwinian theory and Aurobindo is exam-safe?
 
-A. Darwin's theory is teleological, while Aurobindo's is random.
-B. Darwin addresses biological mechanisms; Aurobindo adds a metaphysical teleology of consciousness.
-C. Both predict Supermind as the next biological species to be documented by science.
+A. Darwin's theory is itself teleological, whereas Aurobindo's own account is merely random chance.
+B. Darwin addresses biological mechanisms; Aurobindo adds metaphysical teleology.
+C. Both predict Supermind as the next biological species to be documented by empirical science.
 D. Aurobindo denies every biological mechanism identified by science.
 
-**Correct answer: B**
+**MCQ 10: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This exactly reverses the standard characterisation: Darwinian theory, as usually
-  read, is non-teleological, while Aurobindo's is teleological (Part C.4).
-- **B is correct.** This is the safest exam-line stated in Part G: two different explanatory
-  registers, not a direct contest over mechanism.
-- **C is wrong.** Supermind is a metaphysical/yogic category, not a falsifiable biological
-  prediction (Part H).
-- **D is wrong.** Aurobindo does not deny biological mechanisms; he supplements their explanatory
-  scope (Part G).
+- **A — Incorrect:** This exactly reverses the standard characterisation: Darwinian theory, as usually read, is non-teleological, while Aurobindo's is teleological (Part C.4).
+- **B — Correct:** This is the safest exam-line stated in Part G: two different explanatory registers, not a direct contest over mechanism.
+- **C — Incorrect:** Supermind is a metaphysical/yogic category, not a falsifiable biological prediction (Part H).
+- **D — Incorrect:** Aurobindo does not deny biological mechanisms; he supplements their explanatory scope (Part G).
 
-#### Applied check
+#### MCQ 11 — Applied check
 
-**Q11.** "Already involved" in Aurobindo's evolution doctrine most precisely means
+"Already involved" in Aurobindo's evolution doctrine most precisely means
 
 A. every future biological species already exists as a miniature preformed object inside Matter.
 B. evolutionary novelty is impossible because everything is fixed in advance.
-C. the power or principle of consciousness is latent, taking genuinely new organisation and
-   expression in time.
+C. the principle of consciousness is latent, taking genuinely new form in time.
 D. Matter contains a literal library of completed future scientific inventions.
 
-**Correct answer: C**
+**MCQ 11: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This is the precise misreading Part C.5 warns against — "preformationism," not
-  Aurobindo's actual claim.
-- **B is wrong.** Aurobindo explicitly combines continuity of potential with genuine *novelty* of
-  form (Part C.5); evolutionary novelty is not denied.
-- **C is correct.** This is the exact formula of Part C.5.
-- **D is wrong.** This is an exaggerated, literalised version of the doctrine that no primary
-  source supports.
+- **A — Incorrect:** This is the precise misreading Part C.5 warns against — "preformationism," not Aurobindo's actual claim.
+- **B — Incorrect:** Aurobindo explicitly combines continuity of potential with genuine *novelty* of form (Part C.5); evolutionary novelty is not denied.
+- **C — Correct:** This is the exact formula of Part C.5.
+- **D — Incorrect:** This is an exaggerated, literalised version of the doctrine that no primary source supports.
 
-#### Remedial check
+#### MCQ 12 — Remedial check
 
-**Q12. [Remedial]** A student writes, "Aurobindo's teleology proves that evolution has a
-scientifically demonstrated purpose." What is the precise correction?
+A student writes, "Aurobindo's teleology proves that evolution has a scientifically demonstrated purpose." What is the precise correction?
 
-A. Evolutionary biology has, in fact, empirically demonstrated Aurobindo's specific teleology.
+A. Evolutionary biology has, as a matter of fact, already empirically demonstrated Aurobindo's specific teleology.
 B. Teleology is a purely religious claim with no relation to Aurobindo's philosophy at all.
 C. There is no difference between Aurobindo's claim and standard evolutionary biology.
-D. Aurobindo's teleology is a metaphysical interpretation of evolution's meaning and direction, not
-   an empirically demonstrated scientific finding; it supplements rather than is confirmed by
-   biology.
+D. A metaphysical interpretation of evolution's meaning, not an empirically demonstrated finding.
 
-**Correct answer: D**
+**MCQ 12: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** No standard evolutionary biology demonstrates a supramental telos; this overstates
-  the doctrine's evidential status (Part H).
-- **B is wrong.** Teleology is central to Aurobindo's own philosophical system (Part C.3), not
-  external to it.
-- **C is wrong.** This erases the register-distinction that Part G insists on maintaining.
-- **D is correct.** This is the precise, examiner-safe correction combining Part C.3, Part G and
-  Part H.
+- **A — Incorrect:** No standard evolutionary biology demonstrates a supramental telos; this overstates the doctrine's evidential status (Part H).
+- **B — Incorrect:** Teleology is central to Aurobindo's own philosophical system (Part C.3), not external to it.
+- **C — Incorrect:** This erases the register-distinction that Part G insists on maintaining.
+- **D — Correct:** This is the precise, examiner-safe correction combining Part C.3, Part G and Part H.
 
 ### K.4 Original Mains practice — 15 marks (~250 words)
 
@@ -1766,6 +1699,7 @@ rests on the same yogic-experiential ground examined critically in Lesson 8. ⚠
 
 - **2018 Q8(c), 15 marks - What is/Describe:** evolution, triple transformation and gnostic being. **Demand:** integrate three linked doctrines. **Approach:** one paragraph on evolution, exact psychic-spiritual-supramental order, then define the gnostic outcome and add one critical qualification.
 - **2021 Q8(a), 20 marks - Explain and examine:** psychic being as first step in conscious evolution. **Demand:** decode the quotation, distinguish ego/Atman/jivatman/psychic being, prove causal priority, examine evidence. **Approach:** fourfold individual -> psychicisation -> later transformations -> objection/reply/residual.
+- **2013 Q5(e), 10 marks - Explain:** cosmic salvation through the individual's spiritual evolution. **Demand:** show how one individual's psychic-spiritual-supramental growth opens onto terrestrial, collective salvation. **Approach:** fourfold individual -> psychicisation -> triple transformation, then hand the collective Life-Divine limb to Lesson 7; distinguish cosmic direction from guaranteed individual attainment.
 
 ### Revision points
 
@@ -1796,71 +1730,53 @@ rests on the same yogic-experiential ground examined critically in Lesson 8. ⚠
 
 ### Practice: distinguish the fourfold individual
 
-#### Concept check
+#### MCQ 13 — Concept check
 
-**Q13.** Which sequence correctly states the triple transformation?
+Which sequence correctly states the triple transformation?
 
 A. Psychic → spiritual → supramental.
 B. Supramental → psychic → spiritual.
 C. Mental → vital → physical.
 D. Spiritual → psychic → material.
 
-**Correct answer: A**
+**MCQ 13: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the exact, structurally necessary order of Part C.1: psychicisation
-  first establishes soul-guidance, spiritualisation opens higher planes, supramentalisation
-  transforms the law of nature.
-- **B is wrong.** Reversing the order defeats the whole logic of Part C.3: supramental force
-  received before psychic purification risks distortion by the ego.
-- **C is wrong.** This names the *instruments* being transformed (mind, life, body — see Lesson 6),
-  not the three-stage *transformation process* itself.
-- **D is wrong.** This reorders the sequence incorrectly; spiritual transformation must follow, not
-  precede, psychic transformation.
+- **A — Correct:** This is the exact, structurally necessary order of Part C.1: psychicisation first establishes soul-guidance, spiritualisation opens higher planes, supramentalisation transforms the law of nature.
+- **B — Incorrect:** Reversing the order defeats the whole logic of Part C.3: supramental force received before psychic purification risks distortion by the ego.
+- **C — Incorrect:** This names the *instruments* being transformed (mind, life, body — see Lesson 6), not the three-stage *transformation process* itself.
+- **D — Incorrect:** This reorders the sequence incorrectly; spiritual transformation must follow, not precede, psychic transformation.
 
-#### Applied check
+#### MCQ 14 — Applied check
 
-**Q14.** Which term refers to the unevolving individual centre standing above manifestation?
+Which term refers to the unevolving individual centre standing above manifestation?
 
 A. Surface ego.
 B. Jīvātman or central being.
 C. Psychic being.
 D. Inconscient.
 
-**Correct answer: B**
+**MCQ 14: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** The surface ego is a provisional, changing construction, not an unevolving centre
-  (Part D table).
-- **B is correct.** This is the precise definition in Part D: the Jīvātman presides over the line of
-  births without itself evolving.
-- **C is wrong.** The psychic being is explicitly the *evolving* delegate of the Jīvātman, not the
-  unevolving centre itself — this is the single most tested confusion (Part I).
-- **D is wrong.** The Inconscient is the nadir of concealment in Matter (Lesson 3), unrelated to the
-  individual-centre terminology of this lesson.
+- **A — Incorrect:** The surface ego is a provisional, changing construction, not an unevolving centre (Part D table).
+- **B — Correct:** This is the precise definition in Part D: the Jīvātman presides over the line of births without itself evolving.
+- **C — Incorrect:** The psychic being is explicitly the *evolving* delegate of the Jīvātman, not the unevolving centre itself — this is the single most tested confusion (Part I).
+- **D — Incorrect:** The Inconscient is the nadir of concealment in Matter (Lesson 3), unrelated to the individual-centre terminology of this lesson.
 
-#### Remedial check
+#### MCQ 15 — Remedial check
 
-**Q15. [Remedial]** A student identifies the psychic being with the Jīvātman. Which correction
-repairs the answer?
+A student identifies the psychic being with the Jīvātman. Which correction repairs the answer?
 
 A. Both are surface ego-functions with no metaphysical status.
 B. Psychic being is universal Ātman, and Jīvātman is simply the physical body.
-C. Jīvātman is the unevolving individual centre above manifestation; psychic being is its evolving
-   delegate within life.
+C. Jīvātman is the unevolving centre; the psychic being is its evolving delegate.
 D. Both evolve identically through exactly the same experiences.
 
-**Correct answer: C**
+**MCQ 15: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Neither term names a mere surface function; both have real metaphysical status in
-  Aurobindo's scheme (Part D).
-- **B is wrong.** This wrongly demotes Jīvātman to "the physical body," which has no basis in the
-  core doctrine.
-- **C is correct.** This is the exact repair stated in Part D and Part I: confusing these terms
-  destroys the logic of conscious evolution, because Aurobindo needs both an immutable presiding
-  centre and a genuinely evolving soul-personality.
-- **D is wrong.** Jīvātman does not evolve at all (Part D table); only the psychic being evolves.
+- **A — Incorrect:** Neither term names a mere surface function; both have real metaphysical status in Aurobindo's scheme (Part D).
+- **B — Incorrect:** This wrongly demotes Jīvātman to "the physical body," which has no basis in the core doctrine.
+- **C — Correct:** This is the exact repair stated in Part D and Part I: confusing these terms destroys the logic of conscious evolution, because Aurobindo needs both an immutable presiding centre and a genuinely evolving soul-personality.
+- **D — Incorrect:** Jīvātman does not evolve at all (Part D table); only the psychic being evolves.
 
 
 
@@ -2167,7 +2083,7 @@ argued in Lesson 8). ⚠️
 ### UPSC use after understanding
 
 - **Verified question linkage:** **2022 Q8(b), 15 marks** — role of Integral Yoga in triple
-  transformation; **2024 Q7(c), 15 marks** — "our Yoga is a double movement of ascent and descent";
+  transformation; **2024 Q7(c), 15 marks** — "Our Yoga is a double movement of ascent and descent";
   **2026 Q6(b), 15 marks** — basic characteristics of Integral Yoga for supramental consciousness
   through triple transformation.
 - **Probable framing:** "why is Aurobindo's yoga called integral?", "double movement of ascent and
@@ -2190,6 +2106,9 @@ argued in Lesson 8). ⚠️
 - **2022 Q8(b), 15 marks - Explain and evaluate:** role of Integral Yoga in triple transformation. **Demand:** method must be mapped to all three transformations. **Approach:** three meanings of integral; aspiration-rejection-surrender; ascent/descent; Shakti; exact transformation order; evaluation.
 - **2024 Q7(c), 15 marks - Discuss:** double movement of ascent and descent. **Demand:** define both and prove mutual necessity. **Approach:** ascent to higher planes; descent into mind-life-body; practical triad; Patanjali contrast; verification caveat.
 - **2026 Q6(b), 15 marks - Explain:** basic characteristics of Integral Yoga for supramental consciousness through triple transformation. **Demand:** characteristics plus operational connection to the goal. **Approach:** synthesis of yogas, whole-being transformation, practical triad, Shakti, double movement and exact triple sequence.
+- **2014 Q8(c), 15 marks - Discuss:** Integral Yoga as an advancement over Pātañjala Yoga. **Demand:** justify the advancement claim without caricaturing Patañjali. **Approach:** contrast metaphysics, method and goal; keep the ṛtambharā caution; balanced verdict (shared with Lesson 8).
+- **2015 Q5(e), 10 marks - Explain, short note:** Sri Aurobindo's Integral Yoga. **Demand:** compact definition plus core characteristics. **Approach:** synthesis of knowledge-devotion-works; whole-being transformation; practical triad; double movement; supramental aim.
+- **2017 Q7(b), 15 marks - Discuss:** how Integral Yoga realises supramental consciousness. **Demand:** map method to the supramental goal. **Approach:** practical triad, ascent/descent and Śakti enacting psychic -> spiritual -> supramental; supramental descent as goal; verification caveat.
 
 ### Revision points
 
@@ -2216,67 +2135,53 @@ argued in Lesson 8). ⚠️
 
 ### Practice: method must match the goal
 
-#### Concept check
+#### MCQ 16 — Concept check
 
-**Q16.** Integral Yoga is called "integral" primarily because it
+Integral Yoga is called "integral" primarily because it
 
-A. rejects work and devotion in favour of knowledge alone.
+A. rejects both work and devotion in favour of knowledge alone.
 B. follows only one exclusive contemplative technique.
 C. ends with private liberation from embodiment.
-D. integrates paths, the whole being, and individual with terrestrial transformation.
+D. integrates paths, whole being and terrestrial life.
 
-**Correct answer: D**
+**MCQ 16: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Integral Yoga explicitly refuses to isolate *jñāna* from *bhakti* and *karma*
-  (Part C.2a).
-- **B is wrong.** It is deliberately many-sided, not confined to one technique (Part C.2).
-- **C is wrong.** Private liberation is treated as a beginning, not an end (Part C.3).
-- **D is correct.** This states all three senses of "integral" from Part C.2 precisely.
+- **A — Incorrect:** Integral Yoga explicitly refuses to isolate *jñāna* from *bhakti* and *karma* (Part C.2a).
+- **B — Incorrect:** It is deliberately many-sided, not confined to one technique (Part C.2).
+- **C — Incorrect:** Private liberation is treated as a beginning, not an end (Part C.3).
+- **D — Correct:** This states all three senses of "integral" from Part C.2 precisely.
 
-#### Applied check
+#### MCQ 17 — Applied check
 
-**Q17.** Why is ascent alone insufficient in Aurobindo's yoga?
+Why is ascent alone insufficient in Aurobindo's yoga?
 
-A. It may liberate or illuminate consciousness while leaving lower nature untransformed.
+A. It may liberate or illuminate consciousness while leaving the lower nature wholly untransformed.
 B. Ascent belongs only to materialism and has no place in Aurobindo's system.
 C. Ascent prevents any spiritual experience whatsoever.
 D. It necessarily produces supramental transformation without any need for descent.
 
-**Correct answer: A**
+**MCQ 17: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the precise reasoning of Part C.5 and Part H: Aurobindo's aim is not
-  only contact above but change below.
-- **B is wrong.** Ascent is a core, necessary half of Aurobindo's own double movement (Part C.4),
-  not something foreign to his system.
-- **C is wrong.** Ascent is precisely how higher spiritual experience is contacted (Part C.4a); it
-  does not prevent it.
-- **D is wrong.** This is the opposite of Aurobindo's claim: ascent alone does **not** produce
-  supramental transformation; descent is indispensable (Part C.5).
+- **A — Correct:** This is the precise reasoning of Part C.5 and Part H: Aurobindo's aim is not only contact above but change below.
+- **B — Incorrect:** Ascent is a core, necessary half of Aurobindo's own double movement (Part C.4), not something foreign to his system.
+- **C — Incorrect:** Ascent is precisely how higher spiritual experience is contacted (Part C.4a); it does not prevent it.
+- **D — Incorrect:** This is the opposite of Aurobindo's claim: ascent alone does **not** produce supramental transformation; descent is indispensable (Part C.5).
 
-#### Remedial check
+#### MCQ 18 — Remedial check
 
-**Q18. [Remedial]** What is the safest way to present Aurobindo's use of Patañjali's *ṛtambharā
-prajñā* in an examination answer?
+What is the safest way to present Aurobindo's use of Patañjali's *ṛtambharā prajñā* in an examination answer?
 
 A. Claim Aurobindo directly adopts *ṛtambharā prajñā* as his final supramental plane.
-B. Use it as a limited echo of truth-bearing cognition while explicitly stating the ontological
-   and teleological differences from Supermind.
+B. A limited echo of truth-bearing cognition, explicitly distinguished in status from Supermind.
 C. Use it to prove that supramental descent has definitely occurred.
 D. Call it exactly identical with Supermind in every respect.
 
-**Correct answer: B**
+**MCQ 18: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This is the exact error the conceptual caution forbids (Part D.1): resemblance
-  does not establish identity or adoption.
-- **B is correct.** This is the precise, safe formulation given in Part D.1: echo, not identity,
-  with the differences stated.
-- **C is wrong.** *Ṛtambharā prajñā* is a classical Yoga category; it cannot serve as evidence for
-  an Aurobindonian empirical claim about descent.
-- **D is wrong.** The two differ in ontological status, yogic location, final destiny, goal and
-  metaphysics (Part D.1 table) — "exactly identical" reverses the conceptual caution.
+- **A — Incorrect:** This is the exact error the conceptual caution forbids (Part D.1): resemblance does not establish identity or adoption.
+- **B — Correct:** This is the precise, safe formulation given in Part D.1: echo, not identity, with the differences stated.
+- **C — Incorrect:** *Ṛtambharā prajñā* is a classical Yoga category; it cannot serve as evidence for an Aurobindonian empirical claim about descent.
+- **D — Incorrect:** The two differ in ontological status, yogic location, final destiny, goal and metaphysics (Part D.1 table) — "exactly identical" reverses the conceptual caution.
 
 
 
@@ -2374,7 +2279,7 @@ governed by this truth-consciousness rather than by ego, division and ignorance.
 
 ### Ascetic truth, materialist truth and integral synthesis
 
-### C.1 "Both ascetic and materialist are partial" ✅
+### C.1 The ascetic and the materialist as mutually partial negations ✅
 - Asked directly in **2025**. ✅
 - The **ascetic** affirms Spirit but denies Matter. ✅
 - The **materialist** affirms Matter but denies Spirit. ✅
@@ -2525,7 +2430,7 @@ Lessons 1, 3 and 4. ⚠️
 ### UPSC use after understanding
 
 - **Verified question linkage:** **2020 Q8(a), 20 marks** — Life Divine as possibility and
-  inevitability; **2025 Q8(b), 15 marks** — "both ascetic and materialist are partial."
+  inevitability; **2025 Q8(b), 15 marks** — "Both Ascetic and materialist are partial in their negation of each other."
 - **Probable framing:** "Life Divine as possibility and inevitability," "the gnostic being," "why
   are the ascetic and the materialist both partial for Aurobindo?"
 - **Common traps:** (1) treating Life Divine as heaven, post-mortem bliss, or a purely social/
@@ -2542,6 +2447,7 @@ Lessons 1, 3 and 4. ⚠️
 
 - **2020 Q8(a), 20 marks - What does Aurobindo mean:** Life Divine as possibility and inevitability. **Demand:** keep possibility and inevitability separate. **Approach:** possibility from real manifestation and involution; inevitability from teleology; distinguish cosmic direction from automatic individual attainment; assess verification.
 - **2025 Q8(b), 15 marks - Explain in light of the statement:** ascetic and materialist partiality. **Demand:** identify each partial truth and denial, then show a non-compromise synthesis. **Approach:** Spirit/Matter polarity -> involution/evolution -> Integral Yoga -> gnostic Life Divine -> residual objection.
+- **2013 Q5(e), 10 marks - Explain:** cosmic salvation through the individual's spiritual evolution. **Demand:** present terrestrial, collective salvation as the fruit of individual spiritual evolution. **Approach:** define Life Divine and cosmic salvation (routed from Lesson 5); keep possibility (involution) separate from inevitability (teleology); distinguish cosmic direction from automatic individual attainment.
 
 ### Revision points
 
@@ -2572,69 +2478,53 @@ Lessons 1, 3 and 4. ⚠️
 
 ### Practice: Life Divine is terrestrial
 
-#### Concept check
+#### MCQ 19 — Concept check
 
-**Q19.** Life Divine, for Aurobindo, refers to
+Life Divine, for Aurobindo, refers to
 
-A. private mystical absorption without any embodied change.
-B. only a morally improved society, without any metaphysical claim.
+A. private mystical absorption entirely without any embodied, terrestrial change.
+B. only a morally improved human society, without any deeper metaphysical claim at all.
 C. divinised terrestrial existence through supramental transformation.
 D. post-mortem residence in a divine heaven.
 
-**Correct answer: C**
+**MCQ 19: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Life Divine is explicitly embodied and terrestrial, not a private trance divorced
-  from outer change (Part D.1).
-- **B is wrong.** It has a definite metaphysical basis (supramental transformation), not merely a
-  social/ethical meaning.
-- **C is correct.** This is the precise formula of Part D.1: an embodied earthly existence governed
-  by supramental truth-consciousness.
-- **D is wrong.** This is the single most common trap in this lesson (Part I): Life Divine is not
-  heaven or post-mortem bliss.
+- **A — Incorrect:** Life Divine is explicitly embodied and terrestrial, not a private trance divorced from outer change (Part D.1).
+- **B — Incorrect:** It has a definite metaphysical basis (supramental transformation), not merely a social/ethical meaning.
+- **C — Correct:** This is the precise formula of Part D.1: an embodied earthly existence governed by supramental truth-consciousness.
+- **D — Incorrect:** This is the single most common trap in this lesson (Part I): Life Divine is not heaven or post-mortem bliss.
 
-#### Applied check
+#### MCQ 20 — Applied check
 
-**Q20.** Which feature most specifically characterises the gnostic being?
+Which feature most specifically characterises the gnostic being?
 
 A. Permanent withdrawal from all embodied action.
-B. Maximum analytical intelligence within ordinary Mind.
+B. Maximum analytical intelligence operating within the ordinary separative Mind.
 C. A purely collective institution without any individual consciousness.
-D. Action from truth-consciousness in which knowledge and will are harmonised.
+D. Action from truth-consciousness, uniting knowledge and will.
 
-**Correct answer: D**
+**MCQ 20: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This describes the ascetic pole Aurobindo explicitly rejects as partial (Part
-  C.1).
-- **B is wrong.** The gnostic being's knowledge is supramental, not an intensified form of ordinary
-  Mind (Part C.2, and Lesson 2's caution against confusing Supermind with a superior intellect).
-- **C is wrong.** The gnostic being is first and foremost an individual mode of transformed
-  existence (Part D.4), even though it has collective implications.
-- **D is correct.** This is the exact definition in Part C.2: the gnostic being's action springs
-  from truth-consciousness, healing the inner/outer, individual/cosmic divide.
+- **A — Incorrect:** This describes the ascetic pole Aurobindo explicitly rejects as partial (Part C.1).
+- **B — Incorrect:** The gnostic being's knowledge is supramental, not an intensified form of ordinary Mind (Part C.2, and Lesson 2's caution against confusing Supermind with a superior intellect).
+- **C — Incorrect:** The gnostic being is first and foremost an individual mode of transformed existence (Part D.4), even though it has collective implications.
+- **D — Correct:** This is the exact definition in Part C.2: the gnostic being's action springs from truth-consciousness, healing the inner/outer, individual/cosmic divide.
 
-#### Remedial check
+#### MCQ 21 — Remedial check
 
-**Q21. [Remedial]** Why are both the ascetic and the materialist "partial" for Aurobindo?
+Why are both the ascetic and the materialist "partial" for Aurobindo?
 
-A. Each absolutises one pole — Spirit or Matter — by denying the other, while Aurobindo denies their
-   shared assumption that the two are separate, competing realities.
-B. Both accept Supermind as the final principle of reality.
-C. Both deny the reality of Matter entirely.
-D. Each accepts identical methods but merely uses different terminology.
+A. Both share a separative Spirit–Matter premise, each absolutising one pole; Aurobindo rejects it.
+B. Both accept Supermind as the single final principle of reality.
+C. Both deny the reality of Matter entirely, like strong illusionism.
+D. Each accepts identical methods but merely uses different technical terminology.
 
-**Correct answer: A**
+**MCQ 21: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the precise, examinable reasoning of Part G: Aurobindo does not propose
-  a vague midpoint; he denies the shared dualist premise.
-- **B is wrong.** Neither the ascetic nor the materialist, as characterised here, accepts
-  Supermind — that is specifically Aurobindo's own addition.
-- **C is wrong.** The ascetic does not deny Matter's existence, only its ultimate value or reality
-  relative to Spirit (Part G table).
-- **D is wrong.** Their methods and terminology are opposed, not identical — one seeks
-  transcendence, the other reduces reality to Matter.
+- **A — Correct:** The precise point of Part G: the ascetic and the materialist share the premise that Spirit and Matter are opposed, each absolutising one pole. Aurobindo offers no vague midpoint; he denies and transforms that shared separative premise.
+- **B — Incorrect:** Neither the ascetic nor the materialist, as characterised here, accepts Supermind — that is specifically Aurobindo's own addition.
+- **C — Incorrect:** The ascetic does not deny Matter's existence, only its ultimate value or reality relative to Spirit (Part G table).
+- **D — Incorrect:** Their methods and terminology are opposed, not identical — one seeks transcendence, the other reduces reality to Matter.
 
 
 
@@ -3024,7 +2914,7 @@ without the disanalogy is a marked weakness. ⚠️
 
 ### Verified question links in this lesson
 
-There is no additional primary Aurobindo question in 2018-2026 beyond the nine listed across the course. This lesson supplies the evaluative paragraphs required by the directives **examine** (2021), **evaluate** (2022), and the 20-mark **What does ... mean?** question of 2020. Use the sequence: strongest objection -> strongest reply -> what the reply establishes -> unresolved residual -> graded verdict.
+This lesson argues the comparative limbs of **2014 Q8(c), 15 marks - Discuss** (Integral Yoga versus Pātañjala Yoga) and **2016 Q7(a), 20 marks - Discuss** (evolution and involution versus traditional Yoga), and supplies the evaluative paragraphs required by the directives **examine** (2021), **evaluate** (2022), and the 20-mark **What does ... mean?** question of 2020. Use the sequence: strongest objection -> strongest reply -> what the reply establishes -> unresolved residual -> graded verdict.
 
 ### Revision points
 
@@ -3063,71 +2953,37 @@ There is no additional primary Aurobindo question in 2018-2026 beyond the nine l
 
 ### Practice: criticism without dismissal
 
-#### Concept check
+#### MCQ 22 — Concept check
 
-**Q22.** Aurobindo's strongest reply to the charge that consciousness cannot emerge from the
-Inconscient is that
+Aurobindo's strongest reply to the charge that consciousness cannot emerge from the Inconscient is that
 
 A. Matter does not exist at all.
-B. the Inconscient is concealed consciousness, so emergence is manifestation rather than production
-   from nothing.
+B. The Inconscient is concealed consciousness; emergence is manifestation, not production from nothing.
 C. scientific biology has already empirically proven Supermind.
-D. consciousness is a miraculous addition from entirely outside the cosmos.
+D. consciousness is a miraculous addition entering from entirely outside the physical cosmos.
 
-**Correct answer: B**
+**MCQ 22: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Aurobindo never denies Matter's existence; he denies that it is an independent,
-  non-conscious substance (Lesson 3).
-- **B is correct.** This is the exact reply of Part C.3: the Inconscient is concealment, not
-  absence.
-- **C is wrong.** No standard reading of biology "proves" Supermind (Part C.5, Lesson 4, Part H).
-- **D is wrong.** Aurobindo's account is precisely *not* an external miracle; it is a manifestation
-  of what was already, in concealed form, present (Part C.3, Lesson 3).
+- **A — Incorrect:** Aurobindo never denies Matter's existence; he denies that it is an independent, non-conscious substance (Lesson 3).
+- **B — Correct:** This is the exact reply of Part C.3: the Inconscient is concealment, not absence.
+- **C — Incorrect:** No standard reading of biology "proves" Supermind (Part C.5, Lesson 4, Part H).
+- **D — Incorrect:** Aurobindo's account is precisely *not* an external miracle; it is a manifestation of what was already, in concealed form, present (Part C.3, Lesson 3).
 
-#### Applied check
+#### MCQ 23 — Applied check
 
-**Q23.** How does Aurobindo primarily address the problem of evil?
+How does Aurobindo primarily address the problem of evil?
 
-A. By relying only on human free will as a complete explanation.
-B. By making evil an eternal principle equal in status to the Divine.
-C. By treating evil as real but non-ultimate, arising from division and Inconscience and requiring
-   transformation.
+A. By relying only on individual human free will as a complete and sufficient explanation.
+B. By making evil an eternal principle, equal in ontological status to the Divine itself.
+C. By treating evil as real but non-ultimate, needing transformation.
 D. By declaring all suffering to be absolutely unreal.
 
-**Correct answer: C**
+**MCQ 23: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Aurobindo cannot rely only on free will, since suffering rooted in the Inconscient
-  precedes human moral choice (Part D.1).
-- **B is wrong.** Evil is not an independent, eternal, co-equal principle; it is a transitional
-  feature of manifestation (Part D.2).
-- **C is correct.** This is the precise formula of Part D.2 and Part D.5.
-- **D is wrong.** Aurobindo cannot use the strong-illusionist escape (evil as mere unreality)
-  because he affirms the world as real manifestation (Part D.1).
-
-#### Remedial check
-
-**Q24. [Remedial]** A student writes: "Overmind and Supermind are two names for the same highest
-consciousness." What is the best correction, reusing the Lesson 2 distinction inside a Lesson 8
-critical answer?
-
-A. Supermind is lower than ordinary Mind in Aurobindo's hierarchy.
-B. Both are merely poetic names for the ordinary human intellect.
-C. Overmind is identical with Matter in Aurobindo's system.
-D. Overmind pluralises divine truth-powers; Supermind alone preserves indivisible integration.
-
-**Correct answer: D**
-
-**Why each option is right or wrong:**
-- **A is wrong.** Supermind stands far above ordinary Mind in the hierarchy (Lesson 2, Part C.10),
-  not below it.
-- **B is wrong.** Neither is a name for ordinary intellect; both are supra-mental principles
-  (Lesson 2, Part C.5).
-- **C is wrong.** Overmind is nowhere near Matter in the hierarchy of planes (Lesson 2, Part C.10).
-- **D is correct.** This restates the crucial Lesson 2 distinction (Part C.8–C.9) precisely, and is
-  the standard correction for this recurrent high-cost error whenever it resurfaces in a
-  comparative or critical answer.
+- **A — Incorrect:** Aurobindo cannot rely only on free will, since suffering rooted in the Inconscient precedes human moral choice (Part D.1).
+- **B — Incorrect:** Evil is not an independent, eternal, co-equal principle; it is a transitional feature of manifestation (Part D.2).
+- **C — Correct:** This is the precise formula of Part D.2 and Part D.5.
+- **D — Incorrect:** Aurobindo cannot use the strong-illusionist escape (evil as mere unreality) because he affirms the world as real manifestation (Part D.1).
 
 ### L.4 Original Mains practice — 20 marks (~350 words)
 
@@ -3373,7 +3229,7 @@ Point   : descent without ascent is impossible.
 Close   : both together define Integral Yoga.
 ```
 
-**"Both ascetic and materialist are partial." Discuss.**
+**"Both Ascetic and materialist are partial in their negation of each other." Explain Sri Aurobindo's integral philosophy in the light of this statement.**
 ```text
 Ascetic      : affirms Spirit, denies Matter.
 Materialist  : affirms Matter, denies Spirit.
@@ -3425,74 +3281,69 @@ Close        : integral fulfillment = Life Divine on earth.
 
 ### Local practice
 
-### Conceptual integration check
+### MCQ 24 — Bridge check (Lesson 8 → Lesson 9)
 
-**Q25.** Which single claim is the necessary premise shared by involution (Lesson 3), evolution
-(Lesson 4) and Life Divine's "possibility" argument (Lesson 7)?
+A student writes: "Overmind and Supermind are two names for the same highest consciousness." What is the best correction, reusing the Lesson 2 distinction inside a Lesson 8 critical answer?
 
-A. Matter is concealed consciousness, not an independent, non-conscious substance.
-B. The Overmind is identical with the Supermind.
+A. Supermind stands much lower than ordinary Mind within Aurobindo's plane-hierarchy.
+B. Both are merely poetic, interchangeable names for the same ordinary human intellect.
+C. Overmind is wholly identical with inconscient Matter at the base of Aurobindo's system.
+D. Overmind pluralises truth-powers; Supermind keeps indivisible integration.
+
+**MCQ 24: D**
+
+- **A — Incorrect:** Supermind stands far above ordinary Mind in the hierarchy (Lesson 2, Part C.10), not below it.
+- **B — Incorrect:** Neither is a name for ordinary intellect; both are supra-mental principles (Lesson 2, Part C.5).
+- **C — Incorrect:** Overmind is nowhere near Matter in the hierarchy of planes (Lesson 2, Part C.10).
+- **D — Correct:** This restates the crucial Lesson 2 distinction (Part C.8–C.9) precisely, and is the standard correction for this recurrent high-cost error whenever it resurfaces in a comparative or critical answer.
+
+### MCQ 25 — Conceptual integration check
+
+Which single claim is the necessary premise shared by involution (Lesson 3), evolution (Lesson 4) and Life Divine's "possibility" argument (Lesson 7)?
+
+A. Matter is concealed consciousness, not an independent substance.
+B. The Overmind is entirely identical with the Supermind in Aurobindo's own system.
 C. Patañjali's kaivalya is the same goal as Aurobindo's transformation.
-D. The ego is identical with the psychic being.
+D. The individual ego is wholly identical with the evolving psychic being within us.
 
-**Correct answer: A**
+**MCQ 25: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This single claim (Lesson 3, Part C.4) is exactly what makes involution
-  coherent, what grounds evolution's directionality (Lesson 4), and what grounds Life Divine's
-  possibility argument (Lesson 7, Part D.2, point 1).
-- **B is wrong.** This is the Lesson 2 trap (Part C.8-C.9): Overmind and Supermind are explicitly
-  distinguished, not identical.
-- **C is wrong.** This is the Lesson 6 trap (Part D): Aurobindo's goal is transformation of
-  prakṛti, not kaivalya.
-- **D is wrong.** This is the Lesson 5 trap (Part D): the ego is a provisional construction, sharply
-  distinct from the evolving psychic being.
+- **A — Correct:** This single claim (Lesson 3, Part C.4) is exactly what makes involution coherent, what grounds evolution's directionality (Lesson 4), and what grounds Life Divine's possibility argument (Lesson 7, Part D.2, point 1).
+- **B — Incorrect:** This is the Lesson 2 trap (Part C.8-C.9): Overmind and Supermind are explicitly distinguished, not identical.
+- **C — Incorrect:** This is the Lesson 6 trap (Part D): Aurobindo's goal is transformation of prakṛti, not kaivalya.
+- **D — Incorrect:** This is the Lesson 5 trap (Part D): the ego is a provisional construction, sharply distinct from the evolving psychic being.
 
-### Applied integration check
+### MCQ 26 — Applied integration check
 
-**Q26.** A candidate is asked a 20-mark "critically examine Aurobindo's evolutionary teleology"
-question. Which closing move best reflects the whole session's standard?
+A candidate is asked a 20-mark "critically examine Aurobindo's evolutionary teleology" question. Which closing move best reflects the whole session's standard?
 
-A. State the doctrine only, with no criticism, since Aurobindo's system is self-evidently
-   coherent.
-B. State the doctrine, give the strongest objection (e.g., the involution premise is question-
-   begging against an emergentist), give Aurobindo's reply, and end with a calibrated verdict
-   naming what remains unresolved.
+A. State the doctrine only, with no criticism, since Aurobindo's system is self-evidently coherent.
+B. State the doctrine, give the strongest objection and its reply, then close with a calibrated verdict.
 C. Reject the doctrine outright as unscientific and therefore not worth explaining.
 D. Compare Aurobindo only to Bergson and conclude they are the same thinker.
 
-**Correct answer: B**
+**MCQ 26: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** "Critically examine" always requires the objection/reply structure (Lesson 8,
-  Lesson 8 and the directive table above); exposition alone under-answers the directive.
-- **B is correct.** This is the exact argumentative movement taught throughout Lesson 8 and reinforced in
-  the directive table above.
-- **C is wrong.** Dismissal without engagement fails to earn analytical marks and misrepresents the
-  balanced-verdict standard (Lesson 8, Part C.7, Part I).
-- **D is wrong.** This is the exact "Aurobindo is the Indian Bergson" trap Lesson 8, Part H warns
-  against — no comparison is complete without the stated disanalogy.
+- **A — Incorrect:** "Critically examine" always requires the objection/reply structure (Lesson 8 and the directive table above); exposition alone under-answers the directive.
+- **B — Correct:** This is the exact argumentative movement taught throughout Lesson 8 and reinforced in the directive table above.
+- **C — Incorrect:** Dismissal without engagement fails to earn analytical marks and misrepresents the balanced-verdict standard (Lesson 8, Part C.7, Part I).
+- **D — Incorrect:** This is the exact "Aurobindo is the Indian Bergson" trap Lesson 8, Part H warns against — no comparison is complete without the stated disanalogy.
 
-### Remedial integration check
+### MCQ 27 — Remedial integration check
 
-**Q27. [Remedial]** A student writes, "Knowledge by identity is an unusually quick form of
-inference." What is the precise, system-wide correction?
+A student writes, "Knowledge by identity is an unusually quick form of inference." What is the precise, system-wide correction?
 
-A. It is ordinary perception without the use of concepts.
+A. It is merely ordinary perception operating entirely without the use of concepts.
 B. It is an unverifiable synonym for emotion, unrelated to knowledge.
-C. It is knowing through oneness of being, not a faster form of separative mental representation
-   (Lesson 2, Part D).
+C. Knowing through oneness of being, not separative representation.
 D. It is identical with every flash of intuitive guesswork.
 
-**Correct answer: C**
+**MCQ 27: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Even perception without concepts remains separative direct contact (grade 3 in
-  Lesson 2's scheme), not identity (grade 1).
-- **B is wrong.** It is a cognitive/ontological category, not an emotional one.
-- **C is correct.** This is the exact, repeated correction from Lesson 2, Part D.4 and D.3.
-- **D is wrong.** An intuitive guess remains fallible; knowledge by identity is truth-native by
-  definition (Lesson 2, Part C.5).
+- **A — Incorrect:** Even perception without concepts remains separative direct contact (grade 3 in Lesson 2's scheme), not identity (grade 1).
+- **B — Incorrect:** It is a cognitive/ontological category, not an emotional one.
+- **C — Correct:** This is the exact, repeated correction from Lesson 2, Part D.4 and D.3.
+- **D — Incorrect:** An intuitive guess remains fallible; knowledge by identity is truth-native by definition (Lesson 2, Part C.5).
 
 
 
@@ -3510,18 +3361,25 @@ The synthesis also has critical strength. It challenges Advaitic world-denial, S
 
 Aurobindo's system therefore succeeds as an integrated metaphysical and practical structure. It is more than a name-list because every link has a defined function. It remains conditionally defensible rather than demonstratively established: strongest as synthesis, suggestive as phenomenology, and weakest as a publicly verified prediction of supramental evolution.
 
+**Why this earns marks:** it proves the synthesis claim by showing each doctrine performing work required by the next rather than merely listing them, names the strongest objection at each joint (real manifestation, involution, yogic evidence, teleology, theodicy), and closes with a calibrated "conditionally defensible" verdict instead of uncritical defence or dismissal.
+
 ### Causal transition to the final application arc
 
 The nine lessons establish understanding. The remaining sections now change the task: first route verified questions, then test cumulative understanding, practise original answers, repair recurring errors, compress comparisons and causal maps, and finally consolidate complete register notes.
 
 ---
 
-# 1. Verified PYQ Linkage and Answer-Approach Index
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The verified primary Aurobindo record contains **nine questions: one in every year from 2018 through 2026**. Therefore there is **no absence year within 2018-2026**. Verified questions are presented only through wording, directive, demand and concise approach; none receives a model response.
+The verified primary Aurobindo record now spans **fourteen questions across 2013–2026**: five earlier parts (2013–2017) restored from the repository's verified Philosophy Paper I question ledger, together with one question in every year from 2018 through 2026. Therefore there is **no absence year within 2013–2026**. Verified questions are presented only through wording, directive, demand and concise approach; none receives a model response.
 
 | Year | Question | Marks | Directive | Exact demand | Concise answer approach | Main lesson |
 |---|---|---:|---|---|---|---:|
+| 2013 | Q5(e) | 10 | Explain | Cosmic salvation through the individual's spiritual evolution | Define spiritual evolution of the individual (psychic → spiritual → supramental); show individual transformation opening onto terrestrial and collective salvation (Life Divine); distinguish cosmic direction from guaranteed individual attainment; one caveat | 5, 7 |
+| 2014 | Q8(c) | 15 | Discuss | Integral Yoga as an advancement over Pātañjala Yoga | Contrast metaphysics (puruṣa-prakṛti dualism and kaivalya vs non-dual transformation of nature), method (eight limbs and cessation vs aspiration-rejection-surrender and ascent-descent) and goal (isolation vs divinisation); keep the ṛtambharā caution; give a balanced verdict on "advancement" | 6, 8 |
+| 2015 | Q5(e) | 10 | Explain (short note) | Core nature and characteristics of Integral Yoga | Define Integral Yoga as synthesis of knowledge, devotion and works and transformation of the whole being; practical triad; double movement; aim of supramental transformation; one caveat | 6 |
+| 2016 | Q7(a) | 20 | Discuss | Evolution and Involution, and their difference from traditional Yoga philosophy | Define involution (graded self-concealment) and evolution (re-emergence of involved consciousness) with the core formula; then contrast traditional Pātañjala Yoga (isolation of puruṣa from prakṛti) with Aurobindo's transformation of nature; qualification | 3, 4, 6 |
+| 2017 | Q7(b) | 15 | Discuss | How Integral Yoga realises supramental consciousness | Integral Yoga method (triad, ascent/descent, Śakti) enacting the psychic → spiritual → supramental sequence; supramental descent as the goal beyond Mind; intersubjective-verification caveat | 2, 5, 6 |
 | 2018 | Q8(c) | 15 | What is / Describe | Evolution; triple transformation; gnostic being | Define evolution through prior involution; Matter-Life-Mind; exact three transformations; gnostic outcome; one caveat | 4, 5, 7 |
 | 2019 | Q8(b) | 15 | Explain | Unique position of Supermind | Definition and location; Real-Idea; One-Many mini-argument; Overmind/Mind distinction; involution/evolution functions; verification residual | 2 |
 | 2020 | Q8(a) | 20 | What does ... mean | Life Divine as possibility and inevitability | Define terrestrial divine life; possibility from involution; inevitability from teleology; individual/collective qualification; objections and verdict | 7 |
@@ -3534,217 +3392,157 @@ The verified primary Aurobindo record contains **nine questions: one in every ye
 
 ---
 
-# 2. Original Cumulative MCQs with explanations
+# CUMULATIVE MCQS
 
 Correct answers continue the file-wide rotation without interruption.
 
-### MCQ 28 - Conceptual synthesis
+### MCQ 28 — Conceptual synthesis
 
-**Q28.** Which formulation correctly handles Aurobindo's claim about "inevitability" (Lesson 7)?
+Which formulation correctly handles Aurobindo's claim about "inevitability" (Lesson 7)?
 
 A. It is an officially verified scientific forecast with a specified date.
 B. Every individual will automatically become supramental without any personal practice.
 C. It makes aspiration and surrender strictly irrelevant to the outcome.
-D. It is a cosmic teleological claim that must be distinguished from individual readiness, pace and
-   attainment.
+D. A cosmic teleological claim, distinct from individual readiness, pace and attainment.
 
-**Correct answer: D**
+**MCQ 28: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** No such scientific forecast exists in Aurobindo's system (Lesson 7, Part D.3).
-- **B is wrong.** This is the single most tested trap in Lesson 7 (Part D.3, Part I): individual
-  attainment is not automatic.
-- **C is wrong.** Aspiration and surrender remain significant precisely because inevitability is
-  cosmic, not individually guaranteed (Lesson 7, Part D.3).
-- **D is correct.** This is the core distinction stated across Lesson 7, Part D.3 and Part J.
+- **A — Incorrect:** No such scientific forecast exists in Aurobindo's system (Lesson 7, Part D.3).
+- **B — Incorrect:** This is the single most tested trap in Lesson 7 (Part D.3, Part I): individual attainment is not automatic.
+- **C — Incorrect:** Aspiration and surrender remain significant precisely because inevitability is cosmic, not individually guaranteed (Lesson 7, Part D.3).
+- **D — Correct:** This is the core distinction stated across Lesson 7, Part D.3 and Part J.
 
-### MCQ 29 - Applied comparison
+### MCQ 29 — Applied comparison
 
-**Q29.** Which pairing of school and precise point of disagreement with Aurobindo is correctly
-stated (Lesson 8)?
+Which pairing of school and precise point of disagreement with Aurobindo is correctly stated (Lesson 8)?
 
-A. Sāṃkhya: rejects Aurobindo's transformation of prakṛti because Sāṃkhya's goal is isolation of
-   puruṣa from prakṛti, not transformation of it.
+A. Sāṃkhya: its goal is isolation of puruṣa, not transformation of prakṛti.
 B. Buddhism: accepts a permanent Saccidānanda identical to Aurobindo's.
 C. Rāmānuja: denies that the world is real, exactly like Śaṃkara.
 D. Patañjali: agrees that prakṛti should be divinised rather than transcended.
 
-**Correct answer: A**
+**MCQ 29: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** This is the precise point of Lesson 8, Part E.3 and Part F: Sāṃkhya's goal is
-  discrimination/isolation, not transformation.
-- **B is wrong.** Buddhism denies a permanent Self/Absolute altogether (Lesson 8, Part E.5); it does
-  not accept Saccidānanda.
-- **C is wrong.** Rāmānuja explicitly affirms the reality of the world as God's body (Lesson 8, Part
-  E.4); he does not share Śaṃkara's illusionism.
-- **D is wrong.** Patañjali's goal is kaivalya — isolation, not divinisation (Lesson 6, Part D;
-  Lesson 8, Part E.2).
+- **A — Correct:** This is the precise point of Lesson 8, Part E.3 and Part F: Sāṃkhya's goal is discrimination/isolation, not transformation.
+- **B — Incorrect:** Buddhism denies a permanent Self/Absolute altogether (Lesson 8, Part E.5); it does not accept Saccidānanda.
+- **C — Incorrect:** Rāmānuja explicitly affirms the reality of the world as God's body (Lesson 8, Part E.4); he does not share Śaṃkara's illusionism.
+- **D — Incorrect:** Patañjali's goal is kaivalya — isolation, not divinisation (Lesson 6, Part D; Lesson 8, Part E.2).
 
-### MCQ 30 - Remedial distinction
+### MCQ 30 — Remedial distinction
 
-**Q30. [Remedial]** A student writes, "Aurobindo's Inconscient is just the psychological
-subconscious." What is the correct repair?
+A student writes, "Aurobindo's Inconscient is just the psychological subconscious." What is the correct repair?
 
-A. The Inconscient is a psychological category identical with Freud's unconscious.
-B. The Inconscient is a metaphysical category — consciousness in complete self-concealment at the
-   base of Matter — distinct from any psychological subconscious (Lesson 3, Part C.4).
+A. The Inconscient is a psychological category wholly identical with Freud's personal unconscious mind.
+B. A metaphysical category: consciousness self-concealed in Matter, not a subconscious.
 C. The Inconscient does not exist in Aurobindo's system at all.
 D. The Inconscient is identical with the surface ego.
 
-**Correct answer: B**
+**MCQ 30: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Conflating a metaphysical category with a specific psychological theory is exactly
-  the error being corrected (Lesson 3, Part K.2).
-- **B is correct.** This restates the precise distinction of Lesson 3, Part C.4 and Part H.
-- **C is wrong.** The Inconscient is a load-bearing concept in Aurobindo's account of involution
-  (Lesson 3, Part C.1-C.4).
-- **D is wrong.** The ego is a mind-life-body construction (Lesson 5, Part D); the Inconscient is the
-  nadir of concealment in Matter — entirely different registers.
+- **A — Incorrect:** Conflating a metaphysical category with a specific psychological theory is exactly the error being corrected (Lesson 3, Part K.2).
+- **B — Correct:** This restates the precise distinction of Lesson 3, Part C.4 and Part H.
+- **C — Incorrect:** The Inconscient is a load-bearing concept in Aurobindo's account of involution (Lesson 3, Part C.1-C.4).
+- **D — Incorrect:** The ego is a mind-life-body construction (Lesson 5, Part D); the Inconscient is the nadir of concealment in Matter — entirely different registers.
 
-### MCQ 31 - Problem of evil
+### MCQ 31 — Problem of evil
 
-**Q31.** Which statement best reflects Aurobindo's treatment of evil, correctly distinguished from
-an Advaitic response (Lesson 8, Part D)?
+Which statement best reflects Aurobindo's treatment of evil, correctly distinguished from an Advaitic response (Lesson 8, Part D)?
 
-A. Evil is finally unreal, exactly as in a strong-illusionist reading of Advaita, since the world
-   itself is maya.
+A. Evil is finally unreal, exactly as in a strong-illusionist reading of Advaita, since the world itself is maya.
 B. Evil is an eternal principle with the same ontological status as the Divine.
-C. Evil is real but not ultimate — a transitional effect of division and Inconscience — and must be
-   transformed by supramental descent, not merely explained away.
+C. Evil is real but not ultimate — a transitional effect of division and Inconscience, finally to be transformed.
 D. Evil is entirely the product of individual human free will, with no metaphysical root.
 
-**Correct answer: C**
+**MCQ 31: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Aurobindo explicitly cannot use this escape, because he affirms the world as real
-  manifestation, not maya (Lesson 8, Part D.1).
-- **B is wrong.** Evil is not an eternal co-equal principle; it is transitional (Lesson 8, Part D.2).
-- **C is correct.** This is the precise formula of Lesson 8, Part D.2 and D.5.
-- **D is wrong.** Free will alone cannot explain suffering rooted in the pre-moral Inconscient
-  (Lesson 8, Part D.1).
+- **A — Incorrect:** Aurobindo explicitly cannot use this escape, because he affirms the world as real manifestation, not maya (Lesson 8, Part D.1).
+- **B — Incorrect:** Evil is not an eternal co-equal principle; it is transitional (Lesson 8, Part D.2).
+- **C — Correct:** This is the precise formula of Lesson 8, Part D.2 and D.5.
+- **D — Incorrect:** Free will alone cannot explain suffering rooted in the pre-moral Inconscient (Lesson 8, Part D.1).
 
-### MCQ 32 - Controlled comparison
+### MCQ 32 — Controlled comparison
 
-**Q32.** Which Western comparison is paired with the correct, required disanalogy (Lesson 8, Part
-H)?
+Which Western comparison is paired with the correct, required disanalogy (Lesson 8, Part H)?
 
-A. Plotinus: identical, since both describe a "descent" from the One.
-B. Bergson: identical in every respect, since both use the word "evolution."
-C. Hegel: identical, since both use the word "Absolute."
-D. Teilhard de Chardin: both affirm matter and convergence, but Teilhard's Omega is Christological
-   and personalist, occurring at the end of the world-process, while Aurobindo's Supermind descends
-   into and transforms terrestrial life within manifestation.
+A. Plotinus: identical, since both describe a graded descent from the One to matter.
+B. Bergson: identical in every respect, since both use the word evolution for life's creative advance.
+C. Hegel: identical, since both make an Absolute central to the world-process.
+D. Teilhard: Omega is Christological and final, unlike Aurobindo's terrestrial supramental descent.
 
-**Correct answer: D**
+**MCQ 32: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Plotinian "return" is ascent away from matter; Aurobindo's completion is descent
-  into matter — an explicit, opposite disanalogy (Lesson 8, Part H).
-- **B is wrong.** Shared vocabulary ("evolution") does not establish identity; Bergson's élan
-  vital has no involution and no determinate goal (Lesson 8, Part H).
-- **C is wrong.** Hegel's Absolute is dialectical/conceptual, culminating in Absolute Knowing, not a
-  supramental, yogic, bodily-transforming process (Lesson 8, Part H).
-- **D is correct.** This restates the precise, required disanalogy from Lesson 8, Part H.
+- **A — Incorrect:** Plotinian "return" is ascent away from matter; Aurobindo's completion is descent into matter — an explicit, opposite disanalogy (Lesson 8, Part H).
+- **B — Incorrect:** Shared vocabulary ("evolution") does not establish identity; Bergson's élan vital has no involution and no determinate goal (Lesson 8, Part H).
+- **C — Incorrect:** Hegel's Absolute is dialectical/conceptual, culminating in Absolute Knowing, not a supramental, yogic, bodily-transforming process (Lesson 8, Part H).
+- **D — Correct:** This restates the precise, required disanalogy from Lesson 8, Part H.
 
-### MCQ 33 - Evidence boundary
+### MCQ 33 — Evidence boundary
 
-**Q33. [Remedial]** A student writes, "A July 2026 newspaper discussion of Integral Yoga proves
-that Supermind has been scientifically demonstrated." What is the precise correction?
+A student writes, "A July 2026 newspaper discussion of Integral Yoga proves that Supermind has been scientifically demonstrated." What is the precise correction?
 
-A. Contemporary commentary can establish continuing public interest, but it cannot verify a
-   metaphysical plane or a supramental descent.
-B. Newspaper commentary is itself a yogic perception and therefore proves the doctrine.
+A. Contemporary commentary shows public interest but cannot verify any metaphysical descent.
+B. Newspaper commentary is itself a direct yogic perception and therefore conclusively proves the doctrine.
 C. Any current reference automatically converts a philosophical claim into a scientific fact.
 D. Contemporary interest proves that a gnostic collectivity already exists.
 
-**Correct answer: A**
+**MCQ 33: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** It preserves the exact boundary between contemporary relevance and doctrinal
-  evidence.
-- **B is wrong.** Journalism is neither yogic perception nor an independent test of Supermind.
-- **C is wrong.** Relevance and truth are different questions; a current reference does not alter
-  evidentiary standards.
-- **D is wrong.** No public article establishes an already realised gnostic collectivity.
+- **A — Correct:** It preserves the exact boundary between contemporary relevance and doctrinal evidence.
+- **B — Incorrect:** Journalism is neither yogic perception nor an independent test of Supermind.
+- **C — Incorrect:** Relevance and truth are different questions; a current reference does not alter evidentiary standards.
+- **D — Incorrect:** No public article establishes an already realised gnostic collectivity.
 
-### MCQ 34 - Process and outcome
+### MCQ 34 — Process and outcome
 
-**Q34.** Which statement most precisely captures the relationship between Lesson 5's triple
-transformation and Lesson 7's gnostic being?
+Which statement most precisely captures the relationship between Lesson 5's triple transformation and Lesson 7's gnostic being?
 
 A. The gnostic being precedes and causes the triple transformation.
-B. Triple transformation is the process; the gnostic being is its completed outcome once
-   supramental transformation is achieved.
+B. The gnostic being completes the triple-transformation process.
 C. They are entirely unrelated doctrines from different, unconnected parts of Aurobindo's corpus.
 D. Triple transformation is only about the body, while the gnostic being is only about the mind.
 
-**Correct answer: B**
+**MCQ 34: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This reverses the causal/logical order established across Lessons 5 and 7.
-- **B is correct.** This is the precise relationship stated in Lesson 5 (Part C.1c) and Lesson 7
-  (Part C.2): the gnostic being is what supramental transformation produces.
-- **C is wrong.** They are directly, explicitly connected — the whole point of Lesson 5's final
-  stage is that it produces the being taught fully in Lesson 7.
-- **D is wrong.** Both triple transformation and the gnostic being concern the whole
-  being — mind, life and body together, not a single faculty (Lesson 5, Part C.1; Lesson 7, Part
-  C.2).
+- **A — Incorrect:** This reverses the causal/logical order established across Lessons 5 and 7.
+- **B — Correct:** This is the precise relationship stated in Lesson 5 (Part C.1c) and Lesson 7 (Part C.2): the gnostic being is what supramental transformation produces.
+- **C — Incorrect:** They are directly, explicitly connected — the whole point of Lesson 5's final stage is that it produces the being taught fully in Lesson 7.
+- **D — Incorrect:** Both triple transformation and the gnostic being concern the whole being — mind, life and body together, not a single faculty (Lesson 5, Part C.1; Lesson 7, Part C.2).
 
-### MCQ 35 - Integrated answer use
+### MCQ 35 — Integrated answer use
 
-**Q35.** In a 15-mark answer combining Integral Yoga (Lesson 6) and the ascetic/materialist
-partiality statement (Lesson 7), which structural move earns the most marks?
+In a 15-mark answer combining Integral Yoga (Lesson 6) and the ascetic/materialist partiality statement (Lesson 7), which structural move earns the most marks?
 
-A. Discuss Integral Yoga and the ascetic/materialist statement as two completely separate,
-   unrelated answers within the same response.
+A. Discuss Integral Yoga and the ascetic/materialist statement as two completely separate, unrelated answers within the same response.
 B. Discuss only the ascetic/materialist statement and omit Integral Yoga entirely.
-C. Show that Integral Yoga is the practical method by which Spirit-Matter partiality is
-   overcome — i.e., link the two doctrines through the triple transformation and Life Divine.
+C. Show that Integral Yoga is the practical method overcoming Spirit-Matter partiality, linking the two doctrines.
 D. Discuss only Integral Yoga and omit the ascetic/materialist statement entirely.
 
-**Correct answer: C**
+**MCQ 35: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Treating connected doctrines as unrelated loses the synthesis credit that
-  examiners specifically reward (Lesson 9, Part A master argument map).
-- **B is wrong.** Omitting Integral Yoga when it is directly relevant under-answers a combined
-  question.
-- **C is correct.** This is the precise linking move modelled in the proportionate argument above
-  and demonstrated by the conceptual links required in the 2025 and 2026 questions.
-- **D is wrong.** Omitting the ascetic/materialist synthesis likewise under-answers the question if
-  asked.
+- **A — Incorrect:** Treating connected doctrines as unrelated loses the synthesis credit that examiners specifically reward (Lesson 9, Part A master argument map).
+- **B — Incorrect:** Omitting Integral Yoga when it is directly relevant under-answers a combined question.
+- **C — Correct:** This is the precise linking move modelled in the proportionate argument above and demonstrated by the conceptual links required in the 2025 and 2026 questions.
+- **D — Incorrect:** Omitting the ascetic/materialist synthesis likewise under-answers the question if asked.
 
-### MCQ 36 - Final evidentiary correction
+### MCQ 36 — Final evidentiary correction
 
-**Q36. [Remedial]** Final recurrent-error check: a student writes, "Aurobindo's system has now been
-fully scientifically verified and is beyond philosophical criticism." What is the precise,
-course-final correction?
+Final recurrent-error check: a student writes, "Aurobindo's system has now been fully scientifically verified and is beyond philosophical criticism." What is the precise, course-final correction?
 
 A. Philosophical criticism does not apply to any spiritual or yogic philosophy whatsoever.
 B. The claim is accurate and no further qualification is needed.
-C. Aurobindo's system has been scientifically falsified and should be entirely rejected.
-D. This claim overstates the doctrine's evidential status; Aurobindo's system offers strong
-   internal coherence and a genuine metaphysical synthesis, but the supramental descent, the
-   involution premise and the theodicy remain philosophically contested and not publicly verified
-   (Lesson 8, Part I).
+C. Aurobindo's system has been scientifically falsified and should therefore be entirely rejected.
+D. The claim overstates the evidence; descent, involution and theodicy remain contested.
 
-**Correct answer: D**
+**MCQ 36: D**
 
-**Why each option is right or wrong:**
-- **A is wrong.** This session has applied philosophical criticism systematically and fairly to a
-  spiritual/yogic philosophy throughout Lesson 8; the claim that criticism cannot apply is itself
-  the error being corrected.
-- **B is wrong.** This ignores every qualification carefully built across Lesson 8.
-- **C is wrong.** "Falsified" overstates the case in the opposite direction; Aurobindo's claims are
-  mostly non-falsifiable in the relevant sense, not falsified (Lesson 8, Part C.8).
-- **D is correct.** This is the exact, balanced, session-wide verdict of Lesson 8 (Part C.7, Part
-  I) — neither uncritical acceptance nor blanket dismissal.
+- **A — Incorrect:** This session has applied philosophical criticism systematically and fairly to a spiritual/yogic philosophy throughout Lesson 8; the claim that criticism cannot apply is itself the error being corrected.
+- **B — Incorrect:** This ignores every qualification carefully built across Lesson 8.
+- **C — Incorrect:** "Falsified" overstates the case in the opposite direction; Aurobindo's claims are mostly non-falsifiable in the relevant sense, not falsified (Lesson 8, Part C.8).
+- **D — Correct:** This is the exact, balanced, session-wide verdict of Lesson 8 (Part C.7, Part I) — neither uncritical acceptance nor blanket dismissal.
 
 
 
-### MCQ 37 - System dependency
+### MCQ 37 — System dependency
 
 Which removal would most directly make the emergence of consciousness from Matter unintelligible within Aurobindo's own system?
 
@@ -3753,72 +3551,70 @@ B. Removing the distinction between knowledge and devotion
 C. Removing collective evolution while retaining individual transformation
 D. Removing the comparison with Patanjali
 
-**Correct answer: A**
+**MCQ 37: A**
 
-**Why each option is right or wrong:**
-- **A is correct.** Without prior concealment, evolution becomes emergence from absolute absence and loses its Aurobindonian ground.
-- **B is wrong.** The synthesis of paths matters to Integral Yoga, but the cosmological emergence problem arises earlier.
-- **C is wrong.** The collective horizon can be disputed without destroying the Matter-Life-Mind sequence.
-- **D is wrong.** Patanjali clarifies contrast but does not ground Aurobindo's cosmology.
+- **A — Correct:** Without prior concealment, evolution becomes emergence from absolute absence and loses its Aurobindonian ground.
+- **B — Incorrect:** The synthesis of paths matters to Integral Yoga, but the cosmological emergence problem arises earlier.
+- **C — Incorrect:** The collective horizon can be disputed without destroying the Matter-Life-Mind sequence.
+- **D — Incorrect:** Patanjali clarifies contrast but does not ground Aurobindo's cosmology.
 
-### MCQ 38 - Possibility and inevitability
+### MCQ 38 — Possibility and inevitability
 
 Which formulation best preserves the difference between possibility and inevitability of Life Divine?
 
-A. Possibility and inevitability are synonyms because both mean every person succeeds.
-B. Possibility follows from Spirit being involved in Matter; inevitability follows from the claimed cosmic direction, while individual attainment remains contingent.
+A. Possibility and inevitability are mere synonyms, because both simply mean that every person finally succeeds.
+B. Possibility from involved Spirit; inevitability from cosmic direction; attainment contingent.
 C. Possibility is scientific proof, while inevitability is religious faith.
 D. Possibility concerns only society, while inevitability concerns only private liberation.
 
-**Correct answer: B**
+**MCQ 38: B**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Cosmic direction never entails automatic attainment for each person.
-- **B is correct.** It assigns the two claims to their distinct arguments and retains individual readiness and consent.
-- **C is wrong.** Neither claim is established as ordinary scientific proof.
-- **D is wrong.** Both claims concern the terrestrial evolutionary horizon, with individual and collective dimensions.
+- **A — Incorrect:** Cosmic direction never entails automatic attainment for each person.
+- **B — Correct:** It assigns the two claims to their distinct arguments and retains individual readiness and consent.
+- **C — Incorrect:** Neither claim is established as ordinary scientific proof.
+- **D — Incorrect:** Both claims concern the terrestrial evolutionary horizon, with individual and collective dimensions.
 
-### MCQ 39 - Best graded verdict
+### MCQ 39 — Best graded verdict
 
 Which conclusion is philosophically strongest after considering coherence, phenomenology and verification?
 
-A. Aurobindo's system is proved because it is internally coherent.
+A. Aurobindo's whole system is proved simply because it is internally coherent throughout.
 B. The system is meaningless because it is not reducible to laboratory science.
-C. The system is an integrated and conditionally defensible metaphysics whose strongest achievement is synthesis and whose weakest point is public verification of its supramental future.
-D. Every objection disappears once the word Supermind is defined.
+C. A conditionally defensible synthesis, weak on public verification.
+D. Every objection disappears the moment the single word Supermind is clearly defined.
 
-**Correct answer: C**
+**MCQ 39: C**
 
-**Why each option is right or wrong:**
-- **A is wrong.** Coherence is necessary for a system but does not prove its premises.
-- **B is wrong.** Metaphysical and phenomenological claims can be meaningful without being laboratory hypotheses.
-- **C is correct.** It preserves achievement, scope and residual uncertainty in one calibrated judgement.
-- **D is wrong.** Definition does not answer emergence, evil, teleology or verification objections.
+- **A — Incorrect:** Coherence is necessary for a system but does not prove its premises.
+- **B — Incorrect:** Metaphysical and phenomenological claims can be meaningful without being laboratory hypotheses.
+- **C — Correct:** It preserves achievement, scope and residual uncertainty in one calibrated judgement.
+- **D — Incorrect:** Definition does not answer emergence, evil, teleology or verification objections.
 
 ---
 
-# 3. Original 10/15/20-mark Mains Practice with complete ORIGINAL model answers
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Original 10-mark question
 
-**Question:** Distinguish Supermind, Overmind and ordinary Mind, and state why the distinction
-matters for evolution. Answer in about 150 words.
+**Question:** Why does Sri Aurobindo regard the human being as a "transitional being" rather than
+the final product of evolution? Answer in about 150 words.
 
 **Model answer**
 
-Supermind is Aurobindo's Truth-Consciousness or Real-Idea: it knows by identity and holds unity and
-multiplicity together without fragmentation. Overmind is spiritually vast but distributes the
-Divine truth into relatively independent powers, letting each act as if complete in itself. Ordinary
-Mind knows by separation, representing objects through concepts and signs, and is therefore partial
-and error-prone. The distinction matters for evolution because it fixes exactly what "the next
-evolutionary step" must be: not a refinement of Mind, and not even an Overmind-level illumination
-or cosmic universality, but specifically the descent of Supermind, which alone can change the
-fundamental, divisive law of mind, life and body rather than merely widening or illuminating them
-from above. Confusing Overmind with Supermind, or Supermind with a very developed intellect,
-therefore directly misstates what Aurobindo's entire evolutionary and yogic programme is aiming at.
+Aurobindo calls the human being transitional because Mind, the defining human power, is an
+intermediate rung in his hierarchy of planes, not its summit. Mind knows by separation and
+representation; it can seek, approximate and aspire to truth, but cannot possess Truth-Consciousness
+directly. Since evolution is the progressive manifestation of a consciousness already involved in
+Matter, and Supermind stands above Mind, humanity is the stage at which evolution first becomes
+self-aware, not the stage at which it stops. Man is therefore a bridge: the first being able to
+collaborate consciously, through Integral Yoga, in his own further evolution toward the supramental.
+This matters because it refuses to treat present human nature as final, grounds the possibility of
+the gnostic being and the Life Divine, and distinguishes Aurobindo's open, teleological evolution
+from any view that fixes the human form as evolution's completed goal.
 
-**Why this earns marks:** it defines all three precisely, states the evolutionary stakes of the
-distinction, and names the single most common conflation this session repeatedly warns against.
+**Why this earns marks:** it locates "transitional being" precisely in the plane-hierarchy (Mind
+below Supermind), ties it to the definition of evolution and the possibility of the gnostic being,
+and states the examinable payoff instead of merely repeating the phrase.
 
 ## Original 15-mark question
 
@@ -3835,6 +3631,8 @@ This priority determines the exact sequence of triple transformation. **Psychic 
 The strongest objection is that this fourfold psychology appears ontologically crowded and rests on first-person yogic evidence. Aurobindo's reply is functional: one term cannot coherently be universal and immutable, individually presiding, experientially evolving and egoically organising at once. The distinction succeeds within his phenomenology, although ordinary public verification remains limited.
 
 Thus psychic transformation is first not in cosmic chronology but in the causal order of deliberate transformation: it creates the true individual centre capable of receiving higher consciousness without distortion.
+
+**Why this earns marks:** it derives the priority of psychicisation from the instability of the ego rather than asserting it, fixes the exact psychic → spiritual → supramental order, keeps Ātman, Jīvātman, psychic being and ego distinct, and closes with a balanced reply to the ontological-economy objection.
 
 ## Original 20-mark question
 
@@ -3882,7 +3680,7 @@ than standing outside the argument.
 
 ---
 
-# 4. Common-Error Remediation
+# REMEDIATION
 
 | Error | Why it fails | Repair move |
 |---|---|---|
@@ -3907,7 +3705,7 @@ than standing outside the argument.
 
 ---
 
-# 5. Master Comparisons/Causal Chains/Objection-Reply Maps
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
 ## Master causal chain
 
@@ -3970,7 +3768,7 @@ PSYCHIC: true centre, sincerity, purification
 
 ---
 
-# 6. Complete Consolidated Register Notes
+# COMPLETE CONSOLIDATED REGISTER NOTES
 
 ## Whole-system spine
 
@@ -4128,10 +3926,15 @@ answer to evil, not a full retrospective justification.
 - Bergson/Hegel/Teilhard/Nietzsche/Whitehead/Plotinus comparisons are illustrative only. Always
   state the disanalogy; never reduce Aurobindo to a Western thinker.
 
-## Verified question map (2018–2026)
+## Verified question map (2013–2026)
 
 | Year | Question | Conceptual path | Taught in |
 |---|---|---|---|
+| 2013 | Q5(e), 10 | cosmic salvation through individual spiritual evolution | Lessons 5, 7 |
+| 2014 | Q8(c), 15 | Integral Yoga as advancement over Pātañjala Yoga | Lessons 6, 8 |
+| 2015 | Q5(e), 10 | Integral Yoga (short note) | Lesson 6 |
+| 2016 | Q7(a), 20 | Evolution and Involution vs traditional Yoga | Lessons 3, 4, 6 |
+| 2017 | Q7(b), 15 | Integral Yoga and the realisation of supramental consciousness | Lessons 6, 2, 5 |
 | 2018 | Q8(c), 15 | evolution + triple transformation + gnostic being | Lesson 5 |
 | 2019 | Q8(b), 15 | unique position of Supermind | Lesson 2 |
 | 2020 | Q8(a), 20 | Life Divine: possibility + inevitability | Lesson 7 |
@@ -4181,27 +3984,27 @@ DIRECT THESIS
 
 ---
 
-# 7. Final Coverage Matrix
+# COVERAGE MATRIX
 
 | Lesson | Basic doctrine and vocabulary | Advanced argument/refinement | Objections, comparisons and residual | Verified question links | Local practice |
 |---:|---|---|---|---|---|
-| 1 | Saccidananda, cit-shakti, dynamic Absolute, real manifestation | transcendence/immanence; anti-illusionism; world-meaning | Advaita, Ramanuja, Samkhya, materialism; change-in-Absolute residual | 2020, 2025 foundations | 3 MCQs + original 10-mark model |
-| 2 | Supermind, Truth-Consciousness, Real-Idea, three poises, full planes, Overmind, knowledge by identity | explicit One-Many mini-argument; graded knowledge; ignorance as separative mode | Mind/Overmind distinctions; verification and metaphor objections | 2019 Q8(b), 2023 Q5(e) | 3 MCQs + original 15-mark model |
-| 3 | involution, concealment, Matter, Inconscient, ignorance | logical precondition distinct from evolution; latent power not miniature preformation | materialist emergence, Samkhya, Advaita; question-begging residual | 2018 and 2020 support | 3 MCQs + original 10-mark model |
-| 4 | Matter-Life-Mind, teleology, Darwin, transitional humanity, conscious evolution | novelty within involved possibility; individual/cosmic/collective dimensions | naturalism, unfalsifiability, category-level distinction | 2018 evolution limb | 3 MCQs + original 15-mark model |
-| 5 | ego, Atman, jivatman, psychic being; fourfold individual; exact triple transformation | psychicisation's causal priority; spiritual vs supramental change | Samkhya purusha; ontological economy and public-evidence residual | 2018 Q8(c), 2021 Q8(a) | 3 MCQs + original 15-mark model |
-| 6 | Integral Yoga; knowledge-devotion-works; aspiration-rejection-surrender; Shakti; ascent/descent | liberation as beginning; all life as Yoga; rtambhara caution | Patanjali and Advaita; passivity and unverifiable-descent objections | 2022 Q8(b), 2024 Q7(c), 2026 Q6(b) | 3 MCQs + original 15-mark model |
-| 7 | gnostic being, Life Divine, possibility/inevitability, collective evolution, ascetic/materialist partiality | embodied truth-action; cosmic direction vs individual readiness | ascetic, materialist, elitism and speculative-future residuals | 2020 Q8(a), 2025 Q8(b) | 3 MCQs + original 20-mark model |
-| 8 | integral realism under rival pressure; evil, hierarchy, teleology, verification | full purvapaksa-reply-residual method; graded verdict | Advaita, Samkhya, Patanjali, Buddhism, Ramanuja, Gita, materialism and controlled Western parallels | evaluative use across all nine | 3 MCQs + original 20-mark model |
-| 9 | whole chain from Saccidananda to gnostic life | dependency test and conditional coherence | strongest system-level objections; graded final verdict | complete links-only consolidation | 3 MCQs + original 20-mark model |
+| 1 | Saccidananda, cit-shakti, dynamic Absolute, real manifestation | transcendence/immanence; anti-illusionism; world-meaning | Advaita, Ramanuja, Samkhya, materialism; change-in-Absolute residual | 2020, 2025 foundations | 2 MCQs + original 10-mark model |
+| 2 | Supermind, Truth-Consciousness, Real-Idea, three poises, full planes, Overmind, knowledge by identity | explicit One-Many mini-argument; graded knowledge; ignorance as separative mode | Mind/Overmind distinctions; verification and metaphor objections | 2019 Q8(b), 2023 Q5(e), 2017 Q7(b) | 4 MCQs (incl. Lesson 1 → 2 bridge) + original 15-mark model |
+| 3 | involution, concealment, Matter, Inconscient, ignorance | logical precondition distinct from evolution; latent power not miniature preformation | materialist emergence, Samkhya, Advaita; question-begging residual | 2016 Q7(a); 2018 and 2020 support | 3 MCQs + original 10-mark model |
+| 4 | Matter-Life-Mind, teleology, Darwin, transitional humanity, conscious evolution | novelty within involved possibility; individual/cosmic/collective dimensions | naturalism, unfalsifiability, category-level distinction | 2016 Q7(a); 2018 evolution limb | 3 MCQs + original 15-mark model |
+| 5 | ego, Atman, jivatman, psychic being; fourfold individual; exact triple transformation | psychicisation's causal priority; spiritual vs supramental change | Samkhya purusha; ontological economy and public-evidence residual | 2013 Q5(e), 2018 Q8(c), 2021 Q8(a) | 3 MCQs + original 15-mark model |
+| 6 | Integral Yoga; knowledge-devotion-works; aspiration-rejection-surrender; Shakti; ascent/descent | liberation as beginning; all life as Yoga; rtambhara caution | Patanjali and Advaita; passivity and unverifiable-descent objections | 2014 Q8(c), 2015 Q5(e), 2017 Q7(b), 2022 Q8(b), 2024 Q7(c), 2026 Q6(b) | 3 MCQs + original 15-mark model |
+| 7 | gnostic being, Life Divine, possibility/inevitability, collective evolution, ascetic/materialist partiality | embodied truth-action; cosmic direction vs individual readiness | ascetic, materialist, elitism and speculative-future residuals | 2013 Q5(e), 2020 Q8(a), 2025 Q8(b) | 3 MCQs + original 20-mark model |
+| 8 | integral realism under rival pressure; evil, hierarchy, teleology, verification | full purvapaksa-reply-residual method; graded verdict | Advaita, Samkhya, Patanjali, Buddhism, Ramanuja, Gita, materialism and controlled Western parallels | 2014 Q8(c), 2016 Q7(a); evaluative use across all fourteen | 2 MCQs + original 20-mark model |
+| 9 | whole chain from Saccidananda to gnostic life | dependency test and conditional coherence | strongest system-level objections; graded final verdict | complete links-only consolidation | 4 MCQs (incl. Lesson 8 → 9 bridge) + original 20-mark model |
 
 **Mandatory-item check:** dynamic Absolute is distinct from Supermind; Saccidananda and real manifestation are explicit; Supermind, Overmind and planes are separated; knowledge by identity and the mini-argument are explicit; involution is distinct from evolution; Matter-Life-Mind and transitional humanity are explicit; ego/Atman/jivatman/psychic being and the fourfold individual are explicit; triple transformation retains exact order; Integral Yoga includes synthesis of paths, aspiration-rejection-surrender, Shakti and ascent/descent; gnostic being, Life Divine, collective evolution, possibility/inevitability, ascetic/materialist partiality, evil, verification, teleology and hierarchy are all mapped at lesson level.
 
-**Practice check:** each lesson contains conceptual, applied and remedial MCQs with explanations of every option, plus an original Mains drill where pedagogically useful. The final arc contains additional cumulative MCQs and complete original 10-, 15- and 20-mark models. Verified PYQs appear only as links and answer approaches.
+**Practice check:** each lesson contains two to four MCQs — conceptual, applied and remedial, with a cross-lesson bridge check opening Lessons 2 and 9 — and every option is explained, plus an original Mains drill where pedagogically useful. The final arc contains additional cumulative MCQs and complete original 10-, 15- and 20-mark models. Verified PYQs appear only as links and answer approaches.
 
 ---
 
-# 8. Source and Verification Ledger
+# SOURCE LEDGER
 
 ## Doctrinal sources consulted
 
@@ -4216,9 +4019,10 @@ DIRECT THESIS
 
 ## Verified question sources
 
-- Continuous Indian Philosophy Paper I ledger for 2018-2025: eight primary Aurobindo questions, exactly one in each year.
-- Official-paper-based 2026 supplement: Q6(b), 15 marks, on Integral Yoga, supramental consciousness and triple transformation.
-- **Absence statement:** none of the years 2018-2026 is absent from the primary Aurobindo question record; there are nine verified questions in total.
+- Repository verified Philosophy Paper I question ledger (`solved_pyqs\topics\philosophy-paper-i\sri-aurobindo.md` and the dated `solved_pyqs\papers\<year>\philosophy-paper-1.md` entries): fourteen primary Aurobindo parts, one in every year from 2013 through 2026.
+- Restored earlier parts (links, directive, demand and approach only): 2013 Q5(e) 10m, 2014 Q8(c) 15m, 2015 Q5(e) 10m, 2016 Q7(a) 20m, 2017 Q7(b) 15m. Their exact wording, marks and question numbers are quoted from this repository ledger; this edition does not claim an independent reading of the original printed UPSC papers.
+- Continuous 2018–2025 record: eight primary Aurobindo questions, exactly one in each year; 2026 supplement: Q6(b), 15 marks, on Integral Yoga, supramental consciousness and triple transformation.
+- **Absence statement:** none of the years 2013-2026 is absent from the primary Aurobindo question record; there are fourteen verified parts in total.
 - **Boundary:** no question was invented, paraphrased as an alleged exact quotation, or supplied with a model response in this edition.
 
 ## Contemporary-context boundary
@@ -4231,3 +4035,18 @@ A July 2026 opinion article, *Aurobindo's Integral Yoga* in *The Statesman*, was
 - Western parallels are illustrative and always paired with a disanalogy; no historical influence is asserted without evidence.
 - Claims of inevitability are presented as Aurobindo's cosmic teleology, not as a dated scientific forecast.
 - Yogic experience is treated as first-person disciplined evidence within the system, while the residual problem of ordinary intersubjective verification is stated openly.
+
+## SOURCE-MANIFEST GATE
+
+Eight-row honesty gate for the sources behind this edition. The two excluded categories are marked `not relevant` by live-session policy; every other row is reported exactly as checked.
+
+| Source category | Status | Evidence or reason |
+|---|---|---|
+| canonical markdown | checked | upsc-ai-kit\knowledge\Philosophy\paper-1\indian\Aurobindo.md — canonical Aurobindo owner |
+| final learner package | not relevant | Excluded by live-session policy; no final learner package was used as a source for this edition |
+| layered/complete session | checked | upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\paper-i-indian-philosophy\philosophy-paper-i-indian-philosophy-09_Learning-Session.md |
+| solved workbook | not relevant | Excluded by live-session policy; the separate v2 solved workbook is not cited in this edition |
+| advanced dossier | checked | upsc-ai-kit\knowledge\Philosophy\_advanced\Indian-Philosophy-Dossier.md, section 9 (Aurobindo) |
+| ocr books | checked | C. D. Sharma, A Critical Survey of Indian Philosophy, searchable PDF pages 379-383 |
+| pyqs through 2026 | checked | Repository verified Philosophy Paper I ledger (solved_pyqs) for 2013-2026; fourteen Aurobindo parts |
+| official live sources | checked | The Statesman, 'Aurobindo's Integral Yoga' (July 2026), used only for contemporary context, not doctrine |
