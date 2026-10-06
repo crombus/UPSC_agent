@@ -6,7 +6,9 @@
 
 ## How to Use This Live Edition
 
-Read the visual first, reconstruct the argument, test the strongest objection and then attempt the local practice. The frozen local counts are **3, 2, 4, 4, 3, 2, 3, 4, 2, 4, 3, 3, 4**. Correct options continue silently A → B → C → D across all 53 questions.
+Read each visual, explain its reasoning in your own words, and then test the strongest objection. Attempt the complete local question set before consulting its separate explanations. Each lesson also contains an original short Mains task; the final practice asks you to combine the doctrines. A demanding argument is developed through internal parts rather than postponed to revision.
+
+“Advanced” in the roadmap identifies conceptual difficulty, not permission to skip the syllabus or PYQ argument. All original questions, model judgments and hypothetical examples are analytical practice, not UPSC questions, official answers or observed cases.
 
 ## Learning Roadmap
 
@@ -30,14 +32,13 @@ Read the visual first, reconstruct the argument, test the strongest objection an
 
 ## Lesson 1 — What a Political Ideology Is; Descriptive and Critical Senses; Boundaries
 
-**Progress:** 1 / 13 | **Stage:** Foundation | **Exact subtopic:** What a Political Ideology Is; Descriptive and Critical Senses; Boundaries
+Progress: 1 / 13 | Stage: Foundation | Subtopic: What a Political Ideology Is; Descriptive and Critical Senses; Boundaries
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — descriptive/critical ideology; Gauba's concept-of-ideology discussion.
+- **CA search:** Not required for the conceptual distinction; no event-search claim is made.
+- **CA found:** No current item is used to establish the definition.
 
 ### VISUAL — First map of the problem
 
@@ -47,15 +48,15 @@ EXISTING ORDER -> diagnosis -> values -> strategy -> desired order
 DESCRIPTIVE ideology != MARXIAN ideology-critique
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Shared concern with domination generates different explanations and therefore different remedies.*
 
 ### Learner-first intuition
 
 An ideology is more than a policy preference: it connects an account of persons and power to a diagnosis of injustice, a strategy and a picture of justified order. Begin every answer by asking what the doctrine treats as the deepest source of domination.
 
-### Technical doctrine and full argument
+### 1. From an everyday disagreement to an ideology
 
-## 0. ONE-SCREEN MAP
+#### Authority, property and class: three entrances
 
 ```text
 CAPITALISM / HIERARCHY / COERCION
@@ -90,6 +91,14 @@ hierarchies
 socially rooted framework through which historical relations appear natural, universal or
 inevitable. Ideology is therefore not merely a party manifesto, slogan or insult.
 
+Consider a hypothetical Indian workplace. Three reformers agree that workers should not be dominated. One asks who authorises compulsory decisions; another asks who controls productive assets; the third asks how wage dependence is reproduced by the whole production system. Their shared moral concern does not erase their different diagnoses.
+
+⚠️ The example sorts questions, not political parties. No workplace description by itself proves which ideology is true. Nor is each tradition confined to one concern: social anarchists criticise property, and Marxists criticise coercion. The difference is the organising explanation.
+
+**Four neighbouring expressions:** a *programme* specifies measures; a *doctrine* states a position; an *ideology* connects diagnosis, evaluation and action; *political philosophy* examines their justifications. **Propaganda** is persuasive communication organised to secure allegiance, often selectively or manipulatively. It can contain true information and transmit an ideology, but its persuasive function is not identical to a worldview's conceptual structure.
+
+✅ Gauba also records the older sense of ideology as a **science of ideas**, associated with Destutt de Tracy. This is neither the neutral worldview sense nor Marx's critical account of naturalisation. Asking where an idea originates does not alone establish whether it is valid: a socially situated argument can still withstand criticism.
+
 ### Shared comparison axes
 
 | Axis | Anarchism | Marxism | Socialism as a family |
@@ -112,7 +121,7 @@ inevitable. Ideology is therefore not merely a party manifesto, slogan or insult
 
 ### Local exact PYQ approach
 
-No single owned PYQ is confined to definition alone; use these distinctions in every ideology answer.
+Use these distinctions when a question asks you to explain, compare or evaluate a political ideology.
 
 ### Revision notes
 
@@ -123,76 +132,93 @@ No single owned PYQ is confined to definition alone; use these distinctions in e
 5. Anarchism treats coercive hierarchy as presumptively suspect.
 6. Socialism subjects productive power to social purposes through several institutional routes.
 7. Marxism explains domination through historically specific class relations and modes of production.
-8. Liberalism and neoliberalism are foils; fascism and neighbouring syllabus owners are not imported.
+8. Liberalism and neoliberalism serve comparisons; fascism is not an additional ideology developed here.
 
 ### Local MCQs — questions before answers
 
-### Question 1
+**MCQ 1**
 
-The single question that most efficiently sorts anarchism, socialism and Marxism is:
+Which comparison identifies the organising disagreement among the three ideologies?
 
-A. what is the deepest cause of domination -- coercive authority, uncontrolled property, or the capitalist mode of production
-B. which ideology is the oldest historically
-C. which ideology has the largest number of followers today
-D. whether the ideology originated in Europe or in Asia
+A. Whether authority, productive ownership or class relations primarily explain domination.
+B. Whether liberty, equality and cooperation are desirable social goals.
+C. Whether reform or revolution is preferred, irrespective of the diagnosis justifying that method.
+D. Whether individuals or associations administer services in the desired order of productive life.
 
-### Question 2
+**MCQ 2**
 
-The 'pejorative' or Marxian sense of the word ideology refers to:
+Which account uses ideology in its Marxian critical sense?
 
-A. any organised belief-system that guides political action
-B. a socially rooted framework that makes historically specific, class-bound relations appear natural, universal or inevitable
-C. a fixed authoritative teaching handed down by a party
-D. a concrete list of policy measures for an election
+A. An action-guiding worldview connecting social diagnosis with values and a programme.
+B. A social framework naturalising historically specific relations.
+C. An explicit political commitment adopted after reflective examination of rival doctrines.
+D. A critical investigation of whether existing ownership relations satisfy public justification.
 
-### Question 3
+**MCQ 3**
 
-Ideology is distinguished from PROPAGANDA principally because:
+A movement explains social obligations through a connected view of persons, power and social aims, then circulates selective messages to win support. What distinguishes the first activity?
 
-A. ideology is always false while propaganda is always true
-B. propaganda contains a theory of history while ideology does not
-C. ideology offers a diagnosis and a picture of the good order, whereas propaganda is manipulative persuasion indifferent to truth
-D. the two are exact synonyms in political theory
+A. Audience approval functioning as a test of the view's truth.
+B. The techniques used to induce adherence across changing audiences.
+C. An account linking diagnosis, justification and a proposed social order.
+D. An election programme listing measures while leaving their philosophical grounds unspecified.
 
 #### Answers and explanations
 
-**MCQ 1: A**
+**MCQ 1 — Answer and explanation**
 
-- **A — Correct:** The core 'discriminating question' identifies the diagnosed cause of domination (authority / property / mode of production), which then fixes the cure.
-- **B — Incorrect:** Historical priority cannot classify doctrines whose decisive differences concern the source of domination.
-- **C — Incorrect:** Current popularity measures social reach, not whether authority, property or production is treated as primary.
-- **D — Incorrect:** Geographical origin is intellectual history, not a criterion for separating these theories of domination.
+**Correct answer: A**
 
-**MCQ 2: B**
+- **A — Correct:** Authority, productive property and class relations identify different organising diagnoses; these then constrain the remedy.
+- **B — Incorrect:** Desirable values overlap; endorsing cooperation does not distinguish the source each theory assigns to domination.
+- **C — Incorrect:** Method matters, but bracketing diagnosis cannot explain why either reform or revolution is justified.
+- **D — Incorrect:** Administrative arrangements are downstream; similar associations can serve very different conceptions of ownership and legitimacy.
 
-- **A — Incorrect:** This is the neutral descriptive sense of ideology, whereas the stem asks for Marx’s critical usage.
-- **B — Correct:** In the Marxian critique (the Marxian account), ideology is 'not merely a lie' but a framework naturalising contingent relations -- distinct from the neutral, descriptive sense.
-- **C — Incorrect:** An authoritative party teaching is a doctrine or orthodoxy, not ideology as socially produced misrecognition.
-- **D — Incorrect:** An election platform is a programme of measures, far narrower than a framework that naturalises social relations.
+**MCQ 2 — Answer and explanation**
 
-**MCQ 3: C**
+**Correct answer: B**
 
-- **A — Incorrect:** The contrast reverses the issue: propaganda may be true or false, while ideology is not defined as invariably false.
-- **B — Incorrect:** Ideologies often contain historical narratives; possessing one is not what distinguishes propaganda from them.
-- **C — Correct:** Ideology (diagnosis + picture of the good order + strategy) differs from propaganda (manipulation indifferent to truth), and from philosophy, doctrine and programme.
-- **D — Incorrect:** Treating the terms as synonyms erases the difference between a worldview and truth-indifferent manipulation.
+- **A — Incorrect:** This gives the descriptive category of ideology without specifying its naturalising critical function.
+- **B — Correct:** Treating contingent relations as natural hides their historical production and their susceptibility to change.
+- **C — Incorrect:** Reflective commitment may describe an adherent's attitude; critical ideology analysis concerns a framework's social function.
+- **D — Incorrect:** Public justification tests a relation instead of explaining how that relation becomes taken for granted.
+
+**MCQ 3 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Audience approval measures acceptance, not whether the movement's account of social obligation is justified.
+- **B — Incorrect:** Inducing adherence describes the second, persuasive activity rather than the grounds supplied by the first.
+- **C — Correct:** Ideology supplies a connected explanatory and normative account; persuasion may transmit that account but is not its structure.
+- **D — Incorrect:** Specifying measures without their grounds describes a programme, narrower than the view of persons and justified order in the case.
+
+### Original Mains check — worldview and critique
+
+**Question (10 marks; 150-word ceiling):** Explain why ideology as an action-guiding worldview must be distinguished from ideology as a critique of naturalised power.
+
+**Model answer:** A worldview connects social description, values and a strategy; ideology critique asks how contingent relations become apparently natural. Gauba's action-oriented account explains how commitments mobilise groups. Marx's critique instead investigates how property and class relations can appear universal.
+
+An anarchist worldview, for example, diagnoses coercive authority and proposes federation. A Marxian critique of an apparently neutral wage contract asks whether productive dependence remains concealed. Describing the proposal and criticising its assumptions are different tasks.
+
+Destutt de Tracy's older science-of-ideas sense adds a third usage: investigation of idea formation. Social origin alone does not settle validity. A defensible answer therefore states its sense, reconstructs the argument and tests it rather than treating ideology as either automatically true or automatically false.
+
+**Why this earns marks:** It explains the distinction through Gauba, Marx and Tracy, uses anarchism as an example, and avoids substituting a party programme for conceptual analysis.
 
 ### Transition
 
-Lesson 2 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+If an ideology must justify its proposed order, the first test is political command itself: why should one institution's decision bind autonomous equals? That is anarchism's starting question.
 
 ---
 
 ## Lesson 2 — Anarchism Foundations: Anti-State Argument, Autonomy and Thinker Lineage
 
-**Progress:** 2 / 13 | **Stage:** Foundation | **Exact subtopic:** Anarchism Foundations: Anti-State Argument, Autonomy and Thinker Lineage
+Progress: 2 / 13 | Stage: Foundation | Subtopic: Anarchism Foundations: Anti-State Argument, Autonomy and Thinker Lineage
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — Gauba's anarchist strands and the compiled text's anti-statism and religious authority.
+- **CA search:** Not required for autonomy and command; no movement is assigned a label.
+- **CA found:** No dated event is needed for this argument.
 
 ### VISUAL — First map of the problem
 
@@ -201,15 +227,15 @@ AUTONOMY + EQUALITY -> burden of proof -> state claim to command
 -> voluntary association / federation / mutual aid
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Autonomy makes legal command a claim requiring justification, not its own justification.*
 
 ### Learner-first intuition
 
 Anarchism does not celebrate chaos. It asks why legal status should give one institution a standing moral right to command autonomous equals, and whether coordination can be separated from domination.
 
-### Technical doctrine and full argument
+### 1. Why legal command needs a moral argument
 
-### 1.1 Doctrine statement
+### The claim about coercive authority
 
 ✅ **Anarchism** holds that coercive political authority, paradigmatically the sovereign state, lacks adequate moral justification and that social order can be organised through voluntary association, mutual aid, federation and self-government.
 
@@ -222,7 +248,7 @@ It is not identical with:
 | **Civil disobedience** | principled breach of particular laws | need not reject the state |
 | **Libertarian minimal state** | state restricted to protection | anarchism rejects even this monopoly |
 
-### 1.2 Argument against the state
+### Autonomy and the right to command
 
 ✅ A standard anarchist argument proceeds:
 
@@ -234,14 +260,14 @@ It is not identical with:
 
 ✅ **Bakunin** adds a corruption thesis: concentrated power deforms both ruler and ruled. ✅ **Proudhon** attacks property when it functions as an institutional power of appropriation and dependence. ✅ **Kropotkin** argues that cooperation and mutual aid are genuine sources of social order, not accidental exceptions to competition.
 
-### 1.3 Presuppositions
+### Cooperation and the burden of justification
 
 - ✅ Human beings possess a capacity for cooperation, practical reason and reciprocal aid.
 - ✅ Coordination does not logically require a sovereign centre; federations and associations can perform many coordinating functions.
 - ⚠️ Social conflict is intensified by hierarchical institutions rather than being an unchangeable fact of nature.
 - ⚠️ Authority must justify itself function by function; historical existence does not establish moral legitimacy.
 
-### 1.4 Main strands
+### Families within anarchism
 
 | Strand | Property | Preferred order | Key emphasis |
 |---|---|---|---|
@@ -267,6 +293,28 @@ It is not identical with:
 **Taxonomic control:** individualist and social anarchisms disagree over property and economic
 coordination but converge in rejecting an unearned standing right to command.
 
+✅ **Robert Paul Wolff**, *In Defense of Anarchism* (**1970**), gives philosophical anarchism its sharp autonomy–authority formulation: persons remain responsible for judging what they ought to do, whereas political authority claims a right to determine that conduct through commands. Whether autonomous persons can authorise binding collective procedures is the strongest challenge to the apparent incompatibility, not a question settled by defining autonomy.
+
+#### Part B — What the alternative institutions actually do
+
+| Institution or strand | Operating idea | Distinction to retain |
+|---|---|---|
+| Mutualism | Producers possess resources, exchange reciprocally and cooperate through federations and mutual credit | Proudhon's possession is not an unrestricted entitlement to extract rent from another's dependence |
+| Collectivism | Productive resources are collectively held and producer groups govern their use | Bakunin's collectivisation does not require a central workers' state |
+| Anarcho-communism | Common access and distribution by need through self-managing communities | Kropotkin's need principle differs from mutualist equivalent exchange |
+| Anarcho-syndicalism | Worker unions can organise direct action and become units of a federated productive order | A union network is not automatically a sovereign or a party-state |
+| Pacifist anarchism | Refusal of organised violence and coercive allegiance | Tolstoy's Christian love differs from Bakunin's anti-theism and revolutionary method |
+
+✅ Kropotkin treats mutual aid as a real evolutionary and social resource. He contests a competition-only reading of survival, not the existence of conflict or the whole possibility of evolutionary explanation. Cooperation is evidence of a capacity; extrapolating it to universal stateless provision remains an argument.
+
+✅ Georges Sorel's revolutionary syndicalism emphasises the **general strike** and its mobilising ideal. He is an adjacent thinker, not an uncontested representative of anarchism: union-centred revolutionary mobilisation does not by itself supply the full anarchist legitimacy argument. A general strike suspends labour across industries to challenge productive power; it is not simply a parliamentary change of ministers.
+
+Anarchist criticism can also reach religious command. Bakunin's anti-clericalism targets institutions or divine authority that demand obedience without autonomous judgment. Tolstoy shows why this does **not** entail that every anarchist is atheist. Religious conviction and rejection of coercive state allegiance can coexist.
+
+**Expertise versus command:** following a doctor's advice because of its evidential merits is different from recognising a standing right to command. Similarly, an association can appoint a delegate for a task without surrendering its continuing judgment. The difficult boundary is when decisions bind dissenters: naming an office “delegated” does not settle that problem.
+
+⚠️ Anarcho-capitalism proposes competitive private protection and market coordination instead of public sovereignty. Its inclusion in anarchism is disputed because unequal wealth and protection monopolies can reproduce domination. **Nozick's minimal state is not stateless anarchism**: it retains legitimate protective authority. This boundary prevents a textbook's broad “libertarian” grouping from becoming a false identity.
+
 ### Strongest objection, reply and residual
 
 - **Objection:** Conflict and predation require sovereign coercion.
@@ -288,58 +336,76 @@ coordination but converge in rejecting an unearned standing right to command.
 7. Tolstoy supplies a pacifist-Christian anti-coercive strand that influences Gandhi.
 8. Philosophical anarchism denies automatic political obligation without requiring immediate insurrection.
 
+9. Wolff contrasts autonomous judgment with claimed command; expert reasons and recallable delegation differ from sovereign entitlement.
+10. Syndicalism uses unions and direct action; Sorel's classification is qualified. Religious anarchism prevents anti-clericalism being mistaken for universal atheism.
+
 ### Local MCQs — questions before answers
 
-### Question 4
+**MCQ 4**
 
-The distinction between 'anarchy' and 'anarchism' is that:
+Residents keep services running after central enforcement collapses. Some follow association decisions because they approve their content. Which further question is decisive before calling this political anarchism?
 
-A. anarchy is a normative doctrine while anarchism means chaos
-B. the two terms are interchangeable
-C. anarchy refers to socialism and anarchism to communism
-D. anarchy is the absence or collapse of effective rule (possibly disorder), while anarchism is a normative critique of domination that proposes non-coercive order
+A. Whether organisers use consent procedures rather than appointing officials through public elections.
+B. Whether associations endorse reciprocal duties instead of unrestricted individual freedom of action.
+C. Whether coordinating roles require specialist advice rather than comparable knowledge among members.
+D. Whether participants deny standing state authority beyond coordinating voluntary local services.
 
-### Question 5
+**MCQ 5**
 
-The core of the anarchist argument against the state is that:
+An autonomy argument says that authorising a binding collective procedure necessarily surrenders personal moral judgment. Which reply directly challenges that claimed incompatibility?
 
-A. the state demands obedience because a command is legally authoritative rather than independently right, thereby subordinating one person's judgment to another's institutional will
-B. the state is simply too large to administer efficiently
-C. the state cannot collect enough taxes to function
-D. monarchy is preferable to a republic
+A. Citizens retain moral responsibility when they authorise a procedure and continue to assess its limits.
+B. Consent transfers final responsibility to elected representatives, whose decisions then count as citizens' own judgments.
+C. The right to leave supplies authorisation for collective procedures before citizens evaluate particular decisions.
+D. Fair outcomes give majority decisions authority independently of continuing individual judgments about their justification.
 
 #### Answers and explanations
 
-**MCQ 4: D**
+**MCQ 4 — Answer and explanation**
 
-- **A — Incorrect:** The definitions are reversed: anarchy names absent rule, while anarchism is the normative doctrine.
-- **B — Incorrect:** Interchangeability would confuse a possible social condition with an argument against coercive domination.
-- **C — Incorrect:** Neither term marks a socialism–communism division; that classification belongs to a different ideological debate.
-- **D — Correct:** Conflating anarchy (disorder) with anarchism (a considered doctrine of order without a sovereign centre) is the standard trap.
+**Correct answer: D**
 
-**MCQ 5: A**
+- **A — Incorrect:** Consent procedures can govern local associations alongside a justified state. Their use does not establish rejection of political command as such.
+- **B — Incorrect:** Reciprocal duties distinguish cooperation from unrestricted licence, but both anarchist and state-supporting arrangements can recognise them.
+- **C — Incorrect:** Expertise explains how a task is coordinated, not whether its organisers recognise a standing political entitlement to command.
+- **D — Correct:** Political anarchism concerns the justification of state authority. Content-based cooperation outside state institutions does not alone establish that anti-state commitment.
 
-- **A — Correct:** The burden-of-justification argument turns on obedience being owed to legality, not rightness -- an unmet burden the state cannot discharge.
-- **B — Incorrect:** Administrative size raises an efficiency objection, not the anarchist challenge to a claimed right to command.
-- **C — Incorrect:** Fiscal capacity concerns state effectiveness and says nothing about whether political obligation is justified.
-- **D — Incorrect:** Preferring monarchy merely selects one state form and therefore leaves the anarchist objection untouched.
+**MCQ 5 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Authorisation and retained responsibility can coexist on this reply. It challenges the alleged surrender of judgment without proving every collective procedure legitimate.
+- **B — Incorrect:** Transferring final moral responsibility concedes the surrender at issue; describing representatives' judgments as one's own does not reconcile procedure with autonomous assessment.
+- **C — Incorrect:** Exit supplies a proposed consent inference, not an explanation of how continuing moral responsibility survives authorisation.
+- **D — Incorrect:** An outcome-based justification is a different route to authority. It leaves the specific incompatibility between authorising a procedure and retaining judgment unanswered.
+
+### Original Mains check — knowledge without sovereignty
+
+**Question (10 marks; 150-word ceiling):** Distinguish expert advice from a standing right to command in anarchist thought.
+
+**Model answer:** Expertise supplies reasons to accept a judgment; sovereign authority claims obedience because it commands. Wolff's autonomy argument therefore distinguishes a doctor's evidence from an institution's standing demand for compliance.
+
+Godwin expects independent rational inquiry to improve conduct, not the transfer of judgment to rulers. Kropotkin's cooperative order can use specialised knowledge while associations retain mandates, review and recall. These mechanisms make delegation accountable rather than rejecting knowledge.
+
+The distinction has a limit: binding decisions for dissenters or non-members can introduce coercion despite voluntary language. Bakunin's corruption thesis warns that offices can develop independent power. Anarchism therefore supplies a demanding justification test, not proof that every expert-coordinated society can dispense with enforceable authority.
+
+**Why this earns marks:** It distinguishes epistemic merit from command, connects three anarchist arguments to delegation, and confronts binding dissent rather than equating expertise with coercion.
 
 ### Transition
 
-Lesson 3 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+Rejecting a standing command-right leaves a constructive problem: who coordinates defence, resolves disagreement and supplies shared goods? We now test federation, mutual aid and Gandhi against that problem.
 
 ---
 
 ## Lesson 3 — Anarchist Order and Feasibility; Gandhi; Liberal-Socialist Genealogy
 
-**Progress:** 3 / 13 | **Stage:** Core | **Exact subtopic:** Anarchist Order and Feasibility; Gandhi; Liberal-Socialist Genealogy
+Progress: 3 / 13 | Stage: Core | Subtopic: Anarchist Order and Feasibility; Gandhi; Liberal-Socialist Genealogy
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — voluntary order, Gandhi and anarchism's individualist/socialist roots.
+- **CA search:** Not required; the pandemic is examined in the question's historical 2020 setting.
+- **CA found:** No contemporary pandemic prediction is asserted.
 
 ### VISUAL — First map of the problem
 
@@ -349,21 +415,21 @@ LIBERAL ROOT (autonomy) + SOCIALIST ROOT (property critique)
 -> genealogical dependence + conceptual independence
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Shared intellectual roots do not decide whether the anti-authority conclusion is distinctive.*
 
 ### Learner-first intuition
 
 The constructive test is harder than the critique: can voluntary institutions secure order at scale without recreating a state? The genealogy question then asks whether anarchism merely borrows or possesses its own organising premise.
 
-### Technical doctrine and full argument
+### Part A — Can coordination remain voluntary?
 
-### 1.5 Natural order and voluntary cooperation
+### Natural order and voluntary cooperation
 
 ✅ Anarchism does **not** infer that every person is always benevolent. Its stronger claim is institutional: order may emerge from reciprocity, custom, association and horizontal coordination without a final coercive superior.
 
 **Example:** ⚠️ village assemblies, worker cooperatives, mutual-aid networks and decentralised federations illustrate limited capacities for non-sovereign coordination. They do not by themselves prove that a complex society can eliminate all public authority.
 
-### 1.6 Objections and anarchist replies
+### Security, scale and informal power
 
 **Objection 1 — security dilemma:** without a public authority, private power, organised violence and predation may dominate.
 **Reply:** ✅ the state itself has historically organised war, repression and structural domination; federated defence and restorative institutions need not reproduce sovereign hierarchy.
@@ -372,12 +438,12 @@ The constructive test is harder than the critique: can voluntary institutions se
 **Reply:** ⚠️ anarchism rejects centralised domination, not coordination. Delegated, recallable and federated administration can operate across scales.
 
 **Objection 3 — optimistic anthropology:** cooperation cannot neutralise egoism and conflict.
-**Reply:** ✅ anarchists need only deny that coercive hierarchy is the unique or best remedy. Institutions can cultivate either domination or solidarity.
+**Reply:** ⚠️ anarchists need only deny that coercive hierarchy is the unique or best remedy. Institutions can cultivate either domination or solidarity.
 
 **Objection 4 — hidden authority:** expertise, informal status and economic power return even after the state disappears.
 **Reply:** ⚠️ this is a serious internal challenge. A defensible anarchism must scrutinise domination inside voluntary associations, not merely abolish formal offices.
 
-### 1.7 Gandhi as a qualified political anarchist
+### Gandhi as a qualified political anarchist
 
 ✅ Gandhi's ideal of self-rule (*swarāj*) begins with mastery of desire, non-violence and local
 self-government: merely transferring rulers does not secure freedom. His preference for
@@ -385,11 +451,9 @@ decentralised village republics and a state reduced to a minimum creates an anar
 
 ⚠️ Yet Gandhi is not simply a Bakuninite anarchist. His non-violence, trusteeship, religious ethics and constructive programme replace class war and anti-theism. The safest formulation is: **Gandhi is a moral and decentralist anarchist in ideal, but a pragmatic reformer in political method.**
 
-### 1.8 Is anarchism an independent ideology, or a confluence of liberalism and socialism?
+### Is anarchism independent of its liberal and socialist roots?
 
-This is the direct Core route for **2026 Q1(c)** — *"Anarchism is not an independent political
-ideology in itself, rather it is inspired by liberalism on the one hand and socialism on the
-other. Analyze."*
+Distinguish **where an ideology's ideas come from** from **what makes its argument distinctive**.
 
 **Doctrine statement**
 
@@ -397,8 +461,8 @@ other. Analyze."*
 authority, and by the demand that **every** authority justify itself rather than be presumed
 legitimate. ⚠️ It nevertheless grew historically along **two tracks**: a liberal-individualist
 track descending from consent, private judgment and self-ownership, and a socialist track
-descending from the critique of property, class and structural domination. The stem is therefore
-half true — and the mark lies in showing **which half**.
+descending from the critique of property, class and structural domination. Intellectual
+inheritance and a doctrine's organising conclusion are therefore separate questions.
 
 **The numbered argument (both directions)**
 
@@ -416,9 +480,9 @@ half true — and the mark lies in showing **which half**.
 5. ⚠️ Therefore anarchism looks like the limiting case of two other ideologies rather than a third
    ideology.
 
-*The independence reply, which the answer must supply:*
+*The independence reply:*
 
-6. ✅ Liberalism, even at its most minimal, retains a **protective state** with a monopoly of
+6. ✅ Standard minimal-state liberalism retains a **protective state** with a monopoly of
    enforcement; anarchism denies exactly this monopoly. The disagreement is categorial, not one of
    degree.
 7. ✅ Marxian socialism accepts a **transitional state power** and expects the state to wither away
@@ -426,9 +490,9 @@ half true — and the mark lies in showing **which half**.
    stratum — is a rejection of that transition, not a variant of it. The dispute was institutional
    as well as doctrinal, culminating in Bakunin's expulsion from the First International at the
    Hague Congress of **1872** ✅.
-8. Anarchism's organising principle — that a **standing right to command** cannot be generated by
-   consent-fictions, by legality, by class necessity or by historical utility — is derivable from
-   neither parent.
+8. The inherited values do not compel the parents' acceptance of protective or transitional
+   sovereignty. Anarchists draw a more radical anti-command conclusion from them; this can
+   distinguish the doctrine even when its premises have antecedents.
 9. ⚠️ Therefore the accurate verdict is **genealogical dependence with conceptual independence**:
    anarchism draws its materials from liberalism and socialism, but its defining thesis is its
    own.
@@ -448,9 +512,9 @@ half true — and the mark lies in showing **which half**.
 | Inherited element | Liberal source | Anarchist radicalisation | Breaking point |
 |---|---|---|---|
 | Moral autonomy | the person as self-governing | ✅ R. P. Wolff: the standing duty of autonomy is incompatible with a claimed right to command | liberalism reconciles autonomy with legal obligation; anarchism denies the reconciliation |
-| Consent | government by agreement of the governed | consent must be actual, revocable and continuous, never tacit or hypothetical | liberalism accepts tacit and hypothetical consent as sufficient |
+| Consent | government by agreement of the governed | stringent anarchist arguments reject consent-fictions and stress actual, revocable authorisation | liberal theories disagree about actual, tacit and hypothetical justification; no single formula covers them all |
 | Private judgment | conscience and toleration | ✅ Godwin, *Enquiry Concerning Political Justice* (**1793**): government supplants private judgment and is at best a presently necessary evil | Godwin still expects coercion to recede through reason and education, not insurrection |
-| Right of resistance | Locke on dissolution of government | ✅ Locke is not an anarchist, but stringent consent plus a right of revolution places him at the edge of it | Locke retains the state as trustee; anarchism retains no trustee |
+| Right of resistance | Locke on dissolution of government | ⚠️ Locke's consent and resistance arguments supply an affinity, not an anarchist classification | Locke retains government as a trust; the anti-state anarchist conclusion goes further |
 | Self-development | individuality against conformity | ✅ Stirner and the individualist tradition: freedom from imposed collective identities | individualists diverge sharply on property and market coordination |
 
 **The socialist root — what anarchism inherits, and where it breaks**
@@ -460,10 +524,12 @@ half true — and the mark lies in showing **which half**.
 | Critique of property | property as institutionalised power | ✅ Proudhon, *What Is Property?* (**1840**): possession and mutual exchange replace proprietary domination | Proudhon rejects both state ownership and capitalist property |
 | Class analysis | domination is structural, not merely legal | ✅ Bakunin: the state is organised class rule, and would remain so in workers' hands | Marx accepts a transitional class state; Bakunin does not |
 | Common provision | social wealth is socially produced | ✅ Kropotkin, *The Conquest of Bread* (**1892**) and *Mutual Aid* (**1902**): distribution by need through communes and federation | Kropotkin rejects central planning as much as market domination |
-| Solidarity | cooperation as a social fact | mutual aid treated as a genuine evolutionary and social resource, not a moral exhortation | socialism institutionalises solidarity through the state; anarchism through federation |
+| Solidarity | cooperation as a social fact | mutual aid treated as a genuine evolutionary and social resource, not a moral exhortation | statist socialism uses public institutions; other socialist forms also use cooperative or federated institutions |
 | Revolution | transformation of social structure | direct action and federated self-management, without a vanguard or a transitional state | the transition question is the decisive split |
 
 **Master comparison chart — the three ideologies on the same axes**
+
+The anarchist column presents the classical anti-state political strands. Philosophical anarchism can make the weaker claim that no general duty to obey has been established, without declaring every particular public decision unjust.
 
 | Axis | Liberalism | Socialism (statist/Marxian) | Anarchism |
 |---|---|---|---|
@@ -475,7 +541,7 @@ half true — and the mark lies in showing **which half**.
 | **Equality** | equality before the law and of opportunity | substantive material equality | equality of standing — no one commands by right |
 | **Transition** | reform through constitutional politics | revolution plus transitional state authority | prefiguration: means must already embody the ends |
 | **Characteristic danger** | formal freedom coexisting with real dependence | a new bureaucratic ruling stratum | informal hierarchies and failures of scale |
-| **Verdict on the stem** | supplies the *autonomy* premise | supplies the *anti-domination* premise | supplies the premise neither parent accepts: **no standing right to command** |
+| **Organising premises** | autonomy and limits on interference | anti-exploitation and social productive control | the anti-command principle combines inherited concerns in a different organising inference |
 
 **Internal comparison — the two anarchist families**
 
@@ -495,7 +561,7 @@ not an ideology.
 **Reply:** ⚠️ ideologies are individuated by their organising principle, not by the novelty of
 each premise. Liberalism also borrows from natural law and republicanism without ceasing to be
 independent.
-**Residual problem:** ✅ the reply protects anarchism's identity at the cost of admitting that its
+**Residual problem:** ⚠️ the reply protects anarchism's identity at the cost of admitting that its
 positive institutional content is thinner than its critical content.
 
 **Objection 2 — the incoherence charge.** A doctrine containing both market individualists and
@@ -510,26 +576,69 @@ disputed, since a private protection monopoly may reproduce the very sovereignty
 new authorities.
 **Reply:** ⚠️ federated, delegated and recallable administration can coordinate without sovereign
 command; anarchism rejects domination, not organisation.
-**Residual problem:** ✅ scale, enforcement of agreements and free-riding remain the strongest
+**Residual problem:** ⚠️ scale, enforcement of agreements and free-riding remain a strong
 practical case for public authority.
 
 **Objection 4 — reformist collapse.** If anarchism only shifts the burden of proof, it becomes
 liberal constitutionalism with stronger rhetoric.
-**Reply:** ✅ philosophical anarchism accepts this consequence deliberately: it denies a general
-duty to obey while permitting critical cooperation with institutions.
+**Reply:** ⚠️ philosophical anarchism can deny a general duty to obey while permitting critical
+cooperation. This does not itself supply liberal constitutionalism's positive justification of rule.
 **Residual problem:** ⚠️ this concedes much of the stem for that strand — but not for the
 revolutionary strands, which retain the categorial break.
 
-**Traps (this stem only)**
+#### Timeline of distinct anarchist arguments
+
+```text
+1793 Godwin: Political Justice -> private judgment and rational reform
+   |
+1840 Proudhon: What Is Property? -> possession and proprietary domination
+   |
+1844 Stirner: The Ego and Its Own -> the individualist challenge
+   |
+1872 Hague Congress -> conflict over organisation and transitional state power
+   |
+1892 The Conquest of Bread / 1902 Mutual Aid -> Kropotkin's common provision
+   |
+1970 Wolff: In Defense of Anarchism -> autonomy versus a standing command-right
+```
+
+*Later publication does not make one strand a necessary successor to another.*
+
+#### A stress test for the constructive proposal
+
+⚠️ Imagine several Indian neighbourhood associations sharing emergency supplies. A federation
+can coordinate stock information and delivery while delegates remain recallable. But if one
+association hoards scarce medicine or refuses a common allocation, who adjudicates and enforces
+the outcome? A binding answer may protect vulnerable people yet introduce coercion. The example
+supports a limited coordination capacity, not universal dispensability of public authority.
+
+The same test applies to Gandhi. Ethical self-rule (*swarāj*) reduces dependence on external
+compulsion, while non-cooperation and negotiated reform operate amid existing institutions.
+Tolstoy's influence helps explain non-violence, but Gandhi's organised constructive work is not
+private withdrawal. Trusteeship still faces owners who refuse voluntary restraint.
+
+For the pandemic question, disrupted services can produce disorder, public-health coordination
+can expand authority, and voluntary relief can display mutual aid. None of these alone establishes
+ideological adoption.
+
+### Strongest objection, reply and residual
+
+- **Objection:** Voluntary order faces failures of scale and hidden hierarchy.
+- **Reply:** Mandated, recallable delegation separates coordinating functions from a standing right to command.
+- **Residual:** Necessary enforcement may reintroduce the coercive authority being rejected.
+
+### UPSC application — genealogy, independence and feasibility
+
+**Traps**
 
 | ❌ Trap | ✅ Correction |
 |---|---|
 | Answering only "yes, it is derivative" | the stem says **Analyze**: the dependence claim must be stated, tested and adjudicated, not endorsed |
 | Treating anarchism as extreme liberalism | liberalism keeps a protective monopoly; anarchism denies the monopoly itself |
 | Treating anarchism as stateless socialism | Marxian socialism accepts a transitional state; anarchism denies the transition — the 1872 split is the historical marker |
-| Using "anarchy" as disorder | ✅ anarchism is a normative critique of domination proposing non-coercive order (§1.1) |
+| Using "anarchy" as disorder | ✅ anarchism is a normative critique of domination proposing non-coercive order |
 | Merging the two roots into one narrative | run them as **parallel lineages** with named thinkers on each side; the chart is the mark-bearing device |
-| Making Godwin a revolutionary or Locke an anarchist | ⚠️ Godwin expects coercion to recede through reason; Locke is at the edge of anarchism but retains the state as trustee |
+| Making Godwin a revolutionary or Locke an anarchist | ⚠️ Godwin's rational-reform line and Locke's conditional-government argument are affinities to distinguish, not identities with revolutionary anarchism |
 | Ignoring the internal property split | mutualism, collectivism, communism and individualism disagree on property; saying so shows control of the tradition |
 | Concluding with an unqualified verdict | the defensible verdict is **genealogically dependent, conceptually independent** |
 
@@ -556,7 +665,7 @@ revolutionary strands, which retain the categorial break.
 6. Conditional verdict, distinguishing philosophical anarchism (which partly concedes the stem)
    from revolutionary anarchism (which does not).
 
-**Answer spine — 20 marks (~300 words)**
+**Answer spine — 20 marks (within 250 words)**
 
 1. Thesis in the stem's verb, with the dependence claim quoted in substance and split into
    genealogical and conceptual halves.
@@ -565,42 +674,14 @@ revolutionary strands, which retain the categorial break.
 3. Liberal lineage in detail, including Wolff's autonomy argument as the sharpest analytic form.
 4. Socialist lineage in detail, including the **1872** First International split as the decisive
    institutional evidence that anarchism is not a socialist variant.
-5. Master chart across all nine axes.
+5. Select three decisive comparison axes; do not reproduce a nine-row chart inside 250 words.
 6. Two objection → reply → residual chains (derivative charge; incoherence charge, with the
    anarcho-capitalism boundary dispute flagged as ❓ contested).
 7. The order-and-public-goods problem, honestly stated as the strongest practical objection.
 8. Graded verdict plus the burden-of-proof reformulation: anarchism's durable contribution is the
    principle that **every** authority, including a democratic one, must justify itself.
 
-**Exact 2026 PYQ route:** 2026 Q1(c) [10] → §1.8, supported by §1.1 (anarchy/anarchism
-distinction), §1.4 (strands) and §4.1 (anarchism vs Marxism) → verdict formula in §9.5. Bridge:
-[Individual and State](Individual-and-State.md) §4.5 and §4A for the political-obligation form of
-the same argument — cite it, do not re-teach it.
-
-**Sources for §1.8**
-
-- [Stanford Encyclopedia of Philosophy, "Anarchism"](https://plato.stanford.edu/entries/anarchism/)
-  — §§1.1, 2, 2.1–2.4 on political anarchism, the historical political philosophy of anarchism,
-  and the individualist/socialist division. Cited by section; paraphrased, never quoted.
-- William Godwin, *An Enquiry Concerning Political Justice* (**1793**).
-- Pierre-Joseph Proudhon, *What Is Property?* (**1840**).
-- Max Stirner, *The Ego and Its Own* (**1844**).
-- Peter Kropotkin, *The Conquest of Bread* (**1892**) and *Mutual Aid: A Factor of Evolution*
-  (**1902**).
-- Robert Paul Wolff, *In Defense of Anarchism* (**1970**) — the autonomy-versus-authority argument.
-- Mikhail Bakunin, anti-authoritarian writings, and the Hague Congress of the International
-  Workingmen's Association, **1872**, as the dated institutional marker of the anarchist–Marxist
-  split. Cited by position and event; no verbatim wording is asserted.
-- ⚠️ All thinkers are cited by title, year and position only. No page, chapter or edition is
-  claimed, and no contemporary movement, party or country is identified as anarchist.
-
----
-
-### Strongest objection, reply and residual
-
-- **Objection:** Voluntary order fails at scale and hides informal hierarchy.
-- **Reply:** Mandated, recallable delegation separates functions from a standing right to command.
-- **Residual:** Necessary coercion may begin to resemble a state.
+**Answer use:** analyse the two lineages, compare the protective and transitional state with federation, and distinguish conceptual independence from institutional completeness. Political obligation is the neighbouring question of why an individual must obey; here the emphasis is the ideology's identity and proposed order.
 
 ### Local exact PYQ approach
 
@@ -627,88 +708,107 @@ the same argument — cite it, do not re-teach it.
 
 ### Local MCQs — questions before answers
 
-### Question 6
+**MCQ 6**
 
-Which pairing of anarchist thinker and emphasis is correct?
+A movement promises to dissolve its central command once workers' property is secure. Which criticism is most characteristic of Bakunin's response?
 
-A. Kropotkin -- property is theft as an institutional power
-B. Bakunin -- concentrated power deforms ruler and ruled (the corruption thesis)
-C. Proudhon -- concentrated power corrupts both ruler and ruled
-D. Bakunin -- mutual aid as the primary source of social order
+A. Entrusting education to the transition could delay the spread of independent judgment among citizens.
+B. Temporary governing offices could develop corporate interests in preserving their political supremacy over workers.
+C. Equivalent exchange could prevent those lacking a reciprocal contribution from accessing common provision.
+D. Substituting planning for mutual exchange could weaken the reciprocity sustaining associations of producers.
 
-### Question 7
+**MCQ 7**
 
-A key PRESUPPOSITION of anarchism, correctly stated, is that:
+Associations delegate a named coordinating task but intend to retain control of its authorisation. Which arrangement best preserves that intention?
 
-A. human beings are always benevolent and never selfish
-B. social coordination logically requires a single sovereign centre
-C. coordination does not logically require a sovereign centre, since federations and associations can perform many coordinating functions
-D. historical existence by itself establishes an institution's moral legitimacy
+A. Renew elected personnel while leaving the scope of their jurisdiction for them to determine.
+B. Publish central council decisions as sufficient authorisation for obligations on non-member associations.
+C. Reserve mandate revision and recall to the authorising associations.
+D. Rotate coordinators and entrust mandate review to the federation's succeeding office-holders.
 
-### Question 8
+**MCQ 8**
 
-Remedial -- a candidate writes 'a pandemic will cause anarchism'. The correct correction is that:
+A crisis generates voluntary relief networks alongside binding public-health rules. What follows?
 
-A. a pandemic always establishes anarchism permanently
-B. anarchy and anarchism mean the same thing
-C. anarchism means the collapse of all cooperation
-D. a crisis may cause temporary ANARCHY (disorder) or a surge of voluntary mutual aid, but not anarchISM, which is a normative doctrine of order without sovereign coercion
+A. Relief networks demonstrate capacity to adjudicate persistent conflict because participants share scarce emergency supplies.
+B. Local provision withdraws the legitimacy of public agencies from communities receiving voluntary relief.
+C. Participation in emergency relief authorises a permanent federation to replace the public enforcement institutions.
+D. Horizontal cooperation demonstrates associational capacity, not the viability of a fully stateless order.
 
-### Question 9
+**MCQ 9**
 
-Remedial -- 'Gandhi was simply a Bakuninite anarchist'. The correct correction is that:
+Why can Gandhi's engagement with political institutions coexist with a qualified anarchist ideal?
 
-A. Gandhi is a moral and decentralist anarchist in IDEAL but a pragmatic reformer in METHOD, replacing class war and anti-theism with non-violence, trusteeship and constructive work
-B. Gandhi wanted a strong centralised industrial state
-C. Gandhi rejected self-rule (swaraj) and decentralisation
-D. Gandhi endorsed violent insurrection against the state
+A. Gandhi treats ethical self-rule as the aim governing reform pursued within existing political institutions.
+B. Gandhi treats successful negotiation as establishing the sovereign state's moral right to command.
+C. Gandhi assigns trustees a governing authority derived from their obligations towards those receiving provision.
+D. Gandhi makes increasing material output the criterion by which constructive work qualifies as self-rule.
 
 #### Answers and explanations
 
-**MCQ 6: B**
+**MCQ 6 — Answer and explanation**
 
-- **A — Incorrect:** “Property is theft” is associated with Proudhon, whereas Kropotkin is identified chiefly with mutual aid.
-- **B — Correct:** Bakunin supplies the corruption thesis; Proudhon targets property-as-appropriation; Kropotkin supplies mutual aid -- so only the Bakunin-corruption pairing is right.
-- **C — Incorrect:** Proudhon criticises exploitative property; the corruption of ruler and ruled is the Bakuninian emphasis here.
-- **D — Incorrect:** Mutual aid is Kropotkin’s signature theme, not Bakunin’s account of concentrated revolutionary power.
+**Correct answer: B**
 
-**MCQ 7: C**
+- **A — Incorrect:** This raises an educative dependency problem, akin to Godwin's emphasis on independent judgment. It does not identify the governing interests that threaten the promised dissolution.
+- **B — Correct:** Bakunin's concern is that governing offices create a ruling stratum with reasons to preserve power, even when their declared purpose is workers' emancipation.
+- **C — Incorrect:** This raises the need-based provision problem associated with Kropotkin's contrast to reciprocal exchange. It does not explain the self-preserving interests of governing offices.
+- **D — Incorrect:** This raises a mutualist objection about reciprocal economic relations. Bakunin's characteristic warning here concerns the reproduction of political supremacy.
 
-- **A — Incorrect:** Anarchism requires a capacity for cooperation, not the implausible claim that selfish conduct never occurs.
-- **B — Incorrect:** A necessary sovereign centre is precisely what federative anarchist models deny.
-- **C — Correct:** Anarchism's claim is institutional, not a naive psychology: coordination can occur through federation without a final coercive superior.
-- **D — Incorrect:** Longevity can show institutional persistence but cannot by itself confer moral legitimacy.
+**MCQ 7 — Answer and explanation**
 
-**MCQ 8: D**
+**Correct answer: C**
 
-- **A — Incorrect:** A crisis does not permanently institute a political doctrine merely by disrupting ordinary government.
-- **B — Incorrect:** Temporary disorder and a normative ideal of non-coercive order are conceptually distinct.
-- **C — Incorrect:** Anarchism proposes voluntary cooperation; it is not a definition of cooperation’s disappearance.
-- **D — Correct:** Anarchy (disorder) must not be confused with anarchism (a considered doctrine); crises typically strengthen demands for competent public authority.
+- **A — Incorrect:** Renewing personnel leaves the office free to determine its own scope; elections do not replace the associations' control over the remit.
+- **B — Incorrect:** Publishing a council's decision does not supply authorisation from non-members on whom it would impose obligations.
+- **C — Correct:** Remit, revision and recall leave the authorising power with the associations rather than making it an independent entitlement of the delegates.
+- **D — Incorrect:** Rotation changes office-holders but locates mandate review among their successors, not with the associations that authorised the task.
 
-**MCQ 9: A**
+**MCQ 8 — Answer and explanation**
 
-- **A — Correct:** Gandhi shares an anarchist affinity (decentralised self-rule/swaraj, minimal state) but diverges on non-violence and method -- 'anarchist in ideal, reformer in method'.
-- **B — Incorrect:** Centralised industrial statism conflicts with Gandhi’s village swaraj and preference for dispersed power.
-- **C — Incorrect:** Swaraj and decentralisation are central Gandhian commitments, so their rejection cannot describe his position.
-- **D — Incorrect:** Gandhi’s method is disciplined non-violence, not Bakuninite insurrection.
+**Correct answer: D**
+
+- **A — Incorrect:** Sharing supplies is evidence about relief coordination; it does not test adjudication of persistent conflict.
+- **B — Incorrect:** Receiving voluntary provision does not withdraw moral legitimacy from public agencies; the two activities can coexist.
+- **C — Incorrect:** Relief participation is not authorisation of a permanent political federation or a transfer of the state's enforcement powers.
+- **D — Correct:** Coordinated aid evidences one capacity for non-sovereign organisation. It does not establish the sufficiency of stateless institutions for security, cross-region provision or binding adjudication; public authority also continues in this case.
+
+**MCQ 9 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Gandhi's ideal judges the direction and means of reform; working with existing institutions need not make those institutions his ultimate ideal.
+- **B — Incorrect:** Engagement is a practical method, not a deduction that standing sovereign command is morally justified.
+- **C — Incorrect:** Duties attached to wealth do not give trustees a standing right to govern others; ethical self-rule and local participation remain distinct commitments.
+- **D — Incorrect:** Constructive work expresses ethical self-government and does not replace it with an output-growth criterion.
+
+### Original Mains check — federation under stress
+
+**Question (10 marks; 150-word ceiling):** Examine whether recallable federation resolves anarchism's coordination problem.
+
+**Model answer:** Recallable federation coordinates specific tasks while keeping delegates answerable to associations. Proudhon's reciprocal producers and Kropotkin's mutual aid show that organisation need not begin with sovereign command.
+
+A hypothetical relief federation can share stocks and organise delivery without permanent central rule. Recall checks delegates who exceed their mandate. Yet persistent hoarding or violence raises enforcement problems: a binding adjudicator may exercise the coercion anarchism contests.
+
+Gandhi's ethical self-rule adds restraint but cannot assume that aggressors accept moral duties. Thus federation answers the objection that anarchism rejects organisation; it does not demonstrate universal stateless feasibility. Its defensible contribution is function-specific, contestable authority, while security, non-member obligations and hidden hierarchy remain unresolved.
+
+**Why this earns marks:** It gives the mechanism before testing it, uses mutualism, mutual aid and Gandhi, and distinguishes improved coordination from a proof of complete state dispensability.
 
 ### Transition
 
-Lesson 4 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+The anarchist–Marxist dispute turns on whether production relations require a transitional class power. Before judging that answer, we need Marx's explanation of how productive relations form and change.
 
 ---
 
 ## Lesson 4 — Marxism as Method: Dialectical and Historical Materialism
 
-**Progress:** 4 / 13 | **Stage:** Core | **Exact subtopic:** Marxism as Method: Dialectical and Historical Materialism
+Progress: 4 / 13 | Stage: Core | Subtopic: Marxism as Method: Dialectical and Historical Materialism
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — forces, relations, class conflict, stages and Engels's material dialectic.
+- **CA search:** Not required; the Indian productive-change example is hypothetical.
+- **CA found:** No dated case is used as proof of historical materialism.
 
 ### VISUAL — First map of the problem
 
@@ -717,15 +817,15 @@ forces + relations -> mode of production -> contradiction/fetters
 -> class struggle + praxis -> possible transformation
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*A material contradiction creates a problem; organised praxis is needed to change the relation.*
 
 ### Learner-first intuition
 
 Marxism begins from a simple necessity: people must reproduce material life. Its method asks how productive capacities, ownership relations, class conflict and political institutions develop together without turning history into a machine.
 
-### Technical doctrine and full argument
+### Part A — Material life is a condition, not a timetable
 
-### 2.1 Doctrine statement
+### Marxism as method, critique and political project
 
 ✅ **Marxism** is a materialist theory of society and revolutionary praxis according to which historically specific relations of production generate class domination, alienation and ideology; capitalism creates the conditions for proletarian struggle and a transition toward classless communism.
 
@@ -736,7 +836,7 @@ Marxism is simultaneously:
 3. ✅ a **theory of change** — contradiction and class struggle;
 4. ✅ a **political project** — collective emancipation through transformed property and power relations.
 
-### 2.2 Dialectical materialism: use with care
+### Material contradiction and dialectic
 
 ✅ Marx takes from Hegel the idea that contradiction drives development, but rejects the primacy of self-developing Idea. Social contradictions are embedded in material life.
 
@@ -753,9 +853,14 @@ Marxism is simultaneously:
 
 **Presupposition:** ✅ material reproduction is a necessary condition of every social order; ideas and institutions must therefore be studied in relation to social labour and power.
 
-### 2.3 Historical materialism
+### Historical materialism
 
 ✅ **Historical materialism** explains social formations through the interaction of productive forces, relations of production, class structure and political-ideological institutions.
+
+✅ Marx's **1859 Preface to *A Contribution to the Critique of Political Economy*** is the named
+anchor for the forces–relations argument: productive capacities develop within inherited social
+relations, which can become fetters. ⚠️ Reconstruct and test that causal explanation rather
+than turning it into a calendar of every society's next stage.
 
 | Element | Meaning | Exam use |
 |---|---|---|
@@ -766,6 +871,26 @@ Marxism is simultaneously:
 | **Class struggle** | conflict rooted in opposed structural interests | motor of historical transformation |
 
 ⚠️ **UPSC-safe nuance:** do not write that the economic base mechanically causes every idea. Marx allows reciprocal effects and political agency; the stronger criticism is **tendency toward economic reductionism**, not a crude claim he never qualified.
+
+#### Part B — Dialectic, historical stages and political agency
+
+✅ **Praxis** means informed practical activity through which people transform social relations and their own capacities. A **class** is defined here by a relation to productive ownership, control and appropriation, not merely an income bracket. The **bourgeoisie** owns capitalist productive assets; the **proletariat** must sell labour-power. A **social formation** is a concrete society organised around a mode of production; it can contain mixed relations rather than being a pure textbook stage.
+
+| Historical model | Characteristic relation | Caution |
+|---|---|---|
+| Primitive communism | Common production and sharing before developed class divisions | A historical reconstruction, not a claim that every early community was harmonious |
+| Slave society | Master and slave | A slave is not the same as a legally free wage labourer |
+| Feudal society | Lord and serf, with inherited agrarian dependence | Serf obligation differs from capitalist purchase of labour-power |
+| Capitalism | Capitalist and wage labourer | Formal contractual freedom can coexist with productive dependence |
+| Projected socialist/communist transformation | Associated producers overcome class appropriation | Transition and outcome are disputed, not an inevitable calendar |
+
+The model links a changing **productive capacity** with the **social relation** governing its use. It cannot replace research into a particular society's history. Increasing productive capacity can coexist with continuing domination; a class must organise and act for institutional change.
+
+✅ In Engels's exposition of material dialectics, the familiar laws are **quantity changing into quality**, **interpenetration or unity of opposites**, and **negation of negation**. These are not Marx's “thesis–antithesis–synthesis” formula. Their purpose is to investigate internally related processes, not fit every event to three labels.
+
+⚠️ A thought experiment illustrates the first law: incremental changes in the organisation of a workshop can eventually alter its whole system of control. This is an illustration of a threshold, not empirical proof of a universal revolutionary law. Unity of opposites points to capital and wage labour as dependent on each other yet antagonistic over appropriation. Negation of negation describes transformation that overcomes an earlier relation while preserving developed capacities; it is not simple restoration of the starting point.
+
+**Example and limit:** a hypothetical agrarian cooperative in India can acquire better tools while its inherited rules exclude some members from decisions. Tools belong to productive forces; exclusion belongs to social relations and status. Changing law or collective organisation may alter the use of tools, showing superstructural feedback. Caste exclusion cannot, however, be inferred from technology alone.
 
 ### Strongest objection, reply and residual
 
@@ -788,90 +913,112 @@ Marxism is simultaneously:
 7. Class struggle requires organisation and praxis; contradiction does not transform society automatically.
 8. Historical materialism is strongest as a relational explanation, not an infallible timetable.
 
+9. A class is a productive relation, and a social formation can contain mixed relations rather than one pure stage.
+10. Engels's laws of material dialectics are quantity/quality, unity of opposites and negation of negation; none proves a universal historical schedule.
+
 ### Local MCQs — questions before answers
 
-### Question 10
+**MCQ 10**
 
-In Marx's causal chain, social and political struggle arises when:
+What is a production relation becoming a “fetter” in historical materialism?
 
-A. rulers simply become morally corrupt
-B. the developing productive forces come into conflict with existing relations of production, which become fetters
-C. the population grows beyond available land
-D. citizens lose religious faith
+A. A productive tool limits output until engineers improve its physical design.
+B. Inherited ownership relations obstruct the new productive capacities they previously accommodated.
+C. A distributive rule disappoints consumers without altering productive organisation or class power.
+D. An expanding population raises demand while ownership relations remain compatible with productive change.
 
-### Question 11
+**MCQ 11**
 
-The correct UPSC-safe statement of the base-superstructure relation is that it is:
+A property law secures an ownership system and also changes bargaining power within it. Which reading fits a non-mechanical materialism?
 
-A. a mechanical one-way cause from economy to every idea
-B. a claim that ideas determine the economy
-C. a relation in which base and superstructure interact reciprocally, so the fair criticism is a TENDENCY toward reductionism, not a crude determinism Marx never qualified
-D. irrelevant to Marxist theory
+A. The law's declared purpose explains the property relation through the coherence of its legal provisions.
+B. The reform demonstrates that political institutions establish class relations independently of productive dependence.
+C. Legal reform changes bargaining within a production system that also conditions the reform's operation.
+D. The new bargaining relation reflects preceding ownership shifts; legal reform records rather than causes that change.
 
-### Question 12
+**MCQ 12**
 
-Presenting 'thesis-antithesis-synthesis' as Marx's own fixed three-step law is:
+A historian explains industrial conflict as a phase in the self-development of universal reason. Which alteration would give the explanation Marx's materialist ground?
 
-A. an accurate summary of Capital
-B. the central claim of historical materialism
-C. a phrase coined by Kropotkin
-D. a common error, since that formula is a later textbook shorthand and not Marx's own fixed law
+A. Retain universal reason as the agent, but replace the stages with empirical economic descriptions.
+B. Treat successive events as independently observed changes, setting aside their internally opposed social relations.
+C. Arrange the conflict as a three-step sequence whose form supplies the cause of transformation.
+D. Locate the contradiction in how people collectively produce and appropriate the means of life.
 
-### Question 13
+**MCQ 13**
 
-Remedial -- 'Marx's method is the thesis-antithesis-synthesis law'. The correct correction is that:
+A historian uses Marxian stages to investigate a society retaining several productive forms. Which use fits the explanatory method?
 
-A. the triad is a later textbook shorthand, not Marx's own fixed three-step law; Marx's dialectic is materialist, locating contradiction in social life
-B. this is the central formula of Capital
-C. Marx borrowed it unchanged from Kropotkin
-D. the triad proves economic determinism
+A. Tracing which relations constrain capacities in that society before inferring its trajectory.
+B. Ranking the society's moral standing by the most advanced productive form present.
+C. Treating serf obligation as wage employment because both involve subordinate labour.
+D. Using relative earnings as the defining class relation, with ownership patterns as supporting descriptions.
 
 #### Answers and explanations
 
-**MCQ 10: B**
+**MCQ 10 — Answer and explanation**
 
-- **A — Incorrect:** Personal vice may aggravate rule, but Marx explains conflict structurally through changing production relations.
-- **B — Correct:** Historical materialism locates the motor in the contradiction between developing forces and existing relations of production, not in moral or demographic factors.
-- **C — Incorrect:** Population pressure is a Malthusian explanation, not Marx’s contradiction between forces and relations.
-- **D — Incorrect:** Religious decline is neither necessary nor sufficient for the class struggle described by historical materialism.
+**Correct answer: B**
 
-**MCQ 11: C**
+- **A — Incorrect:** A tool's technical defect concerns productive forces; a social fetter concerns relations of ownership and control.
+- **B — Correct:** Developing capacity conflicts with inherited social control; struggle concerns the relation restraining its use.
+- **C — Incorrect:** Consumer dissatisfaction alone does not identify a contradiction between productive forces and relations.
+- **D — Incorrect:** Rising demand without the specified incompatibility does not instantiate the fetter mechanism.
 
-- **A — Incorrect:** A mechanical one-way model ignores reciprocal effects, political struggle and the relative efficacy of institutions.
-- **B — Incorrect:** Making ideas the sole determinant simply inverts reductionism rather than stating Marx’s materialist relation.
-- **C — Correct:** Marx allows reciprocal effects and political agency; the legitimate criticism is a tendency to economic reductionism, stated before the objection is raised.
-- **D — Incorrect:** Base and superstructure organise a central Marxist explanation of social reproduction and change.
+**MCQ 11 — Answer and explanation**
 
-**MCQ 12: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Capital does not present history as a fixed thesis–antithesis–synthesis sequence.
-- **B — Incorrect:** Historical materialism analyses material contradictions; it is not reducible to this textbook triad.
-- **C — Incorrect:** Kropotkin neither coined the formula nor supplied Marx’s dialectical method.
-- **D — Correct:** The triad is a later shorthand; asserting it as Marx's formula signals a second-hand reading -- a standard trap.
+- **A — Incorrect:** Textual coherence can explain a law's stated meaning, but not the material conditions and effects of the property relation it governs.
+- **B — Incorrect:** Political efficacy does not establish an institution's independence from productive relations; the law operates within those relations.
+- **C — Correct:** The law affects bargaining while being conditioned by the productive system. This supplies mediated legal feedback rather than an autonomous first cause.
+- **D — Incorrect:** Treating law as a record of prior ownership shifts removes the bargaining-power effect expressly assigned to it in the case.
 
-**MCQ 13: A**
+**MCQ 12 — Answer and explanation**
 
-- **A — Correct:** Attributing 'thesis-antithesis-synthesis' to Marx as a fixed law is a standard trap; his dialectic is materialist and non-mechanical.
-- **B — Incorrect:** Calling the triad Capital’s central formula attributes to Marx a schema absent from that work.
-- **C — Incorrect:** Kropotkin belongs to anarchist communism and was not the source of Marx’s dialectic.
-- **D — Incorrect:** A three-part slogan cannot establish the separate charge that Marx reduces all causation to economics.
+**Correct answer: D**
+
+- **A — Incorrect:** Economic descriptions do not make the explanation materialist when universal reason remains its originating agent.
+- **B — Incorrect:** Marx retains internally related contradiction; a succession of independent observations abandons that explanatory relation.
+- **C — Incorrect:** A three-step form does not supply the material cause. “Thesis–antithesis–synthesis” is not Marx's fixed law of transformation.
+- **D — Correct:** Producing and appropriating material life locates the contradiction in social relations rather than the self-development of an Idea.
+
+**MCQ 13 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Investigating a concrete social formation connects the stage model to its actual constraints and agency instead of imposing a universal schedule.
+- **B — Incorrect:** Productive-stage categories are not a ranking of persons' or societies' moral worth.
+- **C — Incorrect:** Shared subordination does not make inherited serf obligations identical to the formally free sale of labour-power.
+- **D — Incorrect:** Earnings can supply evidence, but ownership, control and appropriation define the Marxian relation; income rank is not its substitute.
+
+### Original Mains check — capacities and institutions
+
+**Question (10 marks; 150-word ceiling):** Explain how a production relation can become a fetter without making technological change an automatic cause of revolution.
+
+**Model answer:** A fetter is an inherited social relation that obstructs developing productive capacities. Marx's historical materialism distinguishes productive forces from ownership and control; a conflict between them can become class struggle.
+
+The slave, feudal and capitalist formations identify different relations, not a universal timetable. Better tools may coexist with exclusion until organised producers contest the rules governing their use. Marxian praxis supplies this active mediation.
+
+Engels's material dialectic investigates internal contradiction rather than scheduling every change through a fixed triad. Law and political organisation can also react on productive relations. The mechanism therefore connects capacity, social control and agency, while caste, culture and institutional variation qualify any claim that technology alone determines transformation.
+
+**Why this earns marks:** It defines “fetter,” separates forces from relations, uses stage distinctions and praxis, and gives a precise non-determinist qualification.
 
 ### Transition
 
-Lesson 5 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+The method identifies ownership and class, but has not yet shown what the worker loses within that relation. Alienation explains lost agency; surplus value explains appropriation.
 
 ---
 
 ## Lesson 5 — Alienation, Exploitation and Surplus Value
 
-**Progress:** 5 / 13 | **Stage:** Core | **Exact subtopic:** Alienation, Exploitation and Surplus Value
+Progress: 5 / 13 | Stage: Core | Subtopic: Alienation, Exploitation and Surplus Value
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — fourfold estrangement and labour-power/surplus distinction.
+- **CA search:** Not required; the value table uses hypothetical units, not data.
+- **CA found:** No labour statistic substitutes for the productive mechanism.
 
 ### VISUAL — First map of the problem
 
@@ -881,15 +1028,15 @@ product | activity | species-being | other persons
 labour-power -> surplus -> structural exploitation
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Agency lost in work and value appropriated from work are connected but different questions.*
 
 ### Learner-first intuition
 
 Alienation describes loss of authorship over labour and social life; exploitation identifies the productive relation through which surplus is appropriated. Neither concept can be replaced by a complaint about low income.
 
-### Technical doctrine and full argument
+### Part A — What estranged work takes away
 
-### 2.4 Alienation
+### Four relations of estranged labour
 
 ✅ In the *Economic and Philosophic Manuscripts of 1844*, capitalist labour alienates the worker:
 
@@ -905,7 +1052,7 @@ Alienation describes loss of authorship over labour and social life; exploitatio
 **Objection:** the idea of species-being assumes a controversial universal human essence.
 **Reply:** ⚠️ it can be reconstructed minimally: persons require meaningful agency, social recognition and control over central activities, without positing a fixed metaphysical essence.
 
-### 2.5 Exploitation and surplus value
+### Exploitation and surplus value
 
 ✅ Capitalism differs from simple theft. Labour-power is purchased through a formally free contract, yet the value produced during the working day can exceed the value represented by wages; the remainder is appropriated as **surplus value** by owners of capital.
 
@@ -918,6 +1065,26 @@ Alienation describes loss of authorship over labour and social life; exploitatio
 5. Exploitation is therefore structural, not reducible to a cruel employer's intention.
 
 **Distinction:** ✅ exploitation concerns the social relation of production; inequality concerns the distribution of holdings. Redistribution may reduce inequality while leaving exploitative control intact.
+
+#### Part B — Labour-power, new value and surplus labour
+
+✅ **Labour-power** is the capacity to work, purchased for a period; **labour** is its actual use. Marx's labour-value account concerns **socially necessary labour time** under prevailing conditions, not how long an inefficient producer happens to take. The capitalist may pay the value of labour-power yet appropriate more new value from its use. Thus the theory does not require fraudulent wage withholding.
+
+| Hypothetical value accounting | Units | Meaning |
+|---|---:|---|
+| Materials and machinery value transferred | 20 | Constant capital, c |
+| Labour-power purchased | 60 | Variable capital, v |
+| New value produced by living labour | 100 | v + s |
+| Surplus value | 40 | s = 100 − 60 |
+| Total product value | 120 | c + v + s |
+
+⚠️ These invented **illustrative units are not data** or observed prices. The first part of the working day replaces labour-power's value (**necessary labour**); the remainder creates **surplus labour**. The example isolates Marx's value accounting. Profit as measured in company accounts and the prices of particular goods require further explanation; a GDP labour share is not the rate s/v.
+
+Alienation and exploitation can come apart analytically. Higher wages can change the distribution of gains without restoring control of product or purpose. Conversely, meaningful work can coexist with surplus appropriation. Both concern social relations, but one foregrounds human agency and the other value production and appropriation.
+
+✅ **Commodity fetishism** describes how relations among producers appear as relations among commodities with apparently independent value. It is not merely liking possessions. ⚠️ Imagine buyers seeing a garment's market price without seeing the labour and ownership relations behind it. The example shows obscured social relations, not that a price is intrinsically false. Fetishism is related to alienation but does not exhaust the fourfold account.
+
+**Strongest economic objection:** labour-value theory is disputed because prices, risk, capital and scarce resources are explained differently by rival economics. **Reply:** Marx distinguishes value relations from immediate market-price movements and asks how formally equivalent exchange reproduces class appropriation. **Residual:** retaining that structural question does not by itself establish the contested quantitative value theory. Preserve the distinction instead of declaring either every profit theft or every voluntary contract non-exploitative.
 
 ### Strongest objection, reply and residual
 
@@ -940,74 +1107,94 @@ Alienation describes loss of authorship over labour and social life; exploitatio
 7. Redistribution can reduce inequality while leaving workplace command intact.
 8. The value-theory and human-essence objections qualify, but do not erase, the domination question.
 
+9. Necessary labour replaces labour-power's value; surplus labour produces the remainder; c, v and s are not company-price accounts.
+10. Commodity fetishism concerns social relations appearing as relations of things, not simply consumer greed.
+
 ### Local MCQs — questions before answers
 
-### Question 14
+**MCQ 14**
 
-Marx's four dimensions of alienation are estrangement from:
+A worker chooses the production method, but the finished object becomes another person's asset for that owner's purposes. Which dimension is most directly illustrated?
 
-A. the state, the church, the family, and the market
-B. the product, the activity of labour, species-being, and other persons
-C. land, labour, capital, and enterprise
-D. reason, emotion, will, and memory
+A. From other persons, through competition replacing reciprocal relations among producers.
+B. From the product, through its appropriation and use as an external owner's asset.
+C. From species-being, through creative capacities being reduced to biological subsistence.
+D. From productive activity, through externally dictated pace and methods of work.
 
-### Question 15
+**MCQ 15**
 
-A crucial feature of Marx's concept of alienation is that:
+An enterprise substantially raises wages while retaining its decisions over products and the purposes of work. In Marx's account of estranged labour, which interpretation best assesses this reform?
 
-A. it applies only to unemployed workers
-B. it disappears once the minimum wage is raised
-C. it is broader than low wages, since a well-paid worker can remain alienated where labour, product and purpose are controlled by others
-D. it is identical to legal inequality
+A. Esteem for the finished object would repair product estrangement even under an external owner's direction.
+B. Creative activity now expresses species-being; consumption supplies the worker's missing productive fulfilment.
+C. Larger material rewards would leave estrangement unresolved where work remains external to self-development.
+D. Reduced wage rivalry would end estrangement from others while employment still organises the producers' mutual dependence.
 
-### Question 16
+**MCQ 16**
 
-According to Marx, surplus value arises because:
+In the lesson's illustration, new value is 100 units and labour-power costs 60 units. What is the surplus-value calculation?
 
-A. capitalists steal wages outright through fraud
-B. workers are paid more than the value they create
-C. the state taxes workers too heavily
-D. the value produced during the working day can exceed the value represented by wages, and the remainder is appropriated by owners of capital
+A. 60 units: surplus is the value assigned to purchased labour-power.
+B. 100 units: surplus is the new value produced by living labour.
+C. 160 units: surplus combines new value with the labour-power purchased.
+D. 40 units: surplus equals new value minus the purchased labour-power's value.
 
 #### Answers and explanations
 
-**MCQ 14: B**
+**MCQ 14 — Answer and explanation**
 
-- **A — Incorrect:** These institutions are not Marx’s four analytically specified objects of workers’ estrangement.
-- **B — Correct:** The 1844 Manuscripts identify estrangement from product, from the act of labour, from species-being, and from other persons.
-- **C — Incorrect:** Land, labour, capital and enterprise are factors of production, not dimensions of alienated labour.
-- **D — Incorrect:** Reason, emotion, will and memory are psychological faculties rather than Marxian relations of estrangement.
+**Correct answer: B**
 
-**MCQ 15: C**
+- **A — Incorrect:** Competition and altered reciprocal relations are not the case's stated mechanism; the focus is the finished object's relation to its maker.
+- **B — Correct:** The maker confronts the result as another's property and instrument. This directly illustrates estrangement from the product.
+- **C — Incorrect:** Reduction to subsistence is not established by the stated facts; product estrangement can be identified without settling that further dimension.
+- **D — Incorrect:** The case gives the worker choice of method; imposed pace/method is a different direct illustration of activity estrangement.
 
-- **A — Incorrect:** Alienation concerns workers’ relation to labour and its products, so employment is its setting rather than unemployment alone.
-- **B — Incorrect:** Higher pay can ease deprivation without restoring control over activity, product or purpose.
-- **C — Correct:** Alienation concerns control over the activity and ends of work, so higher pay alone does not remove it -- the mark-bearing distinction.
-- **D — Incorrect:** Legal inequality concerns unequal status before law; alienation can persist under formally equal rights.
+**MCQ 15 — Answer and explanation**
 
-**MCQ 16: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Surplus value is a structural result of wage labour, not necessarily fraudulent withholding of an agreed wage.
-- **B — Incorrect:** If wages exceeded created value, the stated source of capitalist surplus would disappear rather than arise.
-- **C — Incorrect:** Taxation distributes claims through the state and is distinct from surplus generated in production.
-- **D — Correct:** Exploitation is structural, not theft: under a formally free contract the labour done can create more value than the wage returns, and that gap is appropriated.
+- **A — Incorrect:** A worker can value an object yet confront it as another's property and instrument. Product estrangement concerns that relation, not lack of esteem; appreciation does not itself restore control.
+- **B — Incorrect:** Greater consumption is not evidence that creative work now expresses species-being; productive fulfilment concerns how activity is governed.
+- **C — Correct:** Marx assesses labour through conscious, creative self-realisation. Better payment does not transform externally governed activity into the worker's own self-development; material reward and productive agency are different dimensions.
+- **D — Incorrect:** Less rivalry could improve solidarity, but it does not itself overcome employment-mediated dependence or the commodity form of social relations. The option mistakes one competitive symptom for the whole other-person dimension of alienation.
+
+**MCQ 16 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** The 60 units reproduce the value of purchased labour-power; they are variable capital, not the surplus.
+- **B — Incorrect:** Counting the whole 100 as surplus neglects the labour-power value that must first be replaced.
+- **C — Incorrect:** Adding the wage bill double-counts instead of separating necessary from surplus labour.
+- **D — Correct:** The model gives 100 − 60 = 40. Transferred machinery/material value is excluded from the stated new value.
+
+### Original Mains check — payment and agency
+
+**Question (10 marks; 150-word ceiling):** Distinguish alienation from exploitation and explain why higher wages do not settle either question.
+
+**Model answer:** Alienation concerns estrangement from product, activity, creative human capacities and other persons. Exploitation concerns appropriation of surplus within productive relations. Marx's 1844 Manuscripts foreground agency; surplus-value theory distinguishes labour-power's value from the new value its use creates.
+
+A better wage can improve consumption without restoring control over productive purpose. It can also reduce surplus appropriation without eliminating the wage relation. The concepts therefore overlap but are not synonymous with poverty or income inequality.
+
+Commodity fetishism adds the appearance that relations among producers belong naturally to things. Neither that insight nor the structural exploitation question proves the contested quantitative labour-value theory. The defensible judgment separates human agency, appropriation and price explanation.
+
+**Why this earns marks:** It reconstructs both mechanisms, uses the Manuscripts, labour-power and fetishism, and qualifies value theory without dissolving the conceptual distinction.
 
 ### Transition
 
-Lesson 6 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+If exploitation can occur inside a formally free contract, equality on paper may conceal dependence elsewhere. The next lesson applies that problem to citizenship, ideology and the state's claim to neutrality.
 
 ---
 
 ## Lesson 6 — Ideology, Class-State and the Critique of Pure Democracy
 
-**Progress:** 6 / 13 | **Stage:** Core | **Exact subtopic:** Ideology, Class-State and the Critique of Pure Democracy
+Progress: 6 / 13 | Stage: Core | Subtopic: Ideology, Class-State and the Critique of Pure Democracy
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — political/human emancipation, class-state and the Commune.
+- **CA search:** Not required; no current election, party or state is classified.
+- **CA found:** The discussion evaluates arguments, not a present administration.
 
 ### VISUAL — First map of the problem
 
@@ -1017,24 +1204,23 @@ formal citizenship + unequal property + ruling ideas
 -> deepen democracy into economic power and recall
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Equal citizenship is real yet can coexist with economic dependencies outside the ballot.*
 
 ### Learner-first intuition
 
 The Marxist democracy critique is not a licence to discard rights. It asks whether equal citizenship is substantively democratic when economic agenda power and ideological production remain unequal.
 
-### Technical doctrine and full argument
+### Part A — Why equal citizenship may leave unequal social power
 
-### 2.6 Ideology and the state
+### Ideology and the class-state
 
 ✅ **Ideology** is not merely a lie. It is a socially rooted framework through which historically specific relations appear natural, universal or inevitable.
 
 ✅ In the classical Marxist critique, the modern state secures general conditions of the capitalist order while presenting itself as representing universal interest. ⚠️ This does not mean every state act directly benefits every capitalist; relative autonomy is compatible with structural class function.
 
-### 2.10 The Marxist critique of "pure" democracy
+### The Marxist critique of "pure" democracy
 
-This is the direct Core route for **2026 Q1(d)** — *"On what grounds does Marxism criticize pure
-democracy?"* The stem's phrase is a term of art: "pure democracy" means democracy conceived as a
+The phrase "pure democracy" targets democracy conceived as a
 **classless political form standing above society**, equally available to all citizens as such.
 
 **Doctrine statement**
@@ -1060,8 +1246,8 @@ while leaving the substantive power to set the terms of social life in private h
    to a social order that disadvantages the majority.
 5. **The periodicity ground.** ⚠️ Where representation is reduced to choosing, at long intervals,
    which members of the ruling class will misrepresent the people, participation is episodic while
-   economic power is continuous — the objection developed sharply by **Lenin**, *The State and
-   Revolution* (**1917**).
+   economic power is continuous. Marx makes the periodic-choice criticism in *The Civil War in
+   France* (**1871**); **Lenin** quotes and develops it in *The State and Revolution* (**1917**).
 6. **The no-neutral-democracy ground.** ✅ Lenin's *The Proletarian Revolution and the Renegade
    Kautsky* (**1918**) makes the explicit attack on "pure democracy": in a class society every
    democracy is a democracy *for* some class, so the honest question is **democracy for whom**.
@@ -1081,7 +1267,7 @@ while leaving the substantive power to set the terms of social life in private h
   interference.
 - ⚠️ Formal equality can mask, and even stabilise, substantive inequality.
 - ❓ That the working class possesses, or can acquire, a unified interest capable of being
-  represented — an assumption that later Marxists themselves qualify (§2A).
+  represented — an assumption that later Marxists themselves qualify.
 
 **Comparison chart — three readings of the same institutions**
 
@@ -1101,14 +1287,14 @@ while leaving the substantive power to set the terms of social life in private h
 abolishing civil liberties, opposition and legality.
 **Reply:** ⚠️ Marx's own institutional model is the Commune — elective, recallable, decentralised
 and non-bureaucratic — not an unaccountable party-state.
-**Residual problem:** ✅ this is the strongest objection in the file. The Commune model does not by
+**Residual problem:** ⚠️ the Commune model does not by
 itself supply guarantees for dissent, minorities and succession; those must be built in
 explicitly, not postponed.
 
 **Objection 2 — the autonomy objection.** Universal franchise, labour law, welfare provision and
 judicial review show that the democratic state can act against concentrated wealth.
 **Reply:** ✅ later Marxists concede structural variation: Poulantzas's **relative autonomy** and
-Gramsci's **hegemony** explain concessions without conceding neutrality (§2A.3, §2A.5).
+Gramsci's **hegemony** explain concessions without conceding neutrality.
 **Residual problem:** ⚠️ relative autonomy weakens the original thesis: if the state can be turned
 against capital by democratic means, the parliamentary form is not merely a mask.
 
@@ -1116,10 +1302,37 @@ against capital by democratic means, the parliamentary form is not merely a mask
 be represented, so "democracy for whom" has no determinate answer.
 **Reply:** ⚠️ the criticism survives in a weaker but defensible form as a critique of **capture,
 agenda-setting and manufactured consent**, which does not require a unified proletariat.
-**Residual problem:** ✅ in that weaker form the critique converges with non-Marxist democratic
+**Residual problem:** ⚠️ in that weaker form the critique converges with non-Marxist democratic
 theory, and loses its revolutionary conclusion.
 
-**Traps (this stem only)**
+#### Part B — A citizen, an owner and a worker
+
+⚠️ In a hypothetical Indian town, everyone has one vote, but one employer can influence
+livelihoods, information and the cost of organising. Political emancipation is real: equal legal
+citizenship is valuable. The Marxian question is whether that exhausts freedom while productive
+dependencies remain. This is a conceptual possibility, not evidence about an actual election.
+
+**Political emancipation** grants civic equality within the state; **human emancipation** asks
+whether the social relations estranging people from their collective powers have changed.
+Marx's *On the Jewish Question* was written in **1843** and published in **1844**: different events.
+
+The Commune proposal combines suffrage, recallable delegates, elected/removable officials,
+workers' wages for public servants and legislative–executive work. It supplies a constructive
+democratic argument, but recall alone does not guarantee minority rights, adjudication or succession.
+
+**Doubt:** “If reform and repression can each be called functional for capital, what could
+disprove the thesis?” **Reply:** specify the mechanisms, relations and contrary evidence.
+Merely identifying material inequality does not justify abolishing constitutional liberty.
+
+### Strongest objection, reply and residual
+
+- **Objection:** The rejection of “bourgeois” institutions can also remove civil liberties.
+- **Reply:** Extend participation, recall and productive control while retaining rights and opposition.
+- **Residual:** Minority protection, dissent and succession need explicit guarantees.
+
+### UPSC application — grounds of the democracy critique
+
+**Traps**
 
 | ❌ Trap | ✅ Correction |
 |---|---|
@@ -1152,47 +1365,17 @@ theory, and loses its revolutionary conclusion.
 6. Conditional verdict: the formal/substantive gap is real; the inference to abolishing
    parliamentary guarantees does not follow.
 
-**Answer spine — 20 marks (~300 words)**
+**Answer spine — 20 marks (within 250 words)**
 
 1. Thesis, with the distinction between *rejecting democracy* and *rejecting its purity*.
 2. Grounds 1–7 as a numbered argument.
-3. Full comparison chart.
+3. Select the class-state, emancipation and constructive-institution axes; a full chart is revision material, not a 250-word requirement.
 4. The internal Marxist development: Gramsci's hegemony and Poulantzas's relative autonomy show
-   the tradition revising its own thesis (§2A.3, §2A.5).
+   the tradition revising its own thesis.
 5. Two objection → reply → residual chains (liberty; class identification).
 6. The Commune's institutional detail — election, recall, fusion of powers, workers' wages.
 7. Graded verdict naming what survives: not the abolition of representative institutions, but the
    demand that democratic equality be extended into the economy and protected against capture.
-
-**Exact 2026 PYQ route:** 2026 Q1(d) [10] → §2.10, supported by §2.6 (ideology and the state),
-§2.7 (transition) and §2A.3/§2A.5 → verdict formula in §9.5. Bridge:
-[Forms of Government](Forms-of-Government.md) §4.3 and §4A.4 for procedural/substantive democracy
-and its pathologies — cite, do not re-teach.
-
-**Sources for §2.10**
-
-- Karl Marx and Friedrich Engels, *The Communist Manifesto* (**1848**) — the state as manager of
-  the common affairs of the propertied class.
-- Karl Marx, *On the Jewish Question* (**1843**) — political emancipation distinguished from human
-  emancipation.
-- Karl Marx and Friedrich Engels, *The German Ideology* (written **1845–46**) — ruling ideas and
-  the means of mental production.
-- Karl Marx, *The Civil War in France* (**1871**) — the Paris Commune: elected and recallable
-  delegates, fusion of legislative and executive functions, officials at workers' wages.
-- V. I. Lenin, *The State and Revolution* (**1917**) and *The Proletarian Revolution and the
-  Renegade Kautsky* (**1918**) — the explicit rejection of "pure democracy" above classes.
-- [Stanford Encyclopedia of Philosophy, "Karl Marx"](https://plato.stanford.edu/entries/marx/) —
-  state, ideology and emancipation. Cited by position; paraphrased, never quoted.
-- ⚠️ All texts are cited by title and year only; no page, chapter, edition or verbatim wording is
-  asserted, and no contemporary state, party or government is characterised.
-
----
-
-### Strongest objection, reply and residual
-
-- **Objection:** Criticising bourgeois democracy abolishes civil liberty.
-- **Reply:** The constructive route extends participation, recall and control into economic life.
-- **Residual:** Minority rights, dissent and succession need explicit guarantees.
 
 ### Local exact PYQ approach
 
@@ -1209,58 +1392,76 @@ and its pathologies — cite, do not re-teach.
 7. Formal equality remains valuable but insufficient where productive and agenda power are unequal.
 8. Civil liberties, opposition, minority rights and succession are indispensable residual requirements.
 
+9. *On the Jewish Question* was written in 1843 and published in 1844; political and human emancipation are different explanatory tasks.
+10. Election, recall, removable officials, workers' wages and fused public work do not by themselves supply a complete safeguard system.
+
 ### Local MCQs — questions before answers
 
-### Question 17
+**MCQ 17**
 
-For Marx, the 'dictatorship of the proletariat' denotes:
+Which institutional feature belongs to Marx's Commune alternative?
 
-A. a transitional political supremacy of the working class, not in itself a textual licence for permanent one-party dictatorship
-B. the permanent rule of a single vanguard party
-C. rule by a hereditary monarch advised by workers
-D. the immediate and final abolition of all authority
+A. Election and recall make delegates answerable during legislative and executive work.
+B. Representatives face periodic elections but remain insulated from recall.
+C. Professional officials retain tenure to insulate administration from citizen intervention.
+D. Legislative and executive estates exercise checks through inherited corporate privileges.
 
-### Question 18
+**MCQ 18**
 
-In the Marxist critique, ideology is best defined as:
+Citizens have equal electoral rights but sharply unequal control of production. Which description captures Marx's political/human emancipation distinction?
 
-A. simply a deliberate lie told by rulers
-B. a socially rooted framework through which historically specific relations appear natural, universal or inevitable
-C. any scientific theory of economics
-D. the constitution of a state
+A. Common ownership is the condition of political emancipation; human emancipation adds equal electoral rights.
+B. Equal civic membership constitutes political emancipation; productive dependency outlasts that constitutional change.
+C. Representative voting supplies equal productive command; human emancipation removes disagreements about cultural outlook.
+D. Separate civic and economic roles overcome dependence; human emancipation then supplies self-discipline to citizens.
 
 #### Answers and explanations
 
-**MCQ 17: A**
+**MCQ 17 — Answer and explanation**
 
-- **A — Correct:** The phrase names a transitional class supremacy; reading it as a warrant for a permanent party-state is a core overreach.
-- **B — Incorrect:** Permanent vanguard rule is a later authoritarian identification, not the limited meaning of proletarian political transition.
-- **C — Incorrect:** Hereditary monarchy preserves dynastic domination and has no place in Marx’s account of working-class supremacy.
-- **D — Incorrect:** A transitional phase presupposes continuing political authority, so it is not immediate statelessness.
+**Correct answer: A**
 
-**MCQ 18: B**
+- **A — Correct:** Election and recall make public functionaries answerable between elections; the Commune is a constructive proposal, not rejection of participation.
+- **B — Incorrect:** Periodic authorisation without recall omits the Commune's distinctive continuing accountability.
+- **C — Incorrect:** Protected bureaucratic tenure contradicts Marx's emphasis on elective and removable public officials.
+- **D — Incorrect:** Inherited corporate estates are not the Commune's fusion of legislative and executive public work.
 
-- **A — Incorrect:** Ideology can be sincerely reproduced by social institutions; it need not be a consciously invented deception.
-- **B — Correct:** Ideology is 'not merely a lie' but the naturalisation of contingent, class-bound relations -- the pejorative Marxian sense.
-- **C — Incorrect:** A scientific economic theory may criticise ideology but is not thereby an instance of it.
-- **D — Incorrect:** A constitution is a legal framework, not the Marxist category explaining naturalised class relations.
+**MCQ 18 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** This reverses the distinction: equal civic inclusion is political emancipation, not a later addition that first requires common productive ownership.
+- **B — Correct:** Equal political standing is a real achievement, yet human emancipation asks about the underlying social relations left unequal in the case.
+- **C — Incorrect:** Voting does not allocate equal command over productive assets; human emancipation concerns social relations, not simply disagreement over cultural outlook.
+- **D — Incorrect:** Separating civic and economic roles can conceal dependence rather than overcome it; human emancipation is not merely personal self-discipline added to that separation.
+
+### Original Mains check — the reach of civic equality
+
+**Question (10 marks; 150-word ceiling):** Examine whether equal voting rights are sufficient for freedom from social domination.
+
+**Model answer:** Equal votes secure political standing but need not equalise productive or agenda power. Marx's distinction between political and human emancipation explains how civic equality can coexist with dependence in civil society.
+
+The Manifesto's class-state analysis asks which relations public institutions reproduce. The Commune proposal adds election, recall and removable officials to participation. These demonstrate a constructive concern with democracy beyond intermittent authorisation.
+
+Yet economic inequality does not erase the value of votes or establish that constitutional liberty should be abolished. Workers may use rights and organisation against concentrated wealth. The strongest verdict preserves political equality while extending contestation into economic life; recall and productive reform still require minority rights, dissent and accountable adjudication.
+
+**Why this earns marks:** It uses emancipation, class-state and Commune arguments to answer sufficiency, and rejects the false choice between social reform and civil liberty.
 
 ### Transition
 
-Lesson 7 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+The Commune suggests more accountable rule, but a question remains: can transitional collective power secure freedom without becoming another hierarchy? We now examine revolution, communist phases and institutional safeguards.
 
 ---
 
 ## Lesson 7 — Revolution, Transition, Communism, Freedom and Plural Domination
 
-**Progress:** 7 / 13 | **Stage:** Core | **Exact subtopic:** Revolution, Transition, Communism, Freedom and Plural Domination
+Progress: 7 / 13 | Stage: Core | Subtopic: Revolution, Transition, Communism, Freedom and Plural Domination
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — communist phases, contribution, individual freedom and plural domination.
+- **CA search:** Not required; ownership and unequal care are conceptual examples.
+- **CA found:** No policy is represented as demonstrating classlessness.
 
 ### VISUAL — First map of the problem
 
@@ -1269,15 +1470,15 @@ capitalist contradiction -> transition -> lower phase -> higher phase
 TEST THROUGHOUT: liberty + pluralism + accountability
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*The transition must protect its emancipatory end while it operates, not after it finishes.*
 
 ### Learner-first intuition
 
 A transition is emancipatory only if those supposedly liberated actually govern. Equality, equity and collective ownership must therefore be tested by individual freedom, plural organisation and constitutional limits.
 
-### Technical doctrine and full argument
+### Part A — Self-emancipation and the transition problem
 
-### 2.7 Revolution, proletarian transition and communism
+### Revolution, proletarian transition and communism
 
 ✅ Capitalism socialises production while retaining private appropriation. Marx expects this contradiction, together with organised class struggle, to make revolutionary transformation possible.
 
@@ -1290,9 +1491,33 @@ A transition is emancipatory only if those supposedly liberated actually govern.
 - capitalist contradictions are transformable through praxis;
 - democratic control of social production can avoid a new ruling stratum.
 
-### 2.8 Equality, equity and freedom
+### Equality, equity and freedom
 
 ✅ Marx criticises equal legal right where formally identical rules operate over radically unequal social conditions. In the lower phase of communist society, distribution by contribution retains a “bourgeois” measure; the higher phase aspires to distribution by need.
+
+The two criticisms must not be merged. Under **capitalism**, formal contractual equality can coexist with class dependence. In the **lower communist phase**, Marx's *Critique of the Gotha Programme* questions an equal labour-contribution standard applied to people with unequal abilities, dependants and needs. This remains a “right of inequality” even after capitalist private ownership has changed.
+
+```text
+CAPITALIST WAGE RELATION
+formal exchange + class dependence
+                 |
+transformation of productive ownership and political power
+                 v
+LOWER COMMUNIST PHASE
+common deductions -> contribution-based consumption claims
+same measure / differently situated persons -> unequal effective provision
+                 |
+projected transformation of scarcity, division of labour and alienated activity
+                 v
+HIGHER PHASE
+contribute according to ability / receive according to need
+```
+
+*The phases distinguish normative distribution rules, not a verified historical schedule.*
+
+Common deductions supply shared investment, administration and social provision before individual consumption claims. Two people contributing equivalent labour can therefore receive comparable claims but have different care burdens. Need-responsive provision addresses that difference; it is not a rule that capitalist wages should simply be identical.
+
+The later shorthand calls the lower phase “socialism.” Marx himself discusses lower and higher phases of communist society. Elsewhere “socialism” names the whole ideological family. State which usage the answer adopts.
 
 **Distinction:**
 
@@ -1305,10 +1530,10 @@ A transition is emancipatory only if those supposedly liberated actually govern.
 
 ⚠️ Marxian socialism and individual freedom are consistent only if collective ownership enlarges real self-development and democratic control. If “collective” power becomes bureaucratic command, the emancipatory claim defeats itself.
 
-### 2.9 Objections and Marxist replies
+### Objections to the transition and Marxist replies
 
 **Economic determinism:** culture, caste, religion, gender and nationalism have relative autonomy.
-**Reply:** ✅ historical materialism can treat these as materially embedded powers rather than epiphenomena; later Marxists expand the analysis through hegemony and social reproduction.
+**Reply:** ⚠️ a non-reductive historical materialism can investigate these as materially embedded powers rather than epiphenomena; later Marxist accounts of hegemony and social reproduction develop that approach.
 
 **Failed prediction:** revolution did not first triumph in the most advanced capitalist societies.
 **Reply:** ⚠️ Marxism remains an explanatory framework, not an infallible timetable; imperialism, welfare compromise and political organisation altered trajectories.
@@ -1318,6 +1543,16 @@ A transition is emancipatory only if those supposedly liberated actually govern.
 
 **Class reductionism:** caste and patriarchy cannot be derived from class alone.
 **Reply:** ⚠️ class analysis is necessary but insufficient in India; anti-caste and feminist analyses identify distinct mechanisms of status, endogamy and social reproduction.
+
+#### Part B — How a promised end tests its means
+
+The transitional claim is that workers need organised political power to prevent counter-revolution and transform ownership. **Withering away** projects the loss of coercive class-rule when antagonistic classes disappear; it need not eliminate administration of shared production. The danger is that officials develop interests of their own. A party's claim to represent workers is not equivalent to workers exercising power.
+
+⚠️ Constitutional safeguards here are a normative reconstruction, not a claim that Marx supplied a complete liberal constitution: protected association, dissent, recall, legal accountability and plural worker organisations must constrain transition while it operates. Deferring liberty until after equality reproduces the domination emancipation was meant to overcome.
+
+India supplies an analytical test, not a regime label. Collective productive ownership could improve a worker's economic security while endogamy excludes them from social association or unequal care work limits participation. These are not separate labels pasted onto class; they alter how productive resources can be used. Anti-caste and feminist explanation is therefore necessary to specify the mechanisms.
+
+The strongest reply to authoritarian outcomes separates diagnosis, transitional doctrine and institutional record. That distinction prevents blanket refutation, but it must not become an immunity device: repeated concentration of power is relevant evidence against an under-specified transition.
 
 ### Strongest objection, reply and residual
 
@@ -1342,72 +1577,89 @@ A transition is emancipatory only if those supposedly liberated actually govern.
 
 ### Local MCQs — questions before answers
 
-### Question 19
+**MCQ 19**
 
-Marx's critique of 'equal legal right' is that:
+In the lower communist phase, two producers receive equal labour credits but have different needs. What is Marx's criticism?
 
-A. all legal rights should be abolished immediately
-B. formal equality is always sufficient for justice
-C. formally identical rules operating over radically unequal social conditions can conceal unequal productive power, so formal equality may mask domination
-D. equity and equality mean exactly the same thing
+A. Common deductions turn contribution credits into wages paid by owners of productive resources.
+B. Unequal needs reveal unequal labour effort as the source of the distributional defect.
+C. Equal contribution credits leave differences in needs and care burdens outside the distributive standard.
+D. Equal credits under common ownership implement the higher phase's rule of distribution by need.
 
-### Question 20
+**MCQ 20**
 
-Marxian socialism and individual freedom are consistent, according to the core account, only if:
+Which test most directly shows that collective title has changed who governs production, rather than just the proprietor's name?
 
-A. the individual is fully subordinated to the party
-B. private property is expanded
-C. the state is abolished overnight
-D. collective ownership genuinely enlarges real self-development and democratic control, rather than becoming bureaucratic command
+A. Officials explain plans before retaining discretion over disputed productive priorities.
+B. Growing output secures incomes, compensating workers for restrictions on association during the transition.
+C. A protected job entitlement limits exposure to competition during economic reconstruction.
+D. Workers contest managerial priorities through independent organisation and productive voice.
 
-### Question 21
+**MCQ 21**
 
-Remedial -- 'Marxism is basically the demand for equal incomes'. The correct correction is that:
+What does “withering away” claim when class antagonisms cease?
 
-A. Marxism's central categories are production, class, exploitation, alienation and praxis -- not equality of income; it criticises the wage-relation, not merely unequal pay
-B. Marxism is only about wages
-C. Marxism demands identical incomes for all
-D. equality of income is Marx's central category
+A. Coercive class function disappears alongside continuing coordination of social production.
+B. Competitive private protection replaces the public monopoly through voluntary market contracts.
+C. Political compulsion recedes as non-violent moral self-rule becomes a shared social principle.
+D. Constitutional division of powers restricts commands while leaving productive property privately held.
 
 #### Answers and explanations
 
-**MCQ 19: C**
+**MCQ 19 — Answer and explanation**
 
-- **A — Incorrect:** Marx criticises the limits of abstract rights, not every possible legal protection or right as such.
-- **B — Incorrect:** Identical rules can reproduce substantive inequality when people possess radically unequal resources and power.
-- **C — Correct:** Marx distinguishes formal from substantive equality: the same rule applied to unequal conditions can entrench, not remove, domination.
-- **D — Incorrect:** Equity adjusts for relevant differences, whereas equality can denote identical treatment; the terms are not synonymous.
+**Correct answer: C**
 
-**MCQ 20: D**
+- **A — Incorrect:** A deduction for shared requirements does not make association-based consumption claims into wages purchased by a capitalist proprietor.
+- **B — Incorrect:** The case holds credited contribution equal and varies need; Marx's criticism is the standard's treatment of differently situated persons, not an inferred difference in effort.
+- **C — Correct:** Equal measurement of contribution can give differently situated people unequal effective provision; this is the lower-phase “right of inequality.”
+- **D — Incorrect:** Common title is not enough to identify the higher phase; the contribution standard remains precisely the limit Marx contrasts with need-based provision.
 
-- **A — Incorrect:** Total party subordination defeats the promised development of individual capacities and democratic agency.
-- **B — Incorrect:** Expanding private productive property strengthens the concentrated power Marxian socialism seeks to transform.
-- **C — Incorrect:** Overnight abolition supplies no account of transition, coordination or the prevention of new domination.
-- **D — Correct:** The self-defeat condition: emancipation requires that collective power expand freedom; bureaucratic command defeats the emancipatory claim.
+**MCQ 20 — Answer and explanation**
 
-**MCQ 21: A**
+**Correct answer: D**
 
-- **A — Correct:** Reducing Marxism to income equality misses its structural categories; exploitation concerns control and appropriation, not distribution alone.
-- **B — Incorrect:** Reducing Marxism to wages omits ownership, labour control, alienation and the class structure of production.
-- **C — Incorrect:** Identical incomes are not Marx’s criterion of emancipation and leave the wage relation unanalyzed.
-- **D — Incorrect:** Income equality is subordinate to Marx’s deeper concern with production, exploitation and self-emancipation.
+- **A — Incorrect:** Explanation can improve consultation while leaving the locus of final productive power unchanged.
+- **B — Incorrect:** Income benefits or reduced costs of restraint do not establish that affected workers govern decisions.
+- **C — Incorrect:** Security is valuable but is not evidence of a changed decision-making relation inside production.
+- **D — Correct:** Association, contestation and productive voice test whether social ownership changes agency rather than just the proprietor.
+
+**MCQ 21 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Withering concerns the political instrument of class domination, not the disappearance of shared administration and productive coordination.
+- **B — Incorrect:** This is a market-protection replacement model, not the Marxian account of why class-state functions lose their basis.
+- **C — Incorrect:** This supplies the moral self-rule route already encountered with Gandhi; Marx's withering argument turns on class relations rather than universal moral conversion.
+- **D — Incorrect:** Limiting a continuing state through constitutional checks differs from the projected loss of coercive class function.
+
+### Original Mains check — a standard and unequal needs
+
+**Question (10 marks; 150-word ceiling):** Explain why Marx criticises equal contribution-based provision in the lower communist phase.
+
+**Model answer:** Equal contribution measures unequal people by one standard. In the Critique of the Gotha Programme, producers receive consumption claims after common deductions, but differ in capacities, dependants and needs. Equal right can therefore remain a “right of inequality.”
+
+This differs from capitalist exploitation, where owners appropriate surplus under formally equal contracts. The lower-phase defect persists even after that ownership relation changes. The projected higher phase distributes according to need rather than making equal labour credits the final norm.
+
+The objection is that need-based provision requires information and incentives. Marx's projection presupposes transformed scarcity, division of labour and cooperation; it is not an immediate salary prescription. A careful answer distinguishes capitalist contract, lower-phase contribution and higher-phase need without claiming a verified historical schedule.
+
+**Why this earns marks:** It correctly locates the equal-right criticism in the lower phase, distinguishes it from wage exploitation, and explains the higher phase's demanding presuppositions.
 
 ### Transition
 
-Lesson 8 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+Marx's transition needs organised agency, not a contradiction acting by itself. Lenin asks how to organise it; Gramsci asks why an unequal order still secures consent.
 
 ---
 
 ## Lesson 8 — Lenin and Gramsci: Weakest Link, Vanguard, Hegemony and Strategy
 
-**Progress:** 8 / 13 | **Stage:** Advanced | **Exact subtopic:** Lenin and Gramsci: Weakest Link, Vanguard, Hegemony and Strategy
+Progress: 8 / 13 | Stage: Advanced | Subtopic: Lenin and Gramsci: Weakest Link, Vanguard, Hegemony and Strategy
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — Lenin's organisation; Gramsci's consent, intellectuals and strategy.
+- **CA search:** Not required; the workers' association is hypothetical.
+- **CA found:** No contemporary organisation is labelled Leninist or Gramscian.
 
 ### VISUAL — First map of the problem
 
@@ -1416,19 +1668,23 @@ LENIN: weakest link -> vanguard -> substitutionism risk
 GRAMSCI: consent -> hegemony -> war of position -> counter-hegemony
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Lenin tackles revolutionary organisation; Gramsci tackles the durability of consent.*
 
 ### Learner-first intuition
 
 Lenin and Gramsci respond to two different failures of expectation: revolution did not arise automatically, and capitalist rule survived through consent as well as force. Organisation and culture acquire causal weight.
 
-### Technical doctrine and full argument
+### Part A — Lenin: organisation under uneven conditions
 
-### 2A.2 Lenin: imperialism, the weakest link and the vanguard
+### Lenin: imperialism, the weakest link and the vanguard
 
 ✅ **V. I. Lenin** revises classical expectation at two points.
 
-1. **Imperialism as the highest stage of capitalism.** Monopoly capital exports capital abroad, and superprofits from colonial and semi-colonial exploitation allow concessions to a stratum of workers at home. This explains why revolution did not erupt first in the most advanced economies, and it converts capitalism into a **global** system whose contradictions are unevenly distributed. ⚠️ The corollary — that the chain breaks at its **weakest link**, in a country of combined and uneven development rather than in the most industrialised one — is the analytically important move.
+✅ ***What Is to Be Done?*** develops the organisation and political-consciousness argument.
+***Imperialism, the Highest Stage of Capitalism*** supplies the global-capitalism framework.
+The two texts address related but distinct explanatory problems.
+
+1. **Imperialism as the highest stage of capitalism.** In Lenin's account, monopoly and finance capital, capital export, international capitalist combinations and division of the world make capitalist relations globally interdependent and uneven. Colonial superprofits can support concessions to sections of workers. ⚠️ The **weakest-link** argument asks where political contradictions make revolutionary rupture possible rather than selecting the most industrialised economy by definition. It is not a proved forecast of every revolution. “Combined and uneven development” is associated especially with Trotsky and should not be presented as Lenin's distinctive formula.
 2. **The vanguard party.** Left to itself, working-class struggle generates only trade-union consciousness — better wages and conditions within capitalism. Revolutionary political consciousness must be brought in from outside by a disciplined organisation of professional revolutionaries operating under **democratic centralism**: free discussion before decision, unity of action after it.
 
 **Reconstructed argument for the vanguard ⚠️:**
@@ -1443,14 +1699,17 @@ Lenin and Gramsci respond to two different failures of expectation: revolution d
 
 **Objection → Reply ⚠️:**
 
-- **Objection:** premise 5 is exactly where substitutionism begins — the party stands for the class, then the central committee for the party, then the leadership for the committee. The instrument becomes a new ruling stratum, which is the historical objection at §2.9.
+- **Objection:** premise 5 is where substitutionism begins — party for class, committee for party, leadership for committee. The instrument becomes a new ruling stratum, reproducing the transition problem already examined.
   **Reply:** ⚠️ Leninists reply that democratic centralism includes accountability and recall, and that emergency centralisation was conjunctural. The residual problem is severe and should be conceded: no institutional mechanism in the model reliably subordinates the party to the class it claims to represent.
-- **Objection (anarchist, §4.1):** this vindicates Bakunin's warning that a workers' state becomes a new despotism.
-  **Reply:** ⚠️ the Marxist counter is that abolishing organisation does not abolish power but disperses it unaccountably. The exchange is genuinely unresolved and should be presented as such.
+- **Objection (anarchist):** this vindicates Bakunin's warning that a workers' state becomes a new despotism.
+  **Reply:** ⚠️ the Marxist counter is that rejecting organised transitional state power may leave entrenched property and coercion undefeated. Anarchists reply that federation is organisation too. The dispute concerns sovereignty, not organisation versus its absence.
 
-### 2A.3 Gramsci: hegemony, civil society and the war of position
+### Gramsci: hegemony, civil society and the war of position
 
 ✅ **Antonio Gramsci** asks why capitalism survived defeat and crisis in Western Europe. His answer: in the West, class rule operates not chiefly through coercion but through **hegemony** — moral, intellectual and cultural leadership that secures the **consent** of the subordinated to an order that disadvantages them.
+
+✅ The ***Prison Notebooks*** are the named textual anchor for hegemony, organic intellectuals
+and the distinction between a war of position and a war of manoeuvre.
 
 | Sphere | Mode of rule | Institutions | Gramsci's term |
 |---|---|---|---|
@@ -1467,7 +1726,7 @@ Lenin and Gramsci respond to two different failures of expectation: revolution d
 
 **Presupposition ⚠️:** the superstructure has real causal weight, and ideas are material forces once they organise conduct.
 
-**What this changes ✅:** classical Marxism treats the ruling ideas as a reflex of the base; Gramsci makes ideological leadership an **achievement that can be lost and won**. This is the first substantial concession of relative autonomy to the superstructure and is the foundation of everything in §2A.4 and §2A.5.
+**What this changes:** ✅ Gramsci develops ideological leadership as an **achievement that can be lost and won**. ⚠️ This deepens cultural and institutional mediation; it should not be called the first recognition of superstructural efficacy, or read as proof that Marx treated ideas as a passive reflex.
 
 **Objection → Reply ⚠️:**
 
@@ -1476,7 +1735,15 @@ Lenin and Gramsci respond to two different failures of expectation: revolution d
 - **Objection:** the concept licenses culturalism — endless struggle over ideas with no confrontation of economic power.
   **Reply:** ⚠️ correct as a warning about how Gramsci is used; war of position is preparatory, not a substitute for transforming property relations.
 
-⚠️ **India-facing note:** the vocabulary of civil society, common sense, organic intellectuals and counter-hegemony has obvious application to caste and to social reform, and is often used that way. ✅ Note the affinity with Ambedkar's insistence that caste is sustained by belief, sanctified authority and social sanction, not by force alone — while recording that the two frameworks locate the ultimate mechanism differently (§4.3 of the [Caste file](Caste-Gandhi-Ambedkar.md)). ❌ Do not attribute Gramscian vocabulary to Ambedkar or vice versa.
+#### Part B — Why consent must be built, not merely assumed
+
+✅ **Organic intellectuals** articulate a group's experience into an organised outlook; the term does not mean that only university professionals think. **Common sense** is an inherited, mixed outlook, while **good sense** identifies critical possibilities inside lived experience. **Contradictory consciousness** means that practical experience and inherited beliefs can pull a person in different directions.
+
+⚠️ Imagine an Indian workers' association whose members seek better conditions but also take an unequal workplace order as natural. Education and practical organisation can connect their experience to a wider counter-hegemonic argument. The illustration shows why consciousness is contestable; it cannot prove that every agreement with existing institutions is manufactured.
+
+Gramsci's political and civil society are analytical dimensions of an **integral state**: consent is protected by coercion, and coercion often depends on legitimating beliefs. They are not impermeable public/private boxes. A war of position builds durable alternative leadership; a war of manoeuvre is frontal political struggle. Cultural work is not a substitute for changing property relations.
+
+✅ Ambedkar independently explains caste through sanctified beliefs, status and social sanction as well as material exclusion. ⚠️ Comparing this with consent-based rule helps test a class-only account. Do not attribute Gramsci's terms to Ambedkar or erase their different diagnoses.
 
 ### Strongest objection, reply and residual
 
@@ -1486,7 +1753,8 @@ Lenin and Gramsci respond to two different failures of expectation: revolution d
 
 ### Local exact PYQ approach
 
-No separately owned PYQ is limited to Lenin and Gramsci; deploy them selectively in 2019 Q3(c), 2020 Q2(b) and 2025 Q2(b).
+Lenin's organisation problem and Gramsci's account of consent sharpen the evaluation demanded
+by 2019 Q3(c), 2020 Q2(b) and 2025 Q2(b). Use the argument relevant to that demand, not a list of names.
 
 ### Revision notes
 
@@ -1499,90 +1767,112 @@ No separately owned PYQ is limited to Lenin and Gramsci; deploy them selectively
 7. Organic intellectuals develop practical experience into a coherent counter-hegemonic outlook.
 8. War of position builds durable consent; war of manoeuvre is frontal political struggle.
 
+9. The integral state connects coercion with consent, while common sense and good sense make consciousness internally contestable.
+10. Weakest-link is Lenin's argument; “combined and uneven development” belongs especially to Trotsky's formulation, not a generic synonym.
+
 ### Local MCQs — questions before answers
 
-### Question 22
+**MCQ 22**
 
-Lenin's revision of classical Marxism holds that:
+Which description states democratic centralism as taught here?
 
-A. revolution must occur only in the most industrially advanced economy
-B. the imperialist chain breaks at its weakest link, and revolutionary consciousness must be brought from outside by a vanguard party under democratic centralism
-C. spontaneous worker struggle automatically produces revolutionary consciousness
-D. the state should be strengthened permanently
+A. Central debate permits local divergence in joint action.
+B. Members first debate and then jointly implement their agreed common decision.
+C. Common action precedes debate to preserve organisational authority.
+D. Leaders decide first; subsequent consultation supplies evidence of membership assent.
 
-### Question 23
+**MCQ 23**
 
-Gramsci's concept of hegemony refers to:
+Why is hegemony different from coercion alone?
 
-A. rule maintained purely by police and army
-B. the economic base determining ideas mechanically
-C. moral, intellectual and cultural leadership securing the CONSENT of the subordinated through civil society (school, church, press, culture)
-D. the abolition of all intellectuals
+A. Civil-society leadership receives legitimacy because enforceable laws are absent.
+B. Shared belief expresses bargaining among classes on terms independent of economic power.
+C. Moral and intellectual leadership secures consent through social institutions.
+D. Cultural institutions secure agreement through direct penalties replacing argument.
 
-### Question 24
+**MCQ 24**
 
-Althusser's concept of interpellation describes how:
+What distinguishes Gramsci's war of position from a war of manoeuvre?
 
-A. the state uses only violence to rule
-B. the economy directly produces all laws
-C. workers spontaneously develop revolutionary consciousness
-D. ideology 'hails' individuals as subjects, so that in recognising themselves in assigned roles they are constituted as subjects who freely do what the structure requires
+A. Economic collapse erodes consent before organised cultural work begins.
+B. Wage gains establish an alternative social leadership through improved bargaining inside existing workplaces.
+C. Capturing public office precedes the reconstruction of cultural and educational institutions.
+D. Counter-hegemonic organisation prepares durable social leadership before a frontal political struggle.
 
-### Question 25
+**MCQ 25**
 
-In the Miliband-Poulantzas debate, Poulantzas argues that the capitalist state has:
+Which development is the problem of substitutionism rather than an alternative criticism or defence of revolutionary organisation?
 
-A. relative autonomy from any particular fraction of capital, enabling it to act for capital-in-general and appear to represent 'the people', so long as that autonomy remains RELATIVE
-B. no autonomy whatsoever from individual capitalists
-C. complete and unlimited autonomy from all class forces
-D. authority derived solely from divine right
+A. Party officials' governing priorities displace the working class's own direction of its emancipatory struggle.
+B. Coordination absorbs resources that decentralised groups would use more efficiently in the struggle against repression.
+C. Political theory equips professional organisers to maintain alignment between workers' aims and collective political strategy.
+D. Dispersed cells reduce exposure to repression by replacing publicly identifiable central leadership with locally organised action.
 
 #### Answers and explanations
 
-**MCQ 22: B**
+**MCQ 22 — Answer and explanation**
 
-- **A — Incorrect:** Lenin’s weakest-link thesis expressly allows revolution outside the most advanced capitalist economy.
-- **B — Correct:** Lenin relocates revolution to the weakest link and argues spontaneous struggle yields only trade-union consciousness, so a vanguard party is needed.
-- **C — Incorrect:** For Lenin, spontaneous struggle tends toward trade-union consciousness and does not automatically become revolutionary theory.
-- **D — Incorrect:** A permanently strengthened state contradicts the claimed transitional role and eventual loss of class rule.
+**Correct answer: B**
 
-**MCQ 23: C**
+- **A — Incorrect:** This combines centralised discussion with divergent implementation, removing the doctrine's unity-of-action requirement.
+- **B — Correct:** The principle combines deliberation before decision with coordinated action afterwards; its promised accountability still requires institutional scrutiny.
+- **C — Incorrect:** Deferring deliberation until after implementation removes the prior-discussion component of the stated principle.
+- **D — Incorrect:** Retrospective assent to leaders' decisions is not the membership's prior deliberation over a common course.
 
-- **A — Incorrect:** Coercion alone describes domination without the consensual civil-society leadership distinctive of hegemony.
-- **B — Incorrect:** Mechanical determination leaves no room for the cultural and intellectual work through which consent is organised.
-- **C — Correct:** Hegemony is consent won and lost in civil society by organic intellectuals -- the first substantial concession of relative autonomy to the superstructure.
-- **D — Incorrect:** Gramsci expands the role of organic intellectuals instead of proposing their abolition.
+**MCQ 23 — Answer and explanation**
 
-**MCQ 24: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Violent repression belongs to repressive apparatuses; interpellation explains subject formation through ideology.
-- **B — Incorrect:** Direct economic production of law bypasses the ideological practices by which people recognise social roles as their own.
-- **C — Incorrect:** Spontaneous revolutionary awareness concerns class consciousness, not Althusser’s account of ideological subjectivation.
-- **D — Correct:** For Althusser ideology is a material practice; ISAs reproduce relations of production by interpellating individuals as subjects -- explaining stability better than change.
+- **A — Incorrect:** Hegemony can coexist with coercive law; civil-society leadership does not depend on the absence of enforceable institutions.
+- **B — Incorrect:** Apparently shared beliefs may emerge within unequal power relations rather than through equal class bargaining.
+- **C — Correct:** The decisive relation is organised consent through moral, intellectual and cultural leadership, not force alone.
+- **D — Incorrect:** Direct administrative penalties describe coercive enforcement, not the civil-society organisation of consent.
 
-**MCQ 25: A**
+**MCQ 24 — Answer and explanation**
 
-- **A — Correct:** Poulantzas answers Miliband's instrumentalism with relative autonomy; stretched past 'relative', the analysis stops being Marxist and becomes pluralism.
-- **B — Incorrect:** Poulantzas rejects a simple puppet model in which each capitalist directly dictates state action.
-- **C — Incorrect:** Unlimited independence would sever the state’s structural relation to capital and collapse into pluralism.
-- **D — Incorrect:** Divine right is a monarchical legitimacy doctrine unrelated to the state’s relative autonomy under capitalism.
+**Correct answer: D**
+
+- **A — Incorrect:** Erosion caused by collapse is not the active construction of alternative cultural leadership that defines a war of position.
+- **B — Incorrect:** Improved wage bargaining does not by itself establish the wider moral and intellectual leadership Gramsci requires.
+- **C — Incorrect:** State capture followed by cultural reconstruction reverses the preparatory logic of this strategy.
+- **D — Correct:** Position builds durable social leadership; manoeuvre denotes frontal political struggle. The former does not abandon economic transformation.
+
+**MCQ 25 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** A representative instrument can become an independent ruler, substituting party or leadership authority for the class it claims to emancipate.
+- **B — Incorrect:** This is an efficiency criticism, not the problem of a representative body's interests replacing those of the represented.
+- **C — Incorrect:** This supplies a defence of organised theory as a means of alignment, not the displacement of the class by an independent governing interest.
+- **D — Incorrect:** This is a tactical choice about exposure to repression, not the replacement of workers' self-emancipation by their representative.
+
+### Original Mains check — organised consciousness
+
+**Question (10 marks; 150-word ceiling):** Compare Lenin's vanguard with Gramsci's counter-hegemonic strategy.
+
+**Model answer:** Lenin's vanguard supplies revolutionary organisation and political consciousness beyond spontaneous wage struggle. Democratic centralism coordinates action but risks substituting party authority for workers' self-emancipation.
+
+Gramsci instead emphasises durable leadership within civil society. Organic intellectuals develop practical experience into a critical outlook; a war of position contests inherited common sense before frontal political struggle. Both make consciousness and organisation active factors, not automatic products of economic crisis.
+
+Their characteristic difficulties differ. The vanguard must remain answerable to the represented class. Counter-hegemony must distinguish critical persuasion from declaring disagreement false consciousness. Neither disciplined action nor cultural leadership guarantees liberation. Their value lies in specifying missing political and cultural mechanisms while preserving the test of agency and accountable power.
+
+**Why this earns marks:** It compares mechanism, organisational locus and risk on common axes; substitutionism and circular consent are evaluated separately.
 
 ### Transition
 
-Lesson 9 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+Organisation and consent explain more than economic pressure alone, but who acts within these structures? Humanist and structural Marxists answer differently; the state debate then tests how far institutional autonomy extends.
 
 ---
 
 ## Lesson 9 — Humanist and Structural Marxism; Althusser; Miliband, Poulantzas and Roy
 
-**Progress:** 9 / 13 | **Stage:** Advanced | **Exact subtopic:** Humanist and Structural Marxism; Althusser; Miliband, Poulantzas and Roy
+Progress: 9 / 13 | Stage: Advanced | Subtopic: Humanist and Structural Marxism; Althusser; Miliband, Poulantzas and Roy
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — humanist/structural Marxism, state autonomy and Roy's freedom argument.
+- **CA search:** Not required; scholarly attribution checks are not current affairs.
+- **CA found:** No government or social group is inferred from these models.
 
 ### VISUAL — First map of the problem
 
@@ -1592,24 +1882,24 @@ Miliband: instrument <-> Poulantzas: relative autonomy
 Roy: reason and freedom against party absolutism
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Structural explanation and emancipatory agency must be reconciled rather than treated as synonyms.*
 
 ### Learner-first intuition
 
 Later Marxists disagree about whether persons or structures should lead explanation and whether the state is a class instrument or relatively autonomous. Roy supplies a freedom-centred internal criticism.
 
-### Technical doctrine and full argument
+### Part A — Human agents or reproduced structural roles?
 
-### 2A.1 The four classical claims that later Marxists revise
+### Four classical claims and later revisions
 
-| # | Classical claim (§2) | Who revises it | What replaces it |
+| # | Classical claim or reductive interpretation | Who develops it | What changes |
 |---|---|---|---|
-| C1 ✅ | Revolution matures where capitalism is most advanced; class consciousness develops from the workers' own conditions | **Lenin** | a vanguard party supplies political consciousness; the weakest link in the imperialist chain, not the strongest economy, breaks first |
-| C2 ✅ | Ruling ideas are the ideas of the ruling class; ideology is a reflex of the base | **Gramsci** | ideology is an active, contested achievement — **hegemony** won and lost in civil society |
+| C1 ✅/❓ | Classical expectations connect developed capitalism with revolutionary conditions; not a universal geographical law | **Lenin** | uneven imperialist relations and organised political consciousness alter where and how rupture becomes possible |
+| C2 ✅/⚠️ | Ruling ideas are related to dominant material interests; a passive-reflex interpretation is reductive | **Gramsci** | ideology is an active, contested achievement — **hegemony** won and lost in civil society |
 | C3 ✅ | The state is an instrument of the ruling class | **Miliband → Poulantzas** | instrumental capture vs **relative autonomy** of the capitalist state |
 | C4 ✅ | Consciousness is determined by social being | **Althusser** | subjects are **produced** by ideological apparatuses through interpellation; the humanist categories of alienation and species-being are displaced by structural analysis |
 
-⚠️ **The one-line thesis:** neo-Marxism does not abandon the materialist mechanism; it **relocates causal weight into the superstructure** — into party, culture, state form and subject-formation — while retaining the claim that class relations are the ultimate site of conflict. Say this explicitly; it is the difference between an answer that reports positions and one that explains a trajectory.
+⚠️ These revisions retain materialist explanation but give greater causal weight to party organisation, culture, state form and subject-formation. They investigate how class relations are politically and culturally mediated, not just whether those relations exist.
 
 #### Humanist and structural Marxism
 
@@ -1636,9 +1926,11 @@ category. Conversely, repeating Marx's emancipatory intention does not answer th
 objection; institutional safeguards against substitutionism and bureaucratic domination must be
 supplied.
 
-### 2A.4 Althusser: RSA, ISA and interpellation
+### Althusser: apparatuses and ideological subject formation
 
 ✅ **Louis Althusser** represents the **structuralist**, anti-humanist strain of neo-Marxism. He resists reading Marx through alienation and species-being, and asks instead how the **relations of production are reproduced** from one generation to the next.
+
+Here **theoretical anti-humanism** means rejecting a universal human essence as the explanatory starting point. It does not mean approval of cruelty or denial that persons' suffering matters. **Structural causality** explains an event through its position in an interacting social whole rather than one isolated linear cause; overdetermination specifies the several contradictions shaping that event.
 
 **The two apparatuses ✅:**
 
@@ -1649,7 +1941,7 @@ supplied.
 | Primary mode | functions **by violence**, secondarily by ideology | function **by ideology**, secondarily by repression |
 | Function | secures the political conditions of reproduction | reproduces the relations of production — above all through the **school** in mature capitalism |
 
-**Interpellation ✅:** ideology has no history and no outside; it works by **hailing** individuals as subjects. In recognising oneself as the one addressed — as pupil, believer, citizen, consumer, worker — the individual is constituted as a subject who freely does what the structure requires. ⚠️ The point is not that ideology is a false picture in someone's head, but that it is a **material practice** embedded in rituals, institutions and conduct, which produces the very subject who then experiences itself as freely choosing.
+**Interpellation ✅:** ideology works by **hailing** individuals as subjects. In recognising oneself as the one addressed — pupil, believer, citizen, consumer or worker — the person recognises an institutional role as their own. ⚠️ Ideology is therefore a **material practice** in rituals and conduct, not merely a false picture in someone's head. Althusser's “ideology has no history” concerns the proposed general structure of subject formation; particular ideologies and apparatuses have histories. His “no outside” formulation must likewise not be turned into the claim that particular practices can never be contested.
 
 **Reconstructed argument ⚠️:**
 
@@ -1671,7 +1963,7 @@ supplied.
 - **Objection:** classifying family, church and media as *State* apparatuses stretches the concept of the state past usefulness.
   **Reply:** ⚠️ Althusser's reply is that the public/private distinction is itself internal to bourgeois law; the objection nonetheless has force, and Gramsci's civil-society vocabulary avoids the strain.
 
-### 2A.5 Miliband and Poulantzas: instrumentalism against relative autonomy
+### Miliband and Poulantzas: instrumentalism and relative autonomy
 
 ✅ **Ralph Miliband**, *The State in Capitalist Society* (**1969**) — the **instrumentalist** thesis. The capitalist state serves the capitalist class through three identifiable mechanisms:
 
@@ -1679,31 +1971,68 @@ supplied.
 2. **structural leverage** — capital exercises direct economic power over the state through investment decisions, employment, finance and organised lobbying;
 3. **positional interest** — politicians and officials have their own stake in preserving the economic order that sustains their position.
 
-✅ **Nicos Poulantzas**, *Political Power and Social Classes* (**1973**) — the **structuralist** reply. Class domination is not automatically translated into state power. The capitalist state possesses **relative autonomy** from any particular fraction of capital, and this autonomy is *functional* for capitalism:
+✅ **Nicos Poulantzas** develops the **structuralist** reply, including relative autonomy in *Political Power and Social Classes* (English translation **1973**). Class domination is not automatically translated into state power. The capitalist state possesses **relative autonomy** from any particular fraction of capital, and this autonomy is *functional* for capitalism:
 
 1. capital is internally divided into competing fractions with conflicting short-term interests;
 2. no fraction can be trusted to legislate for the long-run reproduction of the system;
 3. the state must therefore be able to act against particular capitalists in the interest of capital in general;
 4. it must also present itself as representing "the people" rather than one class, which is the condition of its legitimacy;
-5. therefore the state is best understood as a **condensation of class forces** — an arena in which struggle is fought out — rather than as an instrument held by a class.
+5. therefore domination must be explained through structured relations rather than ownership of the state by a single group. Poulantzas's later *State, Power, Socialism* (**1978**) develops the state as a **material condensation of a relationship of class forces**; do not assign that later formulation solely to the 1973 English book.
 
 ⚠️ **The internal limit, which must be stated.** If relative autonomy is stretched far enough, the analysis ceases to be Marxist at all: a state autonomous from class power in the last instance is simply the pluralist state under another name. The debate's value lies precisely in this boundary — autonomy must be **relative**, and an answer that omits the qualifier has lost the argument.
 
 | Axis | **Miliband (1969)** | **Poulantzas (1973)** |
 |---|---|---|
 | Method | empirical-sociological: who staffs the state, who pressures it | structural: what function the state must perform |
-| State is | an instrument held by a class | an arena condensing class forces |
-| Autonomy | minimal; apparent autonomy is disguised capture | real but **relative**, and functional for capital |
+| State is | an institution whose personnel and networks align with dominant class power | an institution structured by the relation of class forces |
+| Autonomy | recognises institutional action but stresses personnel, networks and capital leverage | real but **relative**, explained through structured class relations |
 | Explains well | personnel networks, lobbying, revolving doors | welfare concessions, regulation against particular capitalists |
-| Weakness | cannot explain state action against individual capitalists | risks functionalism — the state does what capital "needs" by definition |
+| Weakness | elite links alone may underexplain action against particular capitalists | risks functionalism — the state does what capital "needs" by definition |
 
-**Use in an answer ✅:** run it as **claim (Miliband) → objection (Poulantzas) → internal limit (autonomy must remain relative)**. This three-move structure is the single most efficient way to show command of the Marxist theory of the state, and it directly repairs the "economic determinism" reply at §2.9.
+**Argument test:** compare personnel and influence mechanisms with structural dependence. A hypothetical regulation harmful to one firm could still secure the wider conditions of accumulation. That possibility supports relative autonomy, but calling the regulation “functional” is not evidence: identify which mechanism sustains which relation and what contrary evidence would defeat the explanation. Miliband is not simply a puppet theorist, and Poulantzas is not a neutral pluralist.
 
-### 4.4 M. N. Roy's radical-humanist criticism
+#### India's constitutional social objectives: text is not a class verdict
+
+**Constitutional text:** Part IV of the Constitution sets social and economic objectives for public policy:
+
+| Provision | Constitutional content | Philosophical use and limit |
+|---|---|---|
+| Article 38 | A welfare-oriented social order informed by social, economic and political justice; minimisation of inequalities in income, status, facilities and opportunities | Social transformation is a public objective, not evidence of its achievement |
+| Article 39(b)–(c) | Distribution of ownership and control of community material resources to subserve the common good; prevention of wealth and productive concentration to the common detriment | Economic power is a constitutional concern, but the text does not prescribe one complete socialist ideology |
+| Article 43 | Work, a living wage, a decent standard of life, leisure and social/cultural opportunities; promotion of rural cottage industries on an individual or cooperative basis | Compare provision and productive dignity with socialist and Gandhian aims without identifying the state with either doctrine |
+| Article 37 | Directive Principles are not enforceable by a court, but are fundamental in governance; the State must apply them in making laws | Non-justiciability is not optionality; implementing legislation can create enforceable rules |
+
+⚠️ These provisions illustrate **what a state is constitutionally directed to pursue**.
+They do not by themselves settle its class character, relative autonomy or success in realising
+equal freedom. Those questions require evidence about control, implementation and contestation.
+Legal text is neither proof nor refutation of the Marxist state thesis.
+
+### M. N. Roy's radical-humanist criticism
 
 ✅ Roy rejects the subordination of the individual to class, party or historical necessity. Freedom is the progressive removal of obstacles to the unfolding of human capacities; dictatorship cannot reliably serve emancipation because concentrated power reproduces domination.
 
 ⚠️ Roy supplies an internal Indian bridge: retain Marx's critique of exploitation, reject economic determinism and party absolutism, and restore individual reason and ethical autonomy.
+
+#### Part B — Roy's objection and the wider critical tradition
+
+✅ Roy argues that productive instruments are creations of human intelligence, so a one-way claim that they determine consciousness misses creative agency. He places **rationality, morality and freedom** at the centre of Radical Humanism, treats education as a condition of autonomous action, and proposes transformation by consent rather than permanent dictatorship.
+
+✅ Roy also contests the expected disappearance of the state: society still needs political
+organisation after class divisions are abolished. ⚠️ The Marxist reply distinguishes enduring
+coordination from the coercive **class function** expected to wither. If “state” includes both,
+part of the disagreement concerns definitions rather than proof that class-rule must persist.
+Roy's separate objection to dictatorship remains: its office-holders have an interest in retaining
+their power, so the disappearance of classes does not itself supply an institutional safeguard.
+
+**Objection:** Roy's appeal to sovereign individuals can understate how institutions form capacities and constrain choice. **Reply:** freedom is not realised by announcing individual primacy; it requires removing social conditions that block capacities. **Residual:** a reciprocal materialism can accept creative agency without abandoning structural explanation, so Roy's strongest challenge is to determinism and party absolutism rather than every Marxian category.
+
+✅ The **Frankfurt critical-theory** tradition broadens ideology critique into technological and cultural domination. Adorno and Horkheimer examine systems of organised culture; Marcuse's **one-dimensionality** asks whether managed wants and apparently satisfying consumption suppress critical alternatives. Habermas represents a later generation stressing communicative rationality, not the same argument as Marcuse's.
+
+⚠️ For example, a consumer may have abundant product choices but little opportunity to contest the goals organising work and social life. This illustrates the distinction between choice within a system and critical freedom over its priorities. **Objection:** the theorist may paternalistically declare other people's satisfactions false. **Reply:** examine whether preferences can be discussed and revised under non-dominating conditions. **Residual:** identifying “genuine” need without an unaccountable authority remains difficult.
+
+✅ Dependency analysis extends domination to colonial and neo-colonial economic relations. It is not identical to world-systems theory's core–semi-periphery–periphery framework. These international extensions do not erase class within nations. Their present use is a bounded comparison, not a complete development-theory course.
+
+⚠️ The **analytic versus orthodox** dispute asks whether Marxian claims should be reconstructed as explicit causal and normative arguments or understood within a historical-dialectical totality. Clear mechanism specification helps test claims; fragmentation can lose their interdependence. Neither methodological label settles whether a given explanation is adequate.
 
 ### Strongest objection, reply and residual
 
@@ -1713,7 +2042,8 @@ supplied.
 
 ### Local exact PYQ approach
 
-No separately owned PYQ is limited to this internal debate; use Althusser and Miliband–Poulantzas to deepen the 2025 evaluation, and Roy to test party absolutism.
+For 2025 Q2(b), Althusser and the Miliband–Poulantzas debate develop the explanatory question;
+Roy tests whether the proposed emancipation preserves individual reason and freedom.
 
 ### Revision notes
 
@@ -1726,57 +2056,77 @@ No separately owned PYQ is limited to this internal debate; use Althusser and Mi
 7. Miliband studies personnel and capital leverage; Poulantzas defends relative state autonomy.
 8. M. N. Roy retains exploitation critique while rejecting determinism and party absolutism.
 
+9. Particular ideologies have histories even where Althusser proposes an enduring structure of subject formation.
+10. Frankfurt cultural critique, Marcuse's one-dimensionality, later Habermasian communication and dependency analysis are related but distinct refinements.
+11. Roy's creative-mind objection defeats crude one-way determination, not the possibility of socially conditioned agency.
+
 ### Local MCQs — questions before answers
 
-### Question 26
+**MCQ 26**
 
-Which contrast between humanist and structural Marxism is most accurate?
+An employee rejects the firm's stated ideals but still performs its rituals and accepted role duties. Which interpretation of ideological reproduction best fits Althusser's account?
 
-A. Humanist Marxism removes agency, while structural Marxism centres species-being
-B. Humanist Marxism stresses alienation and praxis, while structural Marxism stresses relations, apparatuses and reproduction
-C. Both traditions reject every account of ideology
-D. Structural Marxism treats the autonomous individual as the origin of social order
-### Question 27
+A. Explicit dissent places the conduct in the repressive apparatus, since the employee's outlook does not endorse it.
+B. Ritual participation sustains the institutional subject-role even when the employee disputes its stated beliefs.
+C. Critical reasoning discloses an original subject whose identity precedes the institutional practices assigning social roles.
+D. A privately critical outlook constitutes an alternative collective leadership capable of contesting the firm's social influence.
 
-Remedial -- 'the capitalist state is completely autonomous from class power'. The correct correction is that:
+**MCQ 27**
 
-A. the state has no autonomy at all
-B. the state's authority is charismatic
-C. for Poulantzas the state has RELATIVE autonomy that is functional for capital; stretched into COMPLETE autonomy, the analysis ceases to be Marxist and becomes pluralism
-D. the state is an instrument with no independent action
+An official body restricts one powerful firm after conflicts among firms threaten shared conditions of accumulation. Which reason explains relative autonomy in Poulantzas's account?
+
+A. Officials' class origins align their personal values with the dominant proprietors' outlook.
+B. Investment leverage obliges officials to prioritise the immediate wishes of the most influential firm.
+C. A distinct state role mediates competing fractions of capital in reproducing the wider relations of production.
+D. Professional office separates policy judgment from class relations through technical expertise and impartial rules.
 
 #### Answers and explanations
 
-**MCQ 26: B**
+**MCQ 26 — Answer and explanation**
 
-- **A — Incorrect:** The emphases are inverted: humanism centres agency and species-being, while structuralism decentres the subject.
-- **B — Correct:** The contrast correctly identifies their different explanatory priorities and characteristic risks.
-- **C — Incorrect:** Both traditions analyse ideology, although they explain it through different conceptual vocabularies.
-- **D — Incorrect:** Structural Marxism treats individuals as constituted within relations and apparatuses, not as society’s sovereign origin.
+**Correct answer: B**
 
-**MCQ 27: C**
+- **A — Incorrect:** Dissent from an explicit ideal does not locate conduct in the repressive apparatus. Rituals and role duties can continue to operate ideologically.
+- **B — Correct:** Ideology has a material existence in practices and duties, so subject formation is not reducible to sincere assent to a stated opinion.
+- **C — Incorrect:** Althusser does not infer an original, pre-institutional subject from critical reasoning; the critic's capacities and identity also need an account of formation.
+- **D — Incorrect:** A private outlook is not an organised collective leadership. Counter-hegemony requires social practices and institutions beyond the individual's disagreement.
 
-- **A — Incorrect:** No autonomy restates crude instrumentalism and misses Poulantzas’s structural account of state action.
-- **B — Incorrect:** Charismatic authority belongs to Weberian legitimacy, not this debate over class and state autonomy.
-- **C — Correct:** Autonomy must remain relative; 'complete' autonomy from class power collapses the Marxist analysis into the pluralist state under another name.
-- **D — Incorrect:** Pure instrumentality denies the independent institutional action captured by the adjective “relative.”
+**MCQ 27 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Shared personnel outlook is a Miliband-style emphasis. It does not supply Poulantzas's structural explanation of mediation among competing fractions.
+- **B — Incorrect:** The most influential firm's immediate preference can conflict with wider reproduction; relative autonomy explains why policy need not follow that preference.
+- **C — Correct:** Poulantzas explains autonomy through the state's structured relation to competing classes/fractions, not through neutrality or an immediate benefit to each firm.
+- **D — Incorrect:** Technical expertise does not establish separation from class relations. Poulantzas explains institutional action through those structured relations, not an impartial sphere outside them.
+
+### Original Mains check — structure and criticism
+
+**Question (10 marks; 150-word ceiling):** Discuss whether structural explanation makes individual freedom unintelligible.
+
+**Model answer:** Structural explanation locates agency within relations rather than treating individuals as socially unformed origins. Althusser's interpellation shows how practices produce subjects; Poulantzas's relative autonomy explains institutional action within class relations.
+
+Neither thesis establishes that resistance is impossible. Contradictory apparatuses and struggles create openings, although structuralism's positive account of agency remains thin. Roy's Radical Humanism counters determinism by stressing reason, education and the unfolding of individual capacities.
+
+Roy also faces a limit: creative minds act through inherited institutions and material resources. A defensible synthesis therefore retains structural constraints and accountable individual agency. Freedom becomes a test of whether people can understand, contest and alter their conditions, not an assertion that they stand outside society.
+
+**Why this earns marks:** It explains Althusser and Poulantzas without fatalism, answers them through Roy, and qualifies the proposed synthesis through socially conditioned agency.
 
 ### Transition
 
-Lesson 10 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+The revised Marxist arguments still leave disputed routes to emancipation. Socialism's wider family asks whether cooperative design, democratic gradualism or occupational self-government can avoid those transitional dangers.
 
 ---
 
 ## Lesson 10 — Socialism Family: Utopian, Scientific, Marxian, Fabian and Guild Varieties
 
-**Progress:** 10 / 13 | **Stage:** Core | **Exact subtopic:** Socialism Family: Utopian, Scientific, Marxian, Fabian and Guild Varieties
+Progress: 10 / 13 | Stage: Core | Subtopic: Socialism Family: Utopian, Scientific, Marxian, Fabian and Guild Varieties
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — evolutionary, Fabian, revisionist and guild models; early socialist thinkers.
+- **CA search:** Not required; public transport is a hypothetical governance comparison.
+- **CA found:** No existing enterprise is declared socialist.
 
 ### VISUAL — First map of the problem
 
@@ -1785,23 +2135,23 @@ SOCIALISM: social control of productive power
 -> utopian | Marxian | Fabian-democratic | guild | Gandhian
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*The family shares social control while disagreeing about the institutions that exercise it.*
 
 ### Learner-first intuition
 
 Socialism is a family united by the demand that productive power answer to social purpose. Its members disagree about history, method, scale, markets and who should exercise control.
 
-### Technical doctrine and full argument
+### Part A — One family, several routes to social power
 
-## 3. SOCIALISM
+#### The socialist family
 
-### 3.1 Doctrine statement
+### Social control of productive power
 
 ✅ **Socialism** is the family of doctrines that subjects productive property and economic power to social control in order to secure cooperation, equality, freedom from exploitation and provision according to socially justified principles.
 
 It is wider than Marxism. A socialist may support revolution or parliament, planning or regulated markets, state ownership or cooperatives, materialism or spiritual ethics.
 
-### 3.2 Core argument
+### Why economic power calls for social justification
 
 1. ✅ Productive capacities are socially inherited and cooperatively exercised.
 2. Private control of indispensable productive assets gives some persons power over others' work and life chances.
@@ -1810,7 +2160,7 @@ It is wider than Marxism. A socialist may support revolution or parliament, plan
 
 **Presupposition:** ⚠️ economic power is political in effect; freedom requires more than non-interference by the state.
 
-### 3.3 Major varieties
+### Major socialist varieties
 
 | Variant | Method | Ownership / control | Distinctive claim |
 |---|---|---|---|
@@ -1820,6 +2170,25 @@ It is wider than Marxism. A socialist may support revolution or parliament, plan
 | **Guild socialism** | occupational self-government | producer guilds | opposes both private capitalism and bureaucratic statism |
 | **Market socialism** | markets within social ownership | worker/public ownership | separates markets from capitalist ownership |
 | **Gandhian socialism** | non-violence, trusteeship, decentralisation | moral restraint, village economy, cooperative control | equality without class violence or centralist industrialism |
+
+#### Basic vocabulary before comparing the varieties
+
+✅ **Nationalisation** transfers productive property's legal title to the state.
+**Socialisation** makes its control answerable to society through worker/user participation,
+contestable management, information and public accountability. A public proprietor can retain
+managerial command despite declaring a welfare objective.
+
+✅ **Socialism** here names the wider family of social-control proposals. **Higher-phase Marxian
+communism** projects common provision, classlessness and the disappearance of coercive class-rule.
+**Social democracy**, in its usual contemporary sense, regulates a mainly private economy
+through welfare, rights and redistribution. The labels have overlapping historical uses;
+compare institutions and aims rather than identifying them by name alone.
+
+⚠️ A hypothetical Indian transport enterprise could have public title but give workers and
+users no powers over its decisions. Nationalisation describes that title; socialisation requires
+a further account of control. A welfare-regulated private operator supplies a different
+comparison: public regulation does not by itself transfer productive ownership. The next lesson
+develops the coordination and distribution axes.
 
 #### Utopian and scientific socialism
 
@@ -1834,6 +2203,28 @@ It is wider than Marxism. A socialist may support revolution or parliament, plan
 proposal is impracticable; “scientific” identifies Marxism's explanatory ambition, not a guarantee
 that its predictions or institutional transitions are scientifically certain.
 
+#### Part B — The thinkers behind the labels
+
+| Thinker or tradition | Constructive proposal | What it explains; what it leaves open |
+|---|---|---|
+| Saint-Simon | Reorganise social life around productive, scientific and industrial capacities | Challenges idle privilege; expertise may itself become hierarchy |
+| Charles Fourier | Cooperative communities organise varied human needs and activities | Makes cooperation attractive; extrapolation from designed communities is uncertain |
+| Robert Owen | Cooperative productive ownership, education and changed social conditions | Links character and labour conditions; exemplary reform may not overcome entrenched property |
+| Fabian Society | Gradual constitutional socialisation through research, education and administration | Uses existing political machinery; risks expert bureaucracy and weak worker agency |
+| Ferdinand Lassalle | Universal suffrage makes workers' organised political power effective | A constitutional workers' state is possible in principle; state neutrality cannot be assumed |
+| Eduard Bernstein | Revise expectations of polarisation and collapse; pursue democratic socialist reform | Tests historical predictions; reform can become accommodation without transformed control |
+| Guild socialism, associated with G. D. H. Cole | Occupational self-government with consumer and civic representation | Opposes capitalist and bureaucratic control; producer interests can conflict with public needs |
+
+✅ The **Fabian Society was founded in 1884**. Sidney and Beatrice Webb and George Bernard Shaw are useful named anchors, not interchangeable spokespeople. Fabian **permeation** means spreading socialist ideas through existing political and social institutions rather than waiting for one revolutionary rupture. Its economic case includes socially created increments and rent, not just Marxian surplus-value theory.
+
+The gradualist argument is: political participation and organised pressure already offer instruments of change; informed legislation can extend collective control; education can make the change acceptable and durable; therefore transformation need not require destruction of constitutional politics. **Objection:** capital retains investment leverage and reforms can legitimate the order. **Reply:** workers' organisation, accountable public administration and continuing pressure can turn concessions into durable power. **Residual:** no guarantee makes that conversion automatic.
+
+Guild socialism locates control more directly in producers. A guild is an occupational association governing productive activity, not simply a trade union bargaining over wages or a ministry owning an industry. Consumers and civic bodies must also have representation: otherwise “social” ownership becomes producer privilege.
+
+An Indian classroom illustration is a hypothetical public transport enterprise. Fabian reform asks how legislation and administration can make it publicly answerable; guild socialism asks how workers and service users participate in its management. Both seek social control but allocate institutional power differently. The illustration cannot establish either design's efficiency or fairness without examining its actual decisions.
+
+Socialism's common themes are **community, cooperation, equality, socially justified need, class power and social ownership**. Cooperation does not assume that incentives disappear. Nor must equality mean identical rewards. These premises explain why productive property, rather than every personal possession, becomes the central object of transformation.
+
 ### Strongest objection, reply and residual
 
 - **Objection:** Socialism suppresses incentive and information.
@@ -1842,7 +2233,8 @@ that its predictions or institutional transitions are scientifically certain.
 
 ### Local exact PYQ approach
 
-**2024 Q1(e), 10, “Compare”:** “Compare socialism and communism as two distinct political ideologies.” Approach: run scope, property, state, distribution and method on common axes.
+When comparing socialist varieties, identify who exercises productive control and how change
+is sought. Fabian administration and guild self-government supply different institutional answers.
 
 ### Revision notes
 
@@ -1855,90 +2247,112 @@ that its predictions or institutional transitions are scientifically certain.
 7. Guild socialism gives producer associations a central governing role.
 8. Nationalisation changes legal title; socialisation changes accountable control.
 
+9. Saint-Simon, Fourier and Owen propose different cooperative reconstructions; “utopian” cannot replace explanation of those proposals.
+10. Fabian permeation, Lassallean suffrage, Bernstein's revisionism and Cole's producer/consumer representation place power in different institutions.
+
 ### Local MCQs — questions before answers
 
-### Question 28
+**MCQ 28**
 
-The relationship between socialism and Marxism is best stated as:
+Which classification distinguishes the socialist family from Marxism?
 
-A. socialism and Marxism are identical
-B. Marxism is broader than socialism
-C. socialism rejects all social control of property
-D. socialism is a family of doctrines subjecting productive property to social control, of which Marxism is one revolutionary and materialist member
+A. Socialism is an ownership technique; Marxism supplies its political values.
+B. Socialism concerns distribution; Marxism concerns productive control rather than distributive reform.
+C. Institutional diversity excludes Marxism from socialism because revolutionary change requires organised authority.
+D. Socialism includes Marxism's materialist and revolutionary ideological project.
 
-### Question 29
+**MCQ 29**
 
-Which correctly distinguishes socialism, communism and social democracy?
+Which comparison correctly specifies the vocabulary being used?
 
-A. socialism = social control in varied forms; communism (Marxian higher phase) = common ownership with classes abolished and distribution by need; social democracy = private property retained but regulated with tax-transfer
-B. all three abolish the state immediately
-C. communism retains private property while social democracy abolishes it
-D. social democracy is the revolutionary transition to communism
+A. Higher-phase communism projects need-based common provision; social democracy regulates private productive ownership.
+B. Higher-phase communism distributes by contribution; social democracy defines itself through common productive ownership.
+C. Communism includes diverse reformist arrangements; socialism names their single projected stateless outcome.
+D. Constitutional limits on public power make welfare capitalism and higher communism equivalent forms of social ownership.
 
-### Question 30
+**MCQ 30**
 
-A distinctive feature of Gandhian socialism is:
+Which comparison captures the distinction between Fabian and guild socialism?
 
-A. violent seizure of the means of production
-B. trusteeship, bread labour, decentralised production and the welfare of all (sarvodaya), seeking equality without class war or centralist collectivism
-C. centralised heavy industrialisation
-D. unrestricted free-market capitalism
+A. Fabianism centres occupational self-rule; guild socialism entrusts production to expert ministries.
+B. Fabianism uses gradual public reform; guild socialism combines producer self-government with consumer representation.
+C. Fabianism rejects social ownership; guild socialism concludes transformation at collective wage bargaining.
+D. Fabianism uses revolutionary union strikes; guild socialism permeates existing parties through educated middle-class reformers.
 
-### Question 31
+**MCQ 31**
 
-The core warning that 'socialism is not identical with state ownership' means that:
+An enterprise passes into public ownership, yet workers and users receive no powers over management. Which change addresses the specific deficit in socialisation?
 
-A. socialism requires the monarchy to own all land
-B. socialism forbids any public sector
-C. socialisation requires control by SOCIETY -- democratic, participatory, accountable -- since nationalisation alone can become ownership by officials (bureaucratic domination)
-D. communism and socialism are the same
+A. A published statement of social obligations administered through managers' existing decision powers.
+B. Replacement of private directors by professional managers selected through public examinations.
+C. Decision rights for affected groups, including information access and review of managerial priorities.
+D. A renewed parliamentary mandate approving the enterprise's general contribution to public provision.
 
 #### Answers and explanations
 
-**MCQ 28: D**
+**MCQ 28 — Answer and explanation**
 
-- **A — Incorrect:** Marxism is one socialist tradition; other socialist routes include democratic, guild, market and utopian forms.
-- **B — Incorrect:** The family of socialist doctrines is broader than its Marxist member, not the reverse.
-- **C — Incorrect:** Subjecting productive property to social control is socialism’s common concern rather than something it rejects.
-- **D — Correct:** Socialism names the whole family (utopian, Marxian, Fabian, guild, market, Gandhian); Marxism is one member of it.
+**Correct answer: D**
 
-**MCQ 29: A**
+- **A — Incorrect:** Socialism already contains values and political arguments; it is not a morally empty technique awaiting Marxism.
+- **B — Incorrect:** Non-Marxian socialists also contest productive control, so production cannot be reserved to Marxism.
+- **C — Incorrect:** Diversity of socialist forms includes revolutionary ones; organised authority does not exclude Marxism from the family.
+- **D — Correct:** Marxism is one historically materialist and revolutionary member, alongside socialist traditions with other premises and methods.
 
-- **A — Correct:** The axes property/state/distribution/method separate the family (socialism), the classless end-state (communism) and the regulated-capitalism route (social democracy).
-- **B — Incorrect:** Social democracy retains a constitutional state, and socialism does not uniformly demand immediate statelessness.
-- **C — Incorrect:** The ownership positions are reversed: Marxian communism abolishes private productive property, while social democracy regulates it.
-- **D — Incorrect:** Social democracy pursues reform within constitutional capitalism rather than defining a revolutionary communist transition.
+**MCQ 29 — Answer and explanation**
 
-**MCQ 30: B**
+**Correct answer: A**
 
-- **A — Incorrect:** Violent expropriation conflicts with Gandhi’s insistence that emancipatory ends require non-violent means.
-- **B — Correct:** Gandhian socialism combines non-possession, trusteeship, decentralisation and village self-rule (swaraj), rejecting both unrestricted capitalism and violent centralised collectivism.
-- **C — Incorrect:** Gandhi criticises industrial gigantism and favours decentralised, labour-intensive production.
-- **D — Incorrect:** Unrestricted accumulation contradicts non-possession, trusteeship and sarvodaya.
+- **A — Correct:** The specified senses distinguish an end-state's distribution principle from a reformist institutional arrangement; historical labels remain fluid.
+- **B — Incorrect:** Contribution belongs to the lower phase, and common productive ownership is not social democracy's defining modern commitment.
+- **C — Incorrect:** This reverses the family/end-state scope: socialism is the wider family in the stated vocabulary.
+- **D — Incorrect:** Limits on public power do not establish social ownership or identity of distributive principles; welfare capitalism and higher communism remain different on those axes.
 
-**MCQ 31: C**
+**MCQ 30 — Answer and explanation**
 
-- **A — Incorrect:** Monarchical ownership merely changes the proprietor and provides no democratic social control.
-- **B — Incorrect:** Socialism may employ public ownership; it objects to treating state title as sufficient for socialisation.
-- **C — Correct:** Nationalisation without democratic control merely replaces private domination with bureaucratic domination; socialisation means accountable social control.
-- **D — Incorrect:** Conflating communism with the wider socialist family obscures distinct institutions, phases and strategies.
+**Correct answer: B**
+
+- **A — Incorrect:** The institutional emphases are reversed: guild socialism contests bureaucratic productive command through occupational self-government.
+- **B — Correct:** Fabian gradual reform and guild workplace self-government differ over the bearer of social control; consumer representation limits producer exclusiveness.
+- **C — Incorrect:** Fabianism can pursue public ownership, while guild socialism seeks control beyond a final wage-bargaining settlement.
+- **D — Incorrect:** Revolutionary syndicalist action is not the Fabian method; middle-class permeation is not the characteristic guild institution.
+
+**MCQ 31 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Declaring obligations leaves the stated distribution of decision-power intact; publicity is not the missing right to participate or contest.
+- **B — Incorrect:** A staffing reform may improve competence without giving workers or users powers over productive priorities.
+- **C — Correct:** The deficit is control, not title: information and contestable decision rights make management answerable to those affected.
+- **D — Incorrect:** General public authorisation is different from continuing enterprise-level worker/user powers; the former does not supply the latter here.
+
+### Original Mains check — gradualism and productive voice
+
+**Question (10 marks; 150-word ceiling):** Compare Fabian gradualism with guild socialism as routes to social control.
+
+**Model answer:** Fabianism socialises power through constitutional reform, research and administration; guild socialism gives producers occupational self-government alongside consumer and civic representation. Both oppose unrestricted private productive control but distribute institutional authority differently.
+
+Sidney Webb extends democracy to wealth production. Bernstein's revisionism similarly questions an inevitable revolutionary rupture. G. D. H. Cole's guild approach instead makes workplace control central, resisting bureaucratic nationalisation as well as capitalist command.
+
+Gradualism can preserve liberty while reforms remain vulnerable to investment power and administrative elites. Guild control can restore productive agency while privileging producers against consumers. The qualified verdict favours accountable public reform with workplace and consumer voice, not the assumption that either state title or occupational control alone constitutes socialisation.
+
+**Why this earns marks:** It names the competing mechanisms, uses Webb, Bernstein and Cole, and tests each against a different institutional danger.
 
 ### Transition
 
-Lesson 11 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+Social control does not yet specify how to coordinate production. We therefore separate ownership from markets and planning, then distinguish transforming capitalism from regulating it.
 
 ---
 
 ## Lesson 11 — Market Socialism, Democratic Socialism and Social Democracy
 
-**Progress:** 11 / 13 | **Stage:** Advanced | **Exact subtopic:** Market Socialism, Democratic Socialism and Social Democracy
+Progress: 11 / 13 | Stage: Advanced | Subtopic: Market Socialism, Democratic Socialism and Social Democracy
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** **Institutional fact:** Official ILO 2025 labour material and official UN/ILO cooperative-SSE material are used only as illustrations, never as proof of a doctrine.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — ownership/allocation, market socialism and social democracy.
+- **CA search:** No query needed; the official ILO strategic-results overview was fetched directly.
+- **CA found:** ILO cooperative/SSE overview, **2 June 2026**; institutional development, not doctrinal validation.
 
 ### VISUAL — First map of the problem
 
@@ -1947,13 +2361,13 @@ ownership: private <-> social | coordination: plan <-> market
 method: revolution <-> reform | risk: private <-> bureaucratic domination
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Ownership, allocation and method are separate design choices.*
 
 ### Learner-first intuition
 
 The key move is to separate ownership from coordination. A market need not imply capitalist ownership, while a plan or state title need not imply democratic social control.
 
-### Technical doctrine and full argument
+### Part A — Ownership is not an allocation mechanism
 
 #### Reform, planning, markets and social ownership
 
@@ -1964,7 +2378,7 @@ The key move is to separate ownership from coordination. A market need not imply
 | Ownership | state nationalisation | worker, cooperative or social control | nationalisation is not automatically socialisation |
 | Scale | central provision and redistribution | guild/local/decentralised control | equality and coordination must be balanced against bureaucratic domination |
 
-### 3.4 Socialism, communism and social democracy
+### Socialism, communism and social democracy
 
 | Axis | Socialism (family) | Communism (Marxian higher phase) | Social democracy |
 |---|---|---|---|
@@ -1975,13 +2389,34 @@ The key move is to separate ownership from coordination. A market need not imply
 
 ⚠️ Do not use “socialism” and “communism” as simple synonyms. In Marxist vocabulary, socialism is often used for a transitional lower phase; in wider political theory it names the whole family.
 
-### 3.6 Objections and replies
+#### Part B — Three independent institutional choices
+
+```text
+WHO CONTROLS?         private owners / public bodies / workers / community
+HOW COORDINATED?      markets / negotiated plans / administrative allocation
+HOW CHANGED?         constitutional reform / direct action / revolutionary transition
+                              |
+                              v
+TEST: accountable control + useful information + effective freedom
+```
+
+*Choosing an answer on one axis does not decide the other two.*
+
+✅ **Market socialism** combines social ownership with market allocation. Prices can transmit information about scarcity and demand while workers or public bodies own productive assets. A cooperative may still face losses, competitive insecurity and inequalities among enterprises; social title alone does not abolish commodification.
+
+**Democratic socialism** uses democratic institutions to transform ownership and economic power. **Social democracy**, in its common contemporary sense, regulates a mainly private economy through rights, welfare provision and redistribution. Their historical names overlap. Classify a proposal by control, distribution and strategy rather than the title of a party.
+
+The planning objection concerns dispersed knowledge and incentives, not an assertion that social cooperation is impossible. **Reply:** decentralised planning, worker knowledge, public feedback and price signals can be combined. **Residual:** who sets investment priorities and corrects failure remains unresolved. A market signal expresses purchasing power, which is not necessarily socially justified need.
+
+Similarly, public provision can protect effective freedom while managerial secrecy curtails workplace agency. In a hypothetical Indian cooperative, equal membership shares may coexist with unequal voice, exclusion of non-member workers or inherited social status. Ask who makes decisions, who can challenge them and who bears risk. Those questions convert an ownership example into analysis.
+
+### Information, incentives and accountable control
 
 **Incentive and information problem:** planning may suppress innovation and cannot aggregate dispersed knowledge.
 **Reply:** market socialism, decentralised planning and cooperative governance separate social ownership from a single command bureaucracy.
 
 **Bureaucratic domination:** state ownership can become ownership by officials.
-**Reply:** ✅ socialism requires democratic control, workplace participation and accountability; nationalisation alone is not socialisation.
+**Reply:** ✅ the democratic socialist argument requires workplace participation and public accountability; nationalisation alone is not socialisation.
 
 **Conflict with liberty:** redistribution and collective control may coerce individuals.
 **Reply:** ⚠️ capitalism also structures dependence through property. The issue is which institutions make power answerable while protecting civil and political liberties.
@@ -1991,11 +2426,10 @@ The key move is to separate ownership from coordination. A market need not imply
 
 ---
 
-
 ### Verified cooperative and SSE linkage
 
-- **Institutional fact:** the United Nations designated 2025 as the International Year of Cooperatives; UN DESA used the year to foreground cooperatives and the social and solidarity economy in inclusion and SDG discussions.
-- **Institutional fact:** the ILO's 2024–25 results material reports work on enabling environments, cooperative-development tools and comparable statistics; its 2025 resources develop implementation of cooperative-statistics guidelines.
+- **Institutional fact:** the **International Labour Organization (ILO)** overview, dated **2 June 2026**, reports its 2024–25 work on cooperatives and the broader **social and solidarity economy (SSE)**, including enabling frameworks, training and statistical methodology. This is a recent report about an earlier reporting period, not a 2024 publication.
+- **Analytical distinction:** SSE names an institutional field including cooperative and other solidarity-oriented forms; it is not a synonym for the whole socialist ideology.
 - **Analytical inference:** these initiatives make cooperative ownership and coordination legitimate contemporary illustrations of socialist institutional design. They neither prove market socialism nor show that every cooperative is non-hierarchical.
 
 ### Strongest objection, reply and residual
@@ -2006,7 +2440,10 @@ The key move is to separate ownership from coordination. A market need not imply
 
 ### Local exact PYQ approach
 
-No separately owned question names market socialism; use it as a controlled refinement in socialism and freedom answers.
+**2024 Q1(e), 10 marks, “Compare”:** “Compare socialism and communism as two distinct political
+ideologies.” Approach: specify the vocabulary and compare property, state, distribution and
+method on common axes. Market socialism separates ownership from allocation; the higher phase
+of communism projects need-based provision and the disappearance of class-rule.
 
 ### Revision notes
 
@@ -2019,71 +2456,94 @@ No separately owned question names market socialism; use it as a controlled refi
 7. Private domination and bureaucratic domination are rival dangers.
 8. Cooperatives and SSE initiatives are institutional possibilities, not proof of socialist doctrine.
 
+9. Purchasing power is not need, and competitive success does not certify equal agency.
+10. The 2 June 2026 ILO overview reports 2024–25 results; publication date and reporting period are different facts.
+
 ### Local MCQs — questions before answers
 
-### Question 32
+**MCQ 32**
 
-Market socialism is defined most precisely by which institutional combination?
+Which institutional combination defines market socialism?
 
-A. Private capitalist ownership with no worker voice
-B. Complete abolition of prices and consumer choice
-C. Hereditary control of productive property
-D. Social or worker ownership combined with market coordination
-### Question 33
+A. Privately owned firms using market prices alongside guaranteed income security.
+B. Publicly owned firms coordinating output through administrative quotas and compulsory deliveries.
+C. Privately held productive assets with workers consulted over prices and dividends.
+D. Socially owned firms using market prices and accountable productive control.
 
-Democratic socialism differs from social democracy chiefly because democratic socialism:
+**MCQ 33**
 
-A. Aims more substantially to transform ownership and economic power through constitutional democracy
-B. Rejects elections and civil liberties during transition
-C. Requires the immediate disappearance of every public institution
-D. Defines welfare spending alone as complete socialisation
-### Question 34
+Using their usual contemporary meanings, which axis best distinguishes democratic socialism from social democracy?
 
-What can the UN and ILO cooperative/SSE initiatives legitimately establish in a philosophy answer?
+A. Transformation of productive ownership versus regulation of a mainly private economy.
+B. Parliamentary reform versus a revolutionary strategy of acquiring state power.
+C. Contribution-based distribution versus the higher phase's distribution according to need.
+D. Administrative planning versus market coordination under socially controlled productive property.
 
-A. That every cooperative has eliminated hierarchy
-B. That cooperative and social-economy forms are live institutional possibilities, not proof of a complete ideology
-C. That market socialism is the only valid socialist theory
-D. That institutional statistics settle the moral meaning of freedom
+**MCQ 34**
+
+An official overview records enabling rules, training and statistical work for cooperatives. Which additional evidence is needed to evaluate whether these measures realise social control of production?
+
+A. The expansion of legal registration and common training standards across the cooperative sector.
+B. Members' decision rights and the procedures through which affected users hold management accountable.
+C. The growth of total output and investment by recognised enterprises operating under cooperative law.
+D. Comparable indicators for counting the sector's organisations and classifying their legal status.
+
 #### Answers and explanations
 
-**MCQ 32: D**
+**MCQ 32 — Answer and explanation**
 
-- **A — Incorrect:** Private capitalist title without worker power lacks the social ownership required by market socialism.
-- **B — Incorrect:** Abolishing prices removes the market-coordination element named in the concept.
-- **C — Incorrect:** Hereditary property control is neither social ownership nor democratic worker governance.
-- **D — Correct:** The model separates ownership from coordination and combines social control with markets.
+**Correct answer: D**
 
-**MCQ 33: A**
+- **A — Incorrect:** Income security can moderate a private economy without transferring productive ownership or control to society.
+- **B — Incorrect:** Public ownership supplies one axis, but compulsory administrative allocation does not supply the market-coordination axis.
+- **C — Incorrect:** Consultation over prices/dividends is not the social ownership and productive control required by the model.
+- **D — Correct:** The combination separates ownership from allocation: social productive control coexists with price-mediated exchange.
 
-- **A — Correct:** The ownership-and-power ambition is deeper than regulating a mainly private economy.
-- **B — Incorrect:** Constitutional democracy and civil liberties are defining constraints on democratic-socialist transformation.
-- **C — Incorrect:** Transforming economic power does not entail the instantaneous abolition of all public institutions.
-- **D — Incorrect:** Welfare provision alone can moderate capitalism without socialising ownership or workplace authority.
+**MCQ 33 — Answer and explanation**
 
-**MCQ 34: B**
+**Correct answer: A**
 
-- **A — Incorrect:** Cooperative status does not guarantee that managerial, gender or economic hierarchies have disappeared.
-- **B — Correct:** Official initiatives support feasibility illustration while leaving normative judgment open.
-- **C — Incorrect:** Official recognition of social-economy forms cannot establish one socialist model as uniquely valid.
-- **D — Incorrect:** Statistics describe institutions and outcomes; they do not settle the normative content of freedom.
+- **A — Correct:** The central contemporary distinction is the ambition to transform productive ownership, not merely regulate an existing private economy.
+- **B — Incorrect:** This is a change-strategy axis; both traditions in the stated contemporary comparison can use constitutional institutions.
+- **C — Incorrect:** This distinguishes communist-phase distributive standards, not the two programmes' contemporary ownership ambitions.
+- **D — Incorrect:** Planning/market coordination is an independent design choice and can vary within socialist productive ownership.
+
+**MCQ 34 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Wider registration and common training show institutional coverage, not who exercises power within the enterprises.
+- **B — Correct:** Decision rights and user accountability concern actual productive control, the missing link between support for a cooperative form and socialist agency.
+- **C — Incorrect:** Output and investment measure economic activity; growth can coexist with concentrated managerial power inside a recognised cooperative.
+- **D — Incorrect:** Comparable counts and legal classifications describe the sector. They do not identify participants' powers to contest management.
+
+### Original Mains check — market coordination
+
+**Question (10 marks; 150-word ceiling):** Examine whether retaining markets defeats the socialist ownership argument.
+
+**Model answer:** Markets coordinate exchange; capitalist ownership allocates productive control. Market socialism separates them by combining price signals with social or worker ownership. Retaining markets therefore need not abandon the ownership argument.
+
+Guild socialism also distinguishes productive voice from state management, while democratic socialism asks whether ownership can be transformed constitutionally. Neither position makes purchasing power equivalent to socially justified need.
+
+A hypothetical cooperative can give workers collective control yet expose them to competition, unequal investment resources and insecurity. Social democracy can moderate these risks within a mainly private economy but does not thereby transform ownership. The strongest verdict permits market information while testing distribution, public investment, worker agency and accountability. Social title and market efficiency each leave a different part of freedom unsettled.
+
+**Why this earns marks:** It separates ownership from allocation, distinguishes three socialist routes, and evaluates competitive risk rather than treating markets as an automatic ideological label.
 
 ### Transition
 
-Lesson 12 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+A hybrid ownership design may still leave possessiveness, bureaucratic power and degrading labour relations untouched. Gandhi asks whether transforming conduct and means must be part of transforming institutions.
 
 ---
 
 ## Lesson 12 — Gandhian Socialism: Trusteeship, Bread Labour, Swaraj and Sarvodaya
 
-**Progress:** 12 / 13 | **Stage:** Core | **Exact subtopic:** Gandhian Socialism: Trusteeship, Bread Labour, Swaraj and Sarvodaya
+Progress: 12 / 13 | Stage: Core | Subtopic: Gandhian Socialism: Trusteeship, Bread Labour, Swaraj and Sarvodaya
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** No current event is needed to establish this timeless philosophical argument; current material is not forced.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — means–ends, trusteeship, bread labour, self-rule and welfare of all.
+- **CA search:** Not required; the trusteeship example is hypothetical.
+- **CA found:** No philanthropic initiative is equated with Gandhian socialism.
 
 ### VISUAL — First map of the problem
 
@@ -2092,15 +2552,15 @@ non-possession -> trusteeship -> bread labour -> village swaraj -> sarvodaya
 means must already embody the non-violent end
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Ethical restraint connects property duties with productive dignity and shared self-government.*
 
 ### Learner-first intuition
 
 Gandhi makes the route part of the destination: violent centralisation cannot reliably create non-violent self-rule. His socialism joins property ethics to restraint, labour and decentralisation.
 
-### Technical doctrine and full argument
+### Part A — Why the means help constitute the end
 
-### 3.5 Gandhian socialism
+### Gandhian socialism
 
 ✅ Gandhian socialism combines **non-possession, trusteeship, bread labour, decentralised
 production, village self-rule (*swarāj*) and welfare of all (*sarvodaya*)**. It rejects both
@@ -2110,6 +2570,25 @@ unrestricted capitalism and violent, centralised collectivism.
 
 **Objection:** trusteeship relies on voluntary moral conversion and may preserve unequal ownership.
 **Reply:** ⚠️ Gandhi treats trusteeship as a non-violent direction of transition, not praise of possessive entitlement. Yet without enforceable institutions the objection remains powerful.
+
+#### Part B — Six ideas doing different work
+
+| Concept | Plain meaning | Philosophical function |
+|---|---|---|
+| Non-possession | Restrain accumulation beyond justified need | Challenges acquisitiveness and its effects on others |
+| Trusteeship | Hold wealth with duties toward the community | Recasts ownership as responsibility rather than unrestricted entitlement |
+| Bread labour | Share bodily productive work for one's consumption | Restores dignity to manual labour and contests exemptions by status |
+| Self-rule (*swarāj*) | Discipline oneself and participate in local self-government | Freedom begins with agency, not merely replacing rulers |
+| Welfare of all (*sarvodaya*) | Evaluate change by everyone's well-being | Refuses emancipation defined solely as one group's victory |
+| Non-violence (*ahiṃsā*) and truth-force (*satyāgraha*) | Transform relations without treating people as disposable instruments | Means must already express the social order sought |
+
+The “bread” in bread labour stands for physical consumption, not an occupation restricted to farming or baking. Everyone sharing some bodily work challenges the judgment that manual workers are socially inferior. ⚠️ The proposal needs qualification for disability, care responsibilities and modern specialisation; dignity cannot depend on equal physical capability.
+
+“Production by the masses” contrasts with production concentrated in impersonal machinery and ownership. Gandhi's concern is agency, employment, community and restrained wants, not an empirical theorem that all machines are immoral. Decentralised production can coexist with cooperation across regions; it cannot alone supply every complex good.
+
+⚠️ Imagine trustees in an Indian enterprise meeting social duties while workers remain unable to contest decisions. The arrangement shows why benevolence and non-domination differ. Trusteeship's strongest defence treats it as a direction of non-violent transformation; its strongest objection asks what constrains a trustee who refuses duties. Enforceable rights, worker voice and accountable local institutions answer part of that objection but modify a purely voluntary model.
+
+Village self-rule also needs the test of equal citizenship. Caste exclusion and gender hierarchy can make proximity oppressive rather than freeing. Gandhi's decentralist ideal therefore cannot substitute for anti-caste reform or individual protection against local majorities.
 
 ### Gandhi and Marx on five common axes
 
@@ -2144,71 +2623,94 @@ Both oppose exploitation, but Gandhi makes ethical self-restraint and non-violen
 7. Trusteeship remains vulnerable where moral obligation lacks enforceable redistribution and worker power.
 8. Scale and inherited caste or gender hierarchy qualify any idealisation of village life.
 
+9. Bread labour concerns shared dignity, with disability, care and specialisation qualifications; it is not a uniform bodily-performance requirement.
+10. Production by the masses is an agency and scale argument, not a theorem that every machine is morally wrong.
+
 ### Local MCQs — questions before answers
 
-### Question 35
+**MCQ 35**
 
-Which set contains the distinctive elements of Gandhian socialism?
+Which relation connects Gandhi's bread labour to the aspiration for social equality?
 
-A. Vanguard, democratic centralism, nationalisation and class dictatorship
-B. Unrestricted accumulation, central planning, industrial gigantism and violent revolution
-C. Non-possession, trusteeship, bread labour, village swaraj, sarvodaya and non-violent means
-D. Minimal taxation, absolute property rights, consumer sovereignty and competitive individualism
-### Question 36
+A. Educated citizens discharge bread labour by compensating manual workers.
+B. Occupational rewards express the natural social rank of their participants.
+C. Sharing bodily work challenges manual labour's inferior social status.
+D. Expanding output makes bodily and intellectual distinctions socially irrelevant.
 
-Why is trusteeship the most vulnerable element of Gandhian socialism?
+**MCQ 36**
 
-A. It abolishes every social obligation attached to wealth
-B. It requires violent expropriation before moral reform
-C. It rejects non-possession and bread labour
-D. It may rely on voluntary moral conversion while unequal ownership and enforcement problems persist
-### Question 37
+Which objection concerns enforcement of voluntary trusteeship rather than a different design issue in Gandhian socialism?
 
-Which comparison between Marx and Gandhi is defensible?
+A. The distributive principle leaves unresolved which differences in reward would be legitimate.
+B. Village institutions face information demands in coordinating complex interdependent productive tasks across regions.
+C. Shared bodily work requires adjustments for different capacities and unpaid care obligations.
+D. Declared duties leave owners' productive control intact when refusal meets no enforceable accountability.
 
-A. Marx foregrounds class exploitation and transformed ownership; Gandhi also foregrounds greed, violence, scale and the unity of means and ends
-B. Both regard violent revolution as ethically compulsory
-C. Gandhi embraces centralised industrial production as the path to swaraj
-D. Marx bases socialism on trusteeship and voluntary renunciation
+**MCQ 37**
+
+Both Marx and Gandhi reject exploitation, but their accounts of emancipatory change differ. Which comparison identifies their organising commitments?
+
+A. Marx makes transformed class power central; Gandhi makes the relations enacted by non-violent means part of liberation.
+B. Marx makes opposition to coercive office central; Gandhi makes temporary concentrated political power the route to self-rule.
+C. Marx makes private moral conversion the agent of transformation; Gandhi makes organised proletarian supremacy the source of universal welfare.
+D. Marx makes constitutional administration the primary strategy; Gandhi makes collective legal title the decisive safeguard against proprietary power.
+
 #### Answers and explanations
 
-**MCQ 35: C**
+**MCQ 35 — Answer and explanation**
 
-- **A — Incorrect:** Vanguard rule and class dictatorship belong to Leninist transition, not Gandhi’s decentralist ethic.
-- **B — Incorrect:** Accumulation, gigantism and revolutionary violence contradict Gandhian restraint, village production and non-violence.
-- **C — Correct:** The set covers the full ethical, economic, political and means–ends architecture.
-- **D — Incorrect:** Absolute property and competitive individualism oppose trusteeship, non-possession and welfare of all.
+**Correct answer: C**
 
-**MCQ 36: D**
+- **A — Incorrect:** Paying others does not perform the bodily work through which bread labour seeks shared dignity.
+- **B — Incorrect:** Gandhi contests the ranking of persons by contempt for manual work, rather than treating occupational rank as natural.
+- **C — Correct:** Sharing bodily productive work challenges the status division between manual workers and those exempt from such work.
+- **D — Incorrect:** Output expansion does not by itself change the moral devaluation of bodily labour.
 
-- **A — Incorrect:** Trusteeship adds duties to wealth; its weakness is that those duties may remain voluntary and unenforceable.
-- **B — Incorrect:** The proposal seeks moral transformation in place of violent seizure, not expropriation before reform.
-- **C — Incorrect:** Non-possession and bread labour support trusteeship’s ethic rather than being repudiated by it.
-- **D — Correct:** The gap between moral duty and enforceable accountability is the central objection.
+**MCQ 36 — Answer and explanation**
 
-**MCQ 37: A**
+**Correct answer: D**
 
-- **A — Correct:** The statement captures both overlap in anti-exploitation and their distinct diagnoses and methods.
-- **B — Incorrect:** Gandhi rejects ethical compulsion toward violence, while Marx does not make violent revolution a universal moral duty.
-- **C — Incorrect:** Centralised industrial production conflicts with Gandhi’s village-centred swaraj and critique of scale.
-- **D — Incorrect:** Trusteeship and voluntary renunciation are Gandhian devices, not the foundation of Marxian socialism.
+- **A — Incorrect:** This is a distributive-criterion issue, not the problem of constraining an owner unwilling to fulfil a declared duty.
+- **B — Incorrect:** This is a coordination/information problem of productive scale rather than enforcement of trusteeship.
+- **C — Incorrect:** This qualifies bread labour's application to persons with different capacities; it does not identify the property-duty enforcement gap.
+- **D — Correct:** Voluntary duty and actual control can diverge. The objection asks what makes obligations effective when the powerful owner refuses accountability.
+
+**MCQ 37 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Marx grounds transformation in class relations and organised praxis. Gandhi makes the ethical relations enacted during change part of the freedom sought.
+- **B — Incorrect:** This shifts Marx toward the anarchist organising diagnosis and Gandhi toward centralised transition; Gandhi's self-rule instead resists dominating means.
+- **C — Incorrect:** Marx's agent is organised class praxis, not private moral conversion; Gandhi's welfare of all is not grounded in one class's political supremacy.
+- **D — Incorrect:** Constitutional administration describes Fabian gradualism rather than Marx's organising strategy; legal title alone is not Gandhi's safeguard against possessiveness and domination.
+
+### Original Mains check — dignity and property duty
+
+**Question (10 marks; 150-word ceiling):** Discuss how bread labour and trusteeship perform different functions in Gandhian socialism.
+
+**Model answer:** Bread labour asks people to share bodily work for their consumption, challenging contempt for manual labour. Trusteeship makes wealth answerable to social duty rather than unrestricted entitlement. They address status and property relations through different ethical mechanisms.
+
+Self-rule disciplines desire and distributes local decision-power; welfare of all tests whose needs the arrangement serves. Non-violence makes the manner of transformation part of its justification.
+
+The limits also differ. Shared bodily work must accommodate disability, care and specialisation. Trusteeship must constrain owners who refuse duty. Village proximity can reproduce caste or gender exclusion. Gandhi's ethical direction therefore needs enforceable rights and accountable cooperation across scales. It remains a corrective to possessiveness and degrading means, not proof that moral conversion supplies every modern institution.
+
+**Why this earns marks:** It distinguishes the two functions before connecting self-rule, universal welfare and means; disability and enforcement are not collapsed into one generic criticism.
 
 ### Transition
 
-Lesson 13 follows because this lesson leaves a distinct institutional or explanatory problem unresolved.
+Gandhi adds an ethical test but still faces scale and enforcement problems. We can now compare all the theories on the same question: which power is transformed, by what means, and what domination remains?
 
 ---
 
 ## Lesson 13 — Master Comparison and Contemporary Relevance
 
-**Progress:** 13 / 13 | **Stage:** Advanced | **Exact subtopic:** Master Comparison and Contemporary Relevance
+Progress: 13 / 13 | Stage: Advanced | Subtopic: Master Comparison and Contemporary Relevance
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** controlling owner, O. P. Gauba and the OCR-searchable local socio-political text were queried.
-- **CA search:** official ILO/UN sources were checked where a genuine labour or cooperative linkage exists.
-- **CA found:** **Institutional fact:** Official ILO 2025 labour material and official UN/ILO cooperative-SSE material are used only as illustrations, never as proof of a doctrine.
-- **Boundary:** neighbouring owners are signposted, not imported.
+- **Book context:** Queried — competing diagnoses, relevance tests and residual problems.
+- **CA search:** `site:ilo.org "May 2025" "53.0" "52.4" labour income share`; official news and June 2026 SSE overview fetched.
+- **CA found:** Older indicator report: **28 May 2025**; recent cooperative/SSE institutional linkage: **2 June 2026**.
 
 ### VISUAL — First map of the problem
 
@@ -2218,17 +2720,17 @@ Gandhi: greed/violence/scale
 Compare diagnosis -> remedy -> residual
 ```
 
-*Use the map to locate the doctrine's diagnosis before memorising terms.*
+*Compare each diagnosis with its proposed remedy and the power that could survive it.*
 
 ### Learner-first intuition
 
 The final comparison prevents label-writing. Diagnose the source of domination first, assess the proposed institution second, and name the residual that survives the best reply.
 
-### Technical doctrine and full argument
+### Comparing diagnosis before remedy
 
-## 4. INTER-THINKER / INTER-SCHOOL DEBATES
+#### Comparing the arguments
 
-### 4.1 Anarchism vs Marxism
+### Anarchism and Marxism on transitional authority
 
 | Axis | Anarchism | Marxism |
 |---|---|---|
@@ -2239,13 +2741,13 @@ The final comparison prevents label-writing. Diagnose the source of domination f
 
 **Core debate:** ✅ Bakunin predicts that a revolutionary state may create a new ruling stratum; Marxists reply that organised class power is needed to defeat entrenched property and coercion.
 
-### 4.2 Marx vs democratic socialists
+### Marx and democratic socialists on reform
 
 ⚠️ Marxism doubts that a state embedded in capitalist property can be peacefully converted into an impartial instrument. Democratic socialism argues that suffrage, trade unions, constitutional rights and public institutions can progressively socialise economic power.
 
 **Balanced verdict:** reform can civilise capitalism and alter power, but reforms remain vulnerable where ownership and investment decisions are insulated from democratic control.
 
-### 4.3 Marx vs Gandhi
+### Marx and Gandhi on diagnosis, scale and means
 
 | Axis | Marx | Gandhi |
 |---|---|---|
@@ -2255,13 +2757,13 @@ The final comparison prevents label-writing. Diagnose the source of domination f
 | Means–ends | revolutionary coercion debated within Marxism | means prefigure ends |
 | Freedom | collective control enables self-development | self-rule begins with ethical self-restraint |
 
-### 4.4 M. N. Roy's radical-humanist criticism
+### Individual agency as a shared institutional test
 
-✅ Roy rejects the subordination of the individual to class, party or historical necessity. Freedom is the progressive removal of obstacles to the unfolding of human capacities; dictatorship cannot reliably serve emancipation because concentrated power reproduces domination.
+⚠️ A synthesis must explain how persons can understand and contest the institutions said to
+emancipate them. Structural change, decentralised organisation and ethical restraint each fail
+their own promise if affected people remain unable to challenge productive or political command.
 
-⚠️ Roy supplies an internal Indian bridge: retain Marx's critique of exploitation, reject economic determinism and party absolutism, and restore individual reason and ethical autonomy.
-
-### 4.5 Contemporary relevance without current-affairs dependence
+### Contemporary relevance without current-affairs dependence
 
 | Ideology | What remains diagnostically live | What must be qualified |
 |---|---|---|
@@ -2276,7 +2778,7 @@ anarchism as an ideology.
 
 ---
 
-## 5. CRITICISMS AND REPLIES
+#### Criticism, reply and remaining difficulty
 
 | Criticism | Target | Strongest reply | Residual issue |
 |---|---|---|---|
@@ -2289,7 +2791,7 @@ anarchism as an ideology.
 
 ---
 
-## 6. COMMON UPSC TRAPS
+#### Final distinctions to protect
 
 1. **Do not equate anarchism with chaos.** ✅ It proposes order without sovereign coercion.
 2. **Do not say anarchists reject every form of organisation.** ✅ They reject domination, not association or coordination.
@@ -2301,22 +2803,41 @@ anarchism as an ideology.
 8. **Do not identify socialism and communism without specifying vocabulary and phase.**
 9. **Do not claim Marx gives a detailed blueprint of communist institutions.** ✅ His account is deliberately limited.
 10. **Do not treat statutes, cooperatives or welfare schemes as proof of socialism.** ⚠️ They are dated institutional illustrations; the philosophical issue is control, freedom and justice.
-11. **Do not import liberalism, neoliberalism or fascism as additional printed ideologies.** They are comparison foils only.
+11. **The named syllabus families are anarchism, Marxism and socialism.** Liberalism is a necessary comparison for anarchist genealogy; fascism is not an additional required family here.
 12. **Do not omit Godwin and Tolstoy when a strand/thinker taxonomy is asked.** Use them briefly and keep Proudhon, Bakunin and Kropotkin central.
 13. **Do not equate utopian with foolish or scientific with infallible.** These labels distinguish moral-exemplary and material-historical strategies.
 14. **Do not merge humanist and structural Marxism.** Alienation/praxis and apparatus/interpellation distribute agency differently.
 15. **Do not treat later communist regimes as either irrelevant to Marxism or identical with Marx's theory.** Use them as institutional objections requiring argument.
-16. **Do not answer the "inspired by liberalism and socialism" charge with a flat yes or no.** ✅ The adjudicated verdict is genealogical dependence with conceptual independence (§1.8).
-17. **Do not read "pure democracy" as the candidate's own phrase.** ✅ It is a polemical term attacked by name in **1918**; the Marxist target is class-conditioned parliamentarism, not popular rule (§2.10).
+16. **Do not answer the "inspired by liberalism and socialism" charge with a flat yes or no.** ⚠️ A defensible verdict distinguishes genealogical dependence from conceptual independence.
+17. **Do not read "pure democracy" as the candidate's own phrase.** ✅ Lenin attacks it by name in **1918**; distinguish his polemic from Marx's class-state and emancipation arguments.
 
 ---
 
-
 ### Verified labour linkage
 
-- **Institutional fact:** the ILO's *World Employment and Social Outlook: May 2025 Update* reports that the global labour-income share declined from 53.0 per cent in 2014 to 52.4 per cent in 2024.
-- **Institutional fact:** official ILO material continues to identify informality and decent-work deficits as barriers to protection, security and freely chosen productive employment.
+- **Institutional fact:** the ILO's **28 May 2025** official news report accompanying the *World Employment and Social Outlook: May 2025 Update* records:
+
+| Indicator | Earlier year/value | Later year/value |
+|---|---|---|
+| Global labour-income share: workers' proportion of GDP | 2014: 53.0% | 2024: 52.4% |
+
+This is an aggregate share, not every worker's pay or Marx's rate of surplus value.
+⚠️ For a specified output total, aggregate labour income equals its share multiplied by that
+total. A falling share alongside growing output does not determine the direction of absolute
+labour income without the magnitudes of both changes.
 - **Analytical inference:** these facts can illustrate questions about distribution, structural dependence and effective freedom. They do not establish surplus-value theory, predict revolution, or justify describing any present country, party or government through an ideology.
+
+#### Three tests of contemporary relevance
+
+1. **Diagnostic reach:** does the concept explain a specified mechanism? Marxian labour dependence, Gramscian consent or anarchist scrutiny of authority earns value only if the mechanism is identified.
+2. **Predictive reach:** did a stated expectation survive contrary evidence? Market resilience and institutional reform challenge deterministic collapse claims; their existence does not erase every relation of exploitation.
+3. **Institutional remedy:** can the proposed change avoid the domination it diagnoses? Ownership reform needs worker agency; federation needs coordination and protection; trusteeship needs accountability.
+
+For **2019's free-market question**, voluntary exchange can improve opportunities while leaving dependence on productive owners. Marxism's future is therefore not decided by whether markets exist. Assess which categories explain those relations, which expectations fail, and which democratic transformations remain defensible.
+
+For **2020's relevance question**, justification must be criterion-specific: historical materialism explains material conditions and conflict, alienation questions productive agency, and ideology critique tests naturalised power. Caste, gender and cultural mechanisms qualify explanatory monopoly. For **2025's evaluation**, also reconstruct the emancipatory aim and transition, then answer the liberty, feasibility and reductionism objections.
+
+⚠️ The strongest synthesis is not “all are partly right.” It says where each earns an argument: Marx explains productive dependence; anarchists ask why emancipatory institutions may command; Gandhi tests whether the means reproduce the desired ethical relation. No synthesis removes the need to design enforceable, contestable institutions.
 
 ### Strongest objection, reply and residual
 
@@ -2345,245 +2866,301 @@ anarchism as an ideology.
 
 ### Local MCQs — questions before answers
 
-### Question 38
+**MCQ 38**
 
-What is the central unresolved dispute between anarchism and Marxism?
+Why does Bakunin reject the Marxian transitional state?
 
-A. Whether exploitation is morally objectionable
-B. Whether transitional organised state power is necessary or itself recreates domination
-C. Whether people can cooperate in collective activity
-D. Whether freedom has social and material conditions
-### Question 39
+A. Worker origins of officials locate the dispute in the technical competence needed for administration.
+B. A promised transitional command can create a ruling stratum with interests in perpetuating its authority.
+C. Removing capitalist proprietors resolves the political risk of coercive office when public title serves workers.
+D. Recallable mandates reconcile temporary sovereignty with anarchism because represented workers can withdraw their support.
 
-A diagnosis/remedy split in evaluating Marxism means that:
+**MCQ 39**
 
-A. Later authoritarianism is irrelevant to the theory of transition
-B. A good account of exploitation automatically validates a vanguard state
-C. Explanatory categories may retain force even when predictions or institutional remedies fail
-D. Historical outcomes refute every concept used by Marx
-### Question 40
+Which use of adverse institutional outcomes is consistent with distinguishing explanatory diagnosis from transition theory?
 
-How should official ILO labour-income and informality material be used here?
+A. Alienation analysis is invalidated by restrictions on opposition under collective productive title.
+B. An expected withering is vindicated when a government defines itself as an instrument of workers.
+C. Persistent coercive power challenges promised withering; productive dependence remains a separately testable diagnosis.
+D. Failure belongs to practice rather than doctrine when an emancipatory intention has been stated.
 
-A. As proof that surplus-value theory is economically complete
-B. As evidence that revolution will occur in a named country
-C. As a basis for assigning an ideology to a present government
-D. As an institutional illustration of distribution, dependence and decent-work questions, with doctrinal limits stated
-### Question 41
+**MCQ 40**
 
-Which synthesis handles class, caste and gender without reductionism?
+A global labour-income share falls while total output increases. Which relationship must hold?
 
-A. Treat them as interacting but partly autonomous mechanisms of domination
-B. Derive caste entirely from the wage relation
-C. Exclude class whenever patriarchy is analysed
-D. Assume one hierarchy disappears automatically when another changes
+A. Individual real wages decline proportionately across the economy when labour's aggregate fraction decreases.
+B. Non-labour income divided by total output approximates Marx's surplus-value rate rather than an output share.
+C. The indicator records a corresponding national reduction in bargaining power after adjusting for variations in output.
+D. Aggregate labour income equals its reduced proportion multiplied by the enlarged output total.
+
+**MCQ 41**
+
+A worker gains collective productive ownership but remains subject to endogamous exclusion and unequal care work. Which analysis fits?
+
+A. Productive ownership changes, but status exclusion and the household organisation of labour sustain distinct relations of domination.
+B. Common productive resources make endogamous membership a technical allocation issue rather than a status relation.
+C. Equal productive shares compensate for unequal care burdens because civic membership confers equivalent entitlements.
+D. Collective surplus determines emancipatory success, placing household command outside the evaluation of socialist freedom.
+
 #### Answers and explanations
 
-**MCQ 38: B**
+**MCQ 38 — Answer and explanation**
 
-- **A — Incorrect:** Both traditions condemn exploitation; their sharper conflict concerns the institutions permitted during emancipation.
-- **B — Correct:** The transition question separates immediate anti-authoritarianism from organised class power.
-- **C — Incorrect:** Anarchists and Marxists each recognise collective cooperation, so its possibility is not their central divide.
-- **D — Incorrect:** Both connect freedom to social conditions, though they disagree about state power and ownership.
+**Correct answer: B**
 
-**MCQ 39: C**
+- **A — Incorrect:** The warning concerns a relation of political power, not a dispute over whether workers have sufficient technical competence to administer.
+- **B — Correct:** Institutions can create rulers with interests distinct from the represented class, making the promise of future abolition unreliable.
+- **C — Incorrect:** A new governing stratum can form after owners change; the office relation is itself the target.
+- **D — Incorrect:** Recall checks office-holders but does not by itself reconcile a sovereign right to bind dissenters with anarchism's rejection of that right.
 
-- **A — Incorrect:** Authoritarian outcomes matter directly when assessing institutions designed to manage transition.
-- **B — Incorrect:** Explanatory strength does not by itself legitimate a party monopoly or vanguard remedy.
-- **C — Correct:** The distinction permits category-specific evaluation instead of all-or-nothing judgment.
-- **D — Incorrect:** Failed predictions or transitions need not invalidate every independent analysis of alienation, class or ideology.
+**MCQ 39 — Answer and explanation**
 
-**MCQ 40: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Labour data can illustrate distributional patterns but cannot complete or prove a theory of surplus value.
-- **B — Incorrect:** Present evidence of informality cannot establish an inevitable revolution in any specified country.
-- **C — Incorrect:** Descriptive institutional material does not justify assigning a comprehensive ideology to a government.
-- **D — Correct:** The bounded use connects evidence to concepts without turning illustration into proof.
+- **A — Incorrect:** The institutional liberty defect directly challenges the remedy; it does not by itself disprove the prior account of estranged productive activity.
+- **B — Incorrect:** A government's self-description is not evidence that coercive class-state functions have withered.
+- **C — Correct:** Outcomes can test the promised transition without doing the same evidential work as observations of productive dependence.
+- **D — Incorrect:** Intention cannot insulate an institutional proposal from its outcomes; separating claims is not exempting the remedy from evidence.
 
-**MCQ 41: A**
+**MCQ 40 — Answer and explanation**
 
-- **A — Correct:** The synthesis preserves material analysis while recognising endogamy, status and social reproduction.
-- **B — Incorrect:** Caste also operates through status, endogamy and social exclusion that cannot be derived wholly from wages.
-- **C — Incorrect:** Removing class from analysis makes patriarchy artificially isolated from property, labour and material dependence.
-- **D — Incorrect:** Hierarchies can persist, mutate or reinforce one another rather than vanish by automatic substitution.
+**Correct answer: D**
+
+- **A — Incorrect:** A share is not an individual real-wage series; distribution within labour and prices could change differently.
+- **B — Incorrect:** The surplus-value rate uses variable capital as denominator, not total output; an output fraction does not directly supply that rate.
+- **C — Incorrect:** The aggregate does not identify a representative national change or its bargaining mechanism; disaggregated evidence would be needed.
+- **D — Correct:** Aggregate labour income is share multiplied by total output. A smaller fraction of a growing total can yield higher or lower absolute income; the direction needs the magnitudes.
+
+**MCQ 41 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The scenario distinguishes productive ownership from inherited status and household authority; the mechanisms interact without being identical.
+- **B — Incorrect:** Technical allocation does not explain or remove the endogamous membership boundary retained in the case.
+- **C — Incorrect:** Equivalent membership or productive shares do not establish compensation for an unequal care burden, much less transformation of the household relation.
+- **D — Incorrect:** Collective surplus is one evaluative dimension, not a reason to exclude household command from the test of emancipation.
+
+### Original Mains check — evidence and institutional judgment
+
+**Question (10 marks; 150-word ceiling):** Explain why labour statistics and cooperative examples cannot settle the truth of a political ideology.
+
+**Model answer:** Statistics describe an indicator; ideologies explain and justify social relations. The ILO labour-income share records distribution but does not measure Marx's surplus-value rate or identify productive control.
+
+A cooperative illustrates a social ownership possibility, yet its governance may remain hierarchical. Anarchist mutual aid similarly demonstrates cooperation without proving complete stateless feasibility. Gandhi's trusteeship must be tested by accountability rather than charitable intention.
+
+Evidence matters when attached to a specified mechanism: who controls production, how decisions bind, and whether the means enlarge agency. Counter-evidence must test the same claim. The defensible conclusion is therefore neither doctrine without evidence nor ideology proved by one example; it is a justified diagnosis and institution-specific evaluation with the limits of each indicator stated.
+
+**Why this earns marks:** It links ILO evidence to Marx, cooperatives to governance and mutual aid to feasibility, then supplies a precise rule for evidential inference.
 
 ### Transition
 
-The remaining comparisons are consolidated below.
+Use the following linkage index to select an argument, cumulative checks to combine distinctions, and final models to test a complete verdict. Register notes come after that application.
 
 ---
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-These are exact links and concise approaches, not solved official answers.
+The table preserves question text and gives approaches, not solved PYQ model answers. Q1 parts
+carry a printed **about-150-word** direction. Original practice uses **220 words for 15-mark
+questions** and **250 words for 20-mark questions**; these are working ceilings, not invented
+printed limits for longer PYQ parts. The 2026 Q1(c) and Q1(d) wording follows page 2 of the official paper.
 
-| Year / part | Marks | Exact wording | Concise approach |
+| Year / part | Marks | Exact wording | Lesson and directive-specific approach |
 |---|---:|---|---|
-| 2018 Q2(c) | 15 | Do you subscribe to the political ideology of Anarchists ? Justify your answer. | Critique versus feasibility; qualified subscription. |
-| 2018 Q3(b) | 15 | Are Marxian Socialism and individual freedom consistent ? Discuss critically. | Effective freedom, bureaucracy and constitutional liberty. |
-| 2019 Q1(c) | 10 | Evaluate Mahatma Gandhi as a political anarchist. | Affinity, difference and qualified verdict. |
-| 2019 Q3(c) | 15 | What do you consider to be the future of Marxism in the context of the prevalent free-market economy? | Separate diagnosis, prediction and remedy. |
-| 2020 Q1(e) | 10 | Do you think that the prevailing pandemic will lead to anarchism in society? Discuss. | Disorder/mutual aid are not ideological adoption. |
-| 2020 Q2(b) | 15 | How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer. | Judge method, critique and project separately. |
-| 2021 Q3(a) | 20 | Discuss anarchism as a political ideology. Is it possible to dispense with political authority completely? Give reasons for your answer. | Full doctrine, feasibility tests and graded authority verdict. |
-| 2021 Q3(b) | 15 | Discuss the distinctive features of Gandhian Socialism and its contemporary relevance. | Six features, relevance and residual limits. |
-| 2023 Q1(b) | 10 | Critically examine the anarchist's view that "all States always and everywhere are illegitimate and unjust." | Burden of proof versus universal conclusion. |
-| 2023 Q3(a) | 20 | Explain Historical Materialism and discuss its relevance in the context of social development and change. | Mechanism, relevance and non-reductionist qualification. |
-| 2024 Q1(d) | 10 | Present an exposition of the concept of alienation as propounded by Marx. | Four estrangements, species-being and wage distinction. |
-| 2024 Q1(e) | 10 | Compare socialism and communism as two distinct political ideologies. | Common axes: scope, property, state, distribution and method. |
-| 2025 Q2(b) | 15 | Evaluate Marxism as a Political Ideology. | Method, critique, change theory, project and residuals. |
-| 2026 Q1(c) | 10 | Anarchism is not an independent political ideology in itself, rather it is inspired by liberalism on the one hand and socialism on the other. Analyze. | Genealogy plus independent anti-authority premise. |
-| 2026 Q1(d) | 10 | On what grounds does Marxism criticize pure democracy ? | Number seven grounds and preserve liberty. |
+| 2018 Q2(c) | 15 | Do you subscribe to the political ideology of Anarchists ? Justify your answer. | L3: justify a stated position; distinguish subscription to critique from stateless feasibility. |
+| 2018 Q3(b) | 15 | Are Marxian Socialism and individual freedom consistent ? Discuss critically. | L7: define freedom; test productive agency, bureaucracy and safeguards; give conditional compatibility. |
+| 2019 Q1(c) | 10 | Evaluate Mahatma Gandhi as a political anarchist. | L3: compare ideal, practical engagement and non-violent means; qualified label. |
+| 2019 Q3(c) | 15 | What do you consider to be the future of Marxism in the context of the prevalent free-market economy? | L13, with L4–9: explain what markets leave intact, what forecasts fail and which remedies need revision. |
+| 2020 Q1(e) | 10 | Do you think that the prevailing pandemic will lead to anarchism in society? Discuss. | L3: test the causal inference; distinguish disorder, mutual aid and increased authority in the 2020 setting. |
+| 2020 Q2(b) | 15 | How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer. | L13, with L4–9: justify criterion-specific relevance of method, critique and project. |
+| 2021 Q3(a) | 20 | Discuss anarchism as a political ideology. Is it possible to dispense with political authority completely? Give reasons for your answer. | L2–3: doctrine and constructive order; reasoned security, scale, dissent and coordination tests. |
+| 2021 Q3(b) | 15 | Discuss the distinctive features of Gandhian Socialism and its contemporary relevance. | L12: six distinct functions; assess ethical relevance, enforcement, scale and local hierarchy. |
+| 2023 Q1(b) | 10 | Critically examine the anarchist's view that "all States always and everywhere are illegitimate and unjust." | L2–3: reconstruct the universal claim; show why a burden of proof is weaker than impossibility of legitimate rule. |
+| 2023 Q3(a) | 20 | Explain Historical Materialism and discuss its relevance in the context of social development and change. | L4: explain the forces/relations mechanism before discussing agency, material conditions and non-reductionist limits. |
+| 2024 Q1(d) | 10 | Present an exposition of the concept of alienation as propounded by Marx. | L5: explain four estrangements and species-being; use wage contrast, not criticism displacing exposition. |
+| 2024 Q1(e) | 10 | Compare socialism and communism as two distinct political ideologies. | L11, with L7 and the foundational vocabulary in L10: specify the sense and compare property, state, distribution and method on shared axes. |
+| 2025 Q2(b) | 15 | Evaluate Marxism as a Political Ideology. | L13, with L4–9: test method, critique, change theory and project through objections, replies and residuals. |
+| 2026 Q1(c) | 10 | Anarchism is not an independent political ideology in itself, rather it is inspired by liberalism on the one hand and socialism on the other. Analyze. | L3: reconstruct the two roots; adjudicate genealogical dependence against a distinctive anti-command organising principle. |
+| 2026 Q1(d) | 10 | On what grounds does Marxism criticize pure democracy ? | L6: state grounds, distinguish Marx from Lenin, and use Commune detail to avoid conflating critique with rejection of democracy. |
+
+**Necessary cross-topic questions:**
+
+| Exact cross-linked question | Marks and destination | Contribution here |
+|---|---|---|
+| 2022 Q2(c): Explain the difference between the notion of equity and equality with reference to Marxian philosophy. | 15; Social and Political Ideals | L7 distinguishes lower-phase equal contribution from higher-phase need. |
+| 2019 Q1(e): Can gender equality be realised within a socialist regime? Analyse. | 10; Gender Discrimination | L7 tests ownership against independent household, bodily and care relations. |
+| 2020 Q2(a): State and examine the Gandhian concept of social development. | 20; Development and Social Progress | L12 supplies ethical means, productive dignity and decentralisation, not the full development answer. |
+| 2022 Q4(b): Does idea of unconditional rights necessarily lead to anarchy? Critically examine. | 15; Individual and State | L2 supplies the anarchy/anarchism and obligation distinctions; rights and reciprocal-duty analysis remains the demanded axis. |
 
 # CUMULATIVE MCQS
 
 Questions precede the complete answer set.
 
-### Question 42
+**MCQ 42**
 
-Anarcho-communism (Kropotkin) is distinguished from mutualism (Proudhon) chiefly by:
+Which distributional contrast separates Kropotkin's anarcho-communism from Proudhon's mutualism?
 
-A. supporting a strong centralised state
-B. favouring common ownership with distribution according to need, rather than possession and exchange without exploitative property
-C. rejecting all forms of cooperation
-D. endorsing hereditary monarchy
+A. Both allocate by labour equivalence; monetary exchange marks the difference.
+B. Common need-based provision contrasts with possession and reciprocal exchange.
+C. Both distribute by need; the extent of central public planning distinguishes them.
+D. Common ownership places allocation under sovereign authority, whereas possession supports association through voluntary contracts.
 
-### Question 43
+**MCQ 43**
 
-The STRONGEST internal objection to anarchism, which a defensible anarchism must concede, is:
+A formally voluntary association leaves technical experts able to determine the agenda without scrutiny. Which problem is illustrated?
 
-A. that anarchists dislike all cooperation
-B. that anarchism has no named thinkers
-C. the 'hidden authority' problem -- expertise, informal status and economic power return even after the state is abolished
-D. that anarchism requires a hereditary ruler
+A. Specialist knowledge itself constitutes the hierarchy, irrespective of the powers attached to its use.
+B. Original agreement supplies continuing authorisation for expert decisions even when departure becomes impracticable.
+C. Voluntary membership coexists with unequal decision power because members lack effective institutional remedies.
+D. An association's absence of formal public office gives its decisions the character of equal self-government.
 
-### Question 44
+**MCQ 44**
 
-The safest exam formulation of Gandhi's relation to anarchism is that he is:
+Which criterion of ideological identity supports the strongest reply to the claim that borrowing liberal and socialist premises makes anarchism dependent?
 
-A. a full Bakuninite revolutionary anarchist
-B. in no sense connected to anarchism
-C. an advocate of a strong centralised industrial state
-D. a moral and decentralist anarchist in ideal, but a pragmatic reformer in political method
+A. Institutional uniformity across property arrangements, irrespective of different arguments about authority.
+B. Organisational separation from liberal and socialist parties, rather than a distinct theory of justified social order.
+C. Novel moral values unavailable within the traditions from which the doctrine's premises developed.
+D. An organising inference about command that distinguishes the doctrine despite the antecedents of its premises.
 
-### Question 45
+**MCQ 45**
 
-Philosophical anarchism is best characterised as the view that:
+A philosophical anarchist obeys a particular safety rule because its content is justified. Which conclusion follows?
 
-A. there is no automatic duty to obey the state, though critical allegiance to institutions may coexist with the critique
-B. every state must be overthrown by immediate insurrection
-C. anarchism requires collective ownership of all property
-D. anarchism is identical with civil disobedience
+A. Content-specific justification for compliance, leaving the issuer's general command-right unestablished.
+B. A general entitlement to command, established through the justification of this particular rule.
+C. A consistent repudiation of political obligation, requiring refusal of the independently beneficial rule.
+D. Tacit authorisation of subsequent commands, established through present compliance on independent moral grounds.
 
-### Question 46
+**MCQ 46**
 
-'Relations of production' in historical materialism refers to:
+Which account explains dependence within a wage enterprise in Marx's framework?
 
-A. the tools and technology available to a society
-B. the ownership, control and class relations that determine who commands and appropriates
-C. the total population engaged in farming
-D. the level of scientific knowledge
+A. Nominal property designation supplies the class boundary even where control and appropriation lie elsewhere.
+B. Access to productive resources places one group in command of another's purchased capacity to work.
+C. Workforce headcount supplies the class boundary once an enterprise reaches industrial scale.
+D. Delegated supervisory authority supplies ownership status as an employee's occupational rank increases.
 
-### Question 47
+**MCQ 47**
 
-Remedial -- 'socialism and communism are synonyms'. The correct correction is that:
+Which explanatory route corresponds to Marx and Engels's claimed scientific socialism rather than a different socialist justification or method?
 
-A. they are indeed identical in every school
-B. communism is broader than socialism
-C. socialism names the whole family that socialises economic power by diverse routes, while communism (Marxian) names a specific classless, stateless, need-based end-state -- so specify vocabulary and phase
-D. social democracy is the same as communism
+A. Public ownership receives its justification from shared well-being and equal civic standing.
+B. An exemplary community demonstrates cooperation and supplies the persuasive model for wider change.
+C. Material/class mechanisms replace exemplary design in explaining socialist transformation.
+D. Research and administrative experience support constitutional pressure for gradual socialisation of productive power.
 
-### Question 48
+**MCQ 48**
 
-Remedial -- 'the economic base mechanically determines every idea'. The correct correction is that:
+Roy argues that intelligence produces tools, whereas a determinist explains intelligence through productive tools. What does this dispute require a reciprocal materialist to explain?
 
-A. ideas alone determine the economy
-B. the superstructure has no causal weight at all
-C. the base-superstructure relation is irrelevant to Marxism
-D. base and superstructure interact reciprocally, and Marx allows political agency; the fair criticism is a tendency to reductionism, not a determinism he never qualified
+A. How invention originates in self-sufficient reasoning, independently of historically organised education and cooperation.
+B. How a tool's practical success confirms its inventor's philosophical account of the source of consciousness.
+C. How creative effort establishes a prior entitlement to retain the existing structure of productive property.
+D. How socially formed intellectual capacities reshape productive conditions that also influence those capacities' development.
 
-### Question 49
+**MCQ 49**
 
-A labour-income statistic may be used most carefully to:
+A worker cooperative retains competitive product markets. Which reasoning survives the distinctions among title, market coordination and control?
 
-A. Illustrate a question about distribution and effective freedom without proving a whole ideology
-B. Demonstrate that proletarian revolution is inevitable
-C. Establish surplus value without analysing production
-D. Label a present government Marxist
+A. Collective governance and competition are separate design axes; their effects on workers require joint assessment.
+B. Freedom of product exchange determines ownership status; collective legal title remains merely a distributive convention.
+C. Common surplus insulates labour conditions; competition affects consumers rather than producers' productive choices.
+D. Competitive success establishes social legitimacy; voluntary purchases express consumers' justified needs in full.
 
 ## Cumulative answers and explanations
 
-**MCQ 42: B**
+**MCQ 42 — Answer and explanation**
 
-- **A — Incorrect:** A strong central state contradicts the decentralised voluntary association shared by both anarchist strands.
-- **B — Correct:** Anarcho-communism = common ownership + distribution by need (communes, mutual aid); mutualism = possession and exchange through contracts and associations.
-- **C — Incorrect:** Kropotkin’s mutual aid and Proudhon’s associations each place cooperation at the centre of social order.
-- **D — Incorrect:** Hereditary monarchy is a coercive hierarchy rejected by anarcho-communists and mutualists alike.
+**Correct answer: B**
 
-**MCQ 43: C**
+- **A — Incorrect:** Labour equivalence is characteristic of mutualist exchange; need-based common provision is not merely a different monetary instrument.
+- **B — Correct:** The contrast concerns access and distribution: need through common provision versus possession and reciprocal exchange.
+- **C — Incorrect:** Mutualism does not make distribution by need its equivalent-exchange rule; neither model is defined by central state planning.
+- **D — Incorrect:** Common ownership does not logically entail a sovereign allocator; anarcho-communism proposes federated common provision.
 
-- **A — Incorrect:** Mutual aid and voluntary association show that cooperation is integral to anarchism, not an internal defect.
-- **B — Incorrect:** Godwin, Proudhon, Bakunin and Kropotkin make the absence-of-thinkers claim plainly false.
-- **C — Correct:** Security and scale objections have replies; the hidden-authority objection is the serious residual, demanding scrutiny of domination inside voluntary associations.
-- **D — Incorrect:** A hereditary ruler would institutionalise the unaccountable hierarchy anarchism contests.
+**MCQ 43 — Answer and explanation**
 
-**MCQ 44: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Gandhi rejects Bakunin’s revolutionary violence, anti-theism and class-war method despite decentralist affinities.
-- **B — Incorrect:** Swaraj, village self-government and suspicion of concentrated state power create a genuine anarchist connection.
-- **C — Incorrect:** Gandhi’s preferred order disperses political and productive power instead of centralising industrial rule.
-- **D — Correct:** Gandhi's self-rule (swaraj) and minimal-state decentralism give an anarchist affinity, but non-violence, trusteeship and constructive work make him a reformer in method.
+- **A — Incorrect:** Possession of knowledge and unanswerable institutional power are different; the objection targets how expertise governs the agenda.
+- **B — Incorrect:** Original agreement is not an unlimited continuing authorisation; dependency and impracticable exit can leave subsequent expert power unanswerable.
+- **C — Correct:** Formal voluntariness can coexist with informal domination; accountability must reach power inside the association.
+- **D — Incorrect:** The formal office boundary does not show that members author decisions equally; the case specifies expert agenda control.
 
-**MCQ 45: A**
+**MCQ 44 — Answer and explanation**
 
-- **A — Correct:** Philosophical anarchism denies an automatic duty to obey without demanding insurrection -- the discriminating reply to the 'all states are unjust' stem.
-- **B — Incorrect:** Philosophical anarchism questions political obligation; it does not prescribe immediate violent overthrow of every state.
-- **C — Incorrect:** Its thesis concerns authority and obedience, so it can coexist with divergent anarchist positions on property.
-- **D — Incorrect:** Civil disobedience challenges particular laws, whereas philosophical anarchism denies a general presumption of obedience.
+**Correct answer: D**
 
-**MCQ 46: B**
+- **A — Incorrect:** Uniform institutions are not necessary for ideological identity; anarchist property disagreements can coexist with a shared anti-command argument.
+- **B — Incorrect:** A historical split supplies evidence of disagreement, not a substitute for specifying its philosophical content.
+- **C — Incorrect:** Moral novelty is not a necessary criterion of ideological identity; a distinctive organising inference can use inherited commitments.
+- **D — Correct:** Genealogy and conceptual identity answer different questions. The anti-command organising principle can distinguish the doctrine despite its intellectual debts.
 
-- **A — Incorrect:** Tools and technology belong to the productive forces, not to relations governing ownership and appropriation.
-- **B — Correct:** Relations of production = ownership/control and class relations; productive forces are the capacity to produce; their unity is the mode of production.
-- **C — Incorrect:** The agricultural workforce is a demographic measure rather than a structure of class control.
-- **D — Incorrect:** Scientific knowledge may enlarge productive capacity but does not define who owns, commands or appropriates.
+**MCQ 45 — Answer and explanation**
 
-**MCQ 47: C**
+**Correct answer: A**
 
-- **A — Incorrect:** Different socialist schools and Marxian phase terminology prevent the two words from being universally identical.
-- **B — Incorrect:** Communism is a specific Marxian end-state within the wider socialist family, so the proposed scope is reversed.
-- **C — Correct:** In Marxist usage socialism often denotes the transitional lower phase; in wider theory it names the family. Never treat the two as loose synonyms.
-- **D — Incorrect:** Social democracy regulates capitalist property through reform; it is not classless, stateless communism.
+- **A — Correct:** The case gives an independent reason for the action; that reason need not recognise authority owed to the issuer as such.
+- **B — Incorrect:** The justification is content-specific, so it does not establish an institution's general entitlement to command.
+- **C — Incorrect:** The denial of general political obligation is compatible with independently justified conduct; logical consistency does not require harmful refusal.
+- **D — Incorrect:** Content-based action does not demonstrate a delegation of judgment over future commands.
 
-**MCQ 48: D**
+**MCQ 46 — Answer and explanation**
 
-- **A — Incorrect:** Idealism that gives ideas sole causal priority is the opposite one-sided error, not the needed qualification.
-- **B — Incorrect:** Law, politics and ideology can react upon economic relations, so denying all superstructural efficacy is too crude.
-- **C — Incorrect:** The relation is indispensable to Marxist social explanation even when interpreted non-mechanically.
-- **D — Correct:** The base-superstructure relation is reciprocal, not a one-way switch; economic reductionism is a tendency to guard against, not a doctrine Marx asserted crudely.
+**Correct answer: B**
 
-**MCQ 49: A**
+- **A — Incorrect:** A nominal designation cannot substitute for investigating the effective relation of productive control and appropriation.
+- **B — Correct:** Unequal access to means of production makes one group dependent on selling labour-power to another; this explains the relation rather than merely naming a title.
+- **C — Incorrect:** Workforce size can affect organisation, but it does not define the ownership/control relation generating wage dependence.
+- **D — Incorrect:** Delegated rank is not productive ownership; supervisory employees can themselves sell labour-power under owners' control.
 
-- **A — Correct:** Official data can illustrate a conceptual problem; it cannot validate doctrine, prediction or a political label.
-- **B — Incorrect:** A distributional statistic cannot demonstrate the historical inevitability of proletarian revolution.
-- **C — Incorrect:** Surplus value requires analysis of labour power and production, not inference from an income figure alone.
-- **D — Incorrect:** A present administration’s ideology cannot be read directly from one labour-market indicator.
+**MCQ 47 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** This states a normative justification of an objective, not the material/class explanation of how transformation becomes possible.
+- **B — Incorrect:** This expresses the exemplary-community route associated with early socialism; a persuasive design does not itself identify the historical class mechanism.
+- **C — Correct:** “Scientific” names the material explanatory ambition: agents, productive relations and contradictions are to explain transformation, not certify infallible forecasts.
+- **D — Incorrect:** This is the Fabian research/constitutional route; empirical administration and Marxian historical-class explanation are not the same method.
+
+**MCQ 48 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Roy's objection identifies intelligence as causally active; it does not establish invention originating in self-sufficient, socially unconditioned reasoning.
+- **B — Incorrect:** Practical success is not verification of a philosophical causal theory of consciousness; such a theory needs an account of the mind–conditions relation.
+- **C — Incorrect:** A creative contribution does not by itself establish an entitlement to the existing property order; this imports a separate normative premise.
+- **D — Correct:** A reciprocal account must explain both directions: socially formed capacities act on material conditions, which in turn help form those capacities.
+
+**MCQ 49 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Social control and market risk are separate axes; neither the title nor the presence of prices settles their interaction.
+- **B — Incorrect:** Freedom to exchange products does not determine ownership; collective title can confer governing powers, not merely distributive claims.
+- **C — Incorrect:** Common surplus does not insulate labour conditions from competition, which can affect producers' costs, investment and work decisions.
+- **D — Incorrect:** Voluntary purchases reflect purchasing power and available choices, not a complete measure of justified need; competitive success does not settle legitimacy.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Original 10-marker
 
-**Question:** Distinguish nationalisation from socialisation and explain why the distinction matters to socialist freedom.
+**Question (10 marks; 150-word ceiling):** Distinguish nationalisation from socialisation and explain why the distinction matters to socialist freedom.
 
-**Model answer:** Nationalisation changes legal title from private owners to the state; socialisation changes control so productive power answers to workers, users and citizens. A nationalised enterprise may preserve hierarchy if officials set goals, direct labour and withhold information without participation. Social ownership therefore requires transparent mandates, workplace voice, public accountability and opportunities to challenge managerial decisions.
+**Model answer:** Nationalisation transfers legal title to the state; socialisation makes productive power answerable to society. Officials can preserve hierarchy by directing labour without participation, so public title does not establish socialist freedom.
 
-Cooperative, guild, municipal and public forms can each contribute, depending on the activity's scale and distributive importance. Public ownership may be justified for universal provision or natural monopolies, but state title alone cannot show that affected persons exercise meaningful control. Conversely, a worker cooperative can socialise governance while still facing market pressure and internal hierarchy.
+Sidney Webb's Fabian reform uses constitutional institutions to socialise production. Cole's guild socialism instead emphasises producer self-government with consumer representation. Market socialism adds that social ownership need not remove prices. These alternatives identify who governs, not merely who holds title.
 
-The distinction matters because socialism promises freedom from domination, not merely a new proprietor. Replacing private command with bureaucratic command leaves the emancipatory task unfinished. Public title is one possible instrument; accountable social control is the decisive test.
+A hypothetical Indian public enterprise may serve universal access yet deny workplace voice. Conversely, a cooperative may offer participation while retaining competitive insecurity or internal exclusion.
+
+Socialisation therefore needs transparent mandates, worker and user voice, contestable management and public accountability. Nationalisation can be its instrument, but freedom requires changed agency. Replacing private command with bureaucratic command leaves the emancipatory promise unfinished.
+
+**Why this earns marks:** It distinguishes title from control, derives freedom consequences through Webb, Cole and market socialism, and uses the Indian example to test rather than prove socialisation.
 
 ## Original 15-marker
 
-**Question:** “Marxism is strongest as a diagnosis and weakest as a transition theory.” Discuss critically.
+**Question (15 marks; 220-word ceiling):** “Marxism is strongest as a diagnosis and weakest as a transition theory.” Discuss critically.
 
 **Model answer:** Marxism diagnoses alienation, structural exploitation, class power and ideological naturalisation with unusual depth. Historical materialism connects these to ownership and production rather than treating inequality as an accidental policy defect. Gramsci explains how consent stabilises class rule; Althusser explains how apparatuses reproduce compliant subjects. These revisions show the diagnostic tradition adapting when a simple economic timetable fails.
 
@@ -2593,89 +3170,101 @@ A Marxist reply invokes self-emancipation, the Commune, recallable delegates and
 
 The statement is substantially correct but should not become dismissal. Marxian diagnosis can guide democratic transformation; its remedy becomes defensible only when disciplined by an explicit anti-authoritarian constitutional theory.
 
+**Why this earns marks:** It reconstructs diagnostic strength, tests Leninist substitutionism through Bakunin, supplies the Commune reply and leaves the safeguard problem unresolved rather than declaring intention sufficient.
+
 ## Original 20-marker
 
-**Question:** Compare anarchism, Marxism and Gandhian socialism as rival theories of domination and emancipation. Which offers the most defensible relation between means and ends?
+**Question (20 marks; 250-word ceiling):** Compare anarchism, Marxism and Gandhian socialism as rival theories of domination and emancipation. Which offers the most defensible relation between means and ends?
 
-**Model answer:** Anarchism, Marxism and Gandhian socialism agree that formally voluntary conduct can occur inside domination, but they locate its source differently. Anarchism targets the standing right of coercive authority to command autonomous equals. Marxism locates domination in class relations generated by private control of production, expressed through alienation, exploitation, ideology and the class-state. Gandhian socialism includes property but also diagnoses possessiveness, violence and centralised industrial scale.
+**Model answer:** The theories locate domination differently. Anarchism targets coercive command; Marxism explains class dependence through productive ownership; Gandhian socialism also diagnoses possessiveness, violence and centralised scale. Their remedies follow these premises.
 
-Their remedies follow from these diagnoses. Anarchism proposes voluntary federation, mutual aid and recallable delegation. Its strength is permanent vigilance against hierarchy; its residual problem is security, large-scale coordination and informal authority. Marxism proposes class organisation, transformed ownership and a proletarian transition towards classless communism. Its strength is structural analysis of economic power; its weakness is the danger that party or state substitutes itself for workers. Gandhi proposes non-possession, trusteeship, bread labour, village swaraj, sarvodaya and constructive non-violence.
+Proudhon's federation and Kropotkin's mutual aid seek order without sovereignty. Bakunin warns that even a workers' state can create rulers. Marx instead expects organised class transformation and a transition towards communism. His alienation analysis explains why formal contractual freedom need not secure productive agency.
 
-The means–ends test sharpens the comparison. Gandhi argues that violent centralisation cannot manufacture decentralised freedom; the social relations of the end must already appear in the method. Anarchist prefiguration supports this intuition. Marxists reply that entrenched property and coercion cannot be overcome by moral example alone.
+Gandhi's trusteeship, bread labour, self-rule and welfare of all seek non-violent reconstruction. Means must embody the relation sought as an end: coercive centralisation cannot be excused merely by promising decentralised freedom. Anarchist prefiguration shares this insight.
 
-Each objection has force. Stateless federation may require enforceable authority. Revolutionary transition requires constitutional safeguards. Trusteeship may leave unequal ownership dependent on virtue, and village life may reproduce caste or gender hierarchy.
+Marxists reply that entrenched ownership and force may resist moral example. This is serious, but the Commune's recallable delegates still need protected dissent and minority rights; emancipatory intention cannot guarantee them. Anarchist federation faces security and binding adjudication. Gandhi's trusteeship faces owners refusing duty, while village institutions can retain caste and gender hierarchy.
 
-The best verdict is synthetic but not eclectic: Gandhian non-violent prefiguration and anarchist scrutiny of authority should discipline Marxian analysis of property and class under constitutional pluralism. Gandhi offers the clearest means–ends principle; Marx supplies the stronger structural diagnosis; none is institutionally sufficient alone.
+Gandhi offers the clearest ethical means–ends principle, not a complete enforcement mechanism. Marx supplies the stronger productive diagnosis; anarchism maintains scrutiny of authority. The most defensible relation combines non-dominating means with accountable institutional power rather than promising liberty after coercion. None of the three is institutionally sufficient alone.
+
+**Why this earns marks:** It compares diagnoses, mechanisms and residuals on shared axes, uses five named anchors, answers the means–ends question directly and distinguishes an ethical principle from institutional sufficiency.
 
 # REMEDIATION
 
 Questions precede answers.
 
-### Question 50
+**MCQ 50**
 
-The quickest repair to “anarchism rejects organisation” is:
+An anarchist federation retains medical advice during an epidemic. Which safeguard preserves the distinction between expert coordination and a standing political command-right?
 
-A. Anarchists accept only hereditary offices
-B. Anarchists distinguish voluntary coordination from a standing right to command
-C. Anarchists require one central sovereign
-D. Anarchists deny all expertise
+A. A mandate to set medical standards, extended by expert judgment into non-medical obligations for federation members.
+B. A defined health remit subject to associational scrutiny, authorisation and recall of its coordinators.
+C. A mandate accountable to medical peers, substituting professional assessment for the associations' political authorisation.
+D. A health mandate consolidated into territorial jurisdiction, secured through continued public need for specialist coordination.
 
-### Question 51
+**MCQ 51**
 
-Which statement correctly repairs a reductionist Marxist answer?
+A socialist answer equates identical provision with equality despite different care needs. Which repair addresses that principle rather than selecting a particular provision instrument?
 
-A. Caste is only a wage difference
-B. Gender disappears after nationalisation
-C. Class analysis should be supplemented by partly autonomous caste and gender mechanisms
-D. Material power is irrelevant to hierarchy
+A. Productive merit fixes differentiated shares, leaving dependants' needs outside the common provision standard.
+B. Varied needs make private purchases the appropriate substitute for jointly organised provision.
+C. Equal standing supports differentiated provision and scrutiny of the social organisation of unpaid care.
+D. Common productive title makes bodily and household differences secondary to ownership when assessing provision.
 
-### Question 52
+**MCQ 52**
 
-A cooperative cited in a socialism answer should be described as:
+A producer guild controls an essential service. Which change most directly gives consumers standing to contest decisions that could favour producers at their expense?
 
-A. Proof that every market is socialist
-B. Evidence that hierarchy has vanished
-C. A constitutional holding on ownership
-D. An institutional illustration whose governance and power still require evaluation
+A. Reserve final authority for trained producer members, who interpret consumers' needs through occupational expertise.
+B. Weight managerial representation by suppliers' market shares as an indirect measure of consumer support.
+C. Give producers' labour contributions priority in defining access before public review of disputed service conditions.
+D. Give consumers standing over access and service standards alongside publicly accountable occupational self-government.
 
-### Question 53
+**MCQ 53**
 
-The safest final verdict on Marxism is:
+A proposal combines worker-controlled enterprises with price-mediated allocation and a continuing rights-constrained public authority. Which classification captures that combination most specifically?
 
-A. Its diagnostic categories may survive even where prediction and transition fail
-B. Every later regime directly refutes alienation
-C. Historical failure is irrelevant to institutional theory
-D. Its remedy follows automatically from its critique
+A. Market socialism: social productive control combined with exchange allocation and constitutionally limited public authority.
+B. Mutualist anarchism: reciprocal producer associations coordinating possession after relinquishing a sovereign right to command.
+C. Guild socialism: occupational federations governing industry jointly with organised consumer and civic representation.
+D. Social democracy: public rules and redistribution checking an economy predominantly organised around private productive proprietors.
 
 ## Remediation answers and explanations
 
-**MCQ 50: B**
+**MCQ 50 — Answer and explanation**
 
-- **A — Incorrect:** Hereditary office creates entrenched authority and is incompatible with anarchist accountability.
-- **B — Correct:** Federation, mandate and recall show that organisation is compatible with an anti-domination argument.
-- **C — Incorrect:** A single sovereign is the standing command structure that anarchist federation is designed to avoid.
-- **D — Incorrect:** Anarchists contest unaccountable authority, not specialised knowledge as such.
+**Correct answer: B**
 
-**MCQ 51: C**
+- **A — Incorrect:** Medical reasons can inform a task without authorising jurisdiction beyond the mandate; this expands rather than checks the claimed right.
+- **B — Correct:** Task specificity, associational review and recall make expertise accountable to those authorising coordination, rather than an independent entitlement to command.
+- **C — Incorrect:** Professional quality review is not the same as authorisation and review by those whose decisions are being coordinated.
+- **D — Incorrect:** Emergency coordination does not itself authorise continuing political jurisdiction; the proposed conversion loses the task/command distinction.
 
-- **A — Incorrect:** Reducing caste to pay ignores endogamy, ritual status, inherited exclusion and non-wage power.
-- **B — Incorrect:** Public ownership can leave patriarchal norms and gendered labour divisions intact.
-- **C — Correct:** The repair preserves class analysis while refusing to derive endogamy, status and patriarchy from it.
-- **D — Incorrect:** Material resources shape hierarchy, even though they do not exhaust caste and gender domination.
+**MCQ 51 — Answer and explanation**
 
-**MCQ 52: D**
+**Correct answer: C**
 
-- **A — Incorrect:** Market exchange occurs under many ownership regimes and does not make every market socialist.
-- **B — Incorrect:** Cooperatives may retain managerial, social or gender hierarchies despite altered ownership.
-- **C — Incorrect:** An empirical cooperative is an organisational example, not a judicial ruling about constitutional property.
-- **D — Correct:** A cooperative shows a possible ownership form, not a philosophical verdict or automatic absence of domination.
+- **A — Incorrect:** Merit can address differentiated reward, but it does not explain how unequal dependant needs are met through communal provision.
+- **B — Incorrect:** Market choice is a possible instrument, but these facts do not select it or state the principle relating equal standing to varied need.
+- **C — Correct:** Equal standing supports need-responsive provision; examining unpaid care also tests how those needs are socially produced instead of treating them as fixed private facts.
+- **D — Incorrect:** Ownership form does not erase bodily or household differences relevant to distribution.
 
-**MCQ 53: A**
+**MCQ 52 — Answer and explanation**
 
-- **A — Correct:** Diagnosis, prediction and remedy must be evaluated separately rather than accepted or rejected as one block.
-- **B — Incorrect:** Later regimes may test transition claims, but they do not directly disprove the concept of alienated labour.
-- **C — Incorrect:** Institutional failures are relevant evidence about transition and must be examined rather than dismissed.
-- **D — Incorrect:** A penetrating critique can coexist with an inadequate remedy; validity does not transfer automatically between them.
+**Correct answer: D**
+
+- **A — Incorrect:** Producer expertise may inform needs, but defining them for consumers is not the consumers' power to contest decisions.
+- **B — Incorrect:** Market-weighted producer representation does not give affected consumers equal public standing to challenge decisions.
+- **C — Incorrect:** Priority for producer contributions leaves consumer contestation unresolved; the requested change concerns the affected public's role.
+- **D — Correct:** Guild self-government needs consumer and civic representation so social control does not become sectional producer rule.
+
+**MCQ 53 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The economic combination is social productive control with exchange-mediated allocation. Continuing constitutional public authority is compatible with that design.
+- **B — Incorrect:** Mutualist anarchism rejects a sovereign command-right; the proposal retains public authority. Worker control and exchange do not alone specify anarchist political commitments.
+- **C — Incorrect:** Guild socialism adds occupational federation and organised consumer/civic representation. These institutions are not specified by worker-controlled enterprises alone.
+- **D — Incorrect:** In the contemporary sense used here, social democracy regulates a mainly private economy. Transferring productive control to workers identifies a different economic design.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -2698,62 +3287,237 @@ DEFINE -> DIAGNOSE -> RECONSTRUCT ARGUMENT -> EXAMPLE + LIMIT
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## One-page doctrinal recall
+## 1. Ideology: diagnosis before label
 
-- Ideology links description, domination diagnosis, values, strategy and desired order; Marxian ideology-critique explains naturalisation.
-- Anarchism is order without presumed sovereign command, not chaos. Its family includes individualist, mutualist, collectivist, communist and philosophical variants.
-- Godwin stresses rational criticism; Proudhon mutualism; Bakunin the corruption of concentrated power; Kropotkin mutual aid; Tolstoy pacifist refusal.
-- Anarchist order relies on voluntary association, federation, mandate and recall; security, scale, expertise and hidden hierarchy remain residuals.
-- Gandhi is a qualified moral-decentralist anarchist. The 2026 genealogy verdict is liberal-socialist inheritance plus conceptual independence; Hague 1872 anchors the split.
-- Marxism is method, critique, change theory and project. Forces and relations form a mode of production; base and superstructure interact rather than operate as a switch.
-- Alienation separates product, activity, species-being and persons. Exploitation concerns labour-power, surplus appropriation and control, not income inequality alone.
-- Ideology and the class-state explain why formal neutrality can reproduce power. Political emancipation may coexist with unequal civil society.
-- Pure-democracy criticism uses class-state, abstraction, ruling ideas, periodic representation, formal equality and the Commune alternative; liberties remain compulsory.
-- Transition moves through lower and higher phases, but concentrated power must be constitutionally controlled from the beginning.
-- Class analysis is necessary but insufficient: caste and gender have partly autonomous mechanisms.
-- Lenin adds imperialism, weakest link, vanguard and democratic centralism; substitutionism is the residual.
-- Gramsci adds hegemony, civil/political society, organic intellectuals and wars of position/manoeuvre.
-- Althusser adds RSA, ISA, interpellation and overdetermination; Gramsci stresses contest, Althusser reproduction.
-- Miliband stresses personnel and leverage; Poulantzas relative autonomy and condensation of class forces. Roy rejects determinism and party absolutism.
-- Socialism is wider than Marxism: utopian, scientific, Marxian, Fabian/democratic, guild, market and Gandhian routes.
-- Nationalisation is state title; socialisation is democratic control. Market socialism separates ownership from coordination.
-- Democratic socialism seeks transformed economic power; social democracy generally regulates a largely private economy.
-- Gandhian socialism joins non-possession, trusteeship, bread labour, village swaraj, sarvodaya and non-violent means.
-- ILO labour data and UN/ILO cooperative-SSE work are institutional illustrations only, never proof of doctrine or ideological labels for current states.
+- Descriptive worldview = social description → diagnosis → values → strategy → justified order.
+- Marxian critical usage = contingent class relations made apparently natural or universal.
+- Tracy's science-of-ideas sense studies formation; social origin does not alone settle validity.
+- Programme = measures; doctrine = position; propaganda = persuasive communication; philosophy = justification-testing. They can overlap without being synonyms.
+- Compare person, society, authority, property, freedom, equality and change. Shared values do not prove shared organising premises.
+- Typical analytical example: one workplace prompts authority, ownership and class-system questions. It does not identify a party.
+
+## 2. Anarchism: autonomy, property and expertise
+
+- Autonomous judgment and equal standing → burden of justification on a standing command-right.
+- Anarchy is a condition of absent effective rule, sometimes disorder; anarchism proposes non-coercive order.
+- Godwin: inquiry and education; Proudhon: possession, reciprocal exchange and mutual credit; Bakunin: collective resources, insurrection and power's corruption; Kropotkin: mutual aid and common need-based provision; Tolstoy: Christian pacifism.
+- Individualist and social strands disagree over property; philosophical anarchism contests general obligation without requiring insurrection.
+- Expert reasons are not sovereign command. Mandate, review and recall distinguish delegation from surrendered judgment.
+- Syndicalist unions can coordinate direct action and productive federation. Sorel's general-strike ideal is adjacent, not an uncontested anarchist identity.
+- Anti-clericalism targets unaccountable religious command; religious anarchism exists. Anarcho-capitalism's classification is disputed; Nozick retains a minimal state.
+- Strongest objection → federation reply → residual: security, non-members, binding adjudication, scale and hidden hierarchy remain.
+
+## 3. Constructive order, Gandhi and the two roots
+
+- Association → task-specific federation → recallable delegation; naming coercion “voluntary” does not justify it.
+- Liberal root: autonomous person, consent, private judgment. Socialist root: property critique, cooperation and structural domination.
+- Liberal theories vary on consent and state scope; statist and non-statist socialisms differ. Do not universalise either parent.
+- Hague Congress **1872** marks the organisational anarchist–Marxist split. The philosophical dispute concerns transitional sovereignty.
+- Independence argument: inherited premises can form a distinctive anti-command organising principle; genealogy alone does not reduce one ideology to another.
+- Gandhi: ethical self-rule (*swarāj*), decentralism and non-violence; ideal and negotiated practical reform are distinguishable.
+- Relief-network example proves a cooperative capacity, not state dispensability. Pandemic disorder, mutual aid and stronger public command are separate possibilities.
+- Routes: 2018 subscription; 2019 Gandhi; 2020 pandemic; 2021 complete authority; 2023 universal illegitimacy; 2026 genealogy.
+
+## 4. Materialist method without an automatic schedule
+
+- Marxism = method + critique + change theory + emancipatory project.
+- Productive forces = labour-power, tools, knowledge and technique; relations = ownership, control and appropriation; mode = their unity.
+- Class is a productive relation, not simply an income bracket. Bourgeoisie owns; proletariat sells labour-power.
+- Base conditions law, politics and ideology; these react through agency and struggle. Economic priority is not a one-way switch.
+- Forces develop → relations can become fetters → organised praxis can transform the formation. Praxis is informed transformative activity.
+- Primitive communism → slave relation → feudal lord/serf → capitalist/wage worker → projected transformation: an explanatory model, not every society's necessary route.
+- Engels's material dialectic: quantity/quality; unity or interpenetration of opposites; negation of negation. Not Marx's fixed textbook triad.
+- Textual anchor: the 1859 Preface to *A Contribution to the Critique of Political Economy*; reconstruct the forces–relations mechanism before evaluating it.
+- Example: better tools do not remove exclusionary productive rules; legal and associational action can change their use.
+- 2023: explain the mechanism first, then discuss material conditions, agency, caste/gender and institutional limits.
+
+## 5. Estranged labour and appropriated surplus
+
+- Four estrangements: product; productive activity; species-being; other persons. Species-being concerns conscious, social, creative agency.
+- Adequate wages can coexist with lost authorship. Alienation is not identical to poverty, exploitation or legal inequality.
+- Labour-power is purchased capacity; labour is its use. Socially necessary labour time is not an inefficient individual's actual hours.
+- Constant capital transfers existing value; variable capital purchases labour-power; living labour creates new value; surplus is new value beyond replacement of variable capital.
+- Hypothetical table: c = 20; v = 60; new value = 100; s = 40; product = 120. These are illustrative units, not observed figures.
+- Necessary labour replaces labour-power; surplus labour creates appropriated surplus. Formal wage-contract equivalence need not end exploitation.
+- Commodity fetishism: producer relations appear as independent relations of things; not merely consumer greed.
+- Essence objection → minimal agency reconstruction → contested human-flourishing norm. Value objection → structural relation reply → quantitative price/value problem remains.
+- 2024 alienation requires exposition of four relations, not critique crowding out the doctrine.
+
+## 6. Citizenship, class-state and “pure” democracy
+
+- Political emancipation grants equal civic standing; human emancipation asks whether underlying estranged relations change.
+- *On the Jewish Question*: written **1843**, published **1844**. *Manifesto*: **1848**; *The German Ideology*: written **1845–46**.
+- Critique: class-state, abstract citizen, unequal agenda power, ruling ideas, episodic authorisation and formal/material gap.
+- Lenin's named “pure democracy” polemic: **1918**; do not merge it with Marx's own formulations.
+- *The Civil War in France*, **1871**: Commune, election, recall, removable officials, workers' wages and legislative–executive work.
+- Constructive detail shows concern with popular rule; it does not automatically guarantee minority protection, dissent, independent adjudication or succession.
+- Formal votes remain valuable; productive reform does not justify discarding liberty.
+- 2026 asks for grounds, not a narrative of later party-state outcomes.
+
+## 7. Transition, communist phases and plural domination
+
+- Proletarian transition = political working-class supremacy, not a textual warrant for perpetual one-party rule.
+- Capitalist defect: apparently equal exchange with class dependence. Lower-phase defect: equal labour-contribution measure applied to unequal needs.
+- Common deductions precede individual claims. Higher phase projects contribution by ability and provision by need.
+- *Critique of the Gotha Programme*: lower/higher communist phases. Later usage often calls the lower one socialism; wider usage makes socialism the whole family.
+- Withering away concerns coercive class-rule; shared administration does not disappear by assertion.
+- Self-emancipation requires productive control, association, dissent and accountable decisions during transition.
+- Caste: status and endogamy; patriarchy: bodily authority, care and social reproduction. Productive reform can leave these mechanisms intact.
+- Historical authoritarianism tests transition; it is neither irrelevant nor a direct refutation of every diagnostic category.
+- 2018 freedom: conditional institutional compatibility. 2022 equity/equality: distinguish equal contribution from need-responsive provision.
+
+## 8. Lenin and Gramsci: organisation and consent
+
+- Lenin: monopoly/finance capital, capital export, international combinations and world division; uneven interdependence → weakest-link argument.
+- *What Is to Be Done?* anchors the organisation/consciousness problem; *Prison Notebooks* anchors Gramsci's civil-society and strategic analysis.
+- Vanguard supplies organised political consciousness beyond spontaneous wage struggle; democratic centralism = discussion before decision, unity of action afterwards.
+- Substitutionism: class replaced by party → committee → leader. Accountability is a required reply, not a demonstrated guarantee.
+- Gramsci: hegemony = moral/intellectual leadership securing consent; integral state connects consent and coercion.
+- Political society emphasises coercion; civil society emphasises consent. They are dimensions, not impermeable boxes.
+- Organic intellectuals organise practical experience; contradictory consciousness joins inherited common sense with critical good sense.
+- War of position builds counter-hegemony; manoeuvre is frontal struggle. Cultural work does not replace productive transformation.
+- Circularity objection → lived contradictions → independent test of genuine agreement remains difficult.
+- “Combined and uneven development” is especially Trotsky's formulation; Gramsci is not the first thinker ever to recognise superstructural effects.
+
+## 9. Structural reproduction, state autonomy and Roy
+
+- Humanist Marxism foregrounds alienation/praxis; structural Marxism foregrounds relations and apparatuses; neither supplies a sufficient explanation alone.
+- RSA = Repressive State Apparatus, primarily coercive; ISAs = Ideological State Apparatuses, primarily ideological. Both also employ the secondary mode.
+- Interpellation: institutional hailing and practices constitute subjects; “ideology has no history” concerns the general structure, not particular histories.
+- Overdetermination = multiple interacting contradictions; resistant agency remains under-explained.
+- Miliband's **1969** state account stresses personnel, networks and capital leverage, not a mechanical puppet.
+- Poulantzas: relative autonomy in the English **1973** *Political Power and Social Classes*; later relational condensation in **1978** *State, Power, Socialism*. Autonomy is not class neutrality.
+- Functionalism objection: specify mechanisms and possible contrary evidence; do not treat every state action as confirmation.
+- Part IV constitutional illustration: Article 38 social justice/inequalities; Article 39(b)–(c) resources/common good and concentration; Article 43 living wage and rural individual/cooperative cottage industries. Article 37 makes the directives non-justiciable but fundamental to governance, not optional or proof of a state's class character.
+- Roy: rationality, morality, education and unfolding freedom; creative minds challenge one-way determination, but socially unconditioned agency does not follow. His enduring-political-organisation objection needs the Marxist coordination/class-coercion distinction; dictatorship still faces self-perpetuating office interests.
+- Frankfurt critique examines organised culture and managed needs; Marcuse's one-dimensionality differs from Habermas's later communicative emphasis.
+- Dependency ≠ world-systems theory. Analytic/orthodox dispute concerns explicit mechanisms versus historical totality, not an automatic verdict on truth.
+
+## 10. Socialism: communal purpose and institutional variety
+
+- Community, cooperation, equality, need, productive power and social ownership unite the family without prescribing identical rewards.
+- Saint-Simon: productive science/industry; Fourier: cooperative communities; Owen: productive cooperation, education and character.
+- “Utopian” names exemplary moral design; “scientific” names Marxian material/class explanation. Neither label proves feasibility or infallibility.
+- Fabian Society **1884**; Webb, Shaw and other reformers use research, education, permeation and constitutional machinery.
+- Lassalle: suffrage and constitutional worker power; Bernstein: revision of polarisation/collapse expectations.
+- Cole's guild socialism: producer self-government plus consumers/civic bodies; not merely wage bargaining.
+- Nationalisation transfers legal title; socialisation changes accountable control. Producer privilege and official bureaucracy are different dangers.
+- Gradual reform can accumulate power or legitimate the existing order; the difference needs organised pressure and institutional evidence.
+
+## 11. Markets, planning and democratic transformation
+
+- Three independent axes: ownership; allocation; strategy of change.
+- Market socialism: social title plus market coordination. Prices provide signals but purchasing power is not justified need.
+- Democratic socialism usually aims at ownership transformation; contemporary social democracy normally regulates a mainly private economy. Names overlap historically.
+- Information/incentive objection → decentralised knowledge, feedback and hybrid coordination → investment priorities and competitive inequality remain.
+- Worker title does not guarantee equal participation, inclusion of non-member workers or freedom from competitive insecurity.
+- ILO cooperative/SSE overview: **2 June 2026**, about **2024–25** results. SSE is the social and solidarity economy, not synonymous with socialism.
+- Official frameworks show institutional development; they do not certify every enterprise's governance or prove a philosophy.
+- 2024 comparison uses the family/phase distinction, with common axes rather than sequential unrelated summaries.
+
+## 12. Gandhi: ethical agency rather than benevolent ownership alone
+
+- Non-possession restrains accumulation; trusteeship attaches social duty; bread labour contests manual-work inferiority.
+- Self-rule (*swarāj*) joins ethical discipline and local participation; welfare of all (*sarvodaya*) tests universal benefit.
+- Non-violence (*ahiṃsā*) and truth-force (*satyāgraha*) make means constitutive of the end.
+- Production by the masses foregrounds work, dignity and decentralised agency; it is not a theorem against every machine.
+- Bread labour requires disability/care/specialisation qualifications; dignity cannot depend on equal bodily ability.
+- Trusteeship reply: non-violent direction of transformation. Residual: unwilling owners and unequal control require enforceable accountability.
+- Village proximity can preserve caste/gender hierarchy; equal citizenship and cross-scale cooperation remain necessary.
+- 2021: explain the distinctive functions before judging relevance; do not label philanthropy or one programme as Gandhian socialism.
+
+## 13. Relevance, evidence and the answer-writing verdict
+
+- Diagnosis, forecast and remedy require separate tests. A failed forecast does not directly refute alienation; a good diagnosis does not justify its transition.
+- ILO **28 May 2025** report: global labour-income share **53.0% (2014)** → **52.4% (2024)**. Not each worker's pay, every nation's trend or s/v.
+- Compare anarchist federation, Marxian transition and Gandhian means on authority, property, agency and residual power.
+- Explain: premises and mechanism. Compare: common axes. Evaluate: objection → strongest reply → unresolved residual. Justify: a stated judgment with reasons.
+- Working practice ceilings: 10 marks **150** words; 15 marks **220**; 20 marks **250**. Longer PYQ parts do not acquire a printed ceiling from these defaults.
+- Named evidence earns value when it supports an inference and its limit; neither a quotation list nor a current-affairs label supplies philosophy.
+- The best closing judgment is conditional: specify what diagnosis survives, which remedy remains under-specified and what safeguard the argument requires.
 
 # COVERAGE MATRIX
 
-| Required unit | Proof |
-|---|---|
-| Ideology senses, axes and ownership boundaries | Lesson 1 |
-| Anarchist strands, thinkers and anti-state argument | Lesson 2 |
-| Order, objections, Gandhi, genealogy, Hague 1872 | Lesson 3 |
-| Dialectical/historical materialism and non-determinism | Lesson 4 |
-| Alienation, species-being, exploitation and surplus | Lesson 5 |
-| Ideology, state, emancipation and pure democracy | Lesson 6 |
-| Revolution, phases, freedom, authoritarianism, caste/gender | Lesson 7 |
-| Lenin and Gramsci | Lesson 8 |
-| Humanist/structural, Althusser, Miliband/Poulantzas, Roy | Lesson 9 |
-| Socialist family, utopian/scientific, Fabian and guild | Lesson 10 |
-| Market socialism, democratic socialism, social democracy and SSE | Lesson 11 |
-| Gandhian socialism and full PYQ route | Lesson 12 |
-| Master comparisons, relevance, boundaries and current linkages | Lesson 13 |
-| Exact 15 owned PYQs, approach only | Lessons and verified linkage index |
-| 41 local + 8 cumulative + 4 remediation MCQs | Questions 1–53 |
-| Full original 10/15/20-mark models | Mains practice section |
+| Syllabus/Core and deeper evidence units | Teaching, argument, objection/reply and example | PYQ/practice and final recall |
+|---|---|---|
+| Ideology senses; shared comparison axes; programme/doctrine/propaganda; theory and origin/validity | L1 worldview chain, three reformers and dogmatism objection | MCQs 1–3; original L1 Mains; register 1 |
+| Anarchism: legitimacy, autonomy, anarchy, obligation, expert authority | L2 anti-command premises and expertise/mandate test | 2023 Q1(b), support for 2021 Q3(a); MCQs 4–5; L2 Mains; register 2 |
+| Godwin, Proudhon, Bakunin, Kropotkin, Tolstoy; mutualism, collectivism, communist, individualist, philosophical, pacifist and syndicalist strands | L2 property/organisation matrix, mutual credit, Sorel qualification, anti-clericalism and disputed anarcho-capitalist boundary | MCQ 6, cumulative 42–45; registers 2–3 |
+| Natural order, federation, security, scale, informal domination and enforced dissent | L3 relief stress test and four objection/reply/residual chains | 2018 Q2(c), 2021 Q3(a), 2023 Q1(b); MCQs 7–8, 43, 50; L3 Mains |
+| Gandhi as anarchist; liberal/socialist roots; independence, property split, Hague 1872 | L3 parallel lineages, ideal/practice and genealogical/conceptual distinction | 2019 Q1(c), 2020 Q1(e), 2026 Q1(c); MCQs 9, 44; register 3 |
+| Marxism as method/critique/project; dialectic and historical materialism | L4 material premises, forces/relations, fetters, praxis, class and social formation; stages and Engels laws; tools/exclusion example | 2023 Q3(a); MCQs 10–13, 46; L4 Mains; register 4 |
+| Alienation: four dimensions, species-being, wages and human-essence objection | L5 agency argument and bounded human-flourishing reply | 2024 Q1(d); MCQs 14–15; L5 Mains; register 5 |
+| Exploitation, labour-power, necessary/surplus labour, c/v/s, value and price, fetishism | L5 labelled illustrative accounting, garment example and labour-value objection/reply/residual | MCQ 16; L5 Mains; register 5 |
+| Ideology, class-state, political/human emancipation and pure democracy | L6 seven grounds, comparison, hypothetical town, Commune institutions, three objection/reply/residual chains | 2026 Q1(d); MCQs 17–18; L6 Mains; register 6 |
+| Revolution, proletarian transition, withering, phases, contribution/need, freedom | L7 phase flow, deductions, unequal-care example and anti-authoritarian reconstruction | 2018 Q3(b), cross-linked 2022 Q2(c); MCQs 19–21; L7 Mains; register 7 |
+| Class reduction, caste/endogamy, gender/care and regime/theory distinction | L7 autonomous mechanisms and transition-record test; L13 diagnostic/forecast/remedy synthesis | Cross-linked 2019 Q1(e); MCQs 41, 51; registers 7, 13 |
+| Lenin: imperialism, weakest link, consciousness, vanguard, centralism, substitutionism | L8 organisation argument; anarchist reply, Trotsky distinction and institutional residual | Support for relevance/evaluation; MCQs 22, 25; L8 Mains; register 8 |
+| Gramsci: hegemony, civil/political society, integral state, organic intellectuals, common/good sense, contradictory consciousness, position/manoeuvre | L8 association example; consent/circularity and culturalism exchanges; distinct Ambedkar comparison | MCQs 23–24; L8 Mains; register 8 |
+| Humanist/structural Marxism; Althusser RSA/ISAs, interpellation, overdetermination, history and agency | L9 apparatus matrix, subject-formation argument and two objections; Frankfurt, Marcuse, Habermas and dependency comparisons | MCQ 26; L9 Mains; register 9 |
+| Miliband/Poulantzas, relative autonomy, condensation and falsifiability | L9 personnel/structural comparison, corrected chronology, hypothetical regulation and functionalism test | MCQ 27; L9 Mains; register 9 |
+| Roy's reason, morality, education, creative mind, freedom and enduring political organisation; analytic/orthodox debate | L9 agency argument, reciprocal-materialist reply, state-function distinction and dictatorship residual | MCQ 48; L9 Mains; register 9 |
+| Constitutional illustration and legal-status limit | L9 Articles 37, 38, 39(b)–(c) and 43 table distinguishes stated social objectives from class character and implementation | L9 state-theory application; register 9 |
+| Socialism principles and families; early thinkers; utopian/scientific distinction | L10 proposal matrix, community/equality/need argument and exemplary-design limit | Foundational vocabulary for the 2024 Q1(e) comparison in L11; MCQs 28–29, 47; L10 Mains; register 10 |
+| Fabian 1884, Webbs/Shaw, permeation, rent, education; Lassalle/Bernstein; Cole/guild/consumer voice | L10 gradualist mechanism, investment/bureaucracy objection, public transport example and producer-privilege test | MCQs 30–31, 52; L10 Mains; register 10 |
+| Market socialism, democratic socialism/social democracy, ownership/allocation, information/incentive/liberty/excellence | L10 vocabulary gateway; L11 three-axis flow, cooperative example, hybrid reply and distributive residuals | 2024 Q1(e) in L11; MCQs 29, 31–34, 49; L11 Mains; register 11 |
+| Gandhian non-possession, trusteeship, bread labour, self-rule, universal welfare and means/ends | L12 six-function matrix, ownership-duty and productive-dignity arguments; disability, enforcement, scale and local hierarchy qualifications | 2021 Q3(b), cross-linked 2020 Q2(a); MCQs 35–37; L12 Mains; register 12 |
+| Anarchism/Marxism/Gandhi/democratic socialism comparisons; relevance under markets; bounded official linkage | L13 three tests, strongest objections and replies; ILO income/SSE facts with limits; final master matrix | 2019 Q3(c), 2020 Q2(b), 2025 Q2(b); MCQs 38–41, 53; L13 Mains; register 13 |
+| Complete source exam apparatus: terminology, directive decoding, named evidence and qualified verdicts | Distributed across lessons and original models rather than preserved as source-file assembly language | All 15 directly owned PYQs; 4 necessary cross-links; 41 local + 8 cumulative + 4 remediation MCQs; 13 local + 3 final original models and specific scoring notes |
 
 # SOURCE LEDGER
 
-| Source | Type and use | Limitation |
+**Evidence boundary, 6 October 2026:** doctrine is paraphrased from the identified sources. Hypothetical examples, evaluative conclusions, original practice and proposed constitutional safeguards are analytical reconstructions. No country, party or present government is assigned an ideology.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
 |---|---|---|
-| `Political-Ideologies.md` | controlling doctrine, boundaries and promoted material | controls content, not the live shell |
-| PYQ bank 2018–2025 | exact 13 owned parts | approaches only; no solved official answers |
-| 2026 supplement | exact Q1(c), Q1(d), Hague and pure-democracy routes | wording and punctuation preserved as recorded |
-| Socio-Political Dossier §5 | advanced refinements | does not displace core |
-| prior audited session, matching solved workbook and flow notes | audited explanation and practice cross-check | source scaffolding excluded |
-| O. P. Gauba and local *Socio-Political Philosophy* PDF | OCR-searchable book evidence | secondary exposition; no invented quotation |
-| Named primary thinkers in the controlling owner | doctrine and terminology | paraphrased; no invented page claim |
-| [ILO WESO May 2025 update](https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-may-2025-update) | official labour illustration | not proof of Marxism or surplus theory |
-| [UN DESA International Year of Cooperatives 2025 material](https://social.desa.un.org/issues/cooperatives/international-year-of-cooperatives-2025) | official cooperative/SSE illustration | not endorsement of a complete ideology |
-| [ILO 2024–25 SSE results](https://www.ilo.org/how-did-ilo-advance-social-and-solidarity-economy-2024%E2%80%9325) and [2025 cooperative-statistics resources](https://www.ilo.org/publications/implementing-ilo-guidelines-concerning-statistics-cooperatives-insights) | official institutional development | does not establish normative truth |
-| Constitution of India, Part IV if referenced | constitutional text | no judicial holding or current-government inference used |
+| Canonical Markdown | checked | Complete `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`, official syllabus and relevant Political-Theory and cross-topic passages listed below. |
+| Final learner package | not relevant | Permanently excluded from live-session work; no material read or derived from the excluded package directory or learner-v2 artifacts. |
+| Layered/complete session | checked | Bounded conceptual gateways in `upsc-ai-kit\knowledge\Philosophy\Socio-Political-Philosophy\learning-sessions\Political-Ideologies\Political-Ideologies_Layered-Complete-Learning-Session_2026-08-19.md`; opening and complete first lesson of the three mandatory live style references. Their format and solved content do not control this edition. |
+| Solved workbook | not relevant | Excluded derived workbooks were not read, cited or used; no replacement solved-PYQ workbook was produced. |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Socio-Political-Dossier.md` section 5: analytic/orthodox dispute, market socialism, plural domination and institutional anarchism; cross-topic Advanced passages below. |
+| OCR books | checked | `books\philosphy_books\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf`, PDF pp.30–31, 45–63, 69, 72 and 73–83; `books\philosphy_books\Socio-Political Philosophy.pdf`, PDF pp.122–133 and 137–139. Locators are PDF pages, not printed pagination. |
+| PYQs through 2026 | checked | Exact 2018–2025 bank and 2026 supplement below; official 2026 Paper II page 2 fetched and OCR-read in memory. Fifteen directly owned parts and four necessary cross-links; no objective PYQ key or inferred official answer is claimed. |
+| Official live sources | checked | Official UPSC 2026 paper; ILO news 28 May 2025 and strategic overview 2 June 2026. Dated illustrations remain separate from philosophical proof. |
+
+### Exact Markdown sources and scope
+
+- `upsc-ai-kit\knowledge\Philosophy\OFFICIAL-UPSC-SYLLABUS-VERBATIM.md`: item 5, **Political Ideologies: Anarchism; Marxism and Socialism**. Liberalism is a necessary genealogy foil, not another printed family; fascism and conservatism are not imported as required topics.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`: complete sections 0–10, including anarchist genealogy, pure democracy, classical/neo trajectory, varieties, criticisms, terminology, directives, evidence units and verdicts. Source assembly labels are not learner doctrine.
+- `upsc-ai-kit\knowledge\Philosophy\_advanced\Socio-Political-Dossier.md`, section 5: all four debate trails represented in L3, L7, L9 and L11. Its older “optional” classifications do not demote a Core or verified-PYQ requirement.
+- `upsc-ai-kit\knowledge\Political-Theory\basic\02_Ideology-and-End-of-Ideology.md` and its `advanced\02_Ideology-and-End-of-Ideology.md` companion: relevant ideology senses and origin/validity distinction. The full end-of-ideology and totalitarianism course is outside this syllabus boundary.
+- `upsc-ai-kit\knowledge\Political-Theory\basic\04_Marxism-and-Neo-Marxism.md` and `advanced\04_Marxism-and-Neo-Marxism.md`: relevant materialist, stage, humanist/structural, Frankfurt and dependency arguments.
+- `upsc-ai-kit\knowledge\Political-Theory\basic\05_Socialism-Fascism-Anarchism-and-Gandhism.md` and its Advanced companion: socialism, Webb, Lassalle, Bernstein, guild/Sorel/Tolstoy, coercion/order and Gandhi–Marx passages. Fascism and later conservatism sections supply no teaching requirement here.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Social-Political-Ideals.md`, section 1.6: exact lower-phase equal-right versus higher-phase need distinction.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Individual-and-State.md`, section 4.5: anarchist legitimacy and obligation.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Caste-Gandhi-Ambedkar.md`, section 5.3: status, productive control and endogamy.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Gender-Discrimination.md`, section 5.3: Marxist/socialist feminism, household power and care; not a claim that productive ownership automatically secures gender equality.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Development-Social-Progress.md`, section 5A.3: productivism comparison reviewed; a full degrowth course is unnecessary to these ideology questions and is not substituted for Gandhi's own scale argument.
+
+### PYQ controls and uncertainty
+
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md`: continuous eight-year bank and primary-routing ledger; 13 directly owned parts. The available bank, not recollection, controls older wording.
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2026-Supplement.md`: two added directly owned parts. The supplement's misplaced supporting-section references do not control this edition's routing.
+- [Official 2026 Philosophy Paper II](https://www.upsc.gov.in/sites/default/files/QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_II.pdf): code **KVMS-B-PHL**, page 1 instructions and page 2 Q1(c)/(d), 10 marks each and about 150 words. The raster PDF was rendered and locally OCR-read without writing a source copy. Q1(d)'s printed space before `?` is preserved.
+- No complete verified pre-2018 Philosophy Paper II ledger was found among the permitted local Philosophy PYQ sources. “Through 2026” records the available 2018–2026 coverage, not a claim to every question in UPSC's history.
+- Optional Mains questions do not have official model-answer keys here. All approaches and original MCQ keys are editorial reasoning, not inferred official objective keys; no unkeyed objective PYQ has been omitted or silently solved.
+
+### Books and scholarly qualifications
+
+- Gauba's PDF pp.30–31: ideology as the science of ideas, Destutt de Tracy, critical examination and political commitment; pp.45–54: four Marxian tenets, class-stage model, surplus, humanist/scientific neo-Marxism and dependency; pp.55–63: evolutionary/revolutionary, Fabian, revisionist, syndicalist/guild and market socialism; pp.69 and 72: bounded propaganda illustrations, not an additional fascism teaching unit; pp.73–78: anarchist strands and appraisal; pp.78–83: ethical means, trusteeship, bread labour and Gandhi–Marx comparison.
+- Compiled *Socio-Political Philosophy*: pp.122–124 socialist themes; pp.125–128 classical/orthodox/modern Marxism; pp.129–133 anarchism, religious authority, economic variants and relevance; pp.137–139 early socialist humanism and Roy, including the creative-mind and enduring-political-organisation objections. No author is invented. Polemical claims or book-period current remarks are not upgraded to timeless facts.
+- Named texts retain doctrinal attribution without invented edition pages: Marx's 1844 Manuscripts, the 1859 Preface to *A Contribution to the Critique of Political Economy* and Gotha critique; Marx/Engels's Manifesto and German Ideology; Godwin, Proudhon, Bakunin, Kropotkin and Wolff; Lenin's *What Is to Be Done?*, imperialism and democracy works; Gramsci's *Prison Notebooks*; Althusser's apparatus essay; Miliband and Poulantzas; Gandhi and Roy.
+- Periodic-choice attribution: Marx's [*The Civil War in France*, Commune discussion](https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm) supplies the **1871** criticism; Lenin's [*The State and Revolution*, chapter III, section 3](https://www.marxists.org/archive/lenin/works/1917/staterev/ch03.htm#s3) quotes and develops it in **1917**. Both passages were fetched directly; the lesson paraphrases rather than claims edition-specific wording.
+- [Stanford Encyclopedia: Anarchism](https://plato.stanford.edu/entries/anarchism/), political/religious varieties: burden-of-proof, diversity and Tolstoy. [Karl Marx](https://plato.stanford.edu/entries/marx/), alienation and emancipation: four estrangements, fetishism distinction and socially grounded freedom. [Louis Althusser](https://plato.stanford.edu/entries/althusser/), sections 3.2–3.4: structural/humanist split, interacting productive practices, structural causality and overdetermination.
+- [Althusser's apparatus essay](https://www.marxists.org/reference/archive/althusser/1970/ideology.htm): state-power/apparatus distinction, primarily ideological versus repressive operation and historical replacement of dominant apparatuses; used to prevent general-history language erasing concrete history. [Stanford Encyclopedia: Max Stirner](https://plato.stanford.edu/entries/max-stirner/): publication context for the individualist lineage; **1844** is the first-publication date, while **1845** appears in dated-edition descriptions.
+- Poulantzas's later relational formulation was checked through a bounded scholarly source search for *State, Power, Socialism* (**1978**), rather than assigned uncritically to the **1973 English translation** of *Political Power and Social Classes*. No uninspected primary page or verbatim quotation is asserted.
+- Canonical formulations requiring qualification but **not edited**: homogeneous liberal consent; statist descriptions treated as all socialism; Gramsci as the first superstructure-autonomy thinker; Lenin assigned “combined and uneven development”; Althusser's general-history formula made exceptionless; Miliband denied meaningful autonomy; later Poulantzas condensation attributed solely to the 1973 book. The live teaching supplies the distinctions and retains uncertainty rather than silently changing source owners.
+- `instructions\PHILOSOPHY-LIVE-SESSION-STANDARD.md`, referenced by the live rules, was **not present** when checked. Existing governing live rules, registry and philosophy content/visual standard were read; no missing shared rule was invented.
+
+### Official dated illustrations actually checked
+
+- [ILO WESO update](https://www.ilo.org/publications/flagship-reports/world-employment-and-social-outlook-may-2025-update) and its [28 May 2025 official news text](https://www.ilo.org/resource/news/global-employment-forecast-downgraded-7-million-jobs-2025-amid-rising): latter directly verifies the **53.0% → 52.4%** labour-income share. Direct download of the report PDF returned 403; the fetched official news is the numerical control.
+- [ILO 2 June 2026 strategic-results overview](https://www.ilo.org/how-did-ilo-advance-social-and-solidarity-economy-2024%E2%80%9325): 2024–25 reporting period, enabling frameworks, training and statistics. Used for contemporary institutional possibilities, not normative validation.
+- Constitution of India, Part IV: Articles 37, 38, 39(b)–(c) and 43, supported by the canonical constitutional illustration and an official-source search identifying Legislative Department/National Archives controls. Direct page/PDF access was unavailable in this pass (403/404); no uninspected PDF page, judicial holding or present-government inference is asserted.
+- Mandatory style calibration: learner-facing opening and complete first lesson of `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `06-Yoga\Learning-Session-Live-Edition.md` and `07-Mimamsa\Learning-Session-Live-Edition.md`. These supply pedagogical calibration only, not ideology evidence.

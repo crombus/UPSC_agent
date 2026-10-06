@@ -1,6 +1,7 @@
 # Completed Live Sessions
 
 > Exported from session `5e1c01ac-ae34-42a1-b67a-862efe1d60dd`.
+> Last updated: 6 October 2026.
 
 | Subject | Session | Lessons | Words | SHA-256 | File |
 |---|---|---:|---:|---|---|
