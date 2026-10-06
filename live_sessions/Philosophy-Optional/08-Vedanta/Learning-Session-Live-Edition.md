@@ -12,12 +12,12 @@
 > `_PYQ-Indian-Philosophy-2018-2025.md` and `_PYQ-Indian-Philosophy-2026.md` (the latter is the
 > already-OCR-verified official transcription of the 2026 Philosophy Paper I paper, section B);
 > (3) the OCR-searchable books `Chatterjeedatta_introductionToIndianPhilosophy.pdf` and
-> `Indian Philosophy Vol. 2 by Radhakrishnan.pdf`, consulted for confirming standard formulations;
-> (4) the existing exhaustive package
-> `learning_package_final/.../08-Schools-of-Vedanta/Learning-Session.md` and the layered
-> `upsc-ai-kit/knowledge/Philosophy/Indian-Philosophy/learning-sessions/Schools-of-Vedanta/` pair,
-> audited for completeness only — their dense session-per-doctrine organisation is **not** copied;
-> their coverage was cross-checked against the canonical file and the coverage lock below.
+> `Indian Philosophy Vol. 2 by Radhakrishnan.pdf`, present locally as cross-checks (their standard
+> formulations are already embedded in the canonical file);
+> (4) the advanced dossier `upsc-ai-kit/knowledge/Philosophy/_advanced/Indian-Philosophy-Dossier.md`
+> §8 (Vedānta), for the optional-depth boundary only. Generated learner packages, the Learner-v2
+> export and the solved-practice workbook are **excluded** under the mandatory learner-first lock
+> and were not consulted as sources.
 >
 > **No current-affairs forcing:** Vedānta is a closed classical system. Where a lesson's pre-teach
 > checklist finds no genuine, doctrine-specific current-affairs anchor in the last six months, this
@@ -28,22 +28,21 @@
 ## Why this file exists and how it differs from the dense package
 
 The canonical knowledge file compresses each doctrine into evidence-tagged bullet points for quick
-revision. The existing 68,000-word package is exhaustive but organises material for someone who
-already has a foothold in the subject — one dense "SESSION" per doctrine, each opening straight
+revision. A dense revision compression serves someone who
+already has a foothold in the subject — one terse entry per doctrine, opening straight
 into technical vocabulary. This live edition instead teaches in **dependency order**: every
 doctrine opens with a plain-language question and an everyday analogy *before* any Sanskrit term is
 introduced, moves through a visual, then the full technical doctrine, then the argument that
 generates it, then examples, then how rival schools disagree and why, then the standard criticism
 and the strongest reply available, and only then the exam application. Nothing that appears in the
-canonical file or the exhaustive package has been deleted, merged away, or replaced by a bullet
+canonical file has been deleted, merged away, or replaced by a bullet
 summary — every doctrine, distinction, argument, objection, reply, comparison and PYQ is preserved
 in full teaching prose somewhere in this file, and the **Coverage Lock** near the end maps every
 one of them to its lesson.
 
 ## Dynamic lesson count — how it was decided
 
-Before drafting, the syllabus clause, the canonical file's 22 numbered sections, both existing
-packages, and 23 verified PYQ parts (20 from 2018–2025, 3 from the verified 2026 paper) were
+Before drafting, the syllabus clause, the canonical file's 22 numbered sections and 23 verified PYQ parts (20 from 2018–2025, 3 from the verified 2026 paper) were
 audited together against the **14-lesson roadmap already agreed with the learner**. That coverage
 audit confirmed the agreed 14 lessons are the correct learner-facing teaching unit: the canonical
 file's 22 numbered sections describe doctrinal *coverage*, not the *teaching sequence*, and several
@@ -101,8 +100,8 @@ PYQ compressed away or dropped.
     - Part C: The Logical Consequences of Advaita's Metaphysical Absolutism
     - Part D: Master Comparison — Inter-Thinker Debates, Criticisms and the Graded Verdict
 
-**After Lesson 14:** a complete solved-PYQ bank (all 23 verified parts, 2018–2026), original MCQ
-practice, original Mains practice, a common-error remediation set, master comparison tables, a
+**After Lesson 14:** a links-only verified-PYQ linkage and answer-approach index (all 23 verified
+parts, 2018–2026), a cumulative MCQ corpus, original Mains practice, a common-error remediation set, master comparison tables, a
 master argument-and-criticism map, consolidated register notes, the final coverage matrix, and the
 source and verification ledger.
 
@@ -114,7 +113,9 @@ internal Part opens instead with a short folded book/current-affairs context lin
 
 ---
 
-**Progress: 1/14 | Stage: Foundation | Subtopic: Vedānta foundations — prasthāna-traya and the major schools**
+## Lesson 1 — Vedānta foundations — prasthāna-traya and the major schools
+
+Progress: 1/14 | Stage: Foundation | Subtopic: Vedānta foundations — prasthāna-traya and the major schools
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta knowledge file, cross-checked against
@@ -278,60 +279,6 @@ Nimbārka / Vallabha / Caitanya tradition = examinable wider taxonomy
 7. Vedānta's distinguishing claim against Sāṃkhya: the ultimate cause must be conscious.
 8. Vedānta's distinguishing claim against Nyāya: one Brahman is both efficient and material cause, not two different principles.
 9. > 🔑 **Mnemonic:** **"One root, six readers"** — one Brahma Sūtra, six commentarial schools.
-
-### Practice — Lesson 1, Part A
-
-**MCQ 1 (conceptual).** Consider the following statements about the *prasthāna-traya*:
-1. It consists of the Upaniṣads, the Bhagavad Gītā, and the Brahma Sūtra.
-2. All six Vedānta schools accept this same three-fold textual foundation.
-3. The Brahma Sūtra alone, being fully explicit, allows only one correct philosophical reading.
-
-Which of the statements given above are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
-
-**MCQ 2 (applied).** A commentator holds that God, souls and matter are really different from each
-other **and** really non-different, because souls and matter cannot exist independently of God.
-This position is closest to:
-**A. Advaita**
-**B. Dvaitādvaita (Nimbārka)**
-**C. Dvaita**
-**D. Śuddhādvaita**
-
-**MCQ 3 (remedial — targets the common error of treating Vedānta as one doctrine).** Which one of
-the following statements is the most accurate?
-**A. Vedānta is a single unified doctrine taught identically by all its commentators.**
-**B. Vedānta's disagreements arise mainly from six unrelated sets of source texts.**
-**C. Vedānta's disagreements arise mainly from six different commentaries on one shared canon.**
-**D. Vedānta rejects the authority of the Upaniṣads in favour of independent reasoning.**
-
-#### Answers and explanations — Lesson 1, Part A
-
-**MCQ 1 → A (1 and 2 only).** Statement 1 is correct: the three texts are exactly the Upaniṣads,
-Gītā and Brahma Sūtra. Statement 2 is correct: every school treats these three as foundational.
-Statement 3 is **false** and is the crucial trap: the Brahma Sūtra's aphorisms are compact
-precisely *because* they are terse, which is what permits multiple non-arbitrary readings — this
-is the entire reason six schools exist.
-
-**MCQ 2 → B (Dvaitādvaita / Nimbārka).** This is Nimbārka's *dvaitādvaita*: difference and
-non-difference are both real, held together by the relation of dependence. Advaita (A) denies real
-difference altogether. Dvaita (C) denies real non-difference and makes difference alone ultimate.
-Śuddhādvaita (D) denies difference in this strong sense, treating the world as a real *unchanged
-manifestation* of Brahman rather than an independently different order.
-
-**MCQ 3 → C.** Option A is wrong because the six schools genuinely disagree on identity, Brahman's
-nature, and liberation. Option B is wrong because all six schools share the *same* three
-foundational texts (prasthāna-traya) — the disagreement is in the commentary, not the source. Option
-D is wrong because every school accepts Upaniṣadic authority; none of them substitute independent
-reason for scripture as their final court of appeal.
-
-**Remedial note:** if you answered B on MCQ 3, re-read §2 above — the entire point of this lesson
-is that one root text supports several honest readings. If you answered D, note that Vedānta
-schools argue extensively *using* reason (as later lessons on Rāmānuja's seven objections and
-Śaṅkara's four arguments against Sāṃkhya will show), but always as a servant of scriptural
-authority, never as an independent source that could override it.
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §1A.1–1A.6; cross-checked with the [Mīmāṃsā live session](../07-Mimamsa/Learning-Session-Live-Edition.md) for the shared pramāṇa list. CA search: "pramana epistemology testimony sabda Advaita Vedanta 2026" CA found: No doctrine-specific current-affairs anchor; this is a closed epistemological question shared with Mīmāṃsā.*
 
@@ -503,55 +450,91 @@ foreclose this move in advance).
 7. Dvaita reduces to 3 pramāṇas (pratyakṣa, anumāna, āgama) with a strong role for the sākṣin.
 8. > 🔑 **Mnemonic:** **"Only the ladder that dissolves reaches the roof."**
 
-### Practice — Lesson 1, Part B
+### Practice — Lesson 1
 
-**MCQ 1 (conceptual).**
-1. Advaita accepts six pramāṇas, following the Bhāṭṭa Mīmāṃsā list.
-2. All six pramāṇas, for Advaita, operate only at the vyāvahārika level.
-3. Viśiṣṭādvaita accepts the same six pramāṇas as Advaita.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 1: A**
+
+**Question:**
+
+Consider the following statements about the *prasthāna-traya*:
+1. It consists of the Upaniṣads, the Bhagavad Gītā, and the Brahma Sūtra.
+2. All six Vedānta schools accept this same three-fold textual foundation.
+3. The Brahma Sūtra alone, being fully explicit, allows only one correct philosophical reading.
 
 Which of the statements given above are correct?
-**A. 1 and 3 only**
-**B. 1 and 2 only**
-**C. 2 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** The mechanism by which Advaita reads "tat tvam asi" as teaching identity of
-essence rather than crude identity of empirical conditions is called:
-**A. anyathā-khyāti**
-**B. sapta-anupapatti**
-**C. jahad-ajahal-lakṣaṇā (bhāga-tyāga-lakṣaṇā)**
-**D. pañcavidhabheda**
+A. 1 and 2 only
+B. None of the statements
+C. 1, 2 and 3
+D. 1 and 3 only
 
-**MCQ 3 (remedial — targets the "Advaita proves Brahman by reasoning" error).** Which of the
-following best describes Advaita's actual position on how Brahman is known?
-**A. Brahman is proved by inference from the design observed in the world.**
-**B. Brahman is known through perception, once the mind is sufficiently purified.**
-**C. Brahman cannot be known by any means whatsoever, including scripture.**
-**D. Brahman is revealed only through Vedic testimony (śabda), especially the mahāvākyas; reasoning (manana) only removes doubt about that revealed teaching.**
+- **A — Correct:** Statements 1 and 2 correctly identify the shared Upaniṣad–Gītā–Brahma Sūtra foundation; statement 3 is false because terse sūtras permit multiple readings.
+- **B — Incorrect:** Denying all three ignores that every Vedānta school accepts the threefold scriptural foundation described in statements 1 and 2.
+- **C — Incorrect:** The complete combination wrongly includes statement 3: the Brahma Sūtra is aphoristic, not fully explicit or restricted to one philosophical interpretation.
+- **D — Incorrect:** Although statement 1 names the texts correctly, statement 3 falsely demands one reading, while statement 2's shared acceptance is omitted.
 
-#### Answers and explanations — Lesson 1, Part B
+**MCQ 2: B**
 
-**MCQ 1 → B (1 and 2 only).** Statements 1 and 2 are both directly from §2–§3. Statement 3 is the
-trap: Viśiṣṭādvaita accepts only **three** pramāṇas (pratyakṣa, anumāna, śabda), not six — a
-frequently tested reduction.
+**Question:**
 
-**MCQ 2 → C.** This is the exact technical name from §5. Option A (anyathā-khyāti) is Nyāya's error
-theory (contrasted with Advaita's own theory in Lesson 8 (Part B)). Option B is Rāmānuja's seven objections
-(Lesson 11). Option D is Madhva's fivefold-difference doctrine (Lesson 12).
+A commentator holds that God, souls and matter are really different from each
+other **and** really non-different, because souls and matter cannot exist independently of God.
+This position is closest to:
 
-**MCQ 3 → D.** Option A wrongly makes inference the primary route — inference cannot even reach a
-non-objectifiable Brahman (§3). Option B wrongly assigns the role to perception. Option C overstates
-the difficulty — Advaita insists Brahman *can* be known, exactly through śabda, only not through the
-other five pramāṇas.
+A. Advaita — non-dualism grounded in Brahman's sole ultimate reality
+B. Dvaitādvaita — Nimbārka's real difference-and-non-difference through dependence on Brahman
+C. Dvaita — dualism affirming permanent difference among God, souls, and matter
+D. Śuddhādvaita — pure non-dualism treating the world as Brahman's real manifestation
 
-**Remedial note:** if you chose A, remember: reasoning in Advaita plays a *supporting* role
-(manana, in the śravaṇa–manana–nididhyāsana sequence you will meet fully in Lesson 9), never an
-independent proving role parallel to scripture.
+- **A — Incorrect:** Advaita ultimately sublates difference, so it cannot affirm both difference and non-difference as equally real relations grounded in dependence on God.
+- **B — Correct:** Nimbārka treats souls and matter as genuinely different from yet non-different from Brahman because their being remains wholly dependent on Brahman.
+- **C — Incorrect:** Dvaita makes enduring difference ultimate among God, souls, and matter; it does not affirm an equally real relation of non-difference.
+- **D — Incorrect:** Śuddhādvaita presents the world as Brahman's real manifestation, not through Nimbārka's paired relations of real difference and dependence-based non-difference.
+
+**MCQ 3: C**
+
+**Question:**
+
+Which one of
+the following statements is the most accurate?
+
+A. Vedānta forms one uniform doctrine whose major commentators differ only in terminology and teaching method.
+B. Vedānta's six schools arise because each recognizes a separate scriptural canon with different founding texts.
+C. Vedānta's six schools interpret one shared canon through distinct commentaries, producing substantive doctrinal disagreements.
+D. Vedānta treats autonomous reasoning as final authority and uses the Upaniṣads merely as optional illustration.
+
+- **A — Incorrect:** The schools disagree substantively about Brahman, the world, selves, and liberation; their differences cannot be reduced to terminology or pedagogy.
+- **B — Incorrect:** All six schools interpret the threefold foundation of Upaniṣads, Bhagavad Gītā, and Brahma Sūtra rather than unrelated scriptural collections.
+- **C — Correct:** A common scriptural foundation permits rival readings because terse passages and aphorisms receive materially different commentarial interpretations across the six schools.
+- **D — Incorrect:** Vedānta accepts revealed scripture as decisive authority, while reasoning clarifies and defends interpretation rather than displacing the Upaniṣads.
+
+**MCQ 4: D**
+
+**Question:**
+
+1. Advaita accepts six pramāṇas, following the Bhāṭṭa Mīmāṃsā list.
+2. Viśiṣṭādvaita accepts the same six pramāṇas as Advaita.
+3. All six pramāṇas, for Advaita, operate only at the vyāvahārika level.
+
+Which of the statements given above are correct?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. 3 only
+D. 1 and 3 only
+
+- **A — Incorrect:** Statement 2 is false because Viśiṣṭādvaita accepts perception, inference, and testimony, not Advaita's six; statement 1 is also wrongly omitted.
+- **B — Incorrect:** Advaita's sixfold list makes statement 1 true, but statement 2 wrongly extends it to Viśiṣṭādvaita and statement 3 is omitted.
+- **C — Incorrect:** Statement 3 correctly confines Advaita's pramāṇas to empirical reality, yet statement 1 also truly identifies their sixfold Bhāṭṭa Mīmāṃsā source.
+- **D — Correct:** Statements 1 and 3 hold: Advaita accepts six Bhāṭṭa pramāṇas at the vyāvahārika level; Viśiṣṭādvaita's threefold list makes statement 2 false.
 
 ---
 
-**Progress: 2/14 | Stage: Foundation | Subtopic: Brahman — Advaita, Viśiṣṭādvaita and Dvaita compared**
+## Lesson 2 — Brahman — Advaita, Viśiṣṭādvaita and Dvaita compared
+
+Progress: 2/14 | Stage: Foundation | Subtopic: Brahman — Advaita, Viśiṣṭādvaita and Dvaita compared
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §1.1–1.4, 1.6, 1.8; cross-checked with
@@ -758,7 +741,7 @@ application of one fork, not fourteen unrelated facts.**
   other term in it.
 - **PYQ linkage:** the nirguṇa/saguṇa fork is the presupposed background of the 2022 20-marker on
   Īśvara/jīva/sākṣī (Lesson 5 (Part A)), the 2023 20-marker on Rāmānuja's critique of Śaṅkara's Brahman and
-  Īśvara (fully solved in the consolidated PYQ bank, and previewed in Lesson 3), and the 2025
+  Īśvara (linked in the Verified PYQ Linkage section, and previewed in Lesson 3), and the 2025
   15-marker on Brahman as nimitta/upādāna kāraṇa (Lesson 3).
 - **Probable framing:** "Explain the two definitions of Brahman" (10 marks); "Compare the concept
   of Brahman in Advaita, Viśiṣṭādvaita and Dvaita" (15/20 marks).
@@ -780,59 +763,70 @@ application of one fork, not fourteen unrelated facts.**
 9. > 🔑 **Mnemonic:** **"Śaṅkara subtracts, Rāmānuja and Madhva keep."**
 10. This nirguṇa/saguṇa fork is the hidden presupposition behind almost every later Vedānta dispute in the syllabus.
 
-## Practice — Lesson 2
+### Practice — Lesson 2
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 5: A**
+
+**Question:**
+
 1. Svarūpa-lakṣaṇa states Brahman's intrinsic nature as sat-cit-ānanda.
 2. Taṭastha-lakṣaṇa identifies Brahman through its relation to the world as its cause.
 3. Advaita, Viśiṣṭādvaita and Dvaita disagree fundamentally on whether Brahman's essential nature (svarūpa) is nirguṇa or saguṇa.
 
 Which of the statements given above are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** A philosopher argues: "An entity with absolutely no qualities cannot be the
+A. 1, 2 and 3
+B. 3 only
+C. 1 and 2 only
+D. None of the statements
+
+- **A — Correct:** All three hold: intrinsic definition gives existence-consciousness-bliss, relational definition gives world-causality, and the schools dispute whether Brahman's essential nature is unqualified or qualified.
+- **B — Incorrect:** Statement 3 is true, but this combination omits statements 1 and 2, which correctly distinguish Brahman's intrinsic nature from its causal relation.
+- **C — Incorrect:** Statements 1 and 2 correctly state the two definitions, yet statement 3 also holds because the schools fundamentally differ over nirguṇa and saguṇa Brahman.
+- **D — Incorrect:** Denying every statement rejects both standard definitions and the genuine Advaita–Viśiṣṭādvaita–Dvaita disagreement concerning Brahman's unqualified or qualified essential nature.
+
+**MCQ 6: B**
+
+**Question:**
+
+A philosopher argues: "An entity with absolutely no qualities cannot be the
 coherent object of scriptural description, and cannot ground a rich, ordered universe." This
 argument is most directly used by:
-**A. Rāmānuja, to defend saguṇa Brahman**
-**B. Śaṅkara, to defend nirguṇa Brahman**
-**C. Madhva, to defend pañcavidhabheda**
-**D. Nimbārka, to defend dvaitādvaita**
 
-**MCQ 3 (remedial — targets the "nirguṇa = nothing" error).** Which statement correctly represents
+A. Śaṅkara — non-dualism grounded in attributeless Brahman
+B. Rāmānuja — qualified non-dualism grounded in Brahman with real auspicious attributes
+C. Madhva — dualism grounded in five irreducible differences
+D. Nimbārka — dualistic non-dualism joining dependence with real difference
+
+- **A — Incorrect:** Śaṅkara defends attributeless Brahman, whereas the objection treats such an absolute as scripturally indescribable and causally inadequate.
+- **B — Correct:** Rāmānuja argues that Brahman possesses real auspicious attributes, making the absolute intelligible to scripture and adequate as the ordered world's ground.
+- **C — Incorrect:** Madhva's fivefold difference secures pluralism, but the stated critique of an attributeless absolute belongs specifically to Rāmānuja's qualified non-dualism.
+- **D — Incorrect:** Nimbārka affirms dependent difference-and-non-difference, yet this argument from scriptural predication and cosmic order is not his distinctive formulation.
+
+**MCQ 7: C**
+
+**Question:**
+
+Which statement correctly represents
 Advaita's position on nirguṇa Brahman?
-**A. Nirguṇa Brahman has no positive nature of any kind; it is empty of all content.**
-**B. Nirguṇa Brahman's essence is sat-cit-ānanda; "nirguṇa" denies only limiting, empirical, relational attributes.**
-**C. Nirguṇa Brahman is identical with Īśvara at every level of reality.**
-**D. Nirguṇa Brahman is a later addition absent from the Upaniṣads.**
 
-### Answers and explanations — Lesson 2
+A. Nirguṇa Brahman is contentless awareness, devoid even of positive intrinsic nature.
+B. Nirguṇa Brahman is simply Īśvara, unchanged across empirical and absolute standpoints.
+C. Nirguṇa Brahman is existence-consciousness-bliss; ‘without qualities’ denies limiting empirical and relational attributes.
+D. Nirguṇa Brahman is a post-Upaniṣadic speculation lacking genuine scriptural foundation.
 
-**MCQ 1 → D (1, 2 and 3).** Statements 1 and 2 correctly state the two definitions (§2). Statement 3
-is also correct: this is precisely the fork worked out in §3 — Advaita affirms nirguṇa svarūpa,
-while both Viśiṣṭādvaita and Dvaita affirm saguṇa svarūpa with no higher nirguṇa level at all. All
-three statements are accurate, so the complete answer is 1, 2 and 3.
-
-**MCQ 2 → A (Rāmānuja).** This is exactly Rāmānuja's argument against nirguṇa Brahman (§5 above):
-an attribute-less absolute is unintelligible as a scriptural referent and cannot ground a rich
-world. Śaṅkara (B) argues in the opposite direction. Madhva (C) and Nimbārka (D) are not
-specifically associated with this particular epistemic argument, though both reject nirguṇa
-Brahman for related reasons.
-
-**MCQ 3 → B.** Option A is the classic trap this lesson warns against. Option C confuses Brahman
-with Īśvara, which in Advaita are distinguished precisely by the nirguṇa/saguṇa, pāramārthika/
-vyāvahārika levels (fully treated in Lesson 4 and Lesson 5 (Part A)). Option D is false — nirguṇa/saguṇa readings both
-claim Upaniṣadic grounding; the dispute is over which Upaniṣadic passages are final.
-
-**Remedial note:** MCQ 1 is deliberately double-checked in its own answer above — always verify a
-statement about "all schools agree" against each school named in the option before accepting it.
-This is the single most common source of error in Vedānta comparative MCQs.
+- **A — Incorrect:** Advaita does not reduce unqualified Brahman to emptiness; existence, consciousness, and bliss express its intrinsic nature rather than limiting properties.
+- **B — Incorrect:** Īśvara is Brahman viewed through māyā at the empirical level, whereas unqualified Brahman is distinguished at the absolute standpoint.
+- **C — Correct:** Existence-consciousness-bliss names Brahman's intrinsic nature, while ‘without qualities’ excludes finite, relational, and empirically limiting predicates.
+- **D — Incorrect:** Upaniṣadic passages support discourse about unqualified Brahman; the dispute concerns their interpretation and priority, not a wholly post-scriptural invention.
 
 ---
 
-**Progress: 3/14 | Stage: Foundation | Subtopic: Brahman as cause — nimitta/upādāna kāraṇa; vivarta and pariṇāma**
+## Lesson 3 — Brahman as cause — nimitta/upādāna kāraṇa, vivarta and pariṇāma, and Rāmānuja's critique of nirguṇa Brahman
+
+Progress: 3/14 | Stage: Foundation | Subtopic: Brahman as cause — nimitta/upādāna kāraṇa; vivarta and pariṇāma
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §1.5, 1.6, 1.7, 1.8; cross-checked with
@@ -1021,56 +1015,68 @@ questions of the whole syllabus clause — record it as contested, not settled, 
 9. Rāmānuja's critique of Brahman doubles as a critique of Advaita's Īśvara: devotion becomes merely preparatory (developed further in Lesson 5 (Part A)).
 10. > 🔑 **Mnemonic:** **"Spider spins itself — Brahman is its own material, only apparently."**
 
-## Practice — Lesson 3
+### Practice — Lesson 3
 
-**MCQ 1 (conceptual).**
-1. In Advaita, Brahman is the material cause of the world in the sense of vivarta, not real transformation.
-2. In Viśiṣṭādvaita, Brahman is the material cause through the real transformation of its non-conscious mode.
-3. In Dvaita, God is both the efficient and the material cause of the world.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 8: D**
+
+**Question:**
+
+1. In Dvaita, God is both the efficient and the material cause of the world.
+2. In Advaita, Brahman is the material cause of the world in the sense of vivarta, not real transformation.
+3. In Viśiṣṭādvaita, Brahman is the material cause through the real transformation of its non-conscious mode.
 
 Which of the statements given above are correct?
-**A. 1 and 3 only**
-**B. 2 and 3 only**
-**C. 1 and 2 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** "Sāṃkhya splits material causality away from intelligence; Nyāya splits
+A. 1 and 2 only
+B. 3 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+- **A — Incorrect:** Statement 1 is false because Dvaita makes God only the efficient cause; this combination also omits Viśiṣṭādvaita's real transformation in statement 3.
+- **B — Incorrect:** Statement 3 correctly describes transformation of Brahman's non-conscious mode, but statement 2's Advaitic account of material causality through vivarta is also true.
+- **C — Incorrect:** Although statement 3 is true, statement 1 wrongly makes Dvaita's God the material cause, and statement 2's vivarta doctrine is omitted.
+- **D — Correct:** Statements 2 and 3 hold: Advaita teaches apparent transformation, Viśiṣṭādvaita real transformation of the non-conscious mode; Dvaita denies divine material causality.
+
+**MCQ 9: A**
+
+**Question:**
+
+"Sāṃkhya splits material causality away from intelligence; Nyāya splits
 efficient causality from material causality between two different principles." Which Vedāntic
 claim is this contrast meant to highlight?
-**A. Vedānta denies that the world has any cause at all.**
-**B. Vedānta agrees fully with Nyāya's causal scheme.**
-**C. Vedānta agrees fully with Sāṃkhya's causal scheme.**
-**D. Vedānta (in Advaita and Viśiṣṭādvaita) reunites efficient and material causality in one Brahman.**
 
-**MCQ 3 (remedial — targets the "Rāmānuja rejects all Brahman-talk" error).** Rāmānuja's criticism
+A. Advaita and Viśiṣṭādvaita locate both material and efficient causality in Brahman, though they explain manifestation differently.
+B. Advaita and Viśiṣṭādvaita assign efficient causality to Brahman but material causality to an independent primordial nature.
+C. Advaita and Viśiṣṭādvaita adopt the Nyāya model of atoms as material cause and God as external efficient cause.
+D. Advaita and Viśiṣṭādvaita follow Sāṃkhya by dividing causal agency equally between consciousness and primordial nature.
+
+- **A — Correct:** Both traditions reunite the world's material and efficient causes in Brahman, although Advaita and qualified non-dualism characterize manifestation differently.
+- **B — Incorrect:** Neither tradition grants independent primordial nature the material role; both ground the world's material as well as efficient causality in Brahman.
+- **C — Incorrect:** The Nyāya division between atomic material and an external divine maker is precisely the causal separation these Vedānta systems reject.
+- **D — Incorrect:** Sāṃkhya assigns material causality to unconscious primordial nature, whereas these Vedānta traditions ground both causal functions in intelligent Brahman.
+
+**MCQ 10: B**
+
+**Question:**
+
+Rāmānuja's criticism
 of Śaṅkara's nirguṇa Brahman is best summarised as:
-**A. Rāmānuja argues an attribute-less Brahman cannot be a coherent object of scriptural description or a sufficient cause of an ordered world.**
-**B. Rāmānuja denies that Brahman exists.**
-**C. Rāmānuja denies that Brahman is the material cause of the world.**
-**D. Rāmānuja agrees with Śaṅkara that Īśvara is only empirically real.**
 
-### Answers and explanations — Lesson 3
+A. Rāmānuja holds that Brahman lacks independent existence and survives only as a scriptural symbol.
+B. Rāmānuja holds that an attributeless Brahman cannot be scripturally describable or adequately explain the ordered world's real plurality.
+C. Rāmānuja holds that Brahman is merely the efficient cause, while primordial matter independently supplies the world's substance.
+D. Rāmānuja holds that Īśvara belongs only to empirical reality, beneath an indescribable absolute without qualities.
 
-**MCQ 1 → C (1 and 2 only).** Statement 3 is the trap: Dvaita makes God the efficient cause
-**only**; primordial matter, not God, is the material cause. This is the one clear exception
-examiners test for.
+- **A — Incorrect:** Rāmānuja affirms Brahman's independent reality; his criticism concerns Śaṅkara's attributeless characterization, not the existence of Brahman itself.
+- **B — Correct:** Scriptural description requires a qualified referent, and the world's ordered plurality requires Brahman endowed with real attributes and modes.
+- **C — Incorrect:** Brahman is both material and efficient cause for Rāmānuja; matter is a real dependent mode, never an independently supplying substance.
+- **D — Incorrect:** Rāmānuja identifies Īśvara with supreme Brahman and rejects any higher qualityless absolute that would reduce the Lord to empirical status.
 
-**MCQ 2 → D.** This is exactly the compact exam line from §4. Option A is false — causation is
-central to Vedānta. Options B and C wrongly claim full agreement with a rival school when the
-whole point of the contrast is a structural difference.
+## Lesson 4 — Īśvara — māyā-conditioned Brahman versus the supreme personal God
 
-**MCQ 3 → A.** Option B misstates the critique entirely — Rāmānuja affirms Brahman fully; he
-disputes only its *nirguṇa* characterisation. Option C is not the critique in this lesson (Rāmānuja
-has his own, different account of material causation, §2b). Option D is the reverse of Rāmānuja's
-actual position — he insists Īśvara **is** Brahman, with no higher level, precisely against
-Advaita's two-level scheme.
-
-**Remedial note:** if you chose D on MCQ 3, remember the general Vedānta-answer discipline: a
-"critique of X's account of Brahman" is almost always a critique of *one specific characterisation*
-of Brahman (here, nirguṇa-ness), not a denial that Brahman exists. Every rival Vedāntin affirms
-Brahman; they dispute its nature.
-
-**Progress: 4/14 | Stage: Core | Subtopic: Īśvara — māyā-conditioned Brahman versus the supreme personal God**
+Progress: 4/14 | Stage: Core | Subtopic: Īśvara — māyā-conditioned Brahman versus the supreme personal God
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §2.1–2.8; cross-checked with Radhakrishnan
@@ -1200,7 +1206,7 @@ metaphysics is exactly the deepest fault-line between the two schools, revisited
 ## UPSC integration
 
 - **PYQ linkage:** 2025 (20 marks) — bimba-pratibimba-vāda and its soteriological significance
-  (fully solved in the consolidated PYQ bank); 2022 (20 marks) — ontological status of Īśvara,
+  (linked in the Verified PYQ Linkage section); 2022 (20 marks) — ontological status of Īśvara,
   jīva and sākṣī (next lesson).
 - **Probable framing:** "Discuss bimba-pratibimba-vāda... along with its soteriological
   significance" (exact 2025 wording); "Compare the concept of Īśvara across Advaita, Viśiṣṭādvaita
@@ -1223,52 +1229,64 @@ metaphysics is exactly the deepest fault-line between the two schools, revisited
 9. Rāmānuja's critique: two-level Īśvara makes devotion merely preparatory.
 10. > 🔑 **Mnemonic:** **"One face, many mirrors — the face never moves."**
 
-## Practice — Lesson 4
+### Practice — Lesson 4
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 11: C**
+
+**Question:**
+
 1. In bimba-pratibimba-vāda, the original (bimba) is affected by defects present in the reflecting medium.
 2. Avacchedavāda, pratibimbavāda and ābhāsavāda are three distinct Advaita models of jīva/Īśvara individuation.
 3. In Viśiṣṭādvaita, Īśvara is a lower, empirically-real appearance of a higher nirguṇa Brahman.
 
 Which of the statements given above is/are correct?
-**A. 2 only**
-**B. 1 and 2 only**
-**C. 2 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** The soteriological significance of bimba-pratibimba-vāda is best expressed as:
-**A. Liberation is the physical merging of the reflected image into the mirror.**
-**B. Liberation is the recognition that the reflected self never possessed independent reality apart from the original consciousness.**
-**C. Liberation is the destruction of the original consciousness by its own reflection.**
-**D. Liberation is impossible as long as any reflection persists.**
+A. 1, 2 and 3
+B. 1 and 2 only
+C. 2 only
+D. 1 and 3 only
 
-**MCQ 3 (remedial — targets treating pratibimbavāda as the only Advaita model).** A student writes
+- **A — Incorrect:** The full set fails twice: reflection-medium defects do not alter the bimba, and Viśiṣṭādvaita posits no higher nirguṇa Brahman beyond Īśvara.
+- **B — Incorrect:** Statement 2 correctly lists three Advaita models, but statement 1 is false because defects affect the reflection, never original consciousness.
+- **C — Correct:** Only statement 2 holds: delimitation, reflection, and appearance are distinct Advaita models explaining individuation of the individual self and Lord.
+- **D — Incorrect:** Statements 1 and 3 are false: bimba remains unaffected and Viśiṣṭādvaita identifies Brahman with qualified Īśvara; statement 2 is also omitted.
+
+**MCQ 12: D**
+
+**Question:** The soteriological significance of bimba-pratibimba-vāda is best expressed as:
+
+A. Liberation physically absorbs the reflected individual into its original consciousness.
+B. Liberation allows the reflected individual to extinguish the original consciousness.
+C. Liberation requires every reflected appearance of individuality to cease permanently.
+D. Liberation recognizes that the reflected individual never possessed reality independent of original consciousness.
+
+- **A — Incorrect:** The reflection analogy concerns dependent appearance and mistaken identity, not a physical entity being absorbed into a reflecting consciousness.
+- **B — Incorrect:** Original consciousness remains unaffected and cannot be destroyed by the dependent reflection that appears through a limiting medium.
+- **C — Incorrect:** Release requires knowledge of the reflection's dependence, not the permanent disappearance of every empirical appearance of individuality.
+- **D — Correct:** Liberating knowledge removes the belief that reflected individuality exists independently, while original consciousness remains the unaffected reality throughout.
+
+**MCQ 13: A**
+
+**Question:**
+
+A student writes
 that "Advaita explains the jīva-Brahman relation solely through pratibimbavāda." This answer is:
-**A. Fully correct and complete.**
-**B. Incorrect, because Advaita rejects all reflection-based models.**
-**C. Incomplete, because avaccheda and ābhāsa models are additional, co-existing Advaita explanations.**
-**D. Incorrect, because pratibimbavāda belongs to Viśiṣṭādvaita, not Advaita.**
 
-### Answers and explanations — Lesson 4
+A. Incomplete, because reflection theory coexists with limitation and appearance theories as Advaita accounts of individual consciousness.
+B. Complete, because reflection theory is Advaita's exclusive explanation of how one consciousness appears as many individuals.
+C. Incorrect, because Advaita accepts limitation theory alone and excludes every account based on reflection or appearance.
+D. Incomplete, because reflection theory belongs to qualified non-dualism rather than to any recognized Advaita tradition.
 
-**MCQ 1 → A (2 only).** Statement 1 is false — the whole point of the model is that the original is
-**unaffected** by the medium's defects (§3). Statement 2 is correct (§4). Statement 3 is false —
-this describes Advaita's own scheme, not Rāmānuja's; Rāmānuja explicitly denies any nirguṇa level
-above Īśvara (§2b).
+- **A — Correct:** Advaita employs reflection (pratibimba), limitation (avaccheda), and appearance (ābhāsa) models, so presenting reflection alone leaves its explanatory range incomplete.
+- **B — Incorrect:** Reflection theory is influential but not exclusive; limitation and appearance theories also explain how individual consciousness relates to non-dual awareness.
+- **C — Incorrect:** Advaita does not restrict itself to limitation theory, since reflection and appearance models are established alternatives within its commentarial traditions.
+- **D — Incorrect:** Reflection theory is an Advaita model of individuation, not a doctrine transferred from qualified non-dualism to explain its real modes.
 
-**MCQ 2 → B.** This is the precise soteriological point of §3. Option A mistakes a suggestive
-analogy for literal physics — the standard criticism this lesson explicitly warns against treating
-as literal. Options C and D are simply not part of the doctrine.
+## Lesson 5 — Ātman, jīva and sākṣī — identity, dependence and eternal difference
 
-**MCQ 3 → C.** As §4 states explicitly, three models co-exist within Advaita; presenting only one
-is incomplete, not simply wrong (so B is too strong) and not attributable to the wrong school (so D
-is false).
-
-**Remedial note:** whenever an MCQ or answer names only *one* Advaita model of jīva/Īśvara
-individuation, check immediately whether the question is asking about that specific model or about
-Advaita's account "in general" — in the latter case, all three models belong in a complete answer.
-
-**Progress: 5/14 | Stage: Core | Subtopic: Ātman, jīva and sākṣī — identity, dependence and eternal difference**
+Progress: 5/14 | Stage: Core | Subtopic: Ātman, jīva and sākṣī — identity, dependence and eternal difference
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §2.7, and the 2022 mahāvākya-summary
@@ -1398,7 +1416,7 @@ Rāmānuja's seven objections (Lesson 11) are designed to exploit.
 
 - **PYQ linkage:** 2022 (20 marks) — *"Brahma satyam jaganmithyā, jīvo brahmaiva nāparaḥ. In the
   light of this statement explain the ontological status of Īśvara, Jīva and Sākṣī as elucidated in
-  Advaita Vedānta."* (Fully solved in the consolidated PYQ bank.)
+  Advaita Vedānta."* (Linked in the Verified PYQ Linkage section.)
 - **Probable framing:** always a 20-mark, three-term integration question; sometimes reframed as
   "Explain the levels of reality in Advaita with reference to Īśvara, jīva and sākṣī."
 - **Common trap:** treating Īśvara and jīva as ultimately on a par, or forgetting sākṣī entirely
@@ -1416,52 +1434,6 @@ Rāmānuja's seven objections (Lesson 11) are designed to exploit.
 5. Both Īśvara and jīva are vyāvahārika constructions, ultimately sublated into nirguṇa Brahman.
 6. Viśiṣṭādvaita and Dvaita both reject this two-tier "sublation" scheme — both treat Īśvara as ultimate with no higher level.
 7. > 🔑 **Mnemonic:** **"Māyā makes the Lord; avidyā makes the self; the witness was never made at all."**
-
-### Practice — Lesson 5, Part A
-
-**MCQ 1 (conceptual).**
-1. In Advaita, jīva is Brahman conditioned by avidyā, while Īśvara is Brahman conditioned by māyā.
-2. Sākṣī, in Advaita, is itself altered by the mental states it witnesses.
-3. "Brahma satyam jaganmithyā, jīvo brahmaiva nāparaḥ" is one of the four standard Upaniṣadic mahāvākyas.
-
-Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1 only**
-
-**MCQ 2 (applied).** Why can Advaita consistently hold that there is one Īśvara but many jīvas?
-**A. Because māyā is one cosmic principle, while avidyā is individually located in each internal organ.**
-**B. Because Īśvara and jīva belong to entirely unrelated metaphysical categories.**
-**C. Because jīvas are real, separate substances unrelated to Brahman.**
-**D. Because Īśvara is a later mode of jīva.**
-
-**MCQ 3 (remedial — targets forgetting sākṣī in the 2022-style question).** A candidate answers the
-2022 question by explaining only Īśvara and jīva, omitting sākṣī entirely. This answer is:
-**A. Complete, since the quoted line does not name sākṣī.**
-**B. Incomplete, since the question explicitly asks for the status of sākṣī as well as Īśvara and jīva.**
-**C. Complete, since sākṣī is identical to jīva and needs no separate treatment.**
-**D. Incorrect in every part, since Īśvara and jīva were also misdescribed.**
-
-#### Answers and explanations — Lesson 5, Part A
-
-**MCQ 1 → D (1 only).** Statement 1 is correct (§2). Statement 2 is false — the entire point of
-sākṣī is that it is *unaffected* by what it witnesses (§2, §4). Statement 3 is false — this is a
-traditional summary line, not a standard mahāvākya (§1).
-
-**MCQ 2 → A.** This is the precise asymmetry explained in §3 — one cosmic limiting principle (māyā)
-versus many individually located limiting factors (avidyā). Options B, C and D contradict the
-entire "one consciousness, two adjuncts" architecture of this lesson.
-
-**MCQ 3 → B.** The 2022 question explicitly asks for all three terms; sākṣī cannot be skipped for
-full marks (§ UPSC integration). Option C is doctrinally wrong — sākṣī and jīva are distinguished
-precisely because sākṣī is unaffected while jīva is agentive and bound (§2). Option D is too broad
-and unsupported.
-
-**Remedial note:** whenever a Vedānta question quotes a Sanskrit line and names two or three
-technical terms, always check the question stem for *every* term named, even if one seems to be
-implied rather than headlined — omitting a named term is one of the most common ways marks are lost
-on this exact question.
 
 ---
 
@@ -1615,54 +1587,6 @@ objections (Lesson 11) target as the central weak point of the whole system.
 8. Comparative formula: identity (Advaita) / inseparable mode (Viśiṣṭādvaita) / eternal difference (Dvaita).
 9. The self is the pressure-point that determines each school's theory of liberation.
 10. > 🔑 **Mnemonic:** **"Who slept? The witness never sleeps."**
-
-### Practice — Lesson 5, Part B
-
-**MCQ 1 (conceptual).**
-1. Sākṣī is altered by the pleasure, pain and doubt that it witnesses.
-2. The post-sleep memory report "I knew nothing" presupposes some continuity through deep sleep.
-3. Turīya is best understood as a fourth episode occurring after waking, dream and deep sleep.
-
-Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 1, 2 and 3**
-**C. 2 only**
-**D. 2 and 3 only**
-
-**MCQ 2 (applied).** In Viśiṣṭādvaita, why does the self's atomic size (aṇu) not limit the range of
-its cognition in liberation?
-**A. Because the self ceases to be atomic in liberation.**
-**B. Because Rāmānuja denies the self is ever atomic.**
-**C. Because the self merges completely with Brahman in liberation.**
-**D. Because attributive consciousness (dharma-bhūta-jñāna) expands and becomes pervasive when unobstructed by karma, while the self itself remains the atomic substantive knower.**
-
-**MCQ 3 (remedial — targets treating the three-states argument as neutral).** The three-states
-(waking–dream–deep sleep) argument for a continuous witness is best described as:
-**A. An argument that establishes a persisting self, but its identification with non-dual Brahman is an additional, Advaita-specific step not accepted by Rāmānuja or Nyāya.**
-**B. A neutral proof accepted identically by Advaita, Viśiṣṭādvaita and Nyāya alike.**
-**C. Irrelevant to the question of selfhood in Vedānta.**
-**D. Accepted only by Dvaita, and rejected by Advaita.**
-
-#### Answers and explanations — Lesson 5, Part B
-
-**MCQ 1 → C (2 only).** Statement 1 is false — sākṣī is precisely defined as unaffected by what it
-witnesses (§3). Statement 2 is correct (§4). Statement 3 is false — turīya is not a fourth temporal
-episode but the ground underlying all three (§4).
-
-**MCQ 2 → D.** This is the precise mechanism from §5 — atomic substantive selfhood is compatible
-with pervasive attributive consciousness once karmic obstruction ends. Option A misstates
-Viśiṣṭādvaita, which retains the self's atomic nature even in liberation. Option B is false — Rāmānuja
-explicitly affirms the self is atomic. Option C describes Advaita's jīvanmukti-adjacent language, not
-Rāmānuja's position, which explicitly denies numerical identity even in liberation.
-
-**MCQ 3 → A.** This is the qualification stressed in §4 — the argument establishes persistence, but
-the further step of identifying that persisting witness with Brahman is Advaita-specific. Option B
-overstates universal acceptance; options C and D are simply false.
-
-**Remedial note:** this is one of the most common Vedānta-exam errors: presenting an argument that
-is genuinely persuasive *within* a school's own framework as though it were a neutral, universally
-accepted proof. Always ask "would a rival school accept the premises, or only the conclusion-seeking
-motivation?"
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §4.1–4.8; cross-checked with Radhakrishnan Vol. II on Madhva's soul-taxonomy. CA search: "jiva individual self Advaita Vedanta Madhva taratamya philosophy 2026" CA found: No doctrine-specific current-affairs anchor.*
 
@@ -1820,54 +1744,86 @@ describe around it.
 6. 2021 and 2022 PYQs require both intra-Advaita and inter-school treatment of jīva.
 7. > 🔑 **Mnemonic:** **"Pot-space, mirror-face, mere semblance — three ways of saying 'not really many.'"**
 
-### Practice — Lesson 5, Part C
+### Practice — Lesson 5
 
-**MCQ 1 (conceptual).**
-1. Avacchedavāda uses the analogy of space delimited by a pot.
-2. Pratibimbavāda uses the analogy of a face reflected in a mirror.
-3. Ābhāsavāda treats jīva as a real, independent fragment of Brahman.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 14: B**
+
+**Question:**
+
+1. In Advaita, jīva is Brahman conditioned by avidyā, while Īśvara is Brahman conditioned by māyā.
+2. Sākṣī, in Advaita, is itself altered by the mental states it witnesses.
+3. "Brahma satyam jaganmithyā, jīvo brahmaiva nāparaḥ" is one of the four standard Upaniṣadic mahāvākyas.
 
 Which of the statements given above is/are correct?
-**A. 3 only**
-**B. 1 and 2 only**
-**C. 2 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** Madhva's category of "mukti-yogya" souls refers to:
-**A. Souls eternally free from bondage.**
-**B. Already-liberated souls.**
-**C. Bound souls who are eligible for liberation.**
-**D. Bound souls destined never to attain liberation.**
+A. 1 and 2 only
+B. 1 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
-**MCQ 3 (remedial — targets conflating Ātman and jīva).** Which statement best captures the
-Ātman/jīva distinction as used in careful Vedānta answers?
-**A. Ātman and jīva are fully interchangeable terms in every context.**
-**B. Jīva denotes the essential metaphysical self, while Ātman denotes the embodied empirical individual.**
-**C. Ātman applies only to Viśiṣṭādvaita, and jīva only to Advaita.**
-**D. Ātman denotes the self in its essential nature, while jīva denotes the embodied, empirical, bound individual.**
+- **A — Incorrect:** Statement 1 is accurate, but statement 2 is false: witnessing consciousness remains unchanged by the mental states it observes.
+- **B — Correct:** Only statement 1 holds: the individual self is Brahman conditioned by avidyā, while the Lord is Brahman conditioned by māyā.
+- **C — Incorrect:** Statements 2 and 3 invalidate the complete set: sākṣī is unaltered, and the quoted formula is a traditional summary, not a standard mahāvākya.
+- **D — Incorrect:** Both included statements are false: sākṣī is unaffected and the formula is not one of the four standard mahāvākyas; statement 1 is omitted.
 
-#### Answers and explanations — Lesson 5, Part C
+**MCQ 15: C**
 
-**MCQ 1 → B (1 and 2 only).** Statements 1 and 2 correctly describe the two analogies (§2). Statement
-3 is false — ābhāsavāda, like the other two models, denies that jīva is a real independent fragment;
-all three models conclude individuality is not ultimately real (§2c).
+**Question:** Why can Advaita consistently hold that there is one Īśvara but many jīvas?
 
-**MCQ 2 → C.** This is the precise definition from §4's taxonomy table. Option A describes *nitya*
-souls. Option B describes *mukta* souls. Option D describes *tamo-yogya* souls — the harshest
-category, which must be evaluated carefully rather than stated casually (§4's caution).
+A. Because Lord and individual selves belong to wholly unrelated orders of consciousness, each established without any shared underlying reality.
+B. Because every individual self is an independently real substance, whereas the Lord alone depends on a universal material cause.
+C. Because cosmic māyā conditions the Lord, while individually located avidyā conditions the many individual selves.
+D. Because the Lord is a later transformation of an individual self enlarged by accumulated knowledge and merit.
 
-**MCQ 3 → D.** This is exactly the distinction insisted on in §1. Option A is the very error this
-lesson warns against. Option B reverses the definitions. Option C wrongly restricts each term to one
-school, when in fact both terms are used across the tradition, with Advaita specifically marking the
-essential/empirical distinction described here.
+- **A — Incorrect:** Advaita derives Lord and individual selves from one consciousness appearing through different limiting adjuncts, not from unrelated orders of consciousness.
+- **B — Incorrect:** Individual selves are not independently real substances; their plurality arises through separately located ignorance associated with internal organs.
+- **C — Correct:** One cosmic appearance conditions consciousness as Lord, whereas individually located ignorance in numerous internal organs accounts for many empirical selves.
+- **D — Incorrect:** The Lord is not produced by an enlarged individual self; both are appearances of consciousness conditioned through distinct adjuncts.
 
-**Remedial note:** if you answered A on MCQ 3, revisit §1 — this single distinction, applied
-consistently, measurably improves the precision of nearly every jīva-related or mokṣa-related
-answer in this syllabus clause.
+**MCQ 16: D**
+
+**Question:**
+
+A candidate answers the
+2022 question by explaining only Īśvara and jīva, omitting sākṣī entirely. This answer is:
+
+A. Complete, because sākṣī needs no separate discussion when the quoted line omits it.
+B. Complete, because sākṣī and the bound jīva possess exactly the same philosophical status.
+C. Incorrect throughout, because the descriptions of both Īśvara and jīva must also be false.
+D. Incomplete, because the prompt separately asks for sākṣī alongside the respective statuses of Īśvara and jīva.
+
+- **A — Incorrect:** The express demand concerning witness-consciousness remains binding even when the quoted line foregrounds Lord and individual self instead.
+- **B — Incorrect:** Witness-consciousness remains unaffected, whereas the bound individual acts and experiences; their roles cannot simply be treated as identical.
+- **C — Incorrect:** Omitting witness-consciousness makes the response incomplete but does not establish that its accounts of Lord and individual self are wholly false.
+- **D — Correct:** Complete treatment must distinguish Lord, bound individual, and witness-consciousness because the prompt explicitly requests the status of all three.
+
+**MCQ 17: A**
+
+**Question:**
+
+1. Sākṣī is altered by the pleasure, pain and doubt that it witnesses.
+2. Turīya is best understood as a fourth episode occurring after waking, dream and deep sleep.
+3. The post-sleep memory report "I knew nothing" presupposes some continuity through deep sleep.
+
+Which of the statements given above is/are correct?
+
+A. 3 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+- **A — Correct:** Only statement 3 holds: remembering deep sleep as unknowing presupposes continuity, whereas sākṣī remains unaffected and turīya underlies rather than follows the states.
+- **B — Incorrect:** Statement 3 is true, but statement 2 falsely treats turīya as a later episode instead of the ground of waking, dream, and sleep.
+- **C — Incorrect:** Statements 1 and 2 make the full set wrong: the witness is unaltered, and turīya is not a temporally fourth experience.
+- **D — Incorrect:** Both included statements are false, while statement 3's memory argument for continuity through deep sleep is wrongly omitted.
 
 ---
 
-**Progress: 6/14 | Stage: Core | Subtopic: Jagat — the three levels of reality and the world-status debate**
+## Lesson 6 — Jagat — the three levels of reality and the world-status debate
+
+Progress: 6/14 | Stage: Core | Subtopic: Jagat — the three levels of reality and the world-status debate
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §5.1–5.8; cross-checked with Chatterjee–Datta
@@ -2044,52 +2000,64 @@ lying beneath a "really real" one.
 7. Madhva: jīva and jagat are both real and metaphysically, not just practically, distinct from God — this feeds directly into pañcavidhabheda.
 8. > 🔑 **Mnemonic:** **"The rope never changes; only your seeing does."**
 
-## Practice — Lesson 6
+### Practice — Lesson 6
 
-**MCQ 1 (conceptual).**
-1. In Advaita, jagat is tuccha, exactly like a hare's horn.
-2. The vyāvahārika level is sublated only by Brahman-knowledge, not by an ordinary perceptual correction.
-3. Rāmānuja treats the world as a real manifestation of Brahman's non-conscious mode.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 18: B**
+
+**Question:**
+
+1. The vyāvahārika level is sublated only by Brahman-knowledge, not by an ordinary perceptual correction.
+2. Rāmānuja treats the world as a real manifestation of Brahman's non-conscious mode.
+3. In Advaita, jagat is tuccha, exactly like a hare's horn.
 
 Which of the statements given above is/are correct?
-**A. 2 and 3 only**
-**B. 1 and 2 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** "Vivartavāda is the logical development of Pariṇāmavāda." The most defensible
+A. 3 only
+B. 1 and 2 only
+C. 1 and 3 only
+D. 2 and 3 only
+
+- **A — Incorrect:** Statement 3 alone is false: Advaita calls the experienced world mithyā, not impossible like a hare's horn; statements 1 and 2 are omitted.
+- **B — Correct:** Statements 1 and 2 hold: empirical reality requires Brahman-knowledge for sublation, and Rāmānuja treats the world as Brahman's real non-conscious manifestation.
+- **C — Incorrect:** Statement 1 is true, but statement 3 confuses sublatable empirical appearance with sheer nonexistence, while Rāmānuja's real-world claim is omitted.
+- **D — Incorrect:** Rāmānuja's real manifestation supports statement 2, yet statement 3 mistakes mithyā for tuccha and statement 1's Brahman-knowledge criterion is omitted.
+
+**MCQ 19: C**
+
+**Question:**
+
+"Vivartavāda is the logical development of Pariṇāmavāda." The most defensible
 verdict on this claim is:
-**A. Fully agree without qualification — the two doctrines are ontologically identical.**
-**B. Structurally continuous (both are theories of a dependent effect), but ontologically opposed, since one asserts real transformation and the other denies it.**
-**C. Fully disagree — the two doctrines share no logical relationship whatsoever.**
-**D. The claim is meaningless because Sāṃkhya and Advaita never discuss causation.**
 
-**MCQ 3 (remedial — targets the "mithyā = non-existent" error).** "Jagat is mithyā" in Advaita means:
-**A. The world does not exist in any sense, exactly like a hare's horn.**
-**B. The world exists only in the mind of the individual perceiver, with no intersubjective validity.**
-**C. The world is dependent, sublatable appearance — empirically functioning but not absolutely real, and therefore distinct from tuccha (sheer non-existence).**
-**D. The world is identical in status to Brahman itself.**
+A. Real transformation and apparent transformation are ontologically equivalent because both derive an effect from a continuing cause.
+B. Real transformation and apparent transformation are logically unrelated because only the former recognizes dependence upon a cause.
+C. Both make the effect depend upon a cause, but one affirms real change while the other denies it.
+D. Apparent transformation simply renames real transformation, adding epistemic language without altering its account of causal change.
 
-### Answers and explanations — Lesson 6
+- **A — Incorrect:** Shared causal dependence does not erase the ontological divide between an actually transformed cause and a cause remaining wholly unchanged.
+- **B — Incorrect:** Both accounts make the effect dependent upon a cause; their dispute concerns whether producing the effect involves genuine transformation.
+- **C — Correct:** The theories share a structure of effect-dependence, yet real transformation (pariṇāma) affirms causal change while apparent transformation (vivarta) denies it.
+- **D — Incorrect:** Apparent transformation is not a verbal revision of real transformation; it rejects the actual modification that the latter explicitly affirms.
 
-**MCQ 1 → A (2 and 3 only).** Statement 1 is false and is the classic trap — jagat is mithyā, **not**
-tuccha (§2). Statement 2 is correct (§3). Statement 3 is correct (§5).
+**MCQ 20: D**
 
-**MCQ 2 → B.** This is the graded conclusion reached in §4 after weighing both the "agree" and
-"disagree" cases. Option A ignores the real ontological difference between real and apparent
-transformation. Option C ignores the genuine structural continuity (both are dependent-effect
-theories). Option D is factually false — causation is a central shared concern.
+**Question:** "Jagat is mithyā" in Advaita means:
 
-**MCQ 3 → C.** This is the precise mithyā/tuccha distinction from §2–§3. Option A is the trap this
-lesson explicitly targets. Option B wrongly makes the world merely subjective, when in fact it is
-**vyāvahārika** — intersubjectively, functionally real, not a private mental construct. Option D
-directly contradicts jagat's dependent, sublatable status.
+A. The world is sheer non-being, comparable to a hare's horn, and therefore never supports any shared experience or practical activity.
+B. The world is a private mental projection belonging to each perceiver, without stable intersubjective order or common practical validity.
+C. The world possesses the same independent and unsublatable reality as Brahman, although its names and forms continually change.
+D. The world is a dependent, sublatable appearance with empirical efficacy, unlike sheer non-existence, yet without Brahman's absolute reality.
 
-**Remedial note:** whenever you see the word "mithyā" in a Vedānta answer, immediately pair it with
-"not tuccha" in your own writing — examiners specifically look for this distinction as a mark of a
-well-prepared candidate.
+- **A — Incorrect:** A hare's horn is sheer non-existence, while the world supports experience and action before knowledge sublates its claim to absoluteness.
+- **B — Incorrect:** Empirical reality has shared order and practical validity, so Advaita does not reduce the world to each perceiver's private construction.
+- **C — Incorrect:** Brahman alone is unsublatable and independent; changing names and forms possess a dependent reality that knowledge ultimately corrects.
+- **D — Correct:** False reality means experienced and effective dependence that is ultimately sublatable, distinguishing the world from both Brahman and sheer non-being.
 
-**Progress: 7/14 | Stage: Core | Subtopic: Māyā and avidyā — powers, the locus problem and the conceptual distinction**
+## Lesson 7 — Māyā and avidyā — powers, the locus problem and the conceptual distinction
+
+Progress: 7/14 | Stage: Core | Subtopic: Māyā and avidyā — powers, the locus problem and the conceptual distinction
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §6.1–6.4, 6.8; cross-checked with
@@ -2239,7 +2207,7 @@ strong dialectical opening that the next lesson explores object by object.
   behind jagat (Lesson 6), avidyā (Lesson 7 (Part B)), and adhyāsa (Lesson 8 (Part A)).
 - **PYQ linkage:** the locus problem here is the direct foundation of the 2025 seven-objections
   question (Lesson 11 (10 marks)) and the 2018 question comparing the indescribability of Brahman
-  and māyā (fully solved in the consolidated PYQ bank).
+  and māyā (linked in the Verified PYQ Linkage section).
 - **Probable framing:** "Explain the nature of māyā in Advaita Vedānta" (10 marks); "Distinguish
   between the indescribability of Brahman and of māyā" (10 marks, exact 2018 wording).
 - **Common trap:** treating māyā and avidyā as flatly synonymous without noting the cosmic/
@@ -2257,50 +2225,6 @@ strong dialectical opening that the next lesson explores object by object.
 6. Vivaraṇa: Brahman is unmodified locus of avidyā. Bhāmatī: avidyā is in jīva, relation is beginningless.
 7. Dvaita rejects māyā entirely — the world and ignorance are both simply real.
 8. > 🔑 **Mnemonic:** **"Covers, then throws up — that is what māyā's two powers do."**
-
-### Practice — Lesson 7, Part A
-
-**MCQ 1 (conceptual).**
-1. Māyā's indescribability is identical in meaning to Brahman's indescribability.
-2. Āvaraṇa-śakti is the concealing power; vikṣepa-śakti is the projecting power.
-3. Advaita sources uniformly agree that māyā and avidyā are two entirely separate, never-overlapping concepts.
-
-Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1, 2 and 3**
-**D. 2 only**
-
-**MCQ 2 (applied).** The "locus problem" (āśraya/viṣaya) challenges Advaita by arguing that:
-**A. Avidyā located in the jīva is circular, since the jīva itself is supposed to arise within ignorance; avidyā located in Brahman seems to taint Brahman's purity.**
-**B. Māyā cannot explain the world's plurality at all.**
-**C. Māyā is identical with pariṇāmavāda.**
-**D. The Vivaraṇa and Bhāmatī schools agree completely on the locus of avidyā.**
-
-**MCQ 3 (remedial — targets the "māyā = nothing" error).** Which of the following best represents
-Advaita's actual claim about māyā?
-**A. Māyā is sheer nothingness, exactly equivalent to a hare's horn.**
-**B. Māyā is neither sheer nothingness nor ultimately real — it is anirvacanīya, genuinely experienced yet sublatable.**
-**C. Māyā is fully and permanently real, on a par with Brahman.**
-**D. Māyā is a modern interpretive addition absent from classical Advaita texts.**
-
-#### Answers and explanations — Lesson 7, Part A
-
-**MCQ 1 → D (2 only).** Statement 1 is false — §3 explicitly denies this identity. Statement 2 is
-correct (§4). Statement 3 is false — §5 explicitly notes textual non-uniformity, including
-formulations that treat the two as broadly interchangeable.
-
-**MCQ 2 → A.** This is the precise locus problem from §6. Option B, C and D are not accurate
-statements of the problem or of the two sub-schools' relationship (they explicitly disagree, per
-§ Criticism and reply above).
-
-**MCQ 3 → B.** This is the anirvacanīya doctrine from §2. Option A is the tuccha-confusion trap.
-Option C contradicts māyā's sublatability. Option D is historically false — māyā is a classical,
-not a modern, Advaita concept.
-
-**Remedial note:** if you answered A on MCQ 3, re-read §2's explicit warning: māyā is not pure
-nothingness, precisely because an appearance genuinely occurs and is genuinely experienced before
-being sublated.
 
 ---
 
@@ -2419,54 +2343,86 @@ worked out in Lesson 9.
 6. Pattern: greater realism about the world correlates with treating ignorance as simply real, not as a special indescribable category.
 7. > 🔑 **Mnemonic:** **"No start line, but a finish line — that is avidyā's whole paradox."**
 
-### Practice — Lesson 7, Part B
+### Practice — Lesson 7
 
-**MCQ 1 (conceptual).**
-1. Avidyā is anādi (beginningless) in Advaita.
-2. Avidyā is sānta (terminable) through knowledge in Advaita.
-3. Avidyā is eternal in exactly the same sense that Brahman is eternal.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 21: A**
+
+**Question:**
+
+1. Māyā's indescribability is identical in meaning to Brahman's indescribability.
+2. Āvaraṇa-śakti is the concealing power; vikṣepa-śakti is the projecting power.
+3. Advaita sources uniformly agree that māyā and avidyā are two entirely separate, never-overlapping concepts.
 
 Which of the statements given above is/are correct?
-**A. 1 and 3 only**
-**B. 2 and 3 only**
-**C. 1 and 2 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** Rāmānuja's account of avidyā differs from Advaita's chiefly in that:
-**A. Rāmānuja denies that ignorance exists at all.**
-**B. Rāmānuja treats ignorance as an anirvacanīya cosmic principle, exactly as Advaita does.**
-**C. Rāmānuja denies that knowledge plays any role in removing ignorance.**
-**D. Rāmānuja treats ignorance as real ignorance of God's nature and the soul's dependence, removed through knowledge integrated with devotion and surrender.**
+A. 2 only
+B. 1, 2 and 3
+C. 2 and 3 only
+D. 1 and 2 only
 
-**MCQ 3 (remedial — targets the "beginningless = permanent" error).** "Avidyā is beginningless"
-implies, in Advaita's own logic, that:
-**A. Avidyā lacks a traceable first moment, but this is compatible with it having a terminable end through knowledge.**
-**B. Avidyā can never be removed, since it has always existed.**
-**C. Avidyā is identical to Brahman's eternity.**
-**D. Avidyā is a modern doctrinal invention with no classical basis.**
+- **A — Correct:** Only statement 2 holds: āvaraṇa conceals reality and vikṣepa projects manifold appearance; statements 1 and 3 impose false equivalence and uniformity.
+- **B — Incorrect:** Statements 1 and 3 are false: māyā and Brahman's indescribability differ, and Advaita texts do not uniformly separate māyā from avidyā.
+- **C — Incorrect:** Statement 2 correctly distinguishes concealment from projection, but statement 3 falsely denies textual overlap between māyā and avidyā.
+- **D — Incorrect:** Statement 2 is true, yet statement 1 wrongly equates māyā's neither-real-nor-unreal status with Brahman's transcendence of limiting predicates.
 
-#### Answers and explanations — Lesson 7, Part B
+**MCQ 22: B**
 
-**MCQ 1 → C (1 and 2 only).** Statements 1 and 2 are the precise anādi/sānta formula (§2). Statement
-3 is the classic confusion this lesson targets — avidyā's beginninglessness is explicitly
-distinguished from Brahman's eternity, since only avidyā is terminable (§2).
+**Question:** The "locus problem" (āśraya/viṣaya) challenges Advaita by arguing that:
 
-**MCQ 2 → D.** This is the precise Viśiṣṭādvaita position from §4. Option A is false — Rāmānuja
-affirms real ignorance exists. Option B collapses the very distinction this lesson draws between
-Advaita and Viśiṣṭādvaita. Option C is false — knowledge, integrated with devotion, is exactly how
-ignorance is removed for Rāmānuja too.
+A. Māyā cannot explain ordered plurality because an indeterminable principle cannot project any coherent empirical appearance.
+B. Locating avidyā in jīva is circular, while locating it in Brahman compromises Brahman's purity.
+C. Avidyā is a real modification of Brahman that directly produces individual souls and the entire material universe.
+D. Vivaraṇa and Bhāmatī assign avidyā to the same locus without qualification or dispute.
 
-**MCQ 3 → A.** This is the precise resolution from §2 and the Criticism-and-reply section. Option B
-is the trap. Option C conflates two categorically different kinds of "without beginning." Option D
-is factually false.
+- **A — Incorrect:** Advaita invokes māyā precisely to explain ordered empirical plurality; this denial misses the narrower dilemma concerning ignorance's possible locus.
+- **B — Correct:** Making jīva the locus presupposes what ignorance supposedly produces, while placing ignorance in Brahman threatens the latter's changeless purity.
+- **C — Incorrect:** Advaita treats avidyā as indeterminable rather than a real transformation of Brahman, and this proposal bypasses the disputed locus entirely.
+- **D — Incorrect:** Vivaraṇa associates ignorance with Brahman, while Bhāmatī locates it in individual selves through a beginningless relation; their positions therefore diverge.
 
-**Remedial note:** whenever you see "beginningless," immediately ask "beginningless with respect to
-what claim — permanence, or merely absence of a traceable start?" This single habit avoids the most
-common conceptual slip in this lesson's material.
+**MCQ 23: C**
+
+**Question:**
+
+Which of the following best represents
+Advaita's actual claim about māyā?
+
+A. Appearance (māyā) is absolute non-being, comparable to a hare's horn and never available in experience.
+B. Appearance (māyā) is an independently permanent reality equal to Brahman and incapable of being sublated.
+C. Appearance (māyā) is indeterminable: experienced empirically and therefore not sheer nothingness, yet sublatable and therefore not ultimately real.
+D. Appearance (māyā) is merely private mental error, with no role in explaining the shared empirical world.
+
+- **A — Incorrect:** Unlike a hare's horn, appearance is experienced and supports ordinary transactions before liberating knowledge sublates its claim to final reality.
+- **B — Incorrect:** An independent and unsublatable appearance would rival Brahman, contradicting non-dualism's distinction between empirical presence and ultimate reality.
+- **C — Correct:** Indeterminability (anirvacanīyatva) captures appearance's experienced efficacy without granting ultimate reality, because knowledge later sublates what ignorance presents.
+- **D — Incorrect:** Advaita uses appearance to explain the intersubjective empirical order, not merely isolated psychological mistakes within an otherwise independently real world.
+
+**MCQ 24: D**
+
+**Question:**
+
+1. Avidyā is anādi (beginningless) in Advaita.
+2. Avidyā is eternal in exactly the same sense that Brahman is eternal.
+3. Avidyā is sānta (terminable) through knowledge in Advaita.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 1 only
+C. 2 and 3 only
+D. 1 and 3 only
+
+- **A — Incorrect:** Statement 1 is true, but statement 2 falsely equates terminable ignorance with Brahman's eternity, and statement 3 is omitted.
+- **B — Incorrect:** Beginninglessness makes statement 1 true, yet statement 3 also holds because liberating knowledge terminates avidyā.
+- **C — Incorrect:** Statement 3 is true, but statement 2 wrongly grants avidyā Brahman's non-terminable eternity, while its beginninglessness in statement 1 is omitted.
+- **D — Correct:** Statements 1 and 3 hold: avidyā is beginningless yet terminable through knowledge; therefore statement 2's equation with Brahman's eternity is false.
 
 ---
 
-**Progress: 8/14 | Stage: Core | Subtopic: Adhyāsa and error — superimposition and anirvacanīya-khyāti**
+## Lesson 8 — Adhyāsa and error — superimposition and anirvacanīya-khyāti
+
+Progress: 8/14 | Stage: Core | Subtopic: Adhyāsa and error — superimposition and anirvacanīya-khyāti
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §8.1–8.7; cross-checked with the opening of
@@ -2604,49 +2560,6 @@ produce liberation — only the mahāvākya, functioning through its special mec
 6. Standard examples: rope-snake, shell-silver, desert-mirage — always name at least one.
 7. Comparative point: Advaita's diagnosis of bondage is deeper than Nyāya's episodic error theory — adhyāsa is primordial, not occasional.
 8. > 🔑 **Mnemonic:** **"Before you philosophise, you have already said 'I am tall' — and already erred."**
-
-### Practice — Lesson 8, Part A
-
-**MCQ 1 (conceptual).**
-1. Adhyāsa is, by Śaṅkara's own account, a rare and occasional error.
-2. Adhyāsa includes āvaraṇa (concealment) and vikṣepa (projection).
-3. The sentence "I am happy" already presupposes the mixing of self and not-self, on Śaṅkara's diagnosis.
-
-Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
-
-**MCQ 2 (applied).** Adhyāsa and anirvacanīya-khyāti are related as:
-**A. Two unrelated, competing theories.**
-**B. Identical concepts, fully interchangeable.**
-**C. Adhyāsa is the dynamic process of superimposition; anirvacanīya-khyāti explains the ontological status of the resulting erroneous object.**
-**D. Adhyāsa belongs to Nyāya, and anirvacanīya-khyāti belongs to Advaita.**
-
-**MCQ 3 (remedial — targets treating rope-snake as the only adhyāsa example).** Which of the
-following best represents Śaṅkara's own primary illustration of adhyāsa?
-**A. Only the rope-snake illusion, with no application to ordinary language.**
-**B. Only the shell-silver illusion, with no application to ordinary language.**
-**C. Only the desert-mirage illusion, with no application to ordinary language.**
-**D. Ordinary self-referring statements such as "I am tall" or "I am happy," which already mix self and not-self, supported by classical illusions as further examples.**
-
-#### Answers and explanations — Lesson 8, Part A
-
-**MCQ 1 → B (2 and 3 only).** Statement 1 is false — adhyāsa is explicitly naisargika (natural) and
-structurally pervasive, not rare or occasional (§3, §5). Statements 2 and 3 are correct (§4, §5).
-
-**MCQ 2 → C.** This is the precise relationship from §6. Options A, B and D all misstate the
-relationship — they are related but distinct (not unrelated, not identical), and both belong to
-Advaita's theory, not split across schools.
-
-**MCQ 3 → D.** As §5 stresses, Śaṅkara's primary case is the everyday linguistic mixing of self and
-not-self; the classical illusions (A, B, C) are supporting, not sole, examples — presenting only one
-classical illusion without the everyday-language case is incomplete.
-
-**Remedial note:** when adhyāsa is asked as a standalone 10-marker, always lead with the everyday
-"I am tall/happy" illustration before moving to rope-snake or shell-silver — this ordering reflects
-Śaṅkara's own textual emphasis and signals a well-prepared answer.
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §14.1–14.6. CA search: "anirvacaniya khyati theory of error Advaita Nyaya Vedanta 2026" CA found: No doctrine-specific current-affairs anchor.*
 
@@ -2799,7 +2712,7 @@ logic, as in Lesson 11 §5) — but it is persuasive largely to a reader who is 
 
 - **PYQ linkage:** 2021 (20 marks) — *"How do the advocates of anirvacanīya-khyāti refute the
   position of the Naiyāyikas and establish the position of Advaitins regarding the problem of
-  error? Critically discuss."* (Fully solved in the consolidated PYQ bank.)
+  error? Critically discuss."* (Linked in the Verified PYQ Linkage section.)
 - **Probable framing:** "Explain and critically examine anirvacanīya-khyāti" (15/20 marks, requires
   both the Nyāya refutation and a critical residual assessment).
 - **Common trap:** presenting anirvacanīya-khyāti as an isolated epistemological curiosity without
@@ -2820,53 +2733,86 @@ logic, as in Lesson 11 §5) — but it is persuasive largely to a reader who is 
 8. Rāmānuja/Madhva's residual objection: the third grade is verbal unless independently pramāṇa-established.
 9. > 🔑 **Mnemonic:** **"Not real enough to survive, not unreal enough to never appear."**
 
-### Practice — Lesson 8, Part B
+### Practice — Lesson 8
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 25: A**
+
+**Question:**
+
+1. Adhyāsa is, by Śaṅkara's own account, a rare and occasional error.
+2. Adhyāsa includes āvaraṇa (concealment) and vikṣepa (projection).
+3. The sentence "I am happy" already presupposes the mixing of self and not-self, on Śaṅkara's diagnosis.
+
+Which of the statements given above is/are correct?
+
+A. 2 and 3 only
+B. 1 and 2 only
+C. None of the statements
+D. 1, 2 and 3
+
+- **A — Correct:** Statements 2 and 3 hold: superimposition involves concealment and projection, and ordinary self-attributions mix consciousness with attributes of the not-self; statement 1 is false.
+- **B — Incorrect:** Statement 2 is true, but statement 1 wrongly calls natural, pervasive superimposition rare, while statement 3's everyday example is omitted.
+- **C — Incorrect:** Denying every statement ignores that adhyāsa includes concealment and projection and that saying I am happy mixes self with not-self.
+- **D — Incorrect:** The complete set fails because statement 1 contradicts Śaṅkara's description of adhyāsa as natural and pervasive, though statements 2 and 3 hold.
+
+**MCQ 26: B**
+
+**Question:** Adhyāsa and anirvacanīya-khyāti are related as:
+
+A. Adhyāsa and anirvacanīya-khyāti are rival Advaita explanations, one psychological and the other linguistic, with no systematic connection.
+B. Adhyāsa explains superimposition; anirvacanīya-khyāti explains its product's ontological status.
+C. Adhyāsa and anirvacanīya-khyāti are interchangeable names for the same act of perceptual misidentification.
+D. Adhyāsa is Nyāya's theory of misplaced properties, whereas anirvacanīya-khyāti alone belongs to Advaita.
+
+- **A — Incorrect:** Advaita coordinates the two accounts: one describes how superimposition occurs, while the other classifies the resulting object's reality.
+- **B — Correct:** Superimposition names the operative projection, while indeterminable-error theory explains why its experienced product is neither fully real nor utterly nonexistent.
+- **C — Incorrect:** Treating them as synonyms erases their different functions: one identifies a cognitive process, the other gives an ontological analysis.
+- **D — Incorrect:** Both concepts are integral to Advaita; Nyāya instead explains error through mislocated cognition under its theory of otherness.
+
+**MCQ 27: C**
+
+**Question:**
+
+Which of the
+following best represents Śaṅkara's own primary illustration of adhyāsa?
+
+A. The rope-snake illusion is primary, while ordinary self-reference provides only a remote secondary analogy.
+B. The shell-silver illusion alone explains superimposition, without relying on ordinary predications about oneself.
+C. Statements such as ‘I am tall’ and ‘I am happy’ display self–not-self mixing, with classical perceptual illusions supplying further examples.
+D. Dreams and desert mirages best establish superimposition, whereas everyday self-description remains philosophically neutral.
+
+- **A — Incorrect:** Rope-snake illustrates error, but ordinary self-predications more directly reveal the pervasive transfer of bodily and mental properties to consciousness.
+- **B — Incorrect:** Shell-silver is supplementary; superimposition is diagnosed most immediately in everyday statements attributing bodily size or mental happiness to the self.
+- **C — Correct:** Ordinary self-reference directly mixes consciousness with bodily or mental predicates, while perceptual illusions reinforce the same structure of superimposition.
+- **D — Incorrect:** Dreams and mirages illustrate error generally, but calling self-description neutral overlooks Śaṅkara's central evidence for habitual self–not-self confusion.
+
+**MCQ 28: D**
+
+**Question:**
+
 1. Sat is defined as trikālābādhita — never sublated across all three times.
 2. Anirvacanīya-khyāti holds that the erroneous object is presented in experience but subsequently sublated.
 3. Nyāya's anyathā-khyāti and Advaita's anirvacanīya-khyāti are the same theory under different names.
 
 Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** Advaita's central objection to Nyāya's anyathā-khyāti is that:
-**A. Nyāya denies that error occurs at all.**
-**B. Sublation of the illusion cancels its apparent objecthood too radically to be explained as recognising the real object's true elsewhere-location.**
-**C. Nyāya's theory does not accept the reality of the shell.**
-**D. Nyāya's theory is identical to Advaita's own theory.**
+A. 3 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 1 and 2 only
 
-**MCQ 3 (remedial — targets treating anirvacanīya-khyāti as merely a minor epistemological point).**
-The deeper significance of anirvacanīya-khyāti in the overall Vedānta syllabus is that:
-**A. It has no connection to any other doctrine in the syllabus.**
-**B. It only matters for Nyāya, not for Advaita's own system.**
-**C. It provides the logical template — genuinely experienced yet ultimately without independent standing — that Advaita applies at cosmic scale to the world's relation to Brahman.**
-**D. It disproves the existence of Brahman.**
-
-#### Answers and explanations — Lesson 8, Part B
-
-**MCQ 1 → A (1 and 2 only).** Statements 1 and 2 are precise definitions from §3 and §7. Statement 3
-is false and is the trap — anyathā-khyāti and anirvacanīya-khyāti are **rival** theories, precisely
-contrasted in §4 and the comparative table.
-
-**MCQ 2 → B.** This is the exact objection worked out in §4. Options A, C and D all misstate either
-Nyāya's or Advaita's position.
-
-**MCQ 3 → C.** This is precisely the "miniature-metaphysics" point of §6. Option A contradicts the
-entire thrust of this lesson. Option B reverses the direction of relevance — it matters centrally
-for Advaita's own system. Option D is simply not the doctrine's function.
-
-**Remedial note:** whenever anirvacanīya-khyāti appears in a 15- or 20-mark question, always
-connect it explicitly to jagat's mithyā-status (Lesson 6) — this connection, not just the error
-theory in isolation, is what a "critically discuss" or "critically examine" directive is testing
-for.
+- **A — Incorrect:** Statement 3 is false because Nyāya explains error as mislocation, unlike Advaita's indeterminable appearance; statements 1 and 2 are also omitted.
+- **B — Incorrect:** Statement 2 is true, but statement 3 conflates rival error theories, while statement 1's definition of reality as unsublatable is omitted.
+- **C — Incorrect:** Statement 1 correctly defines sat, yet statement 3 wrongly identifies anyathā-khyāti with anirvacanīya-khyāti and statement 2 is excluded.
+- **D — Correct:** Statements 1 and 2 hold: reality is never sublated across three times, whereas an erroneous object appears before subsequent sublation; statement 3 is false.
 
 ---
 
-**Progress: 9/14 | Stage: Core | Subtopic: Advaita mokṣa — jñāna, jīvanmukti, videhamukti and prārabdha karma**
+## Lesson 9 — Advaita mokṣa — jñāna, jīvanmukti, videhamukti and prārabdha karma
+
+Progress: 9/14 | Stage: Core | Subtopic: Advaita mokṣa — jñāna, jīvanmukti, videhamukti and prārabdha karma
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §9.1–9.8; cross-checked with
@@ -3062,55 +3008,70 @@ clause of how metaphysics and soteriology are not two separate topics but one co
 7. Comparative insight: non-dual → recognition; qualified non-dual → communion; dualist → service.
 8. > 🔑 **Mnemonic:** **"Recognise, commune, or serve — three verbs for three ontologies."**
 
-## Practice — Lesson 9
+### Practice — Lesson 9
 
-**MCQ 1 (conceptual).**
-1. Advaita holds that jñāna-karma-samuccaya (combined knowledge and action) is the direct means to mokṣa.
-2. Jīvanmukti is liberation while still embodied, sustained by prārabdha karma.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 29: A**
+
+**Question:**
+
+1. Jīvanmukti is liberation while still embodied, sustained by prārabdha karma.
+2. Advaita holds that jñāna-karma-samuccaya (combined knowledge and action) is the direct means to mokṣa.
 3. Viśiṣṭādvaita does not accept jīvanmukti in the strict Advaitic sense.
 
 Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 1 and 3 only**
-**C. 2 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** The key structural difference between Rāmānuja's and Madhva's accounts of
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. None of the statements
+
+- **A — Correct:** Statements 1 and 3 hold: Advaita allows embodied liberation while prārabdha sustains the body, whereas Viśiṣṭādvaita rejects strict jīvanmukti; statement 2 is false.
+- **B — Incorrect:** Statement 1 is true, but statement 2 wrongly makes knowledge joined with action the direct liberating means, and statement 3 is omitted.
+- **C — Incorrect:** The full set fails because Advaita assigns direct liberation to knowledge, not jñāna-karma-samuccaya, although statements 1 and 3 are correct.
+- **D — Incorrect:** Denying all three ignores Advaita's embodied liberation under prārabdha and Viśiṣṭādvaita's rejection of jīvanmukti in that strict sense.
+
+**MCQ 30: B**
+
+**Question:**
+
+The key structural difference between Rāmānuja's and Madhva's accounts of
 mokṣa, per the 2022 PYQ, is best captured as:
-**A. Rāmānuja denies liberation is possible; Madhva affirms it.**
-**B. Both schools accept identical numerical identity between self and God in liberation.**
-**C. Rāmānuja alone accepts devotion as relevant to liberation.**
-**D. Rāmānuja treats the self as an inseparable mode/body of Brahman with essentially equal liberated souls; Madhva treats the self as a distinct dependent substance with permanent gradation (tāratamya) even in liberation.**
 
-**MCQ 3 (remedial — targets underestimating the "with your own comments" directive).** The 2023
+A. Rāmānuja and Madhva both regard liberated selves as independent substances equal in rank, differing only over whether devotion or knowledge directly produces release.
+B. Rāmānuja makes the self Brahman's inseparable mode and equal in liberation; Madhva preserves distinctness and permanent gradation.
+C. Rāmānuja preserves an eternal hierarchy among liberated souls, whereas Madhva treats every liberated self as an equal mode within God's body.
+D. Rāmānuja teaches numerical merger with Brahman, whereas Madhva preserves individuality only until liberation is attained.
+
+- **A — Incorrect:** Rāmānuja does not make selves independent substances, and Madhva does not make liberated souls equal; their disagreement exceeds the means of release.
+- **B — Correct:** Qualified non-dualism retains souls as inseparable modes and essentially equal when liberated, while dualism preserves distinct substances and enduring hierarchy (tāratamya).
+- **C — Incorrect:** The positions are reversed: permanent gradation belongs to Madhva, while Rāmānuja understands equally liberated selves as dependent modes of Brahman.
+- **D — Incorrect:** Neither thinker makes liberation numerical merger; both preserve the soul's individuality, though they explain its dependence upon God differently.
+
+**MCQ 31: C**
+
+**Question:**
+
+The 2023
 PYQ asks candidates to illustrate Śaṅkara's "attainment of what is already attained" claim "with
 your own comments." This directive requires:
-**A. Exposition of the doctrine plus the candidate's own critical/evaluative assessment, not mere restatement.**
-**B. Only a restatement of the standard necklace metaphor, with no further comment.**
-**C. A purely descriptive account with no critical or evaluative content at all.**
-**D. A comparison with Rāmānuja's view only, omitting Śaṅkara's own position.**
 
-### Answers and explanations — Lesson 9
+A. Restate the necklace metaphor and its imagery accurately, without adding an independent judgment on the liberation thesis.
+B. Describe Śaṅkara's liberation thesis and supporting concepts, while avoiding any explicit appraisal of their philosophical adequacy.
+C. Explain Śaṅkara's already-attained liberation thesis, then offer the candidate's own reasoned critical assessment of its coherence and implications.
+D. Compare Rāmānuja's account of liberation with selected Advaita themes, leaving Śaṅkara's thesis largely implicit and unevaluated.
 
-**MCQ 1 → C (2 and 3 only).** Statement 1 is false — Śaṅkara explicitly **rejects**
-jñāna-karma-samuccayavāda; jñāna alone liberates (§2). Statements 2 and 3 are correct (§2, §3).
-
-**MCQ 2 → D.** This is the precise structural point emphasised in §5's "highest-scoring conclusion."
-Options A, B and C all misstate the actual positions of one or both schools.
-
-**MCQ 3 → A.** "With your own comments" is a directive specifically requiring critical/evaluative
-engagement beyond exposition (§ UPSC integration). Option B treats the directive as if it demanded
-nothing beyond the standard illustration. Option C wrongly excludes evaluative content, which is the
-entire point of the directive. Option D wrongly narrows the question away from Śaṅkara's own claim.
-
-**Remedial note:** whenever a PYQ includes phrases like "with your own comments," "critically
-discuss," or "do you agree," always budget explicit space in the answer for a personal, reasoned
-evaluative judgment — a purely expository answer, however accurate, will not earn full marks against
-such a directive.
+- **A — Incorrect:** The metaphor may illustrate liberation, but accurate restatement alone omits the independent evaluation expressly required by the directive.
+- **B — Incorrect:** Doctrinal description supplies necessary exposition, yet avoiding appraisal fails the demand for the candidate's own critical comments.
+- **C — Correct:** A complete response first clarifies liberation as recognition of an always-free self, then evaluates that claim with explicit reasons and qualifications.
+- **D — Incorrect:** Rāmānuja may provide comparative criticism, but the answer must centrally explain and assess Śaṅkara rather than leave his thesis implicit.
 
 ---
 
-**Progress: 10/14 | Stage: Advanced | Subtopic: Rāmānuja — aprthaksiddhi and the body–soul model**
+## Lesson 10 — Rāmānuja — aprthaksiddhi and the body–soul model
+
+Progress: 10/14 | Stage: Advanced | Subtopic: Rāmānuja — aprthaksiddhi and the body–soul model
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §10.1–10.6; cross-checked with the 2024 PYQ
@@ -3245,7 +3206,7 @@ is a carefully-managed halfway house rather than a fully independent third optio
 ## UPSC integration
 
 - **PYQ linkage:** 2024 (10 marks) — the God-world/self-body parallel, "critically discuss" (fully
-  solved in the consolidated PYQ bank); this lesson also supports any comparative Brahman/world/self
+  linked in the Verified PYQ Linkage section); this lesson also supports any comparative Brahman/world/self
   question requiring the full three-school formula (§6).
 - **Probable framing:** "Explain apṛthaksiddhi" (10 marks); "'The relationship between God and world
   is parallel to self and body.' Critically discuss" (exact 2024 wording, requires the strain-point
@@ -3267,53 +3228,69 @@ is a carefully-managed halfway house rather than a fully independent third optio
 7. Comparative formula: Advaita = identity without plurality; Viśiṣṭādvaita = inseparable plurality within unity; Dvaita = eternal plurality with dependence.
 8. > 🔑 **Mnemonic:** **"Two things, one whole, never apart — but never the same."**
 
-## Practice — Lesson 10
+### Practice — Lesson 10
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 32: D**
+
+**Question:**
+
 1. Apṛthaksiddhi means cit and acit are numerically identical with Brahman.
 2. An aprthaksiddha-viśeṣaṇa cannot stand apart from the substance it qualifies.
 3. In the śarīra-śarīrī-bhāva model, jīva and jagat are entirely supported and controlled by Brahman.
 
 Which of the statements given above is/are correct?
-**A. 2 and 3 only**
-**B. 1 and 2 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** The 2024 PYQ's "critically discuss" directive on the self-body/God-world
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 2 and 3 only
+
+- **A — Incorrect:** Statement 3 is true, but statement 1 collapses inseparable qualification into numerical identity, while statement 2's dependence principle is omitted.
+- **B — Incorrect:** Statement 2 correctly denies independent existence to the qualifier, yet statement 1 falsely erases real distinctions and statement 3 is excluded.
+- **C — Incorrect:** Statement 1 alone is false: cit and acit remain genuinely distinct, while statements 2 and 3 correctly express inseparability, support, and control.
+- **D — Correct:** Statements 2 and 3 hold: inseparable qualifiers cannot stand apart, and Brahman supports and controls selves and world; numerical identity in statement 1 is false.
+
+**MCQ 33: A**
+
+**Question:**
+
+The 2024 PYQ's "critically discuss" directive on the self-body/God-world
 parallel is best answered by:
-**A. Praising the analogy without qualification.**
-**B. Explaining the analogy's strength (bodies cannot exist apart from their souls) and its strain-point (ordinary souls are limited by their bodies, while Brahman is not).**
-**C. Rejecting the analogy outright as having no explanatory value.**
-**D. Restating the analogy without reference to apṛthaksiddhi at all.**
 
-**MCQ 3 (remedial — targets the "aprthaksiddhi = identity" error).** Which of the following
+A. It shows inseparable dependence but fails where embodied souls are limited and Brahman is not.
+B. It succeeds completely because the world depends on Brahman exactly as a body depends on its soul, without relevant disanalogy.
+C. It fails completely because body and soul are separable substances, so it cannot illuminate inseparability or ontological dependence.
+D. It should merely restate body–soul dependence, since critical evaluation of Brahman's unlimited nature is unnecessary.
+
+- **A — Correct:** The analogy clarifies inseparable dependence, yet its ordinary model strains because embodied souls are conditioned by bodies while Brahman remains unlimited.
+- **B — Incorrect:** Unqualified endorsement suppresses a crucial disanalogy: finite souls are affected by embodiment, but Brahman is not constrained by the dependent world.
+- **C — Incorrect:** Complete rejection loses the analogy's genuine force in explaining the world's inseparable dependence on Brahman despite their real distinction.
+- **D — Incorrect:** Critical assessment must identify both explanatory value and limitation; bare restatement does not evaluate how the analogy applies to unlimited Brahman.
+
+**MCQ 34: B**
+
+**Question:**
+
+Which of the following
 correctly distinguishes apṛthaksiddhi from identity?
-**A. Apṛthaksiddhi means cit and acit are exactly the same as Brahman, with no distinction whatsoever.**
-**B. Apṛthaksiddhi applies only to Dvaita, not to Viśiṣṭādvaita.**
-**C. Apṛthaksiddhi describes an inseparable relation between really distinct terms — not the collapse of that distinction into sameness.**
-**D. Apṛthaksiddhi denies that cit and acit are real at all.**
 
-### Answers and explanations — Lesson 10
+A. Inseparable relation (apṛthaksiddhi) makes consciousness and matter numerically identical with Brahman, leaving no real distinctions.
+B. Inseparable relation (apṛthaksiddhi) joins genuinely distinct realities whose dependence prevents separate existence without reducing them to identity.
+C. Inseparable relation (apṛthaksiddhi) links distinct realities that can nevertheless exist independently once their association ends.
+D. Inseparable relation (apṛthaksiddhi) treats consciousness and matter as unreal appearances provisionally attributed to Brahman.
 
-**MCQ 1 → A (2 and 3 only).** Statement 1 is false and is the central trap of this lesson — cit/acit
-are inseparable from, but **not identical with**, Brahman (§5). Statements 2 and 3 are correct
-(§2, §3).
-
-**MCQ 2 → B.** This is exactly the balanced critical treatment demanded in §3 and reinforced in the
-UPSC integration section. Options A, C and D all fail to provide the required critical engagement.
-
-**MCQ 3 → C.** This is the precise distinction from §5. Option A is the trap. Option B misattributes
-the doctrine to the wrong school. Option D contradicts apṛthaksiddhi's whole point, which is to
-affirm cit/acit as real.
-
-**Remedial note:** whenever "apṛthaksiddhi" appears in an MCQ stem, immediately check whether the
-option describes identity or inseparable-but-distinct relation — this single check resolves nearly
-every apṛthaksiddhi-related trap question.
+- **A — Incorrect:** Rāmānuja preserves real distinctions among Brahman, consciousness, and matter; inseparability does not convert dependent modes into numerical identity.
+- **B — Correct:** The doctrine preserves distinct relata while denying their independent existence, allowing consciousness and matter to qualify Brahman without collapsing into sameness.
+- **C — Incorrect:** Independent separability contradicts the doctrine, which makes the dependent terms incapable of existing or being understood apart from Brahman.
+- **D — Incorrect:** Consciousness and matter are real qualifications of Brahman in qualified non-dualism, not illusory projections awaiting complete sublation.
 
 ---
 
-**Progress: 11/14 | Stage: Advanced | Subtopic: Critique of māyāvāda — Rāmānuja's seven objections**
+## Lesson 11 — Critique of māyāvāda — Rāmānuja's seven objections
+
+Progress: 11/14 | Stage: Advanced | Subtopic: Critique of māyāvāda — Rāmānuja's seven objections
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §6.5–6.7; this is the single most PYQ-critical
@@ -3507,7 +3484,7 @@ question-begging. A critic who grants it will find Advaita's system remarkably s
 ## UPSC integration
 
 - **PYQ linkage:** 2025 (10 marks) — *"Examine Rāmānuja's seven objections against Māyāvāda of
-  Advaita"* (fully solved in the consolidated PYQ bank); this lesson's content also supports any
+  Advaita"* (linked in the Verified PYQ Linkage section); this lesson's content also supports any
   question on the locus of avidyā, the coherence of anirvacanīya-khyāti (Lesson 8 (Part B)), or Rāmānuja's
   general critique of Advaita (Lesson 2, Lesson 3 and Lesson 5 (Part A)).
 - **Probable framing:** "Examine/discuss Rāmānuja's seven objections" (10/15 marks — for 10 marks,
@@ -3532,65 +3509,84 @@ question-begging. A critic who grants it will find Advaita's system remarkably s
 10. Graded final verdict: Advaita is self-consistent *given* sublation as a criterion; the whole system is contestable at exactly that starting point.
 11. > 🔑 **Mnemonic:** **"Locus, Cover, Nature, Neither, Proof, Remover, Gone — seven doors Rāmānuja knocks on."**
 
-## Practice — Lesson 11
+### Practice — Lesson 11
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 35: C**
+
+**Question:**
+
 1. The seven objections are collectively called sapta-anupapatti.
 2. The āśraya objection concerns the untenable locus of avidyā.
 3. The nivṛtti objection concerns the untenable means of knowing avidyā.
 
 Which of the statements given above is/are correct?
-**A. 1 and 3 only**
-**B. 2 and 3 only**
-**C. 1 and 2 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** Which Advaita sub-school locates avidyā in Brahman itself as an unmodified
+A. 1, 2 and 3
+B. 1 and 3 only
+C. 1 and 2 only
+D. None of the statements
+
+- **A — Incorrect:** Statement 3 makes the complete set wrong: nivṛtti concerns cessation of avidyā, whereas its means of cognition belongs to pramāṇa-anupapatti.
+- **B — Incorrect:** Statement 1 is true, but statement 3 misdefines the cessation objection, while statement 2's genuine locus problem is omitted.
+- **C — Correct:** Statements 1 and 2 hold: sapta-anupapatti names the seven objections, and āśraya-anupapatti challenges avidyā's coherent locus; statement 3 is false.
+- **D — Incorrect:** Denying every statement ignores both the collective sevenfold name and the locus objection; only statement 3's account of nivṛtti is false.
+
+**MCQ 36: D**
+
+**Question:**
+
+Which Advaita sub-school locates avidyā in Brahman itself as an unmodified
 locus, and which locates it in the jīva via a beginningless relation?
-**A. Bhāmatī locates it in Brahman; Vivaraṇa locates it in the jīva.**
-**B. Both schools locate it identically in the jīva.**
-**C. Both schools locate it identically in Brahman.**
-**D. Vivaraṇa locates it in Brahman; Bhāmatī locates it in the jīva.**
 
-**MCQ 3 (applied — targets the analogy used for the tirodhāna objection).** The cloud-and-sun
+A. Bhāmatī places ignorance in Brahman, while Vivaraṇa places it in the individual self through a beginningless relation.
+B. Both traditions place ignorance in the individual self, differing only about whether its effects are mental or cosmic.
+C. Both traditions place ignorance in Brahman, with no disagreement over its locus.
+D. Vivaraṇa places beginningless ignorance in Brahman; Bhāmatī places its locus in the individual self.
+
+- **A — Incorrect:** The attributions are reversed: Vivaraṇa chooses Brahman as the unmodified locus, whereas Bhāmatī connects ignorance beginninglessly with the individual self.
+- **B — Incorrect:** Bhāmatī locates ignorance in the individual self, but Vivaraṇa's Brahman-locus position prevents agreement between the traditions.
+- **C — Incorrect:** Only Vivaraṇa places ignorance in Brahman; Bhāmatī assigns its locus to the individual self through a beginningless association.
+- **D — Correct:** Vivaraṇa makes Brahman the unmodified locus of ignorance, while Bhāmatī locates it in the individual self through a beginningless relation.
+
+**MCQ 37: A**
+
+**Question:**
+
+The cloud-and-sun
 analogy is used by Advaita to reply to which objection?
-**A. Tirodhāna-anupapatti (untenable concealment).**
-**B. Pramāṇa-anupapatti (no means of knowing avidyā).**
-**C. Nivartaka-anupapatti (untenable remover).**
-**D. Svarūpa-anupapatti (untenable nature).**
 
-**MCQ 4 (remedial — targets giving an incomplete list of objections).** A candidate's answer names
+A. Tirodhāna-anupapatti — objection concerning ignorance's concealment of self-luminous Brahman
+B. Pramāṇa-anupapatti — objection concerning the means of knowing beginningless ignorance
+C. Nivartaka-anupapatti — objection concerning what can remove beginningless ignorance
+D. Svarūpa-anupapatti — objection concerning ignorance's indeterminable ontological nature
+
+- **A — Correct:** Clouds obscuring the sun illustrate how ignorance conceals Brahman's manifestation without altering the self-luminous reality supposedly concealed.
+- **B — Incorrect:** The epistemic objection asks how ignorance is known and is answered through postulation and witness-consciousness, not the cloud analogy.
+- **C — Incorrect:** The remover objection concerns how knowledge eliminates ignorance and invokes the indivisible-consciousness mental modification rather than solar obscuration.
+- **D — Incorrect:** The nature objection tests whether ignorance is real, unreal, or indeterminable; clouds instead address apparent concealment of luminosity.
+
+**MCQ 38: B**
+
+**Question:**
+
+A candidate's answer names
 only āśraya and pramāṇa as "Rāmānuja's objections against māyāvāda." This answer is:
-**A. Complete, since these are the only two objections that matter philosophically.**
-**B. Incomplete — the verified demand is for all seven objections, though āśraya and pramāṇa are indeed the two with the greatest residual force.**
-**C. Incorrect, since āśraya and pramāṇa are not among Rāmānuja's objections at all.**
-**D. Complete, since Rāmānuja raised only two objections in total.**
 
-### Answers and explanations — Lesson 11
+A. Complete, because identifying the two objections with greatest residual force satisfies a demand to examine Rāmānuja's entire sevenfold critique.
+B. Incomplete: locus and cognition are strongest, but the answer must cover all seven objections.
+C. Incorrect, because the objections concerning locus and cognition belong to Madhva's critique and never appear in Rāmānuja's sevenfold argument.
+D. Complete, because Rāmānuja ultimately reduces his seven objections to the two issues of locus and cognition after rejecting the other five.
 
-**MCQ 1 → C (1 and 2 only).** Statements 1 and 2 are directly from §1 and §3.1. Statement 3 is
-false — nivṛtti concerns the untenable **cessation** of avidyā (§3.7), not the means of knowing it
-(that is the separate pramāṇa objection, §3.5) — a classic name-confusion trap between two of the
-seven.
+- **A — Incorrect:** Relative philosophical strength cannot substitute for coverage when the demand expressly requires Rāmānuja's complete set of seven objections.
+- **B — Correct:** Locus (āśraya) and cognition (pramāṇa) retain special force, yet identifying them alone does not fulfill a demand for all seven objections.
+- **C — Incorrect:** Locus and cognition are genuine parts of Rāmānuja's sevenfold criticism of appearance, so assigning them exclusively to Madhva is inaccurate.
+- **D — Incorrect:** Rāmānuja does not withdraw five objections and preserve only two; comparative strength must not be confused with final enumeration.
 
-**MCQ 2 → D.** This is the precise attribution in §3.1. Options A, B and C all misstate which
-sub-school takes which position.
+## Lesson 12 — Madhva — pañcavidhabheda, dependence and tāratamya
 
-**MCQ 3 → A.** The cloud-and-sun image is specifically Advaita's reply to the concealment objection
-(§3.2) — it is not used for pramāṇa (B), nivartaka (C), or svarūpa (D), each of which has its own
-distinct reply mechanism (arthāpatti/sākṣi-pratyakṣa; akhaṇḍākāra-vṛtti; the sat/asat/anirvacanīya
-trichotomy, respectively).
-
-**MCQ 4 → B.** This is exactly the trap flagged in the UPSC integration section above: the two most
-*philosophically dangerous* objections are indeed āśraya and pramāṇa, but the verified 2025 question
-explicitly demands all seven, so a two-objection answer is incomplete regardless of how well those
-two are explained.
-
-**Remedial note:** always count your objections before submitting an answer to this exact PYQ —
-"seven" is not a rhetorical flourish in the question, it is a literal, checkable completeness
-requirement.
-
-**Progress: 12/14 | Stage: Advanced | Subtopic: Madhva — pañcavidhabheda, dependence and tāratamya**
+Progress: 12/14 | Stage: Advanced | Subtopic: Madhva — pañcavidhabheda, dependence and tāratamya
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §11.1–11.5; cross-checked with the verified
@@ -3717,53 +3713,67 @@ critique would press, and it is fair to note this as a genuine, not merely rheto
 7. Ethical criticism: permanent gradation/exclusion from liberation sits in tension with universal grace — a genuine, not merely rhetorical, difficulty.
 8. > 🔑 **Mnemonic:** **"Soul-God, soul-soul, soul-matter, God-matter, matter-matter — five doors, none of them illusion."**
 
-## Practice — Lesson 12
+### Practice — Lesson 12
 
-**MCQ 1 (conceptual).**
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 39: C**
+
+**Question:**
+
 1. Pañcavidhabheda includes the difference between soul and God.
-2. Pañcavidhabheda includes the difference between one soul and another soul.
-3. Pañcavidhabheda is limited to the single difference between God and the material world.
+2. Pañcavidhabheda is limited to the single difference between God and the material world.
+3. Pañcavidhabheda includes the difference between one soul and another soul.
 
 Which of the statements given above is/are correct?
-**A. 1 and 3 only**
-**B. 2 and 3 only**
-**C. 1, 2 and 3**
-**D. 1 and 2 only**
 
-**MCQ 2 (applied).** Why does Madhva insist on jīva-jīva-bheda (difference among souls) as a
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 3 only
+
+- **A — Incorrect:** Statement 1 is true, but statement 2 falsely reduces fivefold difference to God–matter alone, and statement 3 is omitted.
+- **B — Incorrect:** Statement 3 correctly includes soul–soul difference, yet statement 2 denies the scheme's other four differences and statement 1 is excluded.
+- **C — Correct:** Statements 1 and 3 hold: pañcavidhabheda includes both soul–God and soul–soul difference; statement 2's one-category restriction is false.
+- **D — Incorrect:** Soul–soul difference makes statement 3 true, but statement 1's equally genuine soul–God difference is wrongly omitted.
+
+**MCQ 40: D**
+
+**Question:**
+
+Why does Madhva insist on jīva-jīva-bheda (difference among souls) as a
 separate, necessary category?
-**A. Because without it, all souls could collapse into one universal self, reintroducing a hidden unity at the level of selfhood.**
-**B. Because it has no independent philosophical purpose beyond decoration.**
-**C. Because it is identical in function to jaḍa-jaḍa-bheda.**
-**D. Because Rāmānuja also accepts this exact category.**
 
-**MCQ 3 (remedial — targets listing only 2–3 of the five differences).** A candidate's answer on
+A. It merely repeats God–soul difference and adds no distinct safeguard for plurality among individual selves.
+B. It performs the same function as matter–matter difference, since souls and material objects possess identical status.
+C. It is included only because qualified non-dualism already accepts an equivalent distinction among liberated selves.
+D. It prevents many souls from collapsing into one universal self, thereby preserving irreducible personal plurality within Madhva's realism.
+
+- **A — Incorrect:** God–soul difference distinguishes creator from self, whereas soul–soul difference separately secures plurality among individual selves.
+- **B — Incorrect:** Soul–soul difference concerns conscious persons; matter–matter difference concerns insentient entities, so their objects and philosophical roles diverge.
+- **C — Incorrect:** Madhva's anti-monistic pluralism makes the distinction necessary; its force does not depend on borrowing an equivalent from Rāmānuja.
+- **D — Correct:** Irreducible difference between souls blocks their absorption into a universal self and preserves numerical plurality even under complete dependence on God.
+
+**MCQ 41: A**
+
+**Question:**
+
+A candidate's answer on
 pañcavidhabheda names only jīva-Īśvara-bheda and Īśvara-jaḍa-bheda. This answer is:
-**A. Complete, since these are the only two differences that matter for UPSC.**
-**B. Incomplete — three further differences (jīva-jīva, jīva-jaḍa, jaḍa-jaḍa) are required for full marks.**
-**C. Incorrect, since Madhva does not recognise any difference between God and matter.**
-**D. Complete, since the other three differences belong to a different school.**
 
-### Answers and explanations — Lesson 12
+A. Incomplete: soul–soul, soul–matter, and matter–matter differences must also be stated for full coverage.
+B. Complete, because only God–soul and God–matter differences define Madhva's fivefold difference in an examination answer.
+C. Incorrect throughout, because Madhva denies God–matter difference and recognizes only distinctions among finite souls and matter.
+D. Complete: the remaining distinctions belong to Viśiṣṭādvaita rather than Madhva's own system.
 
-**MCQ 1 → D (1 and 2 only).** Statements 1 and 2 correctly name two of the five differences (§3).
-Statement 3 is false and is the central trap of this lesson — pañcavidhabheda has **five**
-differences, not one (§3's warning).
+- **A — Correct:** Madhva's scheme also includes differences between souls, between soul and matter, and among material entities, yielding five irreducible distinctions.
+- **B — Incorrect:** God–soul and God–matter are only two members of fivefold difference; omitting the remaining three leaves the account incomplete.
+- **C — Incorrect:** God–matter difference is expressly recognized by Madhva, so the response lacks categories rather than being wholly mistaken about that relation.
+- **D — Incorrect:** All five differences belong within Dvaita; transferring three of them to qualified non-dualism fragments Madhva's unified pluralist doctrine.
 
-**MCQ 2 → A.** This is the precise rationale given in §3's table. Options B, C and D all misstate or
-trivialise the specific function of this difference.
+## Lesson 13 — The wider Vedānta — Nimbārka, Vallabha and the Caitanya tradition
 
-**MCQ 3 → B.** As §3 explicitly warns, all five differences are examinable, with jīva-jīva and
-jaḍa-jaḍa most often omitted by under-prepared answers — naming only two is incomplete, not simply
-sufficient (so A is wrong) and not wrong in substance (so C is too strong), and all five belong to
-the same school, Dvaita (so D is false).
-
-**Remedial note:** memorise pañcavidhabheda as a five-item list with the Sanskrit names in a fixed
-order (jīva-Īśvara, jīva-jīva, jīva-jaḍa, Īśvara-jaḍa, jaḍa-jaḍa) — reciting it as a fixed sequence
-is the single most reliable defence against accidentally dropping one or two differences under exam
-pressure.
-
-**Progress: 13/14 | Stage: Advanced | Subtopic: The wider Vedānta — Nimbārka, Vallabha and the Caitanya tradition**
+Progress: 13/14 | Stage: Advanced | Subtopic: The wider Vedānta — Nimbārka, Vallabha and the Caitanya tradition
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §9A.1–9A.5; cross-checked with
@@ -3929,53 +3939,67 @@ question — record it as contested rather than settled in a critical answer.
 6. Common ground across all wider-Vedānta schools: theistic devotion and grace; decisive difference: exact metaphysical relation of soul/matter to Brahman.
 7. > 🔑 **Mnemonic:** **"Real and unchanged (Vallabha); real and inconceivable (Caitanya); real and dependent (Nimbārka)."**
 
-## Practice — Lesson 13
+### Practice — Lesson 13
 
-**MCQ 1 (conceptual).**
-1. Vallabha's avikṛta-pariṇāma means the effect is real while Brahman remains unchanged.
-2. The 2018 PYQ on mokṣa required comparison across only three schools: Advaita, Viśiṣṭādvaita and Dvaita.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 42: B**
+
+**Question:**
+
+1. The 2018 PYQ on mokṣa required comparison across only three schools: Advaita, Viśiṣṭādvaita and Dvaita.
+2. Vallabha's avikṛta-pariṇāma means the effect is real while Brahman remains unchanged.
 3. Nimbārka classifies acit into prākṛta, aprākṛta and kāla.
 
 Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 1 and 3 only**
-**C. 2 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** The verified 2026 PYQ on Nimbārka uses the directive "Do you agree... Justify
+A. None of the statements
+B. 2 and 3 only
+C. 1, 2 and 3
+D. 1 and 2 only
+
+- **A — Incorrect:** Denying every statement ignores Vallabha's real effect without Brahman changing and Nimbārka's threefold classification of acit in statements 2 and 3.
+- **B — Correct:** Statements 2 and 3 hold: Vallabha preserves unchanged Brahman despite a real effect, and Nimbārka divides acit into prākṛta, aprākṛta, and kāla.
+- **C — Incorrect:** The complete set fails because statement 1 understates the cited PYQ's four-school comparison, though statements 2 and 3 are correct.
+- **D — Incorrect:** Statement 2 is true, but statement 1 wrongly limits the PYQ to three schools and statement 3's valid acit classification is omitted.
+
+**MCQ 43: C**
+
+**Question:**
+
+The verified 2026 PYQ on Nimbārka uses the directive "Do you agree... Justify
 your answer." This requires:
-**A. A neutral list of Nimbārka's doctrines with no personal position.**
-**B. A comparison with Advaita only.**
-**C. A reasoned, qualified position on Nimbārka's view of God, souls and matter, with justification — not mere exposition.**
-**D. A rejection of Nimbārka's view without any supporting reasons.**
 
-**MCQ 3 (remedial — targets treating "acintya" as license for contradiction).** In Acintyabhedābheda,
+A. A neutral exposition of Nimbārka's doctrines that avoids taking any position on their philosophical adequacy.
+B. A comparison between Nimbārka and Advaita that leaves the writer's agreement or disagreement unstated.
+C. A reasoned and qualified position on Nimbārka's relation among God, souls, and matter, supported by explicit philosophical justification.
+D. An unqualified rejection of Nimbārka's account of God, souls, and matter without reasons or counterarguments.
+
+- **A — Incorrect:** Neutral exposition omits the evaluative demand, which requires the writer to adopt and defend a position on Nimbārka's relational metaphysics.
+- **B — Incorrect:** Comparison can support evaluation, but comparison alone neither states agreement nor justifies a verdict about God, souls, and matter.
+- **C — Correct:** A qualified verdict directly answers the evaluative directive, while explicit reasons demonstrate understanding of Nimbārka's account of the three realities.
+- **D — Incorrect:** Bare rejection supplies neither analysis nor justification, leaving the demanded assessment of Nimbārka's metaphysical relations unsupported.
+
+**MCQ 44: D**
+
+**Question:**
+
+In Acintyabhedābheda,
 "acintya" (inconceivable) means:
-**A. The doctrine permits outright logical contradiction without any explanatory constraint.**
-**B. The doctrine is entirely mystical and offers no philosophical content at all.**
-**C. Kṛṣṇa's nature cannot be described in any positive terms whatsoever.**
-**D. Finite reasoning cannot reduce the difference-and-non-difference relation to identity alone or difference alone, but the relation is still grounded in the specific structure of dependence, not asserted as arbitrary contradiction.**
 
-### Answers and explanations — Lesson 13
+A. The doctrine permits genuine logical contradictions whenever devotional scripture affirms both unity and plurality, without requiring any account of dependence.
+B. The doctrine is exclusively mystical, rejects philosophical analysis, and treats every relation between Kṛṣṇa and dependent beings as wholly unintelligible.
+C. The doctrine places Kṛṣṇa beyond every positive predicate, so neither divine qualities nor the dependence of souls and matter can be meaningfully affirmed.
+D. Finite reason cannot reduce dependent difference-and-non-difference to either pole, though the relation remains structured.
 
-**MCQ 1 → B (1 and 3 only).** Statement 1 is correct (§2). Statement 2 is false and is the trap —
-the 2018 question required **four** schools, including Śuddhādvaita and Acintyabhedābheda (§4).
-Statement 3 is correct (§5).
+- **A — Incorrect:** Inconceivability does not authorize contradiction; dependence supplies a definite relation whose unity and difference resist reduction to either pole.
+- **B — Incorrect:** The doctrine offers philosophical content by specifying dependent relation, even while denying that finite reason can exhaustively comprehend it.
+- **C — Incorrect:** Kṛṣṇa retains affirmable qualities, and souls and matter remain dependent; inconceivability qualifies their relation rather than eliminating positive predication.
+- **D — Correct:** Inconceivable difference-and-non-difference marks finite reason's inability to collapse a structured dependent relation into pure identity or pure separation.
 
-**MCQ 2 → C.** This is the precise directive-decoder application from §5. Options A, B and D all
-misdescribe what a "do you agree... justify" directive requires.
+## Lesson 14 — Final synthesis — “tat tvam asi”, inter-school debates and solved PYQs
 
-**MCQ 3 → D.** This is the precise, careful sense of "acintya" from §3 and the Criticism-and-reply
-section. Option A is the trap this lesson explicitly warns against. Options B and C overstate the
-doctrine's mysticism at the cost of its genuine philosophical content.
-
-**Remedial note:** whenever "inconceivable," "indescribable," or "indefinable" appears as a
-technical term anywhere in this syllabus clause (māyā's anirvacanīya, Caitanya's acintya), always
-check whether the term is doing precise philosophical work (marking a specific, arguable ontological
-status) or is being misread as a blank licence to avoid explanation — the schools themselves always
-intend the former.
-
-**Progress: 14/14 | Stage: Advanced | Subtopic: Final synthesis — “tat tvam asi”, inter-school debates and solved PYQs**
+Progress: 14/14 | Stage: Advanced | Subtopic: Final synthesis — “tat tvam asi”, inter-school debates and solved PYQs
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 📚 **Book context:** Queried — canonical Vedānta file §13.1–13.5, and §1A.4 for the shared semantic
@@ -4102,7 +4126,7 @@ precisely where the three-school dispute becomes, at bottom, irreducible.
 ### UPSC integration
 
 - **PYQ linkage:** 2023 (10 marks) — exact Advaitin interpretation of tat tvam asi (fully solved in
-  the consolidated PYQ bank); connects directly to the 2022 mahāvākya-summary question (Lesson 5 (Part A)).
+  the Verified PYQ Linkage section); connects directly to the 2022 mahāvākya-summary question (Lesson 5 (Part A)).
 - **Probable framing:** "Explain the Advaitin interpretation of 'tat tvam asi'" (10 marks); as part
   of a larger comparative question on mahāvākya-interpretation across schools (15 marks).
 - **Common trap:** stating "tat tvam asi means the self is Brahman" without explaining the
@@ -4120,50 +4144,6 @@ precisely where the three-school dispute becomes, at bottom, irreducible.
 5. "Brahma satyam jaganmithyā..." is a traditional summary line, not one of the four standard mahāvākyas — do not conflate them.
 6. The four standard mahāvākyas: tat tvam asi, ahaṃ brahmāsmi, prajñānaṃ brahma, ayam ātmā brahma.
 7. > 🔑 **Mnemonic:** **"Drop the crown and the chains — keep only the light."**
-
-### Practice — Lesson 14, Part A
-
-**MCQ 1 (conceptual).**
-1. The direct meaning (vācyārtha) of "tat" is omniscient Īśvara associated with māyā.
-2. Bhāga-tyāga-lakṣaṇā retains the conflicting portions of both direct meanings.
-3. "Brahma satyam jaganmithyā, jīvo brahmaiva nāparaḥ" is one of the four standard Upaniṣadic mahāvākyas.
-
-Which of the statements given above is/are correct?
-**A. 2 and 3 only**
-**B. 1 and 3 only**
-**C. 1 and 2 only**
-**D. 1 only**
-
-**MCQ 2 (applied).** The Devadatta illustration ("so'yaṃ devadattaḥ") is used by Advaita to show:
-**A. That accidental temporal/spatial differences can be dropped while an underlying identical referent is retained — the same mechanism used for "tat tvam asi."**
-**B. That no two cognitions can ever refer to the same person.**
-**C. That Devadatta is identical with Brahman in a literal, empirical sense.**
-**D. That Nyāya's anyathā-khyāti is the correct theory of error.**
-
-**MCQ 3 (remedial — targets assuming all Vedānta schools read "tat tvam asi" as identity).** Which
-statement correctly represents the inter-school position on "tat tvam asi"?
-**A. All three major Vedānta schools read it as teaching absolute identity of essence.**
-**B. Advaita reads it as identity of essence; Viśiṣṭādvaita and Dvaita read it as teaching dependence or relation, not identity.**
-**C. Only Dvaita reads it as identity; Advaita and Viśiṣṭādvaita reject identity.**
-**D. The sentence is not discussed by any school other than Advaita.**
-
-#### Answers and explanations — Lesson 14, Part A
-
-**MCQ 1 → D (1 only).** Statement 1 is correct (§3). Statement 2 is false — the method **abandons**
-the conflicting portions and **retains** only the shared portion (§4) — this is the exact reverse of
-statement 2's claim. Statement 3 is false (§7) — this is a traditional summary line, not a standard
-mahāvākya.
-
-**MCQ 2 → A.** This is exactly the parallel drawn in §5. Options B, C and D all misstate the purpose
-and content of the illustration.
-
-**MCQ 3 → B.** This is the precise comparative position from §6. Option A is false — Viśiṣṭādvaita
-and Dvaita both explicitly reject the identity-reading. Option C reverses the actual positions.
-Option D is false — Lesson 14 (Part A)'s own §6 shows the sentence is a genuine cross-school battleground.
-
-**Remedial note:** whenever an MCQ says "all three schools agree" on a specific mahāvākya-reading,
-treat this as a near-automatic red flag — the interpretation of mahāvākyas is one of the sharpest,
-most consistently contested fault-lines in the entire syllabus clause.
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §12.1–12.6; cross-checked with the [Sāṃkhya live session](../05-Samkhya/Learning-Session-Live-Edition.md) for the rival causal doctrine. CA search: "Sankara Samkhya causation debate pradhana malla Advaita philosophy 2026" CA found: No doctrine-specific current-affairs anchor.*
 
@@ -4314,51 +4294,6 @@ sufficiently structured mechanism.
 7. Sāṃkhya's considered reply: guṇa-mechanics can explain order without an external conscious designer — a genuinely contested point.
 8. > 🔑 **Mnemonic:** **"Conscious, purposive, single, and one — Brahman beats an unconscious pair."**
 
-### Practice — Lesson 14, Part B
-
-**MCQ 1 (conceptual).**
-1. Sāṃkhya and Advaita broadly share a commitment to satkāryavāda.
-2. Śaṅkara argues that an unconscious pradhāna cannot satisfy scriptural descriptions of the world-cause.
-3. Sāṃkhya posits one single ultimate principle, exactly as Advaita does.
-
-Which of the statements given above is/are correct?
-**A. 2 and 3 only**
-**B. 1 and 3 only**
-**C. 1 and 2 only**
-**D. 1, 2 and 3**
-
-**MCQ 2 (applied).** Why is Sāṃkhya called Śaṅkara's "chief wrestler" (pradhāna-malla) rather than
-just one rival among many?
-**A. Because Sāṃkhya and Advaita share almost no common ground, making the debate trivial.**
-**B. Because Sāṃkhya is geographically closer to Advaita's origin.**
-**C. Because Sāṃkhya is the only school Śaṅkara ever criticised.**
-**D. Because Sāṃkhya shares significant explanatory ground (satkāryavāda, single-principle causation) with Advaita, making it the closest and most serious rival.**
-
-**MCQ 3 (remedial — targets treating Śaṅkara's critique as dismissing a weak opponent).** The
-"pradhāna-malla" framing should be understood as implying:
-**A. Sāṃkhya is Advaita's strongest rival, and Śaṅkara's arguments must therefore be engaged as addressing a serious, not a strawman, opponent.**
-**B. Sāṃkhya offers no reply to Śaṅkara's arguments at all.**
-**C. Sāṃkhya and Advaita are, upon examination, actually identical systems.**
-**D. Sāṃkhya is a weak, easily dismissed rival with no serious philosophical resources.**
-
-#### Answers and explanations — Lesson 14, Part B
-
-**MCQ 1 → C (1 and 2 only).** Statements 1 and 2 are correct (§2, §3 Argument 1). Statement 3 is
-false — Sāṃkhya posits **two** ultimate principles (puruṣa and prakṛti), not one; this dual
-ontology is exactly what Argument 4 (§3) targets.
-
-**MCQ 2 → D.** This is the precise rationale from §1 and §2. Options A, B and C all misstate or
-trivialise the actual reason for the "chief wrestler" designation.
-
-**MCQ 3 → A.** This is the exact point stressed in §5's UPSC integration trap-warning. Option D is
-the trap. Option B is false — §5's Criticism-and-reply section explicitly gives Sāṃkhya's
-guṇa-mechanics reply. Option C is false — the whole debate presupposes real, decisive disagreement.
-
-**Remedial note:** whenever you see "chief rival" or "closest opponent" language in any philosophy
-answer (Indian or Western), remember this lesson's general principle: closeness of agreement, not
-distance of disagreement, is usually what makes a philosophical rivalry serious and worth extended
-argument.
-
 ---
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §15.1–15.8. CA search: "Advaita metaphysical absolutism logical consequences ethics devotion philosophy 2026" CA found: No doctrine-specific current-affairs anchor.*
@@ -4485,7 +4420,7 @@ plurality together.
 ### UPSC integration
 
 - **PYQ linkage:** 2019 (20 marks) — exact demand for the logical consequences of Advaita's
-  metaphysical absolutism (fully solved in the consolidated PYQ bank); this lesson also functions as
+  metaphysical absolutism (linked in the Verified PYQ Linkage section); this lesson also functions as
   the natural concluding synthesis for any critical evaluation of Advaita across Lessons 1–14.
 - **Probable framing:** "Explain the logical consequences of Advaita's metaphysical absolutism" (20
   marks, exact 2019 wording); "Is Advaita self-defeating in its use of reason and scripture?
@@ -4509,50 +4444,6 @@ plurality together.
 8. All five consequences are one consistent structural move (the vyāvahārika/pāramārthika split), applied five times — name this pattern explicitly for full marks.
 9. Balanced final verdict: admirers call it highest wisdom; critics call it ontological austerity at the cost of practical instability — state both.
 10. > 🔑 **Mnemonic:** **"One premise, five downgrades, one recurring pattern."**
-
-### Practice — Lesson 14, Part C
-
-**MCQ 1 (conceptual).**
-1. Advaita's five consequences (world, self, ethics, devotion, pramāṇas) are five unrelated doctrinal claims with no common structure.
-2. Ethics and karma remain fully binding at the vyāvahārika level in Advaita.
-3. Devotion, on Advaita's own logic, becomes preparatory rather than final.
-
-Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
-
-**MCQ 2 (applied).** The "self-referential tension" identified in this lesson refers to:
-**A. The tension between Advaita and Dvaita over the nature of the self.**
-**B. The tension between jīva and Īśvara in Advaita's ontological ladder.**
-**C. Advaita relying on reason and scripture to establish a truth that ultimately relativises reason and scripture themselves.**
-**D. The tension between Śaṅkara and Sāṃkhya on causation.**
-
-**MCQ 3 (remedial — targets a one-sided verdict on this question).** A 20-mark answer to the 2019
-question that concludes only "Advaita's absolutism is entirely wisdom with no cost" would be:
-**A. Fully adequate, since Advaita's superiority is beyond dispute.**
-**B. Fully adequate, since the question does not require balance.**
-**C. Inadequate only because it is too short, regardless of its one-sidedness.**
-**D. Inadequate — a well-constructed answer must state both the admirers' and critics' verdicts (§9) and reach a reasoned, not one-sided, final judgment.**
-
-#### Answers and explanations — Lesson 14, Part C
-
-**MCQ 1 → B (2 and 3 only).** Statement 1 is false and is the central trap — the five consequences
-share **one** common structural pattern, the vyāvahārika/pāramārthika split, applied five times
-(§ Comparative treatment). Statements 2 and 3 are correct (§5, §6).
-
-**MCQ 2 → C.** This is the precise definition of the tension from §8. Options A, B and D describe
-other genuine Vedānta debates but not this specific self-referential tension.
-
-**MCQ 3 → D.** This is exactly the balanced-verdict requirement from §9 and the UPSC integration
-section. Options A and B both wrongly accept a one-sided answer as adequate. Option C
-mischaracterises the actual defect, which is one-sidedness, not merely length.
-
-**Remedial note:** for any Advaita-evaluation question carrying "critically discuss," "evaluate," or
-similar directives, always budget space for **both** the admirers' and the critics' verdicts before
-giving your own reasoned conclusion — this single habit is the most reliable way to avoid losing
-marks to a one-sided answer.
 
 *Folded context for this part — Book: Queried — canonical Vedānta file §16.1–16.7, §17.1–17.6, §18, §20F.1–20F.4 — this lesson is the master synthesis drawing every prior lesson together. CA search: "Vedanta schools comparison graded verdict Advaita Vishishtadvaita Dvaita 2026" CA found: No doctrine-specific current-affairs anchor.*
 
@@ -4715,7 +4606,7 @@ difference is appearance, qualification, or ultimate fact.**
   almost any single-school question as well.
 - **PYQ linkage:** draws together 2021 (Śaṅkara vs Rāmānuja on world-status), 2021 (Madhva on
   jīva/jagat), 2022 (Madhva vs Rāmānuja on mokṣa), 2023 (Rāmānuja's critique of Śaṅkara), and every
-  other PYQ solved in the consolidated bank that follows.
+  other PYQ linked in the Verified PYQ Linkage section that follows.
 - **Probable framing:** "Compare and evaluate the schools of Vedānta" (20 marks); any question
   ending "critically discuss/evaluate," where this lesson supplies the concluding paragraph.
 - **Common trap:** offering a flat "Advaita is the best/most logical school" verdict without stating
@@ -4733,569 +4624,331 @@ difference is appearance, qualification, or ultimate fact.**
 6. Master principle: every Vedāntic dispute turns on whether difference is appearance, qualification, or ultimate fact.
 7. > 🔑 **Mnemonic:** **"Appearance, qualification, or fact — pick your difference, and you've picked your school."**
 
-### Practice — Lesson 14, Part D
+### Practice — Lesson 14
 
-**MCQ 1 (conceptual).**
-1. The Śaṅkara-Rāmānuja debate on Brahman concerns whether the absolute is nirguṇa or saguṇa.
-2. The Rāmānuja-Madhva debate concerns whether unity and plurality can be combined through inseparability or must remain uncompromisingly different.
-3. Vedānta and Mīmāṃsā share no textual or hermeneutic background whatsoever.
+> Lesson-level MCQs; correct keys follow the file-wide A→B→C→D rotation, with one correct option and option-by-option explanations.
+
+**MCQ 45: A**
+
+**Question:**
+
+1. The direct meaning (vācyārtha) of "tat" is omniscient Īśvara associated with māyā.
+2. Bhāga-tyāga-lakṣaṇā retains the conflicting portions of both direct meanings.
+3. "Brahma satyam jaganmithyā, jīvo brahmaiva nāparaḥ" is one of the four standard Upaniṣadic mahāvākyas.
 
 Which of the statements given above is/are correct?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2 (applied).** A candidate writes: "Advaita is simply the best school of Vedānta, with no
-weaknesses." This claim is:
-**A. Fully adequate for a 20-mark critical question.**
-**B. An inadequate, one-sided verdict — a complete evaluation must state Advaita's strong, weak, and contested points (§5), not only its strengths.**
-**C. Adequate, since Rāmānuja's and Madhva's criticisms have no philosophical force.**
-**D. Adequate, since Advaita has no contested doctrines remaining.**
+A. 1 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. 2 and 3 only
 
-**MCQ 3 (remedial — targets the flat "one school is simply true" verdict).** The most defensible
-master-level conclusion to a "compare and evaluate the schools of Vedānta" question is:
-**A. Vedānta is one uniform doctrine, and the appearance of disagreement is merely terminological.**
-**B. Only one school can possibly be correct, and identifying it is the goal of the answer.**
-**C. Every school's strongest defence depends on a specific presupposition about the criterion of reality (sublation, inseparable qualification, or real difference); evaluation should assess the cost of granting or denying each.**
-**D. The debate is meaningless because none of the three schools offer any argument at all.**
+- **A — Correct:** Only statement 1 holds: the direct meaning of tat is omniscient Īśvara associated with māyā; statements 2 and 3 misstate implication and mahāvākya status.
+- **B — Incorrect:** Statement 1 is correct, but statement 2 reverses bhāga-tyāga-lakṣaṇā, which discards conflicting portions rather than retaining them.
+- **C — Incorrect:** Statements 2 and 3 make the complete set false: partial rejection abandons conflicts, and the quoted formula is a later summary, not a standard mahāvākya.
+- **D — Incorrect:** Both included statements are false: bhāga-tyāga discards conflicting meanings and the formula is not a standard mahāvākya; statement 1 is omitted.
 
-**MCQ 4 (applied — cumulative test across the whole file).** Which of the following correctly pairs
-a doctrine with its owning school?
-**A. Pañcavidhabheda — Advaita; Apṛthaksiddhi — Dvaita; Vivartavāda — Viśiṣṭādvaita.**
-**B. Pañcavidhabheda — Viśiṣṭādvaita; Apṛthaksiddhi — Advaita; Vivartavāda — Dvaita.**
-**C. All three doctrines belong equally to all three schools.**
-**D. Pañcavidhabheda — Dvaita; Apṛthaksiddhi — Viśiṣṭādvaita; Vivartavāda — Advaita.**
+**MCQ 46: B**
 
-#### Answers and explanations — Lesson 14, Part D
+**Question:** The Devadatta illustration ("so'yaṃ devadattaḥ") is used by Advaita to show:
 
-**MCQ 1 → A (1 and 2 only).** Statements 1 and 2 correctly summarise two of the six debates (§2).
-Statement 3 is false — Lesson 1 (Part B) explicitly establishes that Mīmāṃsā's pramāṇa theory and defence of
-Vedic authority form part of Vedānta's hermeneutic background, even though Vedānta redirects that
-authority toward metaphysical knowledge.
+A. Two cognitions of Devadatta cannot retain one referent when their times and places differ.
+B. Incompatible temporal and spatial qualifications may be dropped while one referent remains, modelling the interpretation of ‘tat tvam asi’.
+C. The empirical Devadatta is literally identical with Brahman once his changing attributes are disregarded.
+D. Recognition of Devadatta establishes Nyāya's theory that error always presents an elsewhere-object.
 
-**MCQ 2 → B.** This is exactly the balanced-evaluation requirement from §5 and the UPSC integration
-trap-warning. Options A, C and D all wrongly accept or justify a one-sided verdict.
+- **A — Incorrect:** Recognition identifies the same Devadatta across changed circumstances, so denying stable reference defeats the example's semantic purpose.
+- **B — Correct:** Removing incompatible place and time qualifications while retaining Devadatta models partial-rejection implication in interpreting the great saying's identity claim.
+- **C — Incorrect:** Devadatta illustrates semantic removal of accidental qualifications; it does not identify an empirical person with Brahman as an ordinary fact.
+- **D — Incorrect:** The example serves Advaita's method of partial rejection, not Nyāya's account of misperception through presentation of an elsewhere-object.
 
-**MCQ 3 → C.** This is the precise master-level conclusion reached in the Criticism-and-reply
-section above. Option A flattens genuine disagreement into mere terminology. Option B assumes a
-single-winner framing this lesson explicitly rejects. Option D is false — every school offers
-extensive, serious argument, as the preceding twenty-one lessons demonstrate.
+**MCQ 47: C**
 
-**MCQ 4 → D.** This is the correct pairing, confirmed across Lesson 6, Lesson 10 and Lesson 12. Options A, B and
-C all misattribute at least one doctrine to the wrong school.
+**Question:**
 
-**Remedial note:** if you missed MCQ 4, treat it as a signal to revisit the specific lesson for the
-doctrine you paired incorrectly — a school-doctrine mismatch is one of the costliest possible errors
-in a Vedānta answer, since it signals confused preparation across the entire syllabus clause, not
-just one weak topic.
+Which
+statement correctly represents the inter-school position on "tat tvam asi"?
 
-## PYQS AND ANSWER PRACTICE
+A. Advaita, qualified non-dualism, and dualism all interpret ‘That thou art’ as strict numerical identity between the individual self and Brahman.
+B. Advaita interprets ‘That thou art’ relationally, while qualified non-dualism and dualism both derive complete essential identity from the sentence.
+C. Advaita reads essential identity; qualified non-dualism and dualism read dependence or relation between self and Brahman instead.
+D. Advaita alone interprets ‘That thou art’; the other major Vedānta schools reject the sentence as unauthoritative.
 
-> Every verified Philosophy Paper I PYQ that is **primarily owned** by the Vedānta syllabus clause,
-> from **2018 through the verified 2026 paper**, is solved below in full. Each entry states the
-> exact question, marks, the lesson(s) that teach the required content, and a complete model
-> answer scaled to the mark-weight, following the pattern **claim → named doctrine/example →
-> analysis → qualification.** Sources: the canonical PYQ routing table (`Vedanta.md` §20) for
-> 2018–2025, and the verified 2026 supplement (`_PYQ-Indian-Philosophy-2026.md`) for the three
-> 2026 parts, which is itself transcribed from the official OCR of the 2026 paper.
+- **A — Incorrect:** Strict identity characterizes Advaita's interpretation, whereas qualified non-dualism and dualism preserve dependence or difference between self and Brahman.
+- **B — Incorrect:** The alignment is reversed: Advaita teaches essential identity, while the other two schools resist identity through qualified relation or difference.
+- **C — Correct:** Advaita extracts identity of essence, whereas qualified non-dualism and dualism construe the statement without erasing the self's dependence or difference.
+- **D — Incorrect:** All three traditions accept and interpret the scriptural sentence; their dispute concerns its meaning, not its authority or relevance.
+
+**MCQ 48: D**
+
+**Question:**
+
+1. Sāṃkhya and Advaita broadly share a commitment to satkāryavāda.
+2. Śaṅkara argues that an unconscious pradhāna cannot satisfy scriptural descriptions of the world-cause.
+3. Sāṃkhya posits one single ultimate principle, exactly as Advaita does.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 3 only
+B. None of the statements
+C. 1, 2 and 3
+D. 1 and 2 only
+
+- **A — Incorrect:** Statement 1 is true, but statement 3 erases Sāṃkhya's dualism of puruṣa and prakṛti, while statement 2 is omitted.
+- **B — Incorrect:** Denying every statement ignores the shared satkāryavāda commitment and Śaṅkara's objection that unconscious pradhāna cannot satisfy scriptural world-cause descriptions.
+- **C — Incorrect:** The complete set fails because statement 3 falsely gives Sāṃkhya Advaita's single ultimate principle, despite its puruṣa–prakṛti dualism.
+- **D — Correct:** Statements 1 and 2 hold: both broadly accept effect-preexistence, while Śaṅkara rejects unconscious pradhāna as scripture's world-cause; statement 3 is false.
+
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+> Every verified Philosophy Paper I PYQ **primarily owned** by the Vedānta syllabus clause, from
+> **2018 through the verified 2026 paper**, is indexed below — **as links only**. Each entry states
+> the exact question, its marks, the directive and demand, the lesson(s) that teach the required
+> content, and a concise neutral answer-approach. **No solved model answers, theses, conclusions or
+> doctrinal content are supplied here**; the teaching that lets you build the answer lives in the
+> mapped lessons. Wording, mark-weight and year are reproduced exactly from the verified ledgers:
+> the canonical PYQ routing table (`Vedanta.md` §20) for 2018–2025, and the verified 2026 supplement
+> (`_PYQ-Indian-Philosophy-2026.md`) for the three 2026 parts.
+
+## Ownership and verification audit (2018–2026, 23 parts)
+
+| Stage | Audited position | Vedānta status |
+|---|---|---|
+| GS Paper I Mains, 2018–2025 | Canonical `Vedanta.md` §20 routing table checked | 20 directly Vedānta-owned parts, linked below |
+| GS Paper I Mains, 2026 | Verified `_PYQ-Indian-Philosophy-2026.md` (OCR-sourced) checked | 3 directly Vedānta-owned parts (Q7(c), Q8(b), Q8(c)) |
+| Answer keys | Mains optional has no official answer key | Not applicable — approaches only, never solved here |
+
+## 2018
 
 ### 2018 — Q5(c) · 10 marks · Lesson 7 (Part A) and Lesson 8 (Part B)
 
 **Question:** What is the difference between the indescribability (Anirvacanīyatā) of Brahman and
 the indescribability (Anirvacanīyatā) of Māyā in the Advaita Vedānta system? Discuss.
 
-**Model answer.** Advaita uses "anirvacanīya" for two philosophically distinct claims, and
-conflating them is the single most common error on this question. **Brahman's indescribability**
-means that non-dual, non-objectifiable, self-luminous reality exceeds the entire framework of
-subject-predicate description — it does not mean Brahman's reality is uncertain or graded; Brahman
-is the one unsublated reality (trikālābādhita) because of which any description or experience is
-possible at all. **Māyā's indescribability**, by contrast, means that appearance cannot be
-classified under either ultimate ontological head: it is not asat (unreal, like a hare's horn),
-because it is genuinely experienced; it is not sat (fully real), because it is sublated by
-Brahman-knowledge. Māyā therefore occupies an intermediate, dependent, sublatable grade, while
-Brahman is not "graded" at all — it is the standard against which grading itself becomes
-meaningful. **Qualification:** realist schools (Rāmānuja, Madhva) accept Brahman's transcendence of
-finite predication far more readily than they accept māyā's alleged third ontological status,
-precisely because the latter, unlike the former, depends on accepting sublation (bādha) as a
-genuine criterion of reality — a presupposition they explicitly refuse (Lesson 11).
+- **Directive:** *Discuss* — expound and distinguish, not merely list.
+- **Demand:** separate the two distinct senses in which Advaita calls something "indescribable" and show why they are not the same claim.
+- **Answer approach:** define each sense on its own terms, contrast the ontological weight each carries, and close with a qualified comparative statement; do not conflate the two.
+- **Lesson link:** Lesson 7 (Part A) for māyā's sense; Lesson 8 (Part B) for the error-theory sense.
 
 ### 2018 — Q7(a) · 20 marks · Lesson 13
 
 **Question:** Give a comparative exposition of the concept of Mokṣa as found in the systems of
 Viśiṣṭādvaita, Dvaita, Śuddhādvaita and Acintyabhedābheda.
 
-**Model answer.** All four systems are theistic and devotional, but each gives mokṣa a distinct
-metaphysical shape, tracking its distinct account of the self's relation to God. In
-**Viśiṣṭādvaita**, the self is a real, inseparable mode (prakāra)/body of Brahman; liberation is the
-recovery of the self's unobstructed nature through bhakti or prapatti, culminating in eternal
-communion and service without numerical identity — karmic obstruction ends and attributive
-consciousness (dharma-bhūta-jñāna) becomes unrestricted. In **Dvaita**, the self is a distinct,
-eternally dependent substance, never a mode of God; liberation is eternal blissful service of Viṣṇu
-in Vaikuṇṭha, achieved through right knowledge, devotion, and grace, but marked by permanent
-**tāratamya** — gradation among liberated souls, since difference is never abolished. In
-**Śuddhādvaita**, the self and world are real, unchanged manifestations of Kṛṣṇa
-(avikṛta-pariṇāma); liberation, reached through grace-nourished loving devotion (puṣṭi-mārga), is
-participation in Kṛṣṇa's own bliss and loving service — the world is never sublated, unlike in
-Advaita. In **Acintyabhedābheda**, the self is simultaneously a dependent non-difference and a real
-difference from Kṛṣṇa — a relation formally marked "inconceivable" (acintya) because ordinary logic
-cannot fully reduce it to identity or difference alone; the sole direct path is loving devotion
-(bhakti/prema), culminating in eternal loving relation without erasure of individuality.
-**Comparative conclusion:** the common thread across all four is that individuality is *retained*,
-not dissolved, in liberation — the decisive variable is only *how* each system understands the
-self's inseparability, dependence, real manifestation, or inconceivable difference-and-non-
-difference from God. **Qualification:** this four-school comparison must not be reduced to the more
-familiar three-school (Advaita/Viśiṣṭādvaita/Dvaita) grid, since Advaita is not even named in this
-specific PYQ — a candidate who substitutes Advaita for one of the four named schools loses
-significant credit.
+- **Directive:** *comparative exposition* — set the four named systems side by side.
+- **Demand:** treat exactly the four named schools (Advaita is not asked); give each a distinct account of liberation and then compare.
+- **Answer approach:** give each school a short self-contained statement, then organise similarities and differences on a common axis (self–God relation), and end with a controlled comparative note; do not substitute Advaita for any named school.
+- **Lesson link:** Lesson 13 (wider Vedānta), with the four-school liberation matrix.
 
 ### 2018 — Q7(c) · 15 marks · Lesson 4, Lesson 7 (Part A) and Lesson 11
 
 **Question:** How does Rāmānuja refute the doctrine of Māyā as propounded by Śaṅkara? Why is Māyā
 needed by both Rāmānuja and Śaṅkara to establish their doctrines? Discuss.
 
-**Model answer.** Rāmānuja's refutation of māyāvāda is the seven-fold **sapta-anupapatti** (Lesson 11): the locus of avidyā is either circular (in the jīva) or self-contradictory (in Brahman);
-self-luminous Brahman cannot coherently be concealed; avidyā's neither-real-nor-unreal nature
-violates the exhaustive real/unreal binary; no pramāṇa establishes avidyā positively; no coherent
-knowledge can remove it; and its cessation's ontological status remains obscure. Rāmānuja replaces
-māyāvāda with his own positive apparatus — apṛthaksiddhi and satkhyāti (Lesson 11 §4) — arguing that
-cit and acit are real, inseparable modes of Brahman rather than illusory appearances. **On the
-second, deliberately unusual part of the question:** the printed demand that māyā is "needed by
-both" is philosophically anomalous, since Rāmānuja explicitly *rejects* māyā as an explanatory
-category; the honest response is to flag this rather than force a false symmetry. A defensible
-interpretation is that each system needs *some* explanatory principle to account for the appearance
-of plurality and limitation: Śaṅkara needs māyā itself as a positive cosmic principle of appearance,
-while Rāmānuja needs an *analogous* explanatory role — filled instead by apṛthaksiddhi and real,
-though dependent, modes — to account for why finite, limited selves and matter appear distinct from
-an infinite, unlimited Brahman. **Qualification:** this reading should be explicitly marked as an
-interpretation of an unusually worded demand, not presented as an uncontested doctrinal fact — a
-candidate who silently "corrects" the question without noting the anomaly may lose credit for
-critical awareness.
+- **Directive:** *Discuss* — two linked parts, one of them deliberately unusual.
+- **Demand:** first the structured refutation; second, the unusually worded "needed by both" claim, which must be handled critically rather than forced.
+- **Answer approach:** lay out the refutation as a numbered structure, then flag the second part's wording as anomalous and answer it as an interpretation (what explanatory role each system needs), marking it explicitly as interpretation.
+- **Lesson link:** Lesson 11 (the seven objections); Lesson 7 (Part A) and Lesson 4 for the māyā/Īśvara background.
+
+## 2019
 
 ### 2019 — Q8(a) · 20 marks · Lesson 14 (Part C)
 
 **Question:** Explain the logical consequences of the metaphysical absolutism of Advaitism.
 
-**Model answer.** See Lesson 14 (Part C) in full: from the single premise "Brahman alone is ultimately
-real," five consequences follow by direct derivation. (1) The world is reduced to appearance
-(mithyā, not tuccha) since no second reality can be independently real alongside Brahman. (2)
-Individuality and agency become provisional, since the finite doer-enjoyer jīva cannot be
-ultimately real. (3) Ethics and karma remain vyāvahārika — fully binding empirically, but not part
-of the final truth. (4) Devotion becomes preparatory rather than final, since a personal Īśvara
-belongs only to the empirical order. (5) All pramāṇas, including scripture, are valid only
-empirically, since they presuppose the very duality that Brahman-realisation transcends. **Analysis
-of the pattern:** all five consequences instantiate one structural move — the vyāvahārika/
-pāramārthika split — applied five times, not five independent concessions. This generates a
-**self-referential tension**: Advaita uses reason and scripture to establish a truth that finally
-relativises reason and scripture themselves. **Qualification/graded conclusion:** this can be read
-either as self-defeat, or as a coherent "ladder-model" in which means are valid until the highest
-insight dawns and their function is simply complete, not falsified. A strong answer states both
-readings and reaches a reasoned judgment rather than a one-sided verdict — Advaita's admirers call
-this the highest wisdom; its critics call it ontological austerity purchased by practical
-instability, and both descriptions are defensible depending on whether sublation is accepted as a
-genuine criterion of reality.
+- **Directive:** *Explain* — derive and clarify, not merely assert.
+- **Demand:** show how several consequences follow from one premise, and recognise the underlying single structural move.
+- **Answer approach:** state the governing premise, derive each consequence in order, note that they instantiate one recurring move, surface the self-referential tension, and reach a reasoned (not one-sided) verdict.
+- **Lesson link:** Lesson 14 (Part C).
+
+## 2020
 
 ### 2020 — Q5(d) · 10 marks · Lesson 12
 
 **Question:** Point out the significance of the five-fold differences in the Dualistic School of
 Vedānta.
 
-**Model answer.** Madhva's **pañcavidhabheda** names five real, eternal differences: jīva-Īśvara,
-jīva-jīva, jīva-jaḍa, Īśvara-jaḍa, and jaḍa-jaḍa. Their significance is threefold. First, they
-directly reject both Advaita's claim of ultimate identity and Rāmānuja's attempt to retain a deeper
-unity through qualified inseparability (apṛthaksiddhi) — for Madhva, difference is metaphysically
-basic in every one of these five directions, not merely empirical or ignorance-conditioned. Second,
-each difference does specific philosophical work: jīva-Īśvara-bheda blocks any route back to
-identity between self and God; jīva-jīva-bheda blocks a hidden collapse of all selves into one
-universal self; jīva-jaḍa-bheda preserves consciousness against reduction to matter;
-Īśvara-jaḍa-bheda blocks pantheistic collapse of God into world; jaḍa-jaḍa-bheda keeps the material
-world itself ontologically robust and genuinely plural. Third, the doctrine has direct consequences:
-devotion is never transcended (since jīva-Īśvara difference never disappears), hierarchy among souls
-becomes possible (tāratamya, grounded in real jīva-jīva difference), and the plural world remains
-fully real. **Qualification:** an answer that lists only the God-world difference, omitting
-jīva-jīva and jaḍa-jaḍa, is incomplete — the examiner's demand is explicitly for all five.
+- **Directive:** *Point out the significance* — name and justify, not just enumerate.
+- **Demand:** cover all five differences and the specific work each does; a God–world-only answer is incomplete.
+- **Answer approach:** name the five, assign each its distinct philosophical role, then state the doctrine's consequences; ensure the two most-omitted differences are present.
+- **Lesson link:** Lesson 12.
 
 ### 2020 — Q5(e) · 10 marks · Lesson 13
 
 **Question:** Discuss the nature and types of matter according to Nimbārka.
 
-**Model answer.** In Nimbārka's dvaitādvaita, non-conscious reality (acit) is real, dependent on
-Brahman, yet genuinely distinct from it — differing because it is limited, but non-different
-because it has no existence independent of Brahman. Nimbārka classifies acit into three types:
-**prākṛta** (ordinary primordial matter and its products, the material world as commonly
-understood), **aprākṛta** (non-prakritic substance associated with the divine realm/body — a
-subtler order of reality not reducible to ordinary matter), and **kāla** (time). Creation is
-understood as a real transformation of Brahman's own dependent powers, not an illusory projection —
-matter genuinely changes and develops, unlike Advaita's merely apparent vivarta. **Qualification:**
-the exact terminology and the placement of time within this threefold scheme vary somewhat across
-expositions; a careful answer states the classification it adopts explicitly rather than inventing
-further subtypes, and notes this variability rather than presenting the threefold scheme as
-textually uniform beyond dispute.
+- **Directive:** *Discuss* — characterise and classify.
+- **Demand:** state the ontological status of non-conscious reality and its threefold classification.
+- **Answer approach:** fix the status of matter relative to Brahman, give the classification, note how creation is understood, and flag the textual variability rather than inventing subtypes.
+- **Lesson link:** Lesson 13.
 
 ### 2020 — Q8(c) · 15 marks · Lesson 5 (Part B)
 
 **Question:** Discuss the nature and relationship of Jīva and Jīva-sākṣī according to non-dualism.
 
-**Model answer.** In Advaita, jīva is the embodied, empirical individual — Brahman appearing finite
-through avidyā, structured by agency, bondage, and transmigration. Sākṣī is the witness-consciousness
-present within jīva's own experience: it illumines every mental state (pleasure, pain, doubt,
-memory, desire) without ever being altered by what it witnesses. The relationship is one of ground
-and appearance: sākṣī is not a second, separate entity alongside jīva, but the very consciousness
-that makes jīva's experience possible at all, closest among the three ontological terms (Īśvara,
-jīva, sākṣī) to the pāramārthika standpoint, since it is not itself limited by avidyā the way jīva
-is. The three-states argument (waking, dream, deep sleep) supports this: the post-sleep report "I
-knew nothing" presupposes a continuity of witnessing consciousness through a state where no
-determinate mental mode was present, and turīya names this underlying, ever-present consciousness
-rather than a fourth temporal episode. **Qualification:** this argument is persuasive within
-Advaita's own framework but is not neutral — Nyāya and Viśiṣṭādvaita also retain a persisting self
-across the three states without accepting Advaita's further identification of that self with
-non-dual Brahman; ultimately, jīva and sākṣī are non-different in essence (both are, at root, one
-consciousness), differing only in whether that consciousness is considered as agentive/bound (jīva)
-or as unaffected witness (sākṣī).
+- **Directive:** *Discuss* — nature plus relationship.
+- **Demand:** define each term and then state the precise relationship between them within Advaita.
+- **Answer approach:** characterise each term separately, state the ground–appearance relationship, support it with the three-states consideration, and add a qualification about non-neutrality across schools.
+- **Lesson link:** Lesson 5 (Part B).
+
+## 2021
 
 ### 2021 — Q7(a) · 20 marks · Lesson 8 (Part B)
 
 **Question:** How do the advocates of anirvacanīya-khyāti refute the position of the Naiyāyikas and
 establish the position of Advaitins regarding the problem of error? Critically discuss.
 
-**Model answer.** See Lesson 8 (Part B) in full. Nyāya's **anyathā-khyāti** holds that in an illusion (e.g.,
-shell-silver), a real object (silver) existing elsewhere is misapprehended as present in the wrong
-locus (the shell). Advaita's refutation: if the silver were a real elsewhere-object merely
-mis-located, its sublation on correct cognition would not cancel its apparent *objecthood* so
-radically — the illusion collapses not by "relocating" the silver to its true place but by
-recognising the substrate (this is simply shell) — a phenomenological mismatch with anyathā-khyāti's
-account of how illusions actually dissolve. Advaita establishes its own position, **anirvacanīya-
-khyāti**, via the sat/asat/anirvacanīya trichotomy: the erroneous silver cannot be sat, since it does
-not survive sublation (trikālābādhita fails); it cannot be asat, since it is genuinely, positively
-experienced (unlike a hare's horn); therefore it occupies a third, dependent, sublatable grade. This
-same logical shape then scales up: "what shell-silver is to shell, the world is to Brahman" — the
-error theory is the epistemological miniature of Advaita's entire cosmology. **Critical discussion:**
-the theory's coherence depends entirely on accepting bādha (sublation) as a genuine criterion of
-reality-grade; Rāmānuja and Madhva regard the third category as a verbal manoeuvre unless
-independently established by a pramāṇa (the pramāṇa-anupapatti objection, Lesson 11 §3.5).
-**Qualification:** a balanced verdict notes that anirvacanīya-khyāti is internally consistent and
-philosophically elegant given its own starting assumption, but that assumption is exactly the
-contested premise a rigorous critical answer must name rather than take for granted.
+- **Directive:** *Critically discuss* — expound both sides, then evaluate.
+- **Demand:** the refutation of the Nyāya theory, the positive Advaita theory, and a critical verdict on the contested premise.
+- **Answer approach:** state the rival theory, give the refutation, build the Advaita theory via its trichotomy, scale it to the cosmology, then name the disputed assumption the whole theory rests on.
+- **Lesson link:** Lesson 8 (Part B); Lesson 11 §3.5 for the pramāṇa objection.
 
 ### 2021 — Q8(b) · 15 marks · Lesson 6
 
 **Question:** Compare and contrast the views of Śaṅkara and Rāmānuja regarding the status of the
 world.
 
-**Model answer.** See Lesson 6 §7 in full. For Śaṅkara, jagat is **vivarta** — an apparent, not
-real, transformation of Brahman; the world is mithyā, dependent and sublatable, though not tuccha
-(sheer non-existence). Change belongs only to the appearance, never to Brahman itself; soteriology
-therefore culminates in the world's sublation through knowledge. For Rāmānuja, the world is **real**
-— the acit dimension of Brahman's body, produced through the real transformation of Brahman's
-non-conscious mode (prakṛti), with Brahman remaining the controlling substantive whole, essentially
-unchanged in its perfection even as its modes really transform. Since effects are genuinely real for
-Rāmānuja, the universe is a meaningful field of duty, devotion, and divine manifestation, not
-something to be metaphysically outgrown. **Comparative conclusion:** Śaṅkara protects Brahman's
-absoluteness by *reducing* the world's ontological status; Rāmānuja protects the world's status by
-*qualifying* Brahman's absoluteness (allowing real internal modes while denying any external second
-reality). **Qualification:** both positions are internally coherent given their prior commitments —
-Śaṅkara's non-negotiable premise is Brahman's total changelessness; Rāmānuja's is the intelligibility
-and religious seriousness of a genuinely created, meaningful world — and the dispute cannot be
-adjudicated without first choosing which of these two commitments is treated as non-negotiable.
+- **Directive:** *Compare and contrast* — both similarities and differences.
+- **Demand:** state each thinker's account of the world's status and their decisive point of divergence.
+- **Answer approach:** give each position, line them up on the world's reality, state how each protects its priority, and end with a qualification about the non-negotiable commitment behind each.
+- **Lesson link:** Lesson 6.
 
 ### 2021 — Q8(c) · 15 marks · Lesson 5 (Part C) and Lesson 6
 
 **Question:** Explain the status of jīva and jagat in the philosophy of Madhvācārya.
 
-**Model answer.** In Madhva's Dvaita, both jīva and jagat are **real** and **metaphysically,
-eternally distinct** from God — not merely practically or conventionally different, but different
-in the fullest ontological sense pañcavidhabheda names (Lesson 12). Jīva is a real, dependent,
-distinct substance: never a mode of God (against Rāmānuja), never illusory or identical with
-Brahman (against Śaṅkara), and further internally differentiated by Madhva's soul-taxonomy — the
-eternally free (nitya), the liberated (mukta), and the bound (baddha), the last subdivided into
-liberation-eligible, eternal transmigrators, and darkness-eligible souls. Jagat is likewise real:
-God is its efficient governor, while dependent primordial matter (prakṛti) is its material cause;
-matter is never absorbed into identity by knowledge, giving Dvaita the strongest realist posture
-among the three major schools. **Analysis:** this treatment of jīva and jagat directly grounds
-pañcavidhabheda — since both jīva-Īśvara-bheda and Īśvara-jaḍa-bheda (and jīva-jaḍa-bheda) require
-exactly this uncompromising realism about both soul and world. **Qualification:** the harsher
-elements of the soul-taxonomy (permanently non-liberation-eligible souls) should be presented with
-explicit ethical evaluation rather than stated as an uncontroversial detail, since they generate a
-genuine tension with any account of divine grace as universally available.
+- **Directive:** *Explain* — characterise both terms in one system.
+- **Demand:** the reality and distinctness of both self and world, plus the internal soul-taxonomy where relevant.
+- **Answer approach:** fix the status of jīva, then of jagat, connect both to the fivefold-difference framework, and add an ethical qualification about the harsher taxonomy elements.
+- **Lesson link:** Lesson 5 (Part C) and Lesson 6; Lesson 12 for pañcavidhabheda.
+
+## 2022
 
 ### 2022 — Q5(e) · 10 marks · Lesson 6
 
 **Question:** Do you agree with the view that 'Vivartavāda is the logical development of
 Pariṇāmavāda'? Give reasons in support of your answer.
 
-**Model answer.** See Lesson 6 §4 in full. Sāṃkhya's pariṇāmavāda holds the effect is a *real*
-transformation of the cause (milk really becoming curd). Advaita radicalises the underlying logic of
-causal dependence: if the cause is the absolute Brahman, which by prior commitment admits no real
-modification, the effect cannot be equally real as a transformation — so transformation must be only
-*apparent*, i.e., vivarta rather than pariṇāma. **In favour of "logical development":** vivarta
-preserves the same commitment to a dependent effect while consistently preventing real change in an
-unconditioned absolute — it is what pariṇāma becomes once applied rigorously to a genuinely
-changeless cause. **Against "logical development":** real and apparent transformation give the
-effect *contrary* ontological status — milk-becoming-curd is a real altered effect; rope-appearing-
-as-snake is a sublatable appearance whose substrate never changes at all — so vivarta may equally be
-read as a *rejection*, not completion, of pariṇāma's central commitment. **Graded conclusion (the
-answer I agree with):** the two doctrines are *structurally* continuous — both are theories of a
-dependent effect — but *ontologically* opposed on whether the effect really changes. Agreement with
-the claim should therefore be qualified, not flat: "yes, in the sense that vivarta develops the
-search for causal dependence to its logical extreme; no, in the sense that it abandons real
-transformation altogether."
+- **Directive:** *Do you agree … give reasons* — take a reasoned, qualified stand.
+- **Demand:** arguments both for and against the claim before a graded position.
+- **Answer approach:** state what each doctrine holds, give the case for "development", give the case against, then reach a qualified (not flat) agreement that distinguishes structural continuity from ontological opposition.
+- **Lesson link:** Lesson 6.
 
 ### 2022 — Q8(a) · 20 marks · Lesson 5 (Part A)
 
 **Question:** 'Brahma satyam jaganmithyā, Jīvo Brahmaiva nāparaḥ'. In the light of this statement
 explain the ontological status of Īśvara, Jīva and Sākṣī as elucidated in Advaita Vedānta.
 
-**Model answer.** See Lesson 5 (Part A) in full. The quoted line ("Brahman is real, the world is
-appearance/dependent, the individual self is none other than Brahman") is a well-known traditional
-Advaita summary — not itself one of the four standard Upaniṣadic mahāvākyas — and its three clauses
-map directly onto the three terms the question names. **Īśvara** is Brahman conditioned/reflected by
-māyā: empirically real, cosmically authoritative as creator, judge, and moral governor, but sublated
-into nirguṇa Brahman at the pāramārthika level. **Jīva** is Brahman conditioned/limited by avidyā:
-empirically finite, agentive, bound — many, because avidyā is individually located in each internal
-organ, unlike the one cosmic māyā that produces the one Īśvara. **Sākṣī** is the pure witnessing
-consciousness within jīva's own experience — unaffected by, though present within, every mental
-state, and closest of the three terms to the pāramārthika standpoint. **Analysis:** all three terms
-are constructions upon one non-dual consciousness, differing only in the scope and kind of the
-limiting adjunct (cosmic māyā for Īśvara, individual avidyā for jīva, no limiting adjunct at all,
-strictly speaking, for sākṣī, which is simply consciousness as witness). Ultimately, once ignorance
-is fully removed, all three collapse back into undivided nirguṇa Brahman. **Qualification:** a
-strong 20-mark answer explicitly brings in sākṣī even though the quoted Sanskrit line does not name
-it by word — the examiner's demand names all three terms, and an answer covering only Īśvara and
-jīva, however accurate, is incomplete.
+- **Directive:** *Explain … in the light of this statement* — anchor the three terms to the quoted line.
+- **Demand:** the ontological status of all three named terms, including the one not named in the quoted line.
+- **Answer approach:** map the quoted clauses onto the terms, state each term's status and its limiting condition, show all three as constructions on one consciousness, and ensure the third term is explicitly covered.
+- **Lesson link:** Lesson 5 (Part A).
 
 ### 2022 — Q8(c) · 15 marks · Lesson 9
 
 **Question:** How does the concept of Liberation (Mokṣa) of Madhvācārya differ from that of
 Rāmānujācārya? Explain.
 
-**Model answer.** See Lesson 9 §5 in full. Both accept a real God, a real self, and a real world,
-and both hold that liberation comes through devotion and divine grace — but the underlying
-metaphysics differs sharply. For **Rāmānuja**, the self is an inseparable mode/body of Brahman
-(apṛthaksiddhi); mokṣa removes karmic obstruction so that attributive consciousness
-(dharma-bhūta-jñāna) becomes fully unrestricted, and liberated souls are essentially alike in type —
-there is no Madhva-style intrinsic gradation among them. For **Madhva**, the self is a distinct,
-dependent substance, never a mode or body of God; mokṣa is eternal blissful service of Viṣṇu in
-Vaikuṇṭha, but liberated souls retain **tāratamya** — permanent gradation in the degree of bliss and
-rank they enjoy, since difference itself (pañcavidhabheda) is never abolished, even in liberation.
-**Analysis:** the causal background differs correspondingly — Rāmānuja makes Brahman both efficient
-and material cause through its own real modes, while Madhva keeps God as efficient cause only, with
-dependent primordial matter as material cause. **Qualification:** the highest-scoring conclusion
-must go beyond "both are devotional" — the decisive structural point is that Rāmānuja resolves
-plurality through inseparable qualification (retaining essential equality among liberated souls),
-while Madhva treats qualitative difference and hierarchy as a permanent feature of reality, surviving
-even into the liberated state.
+- **Directive:** *Explain … differ* — a focused contrast.
+- **Demand:** the shared ground and then the decisive metaphysical difference in their accounts of liberation.
+- **Answer approach:** note the common devotional ground, contrast the self–God relation each assumes, link the difference to the underlying causal frameworks, and conclude on the decisive structural variable rather than "both are devotional".
+- **Lesson link:** Lesson 9.
+
+## 2023
 
 ### 2023 — Q5(c) · 10 marks · Lesson 14 (Part A)
 
 **Question:** What is Advaitin interpretation of the great sentence (mahāvākya) 'Thou art that' (tat
 tvam asi)? Briefly discuss.
 
-**Model answer.** See Lesson 14 (Part A) in full. The direct meanings (vācyārtha) of "tat" (omniscient,
-remote Īśvara, associated with māyā) and "tvam" (finite, immediate jīva, associated with avidyā)
-conflict — literal identity between omniscience and finitude/ignorance seems impossible. Advaita
-resolves this through **bhāga-tyāga-lakṣaṇā** (also jahad-ajahal-lakṣaṇā): the incompatible portions
-of each direct meaning are abandoned, and the shared implied meaning (lakṣyārtha) — pure
-consciousness — is retained. The classical parallel is "so'yaṃ devadattaḥ" ("this is that
-Devadatta"): the differing temporal/spatial contexts (here/there, now/then) are dropped while the
-identical person is retained; likewise, the jīva-Īśvara contradiction is resolved by dropping
-accidental adjuncts and retaining underlying, identical consciousness. **Qualification:** the
-sentence teaches identity of *essence*, not crude literal sameness of empirical conditions — the
-jīva does not thereby become cosmically omniscient, nor is Īśvara thereby rendered finite; and
-Viśiṣṭādvaita and Dvaita explicitly reject this identity-reading, interpreting mahāvākyas instead as
-teaching dependence or relation.
+- **Directive:** *Briefly discuss* — a compact but complete account.
+- **Demand:** the problem the sentence poses and the specific semantic device that resolves it.
+- **Answer approach:** state the conflict between the two direct meanings, name and explain the resolving device, give the standard illustration, and qualify what kind of identity is meant.
+- **Lesson link:** Lesson 14 (Part A).
 
 ### 2023 — Q6(a) · 20 marks · Lesson 2 and Lesson 3
 
 **Question:** Discuss Rāmānuja's criticism of Śaṅkara's conception of Brahman and Īśvara (God).
 
-**Model answer.** See Lesson 2 and Lesson 3 in full. Rāmānuja's critique proceeds in steps: (1) any coherent
-object of scriptural description must have a determinate character, since description is always
-predication of something of something; (2) an utterly indeterminate nirguṇa Brahman, free of every
-quality without exception, cannot be the referent of any positive scriptural statement; (3) such a
-Brahman, lacking internal intelligible character, cannot be causally sufficient to produce and
-sustain a richly qualified, ordered world; (4) scriptural negations ("not this, not this") deny only
-defects and limiting, undesirable predicates, not all qualities whatsoever. Rāmānuja concludes that
-Śaṅkara's nirguṇa Brahman collapses into either unknowable emptiness or a philosophical abstraction
-too thin to ground religion, devotion, causality, or ethics. The same critique extends directly to
-Advaita's **Īśvara**: if the personal, determinate creator/judge/object-of-devotion God is only the
-vyāvahārika appearance of an impersonal nirguṇa absolute, devotion becomes structurally preparatory
-rather than final, and scriptural theism becomes lower rather than ultimate truth. **Advaita's
-reply:** Brahman is not known as an ordinary object through external predication; it is
-self-revealed as the very condition of all knowing, and the mahāvākya's special semantic mechanism
-(bhāga-tyāga-lakṣaṇā) discloses it through implication rather than ordinary denotation. **Balanced
-verdict:** Rāmānuja's critique is strongest wherever Advaita's "self-revealing, non-objective
-knowledge" claim is left unexplained; whether Advaita's semantic apparatus genuinely answers the
-challenge or merely relocates it is a live, contested question that a strong answer should name
-explicitly rather than resolve one-sidedly.
+- **Directive:** *Discuss* — expound the critique and the reply.
+- **Demand:** the stepwise criticism, its extension to Īśvara, and the Advaita rejoinder.
+- **Answer approach:** lay out the critique as linked steps, extend it to the personal-God question, state the reply, and reach a balanced verdict that names the still-contested point.
+- **Lesson link:** Lesson 2 and Lesson 3.
 
 ### 2023 — Q7(b) · 15 marks · Lesson 9
 
 **Question:** Liberation is defined by Advaita Vedāntins as 'attainment of that which is already
 attained'. How does Śaṅkara illustrate this statement? Discuss with your own comments.
 
-**Model answer.** See Lesson 9 §2 in full. Advaita's mokṣa is **prāptasya prāptiḥ** — not the
-production of a new state, but the removal of ignorance covering an already-existing identity: the
-self is always Brahman, and bondage is avidyā alone. The classical illustration is the necklace
-already around one's own neck: a person searches everywhere in genuine distress for a "lost"
-necklace that was never actually missing, and a friend's pointing-out produces no new object, only
-the removal of a mistaken belief. Śaṅkara insists jñāna alone is the direct means (against
-jñāna-karma-samuccayavāda); the sādhana-catuṣṭaya (viveka, vairāgya, ṣaṭ-sampatti, mumukṣutva) and
-the śravaṇa-manana-nididhyāsana sequence prepare and stabilise the mind for this recognition,
-without themselves producing the already-existing identity. Jīvanmukti (liberation while embodied,
-sustained by prārabdha karma) and videhamukti (at bodily death, producing no *new* liberation) both
-follow from this logic. **My own comments (as the directive requires):** the formula elegantly
-explains why liberation cannot be a temporal event with a determinate beginning, while still
-requiring serious spiritual discipline — the *fact* to be recognised is metaphysically simple, but
-removing a beginningless (though terminable) misidentification is not trivial. **Qualification:** a
-critic may still ask why, if the truth was always available, ignorance persisted at all — Advaita's
-answer (adhyāsa is natural and beginningless, Lesson 8 (Part A)) is coherent within its own framework but
-does not fully dissolve the deeper puzzle of why a non-dual, already-liberated reality ever appeared
-otherwise in the first place.
+- **Directive:** *Discuss with your own comments* — exposition plus explicit evaluation.
+- **Demand:** the meaning of the formula, the classical illustration, and the candidate's own reasoned comment.
+- **Answer approach:** unpack the formula, give the standard illustration, explain why discipline is still required, and add a genuine evaluative comment, since the directive requires one.
+- **Lesson link:** Lesson 9; Lesson 8 (Part A) for the natural-and-beginningless background.
+
+## 2024
 
 ### 2024 — Q5(e) · 10 marks · Lesson 10
 
 **Question:** "In Viśiṣṭādvaita philosophy, the relationship between God and the world is parallel
 to that between an individual self and its body." Critically discuss.
 
-**Model answer.** See Lesson 10 §3 in full. Rāmānuja's **śarīra-śarīrī-bhāva** explains the God-world
-relation exactly through this body-soul analogy: jīvas and jagat are Brahman's body, entirely
-supported, entirely controlled, and existing for Brahman's purposes, while Brahman is their
-indwelling soul. This is the concrete expression of **apṛthaksiddhi** — cit and acit cannot exist or
-even be conceived apart from Brahman, yet remain really distinct from it, neither identical (against
-Advaita) nor separately independent (against Dvaita). **Critical discussion:** the analogy is
-powerful precisely because an ordinary body genuinely cannot exist or be sustained apart from its
-indwelling soul — this is exactly the strength of inseparability apṛthaksiddhi requires. But the
-analogy strains at one specific point: an ordinary soul is finite and is itself limited *by* its
-body (injured through it, constrained by its condition), whereas Brahman's perfection is never
-compromised or limited by world or selves. **Qualification:** a complete answer must therefore both
-affirm the analogy's genuine explanatory power and name this precise disanalogy, rather than simply
-endorsing or simply rejecting the parallel — an answer that only praises the analogy, without this
-critical qualification, does not meet the "critically discuss" directive.
+- **Directive:** *Critically discuss* — affirm the analogy's force and name its limit.
+- **Demand:** the body–soul model's explanatory power and the precise point at which the analogy strains.
+- **Answer approach:** state the analogy and the inseparability it captures, then isolate the one specific disanalogy, and require both the endorsement and the qualification; a one-sided answer under-meets the directive.
+- **Lesson link:** Lesson 10.
+
+## 2025
 
 ### 2025 — Q5(d) · 10 marks · Lesson 11
 
 **Question:** Examine Rāmānuja's seven objections against Māyāvāda of Advaita.
 
-**Model answer.** See Lesson 11 in full. The seven objections (sapta-anupapatti) are: (1)
-**āśraya** — avidyā's locus is either circular (in the jīva) or self-contradictory (in Brahman); (2)
-**tirodhāna** — self-luminous Brahman cannot coherently be concealed; (3) **svarūpa** — avidyā's
-neither-real-nor-unreal nature is incoherent; (4) **anirvacanīyatva** — a third ontological category
-beyond real/unreal is merely a refusal to answer; (5) **pramāṇa** — no valid means of knowledge
-establishes avidyā positively; (6) **nivartaka** — no coherent knowledge can serve as avidyā's
-remover; (7) **nivṛtti** — avidyā's cessation has an obscure ontological status. Advaita answers each
-(Vivaraṇa/Bhāmatī on locus; the cloud-sun analogy on concealment; the sat/asat/anirvacanīya
-trichotomy on nature; grades-of-sublatability on indefinability; sākṣi-pratyakṣa and arthāpatti on
-proof; akhaṇḍākāra-vṛtti on the remover; the rope-snake parallel on cessation). **Analysis:** the
-seven objections target three levels together — avidyā's status (1, 3, 4), its possibility (2, 5),
-and the coherence of liberation as its removal (6, 7); Advaita answers most convincingly on
-nivṛtti/tirodhāna, and is most vulnerable on āśraya and pramāṇa. **Qualification:** a 10-mark answer
-must name and briefly explain **all seven**, not a partial selection — the verified demand is
-explicitly for the complete list, and a two- or three-objection answer, however well explained,
-will not satisfy it.
+- **Directive:** *Examine* — set out and weigh.
+- **Demand:** all seven objections named and briefly explained; a partial list is penalised.
+- **Answer approach:** name and gloss each of the seven, group them by what they target, and note where the replies are strongest and weakest; complete the full list.
+- **Lesson link:** Lesson 11.
 
 ### 2025 — Q6(b) · 15 marks · Lesson 3
 
 **Question:** How is Brahman conceptualised in Advaita philosophy as both Nimitta and Upādāna
 Kāraṇa of the World? Discuss with suitable examples.
 
-**Model answer.** See Lesson 3 in full. Since Advaita's non-dualism admits no second, independent
-material substrate alongside Brahman, Brahman must supply both the intelligence behind the world
-(**nimitta-kāraṇa**, efficient cause) and the substance the world is made of (**upādāna-kāraṇa**,
-material cause). The standard illustrating example is the **spider**, which spins its web out of
-its own body, requiring no external thread — Brahman similarly requires no second material
-principle. However, Śaṅkara immediately qualifies the material-cause claim through **vivarta**:
-Brahman does not really transform into the world the way silk is really produced from a spider's
-body; the world is an apparent, sublatable transformation dependent on Brahman, not a real
-modification of it (contrast Sāṃkhya's prakṛti, which is a real material cause with no efficient
-creator-God, and Nyāya, where God is efficient cause and eternal atoms are the separate material
-cause). **Analysis:** this doctrine therefore reunites what Sāṃkhya and Nyāya each keep apart —
-Sāṃkhya splits material causality from intelligence altogether; Nyāya splits efficient causality
-from material causality between two different kinds of principle; Vedānta (in Advaita's case, only
-apparently) reunites both in one Brahman. **Qualification:** this precise formulation belongs to
-Advaita; Viśiṣṭādvaita makes the causation *real* (through Brahman's non-conscious mode), while
-Dvaita denies Brahman is material cause at all (God is efficient cause only, with dependent prakṛti
-as material cause) — a candidate must not present "Brahman is nimitta and upādāna kāraṇa" as a
-uniform claim across all Vedānta.
+- **Directive:** *Discuss with suitable examples* — exposition anchored by illustration.
+- **Demand:** why one principle must be both causes, the illustrating example, and the qualification Advaita adds.
+- **Answer approach:** explain why non-dualism forces both causal roles onto one principle, give the standard example, add the qualifying move on the material-cause claim, and restrict the formulation to Advaita rather than all Vedānta.
+- **Lesson link:** Lesson 3.
 
 ### 2025 — Q8(a) · 20 marks · Lesson 4
 
 **Question:** Discuss the idea of Bimba-pratibimbavāda as presented in Vedānta philosophy along
 with its soteriological significance.
 
-**Model answer.** See Lesson 4 in full. **Bimba-pratibimba-vāda** (the original–reflection model)
-takes Brahman/pure consciousness as the original (bimba) and the empirical self as its reflection
-(pratibimba), appearing in the internal organ as conditioned by ignorance. The original remains
-wholly unaffected by defects, motion, or multiplicity in the reflecting media — one face stays
-unchanged while different mirrors yield differently conditioned images. Some later Advaita
-formulations distinguish the reflection of consciousness in total cosmic appearance (māyā as a
-whole) as Īśvara, and its reflections in individual ignorance/internal organs as jīvas; other
-formulations use relative-original models, or prefer the avaccheda (delimitation) or ābhāsa
-(semblance) models instead — these are later explanatory alternatives, not one uniform proposition
-attributable without qualification to Śaṅkara himself. **Soteriological significance:** the
-reflected image has only derivative reality, dependent entirely on the original; when ignorance is
-removed, the finite self is known never to have possessed independent reality apart from the
-original consciousness. Liberation is therefore **recognition** of the reflected consciousness's
-non-difference from its original — not physical merging, movement, or destruction of one substance
-by another. **Critical assessment:** the standard criticism is that a formless original, a formless
-reflecting medium, and non-dual reality make *literal* optical reflection impossible; the reply is
-that the model is offered for its suggestive, pedagogical value in making an abstract
-identity-with-appearance relation graspable, not as literal optical physics. **Qualification:** a
-complete 20-mark answer must explicitly name the co-existing avaccheda and ābhāsa models (Lesson 4
-§4) alongside pratibimbavāda, since presenting reflection as Advaita's sole explanatory model is
-incomplete.
+- **Directive:** *Discuss … along with its soteriological significance* — doctrine plus liberation-payoff.
+- **Demand:** the reflection model, its co-existing alternatives, and what it implies for liberation.
+- **Answer approach:** state the model, note the competing individuation models beside it, draw the soteriological implication, add the standard criticism and reply, and ensure the alternative models are named.
+- **Lesson link:** Lesson 4.
+
+## 2026 (verified)
 
 ### 2026 — Q7(c) · 15 marks · Lesson 13 (verified)
 
 **Question:** Do you agree with Nimbarka's explanation of the nature of God, Souls and Matter?
 Justify your answer.
 
-**Model answer.** See Lesson 13 §5 in full. Nimbārka's dvaitādvaita holds that God, conscious selves
-(cit), and non-conscious reality (acit) are all real; selves and matter differ from Brahman because
-they are limited, yet are non-different because they possess no independent existence apart from
-Brahman. Acit is classified into prākṛta (ordinary primordial matter), aprākṛta (non-prakritic
-divine-realm substance), and kāla (time). Creation is a real transformation of Brahman's own
-dependent powers, and liberation arises through knowledge enabled by devotion and grace, without
-destroying individuality. **Do I agree, and why (the directive's core demand):** the position is
-internally coherent, because it grounds the compatibility of real difference and real non-difference
-in one specific, well-defined relation — dependence — rather than asserting a flat contradiction;
-this is structurally comparable to, though not identical with, Viśiṣṭādvaita's apṛthaksiddhi
-(Lesson 10). I therefore agree that the doctrine is *defensible* as a considered philosophical
-position. **Qualification (the reasoned residual difficulty a full "justify" response must include):**
-the claim that difference and non-difference are *both* fully real, together, still faces the same
-kind of pressure Rāmānuja's anirvacanīyatva-anupapatti (Lesson 11 §3.4) raises against Advaita's own
-third ontological category — namely, that such a dual claim risks being verbal unless independently
-grounded. My qualified agreement therefore holds that Nimbārka's system is coherent *given* its
-foundational concept of dependence as capable of holding real difference and real non-difference
-together, while noting this foundational concept itself remains open to the same kind of challenge
-directed at comparable "compatibilist" doctrines elsewhere in Vedānta.
+- **Directive:** *Do you agree … justify* — a reasoned, qualified stand.
+- **Demand:** an exposition of the position, a defensible verdict, and a stated residual difficulty.
+- **Answer approach:** summarise the three-fold account, give a qualified agreement grounded in one specific relation, and name the residual pressure the position still faces; justify rather than merely assert.
+- **Lesson link:** Lesson 13; Lesson 10 for the structural comparison.
 
 ### 2026 — Q8(b) · 15 marks · Lesson 10 (verified)
 
 **Question:** Critically explain Ramanuja's conception of Brahman with special reference to the
 difficulties in explaining the relation of Brahman to Spirit (Cit) and Matter (Acit).
 
-**Model answer.** See Lesson 2, Lesson 3 and Lesson 10 in full. Rāmānuja's Brahman is saguṇa in the highest sense
-— Viṣṇu/Nārāyaṇa endowed with infinite auspicious qualities (ananta-kalyāṇa-guṇa-viśiṣṭa), with no
-higher nirguṇa level. Cit (selves) and acit (matter) relate to this Brahman through
-**apṛthaksiddhi**: they are inseparable qualifiers (aprthaksiddha-viśeṣaṇa) that cannot exist or be
-conceived apart from Brahman, yet are not identical with it — explained through the body-soul model
-(śarīra-śarīrī-bhāva), where cit and acit form Brahman's body while Brahman is their indwelling,
-controlling self. **The specific difficulties (this directive's core demand):** first, if cit and
-acit are *real*, permanent, distinct modes within Brahman, does Brahman's claimed absolute
-simplicity not become compromised — is this simply a more complicated pluralism dressed as monism?
-Rāmānuja's reply is that qualification does not divide or limit; it completes — oneness here means
-oneness of inclusion (nothing external to Brahman), not oneness of bare, undifferentiated
-simplicity. Second, the body-soul analogy itself strains at one point: an ordinary soul is limited
-*by* its body, while Brahman's perfection is never limited by cit or acit — the analogy's
-explanatory power (a body cannot exist apart from its soul) does not extend to this specific
-disanalogy. Third, from the opposite direction, Madhva presses that anything requiring dependence
-for its very conceivability has a *weaker* reality than Madhva's fully independent difference —
-Rāmānuja's reply (dependence for existence does not entail lesser reality, only lesser independence)
-is coherent but not conclusive against a rival who simply rejects dependence-without-diminished-
-reality as intelligible. **Qualification/critical verdict:** apṛthaksiddhi is Rāmānuja's most
-philosophically ambitious construction — internally coherent and genuinely distinct from both
-Advaita and Dvaita, but vulnerable, from both directions, to the charge that it is a carefully
-managed halfway house rather than a fully independent third option.
+- **Directive:** *Critically explain … with special reference to the difficulties* — exposition weighted toward the problems.
+- **Demand:** the conception of Brahman, the relation of the two modes to it, and the specific difficulties from both directions.
+- **Answer approach:** state the conception and the inseparable-qualifier relation, then devote the bulk of the answer to the named difficulties and the replies, and end with a critical verdict.
+- **Lesson link:** Lesson 10; Lesson 2 and Lesson 3 for the Brahman background.
 
 ### 2026 — Q8(c) · 15 marks · Lesson 12 (verified)
 
@@ -5303,122 +4956,565 @@ managed halfway house rather than a fully independent third option.
 separate existence and constitute the unique nature of things? Answer with reference to the theory
 of five-fold difference (Pancavidhabheda).
 
-**Model answer.** See Lesson 12 in full. For Madhva, difference is not an ignorance-conditioned
-appearance (as in Advaita) nor a qualification held within a deeper unity (as in Viśiṣṭādvaita) —
-it is a **metaphysically ultimate, eternal structure of reality itself**, on exactly the same
-ontological footing as anything else Madhva calls real. **Why each of the five differences is
-needed, precisely (the "why" the directive demands, not a bare list):** jīva-Īśvara-bheda blocks any
-route back to identity or inseparable-mode status between self and God; jīva-jīva-bheda is required
-because, without it, all individual selves could collapse into one universal self, quietly
-reintroducing a hidden Advaita-style unity at the level of selfhood alone; jīva-jaḍa-bheda blocks
-any reduction of consciousness to unconscious matter; Īśvara-jaḍa-bheda blocks a pantheistic
-collapse of God into the material world; jaḍa-jaḍa-bheda ensures the plural material world is itself
-ontologically robust, rather than a single hidden substance wearing many labels. Together, these
-five differences constitute the **unique nature of things** because, on Madhva's view, a thing's
-very identity is constituted by its irreducible difference from everything it is not — difference is
-not a predicate added to things but the ground of their distinct being. **Consequences:** devotion
-is never transcended (jīva-Īśvara difference is permanent), hierarchy among souls becomes possible
-(jīva-jīva difference grounds tāratamya), and the world remains fully, robustly plural.
-**Qualification:** the doctrine's severe consequence — permanent gradation and, for some bound
-souls, permanent ineligibility for liberation — should be named as a genuine ethical tension with
-universal grace, not passed over silently, in a complete critical answer.
+- **Directive:** *Why … answer with reference to* — explain the reasoning, not just the list.
+- **Demand:** why difference is treated as ultimate and identity-constituting, worked through all five differences.
+- **Answer approach:** state the status assigned to difference, justify each of the five in turn, explain how difference constitutes a thing's identity, note the consequences, and add the ethical qualification.
+- **Lesson link:** Lesson 12.
 
-## ORIGINAL MCQ PRACTICE
+# CUMULATIVE MCQS
 
-> These MCQs are original (not verified PYQs) and test cumulative, cross-lesson understanding
-> rather than any single lesson in isolation. Correct options continue the same strict A→B→C→D
-> rotation used throughout this file, with no consecutive repeats. Explanations follow the full set.
+> A cumulative corpus continuing the file-wide MCQ numbering and the strict A→B→C→D key rotation. These questions test cross-lesson synthesis and the common-error set; the lesson-level sets above test each lesson in turn.
 
-**MCQ 1.** Consider the following pairs:
+**MCQ 49: A**
+
+**Question:**
+
+The mechanism by which Advaita reads "tat tvam asi" as teaching identity of
+essence rather than crude identity of empirical conditions is called:
+
+A. Partial-rejection implication (jahad-ajahal-lakṣaṇā), preserving shared consciousness while dropping incompatible empirical conditions
+B. Misplaced-object error (anyathā-khyāti), locating an elsewhere-existing object within a present cognition
+C. Sevenfold untenability critique (sapta-anupapatti), challenging Advaita's explanation of ignorance and bondage
+D. Fivefold real difference (pañcavidhabheda), distinguishing God, souls, and matter through irreducible relations
+
+- **A — Correct:** Partial-rejection implication discards conflicting empirical conditions of 'that' and 'you' while retaining their common essence as consciousness.
+- **B — Incorrect:** Nyāya's misplaced-object theory explains perceptual error, not the semantic operation used to interpret the great saying's identity claim.
+- **C — Incorrect:** Rāmānuja's seven untenabilities criticize Advaita's ignorance doctrine; they do not provide a method for reconciling the sentence's opposed predicates.
+- **D — Incorrect:** Madhva's fivefold difference establishes enduring distinctions and therefore cannot ground Advaita's interpretation of essential identity in the great saying.
+
+**MCQ 50: B**
+
+**Question:**
+
+Which of the
+following best describes Advaita's actual position on how Brahman is known?
+
+A. Inference from the world's purposive order independently establishes Brahman as its intelligent designer.
+B. Only Vedic testimony reveals Brahman; reasoning removes doubts about that revelation.
+C. Purified mental perception directly presents Brahman as an object with determinate characteristics.
+D. No means of knowledge, including Vedic testimony, can disclose Brahman in any meaningful sense.
+
+- **A — Incorrect:** Inference from design cannot independently disclose non-objectifiable Brahman; Advaita gives reasoning a supporting role after scriptural instruction.
+- **B — Correct:** Vedic testimony, especially the great sayings, reveals Brahman, while reflection clarifies that teaching and removes doubts without becoming an independent source.
+- **C — Incorrect:** Perception presents sensory or mental objects, whereas purified attention prepares the student to understand Brahman through scriptural testimony.
+- **D — Incorrect:** Advaita treats Brahman as knowable through the Upaniṣads, so denying every valid means erases scripture's distinctive revelatory function.
+
+**MCQ 51: C**
+
+**Question:**
+
+In Viśiṣṭādvaita, why does the self's atomic size (aṇu) not limit the range of
+its cognition in liberation?
+
+A. Liberation enlarges the formerly atomic self until its substance becomes spatially pervasive throughout Brahman's body.
+B. The self is never atomic; only bondage creates the temporary impression that its naturally pervasive substance is limited.
+C. Attributive consciousness (dharma-bhūta-jñāna) becomes pervasive when karma no longer obstructs it, while the substantive self remains atomic.
+D. Both the atomic self and its attributive consciousness dissolve into Brahman when liberation removes every real distinction.
+
+- **A — Incorrect:** Rāmānuja does not enlarge the self's substance; liberation removes karmic contraction from its attributive consciousness while atomic selfhood remains.
+- **B — Incorrect:** Qualified non-dualism explicitly regards the self as atomic, distinguishing its fixed substantial size from consciousness's variable cognitive reach.
+- **C — Correct:** Karma contracts the scope of attributive consciousness, so release makes cognition pervasive without changing the atomic size of the substantive knower.
+- **D — Incorrect:** Liberation preserves the real distinction and individuality of the soul; neither the knower nor its consciousness dissolves into an impersonal absolute.
+
+**MCQ 52: D**
+
+**Question:**
+
+The three-states
+(waking–dream–deep sleep) argument for a continuous witness is best described as:
+
+A. A demonstration accepted without qualification by Advaita, Viśiṣṭādvaita, and Nyāya, including the conclusion that the persisting witness is non-dual Brahman.
+B. A line of reasoning unrelated to Vedāntic selfhood, because changing states provide evidence only about memory, embodiment, and psychological continuity.
+C. A Dvaita-only proof rejected by Advaita because deep sleep supposedly interrupts the continuity of consciousness.
+D. A proof of a persisting witness; identifying that witness with non-dual Brahman requires a further Advaita argument.
+
+- **A — Incorrect:** Several schools defend a persisting self, but Viśiṣṭādvaita and Nyāya reject the additional conclusion that it is non-dual Brahman.
+- **B — Incorrect:** Continuity across waking, dream, and deep sleep directly concerns selfhood by supporting an enduring subject through changing experiences.
+- **C — Incorrect:** Advaita prominently uses the three-state analysis; deep sleep helps distinguish the persisting witness from episodic mental contents.
+- **D — Correct:** Cross-state continuity supports an enduring witness, while its identity with non-dual Brahman depends on further Advaita premises and scriptural interpretation.
+
+**MCQ 53: A**
+
+**Question:**
+
+1. Avacchedavāda uses the analogy of space delimited by a pot.
+2. Ābhāsavāda treats jīva as a real, independent fragment of Brahman.
+3. Pratibimbavāda uses the analogy of a face reflected in a mirror.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1 only
+D. 2 and 3 only
+
+- **A — Correct:** Statements 1 and 3 hold: avacchedavāda uses pot-delimited space and pratibimbavāda a mirrored face; ābhāsavāda denies the independent fragment asserted in statement 2.
+- **B — Incorrect:** Statement 1 is true, but statement 2 wrongly makes apparent individuality independently real, while statement 3's mirror analogy is omitted.
+- **C — Incorrect:** The pot-space analogy supports statement 1, yet statement 3 also correctly associates pratibimbavāda with a reflected face.
+- **D — Incorrect:** Statement 3 is true, but statement 2 misconstrues ābhāsavāda, and statement 1's valid pot-space analogy is excluded.
+
+**MCQ 54: B**
+
+**Question:** Madhva's category of "mukti-yogya" souls refers to:
+
+A. Eternally free souls (nitya), who have never entered bondage or transmigration
+B. Liberation-eligible souls (mukti-yogya), presently bound yet capable of attaining release
+C. Already liberated souls (mukta), who have permanently passed beyond bondage
+D. Darkness-eligible souls (tamo-yogya), permanently bound and never destined to attain liberation
+
+- **A — Incorrect:** Eternally free souls belong to the nitya class and were never bound, unlike candidates who remain bound before possible liberation.
+- **B — Correct:** Mukti-yogya designates currently bound souls possessing eligibility for liberation within Madhva's hierarchical classification of individual selves.
+- **C — Incorrect:** Already released souls are mukta; liberation-eligible souls have not yet attained the freedom for which they remain qualified.
+- **D — Incorrect:** Tamo-yogya souls are destined for darkness and never attain release, directly opposing the future possibility expressed by liberation-eligibility.
+
+**MCQ 55: C**
+
+**Question:**
+
+Which statement best captures the
+Ātman/jīva distinction as used in careful Vedānta answers?
+
+A. Self (ātman) and embodied individual (jīva) are fully interchangeable technical terms in every Vedānta context.
+B. Embodied individual (jīva) names essential selfhood, while self (ātman) names only the empirically conditioned person.
+C. Self (ātman) names essential nature; embodied individual (jīva) names that self bound in empirical life.
+D. Self (ātman) belongs exclusively to qualified non-dualism, while embodied individual (jīva) belongs only to Advaita.
+
+- **A — Incorrect:** The terms can overlap, but treating them as invariably interchangeable erases the analytically important distinction between essential selfhood and empirical bondage.
+- **B — Incorrect:** The meanings are reversed: self denotes essential nature, whereas embodied individual marks that self under bodily conditioning and bondage.
+- **C — Correct:** The distinction separates selfhood in its essential character from the same self considered as embodied, conditioned, and subject to bondage.
+- **D — Incorrect:** Both terms occur across Vedānta schools; neither is the exclusive vocabulary of qualified non-dualism or Advaita.
+
+**MCQ 56: D**
+
+**Question:** Rāmānuja's account of avidyā differs from Advaita's chiefly in that:
+
+A. Rāmānuja treats ignorance as nonexistent, explaining bondage solely through divine play without any cognitive error.
+B. Rāmānuja treats ignorance as an indescribable cosmic substance that veils Brahman's nature and projects the plurality of souls and matter.
+C. Rāmānuja accepts real ignorance of God but holds that sacrificial action independently destroys it, rendering knowledge, devotion, and surrender philosophically unnecessary.
+D. Rāmānuja treats ignorance as real misapprehension of God and dependence, removed through knowledge integrated with loving devotion and surrender.
+
+- **A — Incorrect:** Rāmānuja accepts genuine ignorance as a cause of bondage, though he rejects Advaita's account of its ontological status.
+- **B — Incorrect:** Ignorance is real misunderstanding, not an indescribable cosmic substance concealing Brahman and generating an ultimately unreal plurality.
+- **C — Incorrect:** Ritual action may purify, but liberation requires knowledge joined with devotion and surrender rather than an independently sufficient sacrifice.
+- **D — Correct:** Bondage rests on misapprehending God's nature and the soul's dependence; integrated knowledge, devotion, and surrender overcome that ignorance.
+
+**MCQ 57: A**
+
+**Question:**
+
+"Avidyā is beginningless"
+implies, in Advaita's own logic, that:
+
+A. Beginningless ignorance has no first moment, yet liberating knowledge can terminate it.
+B. Because ignorance has operated without a first moment, no cognition or spiritual discipline can ever remove it.
+C. Ignorance shares Brahman's absolute eternity and therefore remains real even after liberating knowledge arises.
+D. Beginningless ignorance is a later innovation absent from classical Advaita.
+
+- **A — Correct:** Beginninglessness denies an identifiable temporal origin, not removability; knowledge can end ignorance without supplying it a first moment.
+- **B — Incorrect:** An originless condition need not be endless: Advaita holds that liberating knowledge sublates ignorance despite its beginningless operation.
+- **C — Incorrect:** Brahman's eternity is absolute and unsublatable, whereas ignorance is dependent and terminable, so the two statuses are categorically different.
+- **D — Incorrect:** Classical Advaita already describes bondage-producing ignorance as beginningless; it is not a later doctrinal invention.
+
+**MCQ 58: B**
+
+**Question:** Advaita's central objection to Nyāya's anyathā-khyāti is that:
+
+A. Sublation proves that illusory silver was absolute non-being from the outset, so Nyāya should replace elsewhere-apprehension with sheer nonexistence.
+B. Sublation cancels the illusion's apparent objecthood too radically for mere recognition of a real object's location elsewhere.
+C. Nyāya's elsewhere-apprehension fails because it denies both the shell's reality and the possibility of erroneous cognition.
+D. Nyāya's elsewhere-apprehension and Advaita's indeterminable-error theory give the same account of the illusory object.
+
+- **A — Incorrect:** Advaita does not classify experienced silver as sheer non-being; it is indeterminable and sublatable, unlike an utterly nonexistent hare's horn.
+- **B — Correct:** Later knowledge cancels the presented silver's apparent standing, not merely its supposed location, challenging Nyāya's appeal to real silver elsewhere.
+- **C — Incorrect:** Nyāya accepts the real shell and explains erroneous cognition; the dispute concerns importing a real elsewhere-object into the present appearance.
+- **D — Incorrect:** Nyāya invokes a real object mislocated through cognition, whereas Advaita treats the appeared object as indeterminable and subsequently sublated.
+
+**MCQ 59: C**
+
+**Question:** The deeper significance of anirvacanīya-khyāti in the overall Vedānta syllabus is that:
+
+A. It remains an isolated theory of perceptual error and contributes nothing to Advaita's metaphysics of cosmic appearance or sublation.
+B. It matters chiefly to Nyāya, which uses indescribability to explain how external objects become private mental constructions.
+C. It models experienced yet sublatable error, supporting Advaita's account of the world as dependent appearance.
+D. It undermines Brahman by showing that every experienced object, including the absolute, must be ontologically indeterminable.
+
+- **A — Incorrect:** The error theory supplies a direct model for Advaita's world doctrine, linking experienced appearance with dependence and eventual sublation.
+- **B — Incorrect:** Indeterminable error is Advaita's resource, whereas Nyāya explains illusion through an externally real object cognized in the wrong place.
+- **C — Correct:** An experienced yet sublatable error demonstrates how appearance can function without independent reality, providing the template for the world relative to Brahman.
+- **D — Incorrect:** Brahman is the unsublatable ground used to assess appearances; the theory does not extend ontological indeterminacy to the absolute itself.
+
+**MCQ 60: D**
+
+**Question:**
+
+Why is Sāṃkhya called Śaṅkara's "chief wrestler" (pradhāna-malla) rather than
+just one rival among many?
+
+A. Because Sāṃkhya rejects every causal and metaphysical premise accepted by Advaita, making it the most radically opposed and therefore chief rival.
+B. Because Sāṃkhya arose geographically nearer to Advaita than competing Vedānta traditions did.
+C. Because Sāṃkhya was the sole philosophical school ever criticized in Śaṅkara's commentaries.
+D. Because shared satkāryavāda and single-principle causal ambitions make Sāṃkhya Advaita's closest explanatory rival.
+
+- **A — Incorrect:** The rivalry is formidable because substantial causal common ground permits close competition, not because the systems share no premises.
+- **B — Incorrect:** Geographical proximity does not ground the designation; philosophical closeness and competing explanatory power make the contest especially serious.
+- **C — Incorrect:** Śaṅkara criticizes several schools, so comparative seriousness rather than exclusive attention explains Sāṃkhya's description as chief rival.
+- **D — Correct:** Shared effect-preexistence and rival single-cause explanations place Sāṃkhya unusually close to Advaita while preserving a decisive metaphysical contest.
+
+**MCQ 61: A**
+
+**Question:**
+
+The
+"pradhāna-malla" framing should be understood as implying:
+
+A. Sāṃkhya is Advaita's strongest rival, so Śaṅkara's criticisms engage a serious opponent rather than a convenient strawman.
+B. Calling Sāṃkhya the strongest rival means its three-quality theory conclusively defeats every objection Śaṅkara raises against unconscious primordial nature.
+C. Their intense rivalry shows that Sāṃkhya and Advaita ultimately share an identical ontology of consciousness, matter, causation, and liberation.
+D. Sāṃkhya is called the chief rival because its weak resources make it easiest for Śaṅkara to dismiss directly.
+
+- **A — Correct:** The description marks Sāṃkhya as philosophically formidable, requiring Śaṅkara's arguments to address its causal theory and three-quality mechanics seriously.
+- **B — Incorrect:** Serious resources permit substantive replies, but they do not establish that Sāṃkhya conclusively defeats every Advaita criticism.
+- **C — Incorrect:** Rivalry arises despite shared concerns; the systems remain divided over conscious Brahman, unconscious primordial nature, selfhood, and liberation.
+- **D — Incorrect:** The chief-rival metaphor signals strength, not easy defeat, and acknowledges Sāṃkhya's developed account of causation and material evolution.
+
+**MCQ 62: B**
+
+**Question:**
+
+1. Advaita's five consequences (world, self, ethics, devotion, pramāṇas) are five unrelated doctrinal claims with no common structure.
+2. Ethics and karma remain fully binding at the vyāvahārika level in Advaita.
+3. Devotion, on Advaita's own logic, becomes preparatory rather than final.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1, 2 and 3
+D. None of the statements
+
+- **A — Incorrect:** Statement 2 is true, but statement 1 ignores the common empirical–ultimate structure, while statement 3's preparatory account of devotion is omitted.
+- **B — Correct:** Statements 2 and 3 hold: ethics and karma bind empirically, while devotion prepares for knowledge rather than constituting final Advaitic realization; statement 1 is false.
+- **C — Incorrect:** The complete set fails because statement 1 wrongly treats five applications of Advaita's two-level distinction as unrelated doctrinal claims.
+- **D — Incorrect:** Denying every statement ignores the empirical binding force of ethics and karma and devotion's preparatory, rather than final, role in Advaita.
+
+**MCQ 63: C**
+
+**Question:** The "self-referential tension" identified in this lesson refers to:
+
+A. The external dispute between Advaita and Dvaita over whether individual selves are ultimately identical with Brahman or eternally distinct from God.
+B. The internal hierarchy between individual self and Lord as conditioned appearances operating within empirical reality.
+C. Advaita uses reason and scripture to establish non-dual ultimate truth that later assigns both instruments only provisional authority.
+D. Śaṅkara's disagreement with Sāṃkhya over whether the world's material cause is conscious or insentient.
+
+- **A — Incorrect:** That is an inter-school conflict about selfhood, not Advaita's reflexive reliance on instruments whose authority its conclusion later relativizes.
+- **B — Incorrect:** The self–Lord hierarchy concerns conditioned consciousness within empirical reality, distinct from the epistemic status of reason and scripture.
+- **C — Correct:** Reasoning and revelation establish non-dual truth, yet realization reclassifies both means as provisionally valid within the ignorance they help remove.
+- **D — Incorrect:** The Sāṃkhya dispute concerns causation and the nature of the material source, rather than Advaita's internally self-relativizing method.
+
+**MCQ 64: D**
+
+**Question:**
+
+A 20-mark answer to the 2019
+question that concludes only "Advaita's absolutism is entirely wisdom with no cost" would be:
+
+A. Fully adequate because Advaita's superiority is philosophically settled, making critical counterarguments unnecessary.
+B. Fully adequate because evaluation may endorse Śaṅkara without presenting any opposing scholarly verdict.
+C. Inadequate solely because the conclusion is brief, regardless of whether it evaluates praise and criticism.
+D. Inadequate: evaluation must weigh admirers and critics before reaching a reasoned judgment.
+
+- **A — Incorrect:** Assuming indisputable superiority merely reproduces one-sided praise; philosophical evaluation requires engaging substantial criticism before deciding.
+- **B — Incorrect:** An evaluative answer cannot omit opposing verdicts, because unsupported endorsement does not demonstrate balanced critical judgment.
+- **C — Incorrect:** Brevity is not the central defect; the conclusion fails chiefly by ignoring criticism and substituting assertion for evaluation.
+- **D — Correct:** A sound conclusion presents favourable and critical assessments of Advaita, then derives a balanced judgment from that comparison.
+
+**MCQ 65: A**
+
+**Question:**
+
+1. The Śaṅkara-Rāmānuja debate on Brahman concerns whether the absolute is nirguṇa or saguṇa.
+2. The Rāmānuja-Madhva debate concerns whether unity and plurality can be combined through inseparability or must remain uncompromisingly different.
+3. Vedānta and Mīmāṃsā share no textual or hermeneutic background whatsoever.
+
+Which of the statements given above is/are correct?
+
+A. 1 and 2 only
+B. 2 and 3 only
+C. 1 and 3 only
+D. 3 only
+
+- **A — Correct:** Statements 1 and 2 correctly identify the nirguṇa–saguṇa dispute and inseparability-versus-difference debate; statement 3 falsely denies Vedānta's Mīmāṃsā background.
+- **B — Incorrect:** Statement 2 is true, but statement 3 ignores shared Vedic hermeneutics and pramāṇa theory, while statement 1 is omitted.
+- **C — Incorrect:** Statement 1 accurately frames Śaṅkara against Rāmānuja, yet statement 3 denies Mīmāṃsā influence and statement 2 is excluded.
+- **D — Incorrect:** Statement 3 alone is false: Vedānta inherits substantial textual, hermeneutic, and epistemological background from Mīmāṃsā; statements 1 and 2 are true.
+
+**MCQ 66: B**
+
+**Question:**
+
+A candidate writes: "Advaita is simply the best school of Vedānta, with no
+weaknesses." This claim is:
+
+A. An exclusively favourable verdict is fully adequate because a critical answer should defend Advaita's strengths rather than examine rival objections or disputed doctrines.
+B. An exclusively favourable verdict is inadequate; critical evaluation must weigh Advaita's strengths, weaknesses, and contested claims.
+C. An exclusively favourable verdict is adequate because Rāmānuja's and Madhva's objections lack any independent philosophical force.
+D. An exclusively favourable verdict is adequate because no important Advaita doctrine remains philosophically contested.
+
+- **A — Incorrect:** Critical evaluation requires testing strengths against objections and limitations; advocacy alone cannot satisfy a balanced twenty-mark philosophical demand.
+- **B — Correct:** A defensible evaluation must recognize Advaita's explanatory strengths while assessing vulnerabilities and continuing disputes raised by rival Vedānta thinkers.
+- **C — Incorrect:** Rāmānuja and Madhva raise substantive objections about appearance, difference, and devotion, so dismissing their force prejudges the required evaluation.
+- **D — Incorrect:** Advaita's accounts of appearance, causation, and liberation remain contested, making unqualified endorsement unsuitable for a critical response.
+
+**MCQ 67: C**
+
+**Question:**
+
+The most defensible
+master-level conclusion to a "compare and evaluate the schools of Vedānta" question is:
+
+A. Vedānta forms a single doctrine whose apparent disputes arise from terminology, so evaluation need only harmonize their different vocabularies.
+B. Evaluation should first declare one school uniquely correct and then reinterpret the others as imperfect anticipations, without examining their criteria of reality.
+C. Each defence presupposes a criterion of reality—sublation, inseparable qualification, or real difference—whose explanatory gains and costs must be assessed.
+D. The debate is philosophically empty because none of the schools offers reasoned arguments for its treatment of unity, plurality, dependence, liberation, or knowledge.
+
+- **A — Incorrect:** The schools disagree substantially about reality, difference, and dependence; terminological harmonization would conceal rather than evaluate those commitments.
+- **B — Incorrect:** Declaring a winner in advance bypasses comparison of the rival standards that make each account internally persuasive.
+- **C — Correct:** Sound evaluation tests how sublation, inseparable qualification, and real difference explain experience, while identifying the commitments and costs each standard carries.
+- **D — Incorrect:** All three schools develop extensive arguments about unity and plurality, so their disagreement is philosophically substantive rather than empty.
+
+**MCQ 68: D**
+
+**Question:**
+
+Which of the following correctly pairs
+a doctrine with its owning school?
+
+A. Fivefold difference (pañcavidhabheda)—Advaita; inseparability (apṛthaksiddhi)—Dvaita; apparent transformation theory (vivartavāda)—Viśiṣṭādvaita
+B. Fivefold difference doctrine—Viśiṣṭādvaita; inseparability—Advaita; apparent transformation—Dvaita
+C. All three doctrines are jointly accepted by Advaita, Viśiṣṭādvaita, and Dvaita without distinct ownership
+D. Fivefold difference (pañcavidhabheda)—Dvaita; inseparability (apṛthaksiddhi)—Viśiṣṭādvaita; apparent transformation (vivartavāda)—Advaita
+
+- **A — Incorrect:** Each attribution is displaced: fivefold difference belongs to Dvaita, inseparability to qualified non-dualism, and apparent transformation to Advaita.
+- **B — Incorrect:** This arrangement assigns every doctrine incorrectly; their respective owners are Dvaita, Viśiṣṭādvaita, and Advaita.
+- **C — Incorrect:** These doctrines mark distinct school positions rather than a common inheritance accepted without differentiation by all three traditions.
+- **D — Correct:** Madhva teaches fivefold difference, Rāmānuja inseparable dependence, and Śaṅkara apparent transformation, so all three school-doctrine pairings are accurate.
+
+**MCQ 69: A**
+
+**Question:**
+
+Consider the following pairs:
 1. Śaṅkara — vivartavāda
-2. Rāmānuja — pariṇāmavāda-type real transformation of Brahman's modes
-3. Madhva — Brahman as both efficient and material cause
+2. Madhva — Brahman as both efficient and material cause
+3. Rāmānuja — pariṇāmavāda-type real transformation of Brahman's modes
 
 Which of the pairs given above is/are correctly matched?
-**A. 1 and 2 only**
-**B. 2 and 3 only**
-**C. 1 and 3 only**
-**D. 1, 2 and 3**
 
-**MCQ 2.** A candidate must answer a question asking to "compare the concept of Īśvara across
-Advaita, Viśiṣṭādvaita and Dvaita." Which of the following closing lines best demonstrates mastery
-of the material in this file?
-**A. "All three schools agree that Īśvara is the final, ultimate reality."**
-**B. "In Advaita, Īśvara is a vyāvahārika construction sublated by nirguṇa Brahman; in Viśiṣṭādvaita and Dvaita, Īśvara/God is ultimate, with no higher level — the decisive difference is whether personal theism is final or provisional truth."**
-**C. "Īśvara is identical to jīva in all three schools."**
-**D. "Only Advaita accepts the existence of Īśvara."**
+A. 1 and 3 only
+B. 1 and 2 only
+C. 1, 2 and 3
+D. None of the statements
 
-**MCQ 3.** Which of the following correctly identifies the shared explanatory ground that makes
-Sāṃkhya, rather than Nyāya or Buddhism, Śaṅkara's "chief wrestler" (pradhāna-malla)?
-**A. Sāṃkhya and Advaita share no common ground at all.**
-**B. Sāṃkhya and Nyāya are identical systems.**
-**C. Sāṃkhya broadly shares satkāryavāda and a single-material-principle explanatory strategy with Advaita, differing decisively only on whether that principle is conscious.**
-**D. Sāṃkhya rejects causation entirely.**
+- **A — Correct:** Pairs 1 and 3 are correct: Śaṅkara teaches apparent transformation and Rāmānuja real transformation of Brahman's modes; pair 2 falsely assigns Madhva material causality.
+- **B — Incorrect:** Pair 1 is correct, but pair 2 is false because Madhva makes God efficient, not material, cause; pair 3 is omitted.
+- **C — Incorrect:** The complete set fails because pair 2 wrongly makes Brahman Madhva's material cause, although pairs 1 and 3 are correctly matched.
+- **D — Incorrect:** Denying all pairs ignores Śaṅkara's vivartavāda and Rāmānuja's real transformation of Brahman's modes; only Madhva's pairing is incorrect.
 
-**MCQ 4.** Which sequence correctly orders Advaita's stages from ignorance to stable
+**MCQ 70: B**
+
+**Question:** Across Advaita, Viśiṣṭādvaita and Dvaita, how does the ultimate ontological status of Īśvara differ?
+
+A. Advaita, qualified non-dualism, and dualism all regard Lord (Īśvara) as ultimate reality, differing only over divine attributes and devotional practice.
+B. Advaita sublates empirical Lord (Īśvara) into attributeless Brahman; the other two regard God as ultimate.
+C. Advaita and qualified non-dualism treat Lord (Īśvara) as provisional appearance, whereas dualism alone regards the personal God as ultimate.
+D. Qualified non-dualism sublates Lord (Īśvara) into an impersonal absolute, whereas Advaita and dualism both treat the personal God as final.
+
+- **A — Incorrect:** Advaita places the personal Lord at empirical reality and ultimately sublates that form, unlike the two realist theistic schools.
+- **B — Correct:** Advaita distinguishes empirical Lord from attributeless Brahman, while qualified non-dualism and dualism recognize no higher reality beyond the personal God.
+- **C — Incorrect:** Qualified non-dualism identifies the personal God with ultimate Brahman and therefore does not reduce Lord to a provisional appearance.
+- **D — Incorrect:** The reversal misstates both systems: qualified non-dualism makes God ultimate, while Advaita alone posits attributeless Brahman beyond empirical Lord.
+
+**MCQ 71: C**
+
+**Question:** What shared explanatory ground makes Sāṃkhya, rather than Nyāya or Buddhism, Śaṅkara's principal opponent (pradhāna-malla)?
+
+A. Both accept production from non-being and explain the world through many eternal atoms, differing only over the number, embodiment, and status of independent selves.
+B. Both reduce the world to appearance upon non-dual consciousness, differing only over whether devotion has preparatory or final value.
+C. Both accept that the effect pre-exists in one material principle, differing over whether that ultimate source is conscious Brahman or insentient prakṛti.
+D. Both treat God as efficient cause of eternal matter, differing only over whether primordial matter can transform itself.
+
+- **A — Incorrect:** Production from non-being and atomic pluralism characterize Nyāya–Vaiśeṣika, not the shared causal framework of Sāṃkhya and Advaita.
+- **B — Incorrect:** Sāṃkhya regards the evolved world as real and rejects Advaita's account of appearance upon a non-dual conscious ground.
+- **C — Correct:** Both accept pre-existence of the effect and a single material source; their decisive disagreement concerns insentient prakṛti versus conscious Brahman.
+- **D — Incorrect:** The efficient God acting on independent eternal matter resembles Nyāya, whereas Sāṃkhya and Advaita make one principle the material source.
+
+**MCQ 72: D**
+
+**Question:**
+
+Which sequence correctly orders Advaita's stages from ignorance to stable
 Brahman-knowledge?
-**A. Nididhyāsana → manana → śravaṇa**
-**B. Manana → śravaṇa → nididhyāsana**
-**C. Śravaṇa → nididhyāsana → manana**
-**D. Śravaṇa → manana → nididhyāsana**
 
-**MCQ 5.** Which of the following correctly distinguishes Rāmānuja's satkhyāti from Advaita's
-anirvacanīya-khyāti?
-**A. Satkhyāti holds cognition is always of the real (error is misapprehending one real for another via elemental intermixture); anirvacanīya-khyāti holds the erroneous object is neither fully real nor fully unreal.**
-**B. The two theories are identical in every respect.**
-**C. Satkhyāti belongs to Dvaita, not Viśiṣṭādvaita.**
-**D. Anirvacanīya-khyāti holds the erroneous object is fully real.**
+A. Contemplation (nididhyāsana) → reflection (manana) → hearing (śravaṇa), in reverse order
+B. Reflection (manana) → hearing (śravaṇa) → contemplation (nididhyāsana), placing inquiry before testimony
+C. Hearing (śravaṇa) → contemplation (nididhyāsana) → reflection (manana), postponing rational clarification
+D. Hearing (śravaṇa) → reflection (manana) → contemplation (nididhyāsana), the Advaita sequence
 
-**MCQ 6.** A question asks: "Explain the significance of apṛthaksiddhi in Viśiṣṭādvaita." Which of
-the following captures its FULL significance, rather than only part of it?
-**A. It only explains the reality of matter, with no relevance to selves.**
-**B. It preserves non-duality (one substantive whole), real difference (genuine modes, not illusion), and devotion (a meaningful, permanent God-soul relation) simultaneously.**
-**C. It is relevant only to Sāṃkhya's causal theory.**
-**D. It denies that cit and acit are real.**
+- **A — Incorrect:** Contemplation stabilizes understanding produced through prior hearing and reflection, so beginning with it reverses the required pedagogical order.
+- **B — Incorrect:** Reflection examines what has first been heard from scripture; placing it before testimony removes the teaching it must clarify.
+- **C — Incorrect:** Contemplation should follow rational reflection, so moving directly from hearing to contemplation wrongly postpones doubt-removing inquiry.
+- **D — Correct:** Advaita proceeds from scriptural hearing through reflective removal of doubts to sustained contemplation that assimilates the understood teaching.
 
-**MCQ 7.** Which of the following correctly represents the relationship between adhyāsa and māyā?
-**A. They are entirely unrelated concepts from different schools.**
-**B. Adhyāsa belongs to Dvaita; māyā belongs to Advaita.**
-**C. Adhyāsa (individual-cognitive superimposition, with āvaraṇa and vikṣepa) mirrors māyā (cosmic appearance, with the same two powers) — the individual-level and cosmic-level expressions of the same explanatory structure.**
-**D. Māyā causes adhyāsa to cease.**
+**MCQ 73: A**
 
-**MCQ 8.** Which of the following best completes this Vedānta master-principle: "Every Vedāntic
+**Question:** How does Rāmānuja's satkhyāti differ from Advaita's anirvacanīya-khyāti on the status of the erroneous object?
+
+A. Real-cognition theory (satkhyāti) treats cognition as real through elemental intermixture; indeterminable-error theory makes the object neither real nor unreal.
+B. Real-cognition theory treats the erroneous object as sheer non-being produced by memory, whereas indeterminable-error theory makes it permanently real and immune to sublation.
+C. Both theories place the erroneous object beyond real and unreal, differing only over whether its appearance arises internally or externally.
+D. Real-cognition theory relocates an elsewhere-object, while indeterminable-error theory denies that any object appears in error.
+
+- **A — Correct:** Real-cognition theory preserves reality through fivefold elemental combination, whereas Advaita's account classifies the experienced but sublatable object as indeterminable.
+- **B — Incorrect:** The contrast is distorted: real-cognition theory retains reality, and indeterminable-error theory expressly denies both permanent reality and sheer non-being.
+- **C — Incorrect:** Only Advaita assigns the appeared object an indeterminable status; real-cognition theory explains every cognition through constituents regarded as real.
+- **D — Incorrect:** Elsewhere-apprehension belongs to Nyāya, while Advaita affirms that an object appears even though its ontological status is indeterminable.
+
+**MCQ 74: B**
+
+**Question:** In Viśiṣṭādvaita, what does apṛthaksiddhi secure at one and the same time?
+
+A. It secures reality only for matter, leaving conscious selves to obtain their status separately through the body–soul analogy.
+B. It unites one substantive whole, real dependent modes, and a permanent God–soul relation supporting devotion.
+C. It establishes numerical identity of souls and matter with Brahman, reducing their apparent differences to verbal distinctions.
+D. It establishes a permanent hierarchy among liberated souls, grounding devotion in unequal status that survives liberation.
+
+- **A — Incorrect:** Inseparable dependence applies to conscious selves and matter alike; the body–soul analogy integrates both within Brahman's qualified unity.
+- **B — Correct:** Inseparable qualification preserves one Brahman, the reality of dependent souls and matter, and an enduring relation that makes devotion intelligible.
+- **C — Incorrect:** The doctrine affirms real distinction within inseparability, not numerical identity or merely verbal difference between Brahman and dependent modes.
+- **D — Incorrect:** Permanent gradation among souls belongs to Madhva's dualism; Rāmānuja instead stresses shared dependence within Brahman's qualified unity.
+
+**MCQ 75: C**
+
+**Question:** How are adhyāsa and māyā related in Advaita?
+
+A. Adhyāsa and māyā are wholly unrelated doctrines from separate traditions, sharing neither scope nor any mechanism of concealment and projection.
+B. Adhyāsa is the cosmic power and māyā its individual cognitive instance, reversing their established scopes.
+C. Adhyāsa and māyā are individual-cognitive and cosmic expressions of one structure, using concealment (āvaraṇa) and projection (vikṣepa).
+D. Māyā is the corrective knowledge that removes individual adhyāsa, rather than its cosmic structural parallel.
+
+- **A — Incorrect:** Both belong to Advaita's account of appearance and share concealment-projection logic, despite operating at different explanatory levels.
+- **B — Incorrect:** The scopes are reversed: adhyāsa names individual cognitive superimposition, while māyā names the corresponding cosmic power.
+- **C — Correct:** Individual superimposition and cosmic appearance instantiate one structure: reality is concealed and an alternative appearance is projected.
+- **D — Incorrect:** Liberating knowledge removes superimposition; māyā instead describes the cosmic counterpart of adhyāsa and is not itself the remedy.
+
+**MCQ 76: D**
+
+**Question:**
+
+Which of the following best completes this Vedānta master-principle: "Every Vedāntic
 dispute ultimately turns on whether difference is..."?
-**A. "...irrelevant to philosophy."**
-**B. "...only a matter of language, with no metaphysical content."**
-**C. "...accepted identically by all six schools."**
-**D. "...appearance, qualification, or ultimate fact."**
 
-### Answers and explanations — Original MCQ Practice
+A. ‘...a merely verbal dispute without ontological consequences across the major Vedānta schools.’
+B. ‘...an empirical error regarded as equally sublatable by every Vedānta school.’
+C. ‘...one ultimate reality described identically throughout all six Vedānta traditions.’
+D. ‘...appearance, qualification, or ultimate fact across the principal schools.’
 
-**MCQ 1 → A (1 and 2 only).** Pair 1 is correct (Lesson 6). Pair 2 is correct (Lesson 3b — Rāmānuja's
-causation is real, through Brahman's modes). Pair 3 is false — Madhva explicitly denies Brahman is
-material cause; God is efficient cause **only** (Lesson 3c) — this is the one clear exception
-tested throughout the file.
+- **A — Incorrect:** Difference has direct ontological significance because the schools disagree over whether plurality is apparent, qualifying, or irreducibly real.
+- **B — Incorrect:** Only Advaita ultimately sublates difference; qualified non-dualism and dualism preserve real distinction with different metaphysical status.
+- **C — Incorrect:** The six traditions do not describe difference identically, since their competing ontologies assign it sharply divergent levels of reality.
+- **D — Correct:** The formulation captures the central spectrum: apparent difference in Advaita, qualifying difference in qualified non-dualism, and ultimate difference in dualism.
 
-**MCQ 2 → B.** This closing line demonstrates the full two-level comparative mastery expected
-(Lesson 2, Lesson 4 and Lesson 5 (Part A)). Options A, C and D each contain a factual error directly contradicted by multiple
-lessons.
+**MCQ 77: A**
 
-**MCQ 3 → C.** This is the precise basis of the "chief wrestler" designation (Lesson 14 (Part B)). Options A,
-B and D all misstate the actual relationship.
+**Question:** Which statement most accurately represents Advaita's nirguṇa Brahman?
 
-**MCQ 4 → D.** Śravaṇa (hearing) → manana (reflection) → nididhyāsana (contemplation) is the fixed
-sequence (Lesson 9 §2A). The other orderings scramble this sequence.
+A. It denies limiting empirical and relational attributes, not Brahman's intrinsic nature as infinite being-consciousness-bliss.
+B. It denies every predicate without exception, including being-consciousness-bliss, leaving Brahman as a sheer blank beyond meaningful affirmation.
+C. It describes a lower Brahman beneath the qualified Lord, whose determinate divine nature alone possesses absolute reality.
+D. It names Brahman's condition during deep sleep, after which relational qualities return with ordinary waking experience.
 
-**MCQ 5 → A.** This is the precise contrast (Lesson 11 §4, Lesson 8 (Part B) comparative table). Options B, C
-and D all misstate the theories or their school-ownership.
+- **A — Correct:** Attributelessness removes limiting and relational predicates, while being-consciousness-bliss expresses Brahman's essential nature rather than adventitious qualities.
+- **B — Incorrect:** Negating being-consciousness-bliss would erase Brahman's essence; Advaita denies limiting attributes, not every meaningful indication of reality.
+- **C — Incorrect:** Advaita treats attributeless Brahman as ultimate and the qualified Lord as empirically valid, so the proposed hierarchy is reversed.
+- **D — Incorrect:** Attributeless Brahman is the constant unsublatable reality, not a temporary deep-sleep state that changes when waking begins.
 
-**MCQ 6 → B.** This captures apṛthaksiddhi's full, three-part payoff (Lesson 10 §4). Options A, C and
-D each capture only a fragment or misstate the doctrine.
+**MCQ 78: B**
 
-**MCQ 7 → C.** This is the precise parallel drawn in Lesson 8 (Part A) §4. Options A, B and D all misstate
-the relationship or misattribute the concepts to the wrong schools.
+**Question:** Which statement most accurately represents the mithyā-status of jagat in Advaita?
 
-**MCQ 8 → D.** This is the master principle stated at the close of Lesson 14 (Part D). Options A, B and C all
-contradict the substantive content of the entire file.
+A. The world's mithyā status makes it sheer non-being, like a hare's horn, despite its apparently ordered experience.
+B. The world is dependent and sublatable: experienced, but neither absolutely real nor sheer non-being.
+C. The world's mithyā status makes it absolutely real and identical with Brahman in every respect and standpoint.
+D. The world is Brahman's real, unchanged manifestation and therefore can never be sublated by liberating knowledge.
 
-## ORIGINAL MAINS PRACTICE
+- **A — Incorrect:** A hare's horn is sheer non-being and never appears, whereas the experienced world has dependent empirical presence before sublation.
+- **B — Correct:** Mithyā denotes experienced yet dependent appearance that knowledge sublates, distinguishing the world from both absolute reality and complete non-being.
+- **C — Incorrect:** Absolute identity with Brahman would make the world ultimately real rather than dependent and sublatable, contradicting its mithyā status.
+- **D — Incorrect:** Real unchanged manifestation describes Vallabha's account, while Advaita treats worldly appearance as dependent and sublatable through knowledge.
+
+**MCQ 79: C**
+
+**Question:** Which statement most accurately represents apṛthaksiddhi in Viśiṣṭādvaita?
+
+A. Inseparability makes consciousness and matter numerically identical with Brahman, while their experienced differences arise solely from ignorance.
+B. Inseparability names dualism's five eternal differences among substances that remain independently existent.
+C. Inseparability relates genuinely distinct terms that cannot exist or be understood apart from Brahman as dependent modes.
+D. Inseparability denies consciousness and matter any reality beyond temporary appearance within Brahman.
+
+- **A — Incorrect:** Qualified non-dualism regards consciousness and matter as real modes, so their distinctions cannot be reduced to ignorance or numerical identity.
+- **B — Incorrect:** Fivefold difference (pañcabheda) belongs to Madhva's dualism and asserts enduring distinction, not Rāmānuja's relation of dependent inseparability.
+- **C — Correct:** Inseparable relation (apṛthaksiddhi) preserves real distinction while making consciousness and matter dependent modes incapable of standing apart from Brahman.
+- **D — Incorrect:** Rāmānuja affirms the reality of consciousness and matter; calling them temporary appearances replaces his realism with the Advaita view he opposes.
+
+**MCQ 80: D**
+
+**Question:**
+
+A complete answer on
+pañcavidhabheda must name:
+
+A. God–world, God–soul, and soul–matter differences, while distinctions among souls and among material entities remain derivative.
+B. God–soul, soul–soul, and matter–matter differences, while God–matter and soul–matter express dependence rather than difference.
+C. Four real differences involving God and souls; matter–matter difference is merely conventional.
+D. The five irreducible differences: God–soul, soul–soul, soul–matter, God–matter, and matter–matter.
+
+- **A — Incorrect:** Madhva treats distinctions among souls and among material entities as irreducible, not as derivatives of broader relations.
+- **B — Incorrect:** Dependence does not replace difference; God–matter and soul–matter are two indispensable members of the fivefold scheme.
+- **C — Incorrect:** Matter–matter difference is fully real for Madhva, so omitting it leaves only four and destroys the doctrine's completeness.
+- **D — Correct:** Fivefold difference comprises God–soul, soul–soul, soul–matter, God–matter, and matter–matter, each real and irreducible within Madhva's pluralism.
+
+**MCQ 81: A**
+
+**Question:** Which is the most defensible exam formula for the relation of māyā and avidyā in Advaita?
+
+A. Māyā usually names Īśvara's cosmic power and avidyā the jīva's individual ignorance; both are indeterminable, though usage sometimes overlaps.
+B. Every Advaita author uses māyā and avidyā as strictly identical terms at cosmic and individual levels, without any contextual distinction whatsoever.
+C. Māyā belongs exclusively to Dvaita doctrine, while only avidyā functions within Advaita's account of bondage.
+D. Māyā and avidyā are unrelated powers, lacking shared indeterminable status or textual convergence.
+
+- **A — Correct:** The usual scope distinguishes cosmic power from individual ignorance while preserving their indeterminable character and acknowledging variable textual usage.
+- **B — Incorrect:** Advaita texts do not maintain strict identity without exception; many distinguish cosmic and individual scopes even where terminology overlaps.
+- **C — Incorrect:** Both māyā and avidyā operate within Advaita, so assigning the former exclusively to Dvaita is a categorical misattribution.
+- **D — Incorrect:** The concepts share indeterminable status and sometimes overlap textually, despite their common differentiation by cosmic and individual scope.
+
+**MCQ 82: B**
+
+**Question:**
+
+A complete answer to
+a question naming Īśvara, jīva and sākṣī together must:
+
+A. Discuss Lord (Īśvara) and individual self (jīva), treating witness-consciousness (sākṣī) as optional context.
+B. Discuss Lord (Īśvara), self (jīva), and witness (sākṣī) separately; each is named.
+C. Discuss witness-consciousness (sākṣī) alone because it most closely approaches the ultimate standpoint.
+D. Treat Lord, individual self, and witness-consciousness as interchangeable labels needing one combined explanation.
+
+- **A — Incorrect:** Omitting witness-consciousness leaves the response incomplete because the demand expressly names it alongside Lord and individual self.
+- **B — Correct:** Explicit and distinct treatment of all three named concepts fulfills the demand and prevents their different doctrinal functions from being blurred.
+- **C — Incorrect:** Concentrating on witness-consciousness neglects the equally explicit requirement to explain Lord and individual self within Advaita's framework.
+- **D — Incorrect:** The terms perform distinguishable roles at empirical and analytical levels, so merging them sacrifices required conceptual precision.
+
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 > Original (non-PYQ) Mains-style practice questions at 10, 15, and 20 marks, each with a complete
 > model answer using the claim → evidence/example → analysis → qualification pattern.
@@ -5535,78 +5631,49 @@ realist robustness), and a philosophically serious verdict must assess those cos
 observe that the criteria differ. The debate is therefore genuinely substantive, even though its
 deepest fault-line is methodological rather than merely doctrinal.
 
-## COMMON-ERROR REMEDIATION SET
+# REMEDIATION
 
-> Six remedial MCQs, each targeting one of the highest-frequency conceptual errors identified across
-> all fourteen lessons. Answer rotation continues strictly from the Original MCQ Practice set
-> above.
+> The highest-frequency conceptual errors across all fourteen lessons, each paired with the correct
+> understanding and the lesson that fixes it. Targeted practice questions on these same errors are
+> carried in the cumulative MCQ corpus above; this section isolates the errors themselves for rapid
+> self-correction.
 
-**Remedial MCQ 1 (targets: "nirguṇa = nothing").** Which statement is correct?
-**A. Nirguṇa denies limiting, empirical, relational attributes; sat-cit-ānanda remains Brahman's own essence, not an external addition.**
-**B. Nirguṇa Brahman's essence, sat-cit-ānanda, is denied along with all other qualities.**
-**C. Nirguṇa is a term used only by Rāmānuja.**
-**D. Nirguṇa means Brahman has ceased to exist.**
+## Error family 1 — Collapsing a doctrine into a cruder claim
 
-**Remedial MCQ 2 (targets: "mithyā = does not exist").** Which statement is correct?
-**A. Jagat's mithyā status means it does not exist in any sense, like a hare's horn.**
-**B. Jagat's mithyā status means it is dependent, sublatable appearance — genuinely experienced and functioning, yet not absolutely real, and therefore distinct from tuccha (sheer non-existence).**
-**C. Jagat's mithyā status means it is fully, absolutely real, identical to Brahman.**
-**D. Jagat's mithyā status is irrelevant to Advaita metaphysics.**
+| Common error | Correct understanding | Fix in |
+|---|---|---|
+| "Nirguṇa = nothing / Brahman has no reality" | Nirguṇa denies limiting, empirical, relational attributes only; sat-cit-ānanda remains Brahman's own essence, not an added quality | Lesson 2 |
+| "Mithyā = does not exist, like a hare's horn" | Mithyā is dependent, sublatable appearance — genuinely experienced and functioning, hence distinct from tuccha (sheer non-being) | Lesson 6 |
+| "Apṛthaksiddhi = identity" | Apṛthaksiddhi is an inseparable relation between really distinct terms, not their collapse into sameness | Lesson 10 |
+| "Vivarta = pariṇāma" | Vivarta is apparent (sublatable) transformation; pariṇāma is real transformation — structurally related but ontologically opposed on whether the effect really changes | Lesson 6 |
 
-**Remedial MCQ 3 (targets: "apṛthaksiddhi = identity").** Which statement is correct?
-**A. Apṛthaksiddhi means cit and acit are numerically identical with Brahman.**
-**B. Apṛthaksiddhi is a Dvaita doctrine.**
-**C. Apṛthaksiddhi describes an inseparable relation between really distinct terms, not their collapse into sameness.**
-**D. Apṛthaksiddhi denies the reality of cit and acit.**
+## Error family 2 — Incomplete or imprecise lists
 
-**Remedial MCQ 4 (targets: incomplete pañcavidhabheda lists).** A complete answer on
-pañcavidhabheda must name:
-**A. Only the difference between God and the world.**
-**B. Only the difference between souls and God.**
-**C. Only three of the five differences, since the other two are optional.**
-**D. All five differences: jīva-Īśvara, jīva-jīva, jīva-jaḍa, Īśvara-jaḍa, and jaḍa-jaḍa.**
+| Common error | Correct understanding | Fix in |
+|---|---|---|
+| Naming only the God–world difference under pañcavidhabheda | All five differences are required: jīva-Īśvara, jīva-jīva, jīva-jaḍa, Īśvara-jaḍa, jaḍa-jaḍa; the jīva-jīva and jaḍa-jaḍa differences are the ones most often dropped | Lesson 12 |
+| Giving only two or three of Rāmānuja's objections | The demand is the full sapta-anupapatti (all seven); a partial list is penalised even when well explained | Lesson 11 |
+| Treating the six pramāṇas as common to all schools | Advaita accepts six; Viśiṣṭādvaita and Dvaita accept three — a frequently tested reduction | Lesson 1 (Part B) |
 
-**Remedial MCQ 5 (targets: treating māyā/avidyā as flatly identical or flatly separate).** The safest
-exam formula for māyā and avidyā is:
-**A. In many Advaita formulations, māyā is the cosmic power associated with Īśvara while avidyā is the individual ignorance associated with jīva; both are anirvacanīya, though some texts use the terms interchangeably.**
-**B. Māyā and avidyā are always completely identical in every Advaita text, with no distinction whatsoever.**
-**C. Māyā belongs to Dvaita and avidyā belongs to Advaita.**
-**D. Māyā and avidyā are always completely unrelated, with no textual overlap at all.**
+## Error family 3 — Flattening a deliberately nuanced relation
 
-**Remedial MCQ 6 (targets: forgetting sākṣī in the Īśvara/jīva/sākṣī triad).** A complete answer to
-a question naming Īśvara, jīva and sākṣī together must:
-**A. Discuss only Īśvara and jīva, since sākṣī is a minor, optional detail.**
-**B. Discuss all three named terms explicitly, since omitting any one that the question names directly costs marks.**
-**C. Discuss only sākṣī, since it is closest to the pāramārthika standpoint.**
-**D. Treat Īśvara, jīva and sākṣī as fully identical terms requiring no separate treatment.**
+| Common error | Correct understanding | Fix in |
+|---|---|---|
+| Treating māyā and avidyā as flatly identical or flatly separate | In many formulations māyā is the cosmic power (with Īśvara) and avidyā the individual ignorance (with jīva); both are anirvacanīya, though usage varies textually | Lesson 7 (Parts A and B) |
+| Omitting sākṣī when a question names Īśvara, jīva and sākṣī together | Every term the question names must be treated explicitly; omitting any one costs marks regardless of how well the others are handled | Lesson 5 (Part A) |
+| Reading a mahāvākya as crude empirical sameness | "Tat tvam asi" teaches identity of essence via bhāga-tyāga-lakṣaṇā, not literal sameness of empirical conditions | Lesson 14 (Part A) |
 
-### Answers and explanations — Common-Error Remediation Set
+## Error family 4 — Over-generalising one school across Vedānta
 
-**Remedial MCQ 1 → A.** This is the precise clarification from Lesson 2 §3a. Option B is the classic
-trap. Option C is false — nirguṇa/saguṇa are used across schools, though with different verdicts.
-Option D confuses a doctrinal claim about attributes with a claim about existence.
+| Common error | Correct understanding | Fix in |
+|---|---|---|
+| "Brahman is nimitta and upādāna kāraṇa" stated for all Vedānta | The formulation is Advaita's (with vivarta); Viśiṣṭādvaita makes causation real, and Dvaita denies Brahman is material cause at all | Lesson 3 |
+| Presenting reflection (pratibimba) as Advaita's sole individuation model | Avaccheda and ābhāsa models co-exist with pratibimba; naming only one is incomplete | Lesson 4 and Lesson 5 (Part C) |
+| Reducing a four-school question to the familiar three-school grid | When a question names specific schools, answer exactly those; substituting Advaita for a named school loses credit | Lesson 13 |
 
-**Remedial MCQ 2 → B.** This is the precise mithyā/tuccha distinction (Lesson 6 §2–§3). Option A is
-the central trap. Option C contradicts jagat's dependent, sublatable status. Option D is simply
-false — mithyā-status is central to Advaita's entire metaphysics.
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-**Remedial MCQ 3 → C.** This is the precise distinction (Lesson 10 §5). Option A is the trap. Option
-B misattributes the doctrine — apṛthaksiddhi belongs to Viśiṣṭādvaita. Option D contradicts the
-doctrine's entire purpose, which is to affirm cit/acit as real.
-
-**Remedial MCQ 4 → D.** This is the explicit warning repeated in Lesson 12 §3 and Lesson 14 (Part D) §4 —
-answers naming only 2–3 of the five differences are incomplete, especially when jīva-jīva and
-jaḍa-jaḍa are the ones omitted.
-
-**Remedial MCQ 5 → A.** This is the exact safer formula given in Lesson 7 (Part A) §5 and Lesson 7 (Part B) §6.
-Options B, C and D all misstate the textual situation, which is genuinely variable rather than
-uniformly one way or the other.
-
-**Remedial MCQ 6 → B.** This is the precise trap named in Lesson 5 (Part A)'s UPSC integration section, keyed
-to the 2022 PYQ — an answer omitting any of the three explicitly named terms is incomplete
-regardless of how well the remaining terms are explained.
-
-## MASTER COMPARISON TABLES
+## Master comparison tables
 
 ### Table 1 — Core metaphysics across the three primary schools
 
@@ -5641,7 +5708,7 @@ regardless of how well the remaining terms are explained.
 | Dvaita | 3 | Abhinava-anyathā-khyāti | Reads mahāvākyas as similarity/dependence |
 | Nyāya (foil) | — | Anyathā-khyāti | — |
 
-## MASTER ARGUMENT AND CRITICISM MAP
+## Master argument and criticism map
 
 ```text
                      THE ROOT FORK (Lesson 2)
@@ -5688,7 +5755,7 @@ Rāmānuja's seven objections and Śaṅkara's four arguments against Sāṃkhya
 argumentative structures in the file; both are fully reproduced, objection-by-objection or
 argument-by-argument, in Lesson 11 and Lesson 14 (Part B) respectively.
 
-## CONSOLIDATED REGISTER NOTES
+# COMPLETE CONSOLIDATED REGISTER NOTES
 
 > Final, compressed revision notes covering every subtopic taught in this file. These notes assume
 > the full teaching in Lessons 1–14 has already been read; they are a rapid-recall compression, not
@@ -5822,7 +5889,7 @@ argument-by-argument, in Lesson 11 and Lesson 14 (Part B) respectively.
 - Master principle: every Vedāntic dispute turns on whether difference is appearance,
   qualification, or ultimate fact.
 
-## FINAL COVERAGE MATRIX
+# COVERAGE MATRIX
 
 > Maps every canonical section of `Vedanta.md`, every syllabus term, and every verified PYQ
 > (2018–2026) to the lesson or section of this file that teaches it. No canonical heading or
@@ -5857,15 +5924,15 @@ argument-by-argument, in Lesson 11 and Lesson 14 (Part B) respectively.
 | §17.1–17.6 | Criticisms and replies for all three schools | Lesson 14 (Part D) §3 |
 | §18 (Common UPSC traps) | All ten traps | Lesson 14 (Part D) §4 |
 | §19.1–19.3 | Keyword bank; statement bank; mini-conclusions | Distributed across all 14 lessons' revision notes and mnemonics; consolidated in Register Notes A–O |
-| Restored 2018/2020 dossier | Indescribability comparison; wider Vedānta comparison; Nimbārka/Advaitic jīva-sākṣī | Lesson 7 (Part A), Lesson 8 (Part B) and Lesson 13, and PYQ bank (2018 Q5c) |
-| §20 (PYQ routing 2018–2025) | All 20 parts | PYQs and Answer Practice section (full solutions) |
+| Restored 2018/2020 dossier | Indescribability comparison; wider Vedānta comparison; Nimbārka/Advaitic jīva-sākṣī | Lesson 7 (Part A), Lesson 8 (Part B) and Lesson 13, and the Verified PYQ Linkage section (2018 Q5c) |
+| §20 (PYQ routing 2018–2025) | All 20 parts | Verified PYQ Linkage and Answer Approaches (links only) |
 | §20A (Presupposition ledger) | All twelve presuppositions | Distributed across Lessons 1–14's "step-by-step argument" sections; synthesised in Lesson 14 (Part D) §Criticism-and-reply |
 | §20B (Pūrvapakṣa–siddhānta ledger) | All entries | Lesson 14 (Part D) §3 (Criticisms and replies), cross-referenced to Lesson 2, Lesson 3, Lesson 4, Lesson 8 (Part B), Lesson 11, Lesson 12 and Lesson 14 (Part B) |
 | §20C (Inter-school positioning) | Master comparison tables | Master Comparison Tables section, Tables 1–3 |
 | §20D (Controlled Western comparison) | Bradley, Plotinus, Kant, Berkeley, Spinoza, Frege | Cited as illustrative asides within Lesson 3, Lesson 6, Lesson 8 (Part A) and Lesson 14 (Part A) (not elaborated beyond the source's own "one or two lines" rubric) |
 | §20E (Directive decoder) | All directive types | Applied throughout UPSC integration sections; explicitly invoked in Lesson 3, Lesson 9 and Lesson 13 (2024, 2023, 2026 "critically discuss"/"do you agree" questions) |
 | §20F (Graded verdict) | Advaita, Viśiṣṭādvaita, Dvaita strong/weak/contested points | Lesson 14 (Part D) §5 |
-| §21.1–21.5 (Answer architecture) | 10/15/20-mark structures; scoring tips | Embodied in the model-answer structure of every PYQ solution in the PYQs and Answer Practice section |
+| §21.1–21.5 (Answer architecture) | 10/15/20-mark structures; scoring tips | Reflected in the directive/demand decoding of every PYQ in the Verified PYQ Linkage section, and in the Original Mains Practice models |
 | §22 (Link-outs) | Sibling/cross-school/Paper II files | Referenced inline (Lesson 1 (Parts A–B) and Lesson 14 (Part B)) where directly relevant |
 
 ### Syllabus clause → lesson map
@@ -5884,103 +5951,89 @@ argument-by-argument, in Lesson 11 and Lesson 14 (Part B) respectively.
 | Aprthaksiddhi | Lesson 10 |
 | Pancavidhabheda | Lesson 12 |
 
-### Verified PYQ → lesson/solution map (2018–2026, 23 parts)
+### Verified PYQ → lesson/linkage map (2018–2026, 23 parts)
 
-| Year | Part | Marks | Primary lesson(s) | Solved in |
+| Year | Part | Marks | Primary lesson(s) | Linked in |
 |---|---|---:|---|---|
-| 2018 | Q5(c) | 10 | Lesson 7 (Part A) and Lesson 8 (Part B) | PYQ bank |
-| 2018 | Q7(a) | 20 | Lesson 13 | PYQ bank |
-| 2018 | Q7(c) | 15 | Lesson 4, Lesson 7 (Part A) and Lesson 11 | PYQ bank |
-| 2019 | Q8(a) | 20 | Lesson 14 (Part C) | PYQ bank |
-| 2020 | Q5(d) | 10 | Lesson 12 | PYQ bank |
-| 2020 | Q5(e) | 10 | Lesson 13 | PYQ bank |
-| 2020 | Q8(c) | 15 | Lesson 5 (Part B) | PYQ bank |
-| 2021 | Q7(a) | 20 | Lesson 8 (Part B) | PYQ bank |
-| 2021 | Q8(b) | 15 | Lesson 6 | PYQ bank |
-| 2021 | Q8(c) | 15 | Lesson 5 (Part C) and Lesson 6 | PYQ bank |
-| 2022 | Q5(e) | 10 | Lesson 6 | PYQ bank |
-| 2022 | Q8(a) | 20 | Lesson 5 (Part A) | PYQ bank |
-| 2022 | Q8(c) | 15 | Lesson 9 | PYQ bank |
-| 2023 | Q5(c) | 10 | Lesson 14 (Part A) | PYQ bank |
-| 2023 | Q6(a) | 20 | Lesson 2 and Lesson 3 | PYQ bank |
-| 2023 | Q7(b) | 15 | Lesson 9 | PYQ bank |
-| 2024 | Q5(e) | 10 | Lesson 10 | PYQ bank |
-| 2025 | Q5(d) | 10 | Lesson 11 | PYQ bank |
-| 2025 | Q6(b) | 15 | Lesson 3 | PYQ bank |
-| 2025 | Q8(a) | 20 | Lesson 4 | PYQ bank |
-| **2026** | **Q7(c)** | **15** | **Lesson 13** | **PYQ bank (verified)** |
-| **2026** | **Q8(b)** | **15** | **Lesson 10** | **PYQ bank (verified)** |
-| **2026** | **Q8(c)** | **15** | **Lesson 12** | **PYQ bank (verified)** |
+| 2018 | Q5(c) | 10 | Lesson 7 (Part A) and Lesson 8 (Part B) | PYQ linkage index |
+| 2018 | Q7(a) | 20 | Lesson 13 | PYQ linkage index |
+| 2018 | Q7(c) | 15 | Lesson 4, Lesson 7 (Part A) and Lesson 11 | PYQ linkage index |
+| 2019 | Q8(a) | 20 | Lesson 14 (Part C) | PYQ linkage index |
+| 2020 | Q5(d) | 10 | Lesson 12 | PYQ linkage index |
+| 2020 | Q5(e) | 10 | Lesson 13 | PYQ linkage index |
+| 2020 | Q8(c) | 15 | Lesson 5 (Part B) | PYQ linkage index |
+| 2021 | Q7(a) | 20 | Lesson 8 (Part B) | PYQ linkage index |
+| 2021 | Q8(b) | 15 | Lesson 6 | PYQ linkage index |
+| 2021 | Q8(c) | 15 | Lesson 5 (Part C) and Lesson 6 | PYQ linkage index |
+| 2022 | Q5(e) | 10 | Lesson 6 | PYQ linkage index |
+| 2022 | Q8(a) | 20 | Lesson 5 (Part A) | PYQ linkage index |
+| 2022 | Q8(c) | 15 | Lesson 9 | PYQ linkage index |
+| 2023 | Q5(c) | 10 | Lesson 14 (Part A) | PYQ linkage index |
+| 2023 | Q6(a) | 20 | Lesson 2 and Lesson 3 | PYQ linkage index |
+| 2023 | Q7(b) | 15 | Lesson 9 | PYQ linkage index |
+| 2024 | Q5(e) | 10 | Lesson 10 | PYQ linkage index |
+| 2025 | Q5(d) | 10 | Lesson 11 | PYQ linkage index |
+| 2025 | Q6(b) | 15 | Lesson 3 | PYQ linkage index |
+| 2025 | Q8(a) | 20 | Lesson 4 | PYQ linkage index |
+| **2026** | **Q7(c)** | **15** | **Lesson 13** | **PYQ linkage index (verified)** |
+| **2026** | **Q8(b)** | **15** | **Lesson 10** | **PYQ linkage index (verified)** |
+| **2026** | **Q8(c)** | **15** | **Lesson 12** | **PYQ linkage index (verified)** |
 
 ⚠️ **No unexplained gap:** every canonical heading, every syllabus term, and every one of the 23
 verified PYQ parts through 2026 is mapped above to at least one lesson or consolidated section.
 
-## SOURCE AND VERIFICATION LEDGER
+# SOURCE LEDGER
 
-### Sources used, in the order specified by the live-session generation rules
+## Sources used, in the learner-first order
 
 1. **Canonical Markdown knowledge file (primary):**
-   `upsc-ai-kit/knowledge/Philosophy/paper-1/indian/Vedanta.md` — read in full (all 22 numbered
-   sections plus the restored-doctrine dossier and PYQ/presupposition/positioning ledgers).
-2. **Verified PYQ ledgers:**
-   - `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Indian-Philosophy-2018-2025.md` (cross-checked
-     against the canonical file's own §20 PYQ routing table, which already embeds this ledger's
-     content).
+   `upsc-ai-kit/knowledge/Philosophy/paper-1/indian/Vedanta.md` — the authoritative owner, read
+   across its numbered sections (§0 one-screen map through the PYQ/presupposition/positioning
+   ledgers). Every doctrine in this file is held to this canonical boundary.
+2. **Verified PYQ ledgers (for exact wording, year and mark-weight):**
+   - `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Indian-Philosophy-2018-2025.md`, cross-checked
+     against the canonical file's own §20 routing table.
    - `upsc-ai-kit/knowledge/Philosophy/paper-1/_PYQ-Indian-Philosophy-2026.md` — the verified,
-     OCR-sourced transcription of the official 2026 Civil Services (Main) Philosophy Paper I,
-     Section B (paper code `KVMS-P-PHL`), used for the three 2026 Vedānta-owned parts (Q7(c),
-     Q8(b), Q8(c)). This ledger states its own source as
-     `mains-2026-ocr/QP-CSM-26-010926-Optional-PHILOSOPHY-PAPER_I.txt`, an official OCR transcript
-     already produced and verified elsewhere in the repository — it was used here in preference to
-     re-running OCR on the source PDF directly, since the existing ledger is itself the verified
-     product of that OCR process and explicitly flags its own printed-wording quirks (e.g.
-     "Anumdna," "Sarnkhya," "Mimarhsakas") for transparency.
-3. **OCR-searchable local books (consulted for cross-checking standard formulations, not as primary
-   doctrinal source):**
-   - `books/philosphy_books/Chatterjeedatta_introductionToIndianPhilosophy.pdf`
-   - `books/philosphy_books/Indian Philosophy Vol. 2 by Radhakrishnan.pdf`
-4. **Existing generated packages (audited for completeness only, not copied):**
-   - `learning_package_final/Philosophy-Optional/Philosophy-Paper-I-—-Indian-Philosophy/08-Schools-of-Vedanta/Learning-Session.md`
-     (19-session, ~68,000-word package) — its full heading structure (Sessions 1–19, MCQ block, PYQ
-     block, Mains block, Optional Advanced block, Register Notes) was read and cross-checked against
-     the canonical file's own section list to confirm no canonical doctrine was present there but
-     absent here.
-   - `upsc-ai-kit/knowledge/Philosophy/Indian-Philosophy/learning-sessions/Schools-of-Vedanta/` (the
-     layered complete-session and solved-practice-workbook pair) — directory listing consulted to
-     confirm no additional doctrinal material exists beyond what the canonical file and the
-     exhaustive package already cover.
-5. **Live-session generation rules:**
-   `live_sessions/LIVE-SESSION-GENERATION-RULES.md`, read in full and applied throughout — the
-   Vedānta-specific boundary list in that file's final third was used as an explicit checklist
-   during drafting (see the Coverage Lock table above for confirmation that every item on that
-   boundary list is taught).
+     OCR-sourced transcription of the official 2026 Philosophy Paper I, used for the three
+     2026 Vedānta-owned parts, Q7(c), Q8(b) and Q8(c).
+3. **Advanced dossier (optional-depth boundary):**
+   `upsc-ai-kit/knowledge/Philosophy/_advanced/Indian-Philosophy-Dossier.md` §8 (Vedānta) — its
+   optional-depth modules (locus of avidyā; avaccheda/pratibimba/ābhāsa jīva-models; Madhva's
+   hierarchy and tāratamya; later Vedānta beyond the big three) were inspected to confirm this
+   file's advanced material neither under- nor over-reaches the dossier's stated promotion triggers.
+4. **Live-session generation rules:**
+   `live_sessions/LIVE-SESSION-GENERATION-RULES.md`, applied throughout — the Vedānta boundary list
+   was used as an explicit coverage checklist (see the Coverage Matrix above).
 
-### What this file does not use
+## What this file does not use
 
-- Qdrant was not consulted, per the rules ("Qdrant must never block or delay a learning session");
-  the canonical Markdown file, verified PYQ ledgers, and OCR-searchable books were entirely
-  sufficient for complete coverage.
-- Live current-affairs sources were checked at every lesson's pre-teach checklist; none of the
-  fourteen lessons found a genuine, doctrine-specific current-affairs anchor, and each checklist
-  states this truthfully rather than manufacturing a link, consistent with the rule that
-  "current-affairs must not be forced into a timeless philosophical topic."
+- **Generated learner packages, the Learner-v2 export and the solved-practice workbook** were
+  deliberately **excluded** under the mandatory learner-first lock; none was consulted as a source.
+- **Qdrant** was not consulted; the canonical Markdown, PYQ ledgers and advanced dossier were
+  sufficient for complete coverage, consistent with the rule that Qdrant must never block a session.
+- **Fresh OCR extraction and live current-affairs retrieval** were not required for this preserved
+  classical-doctrine content; the Chatterjee–Datta and Radhakrishnan Vol. II books are present
+  locally, but their standard formulations are already embedded in the canonical Markdown.
 
-### Immutability confirmation
+## Fact / inference discipline
 
-- The canonical file `Vedanta.md` was read but **not modified**.
-- The existing generated package (`learning_package_final/.../08-Schools-of-Vedanta/Learning-
-  Session.md`) and the layered session/workbook pair were read but **not modified**.
-- Only this new file, `live_sessions/Philosophy-Optional/08-Vedanta/Learning-Session-Live-
-  Edition.md`, was created.
+Every substantive claim follows the canonical source's own evidence tagging: **✅ Fact / canonical
+doctrine** for statements supported directly by the canonical file or verified ledgers; **⚠️
+Analytical inference** for interpretation, evaluation or exam-strategy commentary; **❓** for points
+the canonical source itself flags as contested or textually variable (e.g. the exact naming and
+sequence of the seven objections, Madhva's pramāṇa distinctions, and the placement of time within
+Nimbārka's acit-classification). No doctrine, quotation, date, school attribution or PYQ wording was
+invented; every PYQ wording, mark-weight and year is reproduced exactly from the verified ledgers.
 
-### Fact/inference discipline used throughout
+## SOURCE-MANIFEST GATE
 
-Every substantive claim in this file follows the source's own evidence tagging: **✅ Fact/canonical
-doctrine** for statements directly supported by the canonical file, PYQ ledgers, or cross-checked
-books; **⚠️ Analytical inference** for interpretation, evaluation, synthesis, or exam-strategy
-commentary; **❓** for points the canonical source itself flags as contested or textually variable
-(e.g., the exact naming/sequence of the seven objections, Madhva's kevala-pramāṇa/anu-pramāṇa
-distinction, the precise placement of time within Nimbārka's acit-classification). No doctrine,
-quotation, date, school attribution, or PYQ was invented; every PYQ wording, mark-weight, and year
-is reproduced exactly as recorded in the verified ledgers.
-
+| Category | Status | Concrete evidence / reason |
+|---|---|---|
+| Canonical Markdown | checked | Inspected `upsc-ai-kit/knowledge/Philosophy/paper-1/indian/Vedanta.md` (§0 map through §15+ and the §20 PYQ/positioning ledgers); the complete Vedānta doctrine boundary is held to it. |
+| Final learner package | not relevant | A generated final learner package exists for this topic but is **excluded by the mandatory learner-first lock**; it was not consulted or copied. |
+| Layered/complete session | not relevant | A layered complete-session package exists but was not consulted for this structural repair; the canonical Markdown, PYQ ledgers and dossier were sufficient and authoritative. |
+| Solved workbook | not relevant | A solved-practice workbook exists but is **excluded by the learner-first lock**; this file carries links-only PYQs and keeps no solved PYQ bank. |
+| Advanced dossier | checked | Inspected `upsc-ai-kit/knowledge/Philosophy/_advanced/Indian-Philosophy-Dossier.md` §8 Vedānta (locus of avidyā; avaccheda/pratibimba/ābhāsa; Madhva's tāratamya; later Vedānta); advanced depth matches its promotion boundary. |
+| OCR books | not relevant | Chatterjee–Datta and Radhakrishnan Vol. II are present locally, but their standard formulations are already embedded in the canonical Markdown; no fresh OCR extraction was required for this preserved-doctrine repair. |
+| PYQs through 2026 | checked | Verified against `_PYQ-Indian-Philosophy-2018-2025.md` and `_PYQ-Indian-Philosophy-2026.md`; all 23 Vedānta-owned parts, their wording, marks, years and school ownership are preserved exactly. |
+| Official live sources | not relevant | Vedānta doctrine is a closed classical-textual topic; the per-lesson pre-teach checklists record that no dated current-affairs development materially bears on it. |
