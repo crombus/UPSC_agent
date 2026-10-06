@@ -14,12 +14,17 @@ equator. A **geoid** is the irregular, gravity-defined mean-sea-level surface, n
 for an oblate spheroid. Proofs of broad sphericity include the circular horizon, ships' hulls vanishing first, curved shadow in lunar
 eclipses, photos from space.
 
-✅ Two motions drive time and seasons:
-- **Rotation** — spin on axis, ~24 hours (~1,675 kmph at equator) → **day & night**.
+✅ The motions have different roles:
+- **Rotation** — spin on axis, ~24 hours (~1,675 kmph at equator) → **day & night**, not seasons.
 - **Revolution** — orbit round the Sun, **365.25 days** → **the year** (leap-year adjustment).
-- **Axial tilt** = about **23.5° from the perpendicular to the orbital plane** (66.5° to the plane) → **seasons** and changing day length.
+- **Axial tilt** = about **23.5° from the perpendicular to the orbital plane** (66.5° to the plane).
+  As the tilted Earth revolves while its axis retains approximately the same orientation, each
+  hemisphere alternately receives more direct sunlight and longer days → **the seasonal cycle**.
 
-> 🔑 Trap: **Rotation causes day & night**; the **23.5° tilt + revolution** cause seasons — *not* rotation.
+> 🔑 Trap: **Rotation causes day & night**. Seasons arise from **axial tilt during revolution**;
+> sphericity affects the latitudinal distribution of insolation but is not an independent seasonal
+> driver. Verified against NASA's
+> [What Causes the Seasons?](https://spaceplace.nasa.gov/seasons/en/).
 
 ## 2. Latitude, Longitude & Time
 
@@ -40,23 +45,37 @@ eclipses, photos from space.
 ✅ The **Big Bang** marks the expansion of the universe from an extremely hot, dense early state; modern
 estimates place its age at about **13.8 billion years**. The solar system
 formed by **gravitational collapse of a cold gas–dust cloud** (mainly H & He) in a Milky Way spiral arm.
-✅ Inner **terrestrial** planets = rock/metal (crystallised hot); outer **Jovian** planets = gas/ice
-condensates (cold).
+✅ In the hot inner disc, only rock and metal condensed into solids, producing the small, dense
+**terrestrial planets**. Beyond the frost line, rock plus abundant volatile compounds could condense
+as ices, allowing much larger icy/rocky cores to assemble. Those cores then gravitationally
+**captured hydrogen and helium gas** from the disc: Jupiter and Saturn became gas giants, while
+Uranus and Neptune retained a larger ice-rich fraction. Hydrogen and helium must not be described
+as simply condensing into the outer planets.
 
 | Layer | Extent | Composition & state |
 |---|---|---|
 | ✅ Crust | Surface → Moho (~35 km avg) | Rigid; <1% of Earth's volume |
-| ✅ Mantle | ~35 km → 2900 km | Solid rock + magma; density 3.3–5.7 |
+| ✅ Mantle | ~35 km → 2900 km | **Predominantly solid silicate rock** that flows slowly over geological time; localized partial melt, not a global magma layer; density 3.3–5.7 |
 | ✅ Outer core | 2900 km → ~5150 km | **Liquid** nickel-iron (NiFe) |
 | ✅ Inner core | ~5150 km → centre | **Solid** iron-nickel alloy under immense pressure |
 
 ✅ **Moho** = crust/mantle boundary (~35 km). ✅ **Gutenberg discontinuity** (~2900 km) = mantle/outer-core boundary.
 ✅ **S-waves** (shear) cannot pass liquids and vanish at 2900 km → **outer core is liquid**; **P-waves** pass through all layers.
 
+> **Modern-science provenance:** the corrected planet-formation sequence follows NASA Science's
+> [How Do Planets Form?](https://science.nasa.gov/exoplanets/how-do-planets-form/)
+> and its core-accretion/gas-capture explanation, with NASA's
+> [snow-line account](https://science.nasa.gov/universe/exoplanets/a-frosty-landmark-for-planet-and-comet-formation/)
+> controlling where ices can condense. The mantle wording follows the USGS clarification
+> [Are the tectonic plates floating on magma?](https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma):
+> the mantle is mostly solid, with melt generated only in localized settings. These official
+> explanations control where older textbook shorthand is scientifically misleading.
+
 ## 4. Must-Know Facts (Prelims)
 
 - ✅ Earth's geometric approximation = **oblate spheroid**; geoid = gravity-defined mean-sea-level surface.
-- ✅ Rotation ≈ 24 h (day-night); Revolution = 365.25 days (year); tilt 23.5° (seasons).
+- ✅ Rotation ≈ 24 h (day-night); revolution = 365.25 days (year); **axial tilt acting through
+  revolution** produces the seasonal cycle.
 - ✅ **15° longitude = 1 hour**; IST meridian = **82.5°E (UTC+5:30)**.
 - ✅ International Date Line ≈ **180°** meridian.
 - ✅ Only the **outer core is liquid** (S-wave proof); inner core is solid.
@@ -65,7 +84,8 @@ condensates (cold).
 ## 5. UPSC Traps
 
 - ❌ Earth is a perfect sphere → **oblate spheroid/geoid**.
-- ❌ Rotation causes seasons → rotation causes day/night; **tilt + revolution** cause seasons.
+- ❌ Rotation or sphericity causes seasons → rotation causes day/night; **axial tilt during
+  revolution** causes the seasonal cycle.
 - ❌ Latitude fixes time → **longitude** fixes time.
 - ❌ The whole core is molten → **only the outer core** is liquid.
 - ❌ Moho separates mantle from core → Moho = **crust/mantle**; Gutenberg = mantle/outer-core.

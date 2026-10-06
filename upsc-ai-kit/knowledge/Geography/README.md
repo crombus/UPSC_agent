@@ -57,6 +57,13 @@
   in the local **D.R. Khullar** PDF plus **Majid Husain, Geography of India** and a **distinct**
   current-affairs anchor. Advanced notes must add India-specific analytical depth rather than
   restating the basic file.
+- **Narrow Topic-01 source exception:** `advanced/01_India-Location-and-Extent.md` uses
+  **D.R. Khullar, India: A Comprehensive Geography** together with Majid Husain's
+  **Indian & World Geography**, Chapter 10 (“India—Physical Setting”), and dated official
+  evidence. The local `books\Indian-geography-majid-hussain.pdf` begins with
+  “Structure of India” and contains no controlling location-and-extent or astronomy chapter;
+  it is therefore not cited for Topic 01. This evidence-based exception changes no other
+  Advanced topic's locked source tier.
 - **Same number = same topic** across both tiers (e.g., `basic/26_...md` pairs with
   `advanced/26_...md`).
 - **Tagging:** ✅ = directly grounded in a cited source (book excerpt or official/fetched page);
