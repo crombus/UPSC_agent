@@ -145,19 +145,19 @@ For almost every UPSC question in this cluster, a balanced answer can move throu
 
 #### Equality versus equity in Marxian perspective
 
-| Theme | Formal equality under capitalism | Marxian equity / communist principle |
-|---|---|---|
-| Distribution rule | Equivalent exchange among legal equals | Distribution by need in higher communism |
-| Hidden reality | Class power shapes production and appropriation | Social production organised for human flourishing |
-| Labour relation | Wage contract appears free and equal | Alienation and exploitation are overcome |
-| Moral defect | Same legal rule applied to unequals reproduces class domination | Unequal needs justify differentiated shares |
+| Theme | Capitalist exchange | First phase of communist society | Higher phase of communist society |
+|---|---|---|---|
+| Distribution rule | Formally equivalent exchange among legal equals | Individual consumption tracks labour contributed after common deductions | Distribution according to need |
+| Continuing limit | Class power shapes production and appropriation | The same labour standard is applied to differently situated producers | The narrow horizon of equal right is overcome |
+| Labour relation | Wage contract appears free while production remains exploitative | Producers receive from the common stock in proportion to contribution | Alienated labour and scarcity are sufficiently transformed |
+| Moral defect / advance | Formal equality can conceal class domination | Equal right remains a “right of inequality” because unequal persons are measured by one standard | Unequal needs justify differentiated shares |
 
 **Canonical formula ✅:** “From each according to his ability, to each according to his need.”
 
-- **Argument ✅:** Bourgeois equality abstracts from class structure. Equal right, measured by a common standard, can still be a right of inequality because people differ in need, burden, family condition, and starting position.
+- **Argument ✅:** Marx's “equal right” as a “right of inequality” is directed specifically at the first phase of communist society: distribution by a common labour-contribution standard still yields unequal effective positions because producers differ in ability, burden and need. This is distinct from his criticism of formally equal capitalist exchange, which conceals class power and exploitation.
 - **Presupposition ✅:** Human beings are socially formed producers; justice cannot be reduced to market exchange between isolated possessors.
 - **Distinction ✅:** **Equality** = same measure for all; **equity** = differentiated treatment responsive to need and actual condition.
-- **Example ⚠️:** Equal wages for all hours may still be inequitable if one worker supports dependents and another does not; Marx's deeper claim is that the wage relation itself is structurally exploitative.
+- **Example ⚠️:** After common deductions, two producers credited by the same labour standard may receive equal consumption claims even though one has greater dependants or needs. The example illustrates the first-phase limit; it is not a defence of the capitalist wage relation.
 - **Objection → Reply ⚠️:**
   - **Objection:** need-based distribution is vague and may weaken incentive.
   - **Reply:** Marx's principle concerns a higher stage of social cooperation where alienated labour and scarcity are transformed; it is not merely a market-time salary rule.
