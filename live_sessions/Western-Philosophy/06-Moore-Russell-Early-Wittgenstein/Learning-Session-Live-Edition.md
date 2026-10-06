@@ -23,7 +23,7 @@
 
 The twelve boundaries are preserved. Each lesson advances one problem, closes with its own misconception test, and creates the need for the next lesson.
 
-# Lesson 1 - Why Did Analysis Replace the Grand System?
+## Lesson 1 — Why Did Analysis Replace the Grand System?
 
 Progress: 1 / 12  |  Stage: Foundation  |  Subtopic: Analytic revolt — break from idealism, logical analysis and thinker-attribution map
 
@@ -216,7 +216,7 @@ table above.
 
 ## Practice: If the three methods blur together
 
-### MCQ 1
+**MCQ 1: A**
 
 **What did Moore and Russell first reject in their analytic turn?**
 
@@ -225,28 +225,24 @@ B. Aristotelian syllogistic method
 C. American pragmatic naturalism
 D. Cartesian substance dualism
 
-**Answer: A**
+- **A — Correct:** It was the dominant British system against which both former idealists reacted.
+- **B — Incorrect:** Syllogistic logic is historically important but not the immediate target of this revolt.
+- **C — Incorrect:** Pragmatism was not the immediate Cambridge target of their revolt.
+- **D — Incorrect:** Descartes remained relevant, but his dualism was not the initial target.
 
-- **A:** It was the dominant British system against which both former idealists reacted.
-- **B:** Syllogistic logic is historically important but not the immediate target of this revolt.
-- **C:** Pragmatism was not the immediate Cambridge target of their revolt.
-- **D:** Descartes remained relevant, but his dualism was not the initial target.
-
-### MCQ 2
+**MCQ 2: B**
 
 **Which contrast best distinguishes the three early analytic methods?**
 
-A. Intuition, deduction and dialectic
+A. Intuition, deduction and Hegelian dialectic
 B. Commitment, analysis and representation
 C. Sensation, reflection and association
 D. Epoché, reduction and constitution
 
-**Answer: B**
-
-- **A:** These labels do not map to Moore, Russell and early Wittgenstein.
-- **B:** Moore tests ordinary commitments, Russell analyses logical form, and Wittgenstein studies representation.
-- **C:** This triad belongs to classical empiricist psychology rather than the three thinkers.
-- **D:** These are phenomenological procedures associated with Husserl.
+- **A — Incorrect:** These labels do not map to Moore, Russell and early Wittgenstein.
+- **B — Correct:** Moore tests ordinary commitments, Russell analyses logical form, and Wittgenstein studies representation.
+- **C — Incorrect:** This triad belongs to classical empiricist psychology rather than the three thinkers.
+- **D — Incorrect:** These are phenomenological procedures associated with Husserl.
 
 ### Re-separate the three analytic tasks
 
@@ -258,7 +254,7 @@ Once analysis is separated into three methods, Moore's first challenge is unavoi
 
 ---
 
-# Lesson 2 - Can an Ordinary Hand Outweigh Radical Doubt?
+## Lesson 2 — Can an Ordinary Hand Outweigh Radical Doubt?
 
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: Moore's common-sense realism — truisms, certainty, external-world proof and paradox of analysis
 
@@ -468,7 +464,7 @@ different papers with two different (though related) arguments; state both dates
 
 ## Practice: If the hands proof still feels circular
 
-### MCQ 3
+**MCQ 3: C**
 
 **Why can Moore know a truism without completing its analysis?**
 
@@ -477,14 +473,12 @@ B. Ordinary belief is true by definition
 C. Knowing and analysing are different tasks
 D. Consensus makes a proposition incorrigible
 
-**Answer: C**
+- **A — Incorrect:** Moore denies that knowledge must wait for a completed philosophical proof.
+- **B — Incorrect:** A truism is contestable; it is not made true by a stipulative definition.
+- **C — Correct:** His central distinction allows certainty about a proposition amid uncertainty about its analysis.
+- **D — Incorrect:** Common sense is not an opinion poll or an appeal to majority agreement.
 
-- **A:** Moore denies that knowledge must wait for a completed philosophical proof.
-- **B:** A truism is contestable; it is not made true by a stipulative definition.
-- **C:** His central distinction allows certainty about a proposition amid uncertainty about its analysis.
-- **D:** Common sense is not an opinion poll or an appeal to majority agreement.
-
-### MCQ 4
+**MCQ 4: D**
 
 **Which set gives Moore's three conditions for his hands proof?**
 
@@ -493,14 +487,12 @@ B. Simple, empirical and psychologically certain
 C. Self-evident, analytic and wholly unrevisable
 D. Known premises, separate conclusion, valid inference
 
-**Answer: D**
+- **A — Incorrect:** Familiarity and publicity are not Moore's stated proof conditions.
+- **B — Incorrect:** Empirical simplicity does not establish the required logical relation.
+- **C — Incorrect:** Moore does not call the premises analytic or unrevisable by definition.
+- **D — Correct:** He requires known premises, difference from the conclusion, and entailment.
 
-- **A:** Familiarity and publicity are not Moore's stated proof conditions.
-- **B:** Empirical simplicity does not establish the required logical relation.
-- **C:** Moore does not call the premises analytic or unrevisable by definition.
-- **D:** He requires known premises, difference from the conclusion, and entailment.
-
-### MCQ 5
+**MCQ 5: A**
 
 **What is the paradox of analysis?**
 
@@ -509,12 +501,10 @@ B. Every successful analysis produces an endless causal regress
 C. All analyses replace facts with verbal conventions
 D. Analysis can operate only on private sensations
 
-**Answer: A**
-
-- **A:** If analysans and analysandum coincide, the analysis looks trivial; if they differ, it looks wrong.
-- **B:** The puzzle concerns informativeness and synonymy, not a causal regress.
-- **C:** Moore does not reduce analysis to arbitrary linguistic convention.
-- **D:** The problem applies to concepts and propositions, not only private sensations.
+- **A — Correct:** If analysans and analysandum coincide, the analysis looks trivial; if they differ, it looks wrong.
+- **B — Incorrect:** The puzzle concerns informativeness and synonymy, not a causal regress.
+- **C — Incorrect:** Moore does not reduce analysis to arbitrary linguistic convention.
+- **D — Incorrect:** The problem applies to concepts and propositions, not only private sensations.
 
 ### Rebuild the burden-of-proof contest
 
@@ -526,7 +516,7 @@ The hands proof defends an external world, but it does not yet explain the ideal
 
 ---
 
-# Lesson 3 - Is the Blue Identical with Being Aware of Blue?
+## Lesson 3 — Is the Blue Identical with Being Aware of Blue?
 
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Moore's refutation of idealism — act/object distinction, "Blue exists" and transparency of consciousness
 
@@ -691,7 +681,7 @@ ethics).
 
 ## Practice: If act and object collapse again
 
-### MCQ 6
+**MCQ 6: B**
 
 **What distinction drives Moore's refutation of idealism?**
 
@@ -700,14 +690,12 @@ B. Act of awareness and object presented
 C. Appearance and thing-in-itself
 D. Sense and reference of an expression
 
-**Answer: B**
+- **A — Incorrect:** That distinction belongs to the early modern debate over qualities.
+- **B — Correct:** Moore separates consciousness from the blue or green of which it is conscious.
+- **C — Incorrect:** This is Kant's distinction and does not state Moore's argument.
+- **D — Incorrect:** This is Frege's semantic distinction, not Moore's perceptual one.
 
-- **A:** That distinction belongs to the early modern debate over qualities.
-- **B:** Moore separates consciousness from the blue or green of which it is conscious.
-- **C:** This is Kant's distinction and does not state Moore's argument.
-- **D:** This is Frege's semantic distinction, not Moore's perceptual one.
-
-### MCQ 7
+**MCQ 7: C**
 
 **What follows directly from Moore's blue-green argument?**
 
@@ -716,12 +704,10 @@ B. Absolute Idealism is conclusively refuted
 C. Being cannot simply mean being perceived
 D. Sense-data exist without any consciousness
 
-**Answer: C**
-
-- **A:** The argument does not by itself establish direct knowledge of every external object.
-- **B:** Its immediate target is the Berkeleyan equation, not every form of idealism.
-- **C:** Act and object are distinct, so *esse* cannot be identified with *percipi*.
-- **D:** The conclusion does not establish unperceived existence for every presented quality.
+- **A — Incorrect:** The argument does not by itself establish direct knowledge of every external object.
+- **B — Incorrect:** Its immediate target is the Berkeleyan equation, not every form of idealism.
+- **C — Correct:** Act and object are distinct, so *esse* cannot be identified with *percipi*.
+- **D — Incorrect:** The conclusion does not establish unperceived existence for every presented quality.
 
 ### Recover the limited anti-idealist conclusion
 
@@ -733,7 +719,7 @@ Act-object separation opens the realist space Russell inherits. Russell then ask
 
 ---
 
-# Lesson 4 - What Would Remain After Complete Logical Analysis?
+## Lesson 4 — What Would Remain After Complete Logical Analysis?
 
 Progress: 4 / 12  |  Stage: Core  |  Subtopic: Russell's Logical Atomism — facts, atomic/molecular propositions, isomorphism and negative facts
 
@@ -899,7 +885,7 @@ the *whole* answer, not appear once as decoration.
 
 ## Practice: If 'atomic' still sounds physical
 
-### MCQ 8
+**MCQ 8: D**
 
 **What is an atomic fact in Russell's 1918 programme?**
 
@@ -908,14 +894,12 @@ B. A private mental image containing no distinguishable logical structure
 C. A proposition containing names but no truth-functional connective
 D. A particular exemplifying a quality or particulars standing in a relation
 
-**Answer: D**
+- **A — Incorrect:** Russell explicitly distinguishes logical atoms from physical particles.
+- **B — Incorrect:** Atomic facts belong to reality and are not merely private mental images.
+- **C — Incorrect:** This confuses truth-bearer with truth-maker: a proposition asserts an atomic fact but is not that fact.
+- **D — Correct:** A monadic atomic fact joins a particular and quality; a relational one joins particulars through a relation.
 
-- **A:** Russell explicitly distinguishes logical atoms from physical particles.
-- **B:** Atomic facts belong to reality and are not merely private mental images.
-- **C:** This confuses truth-bearer with truth-maker: a proposition asserts an atomic fact but is not that fact.
-- **D:** A monadic atomic fact joins a particular and quality; a relational one joins particulars through a relation.
-
-### MCQ 9
+**MCQ 9: A**
 
 **Why are relations important to Russell's anti-idealist ontology?**
 
@@ -924,14 +908,12 @@ B. They reduce every proposition to one subject
 C. They turn molecular propositions into physical facts
 D. They eliminate particulars from logical analysis
 
-**Answer: A**
+- **A — Correct:** External relations resist the idealist view that every relation is internal to a whole.
+- **B — Incorrect:** Relational propositions may require two or more terms rather than one subject.
+- **C — Incorrect:** Logical connectives and physical facts are not identified by this doctrine.
+- **D — Incorrect:** Relations supplement particulars; they do not remove them from analysis.
 
-- **A:** External relations resist the idealist view that every relation is internal to a whole.
-- **B:** Relational propositions may require two or more terms rather than one subject.
-- **C:** Logical connectives and physical facts are not identified by this doctrine.
-- **D:** Relations supplement particulars; they do not remove them from analysis.
-
-### MCQ 10
+**MCQ 10: B**
 
 **Why did Russell accept negative facts?**
 
@@ -940,12 +922,10 @@ B. To truth-make some true negative propositions
 C. To reject the classical law of excluded middle
 D. To reduce logical negation to private sensation
 
-**Answer: B**
-
-- **A:** Russell did not treat absences as ordinary physical objects.
-- **B:** A true negative such as 'Socrates is not alive' seemed to require a negative truth-maker.
-- **C:** His account preserves rather than rejects classical logical laws.
-- **D:** Negation is a logical problem, not a report of a special sensation.
+- **A — Incorrect:** Russell did not treat absences as ordinary physical objects.
+- **B — Correct:** A true negative such as 'Socrates is not alive' seemed to require a negative truth-maker.
+- **C — Incorrect:** His account preserves rather than rejects classical logical laws.
+- **D — Incorrect:** Negation is a logical problem, not a report of a special sensation.
 
 ### Replace particles with logical constituents
 
@@ -957,7 +937,7 @@ An atomist destination needs an analytic route. Definite descriptions provide Ru
 
 ---
 
-# Lesson 5 - How Can a Sentence Be About Nobody?
+## Lesson 5 — How Can a Sentence Be About Nobody?
 
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: Incomplete symbols and descriptions — denoting phrases, logical form and the three puzzles
 
@@ -1133,7 +1113,7 @@ existence/uniqueness/predication breakdown, not a prose paraphrase with no forma
 
 ## Practice: If an empty description seems meaningless
 
-### MCQ 11
+**MCQ 11: C**
 
 **What makes a definite description an incomplete symbol?**
 
@@ -1142,14 +1122,12 @@ B. It directly names a universal instead of a particular
 C. It receives its role only within an analysed proposition
 D. It has a vague conventional meaning that context completes
 
-**Answer: C**
+- **A — Incorrect:** Incompleteness concerns contextual definition, not whether a denoted object is actual or merely possible.
+- **B — Incorrect:** Russell does not convert a descriptive phrase into a direct name for a universal.
+- **C — Correct:** The phrase's contribution is specified through the logical analysis of the complete proposition containing it.
+- **D — Incorrect:** Contextual completion of ordinary vagueness is different from Russell's logical elimination of a description.
 
-- **A:** Incompleteness concerns contextual definition, not whether a denoted object is actual or merely possible.
-- **B:** Russell does not convert a descriptive phrase into a direct name for a universal.
-- **C:** The phrase's contribution is specified through the logical analysis of the complete proposition containing it.
-- **D:** Contextual completion of ordinary vagueness is different from Russell's logical elimination of a description.
-
-### MCQ 12
+**MCQ 12: D**
 
 **What is Russell's verdict on 'The present King of France is bald'?**
 
@@ -1158,14 +1136,12 @@ B. Meaningless because nothing is denoted
 C. Truth-valueless because use presupposes existence
 D. False because the existence condition fails
 
-**Answer: D**
+- **A — Incorrect:** Grammar alone cannot establish the existence or uniqueness claim.
+- **B — Incorrect:** Russell designed the analysis precisely to preserve meaningfulness.
+- **C — Incorrect:** This states Strawson's rival account, not Russell's verdict.
+- **D — Correct:** The quantified conjunction is false when no present King of France exists.
 
-- **A:** Grammar alone cannot establish the existence or uniqueness claim.
-- **B:** Russell designed the analysis precisely to preserve meaningfulness.
-- **C:** This states Strawson's rival account, not Russell's verdict.
-- **D:** The quantified conjunction is false when no present King of France exists.
-
-### MCQ 13
+**MCQ 13: A**
 
 **What resolves the two readings of 'The King of France is not bald'?**
 
@@ -1174,12 +1150,10 @@ B. A distinction between sense and reference
 C. A rejection of classical bivalence
 D. A theory of fictional objects
 
-**Answer: A**
-
-- **A:** Wide and narrow scope determine whether existence is asserted or the whole claim denied.
-- **B:** Frege's distinction does not by itself give Russell's two occurrences.
-- **C:** Russell aims to preserve classical logic rather than abandon bivalence.
-- **D:** His analysis avoids commitment to fictional or subsisting kings.
+- **A — Correct:** Wide and narrow scope determine whether existence is asserted or the whole claim denied.
+- **B — Incorrect:** Frege's distinction does not by itself give Russell's two occurrences.
+- **C — Incorrect:** Russell aims to preserve classical logic rather than abandon bivalence.
+- **D — Incorrect:** His analysis avoids commitment to fictional or subsisting kings.
 
 ### Re-expand the quantified structure
 
@@ -1191,7 +1165,7 @@ Descriptions show how apparent objects disappear from logical form; the next pro
 
 ---
 
-# Lesson 6 - How Can We Know What We Have Never Encountered?
+## Lesson 6 — How Can We Know What We Have Never Encountered?
 
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: Acquaintance and description — Bismarck, logically proper names and epistemological foundations
 
@@ -1392,23 +1366,21 @@ proper names/egocentric particulars → objections (Kripke, Sellars, universals)
 
 ## Practice: If acquaintance and description trade places
 
-### MCQ 14
+**MCQ 14: B**
 
 **What does Russell's Principle of Acquaintance require?**
 
 A. Every truth must be directly perceived
 B. Understood propositions use acquainted constituents
-C. Descriptions must name their unique objects
+C. Descriptions must directly name their own unique objects
 D. Universals and relations must be excluded
 
-**Answer: B**
+- **A — Incorrect:** Russell distinguishes acquaintance with things from knowledge of truths.
+- **B — Correct:** Understanding ultimately depends on constituents with which the subject is acquainted.
+- **C — Incorrect:** This reverses the principle: understanding must rest on acquainted constituents even when the described object is known indirectly.
+- **D — Incorrect:** Russell explicitly includes universals among possible objects of acquaintance.
 
-- **A:** Russell distinguishes acquaintance with things from knowledge of truths.
-- **B:** Understanding ultimately depends on constituents with which the subject is acquainted.
-- **C:** This reverses the principle: understanding must rest on acquainted constituents even when the described object is known indirectly.
-- **D:** Russell explicitly includes universals among possible objects of acquaintance.
-
-### MCQ 15
+**MCQ 15: C**
 
 **What does the Bismarck sequence demonstrate?**
 
@@ -1417,14 +1389,12 @@ B. Historical knowledge is merely probable opinion
 C. Description reaches beyond direct acquaintance
 D. Ordinary names are always proper names
 
-**Answer: C**
+- **A — Incorrect:** Others can know truths about Bismarck through descriptions.
+- **B — Incorrect:** Russell treats descriptive knowledge as genuine knowledge, not mere opinion.
+- **C — Correct:** Different knowers reach the same person through increasingly indirect descriptions.
+- **D — Incorrect:** Ordinary names in Russell's mature analysis typically abbreviate descriptions, so the sequence does not establish that they are proper names.
 
-- **A:** Others can know truths about Bismarck through descriptions.
-- **B:** Russell treats descriptive knowledge as genuine knowledge, not mere opinion.
-- **C:** Different knowers reach the same person through increasingly indirect descriptions.
-- **D:** Ordinary names in Russell's mature analysis typically abbreviate descriptions, so the sequence does not establish that they are proper names.
-
-### MCQ 16
+**MCQ 16: D**
 
 **Which expressions are candidates for logically proper names in austere Russell?**
 
@@ -1433,12 +1403,10 @@ B. Descriptive titles such as 'the Chancellor'
 C. Scientific theoretical terms such as 'electron'
 D. Demonstratives tied to present acquaintance
 
-**Answer: D**
-
-- **A:** Ordinary historical names are analysed as disguised descriptions.
-- **B:** Definite descriptions are incomplete symbols rather than proper names.
-- **C:** Scientific entities are normally known by description, not acquaintance.
-- **D:** Present demonstratives such as 'this' and 'that' directly attach to acquaintance.
+- **A — Incorrect:** Ordinary historical names are analysed as disguised descriptions.
+- **B — Incorrect:** Definite descriptions are incomplete symbols rather than proper names.
+- **C — Incorrect:** Scientific entities are normally known by description, not acquaintance.
+- **D — Correct:** Present demonstratives such as 'this' and 'that' directly attach to acquaintance.
 
 ### Trace the route to an indirectly known object
 
@@ -1450,7 +1418,7 @@ The acquaintance principle explains why descriptions are needed. Russell now ext
 
 ---
 
-# Lesson 7 - Can the External World Be Built Instead of Inferred?
+## Lesson 7 — Can the External World Be Built Instead of Inferred?
 
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: Logical constructions — sense-data, inferred entities and constructions versus atoms
 
@@ -1631,7 +1599,7 @@ objections → verdict.
 
 ## Practice: If construction sounds like fictionalism
 
-### MCQ 17
+**MCQ 17: A**
 
 **What does Russell's construction maxim recommend?**
 
@@ -1640,14 +1608,12 @@ B. Deny ordinary objects because only ideas exist
 C. Treat all scientific posits as logical simples
 D. Replace descriptions with ordinary proper names
 
-**Answer: A**
+- **A — Correct:** The maxim substitutes constructions out of known entities for inferences to unknown ones.
+- **B — Incorrect:** Construction is not Berkeleyan denial of all ordinary objects.
+- **C — Incorrect:** Scientific posits need not be simple or immune from analysis.
+- **D — Incorrect:** Descriptions remain central contextual devices in the programme.
 
-- **A:** The maxim substitutes constructions out of known entities for inferences to unknown ones.
-- **B:** Construction is not Berkeleyan denial of all ordinary objects.
-- **C:** Scientific posits need not be simple or immune from analysis.
-- **D:** Descriptions remain central contextual devices in the programme.
-
-### MCQ 18
+**MCQ 18: B**
 
 **What changes in Russell's later neutral monism?**
 
@@ -1656,12 +1622,10 @@ B. Neutral events enter mental or physical systems
 C. Sense-data become eternal Platonic universals
 D. Physical objects become unverifiable fictions
 
-**Answer: B**
-
-- **A:** Russell's anti-idealist use of external relations is not reversed in this way.
-- **B:** The same basic occurrence may be organised within psychological or physical relations.
-- **C:** Neutral events are not identified with timeless universals.
-- **D:** The later view revises the base; it does not dismiss all physical discourse as fiction.
+- **A — Incorrect:** Russell's anti-idealist use of external relations is not reversed in this way.
+- **B — Correct:** The same basic occurrence may be organised within psychological or physical relations.
+- **C — Incorrect:** Neutral events are not identified with timeless universals.
+- **D — Incorrect:** The later view revises the base; it does not dismiss all physical discourse as fiction.
 
 ### Separate reconstruction from denial
 
@@ -1673,7 +1637,7 @@ Construction reveals the cost of beginning with sense-data and motivates Russell
 
 ---
 
-# Lesson 8 - How Can a Proposition Represent a Possible World?
+## Lesson 8 — How Can a Proposition Represent a Possible World?
 
 Progress: 8 / 12  |  Stage: Core  |  Subtopic: Tractatus: world and pictures — facts, objects, elementary propositions and picture theory
 
@@ -1846,39 +1810,35 @@ explanation of *why* logical form, specifically, is what connects language to re
 
 ## Practice: If picturing becomes mental imagery
 
-### MCQ 19
+**MCQ 19: C**
 
 **What role do simple objects play in the *Tractatus*?**
 
-A. Observed particles identified by physical science
+A. Observed particles identified by modern physical science
 B. They are private sense-data known by acquaintance
 C. They secure determinate possibilities of combination
 D. They are logical constants represented by symbols
 
-**Answer: C**
+- **A — Incorrect:** Wittgenstein's objects are not empirical particles.
+- **B — Incorrect:** This would import Russell's epistemological identification.
+- **C — Correct:** Their stable combinatorial possibilities provide the substance required for determinate sense.
+- **D — Incorrect:** Logical constants are explicitly not representatives of objects.
 
-- **A:** Wittgenstein's objects are not empirical particles.
-- **B:** This would import Russell's epistemological identification.
-- **C:** Their stable combinatorial possibilities provide the substance required for determinate sense.
-- **D:** Logical constants are explicitly not representatives of objects.
-
-### MCQ 20
+**MCQ 20: D**
 
 **What is an elementary proposition?**
 
 A. A tautology generated by joint negation
 B. A list of names without any arrangement
-C. A report made true by direct acquaintance
+C. A report made true by direct perceptual acquaintance
 D. A name-combination depicting one possible state
 
-**Answer: D**
+- **A — Incorrect:** Tautologies are truth-functional limiting cases, not elementary propositions.
+- **B — Incorrect:** Arrangement is essential because the proposition models an arrangement of objects.
+- **C — Incorrect:** An elementary proposition can be false; acquaintance does not guarantee truth.
+- **D — Correct:** It combines names so as to present one possible state of affairs.
 
-- **A:** Tautologies are truth-functional limiting cases, not elementary propositions.
-- **B:** Arrangement is essential because the proposition models an arrangement of objects.
-- **C:** An elementary proposition can be false; acquaintance does not guarantee truth.
-- **D:** It combines names so as to present one possible state of affairs.
-
-### MCQ 21
+**MCQ 21: A**
 
 **How does logical form differ from medium-specific pictorial form?**
 
@@ -1887,12 +1847,10 @@ B. It is the visible shape of written signs
 C. It is the speaker's accompanying mental image
 D. It is the content expressed by one true sentence
 
-**Answer: A**
-
-- **A:** Logical form is what every possible picture and its reality must share.
-- **B:** Ink shape is a physical feature, not the universal condition of depiction.
-- **C:** The theory is logical rather than psychological or imagistic.
-- **D:** Logical form conditions representation; it is not one represented fact.
+- **A — Correct:** Logical form is what every possible picture and its reality must share.
+- **B — Incorrect:** Ink shape is a physical feature, not the universal condition of depiction.
+- **C — Incorrect:** The theory is logical rather than psychological or imagistic.
+- **D — Incorrect:** Logical form conditions representation; it is not one represented fact.
 
 ### Reconstruct logical picturing
 
@@ -1904,7 +1862,7 @@ The picture relation gives the skeleton of representation. The next lesson asks 
 
 ---
 
-# Lesson 9 - What Makes a Proposition Capable of Sense?
+## Lesson 9 — What Makes a Proposition Capable of Sense?
 
 Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: Logical structure of language — bipolarity, logical space, general propositional form, tautology and contradiction
 
@@ -2114,7 +2072,7 @@ colour-exclusion pressure → verdict.
 
 ## Practice: If *sinnlos* and *unsinnig* merge
 
-### MCQ 22
+**MCQ 22: B**
 
 **What does Tractarian bipolarity require of a proposition?**
 
@@ -2123,14 +2081,12 @@ B. It must be able to be true or false
 C. It must be directly verified by observation
 D. It must express both fact and value
 
-**Answer: B**
+- **A — Incorrect:** The doctrine concerns truth possibilities, not the number of constituent names.
+- **B — Correct:** A genuine proposition presents a possibility that may obtain or fail to obtain.
+- **C — Incorrect:** Empirical verification is a different, later criterion.
+- **D — Incorrect:** Value is not combined with factual content in one bipolar proposition.
 
-- **A:** The doctrine concerns truth possibilities, not the number of constituent names.
-- **B:** A genuine proposition presents a possibility that may obtain or fail to obtain.
-- **C:** Empirical verification is a different, later criterion.
-- **D:** Value is not combined with factual content in one bipolar proposition.
-
-### MCQ 23
+**MCQ 23: C**
 
 **How should a tautology be classified in the *Tractatus*?**
 
@@ -2139,14 +2095,12 @@ B. Nonsensical because its grammar is defective
 C. Senseless yet logically well-formed
 D. Mystical because it transcends logical space
 
-**Answer: C**
+- **A — Incorrect:** A tautology is true under every truth-assignment, not false.
+- **B — Incorrect:** It is well-formed and therefore not *unsinnig*.
+- **C — Correct:** It is *sinnlos*: it says nothing about how the world contingently is.
+- **D — Incorrect:** It shows logical scaffolding but is not thereby a mystical proposition.
 
-- **A:** A tautology is true under every truth-assignment, not false.
-- **B:** It is well-formed and therefore not *unsinnig*.
-- **C:** It is *sinnlos*: it says nothing about how the world contingently is.
-- **D:** It shows logical scaffolding but is not thereby a mystical proposition.
-
-### MCQ 24
+**MCQ 24: D**
 
 **What does the N-operator do in proposition 6?**
 
@@ -2155,12 +2109,10 @@ B. Verifies an elementary proposition
 C. States the existence of logical form
 D. Jointly negates a selected set
 
-**Answer: D**
-
-- **A:** Objects are represented by names within elementary propositions.
-- **B:** N is a truth-operation, not an empirical test.
-- **C:** Logical form is displayed rather than stated by an operator.
-- **D:** Successive joint negation is intended to generate all truth-functions.
+- **A — Incorrect:** Objects are represented by names within elementary propositions.
+- **B — Incorrect:** N is a truth-operation, not an empirical test.
+- **C — Incorrect:** Logical form is displayed rather than stated by an operator.
+- **D — Correct:** Successive joint negation is intended to generate all truth-functions.
 
 ### Sort the three statuses of language
 
@@ -2172,7 +2124,7 @@ Bipolarity and logical space draw a boundary around factual discourse. The next 
 
 ---
 
-# Lesson 10 - What Matters Most When It Cannot Be Stated as Fact?
+## Lesson 10 — What Matters Most When It Cannot Be Stated as Fact?
 
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: Saying and showing — ethics, aesthetics, mystical, ladder metaphor and Proposition 7
 
@@ -2367,7 +2319,7 @@ paradox; a bare gloss caps the mark.
 
 ## Practice: If silence sounds like rejection
 
-### MCQ 25
+**MCQ 25: A**
 
 **What can be said, on the standard Tractarian distinction?**
 
@@ -2376,14 +2328,12 @@ B. Logical form as one further factual object
 C. Absolute ethical value in scientific language
 D. The world as a completed external totality
 
-**Answer: A**
+- **A — Correct:** Natural-scientific propositions can state how things contingently stand.
+- **B — Incorrect:** Logical form is presupposed by saying and is shown rather than said.
+- **C — Incorrect:** Ethical value is not a contingent fact expressible by science.
+- **D — Incorrect:** The world as a whole cannot be pictured from outside its own limits.
 
-- **A:** Natural-scientific propositions can state how things contingently stand.
-- **B:** Logical form is presupposed by saying and is shown rather than said.
-- **C:** Ethical value is not a contingent fact expressible by science.
-- **D:** The world as a whole cannot be pictured from outside its own limits.
-
-### MCQ 26
+**MCQ 26: B**
 
 **Why can strict solipsism coincide with realism in the *Tractatus*?**
 
@@ -2392,28 +2342,10 @@ B. The metaphysical subject shrinks to a limit
 C. Other minds are disproved by logical analysis
 D. Private sensations determine logical form
 
-**Answer: B**
-
-- **A:** Wittgenstein does not make the empirical ego a creator of facts.
-- **B:** When the subject is not an object in the world, nothing within the world remains marked as privately mine.
-- **C:** The argument does not infer that other minds fail to exist.
-- **D:** Logical form is not fixed by one subject's private sensations.
-
-### MCQ 27
-
-**What is the central problem raised by the ladder passage?**
-
-A. Whether descriptions must take narrow scope
-B. Whether negative facts are genuine entities
-C. How acknowledged nonsense can still elucidate
-D. How common sense can refute every dream
-
-**Answer: C**
-
-- **A:** Scope belongs to Russell's theory of descriptions.
-- **B:** Negative facts are a Russellian ontological problem.
-- **C:** The book asks the reader to learn from sentences later recognised as nonsensical.
-- **D:** Moore's anti-sceptical dialectic is a different problem.
+- **A — Incorrect:** Wittgenstein does not make the empirical ego a creator of facts.
+- **B — Correct:** When the subject is not an object in the world, nothing within the world remains marked as privately mine.
+- **C — Incorrect:** The argument does not infer that other minds fail to exist.
+- **D — Incorrect:** Logical form is not fixed by one subject's private sensations.
 
 ### Return value to the boundary
 
@@ -2425,7 +2357,7 @@ The ladder exposes the self-application problem. Russell's hierarchy is the most
 
 ---
 
-# Lesson 11 - Can a Higher Language Speak the Form a Lower One Shows?
+## Lesson 11 — Can a Higher Language Speak the Form a Lower One Shows?
 
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Hierarchy of languages — Russell's proposed solution to Wittgenstein's difficulty and the 2026 twenty-marker
 
@@ -2645,21 +2577,33 @@ a stated position, and without reasons for that position, forfeits the marks the
 
 ## Practice: If the metalanguage looks like a final escape
 
-### MCQ 28
+**MCQ 27: C**
+
+**What is the central problem raised by the ladder passage?**
+
+A. Whether definite descriptions must take narrow scope
+B. Whether negative facts are genuine entities
+C. How acknowledged nonsense can still elucidate
+D. How common sense can refute every dream
+
+- **A — Incorrect:** Scope belongs to Russell's theory of descriptions.
+- **B — Incorrect:** Negative facts are a Russellian ontological problem.
+- **C — Correct:** The book asks the reader to learn from sentences later recognised as nonsensical.
+- **D — Incorrect:** Moore's anti-sceptical dialectic is a different problem.
+
+**MCQ 28: D**
 
 **What is the strongest verdict on Russell's hierarchy of languages?**
 
-A. It reaches a final language beyond every limit
+A. It finally reaches a single language beyond every limit
 B. It makes ethics factual in a richer vocabulary
 C. It was Wittgenstein's own accepted solution
 D. It solves formal ascent, not the transcendental limit
 
-**Answer: D**
-
-- **A:** Russell's hierarchy is explicitly open and has no final language.
-- **B:** Ethics and value are not rendered factual by adding metalinguistic levels.
-- **C:** Russell proposed it; Wittgenstein did not accept it as his solution.
-- **D:** It handles syntax and truth-definition locally while form reappears at each level.
+- **A — Incorrect:** Russell's hierarchy is explicitly open and has no final language.
+- **B — Incorrect:** Ethics and value are not rendered factual by adding metalinguistic levels.
+- **C — Incorrect:** Russell proposed it; Wittgenstein did not accept it as his solution.
+- **D — Correct:** It handles syntax and truth-definition locally while form reappears at each level.
 
 ### Test the hierarchy one level higher
 
@@ -2672,7 +2616,7 @@ The hierarchy distinguishes formal success from transcendental failure. The fina
 ---
 
 
-# Lesson 12 - Does Analysis Discover the World or Recast It?
+## Lesson 12 — Does Analysis Discover the World or Recast It?
 
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Final synthesis — exact comparisons, criticisms and the transition from analysis to its limits
 
@@ -2815,7 +2759,7 @@ recurring comparison in the whole clause — Lesson 4, Part D; Lesson 8, Part D)
 
 ## Practice: testing the whole movement
 
-### MCQ 29
+**MCQ 29: A**
 
 **According to early Wittgenstein, what makes a proposition a logical picture of a possible fact?**
 
@@ -2824,28 +2768,24 @@ B. Its written signs visually resemble the objects that would make it true
 C. Its speaker directly experiences every object mentioned by the sentence
 D. Its grammatical subject names one complex fact as an indivisible whole
 
-**Answer: A**
+- **A — Correct:** Names correspond to objects, while their articulated arrangement models a possible arrangement of those objects.
+- **B — Incorrect:** Logical picturing requires structural correspondence, not visual resemblance between marks and objects.
+- **C — Incorrect:** A proposition can depict a possibility without its speaker being acquainted with every represented object.
+- **D — Incorrect:** A proposition is articulated; it does not turn a whole fact into the referent of one grammatical subject.
 
-- **A:** Names correspond to objects, while their articulated arrangement models a possible arrangement of those objects.
-- **B:** Logical picturing requires structural correspondence, not visual resemblance between marks and objects.
-- **C:** A proposition can depict a possibility without its speaker being acquainted with every represented object.
-- **D:** A proposition is articulated; it does not turn a whole fact into the referent of one grammatical subject.
-
-### MCQ 30
+**MCQ 30: B**
 
 **Which comparison best captures Moore and Russell on the external world?**
 
 A. Both infer matter from a divine guarantee
 B. Moore ranks certainty; Russell reconstructs objects
-C. Moore reduces tables; Russell merely asserts hands
+C. Moore reduces tables; Russell merely re-asserts the hands
 D. Both deny any gap between appearance and reality
 
-**Answer: B**
-
-- **A:** Neither philosopher bases the external world on a divine guarantee.
-- **B:** Moore reverses the sceptical burden, while Russell constructs physical-object talk from perceptual data.
-- **C:** The descriptions invert their actual methods.
-- **D:** Russell explicitly distinguishes sense-data from inferred or constructed physical objects.
+- **A — Incorrect:** Neither philosopher bases the external world on a divine guarantee.
+- **B — Correct:** Moore reverses the sceptical burden, while Russell constructs physical-object talk from perceptual data.
+- **C — Incorrect:** The descriptions invert their actual methods.
+- **D — Incorrect:** Russell explicitly distinguishes sense-data from inferred or constructed physical objects.
 
 ### Rebuild the comparative verdict
 
@@ -2870,12 +2810,12 @@ with retrieval structures.
 | 3 | 2019 | Q3(c) | 15 | Explain | Why is Moore's philosophy called common-sense realism? | 2 | truisms -> knowing/analysing -> comparative certainty -> external-world proof -> sceptical residual |
 | 4 | 2020 | Q2(b) | 15 | Critically discuss | "If anyone tells us that to say 'Blue exists' is the same thing as to say that 'Both blue and consciousness exist', he makes a mistake and a self-contradictory mistake." | 3 | act/object distinction -> transparency -> anti-identity conclusion -> limit: no automatic proof of unperceived existence |
 | 5 | 2020 | Q2(c) | 15 | Write a note | "...the atoms that I wish to arrive at... are logical atoms and not physical atoms." Write a note on the nature of atomic facts according to Russell in the light of the above statement. | 4 | logical not physical -> particulars/qualities/relations -> atomic/molecular propositions -> negative-fact cost |
-| 6 | 2021 | Q3(a) | 20 | Explain and evaluate | What are the main arguments put forward by Moore in "A Defence of Common Sense" to prove that there are certain propositions which we know to be true with certainty? Do you think Moore's arguments provide a sufficient response to the sceptic? | 2 | truism list -> knowledge before analysis -> certainty comparison -> question-begging objection -> qualified burden-shift |
+| 6 | 2021 | Q3(a) | 20 | Explain and evaluate | What are the main arguments put forward by Moore in his paper “A Defence of Common Sense” to prove that there are possible propositions about the world that are known to be true with certainty? Do you think Moore’s arguments provide a sufficient response to objections presented by the sceptic against the possibility of knowledge? Give reasons in support of your answer. | 2 | truism list -> knowledge before analysis -> certainty comparison -> question-begging objection -> qualified burden-shift |
 | 7 | 2021 | Q4(c) | 15 | Critically discuss | What does Wittgenstein mean by "Whereof one cannot speak, thereof one must be silent"? Critically discuss. | 10 | proposition 7 -> factual sense -> ethics/mystical boundary -> ladder and self-application -> graded verdict |
 | 8 | 2022 | Q1(b) | 10 | Discuss | What is Bertrand Russell's method of logical analysis? How does it ultimately end in establishing atomic theory of meaning? Discuss. | 4 | grammar/logical form -> descriptions/constructions -> atomic facts/propositions -> provisional endpoint and limits |
-| 9 | 2022 | Q3(c) | 15 | Explain | Is there any difference between pictorial form and logical form in Wittgenstein's picture theory of meaning? How does the logical form define the relation between language and reality? Explain. | 8 | objects/states -> depicting relation -> pictorial form -> universal logical form -> showing |
+| 9 | 2022 | Q3(c) | 15 | Explain | Is there any difference between pictorial form and logical form in Ludwig Wittgenstein’s picture theory of language? How does the logical form define the relation between language and reality? Explain. | 8 | objects/states -> depicting relation -> pictorial form -> universal logical form -> showing |
 | 10 | 2023 | Q4(b) | 15 | Critically discuss | Why according to Russell is the proposition - "The present king of France is bald" - problematic? Critically discuss. | 5 | empty apparent subject -> existence/uniqueness/predication -> false, not meaningless -> presupposition rival |
-| 11 | 2024 | Q1(c) | 10 | Critically discuss | What arguments are offered by Moore to prove that there are certain truisms? Critically discuss. | 2 | truism list -> comparative certainty -> no majority-opinion reading -> sceptical burden -> limited verdict |
+| 11 | 2024 | Q1(c) | 10 | Critically discuss | What arguments are offered by Moore to prove that there are certain truisms, knowledge of which is a matter of common sense? Critically discuss. | 2 | truism list -> comparative certainty -> no majority-opinion reading -> sceptical burden -> limited verdict |
 | 12 | 2024 | Q3(a) | 20 | Explain | Explain Russell's notion of incomplete symbols. Also explain how this notion leads to the doctrine of logical atomism. | 5 | contextual definition -> description analysis -> constructions -> genuine residues -> support, not strict entailment |
 | 13 | 2025 | Q1(d) | 10 | Discuss | "The golden mountain is very high." Discuss this statement in the context of Russell's theory of descriptions. | 5 | quantified expansion -> failed existence/uniqueness -> false, not meaningless -> no subsisting object |
 | 14 | 2025 | Q3(c) | 15 | Present an account | "Blue is one object of sensation and green is another..." Present an account of Moore's refutation of idealism with reference to this statement. | 3 | exact target -> act/object -> transparency -> *esse*/*percipi* non-identity -> bounded conclusion |
@@ -2886,7 +2826,7 @@ with retrieval structures.
 
 These questions do not repeat the lesson checks. They test cross-lesson inference, comparison and criticism.
 
-### MCQ 31
+**MCQ 31: C**
 
 **What does *Tractatus* 1.1 mean by saying that the world is the totality of facts, not of things?**
 
@@ -2895,14 +2835,12 @@ B. The world is the collection of true sentences accepted by actual speakers
 C. The world is constituted by obtaining facts, not a mere heap of things
 D. The world is whatever a subject verifies through immediate experience
 
-**Answer: C**
+- **A — Incorrect:** Objects supply possible constituents, but a world exists through how objects are configured in obtaining states of affairs.
+- **B — Incorrect:** Wittgenstein is making an ontological claim about reality, not defining the world by communal assent to sentences.
+- **C — Correct:** Facts are obtaining configurations of objects, so the thesis concerns logical structure rather than an ordinary collection.
+- **D — Incorrect:** The claim does not reduce reality to one subject's verification or private field of experience.
 
-- **A:** Objects supply possible constituents, but a world exists through how objects are configured in obtaining states of affairs.
-- **B:** Wittgenstein is making an ontological claim about reality, not defining the world by communal assent to sentences.
-- **C:** Facts are obtaining configurations of objects, so the thesis concerns logical structure rather than an ordinary collection.
-- **D:** The claim does not reduce reality to one subject's verification or private field of experience.
-
-### MCQ 32
+**MCQ 32: D**
 
 **How does Russell's construction programme relate sense-data to a physical object?**
 
@@ -2911,14 +2849,12 @@ B. Each sense-datum is a mental copy that resembles the whole object
 C. The object is one privileged sense-datum shared by every observer
 D. The object is a structured system of actual and possible sense-data
 
-**Answer: D**
+- **A — Incorrect:** A mere chronological aggregate omits possible appearances, other perspectives and the relations that organise the construction.
+- **B — Incorrect:** A perspective-bound datum does not reproduce the entire physical object as a mental duplicate.
+- **C — Incorrect:** Different perspectives yield different data; no single private datum is the public object.
+- **D — Correct:** Ordered actual and possible appearances jointly construct the enduring object without adding a separate substratum.
 
-- **A:** A mere chronological aggregate omits possible appearances, other perspectives and the relations that organise the construction.
-- **B:** A perspective-bound datum does not reproduce the entire physical object as a mental duplicate.
-- **C:** Different perspectives yield different data; no single private datum is the public object.
-- **D:** Ordered actual and possible appearances jointly construct the enduring object without adding a separate substratum.
-
-### MCQ 33
+**MCQ 33: A**
 
 **What is the most defensible verdict on Moore's hands proof?**
 
@@ -2927,30 +2863,26 @@ B. A deductive proof accepted by every sceptic
 C. A semantic analysis of the word 'hand'
 D. A demonstration that illusions are impossible
 
-**Answer: A**
+- **A — Correct:** It meets Moore's proof conditions while leaving the radical sceptic unconvinced about the premise.
+- **B — Incorrect:** The sceptic's refusal of the premise is precisely why universal acceptance is unavailable.
+- **C — Incorrect:** The argument uses a demonstrative perceptual claim rather than analysing one word.
+- **D — Incorrect:** Moore does not deny that illusion or dreaming is logically possible.
 
-- **A:** It meets Moore's proof conditions while leaving the radical sceptic unconvinced about the premise.
-- **B:** The sceptic's refusal of the premise is precisely why universal acceptance is unavailable.
-- **C:** The argument uses a demonstrative perceptual claim rather than analysing one word.
-- **D:** Moore does not deny that illusion or dreaming is logically possible.
-
-### MCQ 34
+**MCQ 34: B**
 
 **Why can a Tarski-style metalanguage define truth for an object-language without dissolving the Tractarian say/show limit?**
 
 A. It treats the 6.54 ladder as permission to state richer metaphysical theses
 B. It formalises lower-level truth while its own representational form remains shown
 C. It identifies semantic ascent with stepping outside representation altogether
-D. It lets an object-language contain its own unrestricted truth predicate safely
+D. It lets an object-language contain its own unrestricted truth predicate without paradox
 
-**Answer: B**
+- **A — Incorrect:** The 6.54 ladder is an elucidatory device to be discarded, not a hierarchy licensing progressively richer metaphysics.
+- **B — Correct:** A metalanguage can define truth for a lower formal system, but the form enabling that higher representation is still displayed rather than finally stated.
+- **C — Incorrect:** Moving to a richer formal system remains an operation within representation; it does not create an external standpoint on form as such.
+- **D — Incorrect:** Separating object-language from metalanguage is precisely what blocks an unrestricted self-applicable truth predicate.
 
-- **A:** The 6.54 ladder is an elucidatory device to be discarded, not a hierarchy licensing progressively richer metaphysics.
-- **B:** A metalanguage can define truth for a lower formal system, but the form enabling that higher representation is still displayed rather than finally stated.
-- **C:** Moving to a richer formal system remains an operation within representation; it does not create an external standpoint on form as such.
-- **D:** Separating object-language from metalanguage is precisely what blocks an unrestricted self-applicable truth predicate.
-
-### MCQ 35
+**MCQ 35: C**
 
 **How are molecular propositions related to atomic propositions in Russell's logical atomism?**
 
@@ -2959,28 +2891,24 @@ B. They replace atomic propositions with descriptions of physical particles
 C. Their truth-values depend on atomic truth-values and logical connectives
 D. Their truth is fixed by direct acquaintance with one complex object
 
-**Answer: C**
+- **A — Incorrect:** Russell does not posit extra worldly objects corresponding to "and," "or" or "not."
+- **B — Incorrect:** Atomicity is logical rather than physical, and descriptions do not replace the atomic base.
+- **C — Correct:** A molecular proposition's truth is computed from its atomic components under the relevant truth-function.
+- **D — Incorrect:** Acquaintance concerns epistemic access; it does not make a molecular proposition one unanalyzed object.
 
-- **A:** Russell does not posit extra worldly objects corresponding to "and," "or" or "not."
-- **B:** Atomicity is logical rather than physical, and descriptions do not replace the atomic base.
-- **C:** A molecular proposition's truth is computed from its atomic components under the relevant truth-function.
-- **D:** Acquaintance concerns epistemic access; it does not make a molecular proposition one unanalyzed object.
-
-### MCQ 36
+**MCQ 36: D**
 
 **What does logical isomorphism require in Russell's logical atomism?**
 
 A. A true proposition must visually resemble the particular it describes
-B. Every atomic proposition must contain exactly one name and one predicate
+B. Every atomic proposition must contain just one name and one monadic predicate
 C. The fact must copy the sentence's grammatical subject-predicate order
 D. Proposition and fact must share a corresponding arrangement of constituents
 
-**Answer: D**
-
-- **A:** Isomorphism is structural rather than visual; a proposition need not look like what makes it true.
-- **B:** Relational atomic propositions can contain several names and a relation rather than one subject-predicate pair.
-- **C:** Logical analysis may depart sharply from surface grammar, so grammatical order is not the required correspondence.
-- **D:** Constituents and their logical arrangement correspond across the truth-bearing proposition and the fact.
+- **A — Incorrect:** Isomorphism is structural rather than visual; a proposition need not look like what makes it true.
+- **B — Incorrect:** Relational atomic propositions can contain several names and a relation rather than one subject-predicate pair.
+- **C — Incorrect:** Logical analysis may depart sharply from surface grammar, so grammatical order is not the required correspondence.
+- **D — Correct:** Constituents and their logical arrangement correspond across the truth-bearing proposition and the fact.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -3171,8 +3099,7 @@ radicalises the method from 1911 onward.
 
 **L2. Defence of Common Sense (Moore).** Truisms known with **certainty**; **knowing ≠ analysing**; **burden
 reversal** (the truism is more certain than any sceptical premise); Proof of External World satisfies three
-conditions (premises known, differ from conclusion, entail it — linked with a complete approach for **2026 Q1(e)**); Wittgenstein's
-
+conditions (premises known, differ from conclusion, entail it — linked with a complete approach for **2026 Q1(e)**).
 
 **L3. Refutation of Idealism (Moore).** Target **esse est percipi**; distinguish **act** (awareness, constant)
 from **object** (blue/green, variable); consciousness is **diaphanous/transparent**; result: act and object are not identical. Unperceived
@@ -3215,8 +3142,7 @@ cannot speak, thereof one must be silent"; self-referential paradox (**resolute*
 **L11. Hierarchy of languages.** The difficulty: a language cannot say its own structure, only show it (from L8–
 L10's apparatus); **Russell's** proposed escape: L₁ → L₂ → L₃…, no final language; **Tarski's** later, independent
 formal vindication for truth-definitions; argued verdict: succeeds **formally** (self-reference, truth-
-definition), fails **transcendentally** (logical form as such, totality, ethics/value/the mystical); bounded
-
+definition), fails **transcendentally** (logical form as such, totality, ethics/value/the mystical); **bounded** success — a formal gain that leaves the transcendental limit intact (verdict: partial agreement).
 
 ### E.4 Quotation bank (verbatim — attribute exactly)
 
@@ -3247,7 +3173,7 @@ definition), fails **transcendentally** (logical form as such, totality, ethics/
 | Atoms | sense-data + universals | "objects" — logical simples, unspecified |
 | Grounding | **epistemological** (acquaintance) | **logical** (conditions of sense) |
 | Independence | acknowledged, loosely | strictly insisted |
-| Vulnerability | empirical (Sellars on sense-data) | unfalsifiable (atoms never exemplified) |
+| Vulnerability | empirical (Sellars on sense-data) | unconfirmable (no example of a simple object is ever given) |
 
 **Moore vs Russell — method**
 
@@ -3279,7 +3205,6 @@ definition), fails **transcendentally** (logical form as such, totality, ethics/
 - Tautology/contradiction are **sinnlos** (well-formed, empty) — **not false**, **not unsinnig**.
 - "Atomic" = **logical** residue of analysis, **not** physical/microscopic.
 - Do **not** claim the **2018 Berkeley** question — Empiricism-direct cross-link.
-  clause.
 - Moore's Refutation refutes **one argument for idealism**, not realism directly and **not Hegel**.
 - Picture theory is **logical**, not a **mental image**.
 - Acquaintance vs description has **no direct PYQ** but underpins every descriptions question — keep it ready.
@@ -3314,8 +3239,8 @@ definition), fails **transcendentally** (logical form as such, totality, ethics/
 | 7 | Constructions; sense-data; physical objects; neutral monism | Solipsism pressure; regulative reply; phase change | Supports 2024 Q3(a) | MCQs 17–18 |
 | 8 | Facts/things; objects; names; elementary propositions; picture theory | No examples of simples; transcendental role reply | 2022 Q3(c) | MCQs 19–21 |
 | 9 | Bipolarity; logical space; general form; truth-functions | Colour exclusion and non-extensional pressure | Technical support for 2018/2021/2026 | MCQs 22–24 |
-| 10 | Saying/showing; solipsism; ethics; mystical; ladder; silence | Standard/resolute dispute and self-application | 2018 Q3(c); 2021 Q4(c) | MCQs 25–27 |
-| 11 | Language hierarchy; metalanguage; formal/transcendental distinction | Tarskian success and recurring limit | 2026 Q4(a) | MCQ 28 |
+| 10 | Saying/showing; solipsism; ethics; mystical; ladder; silence | Standard/resolute dispute and self-application | 2018 Q3(c); 2021 Q4(c) | MCQs 25–26 |
+| 11 | Language hierarchy; metalanguage; formal/transcendental distinction | Tarskian success and recurring limit | 2026 Q4(a) | MCQs 27–28 |
 | 12 | Picture-theoretic representation; Moore/Russell external-world comparison; final evaluation | Structural depiction and comparative verdict | Consolidates Lessons 2, 7 and 8 | MCQs 29–30 |
 | Cumulative | Facts rather than things; sense-data constructions; Moore's proof; language hierarchy; truth-functions; isomorphism | Cross-lesson discrimination and direct doctrine retrieval | Reinforces 2020 Q2(c), 2022 Q3(c), 2024 Q3(a), 2026 Q1(e) and 2026 Q4(a) | MCQs 31–36 |
 
@@ -3352,6 +3277,7 @@ definition), fails **transcendentally** (logical form as such, totality, ethics/
 |---|---|
 | `live_sessions\LIVE-SESSION-GENERATION-RULES.md` | Governing structure, links-only PYQ boundary and final order |
 | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Moore-Russell-EarlyWittgenstein.md` | Complete canonical doctrine, arguments, distinctions and 2026 additions |
+| `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` §6 | Post-Russellian descriptions, logical construction versus phenomenal reduction, and standard/resolute/mixed *Tractatus* readings |
 | `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` | Exact wording, marks and placement for 14 questions |
 | `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2026.md` | Exact wording, marks and placement for Q1(e) and Q4(a) |
 | Existing complete learning edition and practice source for this topic | Completeness cross-check only; used only to cross-check topic completeness |
@@ -3366,4 +3292,17 @@ definition), fails **transcendentally** (logical form as such, totality, ethics/
 - The MCQ sequence contains 36 distinct questions, four option-specific explanations per question, with no repeated question.
 - Three original Mains questions—10, 15 and 20 marks—contain complete model answers.
 - Lesson headings and remediation blocks are unique; repeated gateway, recall and generic practice labels are absent.
-- Code fences are balanced and the scoped diff contains only this file.
+- Code fences are balanced.
+
+## SOURCE-MANIFEST GATE
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| canonical markdown | checked | upsc-ai-kit knowledge western Moore-Russell-EarlyWittgenstein.md supplied doctrine, arguments and 2026 additions |
+| final learner package | not relevant | learner-first lock: no final learner package is used as a source for this live session |
+| layered/complete session | checked | the existing complete learning edition for this topic was cross-checked for coverage only |
+| solved workbook | not relevant | excluded by policy: no solved workbook is generated or consumed for this live session |
+| advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` §6 supplied the three advanced comparison and interpretation modules used in Lessons 5, 7 and 10 |
+| ocr books | checked | Ewing/Masih survey, Kenny volume 4 and Audi dictionary give OCR-searchable book context |
+| pyqs through 2026 | checked | _PYQ-Western-Philosophy-2018-2025.md and _PYQ-Western-Philosophy-2026.md fix exact wording, marks and placement |
+| official live sources | checked | 2026 scholarship searches in each pre-teach checklist returned no new result; sustained teaching use noted |
