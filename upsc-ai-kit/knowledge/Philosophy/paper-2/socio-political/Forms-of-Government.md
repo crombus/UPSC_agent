@@ -90,7 +90,7 @@ MANY            Polity             Democracy
 ✅ The crucial Aristotelian distinction is that the good-many form is **polity**, not democracy. In Aristotle's classical usage, democracy is the deviant rule of the poor many in their own interest.
 
 ### 1.5 Aristotle's polity as middle course
-⚠️ Aristotle is often read, especially in the 2024 question, as more successful than Plato in balancing **statism** and **individualism**. This claim arises because Aristotle does not collapse politics into abstract idealism. He recognises plurality of social interests, the need for law, the dangers of both concentrated wealth and mob rule, and the stabilising role of a **middle class**.
+⚠️ Aristotle is often read, especially in **2024 Q3(a), a secondary link here and primarily owned by [Individual and State](Individual-and-State.md) §4.4A**, as more successful than Plato in balancing **statism** and **individualism**. This claim arises because Aristotle does not collapse politics into abstract idealism. He recognises plurality of social interests, the need for law, the dangers of both concentrated wealth and mob rule, and the stabilising role of a **middle class**.
 
 ✅ **Polity** is his practical mixed constitution: rule of the many under law, moderated by property, virtue and civic participation. It avoids the extremism of oligarchy and democracy and seeks a workable constitutional mean.
 
@@ -114,8 +114,10 @@ MANY            Polity             Democracy
 | **Authoritarianism** ✅/⚠️ | Opposition, public discussion and accountability are sharply restricted, though some social or institutional plurality may survive | Authoritarianism need not seek control of every belief or social sphere |
 | **Totalitarianism** ✅/⚠️ | A ruling ideology and party-state seek comprehensive mobilisation and penetration of political and social life | It is more ambitious than ordinary dictatorship or authoritarian closure |
 
-**Source control ⚠️:** O. P. Gauba's searchable local PDF pp. 510–514 supplies the
-democracy/authoritarianism contrast and dictatorship setting. The authoritarian/totalitarian
+**Source control ✅/⚠️:** O. P. Gauba's *An Introduction to Political Theory*, printed
+pp. 490–493 (local PDF pp. 509–512), discusses democratic conditions, democracy as a way of life
+and authoritarianism; PDF p. 512 (printed p. 493) supplies the explicit authoritarianism account.
+Dictatorship has the separate definitional anchors in §5.6. The authoritarian/totalitarian
 distinction is a standard comparative-theory reconstruction associated with Juan Linz and Hannah
 Arendt; it is not a new printed syllabus limb.
 
@@ -126,15 +128,23 @@ forms.
 ## 2. MONARCHY
 
 ### 2.1 Definition and basic structure
-✅ Monarchy vests the office of head of state in **one person**, usually by heredity. The monarch governs directly in an absolute monarchy but may only reign ceremonially in a constitutional monarchy (§2.2). Monarchy is among the oldest political institutions and has served as a symbol of unity.
+✅ Monarchy vests the office of head of state in **one person**, usually by heredity, though elective monarchies also exist. The monarch governs directly in an absolute monarchy; limited and constitutional arrangements constrain the crown to differing degrees, sometimes chiefly ceremonial but not necessarily powerless (§2.2). Monarchy is among the oldest political institutions and has served as a symbol of unity.
 
 ### 2.2 Absolute monarchy and constitutional monarchy
 | Type | Basic character | Source of power | Accountability pattern | Philosophical verdict |
 |---|---|---|---|---|
 | **Absolute monarchy** | monarch rules directly with concentrated authority | heredity, conquest, tradition, divine right | weak institutional accountability | efficient but normatively risky |
-| **Constitutional monarchy** | monarch reigns but elected institutions govern | historic continuity + constitutional limitation | accountability shifts to cabinet/parliament | acceptable as symbolic headship |
+| **Limited monarchy** | monarch retains governing powers subject to legal or customary restraints | monarchical title + limits on its exercise | depends on how restraints are enforced | limitation matters, but does not itself establish democratic rule |
+| **Constitutional monarchy** | crown's powers are constitutionally bounded; in democratic variants elected institutions govern | historic continuity + constitutional limitation | ministerial responsibility and constitutional constraints; retained crown powers need scrutiny | strongest democratic defence is limited, non-partisan headship |
 
-✅ **Absolute monarchy** concentrates executive, legislative and sometimes judicial functions in the ruler. ✅ **Constitutional monarchy** preserves the monarch as ceremonial or integrating authority while real political power lies with representative institutions and law.
+✅ **Absolute monarchy** concentrates executive, legislative and sometimes judicial functions in the ruler. ✅ **Constitutional monarchy** places the crown under constitutional limits; in its democratic, largely ceremonial variant, ordinary governing power lies with representative institutions and law. Constitutional monarchy is not universally ceremonial-only.
+
+**Recruitment, substitution and retained powers ✅/⚠️:** These are separate axes, not additional rival syllabus forms.
+- **Elective monarchy:** the monarch is selected by an electoral body rather than automatically inheriting the office. ⚠️ Election of a crown does not by itself establish universal franchise, representative government or democratic accountability.
+- **Regency:** a regent exercises the office's functions when the monarch is a minor, absent or incapacitated; the conditions and scope depend on the governing rules.
+- **Reserve powers:** some constitutional crowns retain exceptional powers concerning government appointment or dismissal, dissolution, or assent. The local compilation mentions dismissal of a prime minister, refusal of dissolution and withholding assent. ⚠️ These are possibilities in particular arrangements, not powers possessed or freely exercisable by every constitutional monarch; law, convention and responsible use must be assessed.
+
+**Source control ✅/⚠️:** The anonymous local *Socio-Political Philosophy* PDF pp. 115–116 distinguishes limited/constitutional and elective monarchy, regency and reserve powers. Its description of limited monarchy as an early pre-written-constitution stage is not adopted as a universal definition: **limits**, not the mere presence or absence of a written constitution, control this comparison.
 
 ⚠️ Thus when UPSC asks whether monarchy can be systematic if monarchs are above politics, the most defensible answer lies mainly in the constitutional variant, not the absolute one.
 
@@ -178,13 +188,13 @@ So monarchy and theocracy are **not necessarily identical**, but the doctrine of
 **Balanced conclusion:** ✅ monarchy can coexist with individual freedom only when it is constitutionalised and politically limited; monarchy as a principle of rule does not itself ground freedom.
 
 ### 2.7 If monarchs are above politics, can monarchy be systematic? (2023)
-⚠️ A systematic form of government requires principles of legitimacy, continuity and role clarity. Constitutional monarchy can claim systematicity because the monarch's non-partisan role is defined by constitutional conventions, while elected institutions perform governance.
+⚠️ On the constitutional reading of **"above politics" as symbolic neutrality**, a systematic form of government requires defined roles, continuity and constitutional limits. Constitutional monarchy can claim systematicity because the monarch's non-partisan role is defined by constitutional conventions, while elected institutions perform governance.
 
 But two reservations matter:
 1. **Above politics** can mean above party conflict, not above constitutional accountability.
 2. If monarchy becomes genuinely unaccountable, the system ceases to be constitutional and slides toward arbitrary rule.
 
-✅ Hence monarchy can be systematic only when "above politics" means **symbolic neutrality within a constitutional order**, not supra-legal power.
+⚠️ Hence **under this specified constitutional, symbolic-neutrality reading**, monarchy's systematic role requires neutrality within a constitutional order, not supra-legal power. This is **not a universal definition of systematicity**: an absolute monarchy may also have organised succession, administration and predictable rules. Systematic organisation alone establishes neither constitutional accountability nor moral legitimacy; the claim that only a symbolic crown can be systematic is contestable.
 
 ### 2.8 Final philosophical assessment of monarchy
 ⚠️ Monarchy survives in modern thought less as a justificatory ideal than as a historically adapted institution. Philosophically, its strongest modern defence is prudential and symbolic; its weakest point is normative — it sits uneasily with equality, merit and democratic legitimacy.
@@ -351,6 +361,12 @@ A strong Indian link is Ambedkar's warning that **political equality** cannot lo
 
 ⚠️ Its philosophical defence is developmental: participation educates citizens, generates civic responsibility and resists alienation. This line resonates with Mill's idea that political participation improves public character.
 
+**Source-critical qualification ❓/⚠️:** Participation **can** develop civic capacities; it does not automatically yield democratic or social progress. Unequal voice, exclusion and manipulation can frustrate its benefits.
+
+✅ The anonymous local *Socio-Political Philosophy*, PDF pp. **112–114**, offers a stronger spiritual-democracy argument: it diagnoses weakened religious/moral commitment as a cause of democratic crisis, makes spiritual fellowship foundational, and connects Gandhi's inner self-rule (swaraj) with self-discipline and obligations to others. PDF p. 112 also criticises the haste of introducing adult franchise in India. These are **the compilation's arguments and historical judgments**, not independently verified causal facts or verbatim statements from Gandhi.
+
+⚠️ Moral discipline and fellowship may support democratic life without establishing that religious belief is necessary for democracy; equal civic dignity can also be justified secularly. Nor does imperfect civic education justify indefinite exclusion from the franchise. Gauba's printed pp. **490–493** (PDF pp. **509–512**) instead supplies an account of democratic conditions, education and Dewey's public inquiry, including obstacles to associated democratic life. ❌ No exact **automatic democratic progress** quotation is attributed to either book: that wording has not been located.
+
 ### 4.7 Deliberative democracy: Habermas
 ✅ Deliberative democracy shifts emphasis from mere aggregation of votes to **public reasoning**. For Habermas, legitimacy grows when laws emerge through communication under conditions approximating freedom, reciprocity and absence of domination.
 
@@ -414,8 +430,8 @@ None replaces the named Plato–Aristotle framework or the printed three forms.
 
 **Reconstructed argument ⚠️:**
 
-1. no regime can rely on coercion alone, since surveillance costs rise without limit;
-2. stability therefore requires that subjects believe the order is rightful;
+1. reliance on coercion alone can impose substantial surveillance and enforcement burdens, whose scale varies with resistance, institutions and technology; no unlimited-cost law is established;
+2. belief in the order's rightfulness can reduce reliance on coercion and help stabilise obedience, without being demonstrated here as an exceptionless condition of regime survival;
 3. beliefs of this kind take a limited number of forms — custom, personal devotion, or enacted rule;
 4. each form generates its own administrative apparatus and its own characteristic crisis;
 5. therefore regimes are best analysed by the *type of legitimacy claim* they make, not only by the number of rulers.
@@ -641,8 +657,9 @@ ruling, but differ decisively on authorisation, limitation, contestability and c
    **democracy** itself through unrestrained liberty and demagoguery (§1.2–1.3). Both structures
    therefore contain a *path* toward personal rule.
 4. ⚠️ Monarchy converges with dictatorship where it is **absolute** — unaccountable, unlimited,
-   with no institutional check; it diverges sharply where it is **constitutional and ceremonial**,
-   and can then coexist with democracy.
+   with no institutional check; it diverges where governing powers are **effectively constitutionally
+   limited**, and can then coexist with democracy. A largely ceremonial crown is the clearest
+   case, not the only one; retained and reserve powers require separate scrutiny (§2.2).
 5. ⚠️ Democracy converges with dictatorship through identifiable pathologies: executive
    aggrandisement, prolonged emergency rule, majoritarian suppression of minorities, captured or
    uncompetitive elections, and a leadership claim to exclusive moral representation (§4A.4). The
@@ -679,25 +696,25 @@ ruling, but differ decisively on authorisation, limitation, contestability and c
 | Binding authoritative decisions | royal command and council | legislation and executive order | decree | all rule requires finality |
 | Coercive enforcement | royal officers | police and courts under law | security apparatus | coercion differs in *authorisation*, not presence |
 | Bureaucracy | household and revenue administration | permanent civil service | party-state or personal apparatus | Weberian legal-rational administration serves any master (§4A.1) |
-| Executive concentration | inherent to one-person rule | cabinet and leader dominance possible | total | democracies limit it by tenure and review |
+| Executive concentration | strongest in absolute rule; limited crowns differ | cabinet and leader dominance possible | total | democracies limit it by tenure and review |
 | Emergency powers | prerogative | constitutionally regulated emergency | permanent exception | the test is whether the exception is time-bound and justiciable |
 | Legitimating narrative | tradition, sometimes divine right | popular mandate | ideology, personality, manufactured consent | Weber's legitimacy is belief, not justification |
 | Symbolism and ceremony | crown and ritual | flag, constitution, oath | cult of the leader | symbolism substitutes for accountability only in the last case |
-| Succession mechanism | dynastic rule | electoral rule | often personalised and uncertain | a *rule* of succession is what makes power impersonal |
+| Succession mechanism | usually dynastic; elective exceptions | electoral rule | often personalised and uncertain | a *rule* of succession is what makes power impersonal |
 
 **Decisive differences — the refutation**
 
 | Axis | Constitutional democracy | Absolute monarchy | Constitutional monarchy | Dictatorship |
 |---|---|---|---|---|
-| **Source of office** | competitive public authorisation | heredity and tradition | heredity, with governing power elected | seizure, personal dominance or controlled selection |
+| **Source of office** | competitive public authorisation | usually heredity and tradition | usually hereditary crown; elective exceptions; elected government in democratic variants | seizure, personal dominance or controlled selection |
 | **Type of legitimacy claimed (Weber)** | legal-rational | traditional | traditional symbol + legal-rational government | charismatic or coercive, often with legal-rational forms retained |
-| **Accountability** | electoral, legal, judicial, public | limited, customary or personal | ministerial responsibility to legislature | none effective |
-| **Contestability** | institutionalised opposition | usually weak | protected | suppressed |
-| **Rights** | constitutionally protected and justiciable | dependent on the monarch or customary law | constitutionally protected | routinely subordinated |
-| **Limits on power** | legislature, courts, federalism, civil society | variable and unenforceable | fully constitutional | ineffective or absent |
-| **Succession** | rule-governed, periodic, peaceful | dynastic | dynastic symbol, electoral government | frequently uncertain and violent |
-| **Correction of ruler error** | elections, review, free press, opposition | ruler's own prudence | ordinary democratic machinery | none available from below |
-| **Relation to dictatorship** | a degeneration *risk*, resisted by design | a short conceptual distance | structurally remote | the type itself |
+| **Accountability** | electoral, legal, judicial, public | limited, customary or personal | ministerial responsibility in democratic variants; crown powers bounded by law/convention | none effective |
+| **Contestability** | institutionalised opposition | usually weak | protected in democratic variants | suppressed |
+| **Rights** | constitutionally protected and justiciable | dependent on the monarch or customary law | constitutional guarantees; enforcement must be assessed | routinely subordinated |
+| **Limits on power** | legislature, courts, federalism, civil society | variable and unenforceable | constitutional; retained/reserve powers need scrutiny | ineffective or absent |
+| **Succession** | rule-governed, periodic, peaceful | usually dynastic | rule-governed crown succession, usually dynastic; electoral government in democratic variants | frequently uncertain and violent |
+| **Correction of ruler error** | elections, review, free press, opposition | ruler's own prudence | ordinary democratic machinery where operative; scrutiny of crown powers | none available from below |
+| **Relation to dictatorship** | a degeneration *risk*, resisted by design | a short conceptual distance | depends on effective limits, not ceremonial status alone | the type itself |
 
 **Objections and replies**
 
@@ -710,10 +727,11 @@ violence.
 capture can defeat — hence §4A.5.
 
 **Objection 2 — the constitutional-monarchy objection.** Grouping monarchy with dictatorship is
-crude, since a ceremonial monarch exercises no governing power at all.
-**Reply:** ✅ correct, and the answer must say so: proximity to *unaccountable governing power* holds for **absolute** monarchy but not for the constitutional form; shared generic state functions still remain.
-**Residual problem:** ⚠️ even ceremonial monarchy retains an unequal, unelected public status,
-which is a defect of principle for democratic equality though not of power.
+crude, since a largely ceremonial monarch does not direct ordinary government.
+**Reply:** ⚠️ correct for that variant, but constitutional monarchy is not exhausted by ceremonial headship. Proximity to *unaccountable governing power* is strongest in **absolute** monarchy; in limited/constitutional forms, assess actual constraints and retained or reserve powers rather than inferring either dictatorship or powerlessness from the label. Shared generic state functions still remain.
+**Residual problem:** ⚠️ hereditary headship retains unequal access to public status even when
+ceremonial; reserve powers add a question of accountable exercise. Elective recruitment alone
+does not resolve either governing accountability or equal citizenship.
 
 **Objection 3 — the elected-dictator objection.** A leader with a majority, weak courts and a
 compliant press exercises dictatorial power while remaining formally democratic.
@@ -752,7 +770,7 @@ that these are the price of revisability, not that they are illusory.
    accountability, contestability, error-correction.
 4. **One worked objection → reply → residual problem**, preferably the elected-dictator objection,
    which is where the stem is strongest.
-5. **The constitutional-monarchy qualification (2 lines).** The claim fails entirely here.
+5. **The constitutional-monarchy qualification (2 lines).** The claim of unaccountable governing power fails where constitutional limits are effective; assess retained/reserve powers, not the label alone.
 6. **Graded verdict (2 lines).** Agree that both structures can *degenerate* toward dictatorship
    and that all three share the machinery of rule; disagree that they share the features that
    define a regime.
@@ -883,8 +901,9 @@ extend democratic time horizons, though the tension remains real.
 - ✅ constitutional supremacy / decentralisation / subsidiarity
 
 
-- ✅ **Monarchy:** one-person rule; absolute versus constitutional; hereditary succession;
-  unity, continuity, arbitrariness.
+- ✅ **Monarchy:** one-person headship; absolute, limited and constitutional powers; usually
+  hereditary succession, elective exceptions; regency and reserve powers; unity, continuity,
+  arbitrariness.
 - ✅ **Theocracy:** sovereignty of God; divine law; clerical/confessional authority;
   interpretation problem; equal citizenship.
 - ✅ **Democracy:** popular sovereignty; political equality; consent; accountability;
@@ -990,7 +1009,7 @@ full 2026 Section-A routing ledger.
 
 Each unit is **Claim → Named anchor → Use for → Limitation**.
 
-- **F1 · Regimes degenerate in a determinate order.** Claim: unrestricted liberty licenses demagoguery, which prepares tyranny → Named: Plato's degeneration sequence and critique of democracy → Use for: 2024-pattern Plato stems; any "dangers of democracy" stem → Limit: the guardian remedy has no mechanism of consent or external correction, and presupposes an unavailable epistemic elite.
+- **F1 · Regimes degenerate in a determinate order.** Claim: unrestricted liberty licenses demagoguery, which prepares tyranny → Named: Plato's degeneration sequence and critique of democracy → Use for: **2025 Q1(d)**, "Comment on Plato's critique of Democracy."; any "dangers of democracy" stem → Limit: the guardian remedy has no mechanism of consent or external correction, and presupposes an unavailable epistemic elite. **2024 Q3(a)** remains a distinct Aristotle–Plato statism/individualism secondary link (§1.5), primarily owned by Individual and State.
 - **F2 · Classification needs two variables, not one.** Claim: number of rulers × rule in the common interest or in self-interest yields six forms; the good and the corrupt version of each number differ in *purpose*, not in size → Named: Aristotle's six-fold classification → Use for: any classification stem → Limit: "common interest" is not self-specifying and must be supplied by an independent theory of the good.
 - **F3 · Stability lies in the middle.** Claim: *polity* — a mixed constitution resting on a large middle stratum — is the most durable practicable form, because extremes of wealth and poverty produce factional rule → Named: Aristotle's polity → Use for: modern constitutional-democracy comparisons → Limit: a sociological claim about stability, not a demonstration of justice.
 - **F4 · Authority rests on the *type* of legitimacy claimed.** Claim: traditional, charismatic and legal-rational are the three pure grounds of believed rightfulness, each with its own administration and its own crisis → Named: Weber (§4A.1) → Use for: monarchy, theocracy and succession stems; the strongest cross-cutting analytical tool in this file → Limit: ⚠️ legitimacy here is sociological belief, not normative justification; do not equate the two.
@@ -1003,7 +1022,22 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - **F11 · Consent can be manufactured.** Claim: authorisation is valuable only if judgment is formed under conditions of access, contestation and freedom from manipulation, so a vote may confer sociological legitimacy without normative authorisation → Named: §4A.5, joining Weber's belief-based legitimacy to the propaganda mechanism → Use for: 20-mark propaganda stems → Limit: the remedy itself empowers the state over public truth — the regulator's dilemma must be stated.
 - **F12 · Deliberation, not only aggregation.** Claim: legitimacy arises from reasons that can be publicly defended before those bound by them, not merely from counting preferences → Named: Habermas (§4.7) → Use for: the constructive half of any democratic-decay answer → Limit: demanding in scale, time and civic capacity; vulnerable to the same communicative distortions it seeks to remedy.
 - **F13 · Sovereignty of God as a political claim.** Claim: theocratic authority derives law from a religious source and vests interpretation in a religious office → Named: §3 of this file; the divine-right bridge to monarchy → Use for: 2019, 2022, 2025 stems → Limit: the philosophical defect is the interpretation monopoly and the unequal citizenship it entails, not religiosity as such.
-- **F14 · Constitutional protection of religious freedom without establishment.** Claim: Articles 25–28 of the Constitution of India guarantee freedom of conscience and religion subject to public order, morality and health, and prohibit religious instruction in wholly State-funded institutions → Named: constitutional text → Use for: the Indian illustration in theocracy and secular-democracy stems → Limit: ✅ constitutional provisions are dated legal facts, not proof of a philosophical thesis; ❌ do not characterise any Indian government or period.
+- **F14 · Constitutional religious freedom and distinct safeguards.** Claim: Articles 25–28 protect conscience/religious affairs and set specific taxation and educational safeguards, **not one identical qualification for all four Articles** → Named: Constitution of India, Part III, Articles 25–28, distinguished below → Use for: the Indian illustration in theocracy and secular-democracy stems → Limit: ✅ constitutional provisions are legal facts, not proof of a philosophical thesis or successful enforcement; ❌ do not characterise any Indian government or period.
+
+| Provision ✅ | Exact scope of the safeguard | Qualification / trap |
+|---|---|---|
+| **Article 25(1)–(2)** | All persons' freedom of conscience and free profession, practice and propagation of religion | Subject to **public order, morality, health and the other provisions of Part III**; clause (2) preserves specified secular-activity regulation and social welfare/reform |
+| **Article 26** | Denominational rights to establish/maintain institutions, manage religious affairs, own/acquire property and administer it | Subject to **public order, morality and health**; property administration is **in accordance with law** |
+| **Article 27** | No person may be compelled to pay taxes whose proceeds are **specifically appropriated** to expenses promoting or maintaining a particular religion or religious denomination | Not a blanket prohibition on every public expenditure touching religion; do not replace its specific-tax test with Article 25's qualification |
+| **Article 28(1)** | No religious instruction in an educational institution **wholly maintained out of State funds** | Read with the clause (2) exception |
+| **Article 28(2)** | Clause (1) does not apply to a State-administered institution established under an **endowment or trust requiring religious instruction** | State administration and the institution's founding terms must both be distinguished |
+| **Article 28(3)** | A person attending a **State-recognised or State-aided** institution cannot be required to participate in religious instruction or attend religious worship in it or its attached premises **without consent** | For a minor, **guardian consent**; this attendance safeguard does not erase clause (1)'s instruction prohibition |
+
+**Legal source control ✅:** Checked against the official Parliament Digital Library's *The
+Constitution of India (2024)*, printed pp. **14–15**, PDF pp. **54–55**; see SOURCES. The express
+public-order/morality/health qualifications above belong to **Articles 25–26**, not indiscriminately
+to Articles 27–28.
+
 - **F15 · Institutional form has independent trade-offs.** Claim: parliamentary/presidential, unitary/federal and fusion/separation axes distribute selection, tenure, competence and checks differently → Named: §4.2A → Use for: comparison and challenge-to-democracy stems → Limit: no axis by itself proves that a regime is democratic.
 - **F16 · Majority rule needs counterweights.** Claim: Tocqueville's tyranny-of-majority problem shows why associations, local freedom, press, rights and review are constitutive safeguards rather than anti-democratic obstacles → Named: Tocqueville plus §4.9 → Use for: 2018/2020 minority and social-cohesion stems → Limit: counter-majoritarian bodies require their own accountability.
 - **F17 · Representative democracy contains rival agency models.** Claim: delegate, trustee and mandate models assign different relations between representative judgment and voter instruction → Named: standard representation theory → Use for: direct/representative and accountability comparisons → Limit: none guarantees descriptive or substantive representation.
@@ -1047,17 +1081,35 @@ For monarchy, theocracy and democracy, compare on the same axes — **source of 
 - Plato, *Republic*, especially Books VI and VIII - philosopher-rule, ship analogy and
   democratic degeneration.
 - Aristotle, *Politics*, especially Books III-IV - classification, common interest and polity.
-- O. P. Gauba, works on political theory and socio-political philosophy - monarchy,
-  theocracy, democracy and modern debates; searchable local *An Introduction to Political
-  Theory* PDF pp. 491–539.
-- *Socio-Political Philosophy*, local compiled notes PDF pp. 90–121; no named author is
-  asserted.
+- O. P. Gauba, *An Introduction to Political Theory*, local
+  `books\philosphy_books\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf`:
+  printed pp. **472–473** = PDF pp. **491–492** (democracy and classical critiques);
+  printed pp. **478–479** = PDF pp. **497–498** (majority rule/minority safeguards);
+  printed pp. **490–493** = PDF pp. **509–512** (democratic conditions, Dewey and authoritarianism);
+  printed pp. **494–500** = PDF pp. **513–519** (elite, pluralist and participatory theory);
+  printed pp. **519–520** = PDF pp. **538–539** (deliberation).
+  ✅ Verified local offset for these ranges: **PDF page = printed page + 19**; the chapter-opening
+  PDF pp. 491 and 513 omit their printed page numerals, with the sequence controlled by adjacent
+  numbered pages. Do not transfer this offset to another edition or cite the whole PDF
+  pp. 491–539 span as evidence for monarchy/theocracy.
+- *Socio-Political Philosophy*, anonymous local compilation,
+  `books\philosphy_books\Socio-Political Philosophy.pdf`, PDF pp. **90–121** as the broader topic
+  span; precise controls here are PDF pp. **112–114** (religion, spiritual democracy, inner
+  self-rule and the franchise judgment) and **115–116** (limited/elective monarchy, regency and
+  reserve powers). These are **PDF pages**, not asserted printed pagination. No author is
+  invented; contested source arguments are distinguished from verified facts, and no exact
+  automatic-progress wording is asserted (§4.6).
 - Rajeev Bhargava and Ashok Acharya, *Political Theory: An Introduction* - democracy,
   secularism, citizenship and political ideals.
 - B. R. Ambedkar, *States and Minorities* and Constituent Assembly interventions - political
   democracy, social democracy and minority safeguards.
 - Constitution of India - representative institutions, rights, religious freedom and
   constitutional limits, used as illustration rather than as a substitute for theory.
+  Articles 25–28 checked against [Parliament Digital Library, *The Constitution of India
+  (2024)*](https://elibrary.sansad.in/items/b0a48d88-c0b5-4813-84fb-07b04e3dd8cc),
+  [official PDF](https://elibrary.sansad.in/server/api/core/bitstreams/ca883d47-639c-43aa-9d4d-eabcf5345d97/content),
+  printed pp. **14–15**, PDF pp. **54–55**, retrieved on **6 October 2026**. This is the identified
+  2024 edition, not a claim to have verified every subsequent amendment.
 - UPSC Civil Services (Main) Philosophy Optional Paper II, 2018-2025, routed in the linked
   local PYQ bank.
 - Max Weber, writings on power, authority and legitimacy - the traditional, charismatic and
