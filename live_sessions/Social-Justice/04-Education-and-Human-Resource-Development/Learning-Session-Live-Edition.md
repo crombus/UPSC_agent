@@ -797,7 +797,7 @@ Skill India / NCVET / NAPS → training / standards / workplace practice
 
 # SOURCE LEDGER
 
-**Evidence convention:** ✅ denotes a directly sourced legal, policy, survey or institutional proposition with its stated scope; ⚠️ denotes a reasoned mechanism or evaluation. The case illustrations are hypothetical. Exactly one recent official linkage is used: the PIB release of 1 February 2026 on Union Budget 2026–27 education allocations and proposed university townships. ASER, UDISE+, PARAKH and AISHE rounds remain **dated background evidence**, not described as current October 2026 observations. The PRS entries for two Joint Committee meetings on 11 September 2026 are used only to verify the Bill's docket status on that date.
+**Evidence convention:** ✅ denotes a directly sourced legal, policy, survey or institutional proposition with its stated scope; ⚠️ denotes a reasoned mechanism or evaluation. The case illustrations are hypothetical. Exactly one recent official linkage is used: the PIB release of 1 February 2026 on Union Budget 2026–27 education allocations and proposed university townships. ASER, UDISE+, PARAKH and AISHE rounds remain **dated background evidence**, not described as current October 2026 observations. The PRS entries for two Joint Committee meetings on 11 September 2026 are used only to verify the Bill's docket status on that date. The 2026 GS-II Q18 education demand is owned here; the adjacent Q17 rights-based-welfare demand remains owned by Social Justice Topic 1 and is not duplicated.
 
 | Source actually consulted | Use and limitation |
 |---|---|
