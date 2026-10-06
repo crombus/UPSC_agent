@@ -1,235 +1,230 @@
 # Landforms of Glaciation — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*.
-> ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
+> **Grounded in:** G.C. Leong and Majid Husain for historical textbook context; modern glaciology and
+> dated official evidence control present doctrine.
+> ✅ = directly sourced fact · ⚠️ = qualified inference / standard synthesis · 📰 = dated current evidence.
 > *Companion: `advanced/06_Himalayan-Glaciers-GLOF.md`.*
 
 ---
 
-## 1. Snapshot & core idea
+## 1. Core process: from snow accumulation to flowing ice
 
+⚠️ A glacier is a perennial body of land ice formed from accumulated/recrystallised snow that moves
+under gravity through internal deformation, basal motion and/or deformation of subglacial sediment.
+Flow—not permanence, size or a fixed thickness—distinguishes a glacier from a snowfield.
 
-**Foundation — Glacial Erosion & Deposition Landforms (GC Leong / Majid).**
+- Fresh snow densifies into firn and glacier ice through compaction, metamorphism, melt/refreezing where
+  present and recrystallisation. Density and timescale vary; do not universalise textbook ladders.
+- Glacier ice is polycrystalline and can contain fractures, pores and drainage pathways; it is not an
+  absolutely impermeable block.
+- Firn is multi-year snow that has survived at least one melt season but remains more porous than glacier
+  ice. *Névé* is an older/overlapping usage, not a compulsory separate stage.
 
-✅ Moving ice erodes by plucking (freeze-thaw prising rock) and abrasion (scratching/grinding with embedded debris), then deposits its load as moraines and drift when it melts. A valley glacier fed by several corries flows downslope, gouges its floor and walls, and on melting drops unsorted till (moraine) and, via meltwater, sorted outwash.
-- ✅ Cirque (corrie/cwm): plucking on the back-wall + abrasion of the floor deepen a horse-shoe basin; a small lake in it is a tarn.
-- ✅ Arete = sharp ridge separating two cirques ('fish-bone'); where three or more cirques meet, a pyramidal horn forms (classic: Matterhorn).
-- ✅ U-shaped valley (glacial trough): the glacier grinds a former V-valley into a broad, steep-sided U; tributary valleys are left as hanging valleys (waterfalls).
-- ✅ Roche moutonnee: asymmetric bump — gently abraded up-ice side, plucked steep down-ice side — a hallmark of glacial erosion; a drowned trough is a fjord.
-- ✅ Depositional (Majid): moraines (lateral, medial, terminal, ground) of unsorted till; drumlins (oval till mounds), eskers (meltwater ridges), and outwash plains/sandur of sorted sediment.
+## 2. Mass balance, ELA, firn line and terminus
 
-**Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-
-✅ A retreating glacier snout is the visible edge of a shrinking cirque/valley-glacier system — directly linking glacial geomorphology to climate change and water security.
-- ✅ The glacier terminus is the snout (here Gomukh), from which the Bhagirathi (headstream of the Ganga) emerges.
-- ✅ Retreat exposes fresh moraine and pro-glacial ground; rates vary by period and measurement method,
-  so quote a dated survey rather than one timeless annual rate.
-- ✅ Hydrological impact is phased: meltwater may first increase, then decline after substantial ice loss;
-  basin rainfall and seasonal snow remain crucial to Himalayan river flow.
-
-## 2. Key classification / data
-
-| Type | Landform | What it is / diagnostic feature |
+| Term | Correct meaning | Common error |
 |---|---|---|
-| ✅ Erosional | Cirque / corrie / cwm | Horse-shoe armchair basin at valley head; tarn may occupy it |
-| ✅ Erosional | Arête | Sharp ridge between adjacent cirques/glacial valleys; French *arête* means ridge/edge |
-| ✅ Erosional | Horn | Pyramidal peak where multiple cirques cut back, e.g. Matterhorn in source note |
-| ✅ Erosional | U-shaped valley / glacial trough | Broad, steep-sided trough produced as ice abrades valley floor and sides |
-| ✅ Erosional | Hanging valley | Tributary valley left above the main trough; waterfalls common |
-| ✅ Erosional | Roche moutonnee | Asymmetric rock bump: abraded up-ice side, plucked steep down-ice side |
-| ✅ Erosional | Fjord / fiord | Drowned, steep-sided glacial trough reaching the sea |
-| ✅ Depositional | Moraines | Unsorted till: lateral, medial, terminal and ground moraines |
-| ✅ Depositional | Drumlin | Oval mound of glacial drift/till formed beneath ice |
-| ✅ Depositional | Esker / outwash plain | Sinuous meltwater ridge / sorted sandur deposit |
+| **Mass balance** | Gains minus losses over a stated period and boundary; specify surface or total balance | Treating snout retreat as mass loss |
+| **Accumulation** | Snowfall/redistribution, avalanches and refreezing retained in the glacier system | Assuming snowfall alone |
+| **Ablation** | Surface/subsurface/basal melt, sublimation and frontal losses such as calving where relevant | Treating melt as the only loss |
+| **ELA** | Glacier-specific altitude where annual specific balance is zero | Equating it with a climatic snowline |
+| **Firn line** | End-of-ablation-season surface boundary between firn and bare ice; sometimes an ELA proxy | Assuming identity under debris/superimposed ice |
+| **Climatic snowline** | Regional climatic concept for persistent snow under stated period/conditions | Treating it as one fixed Himalayan altitude |
+| **Terminus/snout** | Lower glacier margin determined by ice delivery and frontal ablation | Calling it snowline or flow direction |
 
-## 3. Study links
+⚠️ A positive/negative balance year does **not** imply immediate advance/retreat of the terminus. Ice
+thickness, slope, geometry, debris cover and dynamic response transmit a balance anomaly with a lag.
+A retreating terminus normally coexists with down-glacier ice flow; retreat describes margin position,
+not reversed motion.
 
-> **Study link:** ✅ Geography → Physical → Glacial Landforms (GC Leong: Ice; Majid: Glacial Geomorphology)
-> **Study link:** ✅ Geography → Glaciation → Glacier Retreat (applied CA)
+⚠️ Thin debris can enhance melt by lowering albedo; sufficiently thick debris commonly insulates the
+ice, while ice cliffs and supraglacial ponds create local melt hotspots. No universal critical thickness
+or response time applies.
 
-## 4. Must-Know Facts (Prelims)
+## 3. Glacier motion and thermal regime
 
+- **Internal deformation:** creep governed by stress and ice temperature throughout the ice column.
+- **Basal motion:** sliding and/or deformation of water-saturated subglacial sediment where basal
+  conditions permit; not reducible to one continuous water film.
+- **Cold-based, temperate/warm-based and polythermal:** thermal regimes vary spatially and seasonally.
+  Cold-based ice commonly has low basal motion/erosion, but “cold-based means no erosion” is too absolute.
+- **Surging:** internally generated flow instability involving geometry, thermal and/or subglacial
+  hydrological conditions. A surge advance is not direct evidence of positive climatic mass balance;
+  no single drainage-film mechanism is universal.
+- Velocity is commonly faster away from valley walls and near the surface, but tributaries, bends,
+  basal conditions and longitudinal stress create complex fields.
 
-**Foundation — Glacial Erosion & Deposition Landforms (GC Leong / Majid).**
-- ✅ Glacial erosion = plucking + abrasion.
-- ✅ Cirque -> tarn; arete = ridge; horn = pyramidal peak (Matterhorn).
-- ✅ U-shaped valley + hanging valleys are glacial (rivers make V-valleys).
-- ✅ Roche moutonnee: gentle up-ice, steep plucked down-ice.
-- ✅ Moraine = unsorted till; outwash plain (sandur) = sorted meltwater deposit.
-- ✅ Drumlin (till mound) vs esker (meltwater ridge).
+## 4. Glacial erosion and erosional landforms
 
-**Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-- ✅ Gangotri snout = Gomukh; source of Bhagirathi -> Ganga.
-- ✅ Long-term retreat is documented, but distance/rate must be tied to the survey period and method.
-- ✅ Glacier retreat = shrinking valley/cirque glacier (geomorphology + climate).
+### Erosion mechanisms
 
-## 5. UPSC Traps
+- **Abrasion:** debris at the ice–bed interface scratches, grooves and polishes the bed where relative
+  motion and contact pressure permit.
+- **Quarrying/plucking:** blocks are removed along joints or bedding through stress changes, basal water
+  pressure, crack propagation and ice–rock coupling. It is not simply freeze-thaw/regelation on every lee
+  face and does not always require one temperate-bed model.
+- **Subglacial meltwater erosion:** pressurised water can cut channels/potholes and transport sediment.
 
-> 🔑 Trap: Do not confuse similar-looking landforms, processes, scales or Indian locations; UPSC often tests the exact mechanism and setting.
+### Landforms
 
+| Landform | Modern diagnostic |
+|---|---|
+| Cirque/corrie/cwm | Bowl/amphitheatre at a glacier head formed by combined glacial erosion, headwall retreat and slope processes; excavation pathways vary |
+| Tarn | Lake occupying a cirque/rock basin; dam/outlet may include rock, sediment or moraine—do not assume absolute stability |
+| Arête | Sharp ridge between glacial basins/valleys; French *arête* means ridge/edge, **not fish-bone** |
+| Col | Saddle/pass produced where adjacent erosional hollows breach a ridge; not every pass is glacial |
+| Horn | Pyramidal peak left by erosion on several flanks; “three cirques” is a teaching image, not a universal count rule |
+| U-shaped trough | Valley widened/deepened/truncated by ice plus slope processes; not every trough begins as a simple V-valley |
+| Hanging valley | Tributary trough with discordant floor relative to more deeply eroded trunk |
+| Roche moutonnée / whaleback | Streamlined bedrock form; classic stoss abrasion/lee quarrying is common but flow direction should be corroborated with striations/bedform assemblage |
+| Fjord | Marine-inundated glacial trough, commonly overdeepened and locally sill-controlled; not restricted causally to west coasts/westerlies |
 
-**Foundation — Glacial Erosion & Deposition Landforms (GC Leong / Majid).**
-- ❌ U-shaped valleys are made by rivers. → Rivers make V-shaped valleys; glaciers carve U-shaped troughs.
-- ❌ Moraine and outwash are both sorted. → Moraine (till) is UNSORTED; outwash (meltwater) is SORTED.
-- ❌ A tarn is a depositional landform. → A tarn is a lake in an EROSIONAL cirque basin.
+⚠️ Fjords and rias are both drowned valleys. Fjords commonly have glacial trough geometry, hanging
+valleys, steep walls and overdeepening/sills; rias inherit fluvial valley networks. Bathymetry and
+landform assemblage—not one “middle deeper than mouth” absolute—should distinguish them.
 
-**Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-- ❌ The Ganga rises at Gangotri town. → The Bhagirathi emerges from the GOMUKH snout of the Gangotri glacier.
+## 5. Glacial and glaciofluvial deposits
 
-## 6. 📰 Current link
+- **Till** is sediment deposited directly by glacier ice; it is commonly poorly sorted and weakly
+  stratified/unstratified but can be deformed or contain sorted/stratified lenses.
+- **Moraine** is an ice-marginal/subglacial debris landform or assemblage, not a synonym for till and not
+  necessarily wholly unsorted. Lateral, medial, end/terminal and recessional moraines describe position
+  and margin history; englacial debris is a transport setting, not itself a moraine landform.
+- A terminal/end moraine marks a former margin or advance episode; it need not be the glacier's absolute
+  maximum extent. Recessional ridges may record stillstands or minor readvances.
+- **Drumlins** are streamlined subglacial bedforms of varied internal composition and debated formation;
+  they are not restricted absolutely to ice sheets or to one deforming-till mechanism.
+- **Eskers, kames, kame terraces and outwash/sandur** are glaciofluvial deposits, commonly bedded and
+  sorted to varying degrees. Himalayan glaciofluvial forms exist; do not claim India has none.
+- **Varves** can represent annual couplets where independently validated, but not every light–dark pair
+  is annual and varve counts are not calendar ages without chronology.
+- Karewa deposits are a complex intermontane lacustrine/fluvial/glacially influenced succession; do not
+  assign them to a fixed “second interglacial” through the obsolete de Terra–Paterson fourfold scheme.
 
+## 6. Quaternary and palaeoglacial evidence
 
-**Foundation — Glacial Erosion & Deposition Landforms (GC Leong / Majid).**
-📰 Glacial landforms explain the high Himalaya's scenery and its water towers — the same glaciers now retreating (Gangotri) and spawning hazardous glacial lakes.
+✅ Current Quaternary chronology begins at about **2.58 Ma**; the Holocene begins at about **11.7 ka**.
+The older “Quaternary ≈ one million years,” “Recent,” and four-glacial/three-interglacial Indian ladder
+are historiographic, not controlling modern chronology.
 
-**Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-📰 Gangotri's monitored snout retreat is a current cryosphere anchor. Treat the Bhagirathi as the
-headstream emerging at Gomukh and avoid converting glacier retreat directly into a simple,
-immediate “river will cease” claim.
+⚠️ Moraines, trimlines, erratics, troughs and cirques establish former ice presence/extent and flow, but
+require independent dating for age and correlation. Late-glacial global sea level stood roughly
+**120 m below present**, varying through time and place; use modern sea-level chronology rather than a
+fixed textbook 100 m rule. Karewa/Pir Panjal/Narmada correlations need modern stratigraphy and dating.
 
-## 7. Mains angles
+## 7. Glacial lakes and GLOF mechanisms
 
+A **GLOF** is sudden release of water from a glacier-related lake. It is not limited to complete breach of
+a moraine dam.
 
-**Foundation — Glacial Erosion & Deposition Landforms (GC Leong / Majid).**
-- ⚠️ Distinguish glacial erosional vs depositional landforms and use them to read the physiography and water-tower role of the high Himalaya.
+| Lake/dam setting | Possible release mechanisms |
+|---|---|
+| Moraine-dammed | Overtopping waves/inflow, progressive outlet erosion, piping/internal erosion, slope failure, dam settlement/ice melt |
+| Ice-dammed | Flotation, subglacial drainage enlargement, ice-dam thinning/failure; may recur |
+| Bedrock-dammed / rock-lip lake | Generally more resistant, but outlet erosion, landslide blockage/failure and cascading inflow can still matter |
+| Supraglacial / englacial | Pond coalescence, drainage through/under ice, connection to proglacial lake |
+| Proglacial | Position term only; actual dam may be moraine, ice, bedrock or engineered |
 
-**Ca Anchor — Gangotri Glacier Retreat (Gomukh Snout).**
-- ⚠️ Connect glacial geomorphology to climate-driven retreat and India's water-security stakes.
+⚠️ Dam material alone does not “predict stability” or rank risk. Lake volume/depth, freeboard, dam
+geometry and seepage, upstream slopes/ice, trigger probability, valley routing, downstream exposure and
+warning/vulnerability all matter. Avoid literal `risk = hazard × exposure × vulnerability` arithmetic
+unless variables and model are defined.
 
-## 8. Glacier mass balance, ice masses and glacial-lake hazard
+Potential triggers include rock/ice/moraine collapse and displacement waves, intense inflow/rainfall,
+earthen-dam degradation, earthquakes or upstream cascade. Overtopping is a failure mode/process, not
+always the initiating trigger. Not every GLOF lacks a meteorological precursor or becomes a debris flow.
 
-> **Why this section exists:** the official syllabus asks for *changes in critical geographical
-> features, including water bodies and ice caps, and the effects of such changes*. This file taught
-> glacial landforms but not **why ice advances or retreats**, not the **types of ice mass**, and
-> not the **hazard chain** that follows retreat. Those are the parts a 15-mark answer needs.
+## 8. Current official evidence through 5 October 2026
 
-### 8.1 Mass balance: the accounting that decides advance and retreat
+- 📰 **MoES PIB PRID 2150828, 31 July 2025:** heterogeneous Himalayan glacier change; HKH snout-rate
+  statistics; cumulative Indian Himalayan glacier mass loss about **−26 m w.e. (1975–2023)**; upper
+  Chandra mean annual mass balance **−0.51 ± 0.28 m w.e. a⁻¹** and cumulative **−3.54 m w.e.
+  (2015–2022)**. The negative signs are present in the official release.
+  https://pib.gov.in/PressReleasePage.aspx?PRID=2150828
+- 📰 **Lok Sabha UQ 3249, 20 March 2025:** GSI *Inventory of Himalayan Glaciers*, SP-34 (2009),
+  **9,575 glaciers / 37,465 km²** within the inventory boundary; retreat annexures remain period- and
+  method-specific.
+  https://www.sansad.in/getFile/loksabhaquestions/annex/184/AU3249_gMfGym.pdf?source=pqals
+- 📰 **NRSC Glacial Lake Atlas of Indian Himalayan River Basins (2023):** mapped inventory with stated
+  threshold/boundary; an inventory is not a dangerous-lake count.
+  https://www.nrsc.gov.in/nrscnew/assets/pdf/atlas/glaciallake/IHR_GlacialLake_Atlas.pdf
+- 📰 **CWC August 2025 monitoring report:** 2,843 lakes/water bodies above 10 ha in its monitoring
+  cohort; cohort expansion is not lake proliferation; specific event prediction remains limited.
+  https://cwc.gov.in/sites/default/files/Monitoring_Report_Aug_2025.pdf
+- 📰 **PIB PRID 2042990, 8 August 2024:** dam-design review, mandatory GLOF studies for new dams in
+  relevant catchments, 47 potentially affected dams and studies completed for 31 as reported then.
+  https://pib.gov.in/PressReleasePage.aspx?PRID=2042990
+- 📰 **MHA PIB PRID 2099535, 4 February 2025:** NGRMP, ₹150 crore across Arunachal Pradesh,
+  Himachal Pradesh, Sikkim and Uttarakhand; assessment, monitoring/EWS, mitigation and capacity building.
+  https://pib.gov.in/PressReleasePage.aspx?PRID=2099535
+- 📰 **NDMA GLOF Guidelines:** official primary PDF is retrievable; use its actual text when describing
+  preparedness/mitigation rather than stating it is unavailable.
+  https://nidm.gov.in/PDF/pubs/NDMA/30.pdf
+- 📰 **MoES, 1 April 2026, Release ID 2247526:** broader multi-hazard warning architecture, CWC flood
+  forecasts and ISRO glacier/lake remote sensing; this is not equivalent to lake-breach prediction.
+  https://www.moes.gov.in/static/uploads/2026/04/0890666f2fddb2ef02a6ad5f0ff34232.pdf
+- 📰 **MHA PIB PRID 2306291, 3 September 2026:** preparedness review emphasising vulnerable-lake
+  monitoring, flow paths, warning dissemination, evacuation and expedited mitigation implementation.
+  https://pib.gov.in/PressReleasePage.aspx?PRID=2306291
 
-```text
-ACCUMULATION (snowfall, avalanche input, refreezing)   <-- gains, upper glacier
-                       |
-             EQUILIBRIUM LINE (accumulation = ablation)
-                       |
-ABLATION (melting, sublimation, calving, wind scour)   <-- losses, lower glacier
+### South Lhonak evidence
 
-NET BALANCE POSITIVE -> the equilibrium line falls -> the snout ADVANCES
-NET BALANCE NEGATIVE -> the equilibrium line rises -> the snout RETREATS
-```
+- Official NRSC satellite assessment:
+  https://ndem.nrsc.gov.in/documents/Disaster_Document/2023/SK/skflood50dsc04102023/skflood50dsc04102023_vap5.pdf
+- Sikkim PDNA with national collaboration:
+  https://ssdma.nic.in/Uploads/resources/SIKKIM%20PDNA.pdf
+- A 2025 peer-reviewed reconstruction (`10.1126/science.ads2659`) identifies collapse of a frozen lateral
+  moraine into South Lhonak Lake, a displacement wave, overtopping/breach and a sediment-rich downstream
+  cascade. Treat reported volumes/heights as study-specific, not universal GLOF parameters.
+  https://www.science.org/doi/10.1126/science.ads2659
 
-- ⚠️ **A retreating glacier is still flowing forward.** Ice continues to move down-valley under
-  gravity; the *snout* retreats because loss at the terminus outpaces delivery. This distinction is
-  routinely mis-stated and is easy marks when written correctly.
-- ⚠️ **Response is lagged and size-dependent:** small, steep, low-altitude glaciers respond within
-  years; large, thick, high-altitude and debris-covered glaciers respond over decades. A single
-  warm or snowy year therefore proves nothing about trend.
-- ⚠️ **Debris cover complicates the signal:** a thin ash or dust layer absorbs heat and accelerates
-  melt, while a thick debris mantle *insulates* the ice and slows it. Himalayan glaciers with heavy
-  debris cover can therefore thin without the snout retreating visibly.
+## 9. UPSC applications and traps
 
-### 8.2 The family of ice masses
+- **2019 Prelims:** glacier–river/source mapping; teach map facts independently and keep the item/key neutral.
+- **2020 GS-I:** impact of Himalayan glacier loss on Indian water resources; distinguish annual volume
+  from seasonal/drought-year reliability and basin differences.
+- **2023 GS-I:** fjord formation and scenic character; explain glacial trough formation, inundation and
+  associated steep walls/hanging valleys without west-coast or sill absolutes.
 
-| Ice mass | Form and setting | Diagnostic point |
-|---|---|---|
-| ⚠️ Valley (alpine) glacier | Confined by valley walls; flows down a pre-existing valley | Produces the U-shaped valley, cirque, arete and horn suite taught above |
-| ⚠️ Cirque / corrie glacier | Small, occupying an armchair hollow | The nursery form; may be all that survives after retreat |
-| ⚠️ Piedmont glacier | Valley glaciers spreading out on a lowland at the mountain front | Transitional between confined and unconfined flow |
-| ⚠️ Ice cap | Dome of ice covering an upland, flowing outward radially, smaller in extent | Buries the relief rather than following it |
-| ⚠️ Ice sheet | Continental-scale ice cap | Only Greenland and Antarctica today; the Pleistocene sheets created the landforms of northern Europe and North America |
-| ⚠️ Ice shelf | Floating extension of an ice sheet over the sea | **Already floating, so its collapse does not itself raise sea level** — but it buttresses grounded ice behind it, and losing that buttress accelerates discharge that does |
-| ⚠️ Iceberg | Calved floating fragment | Same floating-body logic as the shelf |
+### High-value traps
 
-> 🔑 **Trap:** floating ice melting does **not** directly raise sea level; **grounded** ice
-> (glaciers, ice caps and the grounded parts of ice sheets) transferring mass to the ocean does.
-> Sea-level mechanism is developed in `10_Coastal-Landforms.md`.
+- ❌ Positive balance means immediate terminus advance. → Terminus response is dynamic and lagged.
+- ❌ Firn line, ELA, climatic snowline and snout are interchangeable. → Four different observations.
+- ❌ Cold-based ice causes no erosion. → Usually low basal erosion; not an absolute.
+- ❌ Arête means fish-bone. → French for ridge/edge.
+- ❌ Moraine equals unsorted till. → Landform/assemblage versus one sediment facies.
+- ❌ India has no eskers/kames/sandur. → False absolute; verify mapped Himalayan examples.
+- ❌ Every moraine dam is inherently weak and every rock dam stable. → Assess geometry/material/process.
+- ❌ GLOF means moraine breach. → Several dam/lake and release mechanisms.
+- ❌ Monitoring predicts a specific event. → It supports prioritisation, trend detection and warning inputs.
 
-### 8.3 Glacial lakes and the GLOF chain
+## 10. Answer architecture
 
-```text
-GLACIER RETREAT
-   -> meltwater ponds behind the terminal/lateral MORAINE or in the vacated basin
-   -> a PROGLACIAL or MORAINE-DAMMED LAKE grows
-   -> the dam is unconsolidated debris, often with buried ice, and is inherently weak
-   -> a TRIGGER arrives: rock or ice avalanche into the lake, extreme rainfall,
-      dam seepage and piping, earthquake, or upstream lake failure in cascade
-   -> SUDDEN BREACH -> GLACIAL LAKE OUTBURST FLOOD (GLOF)
-   -> a high-energy, sediment-charged flood wave travels far down a steep valley,
-      scouring channels and destroying roads, bridges, settlements and hydropower assets
-```
+### Glacier change and water resources
 
-- ⚠️ **Why the Himalaya is exposed:** young, steep, seismically active relief; heavy debris supply;
-  monsoon-concentrated rainfall; rapid downstream development of roads, towns and run-of-river
-  hydropower in narrow valleys. The hazard has grown through **both** cryospheric change and
-  increased exposure.
-- ⚠️ **Cascading risk is the modern point:** a GLOF can be initiated by a mass movement rather than
-  by melt alone, and the flood can trigger further failures downstream — so a single-cause framing
-  ("warming caused the flood") is analytically weak.
-- ⚠️ **Risk-reduction logic:** inventory and remote-sensing monitoring of lakes; controlled
-  lowering or siphoning of high-risk lakes; early-warning and instrumented telemetry; hazard-zoned
-  valley-floor land use and siting of infrastructure; and design standards for hydropower in
-  glacier-fed catchments. Institutional doctrine belongs to `Disaster-Management`.
+1. Define the measured quantity: terminus, area, elevation/volume or mass balance.
+2. Explain mass balance and lag without equating one year with snout response.
+3. Separate basin/season: monsoon, westerly, snow/ice melt, groundwater and regulation.
+4. Assess timing/reliability, lakes/GLOF, slope/sediment and global sea-level contribution.
+5. Qualify “peak water” as glacier- and basin-specific; no unsupported Indian date/share.
+6. Use dated current evidence and uncertainty.
 
-> ⚠️ **Factual caution:** do **not** quote a Himalayan glacier count, a retreat rate in metres per
-> year, an inventory of "potentially dangerous" lakes, a glacier-area-loss percentage, or the death
-> toll or date of a specific disaster from memory. Each of these varies by inventory, method and
-> period. Name the mechanism; attach a figure only with a cited source and its survey period.
+### Fjord formation
 
-### 8.4 Why ice matters far beyond the mountains
+1. Pre-existing coastal mountain valley is glacially widened/deepened, often below sea level.
+2. Deglaciation and relative sea-level rise inundate the trough.
+3. Hanging valleys, steep walls, truncated spurs and overdeepening contribute to scenery.
+4. Sills are common but not compulsory; west-coast/westerly association is not a universal cause.
+5. Distinguish fjord from ria using the full glacial landform/bathymetric assemblage.
 
-| Effect of ice loss | Mechanism | Geographic consequence |
-|---|---|---|
-| ⚠️ Altered river regime | Reduced buffering of dry-season and drought-year flow | Himalayan rivers lose their late-season melt contribution; irrigation and hydropower reliability falls in exactly the driest months |
-| ⚠️ Sea-level contribution | Grounded ice transfers mass to the ocean | Deltas, low islands and coastal cities — see `10_Coastal-Landforms.md` and `11_Islands-and-Coral-Reefs.md` |
-| ⚠️ Albedo feedback | Bright ice replaced by darker rock or water absorbs more radiation | Local and regional warming amplification — see `25_Arctic-or-Polar-Climate.md` |
-| ⚠️ Slope destabilisation | Loss of ice support and permafrost thaw in rock walls | More rockfall and debris flow in deglaciating terrain |
-| ⚠️ Sediment and hazard flux | Newly exposed moraine is easily mobilised | Increased sediment load, channel change and reservoir siltation downstream |
+### GLOF analysis
 
-## 9. Answer architecture (10/15/20-mark support)
-
-### 9.1 Directive decoding for this topic
-
-| If the question says | It is really asking for | Do **not** |
-|---|---|---|
-| "Explain the retreat of Himalayan glaciers and its consequences" | Mass-balance logic, lag and debris-cover nuance, then the water-hazard-sea-level consequence chain | Assert an uncited retreat rate |
-| "Discuss glacial lake outburst floods" | The dam-weakness-plus-trigger chain and the exposure half of the risk | Treat GLOF as ordinary flooding |
-| "Distinguish glacial erosional and depositional landforms" | Process-based pairing, with the U-shaped valley versus V-shaped valley discriminator | List names without the process |
-| "Changes in ice caps and their effects" | Ice-mass typology, the floating-versus-grounded rule, and the four effect pathways | Merge glaciers, ice shelves and sea ice into one category |
-
-### 9.2 Reusable 15-mark spine — "Himalayan glacier change and its effects"
-
-1. **Thesis:** the significance of Himalayan glacier change lies less in the ice itself than in the
-   **seasonal water-storage service** it performs for the most densely populated river basins on
-   Earth — and in the hazard it releases while retreating.
-2. **Mechanism:** mass balance and the equilibrium line; why the snout retreats while ice still
-   flows; why response is lagged and heterogeneous across the range.
-3. **Complication that shows command:** debris cover, elevation and size make a single range-wide
-   statement unsafe; thinning and snout retreat are different measures.
-4. **Effects, in descending order of certainty:** altered dry-season flow reliability; expanding
-   glacial lakes and GLOF exposure; slope instability and sediment flux; contribution to sea-level
-   rise via grounded ice.
-5. **Balance:** monsoon rainfall, not melt, supplies the bulk of annual flow in most of these
-   basins, so the melt contribution matters disproportionately in the **lean season and in drought
-   years** rather than in the annual total. Saying this prevents the common exaggeration.
-6. **Response:** monitoring and inventory, lake risk-reduction engineering, early warning,
-   hazard-informed siting, and basin-scale storage and demand management.
-7. **Conclusion:** graded — the water risk is a *timing and reliability* risk, and the hazard risk is
-   a *joint product of cryospheric change and valley-floor development*.
-
-### 9.3 Evidence units available in this file
-
-> **Claim:** landform evidence allows past climates to be reconstructed where no instrument record
-> exists. **Evidence:** U-shaped valleys, cirques, aretes, horns and erratics occur far outside
-> today's glaciated areas — including across northern Europe and North America. **Significance:**
-> it proves that ice extent has changed radically, independent of any modern measurement.
-> **Limitation:** landforms record *that* ice was present, not precisely when or for how long,
-> without separate dating evidence.
-
-> **Claim:** a retreating glacier creates a hazard as well as losing a resource. **Evidence:** the
-> moraine-dammed lakes left behind are impounded by unconsolidated debris, sometimes containing
-> buried ice, and fail catastrophically when triggered. **Significance:** it links a slow climatic
-> process to a sudden disaster, which is precisely the analytical link examiners reward.
-> **Limitation:** the trigger is often a mass movement, so attributing any given outburst wholly to
-> warming overstates the evidence.
+1. Identify lake/dam type and hydrological connectivity.
+2. Assess lake volume/freeboard, dam geometry/material, upstream slopes/ice and inflow.
+3. Distinguish trigger, displacement wave, overtopping and breach/internal erosion.
+4. Model downstream routing, sediment cascade, exposure and warning.
+5. Use inventories as screening, not danger rankings; acknowledge limits of specific prediction.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
@@ -263,11 +258,11 @@ GLACIER RETREAT
   U-shaped trough, hanging valley, roche moutonnée, fjord, till, moraines,
   drumlins, eskers and outwash; Himalayan glacier-river mapping, glacial lakes
   and GLOF risk.
-- **Process control:** snowfall and refreezing → firn and flowing ice →
-  plucking/abrasion and debris transport → till or meltwater deposition.
-  Glacier retreat or overdeepening can create/expand a lake; slope/ice entry,
-  inflow, piping or erosion can produce overtopping or dam failure and a
-  sediment-laden downstream flood.
+- **Process control:** accumulation and snow metamorphism → firn and flowing ice →
+  internal/basal motion → abrasion, quarrying and debris transport → direct
+  ice deposition or glaciofluvial reworking. Glacier retreat, ice blockage or
+  overdeepening can create/expand a lake; slope/ice entry, inflow, outlet/dam
+  degradation or cascade can produce sudden release and downstream flooding.
 - **Scale/map control:** snow grain, glacier, catchment, Himalayan sector,
   glacial-lake dam and downstream valley are separate scales. Gangotri-
   Bhagirathi, Zemu-Teesta, Bara Shigri-Chenab and Siachen-Nubra-Shyok-Indus are
@@ -277,12 +272,13 @@ GLACIER RETREAT
   sensor/method, observation period and issuing agency. A dated inventory is
   not a present-day rate or proof that every mapped lake is dangerous.
 - **Terminology control:** snowfield differs from glacier; ELA from climatic
-  snowline, firn line and snout; retreat from reversal of ice flow; till from
-  sorted outwash; fjord from ria; glacial-lake hazard from downstream risk.
-- **Causal control:** warming can alter glacier and lake conditions but does
-  not by itself establish an event-specific GLOF cause. Dam material,
-  freeboard, slope instability, displacement waves, inflow, valley geometry,
-  exposure, warning and infrastructure vulnerability must be tested.
+  snowline, firn line and snout; retreat from reversal of ice flow; direct till
+  from glaciofluvial deposits; fjord from ria; lake inventory/hazard from
+  downstream risk.
+- **Causal control:** warming can alter glacier, permafrost and lake conditions
+  but does not alone establish an event-specific GLOF trigger. Lake/dam type,
+  volume/freeboard, slope instability, displacement waves, inflow, outlet
+  erosion, valley routing, exposure, warning and vulnerability must be tested.
 - **Boundary:** Topic 05 owns river-system and basin-transfer analysis; Topic
   09 owns general lake/wetland classification; Topic 10 owns relative sea-level
   and coasts; Disaster Management owns response doctrine. Topic 06 retains the
