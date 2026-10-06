@@ -1,7 +1,7 @@
 # Vulcanism and Earthquakes — MUST-DO
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
-> **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*.
+> **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography* + official/authoritative controls listed below.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/03_India-Seismic-Zones.md`.*
 
@@ -14,65 +14,82 @@
 
 ✅ Vulcanism and earthquakes are endogenic processes. Volcanoes are vents or fissures through which
 magma, gases and fragments reach the surface; earthquakes are ground vibrations caused by sudden
-energy release, commonly on faults. **Active, dormant and extinct are descriptive activity classes,
-not a compulsory one-way life-cycle followed by every volcano.**
-- ✅ Shield (lava dome) volcanoes form from fluid basic (basaltic) lava that spreads far → gentle slopes and wide lava sheets.
-- ✅ Acid lava cones form from viscous lava that cannot flow far → steep-sided cones.
-- ✅ Distribution of earthquakes coincides closely with volcanoes — both cluster along the same belts.
+energy release, commonly on faults. **Active, dormant and extinct are evidence-based activity
+descriptions, not a compulsory active → dormant → extinct life-cycle.** Classification can change
+when monitoring, dating or evidence of unrest changes.
+- ✅ **Shield volcanoes** are broad, gently sloping edifices built mainly by mobile basaltic lava.
+- ⚠️ **Lava domes** are distinct: steep, compact mounds produced by viscous lava, commonly dacitic or rhyolitic. A shield volcano is not a “lava dome”.
+- ⚠️ Earthquakes and volcanoes both cluster at many active plate margins, especially subduction zones,
+  but their distributions are **not identical**: transform and continent-collision belts can be highly
+  seismic without volcanic arcs, while hot-spot volcanism can occur within plates.
 - ✅ The Circum-Pacific 'Ring of Fire' is the world's dominant belt of subduction-related volcanism and
   strong seismicity; avoid memorising an undated percentage as a universal constant.
-- ✅ A second major belt is the Mediterranean-Himalayan (mid-continental) belt — Asia Minor, the Himalayas, etc.
+- ⚠️ A second major **seismic** belt extends from the Mediterranean through West Asia to the Himalaya.
+  Volcanism occurs in some sectors; the Himalayan continent-collision sector is not a continuous volcanic arc.
 - ✅ A third zone follows the Mid-Atlantic ridge; lava plateaus (Deccan, Columbia-Snake) mark past fissure vulcanism.
 
 **Standard — Volcanic Forms, Earthquake Mechanics & Plate Control (Majid Husain).**
 
-✅ Majid Husain notes the strong Pacific concentration of active volcanoes. By form, he adds the composite volcano (alternating ash + lava → high, steep cones) and the caldera (collapsed summit, may fill as a crater lake). Eruption style varies with lava: Icelandic (quiet fissure) and Hawaiian (fluid, quiet) at one end; explosive at subduction zones. Volcanoes concentrate along plate margins — subduction of oceanic-continental (Mt St Helens) or oceanic-oceanic (Japan, Philippines).
+✅ Majid Husain notes the strong Pacific concentration of active volcanoes. By form, he adds the composite volcano (alternating lava and fragmental deposits → steep cones) and the caldera (a large collapse depression, which may contain a lake). ⚠️ Eruption style depends on magma composition, temperature, crystal content, dissolved gases, ascent rate and conduit geometry—not silica alone. **Water vapour is normally the dominant volcanic gas**, with CO₂, SO₂ and other species varying by system. Subduction arcs commonly produce explosive eruptions; ridges and many hot spots commonly produce basaltic effusive activity.
 - ✅ Composite volcanoes (stratovolcanoes) are built of alternating ash and lava layers → high, steep, symmetrical cones.
 - ✅ A caldera forms when a volcanic summit collapses inward after magma loss; rainwater can fill it as a crater lake.
 - ✅ Earthquake mechanics: rocks strained beyond their elastic limit rupture along active faults, suddenly releasing stored energy as seismic waves radiating from the focus.
-- ✅ The Earth's crust has 7 major + several minor plates in constant relative motion; plate movement is the primary cause of earthquakes.
+- ⚠️ The **lithosphere**, not merely the crust, is divided into conventionally recognised major plates and
+  numerous smaller plates. Relative plate motion loads faults and is the principal global source of tectonic earthquakes.
 - ✅ Local magnitude (often popularly called the Richter scale) is logarithmic: one unit represents
   10 times recorded wave amplitude and about 31.6 times energy. Large modern earthquakes are usually
   reported by **moment magnitude (Mw)**; intensity describes observed effects at a place.
-- ✅ Volcano distribution is tightly tied to plate margins (subduction & spreading) — hence the Ring of Fire concentration.
+- ⚠️ Volcano distribution is strongly, but not exclusively, tied to subduction and spreading margins.
 
 ## 2. Key classification / data
 
 | Category / term | Basis / definition | Feature / example |
 |---|---|---|
-| ✅ Active volcano | Erupts frequently / recently | Common on Pacific-rim volcanic belts |
-| ✅ Dormant volcano | Erupted before; may erupt again | “Sleeping” volcano |
-| ✅ Extinct volcano | Geological evidence indicates eruption is no longer expected | Old volcanic centres; absence of a historic eruption alone is insufficient |
-| ✅ Shield / lava dome | Highly fluid basic basaltic lava | Gentle slopes; extensive lava sheets |
-| ✅ Acid lava cone | Sticky viscous lava | Steep cone; short lava flow |
+| ⚠️ Active volcano | Erupting, showing unrest, or considered capable of renewed eruption on geological/monitoring evidence | Status requires a dated authority |
+| ⚠️ Dormant / quiescent volcano | Not currently erupting but capable of future activity | Long repose does not prove extinction |
+| ⚠️ Extinct volcano | Eruption is considered highly unlikely on present geological evidence | A revisable assessment, not a life-cycle stage |
+| ⚠️ Shield volcano | Repeated, commonly basaltic, low-viscosity flows | Broad profile; gentle average slopes |
+| ⚠️ Lava dome | Slow extrusion of viscous lava | Steep compact mound; collapse can generate pyroclastic density currents |
+| ⚠️ Fissure-fed lava plateau | High-volume flows from fissures | Deccan-type plateau rather than a cone |
 | ✅ Composite / stratovolcano | Alternating ash and lava | High, steep, symmetrical cone |
 | ✅ Caldera | Summit collapse after magma loss | May fill as crater lake |
 | ✅ Focus / hypocentre | Point of earthquake rupture origin inside Earth | Shallow, intermediate and deep-focus classes exist |
-| ✅ Epicentre | Surface point vertically above focus | First to feel shaking |
-| ✅ Local magnitude / Mw | Earthquake magnitude | Logarithmic; Mw is preferred for large events |
-| ✅ Mercalli scale | Intensity / damage felt | Descriptive and place-specific |
+| ✅ Epicentre | Surface point vertically above the hypocentre | Not necessarily the place of maximum intensity because rupture directivity and site effects matter |
+| ⚠️ Local magnitude (ML) / moment magnitude (Mw) | Alternative magnitude measures | ML can saturate; Mw is standard for large events |
+| ⚠️ Intensity (MMI/MSK) | Observed shaking and effects at a place | Varies spatially for one earthquake |
 | ✅ Seismograph / seismometer | Instrument/sensor recording ground motion | Detection counts depend on network sensitivity and year |
 
 ## ➕ Tsunami (PYQ — Mains 2025 GS-1: "What are Tsunamis? How and where are they formed? Consequences?")
 
-> ✅ Grounded in Majid Husain (definition) + standard oceanography/plate-tectonics (⚠️). Added to close a PYQ gap.
+> **Modern control:** INCOIS and USGS tsunami science, accessed through 5 October 2026.
 
-- ✅ **Definition (Husain):** *"Seismic waves travelling through the ocean and sea water result in high sea waves known as **tsunamis**"* — a **Japanese word** ("harbour wave"). It is **not** caused by tides or wind.
-- ⚠️ **How formed:** any **sudden vertical displacement of the ocean floor** displaces the whole water column and radiates long waves. Chief cause = **submarine earthquakes** (thrust faulting at **subduction zones**); also **volcanic eruptions** (Krakatoa) and **submarine landslides**.
+- ⚠️ **Definition:** a tsunami is a **series of long-period water waves generated by rapid displacement
+  of a large volume of water**. It is not a tidal or wind wave. The Japanese name means “harbour wave”.
+- ⚠️ **How formed:** the dominant far-field source is rapid sea-floor deformation during a large,
+  shallow subduction-zone earthquake. Submarine/coastal landslides, volcanic explosions or flank/caldera
+  collapse, and rare impacts can also displace water.
+- ❗ Magnitude and focal-depth values are **screening heuristics, not universal physical thresholds**.
+  Tsunami potential depends on rupture geometry, vertical displacement, displaced water volume,
+  bathymetry and secondary landslides. Predominantly strike-slip earthquakes usually have low tsunami
+  efficiency but can generate waves through vertical components or landslides.
 - ⚠️ **Where:** subduction belts — most in the **Pacific "Ring of Fire"**; the **Indian Ocean's Sunda (Sumatra) Trench** produced the 2004 event.
-- ⚠️ **Behaviour:** in deep water a tsunami has a very long wavelength and low amplitude; on entering
-  shallow water it slows, shortens and grows in height. Drawback may occur, but not before every wave,
-  so people must respond to official warnings and strong/long coastal shaking.
+- ⚠️ **Behaviour:** tsunami periods are commonly about **10–60 minutes** and wavelengths can be hundreds
+  of kilometres. In deep water the wave is fast and low; shoaling reduces speed and wavelength while
+  increasing amplitude and run-up. Drawback may occur, but not before every wave.
 
 | Cause of sea-floor displacement | Example |
 |---|---|
-| ⚠️ Submarine subduction earthquake | 📰 2004 Indian Ocean (Sumatra), 2011 Tōhoku (Japan) |
+| ⚠️ Submarine megathrust earthquake | 📰 2004 Sumatra-Andaman (USGS Mw 9.1), 2011 Tōhoku |
 | ⚠️ Volcanic eruption / collapse | Krakatoa 1883 |
 | ⚠️ Submarine landslide | Localised tsunamis |
 
-- ⚠️ **Consequences:** coastal **inundation and drowning**, destruction of settlements/ports, **salinisation of soil & groundwater**, ruined fisheries/tourism, and long recovery — worst on **low, gently-sloping coasts**.
+- ⚠️ **Consequences:** inundation, strong currents, erosion, debris impact, drowning, destruction of
+  settlements and ports, salinisation and long recovery. Run-up varies sharply with source direction,
+  offshore bathymetry, coastal geometry, elevation and exposure; no one coastal form or elevation
+  cut-off is universally safe.
 
-> 🔑 Trap: A tsunami is a **seismic sea wave**, NOT a "tidal wave" — tides have nothing to do with it. It is **low and fast in deep water, high and slow near the coast** (the opposite of what people assume).
+> 🔑 Trap: A tsunami is not a tidal wave, not every undersea earthquake is tsunamigenic, the first wave
+> need not be the largest, and natural signs never replace official warnings.
 
 ## 3. Study links
 
@@ -83,17 +100,18 @@ not a compulsory one-way life-cycle followed by every volcano.**
 
 
 **Foundation — Volcanoes, Earthquakes & their Distribution (G.C. Leong).**
-- ✅ Volcano life-cycle: active → dormant → extinct.
-- ✅ Shield volcano = fluid basaltic lava, gentle slope; acid cone = viscous lava, steep slope.
+- ⚠️ Activity labels are revisable evidence-based classes, not a deterministic life-cycle.
+- ⚠️ Shield volcano ≠ lava dome: broad basaltic shield against steep viscous dome.
 - ✅ Pacific 'Ring of Fire' = dominant circum-Pacific seismic-volcanic belt.
-- ✅ Second belt = Mediterranean-Himalayan (mid-continental).
-- ✅ Earthquake and volcano distributions coincide (plate margins).
-- ✅ Delhi-NCR = Seismic Zone IV (high damage risk).
+- ⚠️ Mediterranean-Himalayan = major seismic belt; volcanic expression is sector-specific.
+- ⚠️ Earthquake and volcano belts overlap strongly at subduction margins but are not coextensive.
+- ⚠️ Delhi is mapped in Zone IV under IS 1893 (Part 1):2016; the wider NCR crosses administrative
+  and zonal boundaries and must be checked location by location.
 
 **Standard — Volcanic Forms, Earthquake Mechanics & Plate Control (Majid Husain).**
 - ✅ Active volcanoes are concentrated strongly around Pacific subduction margins.
 - ✅ Composite volcano = alternating ash + lava (steep cone); caldera = collapsed summit → crater lake.
-- ✅ Focus = origin inside Earth; epicentre = surface point above it; most foci < 60 km.
+- ✅ Focus/hypocentre = rupture origin inside Earth; epicentre = surface point vertically above it.
 - ✅ Richter = MAGNITUDE (log, +1 ≈ 31.5× energy); Mercalli = INTENSITY.
 - ✅ Earthquakes = rock strained beyond elastic limit → rupture along faults.
 - ✅ 7 major lithospheric plates; plate tectonics is the chief cause of earthquakes.
@@ -107,7 +125,8 @@ not a compulsory one-way life-cycle followed by every volcano.**
 - ❌ Shield volcanoes have steep sides. → Shield volcanoes have GENTLE slopes (fluid lava); acid lava cones are steep (viscous lava).
 - ❌ Any volcano without a recorded historic eruption is extinct. → Activity status uses geological and
   geophysical evidence; a long-quiescent volcano may still be dormant.
-- ❌ Earthquakes and volcanoes occur in unrelated zones. → Their distributions coincide — both follow plate-margin belts (Ring of Fire, Himalayan belt).
+- ❌ Earthquakes and volcanoes always coincide. → They overlap strongly at many subduction margins, but
+  collision and transform belts can be seismic without volcanic arcs, and hot spots can be intraplate.
 
 **Standard — Volcanic Forms, Earthquake Mechanics & Plate Control (Majid Husain).**
 - ❌ Richter and Mercalli measure the same thing. → Richter = magnitude (energy released); Mercalli = intensity (damage felt at a place).
@@ -117,20 +136,24 @@ not a compulsory one-way life-cycle followed by every volcano.**
 ## 6. 📰 Current link
 
 
-**Foundation — Volcanoes, Earthquakes & their Distribution (G.C. Leong).**
-📰 Back-to-back tremors at Jhajjar, Haryana (M4.4 on 10 Jul 2025, M3.7 on 11 Jul 2025) shook Delhi-NCR; a M7.1 quake near the Nepal-Tibet border (7 Jan 2025) was felt across north India — Delhi lies in Seismic Zone IV (high risk).
-
-**Standard — Volcanic Forms, Earthquake Mechanics & Plate Control (Majid Husain).**
-📰 Earthquake magnitude (Richter) vs intensity (Mercalli) and focus/epicentre are the exact terms the National Center for Seismology uses to report the 2025 Delhi-NCR and Nepal quakes.
+📰 **MoES/NCS monitoring and early-warning status (dated controls):**
+- **25 March 2026, PIB/MoES Release 2244887:** the National Seismological Network (NSN) comprised **169 observatories**.
+- **1 April 2026, Release 2247533:** **170 observatories**; NCS stated that IS 1893 (Part 1):2016 remained current after withdrawal of the revised zonation, and that the network could detect and locate events of magnitude **3.0 and above** anywhere in India.
+- **13 August 2026, Release 2298817:** **174 observatories**; India’s earthquake early-warning
+  system remained in the **pilot phase**. EEW detects an earthquake after rupture begins, using the
+  earlier P wave to provide, depending on source distance, only a few seconds before stronger shaking.
+  It is not prediction and not a fully operational nationwide public-warning service.
 
 ## 7. Mains angles
 
 
 **Foundation — Volcanoes, Earthquakes & their Distribution (G.C. Leong).**
-- ⚠️ Link the Himalayan seismic belt to India's disaster vulnerability (Zone IV-V) — a bridge from physical geography to disaster-management (GS-III) answers.
+- ⚠️ Link Himalayan continental underthrusting and the Main Himalayan Thrust to India’s seismic hazard,
+  then distinguish national zonation, site-specific microzonation and pilot-phase EEW.
 
 **Standard — Volcanic Forms, Earthquake Mechanics & Plate Control (Majid Husain).**
-- ⚠️ Analyse why the Indian-Eurasian plate collision makes the Himalaya a high-magnitude seismic belt, and how Richter/Mercalli data drive seismic zonation and building codes — geomorphology into governance.
+- ⚠️ Analyse why the Indian–Eurasian collision makes the Himalaya highly seismic without creating an
+  Andean-style volcanic arc, and distinguish Mw, intensity, design ground motion and vulnerability.
 
 ## 8. Mantle plumes, hot spots and the wider volcanic-seismic system
 
@@ -142,41 +165,38 @@ not a compulsory one-way life-cycle followed by every volcano.**
 
 ### 8.1 Intra-plate volcanism: the plume and hot-spot idea
 
-⚠️ Most volcanoes lie along plate boundaries. A minority — including some of the largest volcanic
-provinces on Earth — do not. The **mantle-plume hypothesis** explains these:
+⚠️ Most volcanoes lie along plate boundaries. A minority occur within plates. The **mantle-plume
+hypothesis** is a leading, debated explanation for some hot spots and large igneous provinces:
 
 ```text
-DEEP MANTLE THERMAL ANOMALY
-   -> narrow buoyant PLUME rises, largely independent of plate motion
-   -> a broad PLUME HEAD arrives first -> massive short-lived FLOOD BASALT outpouring
-   -> a narrow PLUME TAIL persists -> a long-lived HOT SPOT
-   -> the PLATE keeps moving over the near-stationary tail
-   -> a CHAIN of volcanoes is built, progressively older away from the active vent
+PROPOSED DEEP THERMAL ANOMALY
+   -> buoyant upwelling may generate decompression melting
+   -> a broad head may contribute to a large igneous province
+   -> a narrower tail may sustain a hot spot
+   -> relative plate/hot-spot motion can build an age-progressive chain
 ```
 
 | Feature | Boundary volcanism | Plume / hot-spot volcanism |
 |---|---|---|
 | ⚠️ Location | Ridge axis, trench-arc systems | Can be in a plate interior, far from any boundary |
-| ⚠️ Lava character | Basaltic at ridges; more silicic and explosive at subduction arcs | Typically fluid basaltic, building broad shield volcanoes and lava plateaux |
-| ⚠️ Eruption style | Explosive at arcs; effusive at ridges | Usually effusive and long-lived, with high-volume flood events at plume-head arrival |
-| ⚠️ Spatial signature | Linear belts following the boundary | Age-progressive volcanic chain plus a large flood-basalt province at its origin |
+| ⚠️ Lava character | Commonly basaltic at ridges; arc magmas evolve over a broad compositional range | Commonly basaltic, but not universally so |
+| ⚠️ Eruption style | Varies with magma and setting; many arcs are explosive | Often effusive; high-volume events require case-specific evidence |
+| ⚠️ Spatial signature | Linear belts following the boundary | An age trend can support relative plate/hot-spot motion; not every chain is monotonic or plume-generated |
 
-- ⚠️ **Why this matters for plate tectonics:** because a plume tail is roughly fixed relative to the
-  deep mantle, the *age progression along a hot-spot chain records the direction and relative rate
-  of plate motion*. Hot spots therefore function as a reference frame — an independent check on
-  motions otherwise deduced from magnetic stripes.
-- ⚠️ **India's own case:** the **Deccan Traps** are a continental flood-basalt province, the
-  classic product of plume-head-scale outpouring on a continent, and they are the parent material
-  of the black soil belt (see `04_Weathering-MassMovement-Groundwater.md`).
+- ⚠️ **Why this matters for plate tectonics:** age progression along a volcanic chain can record
+  **relative** motion between a plate and a hot spot. Hot spots are not perfectly fixed; motion,
+  plume deflection and lithospheric controls limit their use as an absolute reference frame.
+- ⚠️ **India's own case:** the **Deccan Volcanic Province–Réunion** connection is a standard
+  plume-based reconstruction, but plume-head causation is a hypothesis rather than a directly
+  observed fact. The Deccan’s flood-basalt emplacement is established independently of that hypothesis.
 
 > 🔑 **Trap:** flood basalts are **not** ordinary volcanic-cone eruptions scaled up. They are
 > **fissure** eruptions of very fluid lava that build plateaux, not peaks. The Deccan is a plateau
 > landscape with step-like scarps, not a chain of cones.
 
-> ⚠️ **Factual caution:** the plume hypothesis is a leading explanation, not a closed question;
-> some intra-plate volcanism is attributed to shallower causes such as lithospheric cracking.
-> Present it as the standard explanation while noting that it remains debated. Do not attach a
-> plume depth, a chain age-progression rate or an eruption volume from memory.
+> ⚠️ **Factual caution:** lithospheric cracking, edge-driven convection and other shallow processes
+> may generate intra-plate melting. Test a plume interpretation with several independent observations
+> rather than treating alignment alone as proof.
 
 ### 8.2 Reading the interior with earthquake waves
 
@@ -184,14 +204,16 @@ DEEP MANTLE THERMAL ANOMALY
 |---|---|---|---|
 | ✅ P (primary) | Compressional; fastest, arrives first | Solids **and** liquids | First arrival; refracted by the core |
 | ✅ S (secondary) | Shear; slower | Solids **only** | Its failure to cross the outer core is the key proof that the outer core is liquid |
-| ⚠️ Surface waves (Love, Rayleigh) | Travel along the surface; slowest | Surface layer | Cause most of the structural damage |
+| ⚠️ Surface waves (Love, Rayleigh) | Travel along the surface; generally slower and dispersive | Near-surface | Often highly damaging because of amplitude, duration and period; not universally dominant at every site |
 
 - ⚠️ **Shadow zones:** because P-waves are refracted at the core boundary and S-waves are stopped
   there, each earthquake produces a belt on the far side of the Earth where the respective wave is
   not recorded. The **S-wave shadow is the larger** one, and it is the single strongest piece of
   evidence for a liquid outer core.
-- ⚠️ Locating a focus requires arrival-time differences at **three or more** stations; a single
-  station gives distance, not direction.
+- ⚠️ A single station’s P–S arrival difference constrains source distance through a travel-time
+  model but not direction. Three stations can locate an **epicentre** in a simplified triangulation;
+  modern **hypocentre, depth and origin-time** solutions use multiple P/S arrivals, a velocity model
+  and generally more observations than the geometric minimum.
 
 > 🔑 **Trap:** magnitude and intensity are different quantities. **Magnitude** is a single,
 > instrument-derived measure of energy released; **intensity** varies from place to place with
@@ -227,22 +249,21 @@ DEEP MANTLE THERMAL ANOMALY
 
 | Ground effect | Mechanism | Consequence |
 |---|---|---|
-| ⚠️ **Site amplification** | Seismic waves slow down and grow in amplitude when they pass from hard rock into soft, unconsolidated sediment | Alluvial basins, reclaimed land and lake beds shake far harder than adjacent rock sites in the same earthquake |
-| ⚠️ **Liquefaction** | Strong shaking of **loose, water-saturated, uniformly graded sand** raises pore-water pressure until the grains lose contact and the deposit temporarily behaves as a fluid | Buildings sink, tilt or float; buried tanks and pipes rise; foundations fail even where the structure itself is undamaged |
+| ⚠️ **Site amplification** | Impedance contrast, basin geometry and resonance can increase selected frequencies and duration in soft sediment | Response is frequency- and shaking-dependent; soft ground does not have one fixed amplification factor |
+| ⚠️ **Liquefaction** | Cyclic shaking in loose, saturated, cohesionless or low-plasticity soils raises pore pressure and reduces effective stress, stiffness and strength | Susceptible materials include clean sands, silty sands and some non-plastic/low-plasticity silts; the deposit does not become an ordinary liquid |
 | ⚠️ **Lateral spreading** | Liquefied ground on a gentle slope or near a free face moves sideways | Roads, embankments, quay walls and pipelines pulled apart |
 | ⚠️ **Resonance** | A building's natural period matches the dominant period of the shaking at that site | Certain building heights fail selectively while their neighbours survive |
 | ⚠️ **Slope failure and rockfall** | Shaking triggers mass movement on already marginal slopes | The dominant damage mode in mountainous seismic belts |
-| ⚠️ **Surface rupture** | Fault displacement reaches the ground surface | Anything built across the fault trace is severed — a siting problem, not a design problem |
+| ⚠️ **Surface rupture** | Fault displacement reaches the ground surface | Avoidance/setbacks are the primary control; flexible lifelines and specialised design can reduce, but not eliminate, direct-rupture damage |
 
-- ⚠️ **Why liquefaction is a geography answer and not only an engineering one:** the susceptible
-  material — young, loose, saturated sand — is a **depositional** product. It occurs in floodplains,
-  deltas, coastal plains, reclaimed land and old channel fills. So liquefaction risk maps onto
-  **geomorphology**, which is precisely why it can be anticipated from a landform map before any
-  drilling is done.
-- ⚠️ **The consequence that answers "why was this earthquake so damaging?":** damage is the product
-  of **hazard × site condition × building stock**. A moderate shallow earthquake on saturated
-  alluvium beneath poorly built masonry can exceed the loss from a larger deep earthquake on rock
-  beneath engineered structures.
+- ⚠️ **Why liquefaction is a geography answer and not only an engineering one:** floodplains,
+  deltas, coastal plains, reclaimed land and old channels help identify **first-pass susceptibility**.
+  Landform mapping cannot replace boreholes, groundwater information, density/penetration testing,
+  grain-size/plasticity data and scenario ground motion.
+- ⚠️ Liquefied soil remains a granular–water mixture with sharply reduced effective stress and shear
+  stiffness; unlike the liquid outer core, it does not imply that all shear-wave transmission becomes zero.
+- ⚠️ Damage depends on hazard, exposure, vulnerability and local site response. These terms are a
+  conceptual risk framework, not a literal deterministic equation.
 
 > ⚠️ **Factual caution:** do not quote depth, magnitude, casualty or damage figures for any named
 > earthquake from memory.
@@ -254,36 +275,32 @@ DEEP MANTLE THERMAL ANOMALY
 | If the question says | It is really asking for | Do **not** |
 |---|---|---|
 | "Define mantle plume and explain its role in plate tectonics" | Plume anatomy (head/tail), the age-progressive chain, and its use as a motion reference frame | Describe ordinary arc volcanoes |
-| "Explain the geophysical characteristics of the circum-Pacific belt" | Subduction anatomy — trench, inclined seismic zone, arc, back-arc — and why seismicity and explosive volcanism coincide there | Merely say "the Ring of Fire has many volcanoes" |
+| "Explain the geophysical characteristics of the circum-Pacific belt" | Subduction anatomy — trench, inclined seismic zone and volcanic/island arc; accretionary forearc or back-arc basin only where developed | Merely say "the Ring of Fire has many volcanoes" |
 | "What are tsunamis? How and where are they formed?" | Vertical sea-floor displacement -> long-wavelength wave -> shoaling amplification -> coastal consequence, plus the source geography | Treat a tsunami as a large wind wave |
 | "Assess the environmental impact of volcanic eruptions" | The six pathways above **and** the fertility counterpoint | Write a one-sided disaster narrative |
-| "Why is the Himalaya seismic but not volcanic?" | Continent-continent collision: shortening without subduction of dense oceanic crust | Assume all mountains are volcanic |
+| "Why is the Himalaya seismic but lacks an Andean-style volcanic arc?" | Continental collision and underthrusting on the Main Himalayan Thrust after consumption of intervening oceanic lithosphere | Claim that collision eliminates every form of magmatism |
 
 ### 10.2 Reusable 10-mark spine — "Mantle plumes and their role in plate tectonics"
 
-1. **Thesis:** plumes explain the volcanism that plate-boundary theory cannot, and in doing so they
-   supply tectonics with an independent frame of reference for plate motion.
-2. **Anatomy:** deep thermal anomaly -> buoyant rise -> plume head (flood basalt) -> plume tail
-   (long-lived hot spot).
-3. **Diagnostic signature:** intra-plate location, effusive basaltic character, and an
-   age-progressive volcanic chain.
-4. **Role in tectonics:** a near-fixed tail plus a moving plate gives direction and relative rate of
-   motion; large igneous provinces are linked to episodes of continental break-up.
-5. **Named illustration:** the Deccan Traps as a continental flood-basalt province, with its
-   downstream black-soil and cotton-belt consequence.
-6. **Qualification:** the hypothesis is standard but contested; some intra-plate volcanism may have
-   shallower causes.
-7. **Conclusion:** plumes are the vertical, mantle-driven complement to the horizontal,
-   plate-driven system — both are needed to explain the observed distribution of volcanism.
+1. **Thesis:** the plume hypothesis explains some intra-plate volcanism and provides a relative
+   plate–hot-spot reference, but is not the only model.
+2. **Proposed anatomy:** thermal anomaly -> buoyant upwelling -> possible broad head and narrower tail.
+3. **Evidence set:** intra-plate setting, geochemistry, topographic/geophysical anomaly and a coherent
+   age progression—not alignment alone.
+4. **Role in tectonics:** relative plate/hot-spot motion can indicate direction and rate; hot spots may move.
+5. **Named illustration:** Deccan–Réunion is a standard reconstruction; flood-basalt emplacement is
+   certain, plume-head causation qualified.
+6. **Counterpoint:** lithospheric cracking and shallow convection can produce intra-plate melt.
+7. **Conclusion:** use plume language as a tested hypothesis, not a universal exception mechanism.
 
 ### 10.3 15-mark seismic-hazard spine
 
-Structure the answer as **hazard = process x exposure x vulnerability**, not as a list of
+Structure the answer as **risk arising from hazard, exposure, vulnerability and site conditions**, not as a list of
 earthquakes: (i) the tectonic source — collision belt versus subduction belt versus intra-plate;
 (ii) the ground-motion modifier — depth, soil amplification on alluvium, liquefaction on saturated
 sediment; (iii) the human modifier — building stock, density, code compliance, preparedness;
-(iv) the qualification that prediction of time is not currently possible, so **zoning, codes and
-retrofitting**, not forecasting, carry the policy weight; (v) a conclusion that grades where risk
+(iv) the qualification that deterministic prediction is not available, while probabilistic forecasting
+and post-initiation early warning have bounded roles; (v) a conclusion that grades where risk
 is concentrated and why. Institutional disaster-management doctrine belongs to the
 `Disaster-Management` folder — cross-link, do not duplicate.
 
@@ -302,6 +319,30 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 > to `01_The-Earth-and-the-Universe.md`. **Limitation:** wave evidence constrains state and
 > boundaries, not detailed composition, which is inferred with additional assumptions.
 
+### 10.5 Official/current controls and answer-neutral objective anchors
+
+Evidence cutoff: **5 October 2026**.
+
+| Control | Exact provenance | Canonical use |
+|---|---|---|
+| Earthquake magnitude and intensity | [USGS — Earthquake Magnitude, Energy Release, and Shaking Intensity](https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity) | Mw/ML and magnitude/intensity distinction |
+| Earthquake early warning | [USGS — Earthquake Early Warning Overview](https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-early-warning-overview); MoES/PIB Release **2298817**, 13 Aug 2026 | Detection after rupture, seconds of lead time; Indian pilot status |
+| Indian monitoring network | MoES/PIB Releases **2244887** (25 Mar 2026), **2247533** (1 Apr 2026), **2298817** (13 Aug 2026) | Dated NSN counts: 169, 170 and 174 |
+| Tsunami science | [USGS — Tsunamis](https://www.usgs.gov/special-topics/subduction-zone-science/science/tsunamis); [USGS — Life of a Tsunami](https://www.usgs.gov/centers/pcmsc/life-tsunami); [USGS — 2004 Mw 9.1 Sumatra-Andaman](https://earthquake.usgs.gov/earthquakes/eventpage/official20041226005853450_30/executive) | Definition, long-period behaviour, source mechanism and current 2004 magnitude |
+| Indian tsunami warning | [INCOIS — ITEWC status and services](https://tsunami.incois.gov.in/TEWS/abouttsunamiready.jsp) | ITEWC/INCOIS Hyderabad; operational since October 2007; real-time network, modelling, 24×7 operation and UNESCO-IOC advisories |
+| Barren Island | [Smithsonian Global Volcanism Program — Barren Island](https://volcano.si.edu/volcano.cfm?vn=260010) | Location and dated eruptive history |
+| Tungurahua | [UNESCO — Tungurahua Volcano UNESCO Global Geopark](https://www.unesco.org/en/iggp/tungurahua-volcano-unesco-global-geopark) | Named volcano, geopark and national location |
+
+**Barren Island — independent static anchor.** It is an active volcano in Indian territory in the
+Andaman Sea, about **135 km north-east of Port Blair**. The Smithsonian record includes a 1991
+eruption followed by later eruptive episodes; activity did not end in 1991. Treat every “last
+eruption” claim as date-specific.
+
+**Tungurahua Volcano UNESCO Global Geopark — independent static anchor.** UNESCO places it in the
+Andes of **Ecuador**, across parts of Tungurahua and Chimborazo provinces. UNESCO designated it a
+Global Geopark on **10 April 2025**. The country/location fact belongs to Geography; geopark-governance doctrine
+belongs to environment and conservation. No objective option, answer letter or statement verdict is mapped.
+
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2026 -->
 ## 2026 PYQ Integration
 
@@ -315,11 +356,11 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 31 | Tungurahua Volcano UNESCO Global Geopark and its national location | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 31 | Tungurahua Volcano UNESCO Global Geopark and its national location | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Teach the UNESCO-verified location independently without mapping it to an option or verdict. |
 
 ### What this owner must now support
 
-- Tungurahua Volcano UNESCO Global Geopark and its national location
+- Tungurahua Volcano UNESCO Global Geopark — Ecuadorian Andes; designation and national location
 
 > This block integrates the 2026 examinable demand and paper metadata. It is kept separate from the 2018-2023 and 2024-2025 blocks and does not convert a provisionally-keyed, answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2026 -->
@@ -360,7 +401,7 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
 | 2018 | GS-I | 6 | Mantle plume and its role in plate tectonics | Define and explain · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2018 | Prelims GS-I | 85 | Barren Island active volcano location and eruption history | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 85 | Barren Island active volcano location and eruption history | Objective question; official key unavailable locally | Routed; key unavailable locally | Teach the Smithsonian-controlled location and chronology independently; no statement verdict. |
 | 2020 | GS-I | 4 | Geophysical characteristics of the Circum-Pacific Zone | Discuss · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2021 | GS-I | 7 | Global volcanic eruptions of 2021 and regional environmental impact | Mention · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
 | 2023 | Prelims GS-I | 65 | Seismic waves P waves and S waves properties | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
@@ -368,7 +409,7 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 ### What this owner must now support
 
 - Mantle plume and its role in plate tectonics
-- Barren Island active volcano location and eruption history
+- Barren Island — active Indian volcano, about 135 km north-east of Port Blair; 1991 followed by later eruptive episodes
 - Geophysical characteristics of the Circum-Pacific Zone
 - Global volcanic eruptions of 2021 and regional environmental impact
 - Seismic waves P waves and S waves properties
@@ -393,9 +434,14 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 - **Date/status control:** eruption status, recent earthquake catalogues,
   seismic-zone standard and monitoring statements require issuing agency,
   observation/publication date and version. Detection count is network-dependent.
-- **Terminology control:** active/dormant/extinct are evidence-based activity
-  classes, not a compulsory life cycle; magnitude differs from intensity;
-  focus from epicentre; monitoring and early warning from prediction.
+- **Terminology control:** active/dormant/extinct are revisable evidence-based activity
+  classes, not a compulsory life cycle; magnitude differs from intensity; focus from
+  epicentre; deterministic prediction from probabilistic forecasting and post-initiation EEW.
+- **Location control:** simplified three-station triangulation estimates an epicentre; a
+  modern hypocentre/depth/origin-time solution uses multiple arrivals and a velocity model.
+- **Liquefaction control:** raised pore pressure reduces effective stress and shear stiffness
+  in susceptible saturated cohesionless or low-plasticity soils; it does not make soil
+  equivalent to the liquid outer core.
 - **Causal control:** hazard is not disaster. Exposure, vulnerability, soil,
   depth, construction and preparedness mediate loss; no single tremor validates
   a deterministic recurrence or zone change.
@@ -405,5 +451,6 @@ is concentrated and why. Institutional disaster-management doctrine belongs to t
 - **Verified PYQ ownership, 2018-2026:** direct routes include 2018 Barren
   Island and mantle plume, 2020 Circum-Pacific characteristics, 2021 eruption
   impacts, 2023 seismic waves, 2024 eruption products, 2025 tsunami Mains and
-  the provisional 2026 Tungurahua route. No unavailable/provisional objective
-  key is promoted.
+  the provisional 2026 Tungurahua route. Barren and Tungurahua static anchors
+  are taught independently from Smithsonian/UNESCO evidence; no unavailable or
+  provisional objective key is promoted.
