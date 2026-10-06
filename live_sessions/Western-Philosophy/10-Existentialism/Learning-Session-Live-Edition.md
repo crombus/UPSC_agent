@@ -173,51 +173,62 @@ No direct primary question is linked through 2026. Use this lesson to prevent th
 
 ### Family-resemblance checks (1–4)
 
-**Q1.** Which of the three printed thinkers explicitly accepted the label "existentialist" for his own philosophy?
+**MCQ 1: A**
+
+Which of the three printed thinkers explicitly accepted the label "existentialist" for his own philosophy?
+
 A. Sartre
 B. Heidegger
 C. Kierkegaard
 D. Sartre and Heidegger
 
-**Q2.** Which figure supplies the phenomenological idea of intentionality transformed by Heidegger and Sartre?
+- **A — Correct:** Sartre publicly adopted the existentialist label for his atheistic humanism.
+- **B — Incorrect:** Heidegger rejected Sartre's existentialist classification in the humanism letter.
+- **C — Incorrect:** Kierkegaard died before existentialism became a self-applied twentieth-century label.
+- **D — Incorrect:** The option wrongly includes Heidegger, who rejected the existentialist classification.
+
+**MCQ 2: B**
+
+Which figure supplies the phenomenological idea of intentionality transformed by Heidegger and Sartre?
+
 A. Kierkegaard
 B. Husserl
 C. Camus
 D. Dostoevsky
 
-**Q3.** Which pairing of "core term for the human being" and thinker is correct?
+- **A — Incorrect:** Kierkegaard contributes the individual, faith and anxiety, not intentionality.
+- **B — Correct:** Husserl's consciousness-of supplies the phenomenological starting point transformed by both thinkers.
+- **C — Incorrect:** Camus develops absurdity and revolt rather than intentional analysis.
+- **D — Incorrect:** Dostoevsky dramatises freedom and guilt but does not formulate phenomenological intentionality.
+
+**MCQ 3: C**
+
+Which pairing of "core term for the human being" and thinker is correct?
+
 A. Dasein — Sartre
 B. Pour-soi — Heidegger
 C. Den Enkelte — Kierkegaard
 D. Care — Kierkegaard
 
-**Q4.** Which error most seriously distorts an Existentialism answer?
+- **A — Incorrect:** Dasein is Heidegger's term, not Sartre's designation for consciousness.
+- **B — Incorrect:** Pour-soi names Sartre's for-itself, not Heidegger's human existent.
+- **C — Correct:** *Den Enkelte* is Kierkegaard's single individual who resists absorption into the System.
+- **D — Incorrect:** Care is Heidegger's structure of Dasein, not Kierkegaard's name for the human being.
+
+**MCQ 4: D**
+
+Which error most seriously distorts an Existentialism answer?
+
 A. A one-year error in a publication date
 B. A mix-up among Kierkegaard's pseudonyms
 C. An imprecise rendering of a French term
 D. One thinker's doctrine applied to the movement
 
-**Answers and explanations**
-**Q1 answer: A**
-- **A:** Correct. Sartre publicly adopted the existentialist label for his atheistic humanism.
-- **B:** Incorrect. Heidegger rejected Sartre's existentialist classification in the humanism letter.
-- **C:** Incorrect. Kierkegaard died before existentialism became a self-applied twentieth-century label.
-- **D:** Incorrect. The option wrongly includes Heidegger, who rejected the existentialist classification.
-**Q2 answer: B**
-- **A:** Incorrect. Kierkegaard contributes the individual, faith and anxiety, not intentionality.
-- **B:** Correct. Husserl's consciousness-of supplies the phenomenological starting point transformed by both thinkers.
-- **C:** Incorrect. Camus develops absurdity and revolt rather than intentional analysis.
-- **D:** Incorrect. Dostoevsky dramatises freedom and guilt but does not formulate phenomenological intentionality.
-**Q3 answer: C**
-- **A:** Incorrect. Dasein is Heidegger's term, not Sartre's designation for consciousness.
-- **B:** Incorrect. Pour-soi names Sartre's for-itself, not Heidegger's human existent.
-- **C:** Correct. *Den Enkelte* is Kierkegaard's single individual who resists absorption into the System.
-- **D:** Incorrect. Care is Heidegger's structure of Dasein, not Kierkegaard's name for the human being.
-**Q4 answer: D**
-- **A:** Incorrect. A minor dating error is narrower than collapsing the thinkers' distinct doctrines.
-- **B:** Incorrect. Pseudonym confusion harms attribution but does not homogenise the whole movement.
-- **C:** Incorrect. Imprecise French terminology is less damaging than assigning one doctrine to all three.
-- **D:** Correct. Applying one thinker's claim to all three erases their theistic, atheistic and ontological differences.
+- **A — Incorrect:** A minor dating error is narrower than collapsing the thinkers' distinct doctrines.
+- **B — Incorrect:** Pseudonym confusion harms attribution but does not homogenise the whole movement.
+- **C — Incorrect:** Imprecise French terminology is less damaging than assigning one doctrine to all three.
+- **D — Correct:** Applying one thinker's claim to all three erases their theistic, atheistic and ontological differences.
+
 ### Lesson-local remediation — repair one-school homogenisation
 
 Build a three-column map headed **Kierkegaard / Sartre / Heidegger**. Place God, the core human term, freedom and authenticity in the correct column, then add one shared family resemblance beneath the table. Finish by explaining in 80 words why Sartre's slogan cannot be treated as the creed of all three.
@@ -337,53 +348,50 @@ For 2020 Q3(a) and 2023 Q1(d), define appropriation and the single individual be
 9. This is a critique of closure, not an erasure claim; no rival comprehensive metaphysics is offered.
 10. Common trap: "truth is subjectivity = relativism" — always pre-empt this misreading in an answer.
 
-### Single-individual argument clinic (5–8)
+### Single-individual argument clinic (5–7)
 
-**Q5.** "Truth is subjectivity" is argued in the *Concluding Unscientific Postscript* by which pseudonym?
+**MCQ 5: A**
+
+"Truth is subjectivity" is argued in the *Concluding Unscientific Postscript* by which pseudonym?
+
 A. Johannes Climacus
 B. Anti-Climacus
 C. Johannes de Silentio
 D. Vigilius Haufniensis
 
-**Q6.** Kierkegaard's target System, against which the single individual is defended, belongs to:
+- **A — Correct:** Johannes Climacus argues for passionate appropriation in the *Postscript*.
+- **B — Incorrect:** Anti-Climacus analyses Christian despair and exemplary Christianity in later works.
+- **C — Incorrect:** Johannes de Silentio stages Abraham's paradox in *Fear and Trembling*.
+- **D — Incorrect:** Vigilius Haufniensis investigates anxiety in *The Concept of Anxiety*.
+
+**MCQ 6: B**
+
+Kierkegaard's target System, against which the single individual is defended, belongs to:
+
 A. Husserl
 B. Hegel
 C. Descartes
 D. Kant
 
-**Q7.** Climacus's technical formula for existential truth is best rendered as:
+- **A — Incorrect:** Husserl is a phenomenological contrast for Sartre and Heidegger, not Kierkegaard's System-builder.
+- **B — Correct:** Hegel's completed rational System is the direct target of Kierkegaard's defence of existing individuality.
+- **C — Incorrect:** Descartes supplies a subject-object model criticised by Heidegger, not the target System here.
+- **D — Incorrect:** Kant shapes German Idealism but does not author the System attacked by Kierkegaard.
+
+**MCQ 7: C**
+
+Climacus's technical formula for existential truth is best rendered as:
+
 A. "Truth is coherence within the total system"
 B. "Whatever I sincerely believe is true for me"
 C. "Objective uncertainty held in passionate inwardness"
 D. "Truth is correspondence between idea and object"
 
-**Q8.** Kierkegaard's compressed anti-Hegel conclusion is:
-A. "The Absolute completes a system of existence."
-B. "Existence precedes any determinate essence."
-C. "Heidegger leaves Being and Time as an unfinished system."
-D. "Logic permits systems; lived existence does not."
+- **A — Incorrect:** Systemic coherence states a Hegelian aspiration, not Climacus's existential truth.
+- **B — Incorrect:** Sincere belief alone would make subjectivity into relativism, which Climacus does not endorse.
+- **C — Correct:** Objective uncertainty passionately appropriated states Climacus's exact relation between risk and inwardness.
+- **D — Incorrect:** Correspondence concerns objective propositional truth, not truth as existential appropriation.
 
-**Answers and explanations**
-**Q5 answer: A**
-- **A:** Correct. Johannes Climacus argues for passionate appropriation in the *Postscript*.
-- **B:** Incorrect. Anti-Climacus analyses Christian despair and exemplary Christianity in later works.
-- **C:** Incorrect. Johannes de Silentio stages Abraham's paradox in *Fear and Trembling*.
-- **D:** Incorrect. Vigilius Haufniensis investigates anxiety in *The Concept of Anxiety*.
-**Q6 answer: B**
-- **A:** Incorrect. Husserl is a phenomenological contrast for Sartre and Heidegger, not Kierkegaard's System-builder.
-- **B:** Correct. Hegel's completed rational System is the direct target of Kierkegaard's defence of existing individuality.
-- **C:** Incorrect. Descartes supplies a subject-object model criticised by Heidegger, not the target System here.
-- **D:** Incorrect. Kant shapes German Idealism but does not author the System attacked by Kierkegaard.
-**Q7 answer: C**
-- **A:** Incorrect. Systemic coherence states a Hegelian aspiration, not Climacus's existential truth.
-- **B:** Incorrect. Sincere belief alone would make subjectivity into relativism, which Climacus does not endorse.
-- **C:** Correct. Objective uncertainty passionately appropriated states Climacus's exact relation between risk and inwardness.
-- **D:** Incorrect. Correspondence concerns objective propositional truth, not truth as existential appropriation.
-**Q8 answer: D**
-- **A:** Incorrect. Kierkegaard does not deny logical systematisation; he denies that existence can be completed within it.
-- **B:** Incorrect. The Sartrean slogan is neither Climacus's formula nor Kierkegaard's anti-system conclusion.
-- **C:** Incorrect. Heidegger's unfinished book is a bibliographical fact, not Kierkegaard's compressed argument.
-- **D:** Correct. The formula permits logical systems while denying a finished system of lived existence.
 ### Lesson-local remediation — repair subjectivity-as-relativism
 
 Write two short paragraphs about the same religious proposition: one on its objective correctness and one on its passionate appropriation by an existing individual. Then state the strongest Hegelian reply and explain why Climacus's formula does not make sincere belief automatically true.
@@ -538,53 +546,64 @@ For 2022 Q4(a) and 2024 Q1(e), organise each sphere by aim, failure and transiti
 13. The *Postscript* revokes itself — a self-consuming text, comparable to the *Tractatus*'s ladder.
 14. Fideism and elitism are the two standing, unresolved objections to the whole Kierkegaardian picture.
 
-### Stages, anxiety and faith checks (9–12)
+### Stages, anxiety and faith checks (8–11)
 
-**Q9.** The pseudonym who analyses Abraham's "teleological suspension of the ethical" is:
-A. Johannes de Silentio
+**MCQ 8: D**
+
+The pseudonym who analyses Abraham's "teleological suspension of the ethical" is:
+
+A. Vigilius Haufniensis
 B. Anti-Climacus
 C. Johannes Climacus
-D. Vigilius Haufniensis
+D. Johannes de Silentio
 
-**Q10.** Kierkegaard's own instruction in the "First and Last Declaration" is that citations should name:
-A. Kierkegaard rather than a pseudonym
-B. The relevant pseudonymic author
+- **A — Incorrect:** Vigilius Haufniensis writes the psychological study of anxiety, not *Fear and Trembling*.
+- **B — Incorrect:** Anti-Climacus analyses despair and Christian existence, not Abraham's suspension.
+- **C — Incorrect:** Johannes Climacus treats becoming Christian and subjective truth, not this Abraham narrative.
+- **D — Correct:** Johannes de Silentio narrates Abraham and formulates the teleological suspension in *Fear and Trembling*.
+
+**MCQ 9: A**
+
+Kierkegaard's own instruction in the "First and Last Declaration" is that citations should name:
+
+A. The relevant pseudonymic author
+B. Kierkegaard rather than a pseudonym
 C. Either name used interchangeably
 D. The publisher of the cited volume
 
-**Q11.** "The dizziness of freedom" is Kierkegaard's description of:
+- **A — Correct:** Naming the relevant pseudonym preserves the standpoint from which the cited claim is made.
+- **B — Incorrect:** Kierkegaard asks readers not to erase the distinct standpoint of each pseudonymous voice.
+- **C — Incorrect:** Interchanging Kierkegaard and a pseudonym defeats the declared distinction between author and character.
+- **D — Incorrect:** The Declaration concerns attribution to pseudonymous authors, not bibliographic credit to publishers.
+
+**MCQ 10: B**
+
+"The dizziness of freedom" is Kierkegaard's description of:
+
 A. Despair
-B. The leap
-C. Anxiety/dread
+B. Anxiety/dread
+C. The leap
 D. The ethical stage
 
-**Q12.** Sartre's use of the word "despair" in the lecture delivered in 1945 and published in 1946 concerns:
+- **A — Incorrect:** Despair is the self's misrelation in *The Sickness unto Death*, not dizziness before possibility.
+- **B — Correct:** Anxiety is the dizziness produced when freedom confronts its own possibility.
+- **C — Incorrect:** The leap responds to possibility but is not itself the mood described as dizziness.
+- **D — Incorrect:** The ethical sphere is a mode of life, whereas the phrase names a disclosive mood.
+
+**MCQ 11: C**
+
+Sartre's use of the word "despair" in the lecture delivered in 1945 and published in 1946 concerns:
+
 A. The failure of Hegel's rational System
 B. Heideggerian anticipation of death
-C. A theological misrelation of self to God
-D. Action without trust in external outcomes
+C. Action without trust in external outcomes
+D. A theological misrelation of self to God
 
-**Answers and explanations**
-**Q9 answer: A**
-- **A:** Correct. Johannes de Silentio narrates Abraham and formulates the teleological suspension in *Fear and Trembling*.
-- **B:** Incorrect. Anti-Climacus analyses despair and Christian existence, not Abraham's suspension.
-- **C:** Incorrect. Johannes Climacus treats becoming Christian and subjective truth, not this Abraham narrative.
-- **D:** Incorrect. Vigilius Haufniensis writes the psychological study of anxiety, not *Fear and Trembling*.
-**Q10 answer: B**
-- **A:** Incorrect. Kierkegaard asks readers not to erase the distinct standpoint of each pseudonymous voice.
-- **B:** Correct. Naming the relevant pseudonym preserves the standpoint from which the cited claim is made.
-- **C:** Incorrect. Interchanging Kierkegaard and a pseudonym defeats the declared distinction between author and character.
-- **D:** Incorrect. The Declaration concerns attribution to pseudonymous authors, not bibliographic credit to publishers.
-**Q11 answer: C**
-- **A:** Incorrect. Despair is the self's misrelation in *The Sickness unto Death*, not dizziness before possibility.
-- **B:** Incorrect. The leap responds to possibility but is not itself the mood described as dizziness.
-- **C:** Correct. Anxiety is the dizziness produced when freedom confronts its own possibility.
-- **D:** Incorrect. The ethical sphere is a mode of life, whereas the phrase names a disclosive mood.
-**Q12 answer: D**
-- **A:** Incorrect. Sartrean despair does not describe the failure of Hegel's rational System.
-- **B:** Incorrect. Being-toward-death is Heidegger's structure of finitude, not Sartre's practical despair.
-- **C:** Incorrect. Misrelation to God defines Kierkegaardian despair and is precisely the contrast at issue.
-- **D:** Correct. Sartrean despair means acting without counting on consequences beyond one's control.
+- **A — Incorrect:** Sartrean despair does not describe the failure of Hegel's rational System.
+- **B — Incorrect:** Being-toward-death is Heidegger's structure of finitude, not Sartre's practical despair.
+- **C — Correct:** Sartrean despair means acting without counting on consequences beyond one's control.
+- **D — Incorrect:** Misrelation to God defines Kierkegaardian despair and is precisely the contrast at issue.
+
 ### Lesson-local remediation — repair stages-as-automatic chronology
 
 Reconstruct the aesthetic, ethical and religious spheres as **aim → failure → possible transition**. Mark where a qualitative leap is required and where relapse remains possible. Then distinguish anxiety, despair and faith in one sentence each, naming the relevant pseudonymous voice.
@@ -684,53 +703,64 @@ For 2024 Q4(a), make Sartre the source, explain the artisan analogy, connect fre
 8. Heidegger: man is the "shepherd of Being," not the lord of beings.
 9. Never attribute the slogan to all three thinkers: Sartre formulates it, Heidegger repudiates it, and Kierkegaard never uses it.
 
-### Blueprint and humanism checks (13–16)
+### Blueprint and humanism checks (12–15)
 
-**Q13.** In Sartre's paper-knife analogy, what corresponds to "essence"?
-A. The artefact's prior design
+**MCQ 12: D**
+
+In Sartre's paper-knife analogy, what corresponds to "essence"?
+
+A. The physical object itself
 B. The atheistic premise
 C. The for-itself's freedom
-D. The physical object itself
+D. The artefact's prior design
 
-**Q14.** Heidegger's explicit rejection of Sartre's reading appears in:
-A. *Being and Time* (1927)
-B. "Letter on Humanism" (written 1946, published 1947)
+- **A — Incorrect:** The manufactured object instantiates the design but is not identical with its essence.
+- **B — Incorrect:** Atheism removes a divine designer but is not the artefact's essence within the analogy.
+- **C — Incorrect:** Human freedom follows from the missing blueprint; it is not the knife's designed function.
+- **D — Correct:** The prior design fixes what the paper knife is for and therefore constitutes its essence.
+
+**MCQ 13: A**
+
+Heidegger's explicit rejection of Sartre's reading appears in:
+
+A. "Letter on Humanism" (written 1946, published 1947)
+B. *Being and Time* (1927)
 C. *Being and Nothingness* (1943)
 D. *The Concept of Anxiety* (1844)
 
-**Q15.** Which attribution of "existence precedes essence" is philosophically accurate?
+- **A — Correct:** The humanism letter directly rejects Sartre's reversal as still trapped in metaphysical humanism.
+- **B — Incorrect:** *Being and Time* predates Sartre's slogan and does not contain Heidegger's explicit reply to it.
+- **C — Incorrect:** *Being and Nothingness* is Sartre's ontology and cannot be Heidegger's textual rejection.
+- **D — Incorrect:** *The Concept of Anxiety* is Kierkegaard's pseudonymous study, not Heidegger's response.
+
+**MCQ 14: B**
+
+Which attribution of "existence precedes essence" is philosophically accurate?
+
 A. Heidegger affirms it; Sartre rejects it
-B. Kierkegaard, Sartre and Heidegger affirm the proposition
-C. Sartre affirms it; Heidegger rejects it
+B. Sartre affirms it; Heidegger rejects it
+C. Kierkegaard, Sartre and Heidegger affirm the proposition
 D. Kierkegaard alone formulates the slogan
 
-**Q16.** For Sartre, atheism functions in the argument as:
+- **A — Incorrect:** This reverses the record: Sartre formulates the slogan and Heidegger repudiates it.
+- **B — Correct:** Sartre formulates the slogan, while Heidegger explicitly challenges its humanist interpretation.
+- **C — Incorrect:** Kierkegaard never uses the slogan, while Heidegger rejects its humanist framing.
+- **D — Incorrect:** Kierkegaard privileges existing individuality but does not formulate Sartre's slogan.
+
+**MCQ 15: C**
+
+For Sartre, atheism functions in the argument as:
+
 A. A detail irrelevant to the inference
 B. A conclusion derived from the slogan
-C. A fact about Sartre without logical force
-D. A premise excluding a divine blueprint
+C. A premise excluding a divine blueprint
+D. A fact about Sartre without logical force
 
-**Answers and explanations**
-**Q13 answer: A**
-- **A:** Correct. The prior design fixes what the paper knife is for and therefore constitutes its essence.
-- **B:** Incorrect. Atheism removes a divine designer but is not the artefact's essence within the analogy.
-- **C:** Incorrect. Human freedom follows from the missing blueprint; it is not the knife's designed function.
-- **D:** Incorrect. The manufactured object instantiates the design but is not identical with its essence.
-**Q14 answer: B**
-- **A:** Incorrect. *Being and Time* predates Sartre's slogan and does not contain Heidegger's explicit reply to it.
-- **B:** Correct. The humanism letter directly rejects Sartre's reversal as still trapped in metaphysical humanism.
-- **C:** Incorrect. *Being and Nothingness* is Sartre's ontology and cannot be Heidegger's textual rejection.
-- **D:** Incorrect. *The Concept of Anxiety* is Kierkegaard's pseudonymous study, not Heidegger's response.
-**Q15 answer: C**
-- **A:** Incorrect. This reverses the record: Sartre formulates the slogan and Heidegger repudiates it.
-- **B:** Incorrect. Kierkegaard never uses the slogan, while Heidegger rejects its humanist framing.
-- **C:** Correct. Sartre formulates the slogan, while Heidegger explicitly challenges its humanist interpretation.
-- **D:** Incorrect. Kierkegaard privileges existing individuality but does not formulate Sartre's slogan.
-**Q16 answer: D**
-- **A:** Incorrect. Atheism is structurally necessary because it removes the divine artisan who could fix human nature.
-- **B:** Incorrect. Sartre does not infer God's non-existence from existence-before-essence; he assumes it for the argument.
-- **C:** Incorrect. The premise has logical work: without God there is no antecedent conception of humanity.
-- **D:** Correct. Denying a divine blueprint permits existence and choosing to precede any fixed human essence.
+- **A — Incorrect:** Atheism is structurally necessary because it removes the divine artisan who could fix human nature.
+- **B — Incorrect:** Sartre does not infer God's non-existence from existence-before-essence; he assumes it for the argument.
+- **C — Correct:** Denying a divine blueprint permits existence and choosing to precede any fixed human essence.
+- **D — Incorrect:** The premise has logical work: without God there is no antecedent conception of humanity.
+
 ### Lesson-local remediation — repair slogan attribution and human blueprint
 
 Redraw the paper-knife argument from design to production, then reverse it for human existence after the divine artisan is removed. Add separate one-sentence entries for Kierkegaard and Heidegger, explaining why neither can simply be credited with Sartre's formula.
@@ -858,53 +888,50 @@ For 2026 Q2(c), begin with intentionality shared by Sartre and Husserl; only the
 12. 2026 Q2(c) is directly linked here; Husserl's positive method extends beyond the bounded comparison required here.
 13. Closing formula: Husserl's consciousness is that FOR WHICH the world has sense; Sartre's is that BY WHICH nothingness (and freedom) enters being.
 
-### Consciousness comparison clinic (17–20)
+### Consciousness comparison clinic (16–18)
 
-**Q17.** For Sartre, the Ego is:
-A. A worldly self constituted in reflection
+**MCQ 16: D**
+
+For Sartre, the Ego is:
+
+A. An inner subject inhabiting consciousness
 B. Husserl's transcendental pole of acts
 C. A purely fictional or imaginary self
-D. An inner subject inhabiting consciousness
+D. A worldly self constituted in reflection
 
-**Q18.** "Consciousness is nothing" means, for Sartre:
-A. Consciousness is an illusion
-B. No fixed essence or self-coincidence
+- **A — Incorrect:** An inner ego would introduce opacity into the translucent intentional field Sartre defends.
+- **B — Incorrect:** Husserl's transcendental ego is the position Sartre rejects as an inhabitant or pole within consciousness.
+- **C — Incorrect:** Sartre treats the reflected Ego as a real worldly object, not a merely fictional self.
+- **D — Correct:** For Sartre, the Ego appears as a worldly object when reflection turns upon conscious activity.
+
+**MCQ 17: A**
+
+"Consciousness is nothing" means, for Sartre:
+
+A. No fixed essence or self-coincidence
+B. Consciousness is an illusion
 C. Consciousness reduces to neural activity
 D. Consciousness does not exist
 
-**Q19.** Which scholar is cited for reading Sartre as a reorientation within phenomenology rather than a refutation of Husserl?
+- **A — Correct:** Nothingness means consciousness lacks fixed essence and never fully coincides with itself.
+- **B — Incorrect:** Calling consciousness illusory denies its activity rather than describing its lack of fixed being.
+- **C — Incorrect:** Reducing consciousness to neural activity replaces Sartre's phenomenological claim with physicalism.
+- **D — Incorrect:** Sartre affirms consciousness exists; he denies that it exists as a self-identical thing.
+
+**MCQ 18: B**
+
+Which scholar is cited for reading Sartre as a reorientation within phenomenology rather than a refutation of Husserl?
+
 A. Simone de Beauvoir
-B. Merleau-Ponty
-C. Dan Zahavi
+B. Dan Zahavi
+C. Merleau-Ponty
 D. Emmanuel Levinas
 
-**Q20.** The work in which Sartre argues the Ego is transcendent, not an inhabitant of consciousness, is:
-A. *Critique of Dialectical Reason* (1960)
-B. *Being and Nothingness* (1943)
-C. *Existentialism Is a Humanism* (delivered in 1945, published in 1946)
-D. *The Transcendence of the Ego* (1936–37)
+- **A — Incorrect:** Beauvoir extends existential ethics and situated freedom but is not the cited interpreter of this dispute.
+- **B — Correct:** Dan Zahavi reads Sartre's non-egological move as a reorientation within phenomenology.
+- **C — Incorrect:** Merleau-Ponty develops embodied phenomenology but is not the scholar named for this reading.
+- **D — Incorrect:** Levinas reworks phenomenology through ethics of the Other, not the cited Sartre-Husserl interpretation.
 
-**Answers and explanations**
-**Q17 answer: A**
-- **A:** Correct. For Sartre, the Ego appears as a worldly object when reflection turns upon conscious activity.
-- **B:** Incorrect. Husserl's transcendental ego is the position Sartre rejects as an inhabitant or pole within consciousness.
-- **C:** Incorrect. Sartre treats the reflected Ego as a real worldly object, not a merely fictional self.
-- **D:** Incorrect. An inner ego would introduce opacity into the translucent intentional field Sartre defends.
-**Q18 answer: B**
-- **A:** Incorrect. Calling consciousness illusory denies its activity rather than describing its lack of fixed being.
-- **B:** Correct. Nothingness means consciousness lacks fixed essence and never fully coincides with itself.
-- **C:** Incorrect. Reducing consciousness to neural activity replaces Sartre's phenomenological claim with physicalism.
-- **D:** Incorrect. Sartre affirms consciousness exists; he denies that it exists as a self-identical thing.
-**Q19 answer: C**
-- **A:** Incorrect. Beauvoir extends existential ethics and situated freedom but is not the cited interpreter of this dispute.
-- **B:** Incorrect. Merleau-Ponty develops embodied phenomenology but is not the scholar named for this reading.
-- **C:** Correct. Dan Zahavi reads Sartre's non-egological move as a reorientation within phenomenology.
-- **D:** Incorrect. Levinas reworks phenomenology through ethics of the Other, not the cited Sartre-Husserl interpretation.
-**Q20 answer: D**
-- **A:** Incorrect. The *Critique* develops Sartre's later social ontology rather than the transcendence of the Ego.
-- **B:** Incorrect. *Being and Nothingness* expands Sartrean ontology after the earlier ego essay.
-- **C:** Incorrect. The humanism lecture popularises freedom and responsibility rather than locating the Ego.
-- **D:** Correct. *The Transcendence of the Ego* explicitly places the Ego outside consciousness as a reflected object.
 ### Lesson-local remediation — repair nothingness-as-non-existence
 
 Use Pierre's absence in the café to show how negation structures an experienced field. Then distinguish **no object present**, **no ego inhabiting consciousness**, and **no fixed essence** from the claim that consciousness does not exist. Close with one precise Sartre–Husserl contrast.
@@ -1010,53 +1037,64 @@ For 2023 Q3(c) and 2025 Q1(c), use a contrast table, unpack non-identity and rej
 10. Coherence objection: is non-self-identity a logical violation, or a description of temporal self-surpassing? Sartre argues the latter.
 11. The promised positive ethics (*Notebooks for an Ethics*) remained incomplete — a standing criticism of unrelieved bleakness.
 
-### Ontological contrast checks (21–24)
+### Ontological contrast checks (19–22)
 
-**Q21.** Which formula correctly describes en-soi?
-A. "It is fully identical with itself."
+**MCQ 19: C**
+
+Which formula correctly describes en-soi?
+
+A. "It has no being of any kind."
 B. "It is defined through freedom-directed projects."
-C. "It has no being of any kind."
+C. "It is fully identical with itself."
 D. "It surpasses whatever it presently is."
 
-**Q22.** The mechanism by which consciousness introduces nothingness into being is called:
-A. Bad-faith evasion
-B. Nihilating activity
-C. The Other's Look
-D. Anticipatory resolve
+- **A — Incorrect:** En-soi is plenary being rather than a nothing or absence of being.
+- **B — Incorrect:** Condemnation to freedom characterises human consciousness, not being-in-itself.
+- **C — Correct:** En-soi is full self-identity: it simply is what it is.
+- **D — Incorrect:** Self-surpassing non-coincidence describes pour-soi, the direct contrast to en-soi.
 
-**Q23.** The pour-soi's desire to become fully self-identical while remaining free consciousness corresponds, for Sartre, to the traditional philosophical/theological definition of:
-A. The Other
+**MCQ 20: D**
+
+The mechanism by which consciousness introduces nothingness into being is called:
+
+A. Bad-faith evasion
+B. Anticipatory resolve
+C. The Other's Look
+D. Nihilating activity
+
+- **A — Incorrect:** Bad faith exploits the gap opened by nothingness but is not the act that introduces it.
+- **B — Incorrect:** Anticipatory resolve belongs to Heidegger's authenticity, not Sartre's mechanism of negation.
+- **C — Incorrect:** The Look objectifies the self through another consciousness; it does not name nihilation.
+- **D — Correct:** Nihilation is consciousness's distancing and negating activity through which nothingness enters being.
+
+**MCQ 21: A**
+
+The pour-soi's desire to become fully self-identical while remaining free consciousness corresponds, for Sartre, to the traditional philosophical/theological definition of:
+
+A. God
 B. The Absolute
-C. God
+C. The Other
 D. Dasein
 
-**Q24.** Sartre's closing formula "man is a useless passion" is best understood as:
-A. A description of Kierkegaardian despair
-B. A diagnosis confined to social alienation
-C. A prescription to renounce striving
-D. The impossible for-itself/in-itself ideal
+- **A — Correct:** God traditionally combines self-grounded completeness with consciousness, the impossible pour-soi-en-soi.
+- **B — Incorrect:** Hegel's Absolute is a systematic whole, whereas Sartre identifies this impossible ideal with God.
+- **C — Incorrect:** The Other gives me being-for-others but is not the desired fusion of freedom and solidity.
+- **D — Incorrect:** Dasein is Heidegger's worldly existent, not Sartre's name for the perfect synthesis.
 
-**Answers and explanations**
-**Q21 answer: A**
-- **A:** Correct. En-soi is full self-identity: it simply is what it is.
-- **B:** Incorrect. Condemnation to freedom characterises human consciousness, not being-in-itself.
-- **C:** Incorrect. En-soi is plenary being rather than a nothing or absence of being.
-- **D:** Incorrect. Self-surpassing non-coincidence describes pour-soi, the direct contrast to en-soi.
-**Q22 answer: B**
-- **A:** Incorrect. Bad faith exploits the gap opened by nothingness but is not the act that introduces it.
-- **B:** Correct. Nihilation is consciousness's distancing and negating activity through which nothingness enters being.
-- **C:** Incorrect. The Look objectifies the self through another consciousness; it does not name nihilation.
-- **D:** Incorrect. Anticipatory resolve belongs to Heidegger's authenticity, not Sartre's mechanism of negation.
-**Q23 answer: C**
-- **A:** Incorrect. The Other gives me being-for-others but is not the desired fusion of freedom and solidity.
-- **B:** Incorrect. Hegel's Absolute is a systematic whole, whereas Sartre identifies this impossible ideal with God.
-- **C:** Correct. God traditionally combines self-grounded completeness with consciousness, the impossible pour-soi-en-soi.
-- **D:** Incorrect. Dasein is Heidegger's worldly existent, not Sartre's name for the perfect synthesis.
-**Q24 answer: D**
-- **A:** Incorrect. Kierkegaardian despair is a theological misrelation, not Sartre's impossible ontological project.
-- **B:** Incorrect. The formula concerns structural lack in consciousness, not social alienation alone.
-- **C:** Incorrect. Sartre diagnoses unavoidable striving; he does not prescribe abandoning all projects.
-- **D:** Correct. The useless passion is the for-itself's impossible wish to become self-identical without losing freedom.
+**MCQ 22: B**
+
+Sartre's closing formula "man is a useless passion" is best understood as:
+
+A. A description of Kierkegaardian despair
+B. The impossible for-itself/in-itself ideal
+C. A prescription to renounce striving
+D. A diagnosis confined to social alienation
+
+- **A — Incorrect:** Kierkegaardian despair is a theological misrelation, not Sartre's impossible ontological project.
+- **B — Correct:** The useless passion is the for-itself's impossible wish to become self-identical without losing freedom.
+- **C — Incorrect:** Sartre diagnoses unavoidable striving; he does not prescribe abandoning all projects.
+- **D — Incorrect:** The formula concerns structural lack in consciousness, not social alienation alone.
+
 ### Lesson-local remediation — repair en-soi/pour-soi as mind–matter dualism
 
 Make a two-column en-soi/pour-soi table using self-identity, nihilation, temporality and freedom. Apply it first to a stone and then to a person's past role. Explain why the contrast concerns modes of being rather than two substances called matter and mind.
@@ -1192,53 +1230,36 @@ Four linked PYQs require the same architecture: facticity → project → choice
 14. Four PYQs (2019, 2020, 2021, 2024) are directly linked to this lesson.
 15. Never present Sartre's "absolute" freedom as omnipotence; it is freedom exercised within, never despite, situation.
 
-### Situated-freedom decision lab (25–28)
+### Situated-freedom decision lab (23–24)
 
-**Q25.** Which work supplies and popularises Sartre's canonical slogan form "man is condemned to be free"?
-A. *Existentialism Is a Humanism* (delivered in 1945, published in 1946)
+**MCQ 23: C**
+
+Which work supplies and popularises Sartre's canonical slogan form "man is condemned to be free"?
+
+A. *The Transcendence of the Ego* (1936–37)
 B. *Critique of Dialectical Reason* (1960)
-C. *The Transcendence of the Ego* (1936–37)
+C. *Existentialism Is a Humanism* (delivered in 1945, published in 1946)
 D. *Being and Nothingness* (1943)
 
-**Q26.** In Sartre's cliff-path example, the vertigo felt on realising nothing prevents jumping is:
+- **A — Incorrect:** The ego essay removes an inner ego but does not supply this later public slogan.
+- **B — Incorrect:** The 1960 *Critique* qualifies early freedom through scarcity and institutions rather than supplying the public formulation.
+- **C — Correct:** The lecture delivered in 1945 and published in 1946 supplies and popularises the canonical slogan form.
+- **D — Incorrect:** *Being and Nothingness* (1943) already contains first-person, plural and third-person participial variants, including "man being condemned to be free"; it is not the text that supplies and popularises the canonical lecture slogan form asked for here.
+
+**MCQ 24: D**
+
+In Sartre's cliff-path example, the vertigo felt on realising nothing prevents jumping is:
+
 A. Despair
-B. Anguish
+B. Fear
 C. Bad faith
-D. Fear
+D. Anguish
 
-**Q27.** "In choosing myself I choose man" expresses:
-A. Kierkegaard's critique of the crowd
-B. A denial of personal accountability
-C. A universal demand implicit in choosing
-D. Heidegger's account of anonymous norms
+- **A — Incorrect:** Despair concerns reliance on outcomes beyond one's control, not vertigo at one's power to jump.
+- **B — Incorrect:** Fear is directed at falling as an external danger, unlike anguish before one's own freedom.
+- **C — Incorrect:** Bad faith would evade this freedom; it is not the immediate mood in the example.
+- **D — Correct:** Anguish discloses that no prior resolution prevents the agent from choosing to jump.
 
-**Q28.** Sartre's later concession to structural/material constraint on freedom appears mainly in:
-A. Heidegger’s “Letter on Humanism”
-B. Sartre’s *Being and Nothingness*
-C. Sartre’s lecture delivered in 1945 and published in 1946
-D. Sartre’s *Critique of Dialectical Reason*
-
-**Answers and explanations**
-**Q25 answer: A**
-- **A:** Correct. The lecture delivered in 1945 and published in 1946 supplies and popularises the canonical slogan form.
-- **B:** Incorrect. The 1960 *Critique* qualifies early freedom through scarcity and institutions rather than supplying the public formulation.
-- **C:** Incorrect. The ego essay removes an inner ego but does not supply this later public slogan.
-- **D:** Incorrect. *Being and Nothingness* (1943) already contains first-person, plural and third-person participial variants, including "man being condemned to be free"; it is not the text that supplies and popularises the canonical lecture slogan form asked for here.
-**Q26 answer: B**
-- **A:** Incorrect. Despair concerns reliance on outcomes beyond one's control, not vertigo at one's power to jump.
-- **B:** Correct. Anguish discloses that no prior resolution prevents the agent from choosing to jump.
-- **C:** Incorrect. Bad faith would evade this freedom; it is not the immediate mood in the example.
-- **D:** Incorrect. Fear is directed at falling as an external danger, unlike anguish before one's own freedom.
-**Q27 answer: C**
-- **A:** Incorrect. The claim does not express Kierkegaard's attack on anonymous public conformity.
-- **B:** Incorrect. Choosing humanity intensifies rather than rejects the agent's responsibility.
-- **C:** Correct. Each choice presents an image of humanity that the chooser implicitly commends to all.
-- **D:** Incorrect. *Das Man* describes Heideggerian conformity, not Sartre's universal implication of choice.
-**Q28 answer: D**
-- **A:** Incorrect. The humanism letter is Heidegger's critique of Sartre, not Sartre's concession to material structure.
-- **B:** Incorrect. The 1943 ontology emphasises situated freedom but lacks the later account of scarcity and institutions.
-- **C:** Incorrect. The lecture foregrounds universal responsibility without the developed practico-inert analysis.
-- **D:** Correct. The 1960 *Critique* introduces scarcity, seriality and the practico-inert as structural limits.
 ### Lesson-local remediation — repair freedom-as-absence-of-constraint
 
 Analyse one constrained choice by separating **available options**, **the unavoidable taking of a stance**, and **responsibility for that stance**. Test the account against coercion or poverty, and state exactly what facticity limits without turning the agent into an inert thing.
@@ -1348,53 +1369,64 @@ For 2018 Q1(d), define bad faith through the two poles, derive alienation and ad
 11. No fully worked-out positive "authenticity" is delivered in *Being and Nothingness* itself.
 12. Never call bad faith "just lying" — an ordinary lie needs two people; bad faith needs only one, non-self-identical, consciousness.
 
-### Bad-faith diagnosis clinic (29–32)
+### Bad-faith diagnosis clinic (25–28)
 
-**Q29.** Bad faith occurs, for Sartre, when a person:
+**MCQ 25: A**
+
+Bad faith occurs, for Sartre, when a person:
+
 A. Treats facticity or transcendence as exhaustive
 B. Adopts Freud's theory of unconscious repression
 C. Performs a social role with practical competence
 D. Tells another person a deliberate falsehood
 
-**Q30.** The paradox of bad faith is that:
+- **A — Correct:** Bad faith makes either given facticity or free transcendence the whole truth of the self.
+- **B — Incorrect:** Sartre proposes bad faith as an alternative to Freud's divided-consciousness explanation.
+- **C — Incorrect:** Competent role performance is not deceptive unless the role is treated as an exhaustive essence.
+- **D — Incorrect:** Lying to another separates deceiver and deceived, unlike self-deception within one consciousness.
+
+**MCQ 26: B**
+
+The paradox of bad faith is that:
+
 A. Two people divide deception between them
 B. One consciousness evades what it tacitly knows
 C. An unconscious censor hides the relevant belief
 D. Professional roles alone permit self-deception
 
-**Q31.** The demand to "be sincere," understood as demanding total fixed self-definition, is analysed by Sartre as:
+- **A — Incorrect:** Two separate people describe an ordinary lie, not the paradox of deceiving oneself.
+- **B — Correct:** Bad faith requires one consciousness to evade a truth present in pre-reflective awareness.
+- **C — Incorrect:** Sartre rejects an unconscious censor because the censor would need to recognise what it represses.
+- **D — Incorrect:** The waiter is only one example; bad faith can organise identity beyond professional roles.
+
+**MCQ 27: C**
+
+The demand to "be sincere," understood as demanding total fixed self-definition, is analysed by Sartre as:
+
 A. Outside the analysis of bad faith
 B. A reliable cure for bad faith
 C. Bad faith's mirror-image demand
 D. Equivalent to authentic existence
 
-**Q32.** How should Sartrean bad faith, Heideggerian inauthenticity and alienation be related?
+- **A — Incorrect:** Sartre analyses sincerity directly because fixed self-avowal repeats the flight into thinghood.
+- **B — Incorrect:** Total sincerity cannot cure bad faith when it demands identity with a settled description.
+- **C — Correct:** Fixed sincerity mirrors bad faith by treating a free for-itself as a completed in-itself.
+- **D — Incorrect:** Authenticity would hold facticity and transcendence together, not equate the self with a fixed label.
+
+**MCQ 28: D**
+
+How should Sartrean bad faith, Heideggerian inauthenticity and alienation be related?
+
 A. Bad faith is deliberate dishonesty that can settle into inauthenticity and produce social alienation.
 B. Inauthenticity and bad faith differ in vocabulary, while alienation names their shared psychological outcome.
 C. Alienation is broader than either term, but both thinkers define it through a loss of moral integrity.
 D. They are distinct concepts that permit a limited comparison around related forms of self-evasion and estrangement.
 
-**Answers and explanations**
-**Q29 answer: A**
-- **A:** Correct. Bad faith makes either given facticity or free transcendence the whole truth of the self.
-- **B:** Incorrect. Sartre proposes bad faith as an alternative to Freud's divided-consciousness explanation.
-- **C:** Incorrect. Competent role performance is not deceptive unless the role is treated as an exhaustive essence.
-- **D:** Incorrect. Lying to another separates deceiver and deceived, unlike self-deception within one consciousness.
-**Q30 answer: B**
-- **A:** Incorrect. Two separate people describe an ordinary lie, not the paradox of deceiving oneself.
-- **B:** Correct. Bad faith requires one consciousness to evade a truth present in pre-reflective awareness.
-- **C:** Incorrect. Sartre rejects an unconscious censor because the censor would need to recognise what it represses.
-- **D:** Incorrect. The waiter is only one example; bad faith can organise identity beyond professional roles.
-**Q31 answer: C**
-- **A:** Incorrect. Sartre analyses sincerity directly because fixed self-avowal repeats the flight into thinghood.
-- **B:** Incorrect. Total sincerity cannot cure bad faith when it demands identity with a settled description.
-- **C:** Correct. Fixed sincerity mirrors bad faith by treating a free for-itself as a completed in-itself.
-- **D:** Incorrect. Authenticity would hold facticity and transcendence together, not equate the self with a fixed label.
-**Q32 answer: D**
-- **A:** Incorrect. Bad faith is self-evasion within one consciousness rather than ordinary dishonesty, and no fixed progression to alienation follows.
-- **B:** Incorrect. Heideggerian inauthenticity is structurally ordinary absorption in *das Man*, not Sartrean bad faith under different terminology.
-- **C:** Incorrect. Heidegger does not define inauthenticity as lost moral integrity, although alienation can extend beyond either technical concept.
-- **D:** Correct. Comparison is legitimate at the level of evasion or estrangement, provided the concepts retain their different structures and scopes.
+- **A — Incorrect:** Bad faith is self-evasion within one consciousness rather than ordinary dishonesty, and no fixed progression to alienation follows.
+- **B — Incorrect:** Heideggerian inauthenticity is structurally ordinary absorption in *das Man*, not Sartrean bad faith under different terminology.
+- **C — Incorrect:** Heidegger does not define inauthenticity as lost moral integrity, although alienation can extend beyond either technical concept.
+- **D — Correct:** Comparison is legitimate at the level of evasion or estrangement, provided the concepts retain their different structures and scopes.
+
 ### Lesson-local remediation — repair bad-faith-as-ordinary lying
 
 Reanalyse the waiter or the woman on the date by marking the facticity being acknowledged, the transcendence being evaded and the truth tacitly present. Then explain why ordinary lying needs separate deceiver and deceived roles, whereas bad faith operates within one non-self-identical consciousness. End by distinguishing bad faith, Heideggerian inauthenticity and alienation.
@@ -1510,53 +1542,50 @@ No direct primary question is linked through 2026. Use the Look in answers on ba
 10. Objection: generalising from pathological examples; reply is ontological, not statistical, but the later *Critique* (1960) concedes ground.
 11. Levinas's face-based ethics is the strongest single external criticism, unanswered within *Being and Nothingness* itself.
 
-### Look and recognition cases (33–36)
+### Look and recognition cases (29–31)
 
-**Q33.** In the keyhole example, what changes between "absorbed" and "caught"?
+**MCQ 29: A**
+
+In the keyhole example, what changes between "absorbed" and "caught"?
+
 A. A self appears as object under the Other's gaze
 B. No change occurs in the structure of experience
 C. The room acquires a different physical character
 D. The spying project shifts to a different practical purpose
 
-**Q34.** "Shame is by nature recognition" means:
+- **A — Correct:** When caught, I apprehend myself as the object that another consciousness judges.
+- **B — Incorrect:** The shift from absorbed spying to shame transforms the structure of self-awareness.
+- **C — Incorrect:** No physical alteration of the room explains the emergence of shame under the Look.
+- **D — Incorrect:** The original project remains spying; what changes is my being-for-others, not its purpose.
+
+**MCQ 30: B**
+
+"Shame is by nature recognition" means:
+
 A. Shame needs no relation to another consciousness
 B. Shame acknowledges the self seen by another
 C. Shame is equivalent to moral guilt
 D. Shame follows an inference from observed conduct
 
-**Q35.** Which pairing of thinker and route to the Other is correct?
+- **A — Incorrect:** Sartrean shame is essentially relational because it discloses my object-being for another.
+- **B — Correct:** Shame immediately acknowledges the self as exposed in the Other's perspective.
+- **C — Incorrect:** Guilt concerns responsibility for an act, while shame here reveals objectification by another.
+- **D — Incorrect:** The Look is lived directly; shame is not a later inference from behavioural evidence.
+
+**MCQ 31: C**
+
+Which pairing of thinker and route to the Other is correct?
+
 A. Levinas — appresentation
 B. Husserl — the face
 C. Sartre — the Look/shame
 D. Heidegger — recognition through lordship and bondage
 
-**Q36.** Sartre's 1965 correction of "Hell is other people" states that the line means:
-A. Solitude is preferable to human relationships
-B. The play contains no philosophical argument
-C. Human relations are inherently destructive
-D. Others' judgments can become instruments of torment
+- **A — Incorrect:** Appresentation is Husserl's route to another embodied subject, not Levinas's ethical face.
+- **B — Incorrect:** The face belongs to Levinas's ethical encounter, not Husserl's account of empathy.
+- **C — Correct:** Sartre reaches the Other through the Look and the shame of being seen as object.
+- **D — Incorrect:** Recognition through lordship and bondage is Hegel's dialectical route, whereas Heidegger treats being-with as constitutive of Dasein.
 
-**Answers and explanations**
-**Q33 answer: A**
-- **A:** Correct. When caught, I apprehend myself as the object that another consciousness judges.
-- **B:** Incorrect. The shift from absorbed spying to shame transforms the structure of self-awareness.
-- **C:** Incorrect. No physical alteration of the room explains the emergence of shame under the Look.
-- **D:** Incorrect. The original project remains spying; what changes is my being-for-others, not its purpose.
-**Q34 answer: B**
-- **A:** Incorrect. Sartrean shame is essentially relational because it discloses my object-being for another.
-- **B:** Correct. Shame immediately acknowledges the self as exposed in the Other's perspective.
-- **C:** Incorrect. Guilt concerns responsibility for an act, while shame here reveals objectification by another.
-- **D:** Incorrect. The Look is lived directly; shame is not a later inference from behavioural evidence.
-**Q35 answer: C**
-- **A:** Incorrect. Appresentation is Husserl's route to another embodied subject, not Levinas's ethical face.
-- **B:** Incorrect. The face belongs to Levinas's ethical encounter, not Husserl's account of empathy.
-- **C:** Correct. Sartre reaches the Other through the Look and the shame of being seen as object.
-- **D:** Incorrect. Recognition through lordship and bondage is Hegel's dialectical route, whereas Heidegger treats being-with as constitutive of Dasein.
-**Q36 answer: D**
-- **A:** Incorrect. Sartre's correction does not recommend solitude; it concerns dependence on others' judgments.
-- **B:** Incorrect. The correction confirms the line's philosophical content rather than dismissing the play.
-- **C:** Incorrect. Sartre explicitly denies that every relation is poisonous or inevitably hellish.
-- **D:** Correct. Hell arises when another's fixed judgment becomes the medium through which I torment myself.
 ### Lesson-local remediation — repair the Look as proof that all relations are hostile
 
 Reconstruct the keyhole example as **absorbed activity → being seen → shame → being-for-others**. Then compare Sartre's conflict model with Hegelian recognition and Beauvoirian reciprocal freedom. State which premise makes conflict structural for early Sartre and why rejecting that premise leaves the Look intact without making every relation hostile.
@@ -1651,53 +1680,64 @@ The 2018 Q4(a) route needs Dasein as the entity for whom Being is an issue; do n
 9. Anti-Husserlian critique: epoché/transcendental ego presupposes the very worldless-subject picture Heidegger rejects; subject/object are derivative of practical involvement.
 10. Existential analysis (moods, death, authenticity) is the route toward the Being-question, not an isolated topic.
 
-### Being-question concept checks (37–40)
+### Being-question concept checks (32–35)
 
-**Q37.** The "ontological difference" distinguishes:
-A. Being from particular beings
+**MCQ 32: D**
+
+The "ontological difference" distinguishes:
+
+A. Kierkegaard from Sartre
 B. Facticity from transcendence
 C. Existentiell contrasted with existential
-D. Kierkegaard from Sartre
+D. Being from particular beings
 
-**Q38.** Dasein is selected for fundamental-ontological analysis because:
-A. Dasein has the greatest biological complexity
-B. Dasein's own Being matters to its existence
+- **A — Incorrect:** A contrast between two philosophers is historical, not the technical ontological difference.
+- **B — Incorrect:** Facticity and transcendence form Sartre's tension of situated freedom, not this Heideggerian difference.
+- **C — Incorrect:** Existentiell and existential distinguish levels within Dasein-analysis, not Being from beings.
+- **D — Correct:** The ontological difference separates Being as intelligibility from the beings that appear within it.
+
+**MCQ 33: A**
+
+Dasein is selected for fundamental-ontological analysis because:
+
+A. Dasein's own Being matters to its existence
+B. Dasein has the greatest biological complexity
 C. Dasein is Husserl's transcendental ego renamed
 D. Dasein alone can undergo any anxious mood
 
-**Q39.** The "existentiell" level of Heidegger's analysis refers to:
+- **A — Correct:** Dasein is interrogated because it understands Being and its own Being matters to it.
+- **B — Incorrect:** Physical complexity does not explain why an entity can raise the question of Being.
+- **C — Incorrect:** Heidegger opposes Dasein's world-involvement to the allegedly detachable transcendental ego.
+- **D — Incorrect:** Anxiety is disclosive but not the sole criterion by which Dasein is selected.
+
+**MCQ 34: B**
+
+The "existentiell" level of Heidegger's analysis refers to:
+
 A. Sartre's ontology of the for-itself
-B. Structures disclosed by ontological analysis
-C. A Dasein's concrete factical self-understanding
+B. A Dasein's concrete factical self-understanding
+C. Structures disclosed by ontological analysis
 D. Husserl's constituting transcendental subject
 
-**Q40.** Heidegger's objection to Husserl's epoché and transcendental ego is that they:
+- **A — Incorrect:** Pour-soi belongs to Sartre and does not define Heidegger's existentiell level.
+- **B — Correct:** Existentiell understanding is a particular Dasein's concrete grasp of its own possibilities.
+- **C — Incorrect:** Care and worldhood are existential structures, the ontological counterpart to the requested level.
+- **D — Incorrect:** The transcendental ego belongs to Husserl's reduction, not factical Dasein self-understanding.
+
+**MCQ 35: C**
+
+Heidegger's objection to Husserl's epoché and transcendental ego is that they:
+
 A. Abandon intentional analysis
 B. Duplicate Sartre's non-egological account
-C. Begin from absorbed practical involvement
-D. Posit a subject detachable from its world
+C. Posit a subject detachable from its world
+D. Begin from absorbed practical involvement
 
-**Answers and explanations**
-**Q37 answer: A**
-- **A:** Correct. The ontological difference separates Being as intelligibility from the beings that appear within it.
-- **B:** Incorrect. Facticity and transcendence form Sartre's tension of situated freedom, not this Heideggerian difference.
-- **C:** Incorrect. Existentiell and existential distinguish levels within Dasein-analysis, not Being from beings.
-- **D:** Incorrect. A contrast between two philosophers is historical, not the technical ontological difference.
-**Q38 answer: B**
-- **A:** Incorrect. Physical complexity does not explain why an entity can raise the question of Being.
-- **B:** Correct. Dasein is interrogated because it understands Being and its own Being matters to it.
-- **C:** Incorrect. Heidegger opposes Dasein's world-involvement to the allegedly detachable transcendental ego.
-- **D:** Incorrect. Anxiety is disclosive but not the sole criterion by which Dasein is selected.
-**Q39 answer: C**
-- **A:** Incorrect. Pour-soi belongs to Sartre and does not define Heidegger's existentiell level.
-- **B:** Incorrect. Care and worldhood are existential structures, the ontological counterpart to the requested level.
-- **C:** Correct. Existentiell understanding is a particular Dasein's concrete grasp of its own possibilities.
-- **D:** Incorrect. The transcendental ego belongs to Husserl's reduction, not factical Dasein self-understanding.
-**Q40 answer: D**
-- **A:** Incorrect. Husserl makes intentionality central; Heidegger disputes the worldless starting point, not its total absence.
-- **B:** Incorrect. Sartre's non-egological consciousness differs from Husserl's ego and from Heidegger's criticism.
-- **C:** Incorrect. Heidegger privileges everyday involvement, so excessive practical concern cannot be his objection.
-- **D:** Correct. Epoché abstracts toward a subject that could be considered apart from constitutive being-in-the-world.
+- **A — Incorrect:** Husserl makes intentionality central; Heidegger disputes the worldless starting point, not its total absence.
+- **B — Incorrect:** Sartre's non-egological consciousness differs from Husserl's ego and from Heidegger's criticism.
+- **C — Correct:** Epoché abstracts toward a subject that could be considered apart from constitutive being-in-the-world.
+- **D — Incorrect:** Heidegger privileges everyday involvement, so excessive practical concern cannot be his objection.
+
 ### Lesson-local remediation — repair Being as one more highest entity
 
 Sort six items into **beings** and **conditions under which beings are intelligible**, then distinguish ontic/ontological from existentiell/existential. Use Dasein to explain why Being cannot be added to the list as a supreme entity, and show how that mistake would distort fundamental ontology into theology.
@@ -1802,53 +1842,64 @@ For 2018 Q4(a) and 2022 Q2(a), show why being-in-the-world is unitary, then use 
 11. Care's three moments map onto temporality's three ecstases — the connective thread across Heidegger's whole system.
 12. Exam-safe opening move: refuse decomposition of the hyphenated compound before anything else.
 
-### Worldhood and Care applications (41–44)
+### Worldhood and Care applications (36–39)
 
-**Q41.** The primary mode in which equipment is encountered, for Heidegger, is:
-A. As ready-to-hand equipment within a practical referential whole
+**MCQ 36: D**
+
+The primary mode in which equipment is encountered, for Heidegger, is:
+
+A. As a physical item whose location determines its function
 B. As a substance defined first by measurable properties
 C. As a noematic object constituted for a transcendental ego
-D. As a physical item whose location determines its function
+D. As ready-to-hand equipment within a practical referential whole
 
-**Q42.** Dasein's spatiality is characterised by:
-A. Coordinates assigned to objects in measurable space
-B. De-severance that brings things near and directionality within concern
+- **A — Incorrect:** Location alone does not determine equipmental significance; function appears within an in-order-to network of concern.
+- **B — Incorrect:** Substance and measurable properties belong to the derived present-at-hand stance, not equipment's primary disclosure in use.
+- **C — Incorrect:** Noematic constitution for a transcendental ego is Husserlian, whereas Heidegger begins from practical worldly involvement.
+- **D — Correct:** Equipment is first encountered ready-to-hand within practical use and a referential whole.
+
+**MCQ 37: A**
+
+Dasein's spatiality is characterised by:
+
+A. De-severance that brings things near and directionality within concern
+B. Coordinates assigned to objects in measurable space
 C. Absolute space existing independently of practical involvement
 D. A private inner map detached from the shared world
 
-**Q43.** The three existentialia constituting disclosedness are:
+- **A — Correct:** De-severance brings things practically near, while directionality situates concernful movement.
+- **B — Incorrect:** Coordinate location measures objects but does not capture how concern makes something existentially near or far.
+- **C — Incorrect:** Absolute space treats spatial order as independent of the meaningful involvements that organise Dasein's world.
+- **D — Incorrect:** Heideggerian spatiality is publicly world-involving, not a private representation sealed inside a subject.
+
+**MCQ 38: B**
+
+The three existentialia constituting disclosedness are:
+
 A. Aesthetic, ethical, religious
-B. Facticity, transcendence, nihilation
-C. Befindlichkeit, Verstehen, Rede
+B. Befindlichkeit, Verstehen, Rede
+C. Facticity, transcendence, nihilation
 D. En-soi, pour-soi, pour-autrui
 
-**Q44.** Care's formal structure is:
+- **A — Incorrect:** The aesthetic, ethical and religious are Kierkegaard's spheres, not Heidegger's existentialia.
+- **B — Correct:** Attunement, understanding and discourse are the three structures constituting disclosedness.
+- **C — Incorrect:** Facticity, transcendence and nihilation articulate Sartrean freedom rather than disclosedness.
+- **D — Incorrect:** En-soi, pour-soi and pour-autrui are Sartrean modes, not Heidegger's disclosedness trio.
+
+**MCQ 39: C**
+
+Care's formal structure is:
+
 A. Thesis — antithesis — synthesis
 B. Facticity — transcendence — freedom
-C. Aesthetic — ethical — religious
-D. Ahead-of-itself — already-in — alongside
+C. Ahead-of-itself — already-in — alongside
+D. Aesthetic — ethical — religious
 
-**Answers and explanations**
-**Q41 answer: A**
-- **A:** Correct. Equipment is first encountered ready-to-hand within practical use and a referential whole.
-- **B:** Incorrect. Substance and measurable properties belong to the derived present-at-hand stance, not equipment's primary disclosure in use.
-- **C:** Incorrect. Noematic constitution for a transcendental ego is Husserlian, whereas Heidegger begins from practical worldly involvement.
-- **D:** Incorrect. Location alone does not determine equipmental significance; function appears within an in-order-to network of concern.
-**Q42 answer: B**
-- **A:** Incorrect. Coordinate location measures objects but does not capture how concern makes something existentially near or far.
-- **B:** Correct. De-severance brings things practically near, while directionality situates concernful movement.
-- **C:** Incorrect. Absolute space treats spatial order as independent of the meaningful involvements that organise Dasein's world.
-- **D:** Incorrect. Heideggerian spatiality is publicly world-involving, not a private representation sealed inside a subject.
-**Q43 answer: C**
-- **A:** Incorrect. The aesthetic, ethical and religious are Kierkegaard's spheres, not Heidegger's existentialia.
-- **B:** Incorrect. Facticity, transcendence and nihilation articulate Sartrean freedom rather than disclosedness.
-- **C:** Correct. Attunement, understanding and discourse are the three structures constituting disclosedness.
-- **D:** Incorrect. En-soi, pour-soi and pour-autrui are Sartrean modes, not Heidegger's disclosedness trio.
-**Q44 answer: D**
-- **A:** Incorrect. Thesis-antithesis-synthesis is a schematic Hegelian formula, not the structure of Care.
-- **B:** Incorrect. Facticity and transcendence belong to Sartrean situation; adding freedom does not yield Care.
-- **C:** Incorrect. The three Kierkegaardian spheres describe modes of existence, not Dasein's unitary constitution.
-- **D:** Correct. Care unifies being ahead of itself, already in a world and alongside encountered entities.
+- **A — Incorrect:** Thesis-antithesis-synthesis is a schematic Hegelian formula, not the structure of Care.
+- **B — Incorrect:** Facticity and transcendence belong to Sartrean situation; adding freedom does not yield Care.
+- **C — Correct:** Care unifies being ahead of itself, already in a world and alongside encountered entities.
+- **D — Incorrect:** The three Kierkegaardian spheres describe modes of existence, not Dasein's unitary constitution.
+
 ### Lesson-local remediation — repair Care as a psychological feeling
 
 Draw the broken-hammer network from tool to task to dwelling, then explain why readiness-to-hand is prior to property-observation. Map **ahead-of-itself / already-in / alongside** onto projection, thrownness and involvement, and use that structure to show why Care is not the feeling of worry.
@@ -1975,53 +2026,50 @@ For 2019 Q3(a), 2022 Q2(a) and 2026 Q3(b), define both modes before conscience, 
 13. 2019 Q3(a): correct the false premise first, then connect Care to temporality.
 14. 2026 Q3(b) is directly linked here, integrating the 2019 and 2022 routes.
 
-### Authenticity misconception repair (45–48)
+### Authenticity misconception repair (40–42)
 
-**Q45.** Dasein's default, structural mode of existing, according to Heidegger, is:
-A. Usually absorbed in inauthenticity
+**MCQ 40: D**
+
+Dasein's default, structural mode of existing, according to Heidegger, is:
+
+A. Usually resolved into authenticity
 B. Beyond both existential modes
 C. Fixed by a reflective decision
-D. Usually resolved into authenticity
+D. Usually absorbed in inauthenticity
 
-**Q46.** The three marks of *das Man* are:
-A. Facticity, transcendence, freedom
-B. Idle talk, curiosity, ambiguity
+- **A — Incorrect:** Authenticity is a modification of everyday being-with rather than Dasein's constant default.
+- **B — Incorrect:** Authenticity and inauthenticity are meaningful modes of Dasein, not an invalid distinction.
+- **C — Incorrect:** Falling is structural and usually unreflective, not wholly produced by deliberate choice.
+- **D — Correct:** Dasein is proximally absorbed in *das Man*, so inauthenticity is its everyday default mode.
+
+**MCQ 41: A**
+
+The three marks of *das Man* are:
+
+A. Idle talk, curiosity, ambiguity
+B. Facticity, transcendence, freedom
 C. Aesthetic, ethical, religious
 D. Ready-to-hand, present-at-hand, breakdown
 
-**Q47.** Which formulation best captures death as an existential possibility?
+- **A — Correct:** Idle talk, curiosity and ambiguity articulate Dasein's everyday absorption in the 'they'.
+- **B — Incorrect:** Facticity, transcendence and freedom are Sartrean structures, not marks of *das Man*.
+- **C — Incorrect:** The three spheres belong to Kierkegaard's account of existential life.
+- **D — Incorrect:** Readiness, presence and breakdown describe equipmental disclosure rather than anonymous social existence.
+
+**MCQ 42: B**
+
+Which formulation best captures death as an existential possibility?
+
 A. A shareable event defined by public observation
-B. A distant outcome mainly relevant in old age
-C. One’s ownmost, non-relational, certain possibility
+B. One’s ownmost, non-relational, certain possibility
+C. A distant outcome mainly relevant in old age
 D. A chosen act that proves freedom from facticity
 
-**Q48.** Which criticism most directly challenges the formal character of Heidegger's authenticity doctrine?
-A. It eliminates the domain of *das Man*
-B. It repeats Sartre's doctrine of bad faith
-C. It imposes an overly detailed moral code
-D. It lacks criteria for substantive commitments
+- **A — Incorrect:** Publicly observable demise misses death as the possibility that is irreducibly mine.
+- **B — Correct:** Death is ownmost, non-relational and certain, although its time remains indefinite.
+- **C — Incorrect:** Death structures every finite project now and is not confined to a remote life-stage.
+- **D — Incorrect:** Being-toward-death is anticipatory disclosure, not a freely chosen act of self-destruction.
 
-**Answers and explanations**
-**Q45 answer: A**
-- **A:** Correct. Dasein is proximally absorbed in *das Man*, so inauthenticity is its everyday default mode.
-- **B:** Incorrect. Authenticity and inauthenticity are meaningful modes of Dasein, not an invalid distinction.
-- **C:** Incorrect. Falling is structural and usually unreflective, not wholly produced by deliberate choice.
-- **D:** Incorrect. Authenticity is a modification of everyday being-with rather than Dasein's constant default.
-**Q46 answer: B**
-- **A:** Incorrect. Facticity, transcendence and freedom are Sartrean structures, not marks of *das Man*.
-- **B:** Correct. Idle talk, curiosity and ambiguity articulate Dasein's everyday absorption in the 'they'.
-- **C:** Incorrect. The three spheres belong to Kierkegaard's account of existential life.
-- **D:** Incorrect. Readiness, presence and breakdown describe equipmental disclosure rather than anonymous social existence.
-**Q47 answer: C**
-- **A:** Incorrect. Publicly observable demise misses death as the possibility that is irreducibly mine.
-- **B:** Incorrect. Death structures every finite project now and is not confined to a remote life-stage.
-- **C:** Correct. Death is ownmost, non-relational and certain, although its time remains indefinite.
-- **D:** Incorrect. Being-toward-death is anticipatory disclosure, not a freely chosen act of self-destruction.
-**Q48 answer: D**
-- **A:** Incorrect. Heidegger affirms *das Man* as the ordinary social mode that authenticity modifies.
-- **B:** Incorrect. Bad faith is Sartre's self-deception analysis and is not identical with Heideggerian falling.
-- **C:** Incorrect. The problem is too little moral content, not an excessively prescriptive ethical code.
-- **D:** Correct. Formal resoluteness cannot itself distinguish a just commitment from an unjust one.
 ### Lesson-local remediation — repair authenticity as moral goodness
 
 Classify *das Man*, falling, conscience, being-toward-death and resoluteness as structural features rather than virtues or vices. Test the distinction with an unjust but resolutely owned project, then explain why authenticity changes how a possibility is owned without deciding whether its content is morally right.
@@ -2137,53 +2185,64 @@ For 2018 Q4(a) and 2019 Q3(a), connect the future-led ecstases to Care, then exp
 11. Provenance: *Being and Time* (1927), unfinished — cite by section number, never claim completion.
 12. 2018 Q4(a) is directly linked here, requiring Lesson 10's anti-Husserlian critique and Lesson 11's being-in-the-world doctrine as prerequisites.
 
-### Temporality reconstruction checks (49–52)
+### Temporality reconstruction checks (43–46)
 
-**Q49.** Which ecstasis of primordial temporality carries priority for Heidegger?
-A. The future as projection
+**MCQ 43: C**
+
+Which ecstasis of primordial temporality carries priority for Heidegger?
+
+A. The present as making-present
 B. Three ecstases with equal priority
-C. The present as making-present
+C. The future as projection
 D. The past as having-been
 
-**Q50.** "Vulgar time," for Heidegger, is:
-A. A morally corrupt way of living
-B. Derived time as a sequence of "nows"
-C. Equivalent to primordial temporality
-D. Sartre's account of temporality
+- **A — Incorrect:** Making-present is an ecstasis but is temporalised from future-oriented projection.
+- **B — Incorrect:** The ecstases form a unity, yet Heidegger still grants the future structural priority.
+- **C — Correct:** The future has priority because projection and anticipation gather Dasein's finite possibilities.
+- **D — Incorrect:** Having-been carries thrownness, though it is not the primary ecstasis.
 
-**Q51.** *Epoché* is correctly attributed to:
-A. Heidegger
+**MCQ 44: D**
+
+"Vulgar time," for Heidegger, is:
+
+A. A morally corrupt way of living
+B. Sartre's account of temporality
+C. Equivalent to primordial temporality
+D. Derived time as a sequence of "nows"
+
+- **A — Incorrect:** 'Vulgar' marks a derived interpretation of time, not moral corruption in a way of life.
+- **B — Incorrect:** The concept is Heidegger's derivation of clock-time, not Sartre's temporal ontology.
+- **C — Incorrect:** Primordial temporality is ecstatic and finite, unlike the levelled sequence of nows.
+- **D — Correct:** Vulgar time is the public, measurable succession of now-points derived from primordial temporality.
+
+**MCQ 45: A**
+
+*Epoché* is correctly attributed to:
+
+A. Husserl
 B. Sartre
-C. Husserl
+C. Heidegger
 D. Kierkegaard
 
-**Q52.** Which sequence best reconstructs Heidegger's positive alternative to transcendental subjectivity?
-A. Begin with an isolated ego, infer equipment, and add other persons through analogy.
-B. Suspend the world, identify pure consciousness, and redescribe Dasein as its object.
-C. Reduce the world to noematic content, then recover shared existence through empathy.
-D. Begin with being-in-the-world, analyse equipmental worldhood, and treat subject-object division as derivative.
+- **A — Correct:** Husserl introduces epoché to suspend the natural attitude and reach transcendental subjectivity.
+- **B — Incorrect:** Sartre inherits phenomenology yet does not formulate epoché as his method.
+- **C — Incorrect:** Heidegger criticises the reduction but does not originate the method of epoché.
+- **D — Incorrect:** Kierkegaard's indirect communication and leap belong to a different philosophical project.
 
-**Answers and explanations**
-**Q49 answer: A**
-- **A:** Correct. The future has priority because projection and anticipation gather Dasein's finite possibilities.
-- **B:** Incorrect. The ecstases form a unity, yet Heidegger still grants the future structural priority.
-- **C:** Incorrect. Making-present is an ecstasis but is temporalised from future-oriented projection.
-- **D:** Incorrect. Having-been carries thrownness, though it is not the primary ecstasis.
-**Q50 answer: B**
-- **A:** Incorrect. 'Vulgar' marks a derived interpretation of time, not moral corruption in a way of life.
-- **B:** Correct. Vulgar time is the public, measurable succession of now-points derived from primordial temporality.
-- **C:** Incorrect. Primordial temporality is ecstatic and finite, unlike the levelled sequence of nows.
-- **D:** Incorrect. The concept is Heidegger's derivation of clock-time, not Sartre's temporal ontology.
-**Q51 answer: C**
-- **A:** Incorrect. Heidegger criticises the reduction but does not originate the method of epoché.
-- **B:** Incorrect. Sartre inherits phenomenology yet does not formulate epoché as his method.
-- **C:** Correct. Husserl introduces epoché to suspend the natural attitude and reach transcendental subjectivity.
-- **D:** Incorrect. Kierkegaard's indirect communication and leap belong to a different philosophical project.
-**Q52 answer: D**
-- **A:** Incorrect. Beginning from an isolated ego repeats the Cartesian-Husserlian starting point that Heidegger seeks to displace.
-- **B:** Incorrect. Suspending the world and privileging pure consciousness reconstructs Husserlian reduction rather than Heidegger's alternative.
-- **C:** Incorrect. Heidegger does not first reduce worldhood to noematic content and then rebuild shared existence through empathy.
-- **D:** Correct. Heidegger begins from unitary being-in-the-world, discloses worldhood through practical equipment, and treats the subject-object split as derivative.
+**MCQ 46: B**
+
+Which sequence best reconstructs Heidegger's positive alternative to transcendental subjectivity?
+
+A. Begin with an isolated ego, infer equipment, and add other persons through analogy.
+B. Begin with being-in-the-world, analyse equipmental worldhood, and treat subject-object division as derivative.
+C. Reduce the world to noematic content, then recover shared existence through empathy.
+D. Suspend the world, identify pure consciousness, and redescribe Dasein as its object.
+
+- **A — Incorrect:** Beginning from an isolated ego repeats the Cartesian-Husserlian starting point that Heidegger seeks to displace.
+- **B — Correct:** Heidegger begins from unitary being-in-the-world, discloses worldhood through practical equipment, and treats the subject-object split as derivative.
+- **C — Incorrect:** Heidegger does not first reduce worldhood to noematic content and then rebuild shared existence through empathy.
+- **D — Incorrect:** Suspending the world and privileging pure consciousness reconstructs Husserlian reduction rather than Heidegger's alternative.
+
 ### Lesson-local remediation — repair temporality as a line of identical nows
 
 Map future, having-been and present onto the three moments of Care, beginning with projected possibility rather than a clock. Derive public now-time from practical dating, then explain why calling clock-time derivative does not make measurement false, immoral or dispensable.
@@ -2306,53 +2365,36 @@ In a comparison, define each thinker on their own terms before identifying simil
 10. Existential diagnosis remains powerful precisely because its unresolved ethical and institutional limits are stated rather than hidden.
 
 
-### Synthesis and criticism checks (53–56)
+### Synthesis and criticism checks (47–48)
 
-**Q53.** Which verdict best captures existentialism’s durable contribution?
-A. It exposes how finite agents evade responsibility within situated existence.
+**MCQ 47: C**
+
+Which verdict best captures existentialism’s durable contribution?
+
+A. It explains social constraint primarily as an effect of individual self-deception.
 B. It converts first-person existence into a shared ethical code for modern institutions.
-C. It explains social constraint primarily as an effect of individual self-deception.
+C. It exposes how finite agents evade responsibility within situated existence.
 D. It replaces metaphysical inquiry with psychological descriptions of private feeling.
 
-**Q54.** Which challenge most directly presses early Sartrean politics?
+- **A — Incorrect:** Existentialism analyses self-evasion, but material and institutional constraints cannot be reduced to individual deception.
+- **B — Incorrect:** Kierkegaard, Sartre and Heidegger do not convert their distinct projects into one institutional ethical code.
+- **C — Correct:** Existentialism enduringly exposes evasions of responsibility by finite agents whose projects remain situated.
+- **D — Incorrect:** Its first-person analyses remain tied to ontology, freedom, sociality and embodiment rather than private feeling alone.
+
+**MCQ 48: D**
+
+Which challenge most directly presses early Sartrean politics?
+
 A. It treats artefacts as designed for fixed functions.
-B. It under-theorises material institutions and class power.
+B. It analyses the Other through shame and objectification.
 C. It distinguishes reflective from pre-reflective awareness.
-D. It analyses the Other through shame and objectification.
+D. It under-theorises material institutions and class power.
 
-**Q55.** The most precise role for Beauvoir in this topic is to:
-A. replace Heidegger’s ontology with transcendental idealism.
-B. convert Kierkegaard’s leap into a secular deduction.
-C. deepen situated freedom through reciprocity and oppression.
-D. identify revolt as the answer to cosmic absurdity.
+- **A — Incorrect:** The artefact analogy explains Sartre's essence claim but does not state the political weakness.
+- **B — Incorrect:** The Look analyses interpersonal objectification but does not supply a material political theory.
+- **C — Incorrect:** Pre-reflective awareness concerns consciousness and self-deception, not the institutional critique.
+- **D — Correct:** Early Sartre lacks a developed account of institutions, scarcity and class-mediated power.
 
-**Q56.** Which residual survives the strongest synthesis?
-A. Kierkegaard's leap removes risk but leaves transitions between spheres psychologically obscure.
-B. Sartrean freedom explains institutions but makes individual responsibility conceptually secondary.
-C. Heideggerian authenticity supplies ethical content but leaves public existence underdeveloped.
-D. Existential diagnosis underdetermines the norms needed to judge projects and institutions.
-
-**Answers and explanations**
-**Q53 answer: A**
-- **A:** Correct. Existentialism enduringly exposes evasions of responsibility by finite agents whose projects remain situated.
-- **B:** Incorrect. Kierkegaard, Sartre and Heidegger do not convert their distinct projects into one institutional ethical code.
-- **C:** Incorrect. Existentialism analyses self-evasion, but material and institutional constraints cannot be reduced to individual deception.
-- **D:** Incorrect. Its first-person analyses remain tied to ontology, freedom, sociality and embodiment rather than private feeling alone.
-**Q54 answer: B**
-- **A:** Incorrect. The artefact analogy explains Sartre's essence claim but does not state the political weakness.
-- **B:** Correct. Early Sartre lacks a developed account of institutions, scarcity and class-mediated power.
-- **C:** Incorrect. Pre-reflective awareness concerns consciousness and self-deception, not the institutional critique.
-- **D:** Incorrect. The Look analyses interpersonal objectification but does not supply a material political theory.
-**Q55 answer: C**
-- **A:** Incorrect. Beauvoir does not restore Husserlian idealism in place of Heidegger's fundamental ontology.
-- **B:** Incorrect. Her ethics does not turn Kierkegaard's religious leap into a secular logical deduction.
-- **C:** Correct. Beauvoir develops situated freedom through ambiguity, reciprocity and structures of oppression.
-- **D:** Incorrect. Absurd revolt is Camus's response, not Beauvoir's distinctive contribution to this topic.
-**Q56 answer: D**
-- **A:** Incorrect. The leap preserves objective uncertainty and risk; it does not remove them, even if transitions between spheres resist deduction.
-- **B:** Incorrect. Sartre keeps individual responsibility central while his institutional and distributive account remains incomplete.
-- **C:** Incorrect. Heidegger develops public existence through being-with and *das Man*, but authenticity supplies no substantive ethical content.
-- **D:** Correct. Existential analysis diagnoses evasion and ownership powerfully but does not determine which projects or institutions are just.
 ### Lesson-local remediation — repair diagnosis mistaken for a complete ethics or politics
 
 Choose one criticism of each core thinker and write **objection → strongest reply → surviving residual**. Then use Beauvoir or later Sartre to show what must be added when an analysis of individual existence is asked to judge reciprocal freedom, oppression or institutions.
@@ -2384,95 +2426,230 @@ Choose one criticism of each core thinker and write **objection → strongest re
 
 # CUMULATIVE MCQS
 
-**Q57.** Which single sentence is the exam-correct opening move for "Discuss existence precedes essence"?
+**MCQ 49: A**
+
+Which single sentence is the exam-correct opening move for "Discuss existence precedes essence"?
+
 A. "Sartre reverses the artefact model under atheism."
 B. "The major existentialists affirm existence before essence."
 C. "Kierkegaard coined the slogan later used by Sartre."
 D. "Heidegger endorses the slogan in his humanism letter."
 
-**Q58.** Which of the following correctly pairs a mood with its thinker-specific object of disclosure?
+- **A — Correct:** Sartre's opening move reverses the designed-artefact model once a divine creator is denied.
+- **B — Incorrect:** Calling the slogan common to all existentialists erases Kierkegaard's and Heidegger's positions.
+- **C — Incorrect:** Kierkegaard neither coined Sartre's wording nor supplied its atheistic blueprint argument.
+- **D — Incorrect:** The humanism letter rejects, rather than endorses, Sartre's essence-existence reversal.
+
+**MCQ 50: B**
+
+Which of the following correctly pairs a mood with its thinker-specific object of disclosure?
+
 A. Kierkegaard's anxiety — Being-in-the-world itself
 B. Sartre's anguish — consciousness of my freedom
 C. Heidegger's anxiety — consciousness of my freedom
 D. Each mood — one shared disclosed structure
 
-**Q59.** What does Nietzsche contribute as a root of the existentialist crisis?
+- **A — Incorrect:** Being-in-the-world as such is disclosed by Heideggerian anxiety, not Kierkegaardian possibility-anxiety.
+- **B — Correct:** Sartrean anguish reveals that nothing within me cancels my own responsibility to choose.
+- **C — Incorrect:** Heideggerian anxiety discloses worldhood and finitude rather than Sartre's radical freedom.
+- **D — Incorrect:** The moods share objectlessness but disclose possibility, freedom and Being-in-the-world respectively.
+
+**MCQ 51: C**
+
+What does Nietzsche contribute as a root of the existentialist crisis?
+
 A. A theology in which faith restores objective values after nihilism
 B. A phenomenology in which epoché secures transcendental certainty
 C. A genealogy in which God's death opens nihilism and demands revaluation
 D. An ontology in which Dasein retrieves the question of Being
 
-**Q60.** Which response marks Camus's distinctive answer to the absurd?
+- **A — Incorrect:** Faith as a God-relation belongs to Kierkegaard's religious sphere, not Nietzsche's response to nihilism.
+- **B — Incorrect:** Epoché is Husserl's phenomenological suspension and does not name Nietzsche's genealogical critique.
+- **C — Correct:** The death of God diagnoses the collapse of inherited horizons, creating both nihilism and the task of revaluation.
+- **D — Incorrect:** Retrieving the question of Being through Dasein is Heidegger's project rather than Nietzsche's genealogy.
+
+**MCQ 52: D**
+
+Which response marks Camus's distinctive answer to the absurd?
+
 A. Suicide resolves the conflict by ending the human demand for meaning.
 B. Philosophical hope reconciles lucid reason with a transcendent order.
 C. Revolt overcomes the absurd by discovering a final historical purpose.
 D. Revolt sustains lucid life without suicide or metaphysical consolation.
 
-**Q61.** For Marcel, what distinguishes a mystery from a problem?
+- **A — Incorrect:** Suicide evades rather than answers the absurd by destroying one side of the confrontation.
+- **B — Incorrect:** Appeal to transcendent reconciliation is the philosophical escape that Camus rejects.
+- **C — Incorrect:** Revolt sustains the unresolved tension; it does not discover a final purpose that abolishes absurdity.
+- **D — Correct:** Camus answers the absurd with lucid revolt that rejects both self-destruction and consoling metaphysical escape.
+
+**MCQ 53: A**
+
+For Marcel, what distinguishes a mystery from a problem?
+
 A. The inquirer belongs within a mystery; a problem can be placed before a detached spectator.
 B. A mystery is a difficult problem whose missing evidence has not yet been fully collected.
 C. A mystery concerns private emotion, whereas a problem concerns publicly verifiable objects.
 D. A mystery resists current techniques, whereas a problem remains beyond rational inquiry.
 
-**Q62.** What can Jaspers's boundary situations disclose?
+- **A — Correct:** A problem can be set before a spectator, whereas a mystery includes the questioner within what is being questioned.
+- **B — Incorrect:** Greater difficulty or incomplete evidence does not turn a problem into Marcelian mystery.
+- **C — Incorrect:** The distinction concerns participation versus objectification, not a private-emotion versus public-object division.
+- **D — Incorrect:** A temporary technical limit remains a problem, while mystery is participatory rather than irrational or permanently insoluble.
+
+**MCQ 54: B**
+
+What can Jaspers's boundary situations disclose?
+
 A. Technical planning can convert finitude into a manageable practical problem.
 B. Unavoidable limits can awaken Existenz and make genuine communication possible.
 C. Public conformity is a moral defect overcome through social withdrawal.
 D. Cosmic absurdity establishes revolt as the appropriate human response.
 
-**Q63.** Which bounded comparison is philosophically accurate?
+- **A — Incorrect:** Death, suffering, struggle and guilt resist technical mastery; their limit character is what makes disclosure possible.
+- **B — Correct:** Boundary situations can break ordinary security, awaken Existenz and open non-objectifying existential communication.
+- **C — Incorrect:** Treating public conformity as a moral defect cured by withdrawal misreads Heideggerian inauthenticity.
+- **D — Incorrect:** Revolt against the absurd is Camus's response, not the meaning Jaspers gives boundary situations.
+
+**MCQ 55: C**
+
+Which bounded comparison is philosophically accurate?
+
 A. En-soi and Absolute Spirit both name static self-identity.
 B. Kierkegaard's stages reproduce Hegelian mediation.
 C. Sartre's Look and recognition both open with struggle.
 D. Heideggerian being-with entails objectifying conflict.
 
-**Q64.** Which assessment best answers the Marxist criticism that early Sartrean freedom under-theorises material structure?
+- **A — Incorrect:** En-soi is inert self-identity, whereas Absolute Spirit is self-mediating historical reason.
+- **B — Incorrect:** Kierkegaard's qualitative leaps oppose the continuous mediation of Hegelian dialectic.
+- **C — Correct:** Both the Look and recognition begin in asymmetry and struggle, though Hegel permits reciprocity.
+- **D — Incorrect:** Being-with is constitutive shared worldhood and does not entail Sartre's objectifying conflict.
+
+**MCQ 56: D**
+
+Which assessment best answers the Marxist criticism that early Sartrean freedom under-theorises material structure?
+
 A. Facticity identifies social limits and already provides the needed account of class institutions.
 B. Economic mediation shapes projects, making material conditions the primary source of action.
 C. Scarcity deepens constraint but remains an individual mood rather than a social relation.
 D. Scarcity and seriality deepen situated freedom's social analysis but leave institutional justice unresolved.
 
-**Answers and explanations**
-**Q57 answer: A**
-- **A:** Correct. Sartre's opening move reverses the designed-artefact model once a divine creator is denied.
-- **B:** Incorrect. Calling the slogan common to all existentialists erases Kierkegaard's and Heidegger's positions.
-- **C:** Incorrect. Kierkegaard neither coined Sartre's wording nor supplied its atheistic blueprint argument.
-- **D:** Incorrect. The humanism letter rejects, rather than endorses, Sartre's essence-existence reversal.
-**Q58 answer: B**
-- **A:** Incorrect. Being-in-the-world as such is disclosed by Heideggerian anxiety, not Kierkegaardian possibility-anxiety.
-- **B:** Correct. Sartrean anguish reveals that nothing within me cancels my own responsibility to choose.
-- **C:** Incorrect. Heideggerian anxiety discloses worldhood and finitude rather than Sartre's radical freedom.
-- **D:** Incorrect. The moods share objectlessness but disclose possibility, freedom and Being-in-the-world respectively.
-**Q59 answer: C**
-- **A:** Incorrect. Faith as a God-relation belongs to Kierkegaard's religious sphere, not Nietzsche's response to nihilism.
-- **B:** Incorrect. Epoché is Husserl's phenomenological suspension and does not name Nietzsche's genealogical critique.
-- **C:** Correct. The death of God diagnoses the collapse of inherited horizons, creating both nihilism and the task of revaluation.
-- **D:** Incorrect. Retrieving the question of Being through Dasein is Heidegger's project rather than Nietzsche's genealogy.
-**Q60 answer: D**
-- **A:** Incorrect. Suicide evades rather than answers the absurd by destroying one side of the confrontation.
-- **B:** Incorrect. Appeal to transcendent reconciliation is the philosophical escape that Camus rejects.
-- **C:** Incorrect. Revolt sustains the unresolved tension; it does not discover a final purpose that abolishes absurdity.
-- **D:** Correct. Camus answers the absurd with lucid revolt that rejects both self-destruction and consoling metaphysical escape.
-**Q61 answer: A**
-- **A:** Correct. A problem can be set before a spectator, whereas a mystery includes the questioner within what is being questioned.
-- **B:** Incorrect. Greater difficulty or incomplete evidence does not turn a problem into Marcelian mystery.
-- **C:** Incorrect. The distinction concerns participation versus objectification, not a private-emotion versus public-object division.
-- **D:** Incorrect. A temporary technical limit remains a problem, while mystery is participatory rather than irrational or permanently insoluble.
-**Q62 answer: B**
-- **A:** Incorrect. Death, suffering, struggle and guilt resist technical mastery; their limit character is what makes disclosure possible.
-- **B:** Correct. Boundary situations can break ordinary security, awaken Existenz and open non-objectifying existential communication.
-- **C:** Incorrect. Treating public conformity as a moral defect cured by withdrawal misreads Heideggerian inauthenticity.
-- **D:** Incorrect. Revolt against the absurd is Camus's response, not the meaning Jaspers gives boundary situations.
-**Q63 answer: C**
-- **A:** Incorrect. En-soi is inert self-identity, whereas Absolute Spirit is self-mediating historical reason.
-- **B:** Incorrect. Kierkegaard's qualitative leaps oppose the continuous mediation of Hegelian dialectic.
-- **C:** Correct. Both the Look and recognition begin in asymmetry and struggle, though Hegel permits reciprocity.
-- **D:** Incorrect. Being-with is constitutive shared worldhood and does not entail Sartre's objectifying conflict.
-**Q64 answer: D**
-- **A:** Incorrect. Facticity identifies givens and limits, but early ontology does not yet analyse class institutions, scarcity or collective mediation adequately.
-- **B:** Incorrect. Material mediation shapes available projects without making economic conditions the sole source of action.
-- **C:** Incorrect. Scarcity structures relations among persons and resources; it is not an inward existential mood.
-- **D:** Correct. The later account adds scarcity and seriality to situated agency while leaving a complete institutional theory of justice unfinished.
+- **A — Incorrect:** Facticity identifies givens and limits, but early ontology does not yet analyse class institutions, scarcity or collective mediation adequately.
+- **B — Incorrect:** Material mediation shapes available projects without making economic conditions the sole source of action.
+- **C — Incorrect:** Scarcity structures relations among persons and resources; it is not an inward existential mood.
+- **D — Correct:** The later account adds scarcity and seriality to situated agency while leaving a complete institutional theory of justice unfinished.
+
+**MCQ 57: A**
+
+Kierkegaard's compressed anti-Hegel conclusion is:
+
+A. "Logic permits systems; lived existence does not."
+B. "Existence precedes any determinate essence."
+C. "Heidegger leaves Being and Time as an unfinished system."
+D. "The Absolute completes a system of existence."
+
+- **A — Correct:** The formula permits logical systems while denying a finished system of lived existence.
+- **B — Incorrect:** The Sartrean slogan is neither Climacus's formula nor Kierkegaard's anti-system conclusion.
+- **C — Incorrect:** Heidegger's unfinished book is a bibliographical fact, not Kierkegaard's compressed argument.
+- **D — Incorrect:** Kierkegaard does not deny logical systematisation; he denies that existence can be completed within it.
+
+**MCQ 58: B**
+
+The work in which Sartre argues the Ego is transcendent, not an inhabitant of consciousness, is:
+
+A. *Critique of Dialectical Reason* (1960)
+B. *The Transcendence of the Ego* (1936–37)
+C. *Existentialism Is a Humanism* (delivered in 1945, published in 1946)
+D. *Being and Nothingness* (1943)
+
+- **A — Incorrect:** The *Critique* develops Sartre's later social ontology rather than the transcendence of the Ego.
+- **B — Correct:** *The Transcendence of the Ego* explicitly places the Ego outside consciousness as a reflected object.
+- **C — Incorrect:** The humanism lecture popularises freedom and responsibility rather than locating the Ego.
+- **D — Incorrect:** *Being and Nothingness* expands Sartrean ontology after the earlier ego essay.
+
+**MCQ 59: C**
+
+"In choosing myself I choose man" expresses:
+
+A. Kierkegaard's critique of the crowd
+B. A denial of personal accountability
+C. A universal demand implicit in choosing
+D. Heidegger's account of anonymous norms
+
+- **A — Incorrect:** The claim does not express Kierkegaard's attack on anonymous public conformity.
+- **B — Incorrect:** Choosing humanity intensifies rather than rejects the agent's responsibility.
+- **C — Correct:** Each choice presents an image of humanity that the chooser implicitly commends to all.
+- **D — Incorrect:** *Das Man* describes Heideggerian conformity, not Sartre's universal implication of choice.
+
+**MCQ 60: D**
+
+Sartre's later concession to structural/material constraint on freedom appears mainly in:
+
+A. Heidegger’s “Letter on Humanism”
+B. Sartre’s *Being and Nothingness*
+C. Sartre’s lecture delivered in 1945 and published in 1946
+D. Sartre’s *Critique of Dialectical Reason*
+
+- **A — Incorrect:** The humanism letter is Heidegger's critique of Sartre, not Sartre's concession to material structure.
+- **B — Incorrect:** The 1943 ontology emphasises situated freedom but lacks the later account of scarcity and institutions.
+- **C — Incorrect:** The lecture foregrounds universal responsibility without the developed practico-inert analysis.
+- **D — Correct:** The 1960 *Critique* introduces scarcity, seriality and the practico-inert as structural limits.
+
+**MCQ 61: A**
+
+Sartre's 1965 correction of "Hell is other people" states that the line means:
+
+A. Others' judgments can become instruments of torment
+B. The play contains no philosophical argument
+C. Human relations are inherently destructive
+D. Solitude is preferable to human relationships
+
+- **A — Correct:** Hell arises when another's fixed judgment becomes the medium through which I torment myself.
+- **B — Incorrect:** The correction confirms the line's philosophical content rather than dismissing the play.
+- **C — Incorrect:** Sartre explicitly denies that every relation is poisonous or inevitably hellish.
+- **D — Incorrect:** Sartre's correction does not recommend solitude; it concerns dependence on others' judgments.
+
+**MCQ 62: B**
+
+Which criticism most directly challenges the formal character of Heidegger's authenticity doctrine?
+
+A. It eliminates the domain of *das Man*
+B. It lacks criteria for substantive commitments
+C. It imposes an overly detailed moral code
+D. It repeats Sartre's doctrine of bad faith
+
+- **A — Incorrect:** Heidegger affirms *das Man* as the ordinary social mode that authenticity modifies.
+- **B — Correct:** Formal resoluteness cannot itself distinguish a just commitment from an unjust one.
+- **C — Incorrect:** The problem is too little moral content, not an excessively prescriptive ethical code.
+- **D — Incorrect:** Bad faith is Sartre's self-deception analysis and is not identical with Heideggerian falling.
+
+**MCQ 63: C**
+
+The most precise role for Beauvoir in this topic is to:
+
+A. replace Heidegger’s ontology with transcendental idealism.
+B. convert Kierkegaard’s leap into a secular deduction.
+C. deepen situated freedom through reciprocity and oppression.
+D. identify revolt as the answer to cosmic absurdity.
+
+- **A — Incorrect:** Beauvoir does not restore Husserlian idealism in place of Heidegger's fundamental ontology.
+- **B — Incorrect:** Her ethics does not turn Kierkegaard's religious leap into a secular logical deduction.
+- **C — Correct:** Beauvoir develops situated freedom through ambiguity, reciprocity and structures of oppression.
+- **D — Incorrect:** Absurd revolt is Camus's response, not Beauvoir's distinctive contribution to this topic.
+
+**MCQ 64: D**
+
+Which residual survives the strongest synthesis?
+
+A. Kierkegaard's leap removes risk but leaves transitions between spheres psychologically obscure.
+B. Sartrean freedom explains institutions but makes individual responsibility conceptually secondary.
+C. Heideggerian authenticity supplies ethical content but leaves public existence underdeveloped.
+D. Existential diagnosis underdetermines the norms needed to judge projects and institutions.
+
+- **A — Incorrect:** The leap preserves objective uncertainty and risk; it does not remove them, even if transitions between spheres resist deduction.
+- **B — Incorrect:** Sartre keeps individual responsibility central while his institutional and distributive account remains incomplete.
+- **C — Incorrect:** Heidegger develops public existence through being-with and *das Man*, but authenticity supplies no substantive ethical content.
+- **D — Correct:** Existential analysis diagnoses evasion and ownership powerfully but does not determine which projects or institutions are just.
+
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 **10-mark original question — Explain (150 words):** "Explain, with one example each, how Kierkegaard, Sartre and Heidegger each use a distinctive mood to disclose a distinctive philosophical structure."
@@ -2645,7 +2822,7 @@ thrownness + projection + fallenness → CARE → ecstatic TEMPORALITY
 | Comparisons with Husserl, Hegel and Kant | Lessons 2, 5, 9, 13 and 14 |
 | Sixteen verified PYQs through 2026 as exact links only | Final PYQ section |
 | Original 10-, 15- and 20-mark questions with complete model answers | Final Mains section |
-| Four lesson-local MCQs per lesson plus eight fresh cumulative questions | Every lesson and cumulative section |
+| Two to four lesson-local MCQs per lesson plus sixteen cumulative questions (eight fresh, eight redistributed whole blocks) | Every lesson and cumulative section |
 
 # SOURCE LEDGER
 
@@ -2659,3 +2836,18 @@ thrownness + projection + fallenness → CARE → ecstatic TEMPORALITY
 8. Live searches dated 24 September 2026 — exact queries and results appear in each checklist. Scholarly explainers are labelled as such; AI “existential risk” is rejected as a false doctrinal link.
 
 **Attribution discipline:** Kierkegaard’s pseudonymous voices are identified; Sartre’s 1943 ontology is distinguished from the lecture delivered in 1945 and published in 1946; Heidegger’s *Being and Time* (1927) is treated as unfinished; 2026 is claimed only from verified local evidence.
+
+## SOURCE-MANIFEST GATE
+
+This manifest honestly records, without overclaim, which source categories were consulted in preparing this live session. Status is one of `checked`, `not available` or `not relevant`.
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| Canonical markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Existentialism.md` supplied the core doctrine and terminology across the fourteen lessons |
+| Final learner package | not relevant | No final learner package is part of this live-session scope, so none was consulted or reproduced |
+| Layered/complete session | checked | `Existentialism_Layered-Complete-Learning-Session_2026-08-19.md` cross-checked for basic and advanced completeness |
+| Solved workbook | not relevant | No solved-workbook answers are reproduced here; the verified PYQs appear only as links and concise answer approaches |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` cross-checked for advanced objections, replies and comparative refinements |
+| OCR books | checked | Masih, Kenny vol. 4, Copleston, Warburton and Audi's Cambridge Dictionary used as OCR-searchable local-book cross-checks |
+| PYQs through 2026 | checked | `_PYQ-Western-Philosophy-2018-2025.md`, `_PYQ-Western-Philosophy-2026.md` and the official 2026 Paper I local copy supplied exact wording and marks for sixteen verified parts |
+| Official live sources | checked | Live academic searches dated 24 September 2026 recorded per lesson; scholarly explainers labelled as such and never presented as UPSC facts |
