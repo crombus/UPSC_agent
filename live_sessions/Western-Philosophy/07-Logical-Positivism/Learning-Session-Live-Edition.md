@@ -23,9 +23,9 @@ Logical positivism asks a severe but fertile question: **what must a sentence co
 
 ---
 
-# LESSON 1 — Why Police Meaning Before Arguing About Truth?
+## Lesson 1 — Why Police Meaning Before Arguing About Truth?
 
-**Progress: 1 / 12 | Stage: Foundation | Focus: Vienna Circle, influences and programme**
+Progress: 1 / 12 | Stage: Foundation | Focus: Vienna Circle, influences and programme
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -136,7 +136,7 @@ The sentence "There is microbial life beneath Europa's ice" may be false, yet it
 
 ## Lesson check
 
-### MCQ 1
+**MCQ 1: A**
 
 Which statement best captures the Vienna Circle's characteristic philosophical move?
 
@@ -145,14 +145,12 @@ B. Derive empirical science from speculative metaphysical systems
 C. Replace logical analysis with historical narration
 D. Treat every useful utterance as factually assertive
 
-**Answer: A**
+- **A — Correct:** The Circle asks what would make a sentence cognitively significant before adjudicating its truth.
+- **B — Incorrect:** Its programme opposes the derivation of science from speculative metaphysics.
+- **C — Incorrect:** Modern logic, not narrative history, is its preferred diagnostic instrument.
+- **D — Incorrect:** Expressive or practical usefulness does not by itself create factual content.
 
-- **A:** Correct. The Circle asks what would make a sentence cognitively significant before adjudicating its truth.
-- **B:** Incorrect. Its programme opposes the derivation of science from speculative metaphysics.
-- **C:** Incorrect. Modern logic, not narrative history, is its preferred diagnostic instrument.
-- **D:** Incorrect. Expressive or practical usefulness does not by itself create factual content.
-
-### MCQ 2
+**MCQ 2: B**
 
 Which pairing most accurately states an influence and its transformation?
 
@@ -161,12 +159,10 @@ B. Hume — experiential constraint on factual claims
 C. Mach — defence of synthetic a priori principles
 D. Russell — rejection of logical analysis
 
-**Answer: B**
-
-- **A:** Incorrect. Comte influenced scientific anti-metaphysics, not the invention of modern symbolic logic.
-- **B:** Correct. Hume's empiricism supplied a major pressure to connect factual content with possible experience.
-- **C:** Incorrect. Mach's empiricism opposed rather than defended synthetic a priori knowledge.
-- **D:** Incorrect. Russell's logical work helped make rigorous analysis possible.
+- **A — Incorrect:** Comte influenced scientific anti-metaphysics, not the invention of modern symbolic logic.
+- **B — Correct:** Hume's empiricism supplied a major pressure to connect factual content with possible experience.
+- **C — Incorrect:** Mach's empiricism opposed rather than defended synthetic a priori knowledge.
+- **D — Incorrect:** Russell's logical work helped make rigorous analysis possible.
 
 **If either answer was missed:** Rewrite this distinction once: `influence ≠ identical doctrine`, then explain in two sentences why meaning and truth are different questions.
 
@@ -174,9 +170,9 @@ D. Russell — rejection of logical analysis
 
 ---
 
-# LESSON 2 — How Much Evidence Must a Sentence Promise?
+## Lesson 2 — How Much Evidence Must a Sentence Promise?
 
-**Progress: 2 / 12 | Stage: Foundation | Focus: strong, weak, practical and principled verification**
+Progress: 2 / 12 | Stage: Foundation | Focus: strong, weak, practical and principled verification
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -268,7 +264,7 @@ Conflating them turns an account of significance into an account of rational bel
 
 For a strong/weak question, use four moves: define both; show why laws defeat the strong form; show why the weak form risks over-inclusion; conclude that the distinction saves scientific practice but weakens the original demarcating knife.
 
-### MCQ 3
+**MCQ 3: C**
 
 What distinguishes weak verification from strong verification?
 
@@ -277,14 +273,12 @@ B. It requires currently available tests
 C. It permits evidential support short of proof
 D. It treats all propositions as probable
 
-**Answer: C**
+- **A — Incorrect:** Analyticity, not weak verification, concerns truth by linguistic rule.
+- **B — Incorrect:** Present availability belongs to practical verification, a different distinction.
+- **C — Correct:** Weak verification asks whether experience can count evidentially, not settle truth conclusively.
+- **D — Incorrect:** Analytic and non-cognitive utterances are not converted into probable hypotheses.
 
-- **A:** Incorrect. Analyticity, not weak verification, concerns truth by linguistic rule.
-- **B:** Incorrect. Present availability belongs to practical verification, a different distinction.
-- **C:** Correct. Weak verification asks whether experience can count evidentially, not settle truth conclusively.
-- **D:** Incorrect. Analytic and non-cognitive utterances are not converted into probable hypotheses.
-
-### MCQ 4
+**MCQ 4: D**
 
 Why is "verifiable in principle" not identical with "weakly verifiable"?
 
@@ -293,14 +287,12 @@ B. One excludes laws; the other excludes history
 C. One concerns meaning; the other concerns grammar
 D. One concerns accessibility; the other evidential force
 
-**Answer: D**
+- **A — Incorrect:** Neither distinction is simply syntax versus truth.
+- **B — Incorrect:** The pair does not divide subject matters in that way.
+- **C — Incorrect:** Both operate within discussion of empirical significance, not grammar alone.
+- **D — Correct:** Principled/practical asks whether testing is available, while strong/weak asks how decisive evidence must be.
 
-- **A:** Incorrect. Neither distinction is simply syntax versus truth.
-- **B:** Incorrect. The pair does not divide subject matters in that way.
-- **C:** Incorrect. Both operate within discussion of empirical significance, not grammar alone.
-- **D:** Correct. Principled/practical asks whether testing is available, while strong/weak asks how decisive evidence must be.
-
-### MCQ 5
+**MCQ 5: A**
 
 Church's criticism of Ayer's revised criterion primarily shows that it:
 
@@ -309,12 +301,10 @@ B. Makes all scientific laws necessary by linguistic definition
 C. Equates moral approval with a private sensation report
 D. Proves the verification principle empirically true
 
-**Answer: A**
-
-- **A:** Correct. Church demonstrated that the proposed relevance condition could certify propositions it was meant to exclude.
-- **B:** Incorrect. The criticism does not turn empirical generalisations into analytic truths.
-- **C:** Incorrect. That issue concerns emotivism rather than the 1946 formulation.
-- **D:** Incorrect. Church's argument exposes weakness; it does not verify the principle.
+- **A — Correct:** Church demonstrated that the proposed relevance condition could certify propositions it was meant to exclude.
+- **B — Incorrect:** The criticism does not turn empirical generalisations into analytic truths.
+- **C — Incorrect:** That issue concerns emotivism rather than the 1946 formulation.
+- **D — Incorrect:** Church's argument exposes weakness; it does not verify the principle.
 
 **If the axes were confused:** Make a two-by-two grid with `strong/weak` on one side and `practical/principled` on the other; invent one example for each cell.
 
@@ -322,9 +312,9 @@ D. Proves the verification principle empirically true
 
 ---
 
-# LESSON 3 — Why Did Verification Look Like Intellectual Progress?
+## Lesson 3 — Why Did Verification Look Like Intellectual Progress?
 
-**Progress: 3 / 12 | Stage: Foundation | Focus: cognitive discipline, science and testability**
+Progress: 3 / 12 | Stage: Foundation | Focus: cognitive discipline, science and testability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -397,7 +387,7 @@ But Hume's problem remains: observed regularity does not deductively entail futu
 - Do not equate probability with truth.
 - Use "intersubjective" rather than "subjectively observable."
 
-### MCQ 6
+**MCQ 6: B**
 
 What is the strongest positive rationale for tying factual meaning to testability?
 
@@ -406,14 +396,12 @@ B. It makes assertions publicly open to correction
 C. It removes theory from every observation
 D. It reduces probability to deductive certainty
 
-**Answer: B**
+- **A — Incorrect:** Testability permits false claims; it does not guarantee truth.
+- **B — Correct:** Possible evidential consequences make disagreement criticisable rather than insulated.
+- **C — Incorrect:** Instruments and observation reports can remain theory-dependent.
+- **D — Incorrect:** Probabilistic support is not deductive proof.
 
-- **A:** Incorrect. Testability permits false claims; it does not guarantee truth.
-- **B:** Correct. Possible evidential consequences make disagreement criticisable rather than insulated.
-- **C:** Incorrect. Instruments and observation reports can remain theory-dependent.
-- **D:** Incorrect. Probabilistic support is not deductive proof.
-
-### MCQ 7
+**MCQ 7: C**
 
 Which statement correctly separates confirmation from verification?
 
@@ -422,12 +410,10 @@ B. Confirmation proves laws; verification only suggests them
 C. Confirmation raises support without necessarily deciding truth
 D. Confirmation applies solely to analytic propositions
 
-**Answer: C**
-
-- **A:** Incorrect. Both concepts concern evidential relations, not aesthetic evaluation.
-- **B:** Incorrect. Confirmation is normally weaker than conclusive verification.
-- **C:** Correct. Evidence may improve a hypothesis's standing while leaving it revisable.
-- **D:** Incorrect. Analytic propositions are not confirmed by empirical evidence.
+- **A — Incorrect:** Both concepts concern evidential relations, not aesthetic evaluation.
+- **B — Incorrect:** Confirmation is normally weaker than conclusive verification.
+- **C — Correct:** Evidence may improve a hypothesis's standing while leaving it revisable.
+- **D — Incorrect:** Analytic propositions are not confirmed by empirical evidence.
 
 **If the positive case felt vague:** Apply the six-step argument to one public-policy claim and identify an observable consequence, a theoretical assumption and a possible defeating result.
 
@@ -435,9 +421,9 @@ D. Confirmation applies solely to analytic propositions
 
 ---
 
-# LESSON 4 — From Truth-Conditions to Verification-Conditions: A Legitimate Step?
+## Lesson 4 — From Truth-Conditions to Verification-Conditions: A Legitimate Step?
 
-**Progress: 4 / 12 | Stage: Core | Focus: early Wittgenstein's influence and the Circle's alteration**
+Progress: 4 / 12 | Stage: Core | Focus: early Wittgenstein's influence and the Circle's alteration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -509,7 +495,7 @@ Consider "There was microbial life on a planet whose traces have been completely
 
 Use cautious verbs: **influenced, appropriated, transformed**. Avoid "copied" and "founded." A high-scoring transition says that logical picturing supplied an analysis of sense, while verificationism added an empiricist criterion of factual significance.
 
-### MCQ 8
+**MCQ 8: D**
 
 What did the Vienna Circle add to a truth-conditional picture of propositions?
 
@@ -518,14 +504,12 @@ B. A test based on possible falsification alone
 C. A meaning rule grounded in ordinary usage
 D. An empirical criterion of factual sense
 
-**Answer: D**
+- **A — Incorrect:** Logical picturing supplied part of the background, but the Circle added an empiricist requirement.
+- **B — Incorrect:** Falsification is Popper's later demarcation proposal, not the Circle's addition to truth-conditions.
+- **C — Incorrect:** Meaning-as-use belongs to a later linguistic approach rather than verificationist semantics.
+- **D — Correct:** The Circle connects factual sense with possible experiential consequences.
 
-- **A:** Incorrect. Logical picturing supplied part of the background, but the Circle added an empiricist requirement.
-- **B:** Incorrect. Falsification is Popper's later demarcation proposal, not the Circle's addition to truth-conditions.
-- **C:** Incorrect. Meaning-as-use belongs to a later linguistic approach rather than verificationist semantics.
-- **D:** Correct. The Circle connects factual sense with possible experiential consequences.
-
-### MCQ 9
+**MCQ 9: A**
 
 Which historical statement is most defensible?
 
@@ -534,12 +518,10 @@ B. Wittgenstein authored Ayer's verification criterion
 C. Carnap rejected every use of formal logic
 D. Schlick denied any relation to the Tractatus
 
-**Answer: A**
-
-- **A:** Correct. The relation was influential but neither membership nor complete identity.
-- **B:** Incorrect. Ayer formulated and popularised his own version.
-- **C:** Incorrect. Carnap made formal languages central to philosophical method.
-- **D:** Incorrect. Schlick's circle engaged deeply with Wittgenstein's early work.
+- **A — Correct:** The relation was influential but neither membership nor complete identity.
+- **B — Incorrect:** Ayer formulated and popularised his own version.
+- **C — Incorrect:** Carnap made formal languages central to philosophical method.
+- **D — Incorrect:** Schlick's circle engaged deeply with Wittgenstein's early work.
 
 **If the lineage was blurred:** Write one sentence beginning "truth-condition" and a second beginning "verification-condition"; make the added empiricist premise explicit.
 
@@ -547,9 +529,9 @@ D. Schlick denied any relation to the Tractatus
 
 ---
 
-# LESSON 5 — How Can Good Grammar Conceal a Pseudo-Statement?
+## Lesson 5 — How Can Good Grammar Conceal a Pseudo-Statement?
 
-**Progress: 5 / 12 | Stage: Core | Focus: metaphysics, logical diagnosis, syntax and semantics**
+Progress: 5 / 12 | Stage: Core | Focus: metaphysics, logical diagnosis, syntax and semantics
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -645,7 +627,7 @@ The lasting method is:
 - The critique is not simply "we cannot know metaphysical reality." That would be an epistemic limitation; positivism makes a semantic charge.
 - Use at least two different examples: one empty term and one category or syntactical mistake.
 
-### MCQ 10
+**MCQ 10: B**
 
 Why is "The Nothing itself nothings" a paradigm pseudo-statement for Carnap?
 
@@ -654,14 +636,12 @@ B. It treats a logical expression as an entity
 C. It is meaningful but scientifically improbable
 D. It denies the law of excluded middle
 
-**Answer: B**
+- **A — Incorrect:** The objection is not an observation about physical space.
+- **B — Correct:** Surface grammar converts a quantificational role into a named subject with an activity.
+- **C — Incorrect:** Carnap's charge concerns cognitive formation, not low probability.
+- **D — Incorrect:** The example does not principally reject classical bivalence.
 
-- **A:** Incorrect. The objection is not an observation about physical space.
-- **B:** Correct. Surface grammar converts a quantificational role into a named subject with an activity.
-- **C:** Incorrect. Carnap's charge concerns cognitive formation, not low probability.
-- **D:** Incorrect. The example does not principally reject classical bivalence.
-
-### MCQ 11
+**MCQ 11: C**
 
 What is the immediate positivist objection to metaphysics?
 
@@ -670,14 +650,12 @@ B. It can conflict with well-supported scientific theories
 C. It fails conditions of cognitive significance
 D. It lacks practical value for human conduct
 
-**Answer: C**
+- **A — Incorrect:** An unobserved entity can remain meaningful if possible evidence bears on it.
+- **B — Incorrect:** Conflict with science would make a claim false or improbable, not automatically meaningless.
+- **C — Correct:** The central verdict is semantic: no factual proposition has been stated.
+- **D — Incorrect:** Practical usefulness and cognitive significance are separate questions.
 
-- **A:** Incorrect. An unobserved entity can remain meaningful if possible evidence bears on it.
-- **B:** Incorrect. Conflict with science would make a claim false or improbable, not automatically meaningless.
-- **C:** Correct. The central verdict is semantic: no factual proposition has been stated.
-- **D:** Incorrect. Practical usefulness and cognitive significance are separate questions.
-
-### MCQ 12
+**MCQ 12: D**
 
 Which analysis best handles "The Soul of Superman is Good"?
 
@@ -686,12 +664,10 @@ B. The sentence is an analytic contradiction
 C. "Good" reports a measurable natural property
 D. Its subject and predicate need separate tests
 
-**Answer: D**
-
-- **A:** Incorrect. Neither ordinary identification nor public observation is secured by that claim.
-- **B:** Incorrect. It is not false by definition or self-contradictory in form.
-- **C:** Incorrect. Ayer's emotivism denies that "good" names a simple empirical property.
-- **D:** Correct. The subject-term is evidentially problematic while the predicate may function emotively.
+- **A — Incorrect:** Neither ordinary identification nor public observation is secured by that claim.
+- **B — Incorrect:** It is not false by definition or self-contradictory in form.
+- **C — Incorrect:** Ayer's emotivism denies that "good" names a simple empirical property.
+- **D — Correct:** The subject-term is evidentially problematic while the predicate may function emotively.
 
 **If the verdict was overstated:** Replace "metaphysics is false" with a three-part sentence using `cognitive meaning`, `truth-value` and `expressive function`.
 
@@ -699,9 +675,9 @@ D. Its subject and predicate need separate tests
 
 ---
 
-# LESSON 6 — If Value-Judgements State No Facts, What Are They Doing?
+## Lesson 6 — If Value-Judgements State No Facts, What Are They Doing?
 
-**Progress: 6 / 12 | Stage: Core | Focus: Ayer, Stevenson and non-cognitive discourse**
+Progress: 6 / 12 | Stage: Core | Focus: Ayer, Stevenson and non-cognitive discourse
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -775,7 +751,7 @@ An expression of disapproval alone does not easily explain how the term preserve
 
 State the derivation: verification criterion → values are not empirical properties → basic value judgements are non-cognitive → they express and influence attitude. Then separate Ayer from Stevenson and close with the embedding objection.
 
-### MCQ 13
+**MCQ 13: A**
 
 Why is Ayer's emotivism not ordinary subjectivism?
 
@@ -784,14 +760,12 @@ B. Moral properties are private objects of introspection
 C. Every moral sentence describes the speaker's mood
 D. Ethical truth depends on majority approval
 
-**Answer: A**
+- **A — Correct:** Expression performs an attitude; a report would be a factual psychological claim.
+- **B — Incorrect:** That would reintroduce a private factual property.
+- **C — Incorrect:** Ayer denies that basic moral judgements merely describe mental states.
+- **D — Incorrect:** Social agreement does not create truth on this account.
 
-- **A:** Correct. Expression performs an attitude; a report would be a factual psychological claim.
-- **B:** Incorrect. That would reintroduce a private factual property.
-- **C:** Incorrect. Ayer denies that basic moral judgements merely describe mental states.
-- **D:** Incorrect. Social agreement does not create truth on this account.
-
-### MCQ 14
+**MCQ 14: B**
 
 What does Stevenson add most clearly to Ayer's account?
 
@@ -800,12 +774,10 @@ B. Attitude conflict plus persuasion
 C. A proof that values are analytic
 D. Verification by private feeling alone
 
-**Answer: B**
-
-- **A:** Incorrect. Stevenson remains within a non-cognitivist lineage rather than intuitionism.
-- **B:** Correct. He analyses the dynamic use of ethical language and conflicts of attitude.
-- **C:** Incorrect. Value judgements do not become truths by definition.
-- **D:** Incorrect. Feeling is expressed and influenced; it is not a private verification procedure.
+- **A — Incorrect:** Stevenson remains within a non-cognitivist lineage rather than intuitionism.
+- **B — Correct:** He analyses the dynamic use of ethical language and conflicts of attitude.
+- **C — Incorrect:** Value judgements do not become truths by definition.
+- **D — Incorrect:** Feeling is expressed and influenced; it is not a private verification procedure.
 
 **If expression and report were confused:** Contrast "Boo to cruelty!" with "I dislike cruelty." Ask which can be empirically true or false about the speaker.
 
@@ -813,9 +785,9 @@ D. Verification by private feeling alone
 
 ---
 
-# LESSON 7 — How Can Necessary Truths Say Nothing About the World Yet Remain Indispensable?
+## Lesson 7 — How Can Necessary Truths Say Nothing About the World Yet Remain Indispensable?
 
-**Progress: 7 / 12 | Stage: Core | Focus: analytic/synthetic distinction, necessity and universal laws**
+Progress: 7 / 12 | Stage: Core | Focus: analytic/synthetic distinction, necessity and universal laws
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -909,7 +881,7 @@ Strong verification fails these domains. Weak or indirect confirmation saves the
 
 When comparing the red-disjunction and white-page sentences, do not say the first is meaningless. Both are meaningful in different ways: one analytic and non-factual, the other synthetic and factual.
 
-### MCQ 15
+**MCQ 15: C**
 
 Why is "All objects are either red or not red" meaningful for a positivist?
 
@@ -918,14 +890,12 @@ B. It records a universal observation
 C. It expresses a logical tautology
 D. It names a necessary property of objects
 
-**Answer: C**
+- **A — Incorrect:** The formula does not determine which side any object occupies.
+- **B — Incorrect:** No survey of all objects is required for its logical status.
+- **C — Correct:** Its significance is analytic, arising from logical form and negation.
+- **D — Incorrect:** The theory avoids positing a metaphysical property of necessity.
 
-- **A:** Incorrect. The formula does not determine which side any object occupies.
-- **B:** Incorrect. No survey of all objects is required for its logical status.
-- **C:** Correct. Its significance is analytic, arising from logical form and negation.
-- **D:** Incorrect. The theory avoids positing a metaphysical property of necessity.
-
-### MCQ 16
+**MCQ 16: D**
 
 Why do universal scientific laws trouble strong verification?
 
@@ -934,14 +904,12 @@ B. Their predicates concern private experiences
 C. Their necessity follows from definitions
 D. Their unobserved cases remain beyond finite tests
 
-**Answer: D**
+- **A — Incorrect:** Universal quantification does not make an empirical law analytic.
+- **B — Incorrect:** The difficulty persists for publicly observable predicates.
+- **C — Incorrect:** Scientific laws are contingent and could have been otherwise.
+- **D — Correct:** Unexamined and future cases prevent complete verification by finite evidence.
 
-- **A:** Incorrect. Universal quantification does not make an empirical law analytic.
-- **B:** Incorrect. The difficulty persists for publicly observable predicates.
-- **C:** Incorrect. Scientific laws are contingent and could have been otherwise.
-- **D:** Correct. Unexamined and future cases prevent complete verification by finite evidence.
-
-### MCQ 17
+**MCQ 17: A**
 
 Which response best preserves the significance of a scientific theory?
 
@@ -950,12 +918,10 @@ B. Declare every theoretical term directly observable
 C. Treat scientific laws as moral recommendations
 D. Make all predictions analytically true
 
-**Answer: A**
-
-- **A:** Correct. Indirect testing through a theoretical network retains empirical content.
-- **B:** Incorrect. Many legitimate theoretical terms are not directly observable.
-- **C:** Incorrect. Scientific laws aim at description and explanation.
-- **D:** Incorrect. Analytic predictions could not be empirically defeated.
+- **A — Correct:** Indirect testing through a theoretical network retains empirical content.
+- **B — Incorrect:** Many legitimate theoretical terms are not directly observable.
+- **C — Incorrect:** Scientific laws aim at description and explanation.
+- **D — Incorrect:** Analytic predictions could not be empirically defeated.
 
 **If analytic meant "obvious" in your answer:** Give one difficult mathematical theorem and explain why discoverability and analyticity are different properties.
 
@@ -963,9 +929,9 @@ D. Make all predictions analytically true
 
 ---
 
-# LESSON 8 — Can Science Rest on an Unshakable Observation Sentence?
+## Lesson 8 — Can Science Rest on an Unshakable Observation Sentence?
 
-**Progress: 8 / 12 | Stage: Core | Focus: protocol sentences, Schlick, Neurath and intersubjectivity**
+Progress: 8 / 12 | Stage: Core | Focus: protocol sentences, Schlick, Neurath and intersubjectivity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -1040,7 +1006,7 @@ This is a transition, not proof that every special-science law reduces neatly to
 
 Use a three-column comparison: source of authority, public status and revisability. Avoid writing that Neurath rejects observation; he rejects *incorrigible observation foundations*.
 
-### MCQ 18
+**MCQ 18: B**
 
 What is distinctive about Neurath's view of protocol sentences?
 
@@ -1049,14 +1015,12 @@ B. They remain public and open to revision
 C. They are analytic truths of formal logic
 D. They stand outside every scientific theory
 
-**Answer: B**
+- **A — Incorrect:** That is the foundational tendency Neurath resists.
+- **B — Correct:** Protocol reports belong to the revisable, intersubjective language of science.
+- **C — Incorrect:** They are empirical reports, not logical tautologies.
+- **D — Incorrect:** Their interpretation depends on a wider body of scientific statements.
 
-- **A:** Incorrect. That is the foundational tendency Neurath resists.
-- **B:** Correct. Protocol reports belong to the revisable, intersubjective language of science.
-- **C:** Incorrect. They are empirical reports, not logical tautologies.
-- **D:** Incorrect. Their interpretation depends on a wider body of scientific statements.
-
-### MCQ 19
+**MCQ 19: C**
 
 What is the central weakness of pure coherence as an account of evidence?
 
@@ -1065,12 +1029,10 @@ B. It can make justification depend on mutual support
 C. Mutual support may lack independent worldly contact
 D. Public agreement may replace private certainty
 
-**Answer: C**
-
-- **A:** Incorrect. Conserving central beliefs is a feature of holistic revision, not the decisive objection to coherence.
-- **B:** Incorrect. Mutual support describes coherence; the criticism asks whether that support reaches beyond the system.
-- **C:** Correct. Relations among statements alone may fail to secure contact with experience.
-- **D:** Incorrect. Intersubjective agreement answers privacy but does not define the coherence objection.
+- **A — Incorrect:** Conserving central beliefs is a feature of holistic revision, not the decisive objection to coherence.
+- **B — Incorrect:** Mutual support describes coherence; the criticism asks whether that support reaches beyond the system.
+- **C — Correct:** Relations among statements alone may fail to secure contact with experience.
+- **D — Incorrect:** Intersubjective agreement answers privacy but does not define the coherence objection.
 
 **If Schlick and Neurath were reversed:** Use the mnemonic `Schlick seeks a stop; Neurath stays on the ship`, then state one cost of each.
 
@@ -1078,9 +1040,9 @@ D. Public agreement may replace private certainty
 
 ---
 
-# LESSON 9 — If Languages Are Chosen, What Becomes of Ontology?
+## Lesson 9 — If Languages Are Chosen, What Becomes of Ontology?
 
-**Progress: 9 / 12 | Stage: Advanced | Focus: Carnap's syntax, semantics, tolerance and frameworks**
+Progress: 9 / 12 | Stage: Advanced | Focus: Carnap's syntax, semantics, tolerance and frameworks
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -1155,7 +1117,7 @@ However, this does not make every traditional metaphysical sentence acceptable. 
 
 Date and separate the stages. Do not project the 1950 internal/external distinction unchanged into the early 1930s. Use it as a development in Carnap's strategy.
 
-### MCQ 20
+**MCQ 20: D**
 
 What does Carnap's principle of tolerance chiefly permit?
 
@@ -1164,14 +1126,12 @@ B. A logically privileged syntax for inquiry
 C. Framework choice guided by ontological truth
 D. Alternative frameworks governed by explicit rules
 
-**Answer: D**
+- **A — Incorrect:** Scientific convenience may favour a language without making it uniquely permissible.
+- **B — Incorrect:** Tolerance denies that one syntax is antecedently binding on inquiry.
+- **C — Incorrect:** Framework adoption is assessed pragmatically rather than by framework-independent ontology.
+- **D — Correct:** Carnap permits alternative systems when their rules and purposes are made explicit.
 
-- **A:** Incorrect. Scientific convenience may favour a language without making it uniquely permissible.
-- **B:** Incorrect. Tolerance denies that one syntax is antecedently binding on inquiry.
-- **C:** Incorrect. Framework adoption is assessed pragmatically rather than by framework-independent ontology.
-- **D:** Correct. Carnap permits alternative systems when their rules and purposes are made explicit.
-
-### MCQ 21
+**MCQ 21: A**
 
 Which is an internal question in Carnap's later sense?
 
@@ -1180,12 +1140,10 @@ B. Whether frameworks might mirror reality independently
 C. Whether language has a framework-free essence
 D. Whether ontology precedes adopted linguistic rules
 
-**Answer: A**
-
-- **A:** Correct. Once physical language is adopted, experimental and theoretical criteria settle the internal existence claim.
-- **B:** Incorrect. This seeks a framework-independent correspondence that the internal question does not require.
-- **C:** Incorrect. It asks for an essence outside the rules that would give the question determinate use.
-- **D:** Incorrect. It treats ontology as prior to framework adoption rather than as articulated within a framework.
+- **A — Correct:** Once physical language is adopted, experimental and theoretical criteria settle the internal existence claim.
+- **B — Incorrect:** This seeks a framework-independent correspondence that the internal question does not require.
+- **C — Incorrect:** It asks for an essence outside the rules that would give the question determinate use.
+- **D — Incorrect:** It treats ontology as prior to framework adoption rather than as articulated within a framework.
 
 **If tolerance became relativism:** Name two pragmatic standards by which frameworks can still be compared and explain why explicit rules constrain admissible inference.
 
@@ -1193,9 +1151,9 @@ D. Whether ontology precedes adopted linguistic rules
 
 ---
 
-# LESSON 10 — Can One Public Language Unite the Sciences?
+## Lesson 10 — Can One Public Language Unite the Sciences?
 
-**Progress: 10 / 12 | Stage: Advanced | Focus: reduction, physicalism, unity of science and philosophy's scientific role**
+Progress: 10 / 12 | Stage: Advanced | Focus: reduction, physicalism, unity of science and philosophy's scientific role
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -1300,7 +1258,7 @@ For the 2026 demand, answer in two balanced halves:
 1. **How:** clarification → observation connection → physicalism → reductions/bridge principles → coordinated sciences.
 2. **Why failure:** unstable criterion → theory-ladenness → holism → multiple realisation → normative framework choice.
 
-### MCQ 22
+**MCQ 22: B**
 
 What did physicalism chiefly add to the unity project?
 
@@ -1309,14 +1267,12 @@ B. A public language of physical events
 C. Proof that psychology is unreal
 D. A ban on theoretical scientific terms
 
-**Answer: B**
+- **A — Incorrect:** Physicalism responds to the privacy problem.
+- **B — Correct:** Public spatio-temporal description supports intersubjective coordination.
+- **C — Incorrect:** Reduction or coordination does not entail eliminating psychological phenomena.
+- **D — Incorrect:** Theories remain necessary and connect indirectly with observation.
 
-- **A:** Incorrect. Physicalism responds to the privacy problem.
-- **B:** Correct. Public spatio-temporal description supports intersubjective coordination.
-- **C:** Incorrect. Reduction or coordination does not entail eliminating psychological phenomena.
-- **D:** Incorrect. Theories remain necessary and connect indirectly with observation.
-
-### MCQ 23
+**MCQ 23: C**
 
 Why does multiple realisation pressure strict reduction?
 
@@ -1325,14 +1281,12 @@ B. Scientific classifications can differ across disciplines
 C. One function can have varied physical bases
 D. Physical vocabularies may omit causal relations
 
-**Answer: C**
+- **A — Incorrect:** Predictive multiplicity concerns consequences of a cause, not realisation of one higher-level kind.
+- **B — Incorrect:** Disciplinary variation is compatible with reduction unless one kind has heterogeneous physical realisers.
+- **C — Correct:** A higher-level kind may not correspond to one uniform physical type.
+- **D — Incorrect:** Omission of causal vocabulary is not what multiple realisation asserts.
 
-- **A:** Incorrect. Predictive multiplicity concerns consequences of a cause, not realisation of one higher-level kind.
-- **B:** Incorrect. Disciplinary variation is compatible with reduction unless one kind has heterogeneous physical realisers.
-- **C:** Correct. A higher-level kind may not correspond to one uniform physical type.
-- **D:** Incorrect. Omission of causal vocabulary is not what multiple realisation asserts.
-
-### MCQ 24
+**MCQ 24: D**
 
 What is the best qualified verdict on unity of science?
 
@@ -1341,12 +1295,10 @@ B. No interdisciplinary coordination is possible
 C. Unity proves one final metaphysical ontology
 D. Partial unity survives without one language
 
-**Answer: D**
-
-- **A:** Incorrect. Complete definitional reduction is precisely what proved implausible.
-- **B:** Incorrect. Shared evidence and models permit substantial coordination.
-- **C:** Incorrect. The project sought to avoid framework-independent metaphysical proof.
-- **D:** Correct. A pluralist, cooperative unity remains defensible after linguistic monism fails.
+- **A — Incorrect:** Complete definitional reduction is precisely what proved implausible.
+- **B — Incorrect:** Shared evidence and models permit substantial coordination.
+- **C — Incorrect:** The project sought to avoid framework-independent metaphysical proof.
+- **D — Correct:** A pluralist, cooperative unity remains defensible after linguistic monism fails.
 
 **If "handmaid" became subordination:** Write four active philosophical tasks—clarification, reconstruction, criticism and coordination—without claiming philosophy discovers new scientific facts.
 
@@ -1354,9 +1306,9 @@ D. Partial unity survives without one language
 
 ---
 
-# LESSON 11 — Did the Programme Refute Itself, or Did It Evolve Beyond Its First Form?
+## Lesson 11 — Did the Programme Refute Itself, or Did It Evolve Beyond Its First Form?
 
-**Progress: 11 / 12 | Stage: Advanced | Focus: self-application, Popper, Quine and later linguistic criticism**
+Progress: 11 / 12 | Stage: Advanced | Focus: self-application, Popper, Quine and later linguistic criticism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -1454,7 +1406,7 @@ Logical positivism did not disappear because of one sentence:
 
 Do not write "Popper proved positivism false" or "Quine destroyed the analytic/synthetic distinction." Specify each target and add a limit to each criticism.
 
-### MCQ 25
+**MCQ 25: A**
 
 How can a positivist most plausibly answer the self-refutation charge?
 
@@ -1463,14 +1415,12 @@ B. Prove it through one decisive observation
 C. Classify it as a universal scientific law
 D. Derive it from a metaphysical first cause
 
-**Answer: A**
+- **A — Correct:** A convention or recommendation need not pass as an empirical proposition.
+- **B — Incorrect:** No observation establishes a universal criterion of meaning.
+- **C — Incorrect:** That classification intensifies rather than solves self-application.
+- **D — Incorrect:** It would contradict the programme's anti-metaphysical aim.
 
-- **A:** Correct. A convention or recommendation need not pass as an empirical proposition.
-- **B:** Incorrect. No observation establishes a universal criterion of meaning.
-- **C:** Incorrect. That classification intensifies rather than solves self-application.
-- **D:** Incorrect. It would contradict the programme's anti-metaphysical aim.
-
-### MCQ 26
+**MCQ 26: B**
 
 What chiefly separates Popper's criterion from verificationism?
 
@@ -1479,14 +1429,12 @@ B. Popper marks science by exposure to risky refutation
 C. Popper treats metaphysical ideas as analytic truths
 D. Popper requires decisive confirmation before acceptance
 
-**Answer: B**
+- **A — Incorrect:** Meaningfulness does not by itself confer scientific status in Popper's account.
+- **B — Correct:** His criterion asks whether a theory takes empirical risks that could expose it to refutation.
+- **C — Incorrect:** Metaphysical ideas may be meaningful or heuristically useful without becoming analytic truths.
+- **D — Incorrect:** Popper rejects conclusive confirmation as the model for universal scientific laws.
 
-- **A:** Incorrect. Meaningfulness does not by itself confer scientific status in Popper's account.
-- **B:** Correct. His criterion asks whether a theory takes empirical risks that could expose it to refutation.
-- **C:** Incorrect. Metaphysical ideas may be meaningful or heuristically useful without becoming analytic truths.
-- **D:** Incorrect. Popper rejects conclusive confirmation as the model for universal scientific laws.
-
-### MCQ 27
+**MCQ 27: C**
 
 What is Quine's confirmational holism?
 
@@ -1495,12 +1443,10 @@ B. Central logical commitments generally resist revision
 C. Experience tests interconnected systems of belief
 D. Rival theories can share observable consequences
 
-**Answer: C**
-
-- **A:** Incorrect. Holism denies that each sentence possesses a self-contained observational test.
-- **B:** Incorrect. Resistance to revision describes centrality in the web, not the doctrine that evidence addresses the web jointly.
-- **C:** Correct. Predictions depend on networks of assumptions assessed together.
-- **D:** Incorrect. Shared consequences illustrate underdetermination, but do not by themselves define confirmational holism.
+- **A — Incorrect:** Holism denies that each sentence possesses a self-contained observational test.
+- **B — Incorrect:** Resistance to revision describes centrality in the web, not the doctrine that evidence addresses the web jointly.
+- **C — Correct:** Predictions depend on networks of assumptions assessed together.
+- **D — Incorrect:** Shared consequences illustrate underdetermination, but do not by themselves define confirmational holism.
 
 **If critics were merged:** Complete this line three times: `Popper targets ___; Quine targets ___; later Wittgenstein targets ___.`
 
@@ -1508,9 +1454,9 @@ D. Rival theories can share observable consequences
 
 ---
 
-# LESSON 12 — What Survives When the Verification Knife Is Blunted?
+## Lesson 12 — What Survives When the Verification Knife Is Blunted?
 
-**Progress: 12 / 12 | Stage: Advanced | Focus: synthesis, legacy and qualified assessment**
+Progress: 12 / 12 | Stage: Advanced | Focus: synthesis, legacy and qualified assessment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 
@@ -1595,7 +1541,7 @@ The application shows a living method without pretending that classical verifica
 
 **Residual:** The legacy is methodological and plural, not a single surviving theorem.
 
-### MCQ 28
+**MCQ 28: D**
 
 Which judgment best captures logical positivism's legacy?
 
@@ -1604,14 +1550,12 @@ B. Falsification completes the original semantic programme
 C. Linguistic analysis survives apart from empirical inquiry
 D. Positivist methods outlive the strict meaning criterion
 
-**Answer: D**
+- **A — Incorrect:** Evidential accountability survives, but the verification criterion is not adequate as a general semantics.
+- **B — Incorrect:** Popper revises scientific demarcation rather than completing verificationist meaning theory.
+- **C — Incorrect:** The movement's linguistic analysis was deliberately connected with empirical science.
+- **D — Correct:** Logical clarification and evidential discipline survived the collapse of the exhaustive criterion.
 
-- **A:** Incorrect. Evidential accountability survives, but the verification criterion is not adequate as a general semantics.
-- **B:** Incorrect. Popper revises scientific demarcation rather than completing verificationist meaning theory.
-- **C:** Incorrect. The movement's linguistic analysis was deliberately connected with empirical science.
-- **D:** Correct. Logical clarification and evidential discipline survived the collapse of the exhaustive criterion.
-
-### MCQ 29
+**MCQ 29: A**
 
 Which distinction remains especially useful after strict verificationism fails?
 
@@ -1620,12 +1564,10 @@ B. Scientific truth versus public criticism
 C. Logical validity versus every language rule
 D. Observation versus all theoretical concepts
 
-**Answer: A**
-
-- **A:** Correct. Different linguistic functions should not be confused even without one universal test.
-- **B:** Incorrect. Public criticism supports rather than opposes scientific inquiry.
-- **C:** Incorrect. Validity operates through rules; the contrast is malformed.
-- **D:** Incorrect. Observation and theory interact rather than form an absolute opposition.
+- **A — Correct:** Different linguistic functions should not be confused even without one universal test.
+- **B — Incorrect:** Public criticism supports rather than opposes scientific inquiry.
+- **C — Incorrect:** Validity operates through rules; the contrast is malformed.
+- **D — Incorrect:** Observation and theory interact rather than form an absolute opposition.
 
 **If the verdict became all-or-nothing:** Write two columns titled `criterion failed` and `method survived`, with three precise entries in each.
 
@@ -1707,7 +1649,7 @@ The following eight entries preserve the verified wording and assign only an ans
 
 These questions test connections across lessons rather than repeat the local checks.
 
-### MCQ 30
+**MCQ 30: B**
 
 Why does a probability calculus not by itself solve the problem of induction?
 
@@ -1716,14 +1658,12 @@ B. It requires priors and evidential updating rules
 C. It treats future regularity as linguistic convention
 D. It replaces inductive support with deductive validity
 
-**Answer: B**
+- **A — Incorrect:** A probability model can rank hypotheses once its inputs and update rules are specified.
+- **B — Correct:** Numerical updating presupposes choices about prior probabilities, likelihoods and evidential relevance.
+- **C — Incorrect:** Treating regularity as a convention avoids rather than justifies ampliative inference.
+- **D — Incorrect:** Probabilistic support remains non-deductive and does not become entailment.
 
-- **A:** Incorrect. A probability model can rank hypotheses once its inputs and update rules are specified.
-- **B:** Correct. Numerical updating presupposes choices about prior probabilities, likelihoods and evidential relevance.
-- **C:** Incorrect. Treating regularity as a convention avoids rather than justifies ampliative inference.
-- **D:** Incorrect. Probabilistic support remains non-deductive and does not become entailment.
-
-### MCQ 31
+**MCQ 31: C**
 
 Which pair exposes opposite weaknesses in the verification criterion?
 
@@ -1732,14 +1672,12 @@ B. Practical access and principled access
 C. Excluding science and admitting metaphysics
 D. Private evidence and public evidence
 
-**Answer: C**
+- **A — Incorrect:** The issue is not an excess of analytic truths paired with too little empirical information.
+- **B — Incorrect:** These are contrasting levels of test accessibility, not opposite failures of criterion scope.
+- **C — Correct:** A strict test excludes legitimate science, whereas a relaxed test can admit the claims it was meant to bar.
+- **D — Incorrect:** Privacy and publicity frame the protocol-sentence dispute rather than the strong/weak dilemma.
 
-- **A:** Incorrect. The issue is not an excess of analytic truths paired with too little empirical information.
-- **B:** Incorrect. These are contrasting levels of test accessibility, not opposite failures of criterion scope.
-- **C:** Correct. A strict test excludes legitimate science, whereas a relaxed test can admit the claims it was meant to bar.
-- **D:** Incorrect. Privacy and publicity frame the protocol-sentence dispute rather than the strong/weak dilemma.
-
-### MCQ 32
+**MCQ 32: D**
 
 Which consideration limits a simple one-statement model of falsification?
 
@@ -1748,14 +1686,12 @@ B. A failed result may fit a rival explanatory model
 C. An observation may provide probabilistic support
 D. A test may also rely on auxiliary assumptions
 
-**Answer: D**
+- **A — Incorrect:** Unobserved scope explains why laws resist verification, not why a failed prediction has several possible sources.
+- **B — Incorrect:** Rival accommodation concerns theory choice after a result, whereas the immediate problem is locating which assumption failed.
+- **C — Incorrect:** Degrees of support do not identify the background commitment responsible for a contrary prediction.
+- **D — Correct:** A test derives its prediction from the target theory plus auxiliaries, so failure need not isolate the target.
 
-- **A:** Incorrect. Unobserved scope explains why laws resist verification, not why a failed prediction has several possible sources.
-- **B:** Incorrect. Rival accommodation concerns theory choice after a result, whereas the immediate problem is locating which assumption failed.
-- **C:** Incorrect. Degrees of support do not identify the background commitment responsible for a contrary prediction.
-- **D:** Correct. A test derives its prediction from the target theory plus auxiliaries, so failure need not isolate the target.
-
-### MCQ 33
+**MCQ 33: A**
 
 How can weakened verification accommodate historical claims and other minds?
 
@@ -1764,14 +1700,12 @@ B. Through conclusive memory and private introspection
 C. Through analytic definition and linguistic convention
 D. Through refutation without supporting evidence
 
-**Answer: A**
+- **A — Correct:** Records and causal traces support past claims, while behaviour, testimony and physiology support claims about others.
+- **B — Incorrect:** Memory is corrigible, and another person's experience is not available through one's private introspection.
+- **C — Incorrect:** Both domains involve contingent claims rather than truths fixed by definitions.
+- **D — Incorrect:** Possible disconfirmation matters, but evidence can also raise support for these claims.
 
-- **A:** Correct. Records and causal traces support past claims, while behaviour, testimony and physiology support claims about others.
-- **B:** Incorrect. Memory is corrigible, and another person's experience is not available through one's private introspection.
-- **C:** Incorrect. Both domains involve contingent claims rather than truths fixed by definitions.
-- **D:** Incorrect. Possible disconfirmation matters, but evidence can also raise support for these claims.
-
-### MCQ 34
+**MCQ 34: B**
 
 What does the Frege–Geach problem press simple emotivism to explain?
 
@@ -1780,14 +1714,12 @@ B. Moral terms retain inferential roles when unasserted
 C. Ethical disagreement reduces to factual error
 D. Persuasion supplies objective moral properties
 
-**Answer: B**
+- **A — Incorrect:** Embedding does not convert a value term into an observational predicate.
+- **B — Correct:** A moral expression must preserve stable logical content inside conditionals and other unasserted contexts.
+- **C — Incorrect:** The problem concerns inference, not a reduction of moral conflict to disagreement in belief.
+- **D — Incorrect:** Persuasive force does not establish mind-independent moral properties.
 
-- **A:** Incorrect. Embedding does not convert a value term into an observational predicate.
-- **B:** Correct. A moral expression must preserve stable logical content inside conditionals and other unasserted contexts.
-- **C:** Incorrect. The problem concerns inference, not a reduction of moral conflict to disagreement in belief.
-- **D:** Incorrect. Persuasive force does not establish mind-independent moral properties.
-
-### MCQ 35
+**MCQ 35: C**
 
 What chiefly motivated the shift from phenomenalism toward physicalism?
 
@@ -1796,14 +1728,12 @@ B. Phenomenal reports improved public reproducibility
 C. Public physical terms aided intersubjective coordination
 D. Physical language made theory terms directly observable
 
-**Answer: C**
+- **A — Incorrect:** A private experiential base made comparison between observers difficult.
+- **B — Incorrect:** Phenomenal reports inherited the publicity problem that motivated the transition.
+- **C — Correct:** Spatio-temporal vocabulary offered a shared medium for reports across observers and sciences.
+- **D — Incorrect:** Physicalism did not turn theoretical entities into objects of direct observation.
 
-- **A:** Incorrect. A private experiential base made comparison between observers difficult.
-- **B:** Incorrect. Phenomenal reports inherited the publicity problem that motivated the transition.
-- **C:** Correct. Spatio-temporal vocabulary offered a shared medium for reports across observers and sciences.
-- **D:** Incorrect. Physicalism did not turn theoretical entities into objects of direct observation.
-
-### MCQ 36
+**MCQ 36: D**
 
 Which criticism most directly combines two attacks on logical positivism?
 
@@ -1812,14 +1742,12 @@ B. Schlick's attack on induction and probability
 C. Ayer's attack on metaphysics and intuitionism
 D. Quine's attack on analyticity and reductionism
 
-**Answer: D**
+- **A — Incorrect:** Popper criticises verification and stresses risky testing; this pairing assigns him different debates.
+- **B — Incorrect:** Schlick seeks experiential foundations and does not mount this paired attack.
+- **C — Incorrect:** Ayer criticises metaphysics and intuitionist ethics from within the positivist programme; this is not an external paired criticism of its two dogmas.
+- **D — Correct:** Quine's two dogmas target the analytic/synthetic division and sentence-level reductionism together.
 
-- **A:** Incorrect. Popper criticises verification and stresses risky testing; this pairing assigns him different debates.
-- **B:** Incorrect. Schlick seeks experiential foundations and does not mount this paired attack.
-- **C:** Incorrect. Ayer criticises metaphysics and intuitionist ethics from within the positivist programme; this is not an external paired criticism of its two dogmas.
-- **D:** Correct. Quine's two dogmas target the analytic/synthetic division and sentence-level reductionism together.
-
-### MCQ 37
+**MCQ 37: A**
 
 Which sentence is factual yet not conclusively verifiable?
 
@@ -1828,14 +1756,12 @@ B. No bachelor is a married person
 C. Hurrah for constitutional government!
 D. Close the laboratory door now
 
-**Answer: A**
+- **A — Correct:** It is an empirical universal supported through tests but not exhausted by finite instances.
+- **B — Incorrect:** This is analytic given ordinary definitions.
+- **C — Incorrect:** It expresses approval rather than describing a state of affairs.
+- **D — Incorrect:** It is an imperative rather than a factual assertion.
 
-- **A:** Correct. It is an empirical universal supported through tests but not exhausted by finite instances.
-- **B:** Incorrect. This is analytic given ordinary definitions.
-- **C:** Incorrect. It expresses approval rather than describing a state of affairs.
-- **D:** Incorrect. It is an imperative rather than a factual assertion.
-
-### MCQ 38
+**MCQ 38: B**
 
 What does Stevenson's idea of persuasive definition help explain?
 
@@ -1844,14 +1770,12 @@ B. Speakers reshape description while retaining emotive force
 C. Moral disagreement becomes a deductive contradiction
 D. Ethical predicates gain verification through consensus
 
-**Answer: B**
+- **A — Incorrect:** Persuasive definition works by adjusting descriptive content, not eliminating it.
+- **B — Correct:** A speaker can redirect a value term's application while preserving its commendatory or condemnatory force.
+- **C — Incorrect:** Stevenson distinguishes conflicts of belief and attitude without reducing either to formal contradiction.
+- **D — Incorrect:** Social agreement may influence attitudes, but it does not make a value predicate empirically verifiable.
 
-- **A:** Incorrect. Persuasive definition works by adjusting descriptive content, not eliminating it.
-- **B:** Correct. A speaker can redirect a value term's application while preserving its commendatory or condemnatory force.
-- **C:** Incorrect. Stevenson distinguishes conflicts of belief and attitude without reducing either to formal contradiction.
-- **D:** Incorrect. Social agreement may influence attitudes, but it does not make a value predicate empirically verifiable.
-
-### MCQ 39
+**MCQ 39: C**
 
 Which statement accurately describes Carnap's development from syntax to semantics?
 
@@ -1860,14 +1784,12 @@ B. Semantics made framework choice an ontological proof
 C. Semantics added truth and designation to formal analysis
 D. Tolerance made syntactic rules evidential hypotheses
 
-**Answer: C**
+- **A — Incorrect:** Logical syntax studies formal formation and transformation rules rather than grounding truth in acquaintance.
+- **B — Incorrect:** Carnap's semantic development does not turn framework adoption into metaphysical discovery.
+- **C — Correct:** The semantic phase adds resources for truth, designation and analyticity within specified languages.
+- **D — Incorrect:** Tolerance permits alternative rule systems; it does not recast their rules as empirical hypotheses.
 
-- **A:** Incorrect. Logical syntax studies formal formation and transformation rules rather than grounding truth in acquaintance.
-- **B:** Incorrect. Carnap's semantic development does not turn framework adoption into metaphysical discovery.
-- **C:** Correct. The semantic phase adds resources for truth, designation and analyticity within specified languages.
-- **D:** Incorrect. Tolerance permits alternative rule systems; it does not recast their rules as empirical hypotheses.
-
-### MCQ 40
+**MCQ 40: D**
 
 Why can later Wittgenstein pressure verificationism?
 
@@ -1876,14 +1798,12 @@ B. He grounds linguistic meaning in private sensation
 C. He restores one ideal logical structure for language
 D. He locates meaning in varied rule-governed practices
 
-**Answer: D**
+- **A — Incorrect:** He resists making one scientific practice the template for diverse uses.
+- **B — Incorrect:** His treatment of rule-following and private language opposes a private-sensation foundation.
+- **C — Incorrect:** The later approach moves away from an ideal structure common to meaningful discourse.
+- **D — Correct:** Language-games show how significance arises through varied public practices and rules.
 
-- **A:** Incorrect. He resists making one scientific practice the template for diverse uses.
-- **B:** Incorrect. His treatment of rule-following and private language opposes a private-sensation foundation.
-- **C:** Incorrect. The later approach moves away from an ideal structure common to meaningful discourse.
-- **D:** Correct. Language-games show how significance arises through varied public practices and rules.
-
-### MCQ 41
+**MCQ 41: A**
 
 Why do Popper, Quine and later Wittgenstein not supply one replacement criterion?
 
@@ -1892,12 +1812,10 @@ B. They derive one shared test from falsification, holism, and ordinary use
 C. They preserve sentence-level verification through different supporting arguments
 D. They reject logical analysis in favour of one common metaphysical foundation
 
-**Answer: A**
-
-- **A:** Correct. Popper addresses scientific demarcation, Quine the structure of confirmation, and later Wittgenstein the plurality of meaningful practices.
-- **B:** Incorrect. Their concepts answer different questions and cannot be combined into a single uniform test of meaning.
-- **C:** Incorrect. Quine rejects isolated reduction, while Popper and later Wittgenstein also move away from sentence-level verification.
-- **D:** Incorrect. Each remains engaged with analysis, and none proposes one shared metaphysical foundation.
+- **A — Correct:** Popper addresses scientific demarcation, Quine the structure of confirmation, and later Wittgenstein the plurality of meaningful practices.
+- **B — Incorrect:** Their concepts answer different questions and cannot be combined into a single uniform test of meaning.
+- **C — Incorrect:** Quine rejects isolated reduction, while Popper and later Wittgenstein also move away from sentence-level verification.
+- **D — Incorrect:** Each remains engaged with analysis, and none proposes one shared metaphysical foundation.
 
 ### Cumulative repair drill — separate the target before naming the critic
 
@@ -2242,3 +2160,16 @@ These anchors establish continuing relevance. They do not convert dated scholars
 - Popper's criterion addresses scientific demarcation rather than all linguistic meaning.
 - Quine and later Wittgenstein are presented as pressures with identifiable targets, not as one-step refutations.
 - The movement's decline is cumulative, and its methodological legacy is separated from the failure of its maximal doctrine.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Audited the canonical owner `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Logical-Positivism.md` for marks-essential doctrine, criticisms and PYQ routing; no owned argument found omitted from the lessons |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule; not cited or read |
+| Layered/complete session | checked | Cross-checked the permitted `upsc-ai-kit\knowledge\Philosophy\Western-Philosophy\learning-sessions\Logical-Positivism\Logical-Positivism_Layered-Complete-Learning-Session_2026-08-19.md` for coverage and sequence |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule; not cited or read |
+| Advanced dossier | checked | Reconciled `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` section 7; its modules are explicitly enrichment, so no advanced-only material was promoted into core lessons |
+| OCR books | checked | Doctrine corroborated against the OCR histories and dictionaries recorded in the Source Ledger (Masih, Kenny vol. 4, Warburton, Cambridge and Flew dictionaries) |
+| PYQs through 2026 | checked | Verified ledgers `_PYQ-Western-Philosophy-2018-2025.md` and `_PYQ-Western-Philosophy-2026.md`; eight entries transcribed and the absence of a 2022 question recorded |
+| Official live sources | checked | University of Vienna / Institute Vienna Circle conference 19-21 October 2026 verified live on the official site and retained only as a historiographical anchor |
