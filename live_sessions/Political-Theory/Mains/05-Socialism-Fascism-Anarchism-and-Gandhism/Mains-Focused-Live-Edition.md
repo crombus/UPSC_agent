@@ -1,20 +1,18 @@
 # Socialism, Fascism, Anarchism and Gandhism — Mains-Focused Live Edition
 
-A fast-preparation edition for GS-II, GS-IV and the Essay. It teaches only what enriches a Mains answer on ownership of productive power, the legitimacy of coercive authority, equality against hierarchy, and the moral standing of political means — and stops there. The comprehensive twenty-four-lesson session remains the unchanged reference layer; this is neither a copy nor a condensation of it, and it is not a substitute for it when depth is actually wanted.
+This edition organises Topic 05 around four questions: ownership of productive power, the legitimacy of coercive authority, equality against hierarchy, and the moral standing of political means.
 
 **The one idea that organises everything.** Socialism, anarchism and Gandhism are **three genuinely rival, broadly egalitarian responses** to the same diagnosis — that unregulated economic and political power degrades ordinary life. They disagree about **how much coercive state power, if any, is legitimate** and about **how change should occur: reform, voluntary federation, or moral persuasion**. Fascism is **not a fourth member of this family but its explicit negation**: it is the only one of the four that answers the equality question with **hierarchy** and the ownership question with **concentration**. Place a stem inside that structure and it becomes answerable; miss it and the answer collapses into an undifferentiated "anti-capitalist" bloc.
 
-**Scope.** This is **Topic 05 of the subject's twenty-three topics**, and it remains a standalone session; every other topic keeps its own. Four ideology clusters are taught here because the source chapter prints them as four consecutive answers to one question, not because they have been merged from separate topics. The source window is **Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Chapter 2, PDF pp.55–83 = printed pp.41–69, offset 14**. Every citation in this edition gives the **PDF** page with the printed page alongside, written either as *PDF p.69 (55)* or as *PDF p.69 / 55*; the two forms are interchangeable and no citation gives one page without the other. ⚠️ The offset of 14 was verified page by page across this window only and **must not be extrapolated to the rest of the book**; a later Gandhi chapter runs at a different offset.
+**Scope and exact routes.** Gauba's controlling span is Chapter 2, PDF pp.55–83 (printed pp.41–69). Philosophy Optional doctrine belongs primarily to `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`. *Sarvodaya* belongs to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`; Gandhian development to Topic 23; neoliberal doctrine to Topic 03; Marxism to Topic 04; and fascism's historical record to World History. Political Theory supplies supplementary GS/Essay concepts, not direct question ownership.
 
-**What is deliberately left out, and why.** The full Fabian roster as a lesson block; Olivier's adult-education passage at length; country rosters used as present-day scorecards; Second World War chronology and Versailles detail; a third fascism lesson; the *sarvodaya* block with its Ruskin origin and the 1935 legal-fiction concession; the Gandhian **development model**; the neo-liberal architecture of Hayek, Friedman and Nozick; Marxism's own apparatus; corporatism as institutional design; the Gandhi–Ambedkar caste debate; and any re-litigation of scan artefacts. Definitions, causal logic, printed objections and replies, deployment, answer frameworks and required practice are kept intact.
+**Boundary.** This topic teaches socialism, fascism, anarchism and Gandhism within Gauba pp.55–83. It does not teach *sarvodaya*, the Gandhian development model, neoliberalism, Marxism's own apparatus, corporatism, the Gandhi–Ambedkar caste debate or interwar chronology.
 
-**Why fascism gets two lessons and not three, although it occupies the most pages.** Across the whole verified application corpus — **126 Philosophy Optional Paper-II Section-A parts, 2018–2026** — a full-corpus search for *fascism · fascist · totalitarian · Mussolini · Hitler · Nazi* returns **zero** occurrences. The same search for *Proudhon · Kropotkin · Bakunin · Godwin · Fabian · trusteeship · bread labour* also returns **zero**. The examiner names **anarchism six times** and **socialism three times**, always at **family level**. Fascism occupies **10 of the window's 29 pages** and carries **zero primary demand**, so it is taught for **critique, contrast and the totalitarian case** that other subjects' papers need — not for roster completeness. Anarchism occupies **6 pages** and carries **five primary stems**, so it is raised against its page share. ⚠️ Allocation here follows **verified demand**, not page count, and the inversion is deliberate.
-
-**Thinker discipline, stated once.** Because the examiner never names an anarchist or a Fabian thinker, thinkers appear in this edition **only as named evidence units under a claim**. A lesson that degenerates into a roster has failed its own contract even if every fact in it is true.
+**Demand balance.** Verified Philosophy papers repeatedly test anarchism and socialism at family level, while fascism is mainly useful for critique, contrast and the totalitarian case. Thinkers therefore appear as evidence under claims rather than as a roster.
 
 ## Roadmap
 
-Twelve lessons. The count is derived, not set: each row names the dependency, the verified question demand, or the answer-writing skill that makes merging it into a neighbour cost a Mains mark.
+Twelve lessons follow the dependencies from definition through comparison, criticism and answer construction.
 
 | Lesson | Subtopic | Why it earns a separate lesson | Principal use |
 |---|---|---|---|
@@ -30,8 +28,6 @@ Twelve lessons. The count is derived, not set: each row names the dependency, th
 | 10 | Gandhism I — ethics inseparable from politics, means inseparable from ends | Truth, means and ahimsa are a single argument, and it is the one apparatus no other topic in this subject supplies | GS-IV, Essay |
 | 11 | Gandhism II — trusteeship, bread labour, classless society, Gandhi against Marx | Exists to be contrasted; the printed nine-row comparison is the end-state criterion most answers never reach | GS-IV, Essay |
 | 12 | Separating the four — three discriminating questions, a bounded control, and writing it | Directive fidelity and graded verdicts are marked separately from content | All three |
-
-⚠️ **How the count was fixed, since no quota was applied.** The comprehensive session runs twenty-four lessons. **Eleven fusions** were made, each justified by a dependency rather than by word count: the definitional problem with the method question that resolves it; Fabianism's origin with its aims; the four revisions taught as one matrix; etymology, spread and the reaction thesis as one causal account; counter-revolution, myth and the two critiques as one indictment; the authority ledger with what philosophical anarchism asserts; the three property rules as one comparison; the two non-socialist poles with the appraisal; truth, means and ahimsa as one argument; trusteeship and bread labour with the Marx contrast; and the synthesis with the writing lesson. **Three candidate fusions were tested and rejected.** Lessons 1 and 2 stay apart because the 2024 compare-stem opens from Lesson 1 alone. Lessons 7 and 8 stay apart because one tested stem needs the authority ledger and another needs the schools, and fusing them leaves one demand without a concept check. Lessons 10 and 11 stay apart because the Gandhi-as-anarchist stem is answered from the means/ends and lineage material, while the trusteeship block is a shared half owned elsewhere. **Two candidate splits were tested and rejected:** fascism into three, since no primary demand justifies a third slot, and Gandhism into three, since the third slot would have to be *sarvodaya*, which belongs to another topic.
 
 ```text
 L1  WHAT SOCIALISM IS  --->  the METHOD question splits the family
@@ -75,7 +71,7 @@ L12 SEPARATING THE FOUR + bounded control + DIRECTIVE DECODING
 Progress: 1 / 12 | Stage: Foundation | Subtopic: The definitional problem, three printed definitions in ascending precision, the substantive-rights premise, and the method question that divides the family into two branches
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§3-5, 13; Advanced owner §§3-4, 6; Gauba, Ch.2, PDF pp.55-56 (printed 41-42) read directly for Joad, the Oxford English Dictionary and Schumpeter definitions, the substantive-rights premise and the evolutionary/revolutionary discriminators.
+Book context: Queried — Gauba PDF pp.55–56 for the definitions, substantive-rights premise and evolutionary/revolutionary split.
 CA search: Not run per lesson. One bounded topic-level anchor is carried at Lesson 10 and reported in the Source Ledger.
 CA found: None forced. A definitional lesson gains nothing from a headline, and this topic's verified demand requires no current fact.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -204,7 +200,7 @@ Revision notes:
 Progress: 2 / 12 | Stage: Foundation | Subtopic: The first systematic doctrine of evolutionary socialism — why it waited, what it revised in Marx, what it aimed at, and the two formulations that both canonical owners omit
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§6, 12.1, 16 Unit 1; Advanced owner §5; Gauba, Ch.2, PDF pp.57-59 (printed 43-45) read directly for the three modifications, the Ricardian Law of Rent box, the Fabian motto, the 1865-1885 window, the three aims, Webb's four conditions of organic change and his redefinition of democracy.
+Book context: Queried — Gauba PDF pp.57–59 for Fabian revisions, aims, the political window and Webb's conditions.
 CA search: Not run per lesson. The single permitted dated anchor sits at Lesson 10 by design.
 CA found: None carried here. A nineteenth-century mechanism lesson gains nothing from a present-day illustration, and this edition prohibits classifying any present-day entity.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -284,9 +280,9 @@ The Society was **founded in 1884**, and the term **'Fabian'** was adopted after
 
 Fabianism **arose in the wake of the establishment of democracy in Great Britain, especially during the years 1865 to 1885**, when the working classes had obtained **the franchise** and **the legalization of trade unions**, and their influence on legislation and the wage-contract was **visibly on the increase**. In such a state **there was no need of a revolution to create a new political mechanism, for it was already in existence and needed only to be used for the social transformation** (PDF p.57 / 43).
 
-The Fabians then **addressed themselves to the task of making the democratic state an instrument of systematic social reform**. **Sidney Webb (1859–1947)**, the leading Fabian socialist, held that the socialist mission was to **acquire knowledge by means of specialized research into the various manifestations of economic and social life**, to **acquaint themselves with the machinery of legislation and administration**, and to **put their knowledge and experience at the disposal of all political agencies** (PDF p.58 / 44). ⚠️ The chapter spells the first name *Sydney*; the standard form is **Sidney Webb**, and this edition uses the standard form in the candidate's own voice. Nothing turns on it.
+The Fabians then **addressed themselves to the task of making the democratic state an instrument of systematic social reform**. **Sidney Webb (1859–1947)**, the leading Fabian socialist, held that the socialist mission was to **acquire knowledge by means of specialized research into the various manifestations of economic and social life**, to **acquaint themselves with the machinery of legislation and administration**, and to **put their knowledge and experience at the disposal of all political agencies** (PDF p.58 / 44). ⚠️ Gauba prints *Sydney Webb*; the standard **Sidney Webb** is independently verified in the bibliography.
 
-The roster, in one line and no more: **George Bernard Shaw (1856–1950) · Sidney Webb (1859–1947) · Beatrice Webb (1858–1943) · Sydney Olivier (1859–1943) · Graham Wallas (1858–1932) · G.D.H. Cole (1889–1959)** (PDF p.58 / 44). ⚠️ The chapter prints Olivier's first name as *Sidney* on one page and *Sydney* on the next; **Sydney Olivier** is used here and the variance is noted once.
+The roster, in one line and no more: **George Bernard Shaw (1856–1950) · Sidney Webb (1859–1947) · Beatrice Webb (1858–1943) · Sydney Olivier (1859–1943) · Graham Wallas (1858–1932) · G.D.H. Cole (1889–1959)** (PDF p.58 / 44). ⚠️ **Sydney Olivier** is independently controlled in the bibliography.
 
 ### 4. The three aims, compressed to their operative clauses
 
@@ -352,7 +348,7 @@ Revision notes:
 Progress: 3 / 12 | Stage: Core | Subtopic: The rest of the evolutionary branch, taught as a matrix of four revisions of a single target rather than as a roster of four movements
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§5-6, 8; Advanced owner §§3, 5-6; Gauba, Ch.2, PDF pp.59-61 (printed 45-47) read directly for German social democracy, revisionism's three printed revisions, syndicalism's four tenets with the 1899-1937 span and the two forms of opposition to the state, and guild socialism's four tenets with the 1916-1926 span.
+Book context: Queried — Gauba PDF pp.59–61 for Lassalle, Bernstein, syndicalism and guild socialism.
 CA search: Not run per lesson. This edition carries exactly one dated anchor, placed at Lesson 10.
 CA found: None carried here. Naming any present-day movement, party or government as socialist or syndicalist is prohibited in this edition.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -435,7 +431,7 @@ Revision notes:
 Progress: 4 / 12 | Stage: Core | Subtopic: The chapter's own three-head appraisal, the directional criterion that separates socialism from liberal redistribution, the market-socialism concession, and the printed conclusion that models every graded verdict in this edition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§9, 11, 13; Advanced owner §§7-8, 12; Gauba, Ch.2, PDF pp.61-63 (printed 47-49) read directly for the three criticisms, the directional criterion, the safety-valve formulation, the Market Socialism box with its dated country ledger, and the printed CONCLUSION.
+Book context: Queried — Gauba PDF pp.61–63 for the three criticisms, market socialism and the graded conclusion.
 CA search: Not run per lesson. The edition's single dated anchor is reserved for Lesson 10.
 CA found: None carried. The country ledger in this lesson is strictly book-period and is never used as a present-day scorecard.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -563,7 +559,7 @@ Revision notes:
 Progress: 5 / 12 | Stage: Core | Subtopic: Why fascism is studied as political pathology rather than as political philosophy, the conditions that produced it, and the three inversions by which it negates the liberal-democratic order
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§3-6, 8-9; Advanced owner §§2-5, 12; Gauba, Ch.2, PDF pp.64-67 (printed 50-53) read directly for the fasces etymology, the incoherence claim, the Idealism box, the Ebenstein and MacIver passages, the Dunner definition and the leader-principle material.
+Book context: Queried — Gauba PDF pp.64–67 for fascism's origin, incoherence, reaction thesis and leader principle.
 CA search: Not run per lesson, and deliberately not run for this cluster at all. The edition's absolute prohibition on classifying any present-day entity as fascist, neo-fascist, totalitarian or authoritarian makes a live search a liability rather than an asset here.
 CA found: None, by design. Every illustration in this lesson is a 2009 statement about the interwar period.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -709,7 +705,7 @@ Revision notes:
 Progress: 6 / 12 | Stage: Core | Subtopic: One indictment with one verdict — what fascism did to capitalism's democratic restraints, why it had to deny the economic conception of history, which class it actually served, and why it must not be collapsed into communist totalitarianism
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§7, 9, 16 Unit 5; Advanced owner §§3, 7, 12; Gauba, Ch.2, PDF pp.67-73 (printed 53-59) read directly for the counter-revolution account, the Laski passages, the Mussolini 1932 and 1922 quotations, the Mein Kampf propaganda sentence, the socio-economic basis dispute, the Ebenstein passages, the five liberal objections, the Marxist critique and the conclusion.
+Book context: Queried — Gauba PDF pp.67–73 for counter-revolution, myth, class-base debates, critiques and verdict.
 CA search: Not run, by the same design as Lesson 5. No current item may be attached to this cluster.
 CA found: None, by design.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -871,7 +867,7 @@ Revision notes:
 Progress: 7 / 12 | Stage: Core | Subtopic: What anarchism actually rejects and what it expressly retains, the lineage that fixes its first systematic statement, the range statement that governs the whole family, and philosophical anarchism as the individualist starting point
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§3, 5-6, 9-10; Advanced owner §§4-5, 12; Gauba, Ch.2, PDF pp.73-74 (printed 59-60) read directly for the definition, Godwin's priority, Proudhon's self-naming, the range statement, the two-column authority ledger, the list of six schools and the philosophical-anarchist retentions.
+Book context: Queried — Gauba PDF pp.73–74 for anarchism's definition, lineage, range, schools and retained authority.
 CA search: Not run per lesson. This edition's single dated anchor is carried at Lesson 10.
 CA found: None carried. The demand here is conceptual and no verified stem in the corpus requires a current fact.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -986,7 +982,7 @@ Revision notes:
 Progress: 8 / 12 | Stage: Advanced | Subtopic: Three answers to one question — what replaces the state, and on what distributive rule — with each school's printed limit attached
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§6-8, 16 Unit 6, 17 Chain 1; Advanced owner §§5, 8, 12; Gauba, Ch.2, PDF pp.74-76 (printed 60-62) read directly for the socialist-anarchist premise, Proudhon's mutualism with the mutual credit bank and the admission of failure, Kropotkin against Darwin, and Bakunin's collectivism with the Commune box.
+Book context: Queried — Gauba PDF pp.74–76 for Proudhon, Kropotkin, Bakunin and their replacement institutions.
 CA search: Not run per lesson, consistent with the design stated at Lesson 1.
 CA found: None carried. No present-day movement, community or experiment is named or classified anywhere in this edition.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1075,7 +1071,7 @@ Revision notes:
 Progress: 9 / 12 | Stage: Advanced | Subtopic: The far end of the range — anarcho-syndicalism as adjacent rather than inside, pacific anarchism and the Gandhi lineage, libertarian anarchism entire — closed by the chapter's own three-move critical appraisal
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§6, 12.2-12.3, 16 Units 2-3, 20; Advanced owner §§5, 7, 12; Gauba, Ch.2, PDF pp.76-78 (printed 62-64) read directly for Sorel with the classification caution, Tolstoy with the law of love and the Gandhi sentence, libertarian anarchism from Spencer through Hayek, Nozick and Taylor, and the three moves of A CRITICAL APPRAISAL.
+Book context: Queried — Gauba PDF pp.76–78 for Sorel, Tolstoy, libertarian anarchism and the critical appraisal.
 CA search: Not run per lesson. The single dated anchor is carried at Lesson 10, where it is conceptually load-bearing.
 CA found: None carried here.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1123,7 +1119,7 @@ This lesson holds the far end of the range statement, and it is the lesson that 
 
 **In contrast to revolutionary anarchism, pacific anarchism stands for abolition of the state in a peaceful manner. It advocates anarchism on moral grounds.** Its chief exponent, **Leo Tolstoy (1828–1910)**, the Russian novelist, **was inspired by 'the law of love', expressed in the Sermon on the Mount**, which **made him denounce the state as 'organized violence' and to call on people to disobey its immoral commands**. He argued that **the state tried to fight evil with another evil, i.e. with the help of police and military force**, and that **private property enables the few to lead a luxurious life by exploiting others' labour**; **both of them should be abolished for the regeneration of humanity** (PDF pp.76–77 / 62–63).
 
-✅ **The provenance upgrade this edition applies, and its limit.** The chapter's own text states that **Mahatma Gandhi (1869–1948), the Indian philosopher, was inspired by these ideas in developing his philosophy of non-violence** — **PDF p.77 (63)**. That sentence is inside this topic's own verified window, so the influence claim is carried here as **source-grounded** rather than as an unverified biographical commonplace. ⚠️ The upgrade covers **only** the proposition that Tolstoy's ideas influenced Gandhi's philosophy of non-violence. ❌ No letter, date, correspondence or publication title is attached to the connection, and nothing beyond the chapter's own sentence is asserted.
+✅ **Gauba-grounded influence, with a strict limit.** Gauba states that **Mahatma Gandhi (1869–1948) was inspired by these ideas in developing his philosophy of non-violence** (PDF p.77 / 63). This grounds only the influence proposition. ❌ It does not ground a letter, date, correspondence history or publication title.
 
 ⚠️ This sentence is also the **structural hinge** of the edition. It is why Tolstoy must be taught before Gandhism and not alongside it: the lineage sentence needs its antecedent, and a Gandhism lesson that introduces Tolstoy retrospectively loses the argument that the next lesson's apparatus has a stated anarchist ancestry.
 
@@ -1197,9 +1193,9 @@ Revision notes:
 Progress: 10 / 12 | Stage: Advanced | Subtopic: The single argument that runs from the denial of "Gandhism" through the spiritualization of politics and the means/ends proposition to ahimsa in both its negative and positive registers
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§6, 12.3, 16 Unit 3, 17 Chain 2, 20; Advanced owner §§5-6, 12; Gauba, Ch.2, PDF pp.78-81 (printed 64-67) read directly for the denial of Gandhism, the ethics-and-politics material, the means/ends passage with the Bose 1948 quotation, the vocabulary of satyagraha, swaraj and ahimsa, the religion passages, the Harijan 1939 quotation and the four extensions of violence.
-CA search: Run once for this edition, bounded to this lesson, on Gandhi Jayanti and the International Day of Non-Violence; the anniversary number and the United Nations observance were re-verified at writing time against current reporting.
-CA found: 📰 2 October 2026 — Gandhi Jayanti, the 157th birth anniversary of M.K. Gandhi (b. 2 October 1869, Porbandar); the same date is observed by the United Nations as the International Day of Non-Violence, declared in 2007. Used only to anchor ahimsa stated positively. No resolution number, theme, event, venue or attendance claim is attached.
+Book context: Queried — Gauba PDF pp.78–81 for ethics and politics, means and ends, truth, ahimsa and satyagraha.
+CA search: Official PM India and United Nations sources for 2 October 2026, accessed 5 Oct 2026.
+CA found: 📰 2 October 2026 — Gandhi Jayanti marked Gandhi's 157th birth anniversary; the United Nations observes 2 October as the International Day of Non-Violence under A/RES/61/271. Used only as an ahimsa anchor.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Gandhism is the one apparatus in this subject that no other topic supplies, and it is routinely reduced to three words — truth, non-violence, satyagraha — none of which is an argument. The chapter in fact prints a single connected argument, and the connection is what earns marks.
@@ -1299,7 +1295,7 @@ The vocabulary follows directly, exactly as printed: Gandhi **adopted the path o
 
 Finally, the chapter forecloses the weakness reading. **When it comes to confrontation with injustice, non-violence does not imply showing weakness. Non-violence is not the resort of the weak; it is the power of the strong — of course, his moral power. This power comes from the firm adherence to truth.** When one fights for a just cause with firm faith in truth, **it results in the 'change of heart' of the mighty opponent and makes him bend**. In short, **non-violence is the art of gaining victory over physical force by spiritual force**, and **the method of self-purification** (PDF p.80 / 66).
 
-📰 **One dated anchor, used once and only here.** **2 October 2026 was Gandhi Jayanti, the 157th birth anniversary of M.K. Gandhi (b. 2 October 1869, Porbandar); the same date is observed by the United Nations as the International Day of Non-Violence, declared in 2007.** ⚠️ Its conceptual use is confined to this lesson: the day is observed under the name of **non-violence**, not of independence or of any national achievement, which is the observance equivalent of the priority Gandhi himself states — **for me, ahimsa comes before swaraj**. ❌ No resolution number, theme, event, venue or attendance claim is attached, and no further current item is carried anywhere in this edition.
+📰 **Dated anchor.** Official sources record Gandhi Jayanti on **2 October 2026** as Gandhi's **157th birth anniversary** and identify 2 October as the United Nations **International Day of Non-Violence** under **A/RES/61/271**. Its use here is limited to ahimsa; the exact URLs and 5 Oct 2026 access dates are in the Source Ledger.
 
 ### Deployment in GS-II, GS-IV and the Essay
 
@@ -1321,7 +1317,7 @@ Revision notes:
 - Ahimsa, negative: **abstention from violence in one's behaviour toward other living beings**. Positive: **love of all**, extended **not only to those who love us, but also to those who hate us**; **love of the hater is the most difficult of all**.
 - 🔑 Four extensions of violence: **intention to harm ... or wishing him ill** · **hatred or malice to anyone** · **acquiring material things beyond one's immediate need**, since **thereby we deprive others of their share** · **spreading atmospheric pollution and damaging public health**. Hence the principle **embraces all rules of good citizenship and human decency**.
 - Strength, not weakness: **not the resort of the weak; it is the power of the strong** — **his moral power**, from **firm adherence to truth**, producing **change of heart** in the opponent; **the art of gaining victory over physical force by spiritual force**; **the method of self-purification**.
-- 📰 **2 October 2026**, Gandhi Jayanti, **157th** birth anniversary; **International Day of Non-Violence**, declared **2007**. Used once, for ahimsa only.
+- 📰 **2 October 2026**: Gandhi Jayanti, **157th** birth anniversary; UN **International Day of Non-Violence**, A/RES/61/271. Ahimsa anchor only.
 - **Move:** denial and reply → ethics as guiding star → means/ends in its strong form → karma/phala → satyagraha, ahimsa, swaraj in order → the strength claim.
 
 ### Concept check
@@ -1343,12 +1339,12 @@ Revision notes:
 Progress: 11 / 12 | Stage: Advanced | Subtopic: The doctrines that exist to be contrasted — simple technology, trusteeship and bread labour taught in their ideology function, closing on the printed nine-row comparison of Marxian and Gandhian views
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§6-8, 13, 16 Unit 4, 17 Chain 2; Advanced owner §§5-8, 12; Gauba, Ch.2, PDF pp.81-83 (printed 67-69) read directly for the bridge sentence, simple technology, the Amrita Bazar Patrika 1934 quotation, trusteeship with its printed objection, bread labour, the gender-and-faith clause, and the PDF p.83 comparison table.
+Book context: Queried — Gauba PDF pp.81–83 for trusteeship, bread labour, classlessness and the Gandhi-Marx comparison.
 CA search: Not run for this lesson. The edition's single dated anchor is carried at Lesson 10 and is not repeated.
 CA found: None carried here, and none required.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-⚠️ **A boundary stated before the content, because it determines what this lesson is for.** Trusteeship, bread labour and the classless society are taught here **only in their ideology function** — as manifestations of adherence to truth and non-violence, and as the material of the Marx contrast. ❌ Gandhi's answer to what the common good is — *sarvodaya*, the trusteeship concession of 1935, *aparigraha* and *asteya*, the three printed purposes of bread labour and its caste mechanism, and the Ruskin origin — belongs to **Topic 21** and is not taught here. One clause marks the gap: *sarvodaya*, the ideal of the uplift of all beginning with the last and most neglected person, names the **social goal** that trusteeship's economic ethic and satyagraha's method serve, and it is developed in Topic 21 from its own chapter. ❌ Equally, the **Gandhian model of development** — the critique of industrial civilisation, the resources-and-greed formulation, the villages passage and the alternative-paths table — belongs to **Topic 23** and is not taught here. **Production by the masses** and **bread labour** are printed in both windows; this edition uses them from **PDF pp.81–82 (67–68)** in their **trusteeship and equality** function only, with no development framing.
+⚠️ **Boundary.** Trusteeship, bread labour and classlessness are taught here only in their Topic05 ideology function and as material for the Marx contrast. *Sarvodaya* and its supporting doctrine belong to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`; no cross-owned substance is taught here. Gandhian development belongs to Topic 23. **Production by the masses** and **bread labour** are used only from PDF pp.81–82 in their trusteeship and equality function.
 
 ```text
   THE TRUSTEESHIP MECHANISM, AS THE CHAPTER STATES IT
@@ -1436,7 +1432,7 @@ The chapter then closes the whole ideology theme with a table headed **Comparati
 | **Way to Achieve Stateless Society** | **After full development of the forces of production in a classless society, the state will 'wither away'** | **When everybody follows the principle of non-violence (ahimsa) and becomes self-disciplined and self-regulated, the state will become redundant** |
 | **Image of Future Society** | **A self-regulated society ruled by the principle: 'from each according to his ability, to each according to his need'** | **A self-regulated society comprised of self-disciplined individuals having minimum needs, with a sense of moral responsibility toward social needs** |
 
-⚠️ **Text-integrity note, stated once.** The table extracts from the local scan as interleaved column fragments, because the scan reads the three columns down the page rather than across the rows. The version above is the reassembly already certified by this topic's comprehensive session, with its four presentational in-cell corrections carried forward. **All nine rows are complete; no cell content is supplied, bracketed, dropped or reordered.** The reassembly is reused, not re-derived.
+⚠️ The comparison preserves all nine rows on Gauba PDF p.83; no cell content is added or omitted.
 
 🔑 **The two cells that decide most answers.** On the **nature of the state**, Marx's **instrument of class domination** stands against Gandhi's **soulless machine for enforcing rules and regulations without human sensitivity and a sense of moral responsibility** — so the Gandhian objection is not only to coercion but to the **absence of moral responsibility in rule-application**, which is a charge about bureaucratic form. On the **way to achieve a stateless society**, Marx's condition is **sequential and institutional** — **after full development of the forces of production** — while Gandhi's is **universal and moral**: **when everybody follows the principle of non-violence ... and becomes self-disciplined and self-regulated**. Set out that way the two cannot be collapsed into a shared "withering away".
 
@@ -1484,7 +1480,7 @@ Revision notes:
 Progress: 12 / 12 | Stage: Synthesis | Subtopic: The grid that keeps the four doctrines apart, the method cross-cut that scores higher than the grid, a bounded conservatism control, directive decoding, and the ownership statement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Core owner §§13-17, 19, 22.2-22.3, 22.9, 22.12; Advanced owner §§6-8, 12; synthesis across Gauba, Ch.2, PDF pp.55-83 (printed 41-69) with no new passage introduced.
+Book context: Queried — synthesis across Gauba PDF pp.55–83 and the certified Topic05 canonicals.
 CA search: Not run. This lesson introduces no new source material and the edition's single dated anchor is already placed at Lesson 10.
 CA found: None, and none required for a synthesis and answer-writing lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -1553,11 +1549,11 @@ Evolutionary socialism **reforms** power. Fascism **concentrates and mythologise
 
 ⚠️ Deploy this as a **sentence**, not as a list: it is the single highest-value compression in the topic, and it works in an introduction, in a body transition and in a conclusion.
 
-### 3. 🔶 The conservatism control — exactly three items, and the provenance warning that governs them
+### 3. 🔶 Bounded conservatism comparison
 
-🔶 **Provenance, stated before use and binding on everything in this section.** No part of this control is anchored in **PDF pp.55–83**; the chapter range used for this topic contains no conservatism section. Only the following bibliographic facts may be asserted, and nothing further: **Burke, *Reflections on the Revolution in France* (1790)** and the **Speech to the Electors of Bristol (1774)**; **Paine, *Rights of Man* (1791)**; **Disraeli, *Sybil* (1845)**; **Oakeshott, "Rationalism in Politics" (1947; collected 1962)**; and **Hayek, "Why I Am Not a Conservative", Postscript to *The Constitution of Liberty* (1960)**. ❌ No page, chapter or verbatim sentence from any of them is asserted anywhere, and every claim below is argued as a **proposition**, never as a quotation.
+🔶 Conservatism is outside Gauba PDF pp.55–83. The comparison is independently grounded in the exact bibliography in the Source Ledger and uses propositions rather than attributed quotations.
 
-The control exists because a four-doctrine separation invites a predictable misclassification, and three items are enough to prevent it.
+Three items prevent predictable misclassification.
 
 **(a) Reform in order to conserve.** 🔶 The commonest error is that conservatism means opposing all change. The Burkean position argued through *Reflections* (1790) is that a political order lacking any means of change lacks the means of its own preservation; the objection is to a **particular kind** of change — total, abstract, simultaneous and irreversible — not to change as such. ⚠️ One line of this kills the caricature and keeps a separation grid honest.
 
@@ -1589,7 +1585,7 @@ The control exists because a four-doctrine separation invites a predictable misc
 
 - **10 marks (about 150 words).** One-line qualified thesis from the grid verdict → contrast two doctrines on the **state** axis → one named evidence unit → one-line verdict on why fascism is the outlier. Close in the **graded** shape of Lesson 4, not with a flat yes or no.
 - **15 marks (about 200–250 words).** Qualified thesis → compressed premises-to-conclusion spine: the shared diagnosis of concentrated power, the disagreement about the instrument, the resulting divergence of mechanism → two or three named evidence units spanning at least two doctrines → one objection-and-reply chain → verdict using the grid's three axes.
-- **20 marks (about 250–300 words).** Qualified thesis with directive fidelity → full premises-to-conclusion spine → four or five evidence units spanning socialism, anarchism, Gandhism and the fascism critique → both objection-and-reply chains → a reasoned verdict distinguishing equality-seeking critics of capitalism from fascism's hierarchy-seeking negation. ⚠️ At every mark level, the close follows Lesson 4's printed verdict shape: concede, score against a named alternative, locate the failure in a missing condition, state the conditional, add the proviso.
+- **20 marks (strictly within 250 words).** Qualified thesis with directive fidelity → full premises-to-conclusion spine → four or five evidence units spanning socialism, anarchism, Gandhism and the fascism critique → both objection-and-reply chains → a reasoned verdict distinguishing equality-seeking critics of capitalism from fascism's hierarchy-seeking negation. ⚠️ At every mark level, the close follows Lesson 4's printed verdict shape: concede, score against a named alternative, locate the failure in a missing condition, state the conditional, add the proviso.
 
 Three evidence units, each with its limitation, cover most stems: **Webb's four conditions of organic change** (limit — they presuppose a constitutional order already able to deliver them); **Kropotkin's mutual aid** (limit — the reply that institutions corrupt dispositions is difficult to falsify); and **Gandhi's trusteeship** (limit — the chapter's own, that **change of heart** is **hardly realizable in actual practice**).
 
@@ -1638,69 +1634,67 @@ Revision notes:
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-## How this section is labelled
+## Ownership
 
-**Nothing below is a General Studies previous-year question.** No question is re-labelled, no mirror ledger is built, and the next section is original practice throughout. The ownership position is stated once, at Lesson 12, and is not repeated here. The genuine previous-year anchors are the verified local **Philosophy Optional, Paper II, Section A** papers, used as a **separate, explicitly labelled, answer-neutral application source**: no solved models are given for them, and each entry carries the printed wording, the paper code, the directive, the apparatus, the lesson and the route.
+These are Philosophy Optional Paper II stems. Political Theory supplies supplementary apparatus; the exact Philosophy owner controls doctrine, objections and verdicts. Nothing below is a General Studies previous-year question.
 
-📝 Stems follow the controlling ledgers, with typographic quotation marks and apostrophes rendered as straight ASCII. ⚠️ The ledger transcription is known to vary in the spacing before a question mark across years; the **2018** stems here preserve the ledger's printed space. No claim is made about the official papers' typography.
+Across the verified 2018–2026 corpus, seven stems directly engage socialism, anarchism or Gandhism. Their substantive owner is the exact Philosophy file named below; Topic 05 contributes Political Theory apparatus only. **2025 contains no directly relevant stem.**
 
-⚠️ **Why this corpus and not another.** Across **126 Section-A parts, 2018–2026**, this topic is the teaching owner of the apparatus for **seven** stems, contributes a named half to **five** more, is one of several contributors to **five** adjacency stems, and owns **nothing** in the Gandhi–Ambedkar caste cluster. **2025 contains no stem this topic owns** and is declared empty below.
-
-## The seven primary stems — this topic is the teaching owner of the apparatus
+## The seven primary stems — exact owner and answer-neutral route
 
 **2026, Paper II, Section A, Q1(c) [10 marks] (KVMS-B-PHL)**
 *"Anarchism is not an independent political ideology in itself, rather it is inspired by liberalism on the one hand and socialism on the other. Analyze."*
-- **Directive:** Analyze a derivation thesis — the proposition must be decomposed and each half tested, not described. **Apparatus:** the range statement, the family's own defining aim, and the two poles with their printed breaks. **Taught in:** Lesson 9 primarily, with Lesson 7 for the range statement and Lessons 1–4 for the socialist pole.
-- **Route:** take the range statement as the hinge — the family runs **from the defenders of extreme form of socialism to the champions of extreme form of individualism** — and then distinguish **spread** from **parentage**. Concede the margins honestly: Sorel **is not regarded a full-fledged anarchist**, and the libertarians, for whom the state is **not merely a necessary evil; it is a positive evil**, nonetheless **do not recommend to abolish the state altogether**. Refuse the core: the shared aim, **abolition of the state**, is made by neither parent, and the break is stated from inside the family — Proudhon rejects **dictatorship of the proletariat** because **power of the state and power of capital are coterminous**, and Bakunin opposes **the authoritarian element in Marx's communism**. ⚠️ Verdict: independent in its premise, derivative at its margins.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** decompose “inspired by” into genealogical and conceptual claims, compare the liberal and socialist margins with anarchism's anti-authority premise, and reserve the degree of dependence and final verdict for the owner. Lessons 7–9 supply the range and school distinctions.
 
 **2024, Paper II, Section A, Q1(e) [10 marks] (PHKM-B-PHL)**
 *Compare socialism and communism as two distinct political ideologies.*
-- **Directive:** Compare at 10 marks — an axis is required before any content. **Apparatus:** the definitional problem, the three definitions, and the four discriminators of the method question. **Taught in:** Lesson 1, with Lessons 3 and 4 for breadth and the directional criterion.
-- **Route:** open on the contest with Joad, settle it with one precise definition, then run the method axis: **by degrees** and **compromise** inside **the liberal tradition** against **socialism in its totality** and **a direct attack on the prevailing contradictions** inside **the Marxist tradition**. ⚠️ The highest-value move is the fourth discriminator — **harmony or equilibrium** against the repudiation of equilibrium and the aim of destroying **the conditions of domination itself** — because it converts a tempo contrast into a disagreement about whether class interests can be reconciled. ⚠️ Note also that the pair is asymmetrical: socialism is the family term and communism the Marxist branch's end-state.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** declare comparison axes before exposition—property, state, method, class and end-state. Lessons 1, 3 and 4 contribute the socialist-family and evolutionary/revolutionary distinctions; the complete communist doctrine and verdict remain with the owner.
 
 **2023, Paper II, Section A, Q1(b) [10 marks] (SKYC-B-PHLY)**
 *Critically examine the anarchist's view that "all States always and everywhere are illegitimate and unjust."*
-- **Directive:** Critically examine a quoted proposition — criterion first, then faithful exposition, then test. **Apparatus:** the authority ledger. **Taught in:** Lesson 7, with Lesson 9 for the counter-instances and the appraisal.
-- **Route:** grant the first half — the shared aim is **abolition of the state**, stated without qualification, and the philosophical school denies that **any individual, whether state official or not, has the right to command the obedience of another**. Then show what the view does **not** assert, which is where most answers fail: **most anarchists recognize the rational form of authority, particularly the authority of experts**, together with **the moral authority of collective decisions taken in a genuinely democratic manner** and norms such as **'contracts should be kept'**. Add the counter-instances from the individualist pole — libertarians who hold the state **a positive evil** yet **do not recommend to abolish the state altogether**. Close with the chapter's appraisal rather than an imported objection.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** separate the legitimacy of the state from rational, moral and participatory authority, then test the quoted universal through anarchism's internal diversity and objections. Lessons 7 and 9 supply the authority ledger and appraisal; the owner controls the final judgment.
 
 **2021, Paper II, Section A, Q3(a) [20 marks] (HXS-B-PHLY)**
 *Discuss anarchism as a political ideology. Is it possible to dispense with political authority completely? Give reasons for your answer.*
-- **Directive:** a two-part Discuss at 20 marks — exposition plus a reasoned verdict; the second half must be answered explicitly. **Apparatus:** definition, lineage, range statement, authority ledger, the six schools, and the three-move appraisal. **Taught in:** Lessons 7, 8 and 9 — this is the topic's 20-marker.
-- **Route:** build the exposition on the range statement so the schools are not presented as one position, then give the socialist pole by its three distributive rules and the individualist pole by its two, and answer the second question **no**, from inside the doctrine: what is dispensable is **coercive** authority, while rational, moral and participatory authority are **retained**, so that participatory decisions in **a commune or workers' cooperative** are **morally binding**. Support the negative with the appraisal's reductio and its scale argument, and close by granting the significance — **devising suitable means to curb that power**.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** visibly separate exposition from the question about complete dispensability. Lessons 7–9 contribute definition, range, schools, retained authority and objections; competing conclusions about necessary coordination and binding authority remain with the owner.
 
 **2020, Paper II, Section A, Q1(e) [10 marks] (URC-B-PHLY)**
 *Do you think that the prevailing pandemic will lead to anarchism in society? Discuss.*
-- **Directive:** Discuss a conditional prediction — the answer must take a position. **Apparatus:** the doctrine-versus-disorder distinction and the appraisal's scale argument. **Taught in:** Lesson 7, with Lesson 9's appraisal cutting the other way.
-- **Route:** the decisive first move is terminological, and it is available without leaving the chapter: *anarchy* is used in this very chapter in two senses — as **doctrine**, a stateless order, and as **disorder**, in Webb's **anarchy of competitive struggle**. A crisis may produce the second; it does not produce the first, which requires a positive organising principle such as **'the federal principle'**, mutual aid or federated communes. ⚠️ The appraisal then reverses the expected direction: against problems of that scale the chapter holds **authority of the state is inadequate** and argues for **some global authority ... to supplement authority of the state**. So a crisis of this kind strengthens the case for coordinated authority rather than for its abolition. ❌ Do not attach any dated fact, figure or country to this answer from this topic.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** distinguish anarchy as disorder from anarchism as an organised ideology, then test multiple possible effects of crisis on mutual aid, state authority and coordination. Lessons 7 and 9 supply the conceptual distinction and scale objection; empirical and final causal judgment remain with the owner.
 
 **2019, Paper II, Section A, Q1(c) [10 marks] (SDF-B-PHLY)**
 *Evaluate Mahatma Gandhi as a political anarchist.*
-- **Directive:** Evaluate — a classification must be scored, not merely described. **Apparatus:** the pacific-anarchism criterion and the Gandhian doctrine's own end-state. **Taught in:** Lesson 10, with Lesson 9's Tolstoy material and Lesson 11's end-state criterion. ⚠️ **This is the one stem in the corpus that no other topic can answer**, because it needs the anarchist taxonomy and the Gandhian apparatus together.
-- **Route:** score the classification on three tests. **Lineage:** pacific anarchism, advocated **on moral grounds**, denounces the state as **organized violence** and calls on people **to disobey its immoral commands** — and the chapter states that **Gandhi was inspired by these ideas in developing his philosophy of non-violence**. **End-state:** on the printed comparison, the Gandhian state is **a soulless machine for enforcing rules and regulations without human sensitivity and a sense of moral responsibility**, which **will become redundant** when everybody becomes **self-disciplined and self-regulated** — a stateless end-state reached morally. **Fit:** the anarchist family is defined by **abolition of the state**, while the Gandhian condition is **redundancy** through universal self-discipline, and the constructive programme of trusteeship and bread labour has no anarchist parallel. ⚠️ Verdict: an anarchist in end-state and in moral method, not in the family's abolitionist sense — and note that the same chapter declines full membership to Sorel on a comparable fit test.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** evaluate the classification through lineage, critique of coercion, method, view of the state and end-state. Lessons 9–11 contribute Gauba's Tolstoy link and Gandhian apparatus; the owner supplies the complete classification and verdict.
 
 **2018, Paper II, Section A, Q2(c) [15 marks] (EGT-D-PHLY)**
 *Do you subscribe to the political ideology of Anarchists ? Justify your answer.*
-- **Directive:** a personal-position stem at 15 marks — the position must be stated and then justified against the strongest contrary case. **Apparatus:** the full appraisal, with the diagnosis and the programme separated. **Taught in:** Lesson 9, with Lessons 7 and 8 for exposition.
-- **Route:** the defensible position is to **endorse the diagnosis and withhold assent from the programme**. Endorse: the schools **draw our attention to the tyranny of economic and political power which makes the life of people so miserable**, and the significance lies in **devising suitable means to curb that power**. Withhold: the reductio — if human nature were as benign as anarchism requires, **the ills afflicting human society under the state would not have arisen at all** — and the scale argument, which holds the anarchist vision **terribly inadequate** against worldwide problems. ⚠️ Strengthen the justification by noting that the family itself is not unanimous, so subscribing to "anarchism" without naming a school is not a position at all. 📝 The printed space before the question mark is preserved as the ledger records it.
+- **Primary owner:** `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`.
+- **Answer-neutral route:** state a position only after separating anarchism's diagnosis from its programmes and engaging the strongest objection and reply. Lessons 7–9 contribute the family range and appraisal; the owner's doctrine controls the justified conclusion.
 
 ## Shared and adjacency stems — real owners named, never claimed
 
 | Year · part · marks | Stem, abridged | **Primary owner — real** | What this topic contributes, and nothing more |
 |---|---|---|---|
-| **2021 Q3(b) [15]** | distinctive features of **Gandhian Socialism** and its contemporary relevance | `Political-Ideologies.md`; the trusteeship and *sarvodaya* substance is **Topic 21's** teaching route | ⚠️ **The classification half only** — *in what sense is this socialism?* — answered from Lesson 1's definitional test and Lessons 2–3's family roster. ❌ No *sarvodaya*, no Ruskin, no 1935 concession |
-| **2020 Q2(a) [20]** | State and examine the **Gandhian concept of social development** | `Development-Social-Progress.md`; **Topic 23** | ⚠️ The means/ends argument from Lesson 10 and trusteeship-as-doctrine from Lesson 11 only. ❌ No development model |
-| **2018 Q3(b) [15]** | Are **Marxian Socialism** and individual freedom consistent ? Discuss critically | `Political-Ideologies.md`; **Topic 04** | ⚠️ The **socialist-family frame** — that socialism is wider than Marxism (Lesson 1), and that the evolutionary branch answers the freedom charge differently (Lessons 2–4) |
-| **2025 Q2(b) [15]** | Evaluate **Marxism** as a Political Ideology | `Political-Ideologies.md`; **Topic 04** | ⚠️ Contrast material only — the method axis of Lesson 1 and the comparison table of Lesson 11 |
-| **2019 Q1(e) [10]** | Can **gender equality** be realised within a socialist regime? Analyse | `Gender-Discrimination.md` | ⚠️ Two clauses: the Fabian aim of **equal citizenship for men and women** (Lesson 2) and Gandhi against discrimination **on the grounds of gender and faith** (Lesson 11) |
-| **2022 Q4(b) [15]** | Does idea of unconditional rights necessarily lead to **anarchy**? Critically examine | `Individual-and-State.md` | ⚠️ One decisive clarification — **anarchy as doctrine** against **anarchy as disorder** (Lesson 7), with Webb's **anarchy of competitive struggle** (Lesson 2) as proof that both senses occur in one chapter |
-| **2022 Q4(a) [20]** | Discuss **propaganda** as a challenge to democratic form of government | `Forms-of-Government.md` | ⚠️ Three items: Hitler on the **miraculous power of propaganda, especially of false propaganda**; Mussolini's **myth**, whose warrant is effect since **it is not necessary that it shall be a reality**; and Gramsci on **hegemony** as the mechanism of acceptance (Lessons 5–6) |
-| **2023 Q4(b) [15]** | challenges faced by a **democratic state** and the ways to overcome them | `Forms-of-Government.md` | ⚠️ Fascism as the **limit case** of a democratic state's failure, through the five printed liberal objections and the **hollow facade** sequence (Lessons 5–6) |
-| **2023 Q1(a)**, **2021 Q1(a)**, **2024 Q2(b)** | justice as fairness; Nozick's distributive theory; liberty and equality as ideals | `Social-Political-Ideals.md`; **Topics 18–20**, with **Topic 03** for the neo-liberal architecture | ❌ **Nothing from here.** Nozick appears in this topic **only** in his libertarian-anarchist function |
-| **2025 Q2(a) [20]**, 2022 Q2(b), 2023 Q3(b), 2024 Q1(c), 2018 Q1(c) | the Gandhi–Ambedkar **caste** cluster | `Caste-Gandhi-Ambedkar.md` | ❌ **Nothing.** This chapter's Gandhian equality covers **gender and faith**, not caste, and no caste route may be manufactured from it |
+| **2021 Q3(b) [15]** | distinctive features of **Gandhian Socialism** and its contemporary relevance | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`; *Sarvodaya* to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md` | ⚠️ Classification material only; no cross-owned *Sarvodaya* substance |
+| **2020 Q2(a) [20]** | State and examine the **Gandhian concept of social development** | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Development-Social-Progress.md`; Topic 23 | ⚠️ Means/ends and trusteeship doctrine only; no development model |
+| **2018 Q3(b) [15]** | Are **Marxian Socialism** and individual freedom consistent ? Discuss critically | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`; Topic 04 | ⚠️ Socialist-family comparison only |
+| **2025 Q2(b) [15]** | Evaluate **Marxism** as a Political Ideology | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`; Topic 04 | ⚠️ Contrast material only |
+| **2019 Q1(e) [10]** | Can **gender equality** be realised within a socialist regime? Analyse | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Gender-Discrimination.md` | ⚠️ Fabian equal citizenship and Gauba's gender-and-faith clause only |
+| **2022 Q4(b) [15]** | Does idea of unconditional rights necessarily lead to **anarchy**? Critically examine | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Individual-and-State.md` | ⚠️ Anarchy-as-doctrine versus anarchy-as-disorder clarification only |
+| **2022 Q4(a) [20]** | Discuss **propaganda** as a challenge to democratic form of government | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Forms-of-Government.md` | ⚠️ Myth, propaganda and hegemony material only |
+| **2023 Q4(b) [15]** | challenges faced by a **democratic state** and the ways to overcome them | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Forms-of-Government.md` | ⚠️ Fascism as a limit case only |
+| **2023 Q1(a)**, **2021 Q1(a)**, **2024 Q2(b)** | justice as fairness; Nozick's distributive theory; liberty and equality as ideals | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Social-Political-Ideals.md`; Topics 18–20 and Topic 03 | ❌ No route from Topic 05 |
+| **2025 Q2(a) [20]**, 2022 Q2(b), 2023 Q3(b), 2024 Q1(c), 2018 Q1(c) | the Gandhi–Ambedkar **caste** cluster | `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Caste-Gandhi-Ambedkar.md` | ❌ No route from Topic 05 |
 
 ## 2025, declared empty
 
-⚠️ **No stem in the 2025 paper (`SLPM-B-PHL`) is owned by this topic.** Its two closest parts are named so that silence is not mistaken for oversight: **Q2(b) [15]**, *Evaluate Marxism as a Political Ideology*, whose primary owner is `Political-Ideologies.md` with the teaching route at **Topic 04**, to which this topic contributes only contrast material; and **Q2(a) [20]**, on the Gandhi–Ambedkar debate on caste discrimination, whose primary owner is `Caste-Gandhi-Ambedkar.md` and to which this topic contributes **nothing**.
+⚠️ **No stem in the 2025 paper (`SLPM-B-PHL`) is owned by this topic.** Q2(b) routes to `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md`; Q2(a) routes to `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Caste-Gandhi-Ambedkar.md`.
 
 ## General Studies and Essay — the real owner files, named once each
 
@@ -1708,14 +1702,14 @@ Revision notes:
 
 | Printed demand | Paper | **Real owner file** |
 |---|---|---|
-| *Challenge to the democratic state system between the two World Wars* (2021 GS-I Q13, 15/250) | GS-I | `World-History\advanced\12_Rise-of-Fascism-Italy-Germany-Japan.md` |
-| *Significance of Mahatma Gandhi's thought in present times* (2018 GS-I Q3, 10/150) | GS-I | `Modern-Indian-History\advanced\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md` · `Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` |
-| *The significance of the Gandhian movements lay in the masses they mobilized* (2026 GS-I Q3, 10/150) | GS-I | `Modern-Indian-History\basic\20_Non-Cooperation-and-Khilafat-Movement.md` |
-| *Constructive programmes of Mahatma Gandhi* (2021 GS-I Q12, 15/250) | GS-I | `Modern-Indian-History\advanced\20_Non-Cooperation-and-Khilafat-Movement.md` |
-| *Applying Gandhi's trusteeship to ensure fairness in governance* (2026 GS-IV Q3(b), 10) | GS-IV | `Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` **§10B**, which holds the seven-step administrative ladder |
-| *Ambedkar, civil disobedience and the "grammar of anarchy"* (2026 GS-IV Q3(a), 10) | GS-IV | `Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` **§10A** |
-| Gandhi quotation-reflection sets (2018, 2019, 2020 GS-IV Q6) | GS-IV | `Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` · `Ethics\basic\07_Western-Moral-Philosophers-and-Thinkers.md` |
-| All eight 2026 Essay prompts | Essay | `Essay\basic\02_Philosophical-Quote-Decoding.md` · `Essay\basic\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md` · `Essay\basic\12_India-Centric-Illustration-Bank.md` · `Essay\basic\11_Cross-Sector-Lenses-and-Scale.md` · `Essay\basic\08_Argument-Counterargument-and-Synthesis.md` |
+| *Challenge to the democratic state system between the two World Wars* (2021 GS-I Q13, 15/250) | GS-I | `upsc-ai-kit\knowledge\World-History\advanced\12_Rise-of-Fascism-Italy-Germany-Japan.md` |
+| *Significance of Mahatma Gandhi's thought in present times* (2018 GS-I Q3, 10/150) | GS-I | `upsc-ai-kit\knowledge\Modern-Indian-History\advanced\19_Gandhis-Rise-Rowlatt-and-Jallianwala.md` · `upsc-ai-kit\knowledge\Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` |
+| *The significance of the Gandhian movements lay in the masses they mobilized* (2026 GS-I Q3, 10/150) | GS-I | `upsc-ai-kit\knowledge\Modern-Indian-History\basic\20_Non-Cooperation-and-Khilafat-Movement.md` |
+| *Constructive programmes of Mahatma Gandhi* (2021 GS-I Q12, 15/250) | GS-I | `upsc-ai-kit\knowledge\Modern-Indian-History\advanced\20_Non-Cooperation-and-Khilafat-Movement.md` |
+| *Applying Gandhi's trusteeship to ensure fairness in governance* (2026 GS-IV Q3(b), 10) | GS-IV | `upsc-ai-kit\knowledge\Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` §10B |
+| *Ambedkar, civil disobedience and the "grammar of anarchy"* (2026 GS-IV Q3(a), 10) | GS-IV | `upsc-ai-kit\knowledge\Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` §10A |
+| Gandhi quotation-reflection sets (2018, 2019, 2020 GS-IV Q6) | GS-IV | `upsc-ai-kit\knowledge\Ethics\basic\06_Indian-Moral-Thinkers-and-Philosophers.md` · `upsc-ai-kit\knowledge\Ethics\basic\07_Western-Moral-Philosophers-and-Thinkers.md` |
+| All eight 2026 Essay prompts | Essay | `upsc-ai-kit\knowledge\Essay\basic\02_Philosophical-Quote-Decoding.md` · `upsc-ai-kit\knowledge\Essay\basic\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md` · `upsc-ai-kit\knowledge\Essay\basic\12_India-Centric-Illustration-Bank.md` · `upsc-ai-kit\knowledge\Essay\basic\11_Cross-Sector-Lenses-and-Scale.md` · `upsc-ai-kit\knowledge\Essay\basic\08_Argument-Counterargument-and-Synthesis.md` |
 
 **The two syllabus clauses that reach this topic, both partial.** The GS-I clause on *political philosophies like communism, capitalism, socialism etc. — their forms and effect on the society* lists this topic's core owner among its sources, while **chronology, wars and decolonisation remain direct World History ownership**. The GS-IV clause on *contributions of moral thinkers and philosophers from India and world* draws **supplementary thinker vocabulary only** from here, while the **direct answer architecture remains Ethics**. ⚠️ Both clauses stay partial and neither is written up here as a route.
 
@@ -2046,7 +2040,7 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 - Ahimsa, negative: **abstention from violence in one's behaviour toward other living beings**. Positive: **love of all**, extended **not only to those who love us, but also to those who hate us**; **Bose (1948)** — **It is non-violence only when we love those that hate us ... Love of the hater is the most difficult of all.**
 - 🔑 Four extensions of violence: **the intention to harm somebody or wishing him ill** · **hatred or malice to anyone** · **acquiring material things beyond one's immediate need**, because **thereby we deprive others of their share** · **spreading atmospheric pollution and damaging public health**. Hence non-violence **embraces all rules of good citizenship and human decency**.
 - Strength: **non-violence is not the resort of the weak; it is the power of the strong** — **his moral power**, from **the firm adherence to truth**, producing a **'change of heart' of the mighty opponent**; **the art of gaining victory over physical force by spiritual force**; **the method of self-purification**.
-- 📰 **2 October 2026** — Gandhi Jayanti, the **157th** birth anniversary of M.K. Gandhi (**b. 2 October 1869, Porbandar**); the same date is observed by the United Nations as the **International Day of Non-Violence**, declared **2007**. The edition's only dated anchor, used once, at Lesson 10.
+- 📰 **2 October 2026** — Gandhi Jayanti, **157th** birth anniversary; UN **International Day of Non-Violence**, A/RES/61/271. Used only as Lesson 10's ahimsa anchor.
 
 ## I. Gandhism — trusteeship, bread labour, and Gandhi against Marx
 
@@ -2059,7 +2053,7 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 - Printed table, PDF p.83 (69), nine issues: **Philosophical Basis** — **Materialism; Scientific Socialism** / **Spiritualism; Moral Individualism** · **Attitude toward Religion** · **Attitude toward Technology** · **Basis of Classes** · **Recommended Relation between Classes** · **Way to Achieve Classless Society** · **Nature of the State** · **Way to Achieve Stateless Society** · **Image of Future Society**.
 - 🔑 Two decisive cells: the state as **an instrument of class domination** against **a soulless machine for enforcing rules and regulations without human sensitivity and a sense of moral responsibility**; and **the state will 'wither away'** after **full development of the forces of production** against **the state will become redundant** when everybody becomes **self-disciplined and self-regulated**.
 - ⚠️ Convergences worth naming: both future images are of **a self-regulated society**, regulated by a **distributive principle** in one and by **self-discipline and minimum needs** in the other; and the Marxian route includes **compulsory labour**, converging with **bread labour** from opposite premises.
-- ⚠️ Table reassembled from interleaved column fragments, with four presentational in-cell corrections; all nine rows complete; reassembly reused, not re-derived.
+- ⚠️ The nine-row comparison preserves the complete p.83 content.
 
 ## J. 🔶 The bounded conservatism control
 
@@ -2078,7 +2072,7 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 - Default close in the Lesson 4 shape: concede → score against a named alternative → locate the missing condition → state the conditional → add the proviso.
 - Three standing checks before submitting: **edition** — every claim is 2009, and no present-day entity is classified; **provenance** — every quotation is from the chapter's own printed blockquotes, everything else is paraphrase; **boundary** — no constitutional article, scheme, case, figure or named public figure is asserted from this topic, and no *sarvodaya*, development model or caste argument is imported.
 
-## L. Twelve formulations worth carrying close to verbatim
+## L. Twelve exam-ready formulations
 
 - **Socialism ... is like a hat that has lost its shape because everybody wears it.**
 - **Liberty and equality granted to citizens in the political sphere will remain an empty form unless they are accompanied by a reorganization of the economic life of society.**
@@ -2095,7 +2089,7 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 
 # COVERAGE MATRIX
 
-| Lesson | Core owner §§ | Advanced owner §§ | Book (PDF pp. / printed pp.) | Practice |
+| Lesson | Basic canonical §§ | Advanced canonical §§ | Book (PDF pp. / printed pp.) | Practice |
 |---|---|---|---|---|
 | 1 | §§3–5, 13 | §§3–4, 6 | 55–56 / 41–42 | Concept check; 10-mark model and rubric |
 | 2 | §§6, 12.1, 16 Unit 1 | §5 | 56–59 / 42–45 | Concept check; 10-mark model and rubric |
@@ -2113,40 +2107,11 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 
 **Coverage confirmations.**
 
-- **All eighteen decisive payloads appear in the lesson that owns them, with both page numbers.**
-
-| # | Payload | PDF p. (printed) | Lesson |
-|---|---|---:|---|
-| D1 | Joad (1924), the hat that has lost its shape | 55 (41) | L1 |
-| D2 | The Oxford English Dictionary and Schumpeter (1942) definitions | 55 (41) | L1 |
-| D3 | The substantive-rights premise — political liberty and equality **remain an empty form** | 55 (41) | L1 |
-| D4 | The harmony/equilibrium against repudiation discriminator | 56 (42) | L1 |
-| D5 | Quintus Fabius (275–203 B.C.) and the full motto | 57 (43) | L2 |
-| D6 | The Ricardian Law of Rent box, Ricardo (1772–1823) | 57 (43) | L2 |
-| D7 | Webb's four conditions of organic change, *Fabian Essays* (1889) | 59 (45) | L2 |
-| D8 | Webb's redefinition of democracy, with **the anarchy of competitive struggle** | 59 (45) | L2 |
-| D9 | Syndicalism (1899–1937) and guild socialism (1916–1926), four tenets each | 60–61 (46–47) | L3 |
-| D10 | The directional criterion — **tilt the balance in favour of the weaker ...** | 62 (48) | L4 |
-| D11 | The Market Socialism box and the dated country ledger | 62–63 (48–49) | L4 |
-| D12 | The printed CONCLUSION on evolutionary socialism | 63 (49) | L4 |
-| D13 | The fasces etymology — rods, axe helve, Lictors, Roman consuls | 64 (50) | L5 |
-| D14 | Dunner, *Dictionary of Political Science* (1965), quoted whole | 66 (52) | L5 |
-| D15 | Godwin (1756–1836), *Enquiry* (1793), **the first systematic defence**; Proudhon only the first to call himself an anarchist | 73 (59) | L7 |
-| D16 | The range statement — extreme socialism to extreme individualism | 73 (59) | L7 |
-| D17 | Stirner (1806–56), *The Ego and his Own* (1845); Wolff, *In Defense of Anarchism* (1970) | 74 (60) | L7 |
-| D18 | Libertarian anarchism entire — Spencer's blessedness of anarchy, Hayek (1973), Nozick (1974), Taylor (1982), **a positive evil**, **natural society** | 77 (63) | L9 |
-
-- **Cluster allocation holds**: socialism **4** (L1–L4) · fascism **2** (L5–L6) · anarchism **3** (L7–L9) · Gandhism **2** (L10–L11) · synthesis **1** (L12). ⚠️ Fascism is **halved against its page share** and anarchism **raised against its page share**, on the verified-demand metric stated in the front matter; the allocation is an output of that metric and not of page count.
-- **Lesson contract.** Each of the twelve lessons carries a progress line, a fully delimited pre-teach checklist, one visual in its own distinct grammar, a doctrine or argument spine, explicit GS-II, GS-IV and Essay deployment, one answer framework, between eight and twelve revision notes, exactly one concept check with a model and a misconception note, and one original Mains question with a complete model and a unique quantified rubric.
-- **Visual grammars, twelve and all distinct.** L1 decision tree · L2 dated rail with a conditions ladder · L3 four-by-four revision matrix · L4 scorecard panel · L5 etymology-to-institution rail with an inversion mirror · L6 twin causal chains converging on a reconciliation · L7 two-column authority ledger with a nested school tree · L8 three-rule comparison block · L9 spectrum strip with flagged points · L10 seed-to-tree diagram with an ahimsa polarity bar · L11 mechanism flow with the printed nine-row table · L12 scored separation grid with a three-route comparison. ⚠️ No card is repeated, and every visual is content-sized and inline.
-- **Size discipline.** Every lesson-local 10-mark model is within **150 words**; every final 15- and 20-mark model and every cumulative-check model is within **250 words**.
-- **Boundaries.** Nothing is taken from **PDF p.54 (40) or earlier**, which is Topic 04's close, or from **PDF p.84 (70) or later**, where the chapter's feminism section opens and Topic 06 begins. **Exactly one backward pointer** to Topic 04 is made, at Lesson 1, and **exactly one forward pointer** to Topic 06, at Lesson 12. Other topics are named as **owners of excluded material**, which the routing requirement makes unavoidable, and no such naming is a teaching pointer.
-- **Declared exclusions, carried forward and honoured item by item.** The *sarvodaya* borrow from the common-good chapter is **dropped** from this edition and replaced by one clause plus a named owner at Lesson 11; the Gandhian development model and its alternative-paths table are excluded; the neo-liberal architecture of Hayek, Friedman and Nozick is excluded, with the libertarian overlap used in its **anarchist function only**; Marxism's own apparatus is excluded; corporatism as institutional design is excluded; the Gandhi–Ambedkar caste debate is excluded; the conservatism module is reduced to **three** bounded items; and no compiled multiple-choice corpus is created.
-- **Provenance upgrade applied, once.** The Gandhi–Tolstoy link is carried as ✅ for the **non-violence-influence claim only**, on the chapter's own sentence at **PDF p.77 (63)**; the ⚠️ hedge is retained for any letter, date, correspondence or publication title.
-- **Verified-demand coverage.** All **seven** primary stems are routed to the lessons that own their apparatus: 2026 Q1(c) → L9 with L7 and L1–L4; 2024 Q1(e) → L1 with L3–L4; 2023 Q1(b) → L7 with L9; 2021 Q3(a) → L7–L9; 2020 Q1(e) → L7 with L9; 2019 Q1(c) → L10 with L9 and L11; 2018 Q2(c) → L9 with L7–L8. **Five shared** and **five adjacency** stems are named with their real owners and the exact, bounded contribution this topic makes. **2025 is declared empty**, with its two closest parts named and attributed.
-- **Lesson-fusion record, internal to this topic.** ⚠️ This records how **this topic's own** twenty-four comprehensive lessons were compressed into twelve; **no topic is merged with any other**, and Topic 05 remains a standalone session. Comprehensive L1+L2 → Mains L1; L3+L4 → L2; L5+L6 → L3; L7 → L4; L8+L9 and half of L10 → L5; L11+L12+L13 → L6; L14+L15 → L7; L16 with the Bakunin half of L17 → L8; the Sorel and Tolstoy half of L17 with L18 → L9; L19+L20 → L10; L21+L22 → L11; L23+L24 → L12.
-- **Compaction record.** Against this topic's own comprehensive session this edition runs at **67.7%** of total words, with lessons falling from **24 to 12**; the teaching body runs at **58.2%**. ⚠️ The final arc runs at **105.4%** — slightly **longer** than the comprehensive session's, and deliberately so, because this edition carries the complete routing ledger with seven primary stems, ten shared and adjacency rows and eight named General Studies and Essay owner files, together with twelve-section register notes covering all four clusters. ⚠️ Compactness is an **outcome** of removing optional-only depth, bibliographic accumulation, repeated provenance litigation and encyclopaedic restatement — not of capping the lesson count or the word count. No definition, causal chain, major objection, balanced conclusion or piece of answer-writing practice was removed to reach a smaller number.
-- **Non-duplication.** Measured as 12-token shingles, **7.1%** of the final arc's distinct shingles also occur in the lesson body, and **6.7%** of this edition's distinct shingles occur in the comprehensive session. Both residuals are concentrated in source-quoted wording that must be reproduced identically to stay accurate.
+- Twelve lessons preserve the four ideology clusters, one concept check and one original 10-mark model per lesson.
+- Revision notes remain within 8-12 per lesson; lesson-local models remain within 150 words; cumulative and final 15/20-mark models remain within 250 words.
+- Seven Philosophy stems route to the exact primary owner and retain answer-neutral approaches.
+- Gauba's controlling span is PDF pp.55-83; Gandhism ends at p.83 and feminism begins at p.84.
+- Full-book copyright validation requires zero exact Gauba spans of twelve or more normalised tokens.
 
 # SOURCE LEDGER
 
@@ -2154,53 +2119,46 @@ Retrieval only. Teaching exposition is not repeated here. Every citation gives t
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical markdown | checked | `upsc-ai-kit\knowledge\Political-Theory\basic\05_Socialism-Fascism-Anarchism-and-Gandhism.md` (565 lines, §§1–22, including the Core-tier conservatism module at §22) and `upsc-ai-kit\knowledge\Political-Theory\advanced\05_Socialism-Fascism-Anarchism-and-Gandhism.md` (173 lines, §§1–13) read in full and mapped lesson by lesson in the coverage matrix. One owner correction is applied in this edition: the cross-chapter *sarvodaya* borrow at basic §12.4 is dropped and replaced by one clause plus a named owner |
-| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Layered/complete session | checked | `live_sessions\Political-Theory\05-Socialism-Fascism-Anarchism-and-Gandhism\Learning-Session-Live-Edition.md` (24 lessons) read as a **coverage and ordering map only** and left unchanged. Its Source Ledger, its 31-row OCR normalisation table and its 18 open uncertainties are reused as certified rather than re-derived, as is its reassembly of the PDF p.83 comparison table. No passage is copied; the overlap measurement records the residual |
-| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | The Advanced owner above; §6 supplied the four-verb method cross-cut, §7 the four appraisal verdicts set side by side, §8 the comparative axes, and §12 the factual-risk checks that became the misconception notes at Lessons 4, 6, 7, 9 and 11. Integrated as teaching rather than appended |
-| Ocr books | checked | O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Chapter 2, the socialism, fascism, anarchism and Gandhism sections at **PDF pp.55–83 (printed pp.41–69)**. The extraction of record for this pass is `.agent-scratch\pt05\gauba_050_090.txt`, covering **PDF pp.50–90** so that both boundaries could be fixed at the page. The underlying copy is the authorised local file at `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\philosphy_books\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf`, outside this worktree, recorded in the repository OCR audit as 591 of 591 pages searchable and reliable. Controlling source for every quotation, name, date and page anchor |
-| Pyqs through 2026 | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md` (112 parts) and `_PYQ-SocioPolitical-2026-Supplement.md` (14 parts) read for every part this topic can serve — **126 Section-A parts, 2018–2026**. Primary: KVMS-B-PHL (2026 Q1(c)), PHKM-B-PHL (2024 Q1(e)), SKYC-B-PHLY (2023 Q1(b)), HXS-B-PHLY (2021 Q3(a)), URC-B-PHLY (2020 Q1(e)), SDF-B-PHLY (2019 Q1(c)), EGT-D-PHLY (2018 Q2(c)). Shared and adjacency parts named with their real owners. SLPM-B-PHL (2025) declared empty for this topic. No General Studies question is owned, claimed or mirrored |
-| Official live sources | checked | One bounded live pass, confined to the single permitted anchor at Lesson 10: the date, the anniversary number and the United Nations observance of 2 October were re-verified at writing time against current reporting, which agrees that 2 October 2026 was the **157th** birth anniversary of M.K. Gandhi (b. 2 October 1869) and that the United Nations declared the date the International Day of Non-Violence in **2007**. ⚠️ This is verification against reporting, not against an official text, and no resolution number, theme, event, venue or attendance claim is attached. ❌ No other current item is carried, and no present-day entity is classified anywhere in this edition |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Political-Theory\basic\05_Socialism-Fascism-Anarchism-and-Gandhism.md` and `upsc-ai-kit\knowledge\Political-Theory\advanced\05_Socialism-Fascism-Anarchism-and-Gandhism.md`, certified at `8fb0469ec`, control Gauba PDF pp.55-83, Sidney Webb, Gandhi-Tolstoy attribution, Sarvodaya routing and strict 250-word guidance |
+| Final learner package | not relevant | Excluded as a substantive live-session source |
+| Layered/complete session | checked | `live_sessions\Political-Theory\05-Socialism-Fascism-Anarchism-and-Gandhism\Learning-Session-Live-Edition.md` used only as a coverage cross-check and left unchanged |
+| Solved workbook | not relevant | Excluded as a substantive live-session source |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Political-Theory\advanced\05_Socialism-Fascism-Anarchism-and-Gandhism.md` supplies comparative depth and source boundaries |
+| OCR books | checked | O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), exact repository path `books\philosphy_books\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf`, PDF pp.55-83; no scratch extract is required |
+| PYQs through 2026 | checked | Exact ledgers: `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md` and `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2026-Supplement.md`; all seven primary stems route to `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Political-Ideologies.md` |
+| Official live sources | checked | Gandhi Jayanti: `https://www.pmindia.gov.in/en/news_updates/pm-pays-tributes-to-mahatma-gandhi-on-his-jayanti-calls-for-promoting-swadeshi/`; International Day of Non-Violence: `https://www.un.org/en/academic-impact/international-day-non-violence-2-october-0`; General Assembly resolution: `https://docs.un.org/en/A/RES/61/271`; all accessed 5 Oct 2026 |
 
-⚠️ **Qdrant** was an optional fallback only; it was not required by this pass and no step waited on it. Markdown owners plus the verified extraction were sufficient on their own.
+## Scope and typing
 
-## Scope, typing and provenance
+- Political Theory supplies supplementary conceptual support and owns no General Studies or Essay PYQ.
+- Philosophy stems remain answer-neutral applications; full doctrine and verdicts remain with their exact Philosophy owners.
+- Gauba PDF pp.55-83 control the four ideology clusters. PDF p.77 directly grounds Gandhi's Tolstoy influence only; no letter, date or correspondence claim is added.
+- *Sarvodaya* is routed without substantive teaching to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`.
+- ⚠️ marks analytical synthesis or limitation; ❌ marks a trap or boundary; book-period historical claims are not current classifications.
 
-- A **Mains-focused** edition for GS-II, GS-IV and the Essay, and a **standalone session for Topic 05 alone**. It does not replace the comprehensive twenty-four-lesson session, which remains the unchanged reference layer for depth, and it is not merged with any neighbouring topic. The subject's twenty-three topics each keep a separate file.
-- **Page anchors** are to the local Fifth Edition (2009) copy, where **PDF page N carries printed page N − 14** throughout **PDF pp.55–84**, verified page by page. ⚠️ No universal offset is asserted for the rest of the book; a later chapter containing Gandhian material runs at a different offset, and the convention is never extrapolated beyond the cited range.
-- **Typing.** Unmarked statements carrying a page anchor are drawn from the source chapter. ⚠️ marks inference, synthesis or a flagged limitation; ❌ marks a trap or a prohibition; 🔑 marks a decisive payload; 🔶 marks the bounded conservatism control, which has **no** anchor in this chapter range; 📰 marks the single dated live anchor; ➡️ marks a one-line pointer to another topic; 📝 marks a note on printed wording. **Bold is not a quotation marker** — it also carries emphasis, headings and labels, and the diagrams and register notes paraphrase rather than reproduce.
-- **Quotation inventory.** Blockquotes are confined to the chapter's own printed blockquotes and boxes: Joad (1924); the Fabian motto; the Ricardian Law of Rent box; Webb's four conditions and his redefinition of democracy; the Market Socialism box; Ebenstein (1980) on fascism's essentials, on industrialists and weak democracy, on depression and on the spiritually homeless, and his dissent from the Marxist reading; the Idealism box; MacIver (1965) on Versailles, on the mob and on Mussolini's leadership; Dunner (1965); Laski (1935) on the rescue of capitalism, on class-relations and the rag-bag; Mussolini (1922, 1924, 1932); Almond and Powell (1966); the Commune box; Hayek (1973); Nozick (1974); Taylor (1982); and Gandhi through Bose (1948), Prabhu and Rao (1945), *Harijan* (1939), *Amrita Bazar Patrika* (1934) and the *Autobiography*. ❌ Every other named thinker is paraphrased as a proposition, and no year, edition or page is invented anywhere.
-- **The one General Studies and Essay rule.** This topic owns no such route; the statement appears once, at Lesson 12, and the real owner files are named in the routing table. ❌ No proxy owner, alias or synthetic route exists in this edition.
-- **Extraction normalisations, consolidated and reused.** The comprehensive session's **31-row** normalisation table is certified and reused without re-litigation. The practical effect in this edition is the reuse of that catalogue wherever the chapter's wording is reproduced: straight-ASCII quotation marks and apostrophes; rejoined line-break hyphenation and single spacing; the catalogue's letter-level scan corrections, among them `Maclver` → MacIver, `famities` / `alt` → families / all, `wordfasci` → the word *fasci* and `(193 8-2002)` → (1938–2002); its stray-punctuation corrections, among them `force , is legitimate` → force is legitimate, `the blackshirt Militia,,` → the blackshirt Militia, `truly 'owns himself;` → truly 'owns himself' and `The State in Theory'` → *The State in Theory and Practice*; the four presentational in-cell corrections inside the PDF p.83 table; and the leading ellipsis on the Almond and Powell passage, whose subject is absent from the local scan. ⚠️ As that session states, the catalogue is not asserted to be exhaustive of every scan artefact in a text of this length. It is therefore not true that no punctuation or spacing was altered. Subject to this, material introduced as the chapter speaking is reproduced as the chapter prints it.
+## Independent bibliography and name control
 
-## Open uncertainties
+All URLs below were accessed **5 Oct 2026**.
 
-Eighteen residual issues were inherited as certified and each is handled by a stated rule. None was reopened.
+| Item | Exact independent control |
+|---|---|
+| Sidney Webb | Encyclopaedia Britannica, “Sidney and Beatrice Webb”: `https://www.britannica.com/biography/Sidney-and-Beatrice-Webb` |
+| Sydney Olivier | Archives Hub/LSE record, “Olivier, Sir Sydney (1859-1943), Baron Olivier, Fabian”: `https://archiveshub.jisc.ac.uk/data/gb97-collmisc0829` |
+| Georges Sorel | Encyclopaedia Britannica: `https://www.britannica.com/biography/Georges-Sorel`; *Reflections on Violence*: `https://www.britannica.com/topic/Reflections-on-Violence` |
+| Edmund Burke | *Reflections on the Revolution in France* (1790): `https://archive.org/details/burkerevolutioninfrance`; “Speech to the Electors of Bristol” (1774): `https://en.wikisource.org/wiki/The_Works_of_the_Right_Honourable_Edmund_Burke/Volume_2/Speeches_at_Bristol,_1774` |
+| Thomas Paine | *Rights of Man*, Part I (1791): `https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed` |
+| Benjamin Disraeli | *Sybil; or, The Two Nations* (1845): `https://www.gutenberg.org/ebooks/3760` |
+| Michael Oakeshott | “Rationalism in Politics” (1947), collected in *Rationalism in Politics and Other Essays* (Methuen, 1962): `https://openlibrary.org/books/OL5854614M/Rationalism_in_politics_and_other_essays.` |
+| F. A. Hayek | “Why I Am Not a Conservative,” Postscript to *The Constitution of Liberty* (University of Chicago Press, 1960): `https://contemporarythinkers.org/friedrich-hayek/essay/conservative/` |
 
-1. ⚠️ **The fascism section's numeral.** It does not appear in the extraction of record; the section is called "the fascism section" throughout and no printed numeral is asserted.
-2. ⚠️ **Sidney or Sydney Webb.** The chapter prints *Sydney*; the standard form **Sidney Webb (1859–1947)** is used in the candidate's own voice and the variance is noted once.
-3. ⚠️ **Olivier's first name.** The chapter prints *Sidney* on one page and *Sydney* on the next; **Sydney Olivier (1859–1943)** is used and the variance is noted once.
-4. ⚠️ **George or Georges Sorel.** The chapter prints *George*; the owners and the standard form give **Georges Sorel (1847–1922)**, which is used here.
-5. ⚠️ **Stirner's work.** The chapter's form, *The Ego and his Own* (1845), is given and flagged once; ❌ no alternative German title or year is asserted.
-6. ⚠️ **Quintus Fabius's dates.** **275–203 B.C.** is reproduced as the chapter's.
-7. ⚠️ **The First International's founding body.** The chapter says it was founded by the **London Working Men's Association in 1864**; the standard record names a differently designated body in London in the same year. The year agrees; the body description is reported as the chapter's.
-8. ⚠️ **Japan.** Hedged at PDF p.64 (50) as a parallel **some writers try to find**, asserted at p.65 (51) in the quoted authority. Both are presented and neither is chosen; the chapter does not reconcile them.
-9. ⚠️ **Trotsky against the rejected lower-middle-class thesis.** The chapter rejects that thesis and then reports Trotsky's middle-class mass-base claim without comment. Both are reported and the tension is named; it is treated as material for a critical answer, not as an error to be corrected.
-10. ⚠️ **The Almond and Powell sentence.** It extracts without its subject; it is reproduced with a leading ellipsis and the argument is supported from the surrounding prose. ❌ No subject is reconstructed.
-11. ⚠️ **The PDF p.83 table.** It extracts as interleaved column fragments. The comprehensive session's reassembly of all nine rows, with its four presentational in-cell corrections, is reused. ❌ No re-extraction was attempted and no cell content is supplied, bracketed, dropped or reordered.
-12. ⚠️ **Godwin's work.** Called an *Enquiry* at PDF p.73 (59) and **his essay** at p.74 (60). The inconsistency is the chapter's and is noted once.
-13. ⚠️ **Libertarian placement.** Hayek and Nozick are filed inside a family defined by abolition of the state while the same page records that libertarians **do not recommend to abolish the state altogether**. ⚠️ The tension is taught as the source's and deliberately left unresolved, because it is the decisive evidence for the 2026 derivation stem.
-14. ⚠️ **Syndicalism's classification.** It is filed inside the evolutionary branch while preaching abolition of the political state and using the general strike. The fit problem is named; the chapter does not address it.
-15. ⚠️ **Previous-year transcription spacing.** The ledger transcription varies in the spacing before a question mark across years; the 2018 stems preserve the ledger's printed space. Official spacing is not independently confirmed.
-16. ✅ **The Gandhi–Tolstoy link.** Upgraded in this pass from ⚠️ to ✅ for the **non-violence-influence claim only**, on the chapter's own sentence at PDF p.77 (63). ⚠️ The hedge is retained for any specific letter, date, correspondence or publication title.
-17. ❗ **The *sarvodaya* citation.** The core owner's §12.4 draws *sarvodaya* from a different chapter of the same book. ❌ That borrow is **dropped** from this edition; one clause and a named owner replace it at Lesson 11. This is an owner correction applied here, not a change to the owner file.
-18. 🔶 **Conservatism provenance.** The whole control block is 🔶 throughout: no anchor exists in PDF pp.55–83, and only six bibliographic facts are asserted — 1790, 1774, 1791, 1845, 1947 collected 1962, and 1960. ❌ No page, chapter or verbatim sentence.
+## Verification notes
 
-Three further limits of this edition, stated plainly. ⚠️ **Edition discipline:** every substantive claim is from the **Fifth Edition, 2009**, and the Scandinavian and Indian illustrations, the market-socialism country ledger, the interwar material and the closing remark on surviving fascist tendencies are all book-period statements. ⚠️ **Live-pass limit:** the single dated anchor rests on reporting verified at writing time, not on an official text, and should be re-verified before being relied on as fact. ⚠️ **Scope limit:** this is a fast-preparation edition; minor exponents, full date registers, bibliographic extensions and optional-only depth are deliberately absent, and where a question demands them the comprehensive session is the correct source.
+1. Gauba prints *Sydney Webb*; candidate-facing prose uses independently verified **Sidney Webb**. **Sydney Olivier** and **Georges Sorel** follow the independent controls above.
+2. The seven primary Philosophy stems retain their verified wording and exact owner routes; their approaches do not prescribe conclusions.
+3. Fascism is analysed critically as a historical totalitarian pathology; no present-day entity is classified.
+4. The p.83 Gandhi-Marx comparison preserves all nine rows while substantive Marxist doctrine remains with Topic 04.
+5. The Gandhi Jayanti anchor is confined to 2 October 2026 and the UN non-violence observance; no event, theme, attendance or resolution-content claim is added beyond the cited official sources.
 
-## Subject boundary observed
+## Subject boundary
 
-This is **Topic 05 of twenty-three**, and it stays within its own syllabus unit. Material it needs but does not own is **named and deferred**, never reconstructed: the liberty, equality and property architecture and the property-justification debate to **Topic 18**; Gandhi's account of the common good, with *sarvodaya*, the trusteeship concession, *aparigraha* and *asteya*, the Ruskin origin and bread labour's printed purposes, to **Topic 21**; the Gandhian development model and its alternative-paths table to **Topic 23**; the liberal and neo-liberal architecture, including the entitlement triad and the rollback thesis, to **Topic 03**; historical and dialectical materialism, surplus value, alienation and the dictatorship of the proletariat to **Topic 04**; corporatism as institutional design to **Topic 22**; totalitarianism inside the end-of-ideology debate to **Topic 02**; the nature-of-politics grid and communitarian identity analysis to **Topic 07**; the theory of rights and of political obligation to **Topics 17 and 14** and the Philosophy individual-and-state owner; and caste in Gandhian and Ambedkarite thought to the Philosophy caste owner. The interwar historical record belongs to **World History**, the Indian national movement to **Modern Indian History**, and the ethics answer architecture to **Ethics**.
-
-No General Studies previous-year question is claimed, invented or mirrored anywhere in this edition. No constitutional article, amendment, judgment, reform year, budget figure, scheme name, case citation or named present-day public figure is asserted from this topic; that record belongs to Polity, Governance, Social Justice and Ethics. And no present-day country, party, movement, leader, government, period or community is characterised as fascist, neo-fascist, totalitarian, authoritarian, socialist, anarchist, conservative or New Right.
+Full Marxism remains with Topic 04; *Sarvodaya* and common-good doctrine with Topic 21; Gandhian development with Topic 23; neoliberal doctrine with Topic 03; corporatism with Topic 22; caste with `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Caste-Gandhi-Ambedkar.md`; the interwar historical record with World History; Indian national-movement facts with Modern Indian History; and applied moral-answer architecture with Ethics. No constitutional article, judgment, scheme, budget figure or present-day ideological classification is asserted here.
