@@ -740,7 +740,7 @@ alliances conditional and policy-responsive.
 | **Yāna** | marching/preparation/expedition |
 | **Āsana** | staying quiet/remaining poised |
 | **Saṃśraya** | seeking shelter/alliance |
-| **Dvaidhibhāva** | dual policy / combination strategy |
+| **Dvaidhībhāva** | dual policy / combination strategy |
 
 **Presupposition:** External sovereignty is relational and strategic rather than moralized into permanent friendship. ⚠️
 
