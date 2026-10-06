@@ -256,7 +256,7 @@ pairing is the single most examiner-rewarded move in this entire topic.
 
 > First diagnose whether each option treats dialectic as immanent movement or imports an external scheme.
 
-#### MCQ 1
+**MCQ 1: A**
 
 Which feature makes Hegel's dialectical method immanent?
 
@@ -265,14 +265,12 @@ B. A concept is measured by an external rule selected by the investigating think
 C. A concept is inferred from repeated observations of social and natural change.
 D. A concept is protected from contradiction by fixing its definition permanently.
 
-**Answer: A**
+- **A — Correct:** Immanent critique lets a determination disclose its own inadequacy and required transition.
+- **B — Incorrect:** An imported standard would make the movement external rather than self-developing.
+- **C — Incorrect:** Hegel illustrates dialectic historically, but its logical warrant is not empirical induction.
+- **D — Incorrect:** Understanding fixes definitions; dialectical reason shows why finite fixity cannot be final.
 
-- **A:** Immanent critique lets a determination disclose its own inadequacy and required transition.
-- **B:** An imported standard would make the movement external rather than self-developing.
-- **C:** Hegel illustrates dialectic historically, but its logical warrant is not empirical induction.
-- **D:** Understanding fixes definitions; dialectical reason shows why finite fixity cannot be final.
-
-#### MCQ 2
+**MCQ 2: B**
 
 What distinguishes determinate negation from an empty denial?
 
@@ -281,14 +279,12 @@ B. It negates a specific determination so that its precise defect shapes the nex
 C. It records a thinker's psychological doubt without altering the concept examined.
 D. It accepts formal inconsistency because any conclusion may then be derived.
 
-**Answer: B**
+- **A — Incorrect:** Blank rejection is abstract negation or scepticism, not a content-bearing transition.
+- **B — Correct:** The successor is determinate because it answers the limitation disclosed in the prior term.
+- **C — Incorrect:** Hegel's movement belongs to conceptual content, not merely to a subject's uncertainty.
+- **D — Incorrect:** Dialectical contradiction is not permission to use the formal principle of explosion.
 
-- **A:** Blank rejection is abstract negation or scepticism, not a content-bearing transition.
-- **B:** The successor is determinate because it answers the limitation disclosed in the prior term.
-- **C:** Hegel's movement belongs to conceptual content, not merely to a subject's uncertainty.
-- **D:** Dialectical contradiction is not permission to use the formal principle of explosion.
-
-#### MCQ 3
+**MCQ 3: C**
 
 Which account correctly states Hegel's three moments of thinking?
 
@@ -297,12 +293,10 @@ B. Understanding and reason operate independently, each governing a separate reg
 C. Understanding fixes; dialectical reason negates; speculative or positive reason unifies through mediation.
 D. Understanding supplies a thesis; history supplies an antithesis; intuition supplies a synthesis.
 
-**Answer: C**
-
-- **A:** Understanding initially fixes distinctions; it does not begin by dissolving them.
-- **B:** The moments are functions within one movement of thought, not sealed faculties.
-- **C:** The final movement comprehends why opposed determinations belong together without erasing their difference.
-- **D:** This substitutes heterogeneous sources for Hegel's immanent conceptual development.
+- **A — Incorrect:** Understanding initially fixes distinctions; it does not begin by dissolving them.
+- **B — Incorrect:** The moments are functions within one movement of thought, not sealed faculties.
+- **C — Correct:** The final movement comprehends why opposed determinations belong together without erasing their difference.
+- **D — Incorrect:** This substitutes heterogeneous sources for Hegel's immanent conceptual development.
 
 #### Mains transfer — defending an immanent transition
 
@@ -547,7 +541,7 @@ sense — the demand is the *logical* identity of the Absolute's being and its s
 
 > Track what is cancelled, preserved and transformed; if a static reading tempts you, redraw Becoming and measure.
 
-#### MCQ 4
+**MCQ 4: D**
 
 What is distinctive about Hegelian *Aufhebung*?
 
@@ -556,30 +550,26 @@ B. It preserves the earlier determination exactly as it stood before contradicti
 C. It balances two independent positions without changing the structure of either one.
 D. It cancels one-sidedness, preserves valid content and raises both moments into a unity.
 
-**Answer: D**
+- **A — Incorrect:** Pure cancellation would make development discontinuous and lose the truth of the earlier moment.
+- **B — Incorrect:** Unchanged preservation would retain the contradiction rather than overcome its one-sidedness.
+- **C — Incorrect:** A compromise leaves the opposed terms externally related; sublation transforms their relation.
+- **D — Correct:** The three senses explain why dialectical advance is both negative and cumulative.
 
-- **A:** Pure cancellation would make development discontinuous and lose the truth of the earlier moment.
-- **B:** Unchanged preservation would retain the contradiction rather than overcome its one-sidedness.
-- **C:** A compromise leaves the opposed terms externally related; sublation transforms their relation.
-- **D:** The three senses explain why dialectical advance is both negative and cumulative.
-
-#### MCQ 5
+**MCQ 5: A**
 
 Why are pure Being and pure Nothing inseparable at the opening of the *Logic*?
 
-A. Each lacks every determination, so thought finds no content by which to distinguish them.
-B. Nothing appears later in time and physically removes the reality previously called Being.
-C. Being denotes material existence, whereas Nothing denotes an empty region of space.
-D. Both are empirical concepts abstracted from alternating experiences of presence and absence.
+A. Each lacks all determination, so thought cannot distinguish one from the other.
+B. Nothing appears later in time and physically removes the reality once called Being.
+C. Being names material existence, whereas Nothing names an empty space.
+D. Both are empirical concepts abstracted from our alternating experiences of presence and absence in perception.
 
-**Answer: A**
+- **A — Correct:** Their equality is the equality of complete indeterminacy, whose truth is the movement of Becoming.
+- **B — Incorrect:** The transition is logical rather than a chronological event in which one stage destroys another.
+- **C — Incorrect:** Pure Being is not matter, and pure Nothing is not a spatial container lacking objects.
+- **D — Incorrect:** Hegel begins with conceptual immediacy, not an inductive summary of alternating perceptions.
 
-- **A:** Their equality is the equality of complete indeterminacy, whose truth is the movement of Becoming.
-- **B:** The transition is logical rather than a chronological event in which one stage destroys another.
-- **C:** Pure Being is not matter, and pure Nothing is not a spatial container lacking objects.
-- **D:** Hegel begins with conceptual immediacy, not an inductive summary of alternating perceptions.
-
-#### MCQ 6
+**MCQ 6: B**
 
 What does the category of measure add to quality and quantity?
 
@@ -588,12 +578,10 @@ B. It relates quantitative variation to the range and thresholds of a thing's qu
 C. It treats quantity as wholly independent of the qualities instantiated by determinate beings.
 D. It recommends moral moderation as the practical conclusion of the Doctrine of Being.
 
-**Answer: B**
-
-- **A:** Hegel does not subjectivise qualitative determination; he explains its relation to magnitude.
-- **B:** Measure joins quality and quantity and makes possible nodal thresholds or qualitative leaps.
-- **C:** Indifferent quantity is the abstraction that measure overcomes by restoring determinate relation.
-- **D:** The logical category of measure is not an ethical maxim about avoiding personal excess.
+- **A — Incorrect:** Hegel does not subjectivise qualitative determination; he explains its relation to magnitude.
+- **B — Correct:** Measure joins quality and quantity and makes possible nodal thresholds or qualitative leaps.
+- **C — Incorrect:** Indifferent quantity is the abstraction that measure overcomes by restoring determinate relation.
+- **D — Incorrect:** The logical category of measure is not an ethical maxim about avoiding personal excess.
 
 #### Mains transfer — explaining Becoming without chronology
 
@@ -670,7 +658,7 @@ retains and organises its own differentiations **within itself**; it is a whole 
 remains itself *through* its particulars. Truth, correspondingly, is not a bare abstraction hovering above
 particulars but the **Whole** — the system fully articulated:
 
-> ✅ *"The True is the Whole. But the Whole is nothing other than the essence completing itself through its own
+> ✅ *"The True is the Whole. But the Whole is nothing other than the essence completing itself through its
 > development."* (*Phenomenology*, Preface)
 
 ### 2. Identity-in-difference — precise statement ✅
@@ -858,7 +846,7 @@ different architectural claims (see the Part A boundary caution).
 
 > Distinguish abstract classification from self-particularising universality, then reconstruct U–P–I mediation.
 
-#### MCQ 7
+**MCQ 7: C**
 
 What distinguishes a concrete universal from an abstract universal?
 
@@ -867,30 +855,26 @@ B. It is one privileged individual selected to represent all other members of th
 C. It differentiates itself into particulars and remains itself through their organised relations.
 D. It removes every difference until only the thinnest feature common to all instances remains.
 
-**Answer: C**
+- **A — Incorrect:** Concrete means mediated and internally articulated, not simply visible or touchable.
+- **B — Incorrect:** An individual realises a universal but does not become interchangeable with the whole universal.
+- **C — Correct:** The concrete universal is actual through particularisation and individuality, not above them.
+- **D — Incorrect:** Subtractive classification produces the abstract universal that Hegel considers inadequate.
 
-- **A:** Concrete means mediated and internally articulated, not simply visible or touchable.
-- **B:** An individual realises a universal but does not become interchangeable with the whole universal.
-- **C:** The concrete universal is actual through particularisation and individuality, not above them.
-- **D:** Subtractive classification produces the abstract universal that Hegel considers inadequate.
-
-#### MCQ 8
+**MCQ 8: D**
 
 How are essence, appearance and actuality related in Hegel's Logic?
 
-A. Essence remains a hidden noumenal object while appearance forms a separate phenomenal realm.
+A. Essence stays a hidden noumenal object behind things, while appearance constitutes a wholly separate phenomenal realm.
 B. Appearance is deceptive sense-data, whereas actuality belongs only to private conceptual thought.
-C. Essence and appearance alternate historically until one permanently displaces the other.
-D. Essence must appear, and actuality is their effective unity in a realised intelligible structure.
+C. Essence and appearance alternate historically until one finally displaces the other.
+D. Essence must appear, and actuality is their effective unity within a realised intelligible structure.
 
-**Answer: D**
+- **A — Incorrect:** A permanently hidden essence would recreate the external beyond rejected in Hegel's critique of Kant.
+- **B — Incorrect:** Appearance is objective manifestation, and actuality is not confined to a thinker's mental state.
+- **C — Incorrect:** The relation is logical mediation rather than a chronological competition between two stages.
+- **D — Correct:** Actuality (*Wirklichkeit*) unites reflected essence with the existence in which it operates.
 
-- **A:** A permanently hidden essence would recreate the external beyond rejected in Hegel's critique of Kant.
-- **B:** Appearance is objective manifestation, and actuality is not confined to a thinker's mental state.
-- **C:** The relation is logical mediation rather than a chronological competition between two stages.
-- **D:** Actuality (*Wirklichkeit*) unites reflected essence with the existence in which it operates.
-
-#### MCQ 9
+**MCQ 9: A**
 
 Why does Hegel treat the syllogism as more than a formal inference pattern?
 
@@ -899,12 +883,10 @@ B. It replaces judgement because subject and predicate can never be distinguishe
 C. It establishes that every empirical conclusion follows necessarily from the categories of Logic.
 D. It reduces reasoning to the traditional mnemonic of major premise, minor premise and conclusion.
 
-**Answer: A**
-
-- **A:** The inference displays mediation as the intelligible structure of a whole, not merely a rule for deriving a conclusion.
-- **B:** The earlier predicative form remains a necessary but incomplete moment rather than being discarded.
-- **C:** The syllogism articulates intelligibility; it does not deduce every contingent empirical fact.
-- **D:** Traditional form is included, but Hegel assigns the syllogism a systematic ontological role.
+- **A — Correct:** The inference displays mediation as the intelligible structure of a whole, not merely a rule for deriving a conclusion.
+- **B — Incorrect:** The earlier predicative form remains a necessary but incomplete moment rather than being discarded.
+- **C — Incorrect:** The syllogism articulates intelligibility; it does not deduce every contingent empirical fact.
+- **D — Incorrect:** Traditional form is included, but Hegel assigns the syllogism a systematic ontological role.
 
 #### Mains transfer — reconstructing the system from the Concept
 
@@ -1046,13 +1028,13 @@ unequal recognition and its continuation into thought.
   10.
 - The passage **continues** into Stoicism → Scepticism → Unhappy Consciousness (Lesson 5); do not stop halfway.
 - **Trap / limit:** it proves unequal recognition is *conceptually* unstable, not *historically* short-lived.
-- **Practice link:** MCQs 10–12; PYQs 2021 Q2(a), 2022 Q3(b) (as the concrete instance).
+- **Practice link:** MCQs 10–13; PYQs 2021 Q2(a), 2022 Q3(b) (as the concrete instance).
 
 ### Test recognition and dependence
 
 > Follow who recognises whom and who works on the object; a missed answer requires redrawing the dependence reversal.
 
-#### MCQ 10
+**MCQ 10: B**
 
 What initiates the lordship-bondage relation in the *Phenomenology*?
 
@@ -1061,44 +1043,52 @@ B. Two self-consciousnesses demand recognition and enter a struggle in which one
 C. One consciousness possesses natural authority that the other immediately acknowledges.
 D. Two property owners dispute an external object without questioning their own independence.
 
-**Answer: B**
+- **A — Incorrect:** Contract presupposes recognised persons, whereas the episode examines how recognition is first sought.
+- **B — Correct:** The asymmetry emerges from the struggle for recognition and the unequal response to death.
+- **C — Incorrect:** Lord and bondsman are results of the encounter, not fixed natural character types.
+- **D — Incorrect:** The object matters through desire and labour, but the governing issue is self-conscious recognition.
 
-- **A:** Contract presupposes recognised persons, whereas the episode examines how recognition is first sought.
-- **B:** The asymmetry emerges from the struggle for recognition and the unequal response to death.
-- **C:** Lord and bondsman are results of the encounter, not fixed natural character types.
-- **D:** The object matters through desire and labour, but the governing issue is self-conscious recognition.
-
-#### MCQ 11
+**MCQ 11: C**
 
 Why does the lord's apparent independence reverse into dependence?
 
-A. The lord abandons recognition and therefore becomes indifferent to every social relationship.
-B. The bondsman's recognition becomes reciprocal enough to stabilise the lord's independent status.
-C. The lord receives recognition from a subordinated other and relies on that other's labour.
-D. The lord shapes the resistant object directly and thereby acquires the discipline of labour.
+A. The lord abandons recognition and becomes indifferent to social relations.
+B. The bondsman's recognition becomes reciprocal enough to secure the lord's independent standing.
+C. The lord secures recognition exclusively from a subordinated other and depends on that other's labour.
+D. The lord directly shapes the resistant object and thereby acquires the formative discipline of its labour.
 
-**Answer: C**
+- **A — Incorrect:** The lord continues to need recognition; the failure lies in its degraded and one-sided form.
+- **B — Incorrect:** Recognition from a subordinated consciousness is not reciprocal and therefore cannot confirm independence.
+- **C — Correct:** Worthless acknowledgement and material dependence undermine the lord's claim to self-sufficiency.
+- **D — Incorrect:** The bondsman, not the lord, undergoes fear, service and formative engagement with the object.
 
-- **A:** The lord continues to need recognition; the failure lies in its degraded and one-sided form.
-- **B:** Recognition from a subordinated consciousness is not reciprocal and therefore cannot confirm independence.
-- **C:** Worthless acknowledgement and material dependence undermine the lord's claim to self-sufficiency.
-- **D:** The bondsman, not the lord, undergoes fear, service and formative engagement with the object.
-
-#### MCQ 12
+**MCQ 12: D**
 
 What philosophical change does labour produce in the bondsman?
 
-A. It secures immediate legal emancipation and converts lordship into reciprocal citizenship.
-B. It removes fear entirely, leaving consciousness unrelated to any resistant external object.
-C. It satisfies the lord's appetite while leaving the bondsman's relation to self unchanged.
-D. It disciplines desire and lets the bondsman recognise durable agency in the shaped object.
+A. It grants immediate legal freedom and equal civic standing.
+B. It removes fear altogether, so that consciousness relates to no resistant external object.
+C. It satisfies only the lord's appetite while leaving the bondsman's relation to self unchanged.
+D. It disciplines desire and shows the bondsman durable agency in the object.
 
-**Answer: D**
+- **A — Incorrect:** The passage explains self-formation, not an immediate institutional or political emancipation.
+- **B — Incorrect:** Fear and resistance are formative moments rather than conditions simply erased by labour.
+- **C — Incorrect:** If labour changed only the consumed product, the dialectical reversal would never begin.
+- **D — Correct:** Through *Bildung*, the bondsman's activity acquires objective permanence and reshapes self-consciousness.
 
-- **A:** The passage explains self-formation, not an immediate institutional or political emancipation.
-- **B:** Fear and resistance are formative moments rather than conditions simply erased by labour.
-- **C:** If labour changed only the consumed product, the dialectical reversal would never begin.
-- **D:** Through *Bildung*, the bondsman's activity acquires objective permanence and reshapes self-consciousness.
+**MCQ 13: A**
+
+Why is Stoic freedom an incomplete response to bondage?
+
+A. It locates freedom in thought by treating concrete conditions and determinate content as indifferent.
+B. It embodies freedom in family, civil society and the constitutional state as ethical life.
+C. It actively negates every determinate claim and later recognises its own performative contradiction.
+D. It reconciles the changeable individual with the Unchangeable through religious mediation.
+
+- **A — Correct:** Stoicism gains inward independence but remains abstract because it cannot determine what is true or good.
+- **B — Incorrect:** Institutional freedom belongs to objective Spirit, not to the Stoic withdrawal into thought.
+- **C — Incorrect:** Active dissolution and self-contradiction describe Scepticism, the next shape in the sequence.
+- **D — Incorrect:** The divided religious relation belongs to the Unhappy Consciousness, not to Stoicism.
 
 #### Mains transfer — evaluating the recognition reversal
 
@@ -1258,29 +1248,13 @@ three moments of the Unhappy Consciousness → the reversal into Reason → clos
 - **Alienation is self-inflicted** and therefore self-curable (the beyond is consciousness's own product).
 - **Legacy split:** Feuerbach/Marx keep the diagnosis, drop the cure; Kierkegaard keeps the diagnosis, denies any
   cure — this is the bridge to Lesson 10.
-- **Practice link:** MCQs 13–15 and 42; cross-link 2023 Q1(d) (Kierkegaard-led, taught fully in Lesson 10).
+- **Practice link:** MCQs 14–15 and 42; cross-link 2023 Q1(d) (Kierkegaard-led, taught fully in Lesson 10).
 
 ### Test the shapes of consciousness
 
 > Identify the precise freedom claimed by each shape, then name the contradiction that forces its successor.
 
-#### MCQ 13
-
-Why is Stoic freedom an incomplete response to bondage?
-
-A. It locates freedom in thought by treating concrete conditions and determinate content as indifferent.
-B. It embodies freedom in family, civil society and the constitutional state as ethical life.
-C. It actively negates every determinate claim and later recognises its own performative contradiction.
-D. It reconciles the changeable individual with the Unchangeable through religious mediation.
-
-**Answer: A**
-
-- **A:** Stoicism gains inward independence but remains abstract because it cannot determine what is true or good.
-- **B:** Institutional freedom belongs to objective Spirit, not to the Stoic withdrawal into thought.
-- **C:** Active dissolution and self-contradiction describe Scepticism, the next shape in the sequence.
-- **D:** The divided religious relation belongs to the Unhappy Consciousness, not to Stoicism.
-
-#### MCQ 14
+**MCQ 14: B**
 
 What internal contradiction turns Scepticism into a divided consciousness?
 
@@ -1289,14 +1263,12 @@ B. It negates all determinacy yet continues to speak, act and live as a determin
 C. It seeks recognition from a lord while refusing the formative discipline of work on objects.
 D. It affirms the Unchangeable beyond while already possessing complete reconciliation with it.
 
-**Answer: B**
+- **A — Incorrect:** Uncritical affirmation would eliminate the active negativity that defines Hegelian Scepticism.
+- **B — Correct:** Its practice contradicts its universal negation, and awareness of that split produces unhappiness.
+- **C — Incorrect:** This mixes Scepticism with the preceding lordship-bondage relation rather than its own criterion.
+- **D — Incorrect:** The Unhappy Consciousness experiences separation, not an already achieved reconciliation.
 
-- **A:** Uncritical affirmation would eliminate the active negativity that defines Hegelian Scepticism.
-- **B:** Its practice contradicts its universal negation, and awareness of that split produces unhappiness.
-- **C:** This mixes Scepticism with the preceding lordship-bondage relation rather than its own criterion.
-- **D:** The Unhappy Consciousness experiences separation, not an already achieved reconciliation.
-
-#### MCQ 15
+**MCQ 15: C**
 
 What is the defining split of the Unhappy Consciousness?
 
@@ -1305,12 +1277,10 @@ B. It separates civil society from the state and seeks freedom entirely in priva
 C. It opposes the changeable finite self to an Unchangeable essence projected into a beyond.
 D. It contrasts the lord's enjoyment with the bondsman's labour without internalising either side.
 
-**Answer: C**
-
-- **A:** The theoretical-practical distinction belongs later to cognition in the Doctrine of the Idea.
-- **B:** Civil society and state belong to objective Spirit, not this phenomenological religious shape.
-- **C:** Consciousness experiences its own essence as alien and itself as inessential before the beyond.
-- **D:** Lordship and bondage precede this inward division; the split is now within one consciousness.
+- **A — Incorrect:** The theoretical-practical distinction belongs later to cognition in the Doctrine of the Idea.
+- **B — Incorrect:** Civil society and state belong to objective Spirit, not this phenomenological religious shape.
+- **C — Correct:** Consciousness experiences its own essence as alien and itself as inessential before the beyond.
+- **D — Incorrect:** Lordship and bondage precede this inward division; the split is now within one consciousness.
 
 #### Mains transfer — tracing incomplete forms of freedom
 
@@ -1487,7 +1457,7 @@ the second line, or the sentence means the opposite of what Hegel intends.
 
 > Test each option against actuality, Substance-as-Subject and true infinity; repair slogans with one technical distinction.
 
-#### MCQ 16
+**MCQ 16: D**
 
 How should 'what is actual is rational' be interpreted?
 
@@ -1496,14 +1466,12 @@ B. Mental representations are primarily actual, while institutions remain deriva
 C. Rationality is an ideal standard beyond social existence rather than something institutions embody.
 D. Actuality is realised rational structure, distinguished from contingent persistence in history.
 
-**Answer: D**
+- **A — Incorrect:** Endurance shows continued existence, whereas *Wirklichkeit* requires the effective realisation of a concept.
+- **B — Incorrect:** Hegelian actuality includes objective and institutional forms rather than privileging mental representation.
+- **C — Incorrect:** Reason must become embodied in the world; a permanently external ideal reproduces the dualism Hegel rejects.
+- **D — Correct:** The technical distinction leaves existing institutions open to criticism when their structure fails its rational claim.
 
-- **A:** Endurance shows continued existence, whereas *Wirklichkeit* requires the effective realisation of a concept.
-- **B:** Hegelian actuality includes objective and institutional forms rather than privileging mental representation.
-- **C:** Reason must become embodied in the world; a permanently external ideal reproduces the dualism Hegel rejects.
-- **D:** The technical distinction leaves existing institutions open to criticism when their structure fails its rational claim.
-
-#### MCQ 17
+**MCQ 17: A**
 
 What does Hegel mean by saying the Absolute is Subject as well as Substance?
 
@@ -1512,28 +1480,24 @@ B. The Absolute is a finite personal consciousness that decides to manufacture n
 C. Every finite object is an independent substance unrelated to any wider mediating rational structure.
 D. Substance disappears completely once subjective reflection begins in the *Phenomenology*.
 
-**Answer: A**
+- **A — Correct:** Hegel retains monistic unity while adding self-mediation, development and return through Spirit.
+- **B — Incorrect:** Subject names logical self-relation, not a cosmic person performing a temporal act of creation.
+- **C — Incorrect:** Independent substances would abandon Hegel's mediated whole and return to external relations.
+- **D — Incorrect:** The formula says substance is equally subject; it does not discard substantial unity.
 
-- **A:** Hegel retains monistic unity while adding self-mediation, development and return through Spirit.
-- **B:** Subject names logical self-relation, not a cosmic person performing a temporal act of creation.
-- **C:** Independent substances would abandon Hegel's mediated whole and return to external relations.
-- **D:** The formula says substance is equally subject; it does not discard substantial unity.
-
-#### MCQ 18
+**MCQ 18: B**
 
 What distinguishes Hegel's true infinite from the bad infinite?
 
-A. The true infinite repeats finite additions endlessly while remaining beyond each completed finite limit.
-B. The true infinite includes finite self-limitation and return rather than merely opposing the finite.
-C. The true infinite is one largest object placed beside all finite objects within the same domain.
-D. The true infinite abolishes finite distinctions so that no determinate content remains preserved.
+A. The true infinite merely repeats finite additions endlessly while remaining beyond each completed finite limit.
+B. The true infinite includes finite self-limitation and return rather than opposing the finite.
+C. The true infinite is one largest object placed beside all finite objects within one shared domain.
+D. The true infinite abolishes all finite distinctions, leaving no determinate content.
 
-**Answer: B**
-
-- **A:** Endless progression is the bad infinite because each step remains bounded by another finite step.
-- **B:** Inclusion and return make finitude a moment within infinity rather than an external limitation.
-- **C:** An opposed object would still be limited by the finite objects standing outside it.
-- **D:** Sublation preserves finite determination; it does not dissolve the world into featureless unity.
+- **A — Incorrect:** Endless progression is the bad infinite because each step remains bounded by another finite step.
+- **B — Correct:** Inclusion and return make finitude a moment within infinity rather than an external limitation.
+- **C — Incorrect:** An opposed object would still be limited by the finite objects standing outside it.
+- **D — Incorrect:** Sublation preserves finite determination; it does not dissolve the world into featureless unity.
 
 #### Mains transfer — qualifying Absolute Idealism
 
@@ -1753,7 +1717,7 @@ Q4(b) as direct Hegel PYQs.
 
 > Separate Hegel’s strongest objection from Kant’s strongest reply; rewrite both positions before checking the analyses.
 
-#### MCQ 19
+**MCQ 19: C**
 
 What is Hegel's strongest pressure on a reified thing-in-itself?
 
@@ -1762,14 +1726,12 @@ B. The moral law supplies theoretical knowledge of the noumenal cause underlying
 C. A posited external limit is already related within thought and cannot remain wholly beyond it.
 D. The noumenon should be retained as another name for the Absolute Idea at the end of Logic.
 
-**Answer: C**
+- **A — Incorrect:** Hegel does not turn the noumenon into an empirical object available to purified sensation.
+- **B — Incorrect:** Practical postulation in Kant does not provide the theoretical cognition Hegel is discussing.
+- **C — Correct:** Naming and delimiting the beyond uses determinations that undermine its alleged absolute externality.
+- **D — Incorrect:** Hegel dissolves the fixed remainder through mediation; he does not preserve it under a new label.
 
-- **A:** Hegel does not turn the noumenon into an empirical object available to purified sensation.
-- **B:** Practical postulation in Kant does not provide the theoretical cognition Hegel is discussing.
-- **C:** Naming and delimiting the beyond uses determinations that undermine its alleged absolute externality.
-- **D:** Hegel dissolves the fixed remainder through mediation; he does not preserve it under a new label.
-
-#### MCQ 20
+**MCQ 20: D**
 
 What is Kant's strongest reply to Hegel's attack on the noumenon?
 
@@ -1778,14 +1740,12 @@ B. The categories possess unrestricted theoretical validity for appearances and 
 C. Phenomena are private illusions, so a hidden reality is needed to preserve objective knowledge.
 D. The negative noumenon limits sensible cognition without claiming knowledge of a hidden object.
 
-**Answer: D**
+- **A — Incorrect:** Treating it as an empirical cause produces the affection problem rather than Kant's strongest defence.
+- **B — Incorrect:** Kant's critical restriction denies precisely this unrestricted transcendent use of categories.
+- **C — Incorrect:** Kantian appearances are objectively valid for experience and are not private dream-like ideas.
+- **D — Correct:** As a boundary concept, the noumenon marks restraint; Hegel is strongest against its reification.
 
-- **A:** Treating it as an empirical cause produces the affection problem rather than Kant's strongest defence.
-- **B:** Kant's critical restriction denies precisely this unrestricted transcendent use of categories.
-- **C:** Kantian appearances are objectively valid for experience and are not private dream-like ideas.
-- **D:** As a boundary concept, the noumenon marks restraint; Hegel is strongest against its reification.
-
-#### MCQ 21
+**MCQ 21: A**
 
 What does Hegel's identity of thought and being claim?
 
@@ -1794,12 +1754,10 @@ B. Finite thought constructs objects through representation, making objectivity 
 C. Thought describes appearances accurately while being itself remains external to conceptual mediation.
 D. Logical categories provide primary reality, with nature and finite spirit treated as derivative appearances.
 
-**Answer: A**
-
-- **A:** Identity-in-difference makes subject and object internally related while preserving their determinate distinction.
-- **B:** This converts Absolute Idealism into subjective construction and mistakes finite representation for the ground of reality.
-- **C:** An externally related being repeats the fixed dualism that Hegel's account of mediation is intended to overcome.
-- **D:** Nature and finite spirit retain reality as differentiated moments; the logical structure does not reduce them to appearances.
+- **A — Correct:** Identity-in-difference makes subject and object internally related while preserving their determinate distinction.
+- **B — Incorrect:** This converts Absolute Idealism into subjective construction and mistakes finite representation for the ground of reality.
+- **C — Incorrect:** An externally related being repeats the fixed dualism that Hegel's account of mediation is intended to overcome.
+- **D — Incorrect:** Nature and finite spirit retain reality as differentiated moments; the logical structure does not reduce them to appearances.
 
 #### Mains transfer — balancing Hegel against Kant
 
@@ -1880,7 +1838,7 @@ otherness**" — the Idea *outside itself*, in externality and self-externality.
 - Hegel further concedes — the single most useful fact for an answer — the "**impotence of nature**" (*die
   Ohnmacht der Natur*, *Enc.* §250): nature is **unable to hold fast to the Concept**, which is why it teems with
   contingency, imprecision and monstrosity. Hegel therefore **does not claim to deduce particular natural facts**.
-  Anyone who attacks him for "deducing the number of planets" is attacking a caricature.
+  Anyone who attacks him for "deducing the number of planets" — a caricature traceable to the appended theses of Hegel's 1801 Latin habilitation dissertation *De Orbitis Planetarum*, written just before the discovery of Ceres — is attacking a caricature.
 
 ### 4. The four standing objections, and the replies ❓
 
@@ -1947,7 +1905,7 @@ personification objection for free.
 
 > Classify each claim as temporal, causal, logical or empirical; redraw the system’s seam whenever these are confused.
 
-#### MCQ 22
+**MCQ 22: B**
 
 How should the Absolute Idea's 'free release' into Nature be understood?
 
@@ -1956,14 +1914,12 @@ B. It is a non-causal transition in which completed self-relation takes the form
 C. It is an empirical hypothesis that predicts each natural species directly from logical categories.
 D. It is a metaphor for finite consciousness imagining a world that remains otherwise unreal.
 
-**Answer: B**
+- **A — Incorrect:** Hegel denies a temporal before-and-after between Logic and Nature in the systematic transition.
+- **B — Correct:** Nature is the Idea in otherness; release names logical self-externality rather than efficient causation.
+- **C — Incorrect:** The impotence of nature and contingency block an a priori deduction of every natural particular.
+- **D — Incorrect:** Nature is objectively real within the system and is not a projection by an individual mind.
 
-- **A:** Hegel denies a temporal before-and-after between Logic and Nature in the systematic transition.
-- **B:** Nature is the Idea in otherness; release names logical self-externality rather than efficient causation.
-- **C:** The impotence of nature and contingency block an a priori deduction of every natural particular.
-- **D:** Nature is objectively real within the system and is not a projection by an individual mind.
-
-#### MCQ 23
+**MCQ 23: C**
 
 Which objection most directly challenges the move from Logic to Nature?
 
@@ -1972,14 +1928,12 @@ B. Feuerbach argues that finite nature should remain unknowable as a Kantian neg
 C. Schelling argues that conceptual necessity cannot generate the sheer fact that anything exists.
 D. Hegel's defenders argue that nature expresses contingency because it imperfectly embodies the Concept.
 
-**Answer: C**
+- **A — Incorrect:** Trendelenburg's motion objection concerns dialectical transition, not primarily recognition and labour.
+- **B — Incorrect:** Feuerbach's relevant charge is disguised theology, not restoration of Kant's noumenal boundary.
+- **C — Correct:** Schelling targets the passage from what an existent must be to the ungenerated 'that' of existence.
+- **D — Incorrect:** This is a Hegelian qualification through nature's impotence, not an objection to the transition.
 
-- **A:** Trendelenburg's motion objection concerns dialectical transition, not primarily recognition and labour.
-- **B:** Feuerbach's relevant charge is disguised theology, not restoration of Kant's noumenal boundary.
-- **C:** Schelling targets the passage from what an existent must be to the ungenerated 'that' of existence.
-- **D:** This is a Hegelian qualification through nature's impotence, not an objection to the transition.
-
-#### MCQ 24
+**MCQ 24: D**
 
 What follows from Hegel's phrase 'the impotence of nature'?
 
@@ -1988,12 +1942,10 @@ B. Natural science becomes unnecessary because Logic determines each empirical s
 C. Nature embodies the Concept more perfectly than Spirit and therefore contains no contingency.
 D. Nature fails to hold fully to the Concept, leaving contingency and limits on a priori deduction.
 
-**Answer: D**
-
-- **A:** Nature is a real systematic moment and is not reduced to subjective representation.
-- **B:** Contingency makes empirical investigation necessary rather than dispensable.
-- **C:** Spirit is the return to self-relation; nature is marked by externality and imperfect embodiment.
-- **D:** The phrase explains why Hegel cannot legitimately derive every natural detail from pure Logic.
+- **A — Incorrect:** Nature is a real systematic moment and is not reduced to subjective representation.
+- **B — Incorrect:** Contingency makes empirical investigation necessary rather than dispensable.
+- **C — Incorrect:** Spirit is the return to self-relation; nature is marked by externality and imperfect embodiment.
+- **D — Correct:** The phrase explains why Hegel cannot legitimately derive every natural detail from pure Logic.
 
 #### Mains transfer — judging the Logic–Nature seam
 
@@ -2171,7 +2123,7 @@ bare list of civilisations, and not a celebration of "the state" without qualifi
 
 > Link freedom to agents and institutions without turning retrospective intelligibility into moral approval or necessity.
 
-#### MCQ 25
+**MCQ 25: A**
 
 What is the organising claim of Hegel's philosophy of history?
 
@@ -2180,30 +2132,26 @@ B. History is governed chiefly by growing wealth, while political and ethical in
 C. History is unintelligible, although philosophers may impose retrospective stories upon its events.
 D. History is created by exceptional individuals who consciously plan the entire rational outcome.
 
-**Answer: A**
+- **A — Correct:** The norm of freedom and its institutional contradictions organise Hegel's retrospective account.
+- **B — Incorrect:** Economic life matters within civil society, but it is not the sole measure of historical development.
+- **C — Incorrect:** Hegel claims intelligibility, though critics challenge the necessity and selection of his narrative.
+- **D — Incorrect:** World-historical individuals pursue passions and do not possess a complete plan of Spirit's result.
 
-- **A:** The norm of freedom and its institutional contradictions organise Hegel's retrospective account.
-- **B:** Economic life matters within civil society, but it is not the sole measure of historical development.
-- **C:** Hegel claims intelligibility, though critics challenge the necessity and selection of his narrative.
-- **D:** World-historical individuals pursue passions and do not possess a complete plan of Spirit's result.
-
-#### MCQ 26
+**MCQ 26: B**
 
 What does Hegel call the cunning of reason?
 
-A. Reason withdraws from history whenever individual passions threaten rational institutional development.
-B. Private aims become instruments of wider historical results that agents neither intend nor comprehend fully.
-C. World-historical individuals consciously calculate the whole future and execute Reason's programme.
-D. Every successful passion is rational and morally justified because it contributes to a later outcome.
+A. Reason withdraws itself from history whenever individual passions threaten the growth of rational institutions.
+B. Private intentions become instruments of broader historical outcomes that agents never intend.
+C. World-historical individuals consciously calculate and carry out Reason's entire programme.
+D. Every successful passion is rational and justified because it contributes to a later historical outcome.
 
-**Answer: B**
+- **A — Incorrect:** Hegel's point is that reason works through passions, not that it abandons historical mediation.
+- **B — Correct:** The discrepancy between intended aim and historical consequence gives the doctrine its 'cunning.'
+- **C — Incorrect:** Agents such as Caesar or Napoleon are instruments of transitions, not omniscient system-builders.
+- **D — Incorrect:** Historical efficacy does not automatically confer moral approval or rational actuality.
 
-- **A:** Hegel's point is that reason works through passions, not that it abandons historical mediation.
-- **B:** The discrepancy between intended aim and historical consequence gives the doctrine its 'cunning.'
-- **C:** Agents such as Caesar or Napoleon are instruments of transitions, not omniscient system-builders.
-- **D:** Historical efficacy does not automatically confer moral approval or rational actuality.
-
-#### MCQ 27
+**MCQ 27: C**
 
 Which criticism most seriously qualifies Hegel's stage theory of history?
 
@@ -2212,12 +2160,10 @@ B. Institutions receive secondary attention because Spirit develops chiefly with
 C. Its Eurocentric ordering and retrospective necessity marginalise contingency and non-European histories.
 D. Its interpretation remains too cautious to support philosophical judgements about historical development.
 
-**Answer: C**
-
-- **A:** Hegel differentiates stages by increasingly adequate forms of recognised and institutionalised freedom.
-- **B:** Objective Spirit gives law, morality and ethical institutions a constitutive role in freedom's development.
-- **C:** The hierarchy selects Europe as telos and can convert retrospective narration into alleged necessity.
-- **D:** The recurring criticism is overconfident totalisation, not reluctance to interpret or judge historical change.
+- **A — Incorrect:** Hegel differentiates stages by increasingly adequate forms of recognised and institutionalised freedom.
+- **B — Incorrect:** Objective Spirit gives law, morality and ethical institutions a constitutive role in freedom's development.
+- **C — Correct:** The hierarchy selects Europe as telos and can convert retrospective narration into alleged necessity.
+- **D — Incorrect:** The recurring criticism is overconfident totalisation, not reluctance to interpret or judge historical change.
 
 #### Mains transfer — assessing freedom in history
 
@@ -2434,13 +2380,13 @@ low-scoring answer; the axis *is* the answer. Never claim a comparative PYQ as d
 - **Marx:** dialectic kept, Idea dropped, relocated in matter/economics.
 - **Popper:** on target against the philosophy of history, misaimed against the Logic.
 - **Strawson:** same anti-noumenon verdict as Hegel, opposite remedy (descriptive vs revisionary metaphysics).
-- **Practice link:** MCQs 28–30 and 41–43; cross-links 2024 Q2(a), 2023 Q1(d), 2018 Q2(b), 2026 Q4(b).
+- **Practice link:** MCQs 28–29 and 41–43; cross-links 2024 Q2(a), 2023 Q1(d), 2018 Q2(b), 2026 Q4(b).
 
 ### Test comparison and criticism
 
 > Fix one comparison axis before choosing; after an error, state exactly what the critic retains, rejects and transforms.
 
-#### MCQ 28
+**MCQ 28: D**
 
 What is the decisive difference between Berkeley's and Hegel's idealisms?
 
@@ -2449,14 +2395,12 @@ B. Berkeley and Hegel both make one finite consciousness the sole creator of exp
 C. Berkeley affirms independent matter, whereas Hegel denies any reality to nature outside representation.
 D. Berkeley orders ideas through spirits and God; Hegel makes nature and finite minds moments of Absolute Spirit.
 
-**Answer: D**
+- **A — Incorrect:** The descriptions are reversed: dialectical self-development belongs to Hegel, not Berkeley.
+- **B — Incorrect:** Berkeley invokes finite spirits and God, while Hegel's ground is not one finite perceiving subject.
+- **C — Incorrect:** Berkeley rejects material substance; Hegel treats nature as real within mediated totality.
+- **D — Correct:** The contrast is subjective immaterialism versus a self-developing whole that includes nature.
 
-- **A:** The descriptions are reversed: dialectical self-development belongs to Hegel, not Berkeley.
-- **B:** Berkeley invokes finite spirits and God, while Hegel's ground is not one finite perceiving subject.
-- **C:** Berkeley rejects material substance; Hegel treats nature as real within mediated totality.
-- **D:** The contrast is subjective immaterialism versus a self-developing whole that includes nature.
-
-#### MCQ 29
+**MCQ 29: A**
 
 How does Marx transform rather than merely repeat Hegel's dialectic?
 
@@ -2465,28 +2409,10 @@ B. He retains the Absolute Idea as primary while adding economic examples to Heg
 C. He rejects contradiction and historical mediation in favour of an unchanging mechanical materialism.
 D. He changes only the word 'Spirit' to 'matter' while preserving Hegel's account without serious reconstruction.
 
-**Answer: A**
-
-- **A:** Marx keeps a rational dialectical core while changing its ground, agents and practical orientation.
-- **B:** Materialist critique rejects rather than supplements the primacy of the self-developing Idea.
-- **C:** Class conflict, labour and historical transformation remain central to Marx's analysis.
-- **D:** The inversion changes the explanatory structure and cannot be reduced to lexical substitution.
-
-#### MCQ 30
-
-Where does Popper's criticism of Hegel have its strongest target?
-
-A. It refutes the *Logic* because every category there is presented as an empirical prediction.
-B. It pressures retrospective philosophy of history when outcomes are narrated as unfalsifiable necessity.
-C. It refutes the recognition argument because mutual recognition cannot be measured experimentally alone.
-D. It defeats Absolute Idealism by restating Kant's negative noumenon as a limiting concept for metaphysics.
-
-**Answer: B**
-
-- **A:** The *Logic* offers categorial development rather than testable forecasting, so the fit is weaker there.
-- **B:** Popper's historicism charge bites when post hoc interpretation is insulated from counter-evidence.
-- **C:** Recognition is a conceptual account of self-consciousness, not the main object of Popper's critique.
-- **D:** Kantian restraint raises a different objection and does not constitute Popper's historical argument.
+- **A — Correct:** Marx keeps a rational dialectical core while changing its ground, agents and practical orientation.
+- **B — Incorrect:** Materialist critique rejects rather than supplements the primacy of the self-developing Idea.
+- **C — Incorrect:** Class conflict, labour and historical transformation remain central to Marx's analysis.
+- **D — Incorrect:** The inversion changes the explanatory structure and cannot be reduced to lexical substitution.
 
 #### Mains transfer — controlling a philosopher comparison
 
@@ -2614,11 +2540,25 @@ their model answers belong outside this live session.
   whatever exists is justified"; or that Hegel "deduced the planets from the Idea" (a caricature contradicted by
   §250's admission of nature's contingency).
 
-- **Practice link:** MCQ 31 and cumulative MCQs 32–43; all seven direct and four comparison PYQ links below.
+- **Practice link:** MCQs 30–31 and cumulative MCQs 32–43; all seven direct and four comparison PYQ links below.
 
 ### Synthesis practice
 
-#### MCQ 31
+**MCQ 30: B**
+
+Where does Popper's criticism of Hegel have its strongest target?
+
+A. It refutes the *Logic* because every category there is presented as an empirical prediction.
+B. It pressures retrospective philosophy of history when outcomes are narrated as unfalsifiable necessity.
+C. It refutes the recognition argument because mutual recognition cannot be measured experimentally alone.
+D. It defeats Absolute Idealism by restating Kant's negative noumenon as a limiting concept for metaphysics.
+
+- **A — Incorrect:** The *Logic* offers categorial development rather than testable forecasting, so the fit is weaker there.
+- **B — Correct:** Popper's historicism charge bites when post hoc interpretation is insulated from counter-evidence.
+- **C — Incorrect:** Recognition is a conceptual account of self-consciousness, not the main object of Popper's critique.
+- **D — Incorrect:** Kantian restraint raises a different objection and does not constitute Popper's historical argument.
+
+**MCQ 31: C**
 
 How are Hegel's dialectical method and Absolute Idealism related?
 
@@ -2627,12 +2567,11 @@ B. Absolute Idealism is a theological doctrine whose truth is independent of con
 C. The method is the Absolute's self-development, and the system is that movement comprehended as a whole.
 D. Dialectic governs history alone, while the Absolute is established by a separate intuitive revelation alone.
 
-**Answer: C**
+- **A — Incorrect:** For Hegel method belongs to the content itself and cannot be detached as external presentation.
+- **B — Incorrect:** Religion presents related content representationally, but philosophy claims conceptual demonstration.
+- **C — Correct:** Dynamic development and completed intelligibility are two perspectives on one systematic process.
+- **D — Incorrect:** Logic, Nature and Spirit all develop dialectically; no separate revelation establishes the Absolute.
 
-- **A:** For Hegel method belongs to the content itself and cannot be detached as external presentation.
-- **B:** Religion presents related content representationally, but philosophy claims conceptual demonstration.
-- **C:** Dynamic development and completed intelligibility are two perspectives on one systematic process.
-- **D:** Logic, Nature and Spirit all develop dialectically; no separate revelation establishes the Absolute.
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 The verified record contains **seven direct Hegel question-parts from 2019–2026**. There is no direct Hegel
@@ -2662,23 +2601,21 @@ comparison in which Hegel supplies the second position. No model answer to a PYQ
 
 These twelve questions integrate the whole topic across method, logic, spirit, history and criticism. Answer each before reading the four independent option analyses.
 
-#### MCQ 32
+**MCQ 32: D**
 
 How should the thesis-antithesis-synthesis formula be used in an answer on Hegel?
 
-A. As Hegel's exact universal terminology, with no need to demonstrate a particular transition.
+A. As Hegel's own exact and universal terminology, requiring no demonstration of any single particular dialectical transition.
 B. As Kant's account of antinomies, transferred unchanged into Hegel's speculative philosophy.
-C. As a modern invention lacking any connection with Fichte or nineteenth-century interpretation.
-D. As limited shorthand: note its provenance, then use speculative or positively rational reason.
+C. As a modern invention lacking any link to Fichte or nineteenth-century interpretation.
+D. As limited shorthand: note its provenance first, then use speculative or positively rational reason.
 
-**Answer: D**
+- **A — Incorrect:** Hegel does not regularly present his method through that fixed formula, and labels cannot replace argument.
+- **B — Incorrect:** Kantian antinomies diagnose reason's conflict but are not the source of this textbook schema.
+- **C — Incorrect:** The formula has a traceable post-Kantian history, especially through Fichte and Chalybäus.
+- **D — Correct:** The third moment is speculative or positively rational; provenance prevents shorthand from replacing Hegel's terms.
 
-- **A:** Hegel does not regularly present his method through that fixed formula, and labels cannot replace argument.
-- **B:** Kantian antinomies diagnose reason's conflict but are not the source of this textbook schema.
-- **C:** The formula has a traceable post-Kantian history, especially through Fichte and Chalybäus.
-- **D:** The third moment is speculative or positively rational; provenance prevents shorthand from replacing Hegel's terms.
-
-#### MCQ 33
+**MCQ 33: A**
 
 Which account best locates quality, quantity and measure in the Doctrine of Being?
 
@@ -2687,14 +2624,12 @@ B. Quantity abolishes every qualitative determination before the Logic can reach
 C. Measure is an externally chosen scale that leaves magnitude unrelated to qualitative identity.
 D. Being-for-self follows measure and introduces private consciousness into the logical sequence.
 
-**Answer: A**
+- **A — Correct:** The sequence preserves qualitative determination, develops self-relation, and reaches measure, where a nodal threshold can produce a qualitative leap.
+- **B — Incorrect:** Quantity initially abstracts from quality, but measure reunites them instead of making quality disappear.
+- **C — Incorrect:** Hegelian measure is not a conventional unit imposed from outside; it expresses how a quantitative range belongs to a thing's quality.
+- **D — Incorrect:** Being-for-self remains a category of Being; it is neither post-measure nor a psychological subject.
 
-- **A:** The sequence preserves qualitative determination, develops self-relation, and reaches measure, where a nodal threshold can produce a qualitative leap.
-- **B:** Quantity initially abstracts from quality, but measure reunites them instead of making quality disappear.
-- **C:** Hegelian measure is not a conventional unit imposed from outside; it expresses how a quantitative range belongs to a thing's quality.
-- **D:** Being-for-self remains a category of Being; it is neither post-measure nor a psychological subject.
-
-#### MCQ 34
+**MCQ 34: B**
 
 Which sequence names the three principal divisions of Hegel's *Science of Logic*?
 
@@ -2703,14 +2638,12 @@ B. Being, Essence and Concept, moving from immediacy through reflection to self-
 C. Subjective Spirit, Objective Spirit and Absolute Spirit, moving successively through forms of freedom.
 D. Art, religion and philosophy, moving from sensuous form to the conceptual self-comprehension of Spirit.
 
-**Answer: B**
+- **A — Incorrect:** Quality, quantity and measure are subdivisions within Being, not the three divisions of the whole Logic.
+- **B — Correct:** The sequence tracks immediate categories, reflected relations and the self-articulating Concept.
+- **C — Incorrect:** These are divisions of Spirit within the *Encyclopaedia*, not divisions of the *Logic*.
+- **D — Incorrect:** These are forms of Absolute Spirit and presuppose the logical architecture already developed.
 
-- **A:** Quality, quantity and measure are subdivisions within Being, not the three divisions of the whole Logic.
-- **B:** The sequence tracks immediate categories, reflected relations and the self-articulating Concept.
-- **C:** These are divisions of Spirit within the *Encyclopaedia*, not divisions of the *Logic*.
-- **D:** These are forms of Absolute Spirit and presuppose the logical architecture already developed.
-
-#### MCQ 35
+**MCQ 35: C**
 
 How do universality, particularity and individuality function within the Concept?
 
@@ -2719,14 +2652,12 @@ B. They are independent substances externally linked by the philosopher's classi
 C. The universal differentiates into particulars and is concretely realised in individual unity.
 D. The individual eliminates the universal once a determinate particular appears in experience.
 
-**Answer: C**
+- **A — Incorrect:** The one-some-all historical schema belongs to history, not to the Concept's moments.
+- **B — Incorrect:** Hegel rejects external linkage; the moments belong to one self-differentiating structure.
+- **C — Correct:** Individuality is the concrete unity in which universal and particular are realised together.
+- **D — Incorrect:** The universal is preserved and actualised rather than abolished by particular individuality.
 
-- **A:** The one-some-all historical schema belongs to history, not to the Concept's moments.
-- **B:** Hegel rejects external linkage; the moments belong to one self-differentiating structure.
-- **C:** Individuality is the concrete unity in which universal and particular are realised together.
-- **D:** The universal is preserved and actualised rather than abolished by particular individuality.
-
-#### MCQ 36
+**MCQ 36: D**
 
 What is the dialectical significance of judgement (*Urteil*) in Hegel's Logic?
 
@@ -2735,14 +2666,12 @@ B. It primarily describes how finite minds connect linguistic subjects with pred
 C. It loosens universality by treating concrete individuals as self-standing determinations.
 D. It divides the Concept into subject and predicate, whose unity still requires the syllogism.
 
-**Answer: D**
+- **A — Incorrect:** Predication differentiates the Concept but does not yet provide the mediated unity reached later in the logical movement.
+- **B — Incorrect:** Hegel gives the form a logical and ontological role rather than reducing it to a contingent linguistic association.
+- **C — Incorrect:** Individuality remains internally connected with determinate universality instead of becoming a self-standing atom.
+- **D — Correct:** *Urteil* articulates division within the Concept and prepares the syllogism that mediates its moments.
 
-- **A:** Predication differentiates the Concept but does not yet provide the mediated unity reached later in the logical movement.
-- **B:** Hegel gives the form a logical and ontological role rather than reducing it to a contingent linguistic association.
-- **C:** Individuality remains internally connected with determinate universality instead of becoming a self-standing atom.
-- **D:** *Urteil* articulates division within the Concept and prepares the syllogism that mediates its moments.
-
-#### MCQ 37
+**MCQ 37: A**
 
 What is the culminating sequence within Hegel's Doctrine of the Concept?
 
@@ -2751,14 +2680,12 @@ B. Subjective Concept remains a private representation, while Objectivity stays 
 C. Objectivity precedes Being and alone supplies the empirical material from which categories are abstracted.
 D. The Idea abandons Concept and Objectivity in favour of an unknowable reality beyond their relation in thought.
 
-**Answer: A**
+- **A — Correct:** This moves from formal self-differentiation to objective structures and their unity in the Idea.
+- **B — Incorrect:** 'Subjective' is a logical designation; the movement is designed to overcome externality.
+- **C — Incorrect:** The *Logic* begins with Being, not with ready-made empirical objectivity outside thought.
+- **D — Incorrect:** The Idea is the unity of Concept and objectivity, not a retreat to a noumenal remainder.
 
-- **A:** This moves from formal self-differentiation to objective structures and their unity in the Idea.
-- **B:** 'Subjective' is a logical designation; the movement is designed to overcome externality.
-- **C:** The *Logic* begins with Being, not with ready-made empirical objectivity outside thought.
-- **D:** The Idea is the unity of Concept and objectivity, not a retreat to a noumenal remainder.
-
-#### MCQ 38
+**MCQ 38: B**
 
 Which ordering correctly distinguishes the three forms of Spirit?
 
@@ -2767,14 +2694,12 @@ B. Subjective Spirit: individual agency; Objective Spirit: institutions; Absolut
 C. Objective Spirit concerns organisms; Absolute Spirit concerns civil society; Subjective Spirit concerns logic.
 D. Subjective Spirit concerns history; Objective Spirit concerns sensation; Absolute Spirit concerns nature.
 
-**Answer: B**
+- **A — Incorrect:** The assignments are displaced: art is Absolute, law Objective, and psychology Subjective Spirit.
+- **B — Correct:** The sequence moves from individual minded life through institutions to art, religion and philosophy.
+- **C — Incorrect:** Natural organisms belong to Nature, while civil society belongs to Objective Spirit.
+- **D — Incorrect:** Each description assigns the wrong sphere and obscures the progression toward self-comprehension.
 
-- **A:** The assignments are displaced: art is Absolute, law Objective, and psychology Subjective Spirit.
-- **B:** The sequence moves from individual minded life through institutions to art, religion and philosophy.
-- **C:** Natural organisms belong to Nature, while civil society belongs to Objective Spirit.
-- **D:** Each description assigns the wrong sphere and obscures the progression toward self-comprehension.
-
-#### MCQ 39
+**MCQ 39: C**
 
 What is Hegel's traditional three-stage formula for historical consciousness of freedom?
 
@@ -2783,30 +2708,26 @@ B. Some are free in the Oriental world, all in Greece, and none in the Germanic-
 C. One is free, then some are free, then all persons are recognised as free in principle.
 D. One is free, then all are free, then freedom disappears when the rational state emerges.
 
-**Answer: C**
+- **A — Incorrect:** Hegel assigns only the despot freedom in the first stage, not universal freedom.
+- **B — Incorrect:** The sequence reverses the first two stages and denies the modern claim of universal freedom.
+- **C — Correct:** The formula tracks widening freedom but requires Eurocentrism and exclusion cautions.
+- **D — Incorrect:** The state is presented as institutional mediation of freedom, not its disappearance.
 
-- **A:** Hegel assigns only the despot freedom in the first stage, not universal freedom.
-- **B:** The sequence reverses the first two stages and denies the modern claim of universal freedom.
-- **C:** The formula tracks widening freedom but requires Eurocentrism and exclusion cautions.
-- **D:** The state is presented as institutional mediation of freedom, not its disappearance.
-
-#### MCQ 40
+**MCQ 40: D**
 
 How does ethical life (*Sittlichkeit*) develop institutionally in Hegel?
 
-A. The state precedes the family and creates civil society by distributing private economic roles.
-B. Civil society replaces family and state because market dependence alone realises universal freedom.
-C. Family and state remain immediate natural unities, while civil society alone becomes rational actuality.
-D. Family unites immediately, civil society differentiates needs, and the state mediates universal freedom.
+A. The state precedes the family and creates civil society by assigning economic roles.
+B. Civil society replaces family and state because market dependence alone realises freedom.
+C. Family and state remain immediate natural unities, while civil society by itself becomes the rational actuality.
+D. The family unites immediately, civil society differentiates needs, and the state mediates universal freedom.
 
-**Answer: D**
+- **A — Incorrect:** The state is the later mediating institution; it does not conceptually create family first.
+- **B — Incorrect:** Civil society reveals interdependence and conflict but cannot alone integrate universal freedom.
+- **C — Incorrect:** Hegel distinguishes the immediate family from the rationally articulated constitutional state.
+- **D — Correct:** The sequence preserves intimacy and particular interests while seeking institutional reconciliation.
 
-- **A:** The state is the later mediating institution; it does not conceptually create family first.
-- **B:** Civil society reveals interdependence and conflict but cannot alone integrate universal freedom.
-- **C:** Hegel distinguishes the immediate family from the rationally articulated constitutional state.
-- **D:** The sequence preserves intimacy and particular interests while seeking institutional reconciliation.
-
-#### MCQ 41
+**MCQ 41: A**
 
 What is Strawson's analytic objection to a causally reified Kantian noumenon?
 
@@ -2815,14 +2736,12 @@ B. It treats causal affection as unfalsifiable, although its concepts retain emp
 C. It identifies noumenal reality with appearance and thereby erases Kant's critical distinction.
 D. It makes sensibility concept-free, so no objective unity of experience can be explained.
 
-**Answer: A**
+- **A — Correct:** Strawson argues that supersensible affection violates Kant's restrictions on meaningful conceptual use.
+- **B — Incorrect:** Unfalsifiability is a Popperian concern; Strawson's point is misuse, not testability, of categories.
+- **C — Incorrect:** Strawson rejects a hidden causal object; he does not collapse Kant's appearance distinction.
+- **D — Incorrect:** Strawson preserves concept-structured experience; he does not make sensibility concept-free.
 
-- **A:** Strawson argues that supersensible affection violates Kant's restrictions on meaningful conceptual use.
-- **B:** Unfalsifiability is a Popperian concern; Strawson's point is misuse, not testability, of categories.
-- **C:** Strawson rejects a hidden causal object; he does not collapse Kant's appearance distinction.
-- **D:** Strawson preserves concept-structured experience; he does not make sensibility concept-free.
-
-#### MCQ 42
+**MCQ 42: B**
 
 Why does Kierkegaard's existing individual resist absorption into Hegel's system?
 
@@ -2831,14 +2750,12 @@ B. Lived existence demands first-person choice and commitment that no completed 
 C. The individual is merely a logical universal and becomes concrete only through Hegelian syllogism.
 D. Existence is fully captured once subjective Spirit is listed as one division of the completed system.
 
-**Answer: B**
+- **A — Incorrect:** Kierkegaard centres the temporal, choosing and mortal individual rather than denying those features.
+- **B — Correct:** System-inclusion may classify individuality while missing the lived act of becoming and commitment.
+- **C — Incorrect:** Kierkegaard resists reducing the existing person to a moment in an impersonal conceptual structure.
+- **D — Incorrect:** Naming a systematic location does not answer that existence is enacted rather than surveyed.
 
-- **A:** Kierkegaard centres the temporal, choosing and mortal individual rather than denying those features.
-- **B:** System-inclusion may classify individuality while missing the lived act of becoming and commitment.
-- **C:** Kierkegaard resists reducing the existing person to a moment in an impersonal conceptual structure.
-- **D:** Naming a systematic location does not answer that existence is enacted rather than surveyed.
-
-#### MCQ 43
+**MCQ 43: C**
 
 What is the strongest analytic worry about Hegelian totality?
 
@@ -2847,12 +2764,10 @@ B. Its method accepts Kant's thing-in-itself and therefore prevents any claims a
 C. Its appeal to internal relations and the whole may obscure logical distinctions and independent factual claims.
 D. Its theory of judgement confines truth to private images that cannot refer to public objects within shared experience.
 
-**Answer: C**
-
-- **A:** Atomism belongs to the analytic reaction against idealist holism, not to Hegel's totality.
-- **B:** Hegel rejects a permanently external noumenon rather than accepting it as a fixed limit.
-- **C:** Moore and Russell directly attack Bradley and British neo-Hegelian holism; the criticism reaches Hegel structurally, insofar as his totality also makes relations internal to the whole.
-- **D:** Hegelian judgement is not an imagist theory of private meaning; it articulates Concept and objectivity.
+- **A — Incorrect:** Atomism belongs to the analytic reaction against idealist holism, not to Hegel's totality.
+- **B — Incorrect:** Hegel rejects a permanently external noumenon rather than accepting it as a fixed limit.
+- **C — Correct:** Moore and Russell directly attack Bradley and British neo-Hegelian holism; the criticism reaches Hegel structurally, insofar as his totality also makes relations internal to the whole.
+- **D — Incorrect:** Hegelian judgement is not an imagist theory of private meaning; it articulates Concept and objectivity.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -3246,3 +3161,19 @@ desire for recognition
 **2026 verification note:** The local 2026 ledger identifies one direct Hegel question, **Q1(c), 10 marks**.
 **Q4(b), 15 marks** is a Kant-led comparison with a necessary Hegel half. No claim is made that later corrections,
 official reclassification or additional Philosophy Optional papers beyond the held ledger have been checked.
+
+## SOURCE-MANIFEST GATE
+
+This manifest honestly records, without overclaim, which source categories were used in preparing this live
+session. Status is one of `checked`, `not available` or `not relevant`.
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| Canonical markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Hegel.md` read completely for the dialectical method, Doctrine of Being, system architecture, recognition, Absolute Idealism, the Kant challenge, the Logic-to-Nature seam, history and the criticisms ledger |
+| Final learner package | not relevant | No final learner package forms part of this live-session scope, so none was consulted or reproduced |
+| Layered/complete session | checked | `upsc-ai-kit\knowledge\Philosophy\Western-Philosophy\learning-sessions\Hegel\Hegel_Layered-Complete-Learning-Session_2026-08-18.md` cross-checked for basic and advanced completeness across the eleven lessons |
+| Solved workbook | not relevant | No solved-workbook answers are reproduced here; the verified PYQs appear only as links and concise answer approaches |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` cross-checked for advanced objections, replies and the Kant, Marx, Kierkegaard, Popper and Strawson comparisons |
+| OCR books | not available | The local OCR-searchable `books\` library holds no dedicated Hegel primary or secondary volume; no book-specific claim was fabricated |
+| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` and `_PYQ-Western-Philosophy-2026.md` supply the seven direct links and four comparison linkages, with 2026 Q1(c) and Q4(b) verified |
+| Official live sources | checked | Verified recent-context anchors only: the 36th International Hegel Congress (Roma Tre, 1–4 September 2026), Emundts's *Hegel's Dialectic* (2026) and Nuzzo's Logic-of-Nature chapter; none used as proof of doctrine |
