@@ -78,7 +78,7 @@ gandhism
 ## 5. Thinker-by-thinker positions
 
 - ✅ **Fabian socialists:** seek gradual socialism through legislation, administration, education and middle-class permeation rather than insurrection. (PDF pp.57-59)
-- ✅ **Sydney Webb:** makes the democratic state an instrument of planned social reform and redefines democracy to include control over wealth production. (PDF pp.58-59)
+- ✅ **Sidney Webb:** makes the democratic state an instrument of planned social reform and redefines democracy to include control over wealth production. ⚠️ Gauba prints **Sydney Webb** at PDF pp.58-59; the standard name **Sidney Webb (1859-1947)** is independently verified by Encyclopaedia Britannica.
 - ✅ **Lassalle:** accepts historical movement toward workers' power but prefers universal suffrage and peaceful constitutional transition to a workers' state. (PDF p.60)
 - ✅ **Bernstein:** revises Marx by downgrading inevitability of class struggle and treating socialism as democratic movement rather than apocalyptic end-state. (PDF pp.60-62)
 - ✅ **Mussolini:** founder and chief theorist-in-practice of Italian fascism; dismantled parliamentary pluralism, proclaimed the "myth" of the nation as fascism's one fixed point, and explicitly rejected the economic conception of history in his own writings. (PDF pp.64, 67-69)
@@ -169,4 +169,5 @@ gandhism
 
 - ✅ Primary source used directly: O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.2, PDF pp.55-83.
 - ✅ Key anchors: socialism and democratic/revolutionary split (PDF pp.55-56); Fabians, Lassalle and Bernstein (PDF pp.57-62); fascism's origin, intellectual context, leader principle, counter-revolutionary role, socio-economic basis and liberal/Marxist critique (PDF pp.64-73); anarchist schools (PDF pp.73-78); Gandhian ethics, non-violence, trusteeship, bread labour and Marx-Gandhi comparison (PDF pp.78-83).
+- ✅ Independent name controls, accessed **5 October 2026**: Encyclopaedia Britannica, “Sidney and Beatrice Webb,” `https://www.britannica.com/biography/Sidney-and-Beatrice-Webb`; Encyclopaedia Britannica, “Georges Sorel,” `https://www.britannica.com/biography/Georges-Sorel`, with *Reflections on Violence* at `https://www.britannica.com/topic/Reflections-on-Violence`.
 - ⚠️ Tags: `#PoliticalTheory` `#Advanced` `#DemocraticSocialism` `#Fascism` `#Totalitarianism` `#Anarchism` `#Gandhism` `#Swaraj` `#Trusteeship`.

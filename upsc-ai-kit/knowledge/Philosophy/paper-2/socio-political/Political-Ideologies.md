@@ -331,7 +331,7 @@ revolutionary strands, which retain the categorial break.
 6. Conditional verdict, distinguishing philosophical anarchism (which partly concedes the stem)
    from revolutionary anarchism (which does not).
 
-**Answer spine — 20 marks (~300 words)**
+**Answer spine — 20 marks (strictly within 250 words)**
 
 1. Thesis in the stem's verb, with the dependence claim quoted in substance and split into
    genealogical and conceptual halves.
@@ -618,7 +618,7 @@ theory, and loses its revolutionary conclusion.
 6. Conditional verdict: the formal/substantive gap is real; the inference to abolishing
    parliamentary guarantees does not follow.
 
-**Answer spine — 20 marks (~300 words)**
+**Answer spine — 20 marks (strictly within 250 words)**
 
 1. Thesis, with the distinction between *rejecting democracy* and *rejecting its purity*.
 2. Grounds 1–7 as a numbered argument.
@@ -1111,7 +1111,7 @@ full 2026 Section-A routing ledger.
 5. **One fully worked objection → reply → residual problem.**
 6. **Conditional verdict** separating analytical survival from institutional failure.
 
-### 9.3 20-mark method (~300 words · 8 moves · ~25 minutes)
+### 9.3 20-mark method (strictly within 250 words · 8 moves · ~25 minutes)
 
 1. **Provisional thesis** using the stem's own directive verb.
 2. **Locate the doctrine** historically and state what turns on it.

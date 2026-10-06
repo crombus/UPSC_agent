@@ -120,7 +120,7 @@ gandhism -> ethics in politics
 
 ## 10. Cross-links and boundaries
 
-- ✅ Named additions strengthening socialism, anarchism and Gandhism as independently comparative doctrines (Sydney Webb, Sorel, Tolstoy, Sarvodaya) and the liberty-equality-state-property synthesis are reconstructed independently in §§12-13 of this file, so this Basic file is self-sufficient for an unfamiliar 10/15/20-mark question. Read the deeper companion at `Political-Theory/advanced/05_Socialism-Fascism-Anarchism-and-Gandhism.md` only for optional further depth (extra comparative matrices and answer-engine prompts).
+- ✅ Named additions strengthening socialism, anarchism and Gandhism as independently comparative doctrines (Sidney Webb, Sorel and Tolstoy) and the liberty-equality-state-property synthesis are reconstructed independently in §§12-13 of this file, so this Basic file is self-sufficient for an unfamiliar 10/15/20-mark question. *Sarvodaya* belongs to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md` and is not reconstructed here. Read the deeper companion at `Political-Theory/advanced/05_Socialism-Fascism-Anarchism-and-Gandhism.md` only for optional further depth (extra comparative matrices and answer-engine prompts).
 - ✅ Use `Political-Theory/00_Master-Framework.md` for the ideology matrix comparing socialism, fascism, anarchism and Gandhism.
 - ✅ Use `Political-Theory/README.md` for the module map and for locating future state, justice and democracy continuities.
 - ✅ Indian constitutional welfare arrangements belong to `Polity/advanced/08_Directive-Principles.md`, not to this theory file.
@@ -140,10 +140,11 @@ gandhism -> ethics in politics
 - ✅ Explain Gandhi through ethics in politics, ahimsa, satyagraha, trusteeship and bread labour. (PDF pp.79-82)
 - ✅ End with the Marx-Gandhi contrast on class conflict, technology, religion and the state. (PDF pp.82-83)
 
-## 12. Named strengthening: Webb, Sorel, Tolstoy and Sarvodaya (fascism's own factual discipline is preserved unchanged in §§2-9 above)
+## 12. Named strengthening: Webb, Sorel and Tolstoy (fascism's own factual discipline is preserved unchanged in §§2-9 above)
 
-### 12.1 Sydney Webb and Fabianism, named precisely
-- ✅ Sydney Webb makes the democratic state an instrument of planned social reform and redefines democracy to include control over wealth production, not merely political participation (Gauba, PDF pp.58-59).
+### 12.1 Sidney Webb and Fabianism, named precisely
+- ⚠️ **Name control:** Gauba prints **Sydney Webb** at PDF pp.58-59; the standard name is **Sidney Webb (1859-1947)**, independently verified by Encyclopaedia Britannica. Candidate-facing prose uses **Sidney** and reports Gauba's spelling only when discussing the source variance.
+- ✅ Sidney Webb makes the democratic state an instrument of planned social reform and redefines democracy to include control over wealth production, not merely political participation (Gauba, PDF pp.58-59).
 - ✅ This names the Fabian method precisely: gradual socialization through existing constitutional machinery — legislation, administration, education and middle-class permeation — rather than revolutionary rupture (Gauba, PDF pp.57-59).
 
 ### 12.2 Sorel and anarcho-syndicalism, with classification caution
@@ -152,11 +153,11 @@ gandhism -> ethics in politics
 
 ### 12.3 Tolstoy: pacifist-Christian anarchism and the Gandhi link
 - ✅ Leo Tolstoy is a moral-pacific anarchist grounded in love, non-obedience to immoral commands, and a critique of organized/state violence (Gauba, PDF p.77).
-- ⚠️ **Gandhi-influence link** (a widely attested biographical connection, flagged ⚠️ because it is not independently verified against Gauba's own PDF pp.55-83 range used for this file): Gandhi is widely recorded, including in his own writing, as having corresponded with Tolstoy and having drawn on Tolstoy's writing on non-violence and non-resistance to evil while developing satyagraha. Do not attribute a specific letter, date or publication title to this connection beyond this general, cautious statement.
+- ✅ **Gandhi-influence link:** Gauba states that **Mahatma Gandhi (1869-1948) was inspired by these ideas in developing his philosophy of non-violence** (PDF p.77). This grounds only the influence proposition. ❌ Do not attach a letter, date, correspondence claim or publication title to the connection from this source.
 
-### 12.4 Sarvodaya
-- ✅ Sarvodaya is Gandhi's ideal of the uplift or awakening of all, especially the last and most neglected person, achieved through a non-violent moral order (Gauba, PDF pp.489-490, cross-referenced from `Political-Theory/basic/21_Common-Good-and-Community.md` rather than from this chapter's own PDF pp.55-83 range).
-- ⚠️ Sarvodaya is the constructive social-order counterpart to satyagraha's method and trusteeship's economic ethic: satyagraha supplies the method of non-violent resistance/persuasion, trusteeship supplies the economic ethic of stewardship, and Sarvodaya names the resulting social goal — uplift of all, beginning with the weakest.
+### 12.4 Ownership boundary: Sarvodaya
+- ➡️ *Sarvodaya* is not taught in this Topic 05 canonical. Its doctrine and Gauba PDF pp.489-490 evidence belong to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`.
+- ✅ Topic 05 retains only the Gandhian material directly grounded in PDF pp.78-83: ethics and politics, means and ends, ahimsa, trusteeship, bread labour and the Gandhi-Marx comparison.
 - ⚠️ These additions strengthen the socialism/anarchism/Gandhism reconstruction only; the fascism reconstruction in §§2-9 above remains the authoritative, factually disciplined account and is not diluted, expanded with speculative parallels, or re-opened here.
 
 ## 13. Synthesis: liberty, equality, state and property across the four doctrines
@@ -186,28 +187,28 @@ gandhism -> ethics in politics
 ## 15. Doctrine architecture: premises, mechanism, conclusion
 
 - ✅ **Premises:** (a) capitalism generates class inequality and, in some readings, coercive concentration of power — a diagnosis shared by socialism, anarchism and Gandhism (Gauba, PDF pp.55-56, 73-74, 79-83); (b) the doctrines differ on whether the state is the right instrument to fix this — socialism says yes if reformed, anarchism says no and seeks abolition, Gandhism says no and seeks moral transcendence (Gauba, PDF pp.55-83); (c) fascism denies the diagnosis itself, treating hierarchy and leader-rule as desirable rather than as a problem to be solved (Gauba, PDF p.66).
-- ✅ **Mechanism:** because premise (a) is read differently at the level of instrument (b), each doctrine proposes a distinct transformative mechanism — parliamentary/administrative reform (Fabian/Webb, §12.1), revolutionary union action stopping short of full anarchism (Sorel, §12.2), moral non-violent resistance and constructive social reconstruction (Tolstoy/Gandhi/Sarvodaya, §12.3-12.4), or voluntary federation/mutual aid/collectivization (Proudhon/Kropotkin/Bakunin, §6-8 above) — while fascism substitutes an entirely different mechanism, mythic nationalism and leader-command, that does not aim at equality at all (Gauba, PDF pp.66-70).
+- ✅ **Mechanism:** because premise (a) is read differently at the level of instrument (b), each doctrine proposes a distinct transformative mechanism — parliamentary/administrative reform (Fabian/Webb, §12.1), revolutionary union action stopping short of full anarchism (Sorel, §12.2), moral non-violent resistance and constructive social reconstruction (Tolstoy/Gandhi, §12.3), or voluntary federation/mutual aid/collectivization (Proudhon/Kropotkin/Bakunin, §6-8 above) — while fascism substitutes an entirely different mechanism, mythic nationalism and leader-command, that does not aim at equality at all (Gauba, PDF pp.66-70).
 - ✅ **Conclusion:** an answer that files all "anti-liberal" or "anti-capitalist" doctrines together misses the topic's deepest fault line, which is not liberalism versus its critics but equality-seeking critics (socialism/anarchism/Gandhism) versus hierarchy-seeking fascism (§13 synthesis verdict).
 
 ## 16. Reusable named evidence units
 
-- ✅ **Unit 1 — Claim:** democracy can be redefined to include control over wealth production, achieved through existing constitutional machinery → **Named:** Sydney Webb → **Significance:** gives Fabianism a precise reformist mechanism distinct from revolutionary Marxism (Gauba, PDF pp.58-59) → **Limitation:** relies on the patience and goodwill of gradual legislative majorities, which critics say can stall or reverse.
+- ✅ **Unit 1 — Claim:** democracy can be redefined to include control over wealth production, achieved through existing constitutional machinery → **Named:** Sidney Webb → **Significance:** gives Fabianism a precise reformist mechanism distinct from revolutionary Marxism (Gauba, PDF pp.58-59; name control at §12.1) → **Limitation:** relies on the patience and goodwill of gradual legislative majorities, which critics say can stall or reverse.
 - ✅ **Unit 2 — Claim:** revolutionary trade unions and the general strike are the chief instrument of transformative struggle → **Named:** Georges Sorel → **Significance:** shows a route to radical change that stops short of full statelessness, complicating any simple socialism/anarchism binary (Gauba, PDF pp.76-77) → **Limitation:** Gauba's own text notes Sorel is not a full-fledged anarchist, so citing him as straightforward "anarchism" misclassifies his position (§12.2).
-- ✅ **Unit 3 — Claim:** love and non-obedience to immoral commands, not organized violence, should govern political relations → **Named:** Leo Tolstoy → **Significance:** supplies the clearest pacifist-Christian anarchist position and a widely attested influence on Gandhian non-violence (Gauba, PDF p.77; §12.3) → **Limitation:** as a purely moral-individual position, it offers little institutional guidance for large-scale collective coordination.
-- ✅ **Unit 4 — Claim:** the propertied should hold wealth as a trust for social good, and society should be organized to uplift the last and most neglected person first → **Named/concept:** Gandhi's trusteeship and Sarvodaya (Gauba, PDF pp.81, 489-490) → **Significance:** converts an ethical demand into a constructive social programme rather than only a critique (§12.4) → **Limitation:** the standard objection that the propertied are unlikely to undergo the required "change of heart" in practice (Gauba, PDF p.81).
+- ✅ **Unit 3 — Claim:** love and non-obedience to immoral commands, not organized violence, should govern political relations → **Named:** Leo Tolstoy → **Significance:** supplies the clearest pacifist-Christian anarchist position and the Gauba-grounded influence on Gandhian non-violence (PDF p.77; §12.3) → **Limitation:** as a purely moral-individual position, it offers little institutional guidance for large-scale collective coordination.
+- ✅ **Unit 4 — Claim:** the propertied should hold wealth as a trust for social good, while universal bread labour restores dignity and equality → **Named/concept:** Gandhi's trusteeship and bread labour (Gauba, PDF pp.81-82) → **Significance:** converts the ethics of non-violence into an economic and labour programme → **Limitation:** the standard objection that the propertied are unlikely to undergo the required "change of heart" in practice (Gauba, PDF p.81). ➡️ *Sarvodaya* remains with `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`.
 - ✅ **Unit 5 — Claim:** fascism sustains capitalist "hegemony" and elite rule by securing mass acceptance rather than through coercion alone → **Named:** Antonio Gramsci (already grounded in this file's own fascism critique, PDF p.72) → **Significance:** shows a Marxist analytical tool being used specifically to explain fascism's mass acceptance, connecting this file to `Political-Theory/basic/04_Marxism-and-Neo-Marxism.md` → **Limitation:** explains why fascism could be accepted, not why fascism itself is intellectually coherent — Gauba's own verdict remains that it is a "political pathology," not a genuine theory (Gauba, PDF pp.71-73).
 - ✅ **Unit 6 — Claim:** mutual aid and sociability, not competitive struggle, are the natural basis for cooperative order → **Named:** Peter Kropotkin → **Significance:** gives anarchism a positive, constructive account of how a stateless society could function, not merely a negative anti-state stance (Gauba, PDF p.75) → **Limitation:** critics say it is over-optimistic about human cooperation at large scale (Gauba, PDF p.78).
 
 ## 17. Objection → reply chains
 
 - ⚠️ **Chain 1 — Objection:** "Fabian gradualism, Sorel's syndicalism and full anarchism are all just different flavours of anti-capitalism, so they can be treated as one bloc." **Reply:** they differ sharply on the legitimacy of the state itself — Fabians use the existing state as an instrument of reform (Webb, §12.1/§16 Unit 1), Sorel channels revolutionary energy through unions while remaining, per Gauba, short of full anarchism (§12.2), and Proudhon/Kropotkin/Bakunin seek the state's abolition outright (Gauba, PDF pp.73-76) — collapsing these into one bloc erases the topic's central axis of disagreement (§13, State row).
-- ⚠️ **Chain 2 — Objection:** "Gandhi and Tolstoy are basically identical because both are pacifist critics of state violence." **Reply:** Tolstoy's position is an individual, largely apolitical moral-religious anarchism grounded in non-obedience (Gauba, PDF p.77), whereas Gandhi builds an organized, collective political method (satyagraha) plus a constructive economic and social programme (trusteeship, bread labour, Sarvodaya) aimed at swaraj and social reconstruction, not simply individual moral witness (Gauba, PDF pp.79-83; §12.3-12.4) — Tolstoy is best read as an influence on, not an equivalent of, Gandhism.
+- ⚠️ **Chain 2 — Objection:** "Gandhi and Tolstoy are basically identical because both are pacifist critics of state violence." **Reply:** Tolstoy's position is an individual, largely apolitical moral-religious anarchism grounded in non-obedience (Gauba, PDF p.77), whereas Gandhi builds an organized, collective political method (satyagraha) plus trusteeship and bread labour, aimed at swaraj and social reconstruction rather than only individual moral witness (Gauba, PDF pp.79-83; §§6-8, §12.3) — Tolstoy is a Gauba-grounded influence on, not an equivalent of, Gandhism.
 - ⚠️ **Chain 3 — Objection:** "Since both fascism and socialism criticize unregulated capitalism, they belong on the same side of the ledger." **Reply:** Gauba is explicit that fascism rejects equality and substitutes hierarchy, while socialism (in all variants) seeks equality through public control — the two stand for opposite social values despite sharing a critique of laissez-faire capitalism (Gauba, PDF pp.55-56, 66; §13 synthesis).
 
 ## 18. Indian conceptual anchor (no Polity/Ethics fact-ownership claimed)
 
 - ⚠️ This file does not hold Indian constitutional-provision facts (for example, which Directive Principle or Article is said to reflect Gandhian ideals) or GS-IV Ethics case material; for those use the dedicated Polity and Ethics knowledge files.
-- ⚠️ Sarvodaya and trusteeship (§12.4, §16 Unit 4) supply a conceptual yardstick that can be paired with the candidate's own independently verified facts about specific Indian rural-development, cooperative or welfare initiatives: does a given programme centre the "last person" first, and does it rely on moral/voluntary participation or on coercive redistribution? This is a lens for analysis, not a claim about any specific scheme's actual design, funding or outcome.
+- ⚠️ Trusteeship and bread labour (§§6-8, §16 Unit 4) supply a conceptual yardstick that can be paired with the candidate's own independently verified facts about stewardship, labour dignity or voluntary participation. This is a lens for analysis, not a claim about any specific scheme's actual design, funding or outcome. ➡️ The *Sarvodaya* application belongs to `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`.
 
 ## 19. 10/15/20-mark executable answer architecture
 
@@ -215,23 +216,40 @@ gandhism -> ethics in politics
 
 **15-mark (~200-250 words):** (1) qualified thesis; (2) compressed premises → mechanism → conclusion spine (§15); (3) two to three named-evidence units (§16) spanning at least two doctrines; (4) one objection → reply chain (§17); (5) verdict using the liberty-equality-state-property synthesis (§13).
 
-**20-mark (~250-300 words):** (1) qualified thesis with directive fidelity; (2) full premises → mechanism → conclusion spine; (3) four to five named-evidence units (§16) spanning socialism (Webb), anarchism (Sorel/Kropotkin), Gandhism (Tolstoy-link/Sarvodaya) and fascism's own critique (Gramsci); (4) both/all objection → reply chains (§17); (5) the Indian conceptual application (§18) as clearly-tagged ⚠️ value-addition; (6) a reasoned verdict distinguishing equality-seeking critics of capitalism from fascism's hierarchy-seeking negation (§13 synthesis verdict).
+**20-mark (strictly within 250 words):** (1) qualified thesis with directive fidelity; (2) full premises → mechanism → conclusion spine; (3) four to five named-evidence units (§16) spanning socialism (Webb), anarchism (Sorel/Kropotkin), Gandhism (Tolstoy link, trusteeship or bread labour) and fascism's own critique (Gramsci); (4) both/all objection → reply chains (§17); (5) the Indian conceptual application (§18) as clearly-tagged ⚠️ value-addition; (6) a reasoned verdict distinguishing equality-seeking critics of capitalism from fascism's hierarchy-seeking negation (§13 synthesis verdict).
 
 ## 20. Quotation, proposition-handling and fact/provenance caution
 
 - ❌ Do not present any sentence in this file as a verbatim quotation from Webb, Sorel, Tolstoy, Gandhi, Kropotkin, Proudhon, Bakunin, Mussolini, Gramsci, Burke, Oakeshott, Paine, Disraeli or Hayek unless it is already inside quotation marks in the source text used to build this file; treat all unquoted reconstructions as paraphrase. ⚠️ This applies with particular force to §22's conservatism module, where the best-known Burke and Oakeshott formulations circulate in many truncated forms — argue the proposition, never stake marks on the wording.
-- ⚠️ The Gandhi-Tolstoy influence link (§12.3) and the cross-chapter Sarvodaya citation (§12.4, Gauba PDF pp.489-490, drawn from the common-good chapter rather than this chapter's own PDF pp.55-83 range) are flagged ⚠️ specifically for provenance reasons; do not upgrade them to ✅ status or attach a specific letter, date, edition or page number beyond what is already anchored here without independent verification.
+- ✅ The Gandhi-Tolstoy influence proposition is grounded directly in Gauba at PDF p.77 (§12.3). The source supports only the general influence on Gandhi's philosophy of non-violence; it does not support a specific letter, date, correspondence history or publication title.
+- ➡️ *Sarvodaya* is cross-owned by `upsc-ai-kit\knowledge\Political-Theory\basic\21_Common-Good-and-Community.md`; no PDF pp.489-490 substance is imported into this Topic 05 canonical.
 - ⚠️ If an exam question supplies an unfamiliar quotation attributed to any thinker in this file, do not fabricate a specific book, edition, year or page for it. Decode the proposition first — identify its claim and which doctrine/axis (§13) it echoes — then answer using that analysis, explicitly noting that the quotation's exact provenance is not independently verified here.
 - ❌ Never invent a publication year, edition number or page number for a thinker's work that is not already anchored in this file or its advanced companion.
 - ⚠️ Fascism factual discipline is unchanged by this update: all fascism content remains confined to §§2-9 above, sourced only from Gauba's own critical framing (PDF pp.64-73), and is not used here as a template for governance design or a source of positive lessons.
 
 ## 21. Sources, metadata and tags
 
-- ✅ Primary source used directly: O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.2, PDF pp.55-83, with a cross-chapter Sarvodaya anchor at PDF pp.489-490 (common-good chapter).
-- ✅ Key anchors: definition and routes of socialism (PDF pp.55-56); Fabians, Webb and democratic socialism (PDF pp.57-63); fascism's origin, leader principle, hierarchy, nationalism, violence, socio-economic basis and liberal/Marxist critique (PDF pp.64-73); anarchism and its schools including Sorel and Tolstoy (PDF pp.73-78); Gandhism, trusteeship, bread labour and Marx-Gandhi comparison (PDF pp.78-83); Sarvodaya (PDF pp.489-490).
+- ✅ Primary source used directly: O. P. Gauba, *An Introduction to Political Theory*, Fifth Edition (2009), Ch.2, PDF pp.55-83.
+- ✅ Key anchors: definition and routes of socialism (PDF pp.55-56); Fabians, Webb and democratic socialism (PDF pp.57-63); fascism's origin, leader principle, hierarchy, nationalism, violence, socio-economic basis and liberal/Marxist critique (PDF pp.64-73); anarchism and its schools including Sorel and Tolstoy (PDF pp.73-78); Gandhism, trusteeship, bread labour and Marx-Gandhi comparison (PDF pp.78-83).
 - ✅ Companion file (optional further depth, not required for marks-adequacy): `Political-Theory/advanced/05_Socialism-Fascism-Anarchism-and-Gandhism.md`.
 - ⚠️ **§22 (conservatism module) provenance:** §22 is a named-scholar reconstruction added in this pass and carries **no** Gauba PDF pp.55-83 citation, because the chapter range used for this file contains no conservatism section. Its claims are sourced only to Burke (*Reflections on the Revolution in France*, 1790; Speech to the Electors of Bristol, 1774), Oakeshott ("Rationalism in Politics", 1947; collected 1962), Paine (*Rights of Man*, 1791), Disraeli (*Sybil*, 1845, with the "one nation" label flagged as later shorthand) and Hayek (*The Constitution of Liberty*, 1960, Postscript), plus cross-references to Gauba pages already verified in other files of this module (PDF p.222; pp.281-282; pp.346-347). No verbatim quotation, page, chapter or edition detail beyond those years is asserted anywhere in §22.
-- ⚠️ Tags: `#PoliticalTheory` `#Socialism` `#Fascism` `#Totalitarianism` `#Anarchism` `#Gandhism` `#Trusteeship` `#BreadLabour` `#Sarvodaya` `#Fabianism` `#Syndicalism` `#Conservatism` `#Burke` `#Oakeshott`.
+
+### 21.1 Independent name and bibliography control
+
+All URLs below were accessed **5 October 2026**.
+
+| Use | Exact independent control |
+|---|---|
+| **Sidney Webb** | Encyclopaedia Britannica, “Sidney and Beatrice Webb”: `https://www.britannica.com/biography/Sidney-and-Beatrice-Webb` |
+| **Sydney Olivier** | Archives Hub/LSE record, “Olivier, Sir Sydney (1859-1943), Baron Olivier, Fabian”: `https://archiveshub.jisc.ac.uk/data/gb97-collmisc0829` |
+| **Georges Sorel** | Encyclopaedia Britannica, “Georges Sorel”: `https://www.britannica.com/biography/Georges-Sorel`; *Reflections on Violence* control: `https://www.britannica.com/topic/Reflections-on-Violence` |
+| **Edmund Burke** | *Reflections on the Revolution in France* (London: J. Dodsley, 1790): `https://archive.org/details/burkerevolutioninfrance`; “Speech to the Electors of Bristol” (3 November 1774): `https://en.wikisource.org/wiki/The_Works_of_the_Right_Honourable_Edmund_Burke/Volume_2/Speeches_at_Bristol,_1774` |
+| **Thomas Paine** | *Rights of Man*, Part I (London: J. S. Jordan, 1791): `https://oll.libertyfund.org/titles/paine-the-rights-of-man-part-i-1791-ed` |
+| **Benjamin Disraeli** | *Sybil; or, The Two Nations* (London: Henry Colburn, 1845): `https://www.gutenberg.org/ebooks/3760` |
+| **Michael Oakeshott** | “Rationalism in Politics” (1947), collected in *Rationalism in Politics and Other Essays* (London: Methuen, 1962): `https://openlibrary.org/books/OL5854614M/Rationalism_in_politics_and_other_essays.` |
+| **F. A. Hayek** | “Why I Am Not a Conservative,” Postscript to *The Constitution of Liberty* (Chicago: University of Chicago Press, 1960): `https://contemporarythinkers.org/friedrich-hayek/essay/conservative/` |
+
+- ⚠️ Tags: `#PoliticalTheory` `#Socialism` `#Fascism` `#Totalitarianism` `#Anarchism` `#Gandhism` `#Trusteeship` `#BreadLabour` `#Fabianism` `#Syndicalism` `#Conservatism` `#Burke` `#Oakeshott`.
 
 ---
 
@@ -450,10 +468,10 @@ CONSERVATISM
 
 ### 22.9 Comparison: three anti-revolutionary routes to change
 
-| | **Burkean prudential reform** | **Fabian incrementalism** (§12.1, §16 Unit 1) | **Gandhian change** (§§12.3-12.4, §16 Units 3-4) |
+| | **Burkean prudential reform** | **Fabian incrementalism** (§12.1, §16 Unit 1) | **Gandhian change** (§§6-8, §12.3, §16 Units 3-4) |
 |---|---|---|---|
 | **Pace/method** | ⚠️ Gradual, particular, remedial; reversible where possible. | ✅ Gradual, constitutional, cumulative — legislation, administration, education, permeation (Gauba, PDF pp.57-59). | ✅ Non-violent, disciplined, public — satyagraha plus a constructive programme (Gauba, PDF pp.79-82). |
-| **Direction/end** | ⚠️ **No designed end-state**; the goal is the continued working of the existing order, repaired. | ✅ A **designed** egalitarian end-state: social control of production, democracy extended to wealth (Gauba, PDF pp.58-59). | ✅ A **morally transformed** order: swaraj, trusteeship, sarvodaya — radical ends by non-violent means (Gauba, PDF pp.79-83, 489-490). |
+| **Direction/end** | ⚠️ **No designed end-state**; the goal is the continued working of the existing order, repaired. | ✅ A **designed** egalitarian end-state: social control of production, democracy extended to wealth (Gauba, PDF pp.58-59). | ✅ A **morally transformed** order: swaraj, trusteeship, bread labour and self-regulation — radical ends by non-violent means (Gauba, PDF pp.79-83). |
 | **Warrant for change** | ⚠️ Demonstrated malfunction of a particular arrangement. | ✅ Reasoned social planning and the extension of democratic control. | ✅ Truth and ahimsa; the moral claim of the last person first. |
 | **View of the state** | ⚠️ A historically grown inheritance to be conserved and repaired. | ✅ An instrument of planned reform (Gauba, PDF pp.57-60). | ✅ A soulless coercive machine that should become redundant (Gauba, PDF p.82). |
 | **View of inherited hierarchy** | ⚠️ Presumptively legitimate until it demonstrably fails (§22.8 Chain 1). | ✅ A target of reform, but through constitutional means. | ✅ Directly attacked where it degrades the person, while rejecting coercive expropriation (trusteeship). |
@@ -548,7 +566,7 @@ CONSERVATISM
   compressed to three sentences; (3) two evidence units spanning Burke **and** Oakeshott (C1/C2 +
   C3); (4) one full objection → reply chain from §22.8 with its residual weakness conceded;
   (5) verdict distinguishing method-critique from motive-critique.
-- ⚠️ **20-mark (~250-300 words):** (1) thesis with directive fidelity; (2) full §22.7 spine;
+- ⚠️ **20-mark (strictly within 250 words):** (1) thesis with directive fidelity; (2) full §22.7 spine;
   (3) three-plus evidence units including the opposing unit C6 (Paine) and, where a New Right
   question is asked, the classification unit C5 (Hayek); (4) the strands table (§22.6) used to show
   the doctrine is internally plural, not monolithic; (5) **two** objection → reply chains (§22.8),
