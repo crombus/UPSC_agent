@@ -2,7 +2,7 @@
 
 > **Paper II — Socio-Political Philosophy**
 >
-> **Canonical syllabus owner:** Sovereignty: Austin, Bodin, Laski, Kautilya.
+> **Official syllabus boundary:** Sovereignty: Austin, Bodin, Laski, Kautilya.
 >
 > **Learning promise:** This session moves from the problem of final authority to its legal, pluralist, constitutional, strategic and international forms. It does not treat "supreme" as a definition to memorise; it teaches what each theory is trying to explain, where it succeeds, and where it breaks.
 
@@ -45,8 +45,8 @@ concept + distinctions --> Bodin --> Hobbes/Rousseau bridges --> Austin
 | 6 | Why does Austin's machine strain? | Federalism, custom, democracy, international law and Maine | 2 |
 | 7 | Can legal positivism repair Austin without abandoning legal finality? | Kelsen and Hart | 4 |
 | 8 | What does pluralism reject and retain? | Laski, Figgis, Cole and MacIver | 3 |
-| 9 | Is Kautilyan sovereignty personal or systemic? | Saptanga, dandaniti, matsya-nyaya and yogakshema | 4 |
-| 10 | How does sovereignty work among states? | Mandala, sadgunya, quotation caution and 2026 Rajamandala | 3 |
+| 9 | Is Kautilyan sovereignty personal or systemic? | Seven-limbed state, calibrated coercion, predatory disorder and welfare | 4 |
+| 10 | How does sovereignty work among states? | Circle of states, six-fold policy, quotation caution and 2026 demand | 3 |
 | 11 | Who is sovereign in a constitutional federation? | Constitutional supremacy, Article 368, federalism and Kesavananda | 4 |
 | 12 | Has interdependence or emergency ended sovereignty? | International law, pooling, globalisation, exception and synthesis | 4 |
 
@@ -60,10 +60,13 @@ Progress: 1 / 12 | Stage: Foundation | Subtopic: What "final authority" means
 
 ### PRE-TEACH CHECKLIST
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - **Book context:** queried — Gauba, *An Introduction to Political Theory*, PDF pp. 179–193; local *Socio-Political Philosophy*, PDF pp. 55–67.
-- **Repository context:** canonical owner, learner-v2, layered package, advanced dossier and PYQ ledgers audited.
-- **Current anchor:** the UN Charter still begins from the "sovereign equality" of members while binding them to Charter obligations (official UN text, Article 2; retrieved 2026-09-25).
-- **Boundary:** this lesson defines the authority problem; it does not teach the full theories of liberty, equality, justice or political obligation.
+- **Exam link:** thirteen directly relevant Philosophy Optional questions from 2018–2026 test these distinctions and the four printed thinkers.
+- **CA search:** not required for the timeless doctrine; the stable official source was checked directly.
+- **CA found:** no event-based link needed. UN Charter Article 2 combines the sovereign equality of members with good-faith Charter obligations (rechecked 2026-10-06).
+- **Scope:** this lesson defines the authority problem; the full theories of liberty, equality, justice and political obligation are used only where they test sovereignty.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — one word, several questions
 
@@ -98,7 +101,7 @@ The monist tradition describes sovereignty through five connected attributes:
 
 1. **Absoluteness:** no superior human law-maker exists within the order.
 2. **Permanence or continuity:** office and legal order outlast particular rulers.
-3. **Universality:** jurisdiction reaches persons and associations within the territory.
+3. **Universality:** jurisdiction reaches persons and associations within the territory, while immunities or protected spheres may exist because the legal order recognises them.
 4. **Inalienability:** transferring final authority would terminate the original sovereignty, though powers may be delegated.
 5. **Indivisibility:** two equally final legal wills would leave conflict without a legal settlement.
 
@@ -113,6 +116,8 @@ These are claims of the classical doctrine, not neutral facts about every modern
 | De jure / de facto | Lawful title | Actual control and obedience | Effectiveness alone does not establish legitimacy. |
 | Titular / actual | Nominal or ceremonial bearer | Institution or coalition that really decides | A head of state may be titular without being politically final. |
 | Popular / national | People as source of authority | Nation as the political community claiming self-rule | Neither means every temporary majority is morally infallible. |
+
+Two named illustrations make these distinctions concrete. **Bodin** attaches continuity to the sovereign office rather than its temporary holder: changing the ruler need not end the public order. **Dicey**, a constitutional theorist, distinguishes the formal law-making authority from the electors and public opinion that influence it. These illustrate permanence and legal/political sovereignty respectively; neither illustration proves that final authority is morally infallible.
 
 ### 4. The philosophical dispute
 
@@ -137,39 +142,72 @@ Open almost every sovereignty answer with two lines of taxonomy, not with a dict
 
 Without looking back, write the five classical characteristics and give one sentence distinguishing legal sovereignty from political sovereignty.
 
+### Revision notes
+
+1. Sovereignty is a claim to final public authority, not merely superior force.
+2. The state or legal order continues while particular governments change.
+3. The five classical attributes are absoluteness, permanence, universality, inalienability and indivisibility; universality allows legally recognised immunities.
+4. Internal supremacy and external independence answer different questions.
+5. Legal sovereignty identifies formal competence; political sovereignty identifies effective influence.
+6. De jure/de facto differs from titular/actual: title versus control is not the same as nominal versus effective office.
+7. Popular sovereignty identifies the people as source; national sovereignty concerns collective self-rule.
+8. Legal finality never by itself proves moral infallibility.
+
 ### Lesson MCQs
 
-**MCQ 1: A**
+#### Questions
+**MCQ 1**
 
 Which statement most accurately distinguishes sovereignty from coercive power?
 
-A. Sovereignty claims settled final public authority, whereas coercion can be episodic and non-authoritative.
-B. Sovereignty excludes every use of coercion.
-C. Any actor capable of compelling obedience is sovereign.
-D. Sovereignty is identical with the current government.
+A. Sovereignty is the political order's continuing claim to final public authority.
+B. Sovereignty consists in lawful office-holding with ordinary governmental competence.
+C. Sovereignty consists in securing stable obedience throughout the governed territory.
+D. Sovereignty concerns external independence rather than internal supremacy over public decisions.
 
-- **A - Correct.** The concept includes an authoritative and continuing claim, not merely the capacity to force compliance.
-- **B - Incorrect.** Sovereign orders commonly use coercion; the distinction is between authoritative order and brute force, not force and non-force.
-- **C - Incorrect.** Bandits, militias and powerful firms may compel conduct without possessing final public authority.
-- **D - Incorrect.** Government is a changeable institutional agent; sovereignty concerns the political order's claim to finality.
-
-**MCQ 2: B**
+**MCQ 2**
 
 A constitutionally recognised monarch who performs ceremonial functions while an elected cabinet makes effective policy illustrates:
 
-A. external rather than internal sovereignty.
+A. legal rather than political sovereignty.
 B. titular rather than actual sovereignty.
-C. de facto rather than de jure sovereignty.
-D. popular rather than legal sovereignty.
+C. de jure rather than de facto sovereignty.
+D. popular rather than national sovereignty.
 
-- **A - Incorrect.** The example concerns the difference between nominal office and actual decision, not foreign independence.
-- **B - Correct.** Titular sovereignty is formal dignity; actual sovereignty refers to the effective centre of decision.
-- **C - Incorrect.** The monarch may possess lawful title, so the contrast is not necessarily legal title versus unlawful control.
-- **D - Incorrect.** Popular sovereignty concerns the source of legitimacy in the people, not the ceremonial/effective distinction.
+#### Answers and explanations
+**MCQ 1 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The concept includes an authoritative and continuing claim, not merely the capacity to force compliance.
+- **B — Incorrect:** Lawful office explains de jure authority, but not whether that office is the final authority of the whole political order.
+- **C — Incorrect:** Bandits, militias and powerful firms may compel conduct without possessing final public authority.
+- **D — Incorrect:** External independence and internal supremacy are distinct dimensions, not alternatives that exclude one another. External status alone does not explain the claim to final public authority that distinguishes sovereignty from force.
+
+**MCQ 2 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Legal/political sovereignty concerns formal competence versus effective social power, not ceremonial title versus the institution that actually governs.
+- **B — Correct:** Titular sovereignty is formal dignity; actual sovereignty refers to the effective centre of decision.
+- **C — Incorrect:** The monarch may possess lawful title, so the contrast is not necessarily legal title versus unlawful control.
+- **D — Incorrect:** Popular/national sovereignty concerns the source and political community of authority, not nominal office versus effective rule.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** Distinguish sovereignty from coercive power and governmental power.
+
+**Directive:** Distinguish.
+
+**Model answer:** Sovereignty is the claim to final, continuing public authority; coercion is the capacity to compel, and government is its current institutional agent. Bodin's perpetual sovereign office outlasts its holder, showing why governmental change need not end sovereignty. A bandit can coerce without public authority, so force alone cannot establish finality. Dicey's legal–political distinction adds that a formally competent legislature may be shaped by electors or organised interests: legal finality does not entail practical omnipotence. India's “We, the People” formula likewise identifies constituent authorship without granting unlimited competence to the cabinet. Governments therefore act within an enduring order, using coercion among other means. The distinctions concern authority, means and agency; none by itself establishes that a final decision is morally right.
+
+**Why this earns marks:** Bodin explains continuity, Dicey separates competence from influence, and the Indian constituent-authority example limits governmental power; the bandit isolates coercion without confusing force with authority.
 
 ### Mini recap
 
 > **Mnemonic:** **A-P-U-I-I** — Absolute, Permanent, Universal, Inalienable, Indivisible. Treat it as the classical monist claim to be tested, not as a description to repeat uncritically.
+
+Once final authority is distinguished from force and office, a new question arises: who may claim to authorise it? That question takes us from competing medieval jurisdictions to the people, the nation and Bodin's continuing public office.
 
 ---
 
@@ -179,10 +217,13 @@ Progress: 2 / 12 | Stage: Foundation | Subtopic: How the locus of authority move
 
 ### PRE-TEACH CHECKLIST
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - **Book context:** queried — Gauba's historical sequence from Bodin through Rousseau and Dicey's legal/political distinction.
-- **Repository context:** popular sovereignty and national sovereignty were underdeveloped in older lesson shells and are made explicit here.
-- **Current anchor:** the Constitution of India continues to locate constituent authorship in "We, the People", while all constituted institutions remain competence-bound (official Constitution source located; retrieved 2026-09-25).
-- **Boundary:** democracy as a form of government belongs to Forms of Government; here democracy matters only as a claim about the source of sovereignty.
+- **Exam link:** popular and national sovereignty clarify the changing bearer of finality without displacing Austin, Bodin, Laski or Kautilya.
+- **CA search:** not required; no meaningful recent event controls this conceptual history.
+- **CA found:** none required. The Constitution's "We, the People" formula is used only as a stable institutional illustration of constituent authorship.
+- **Scope:** democracy appears here only as a claim about the source of sovereignty, not as a full theory of governmental institutions.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — the movement of the sovereign claim
 
@@ -206,7 +247,7 @@ people author the order; institutions exercise limited competences
 
 ### 1. Why sovereignty became urgent
 
-The modern doctrine emerged from competing jurisdictions. Feudal lords, estates, churches and monarchs could each make serious claims to obedience. Bodin's achievement was to turn the political need for unity into a concept of a **permanent public office of final law-making**.
+The modern doctrine emerged from competing jurisdictions. Feudal lords, estates, churches and monarchs could each make serious claims to obedience. In sixteenth-century France, the Wars of Religion made this fragmentation violently concrete: confessional conflict and rival institutional loyalties threatened the unity of the commonwealth. Bodin's achievement was to turn that French crisis of order into a concept of a **permanent public office of final law-making**.
 
 This historical origin matters: sovereignty is not originally a celebration of arbitrary power. It is an answer to the danger of rival final authorities and civil conflict.
 
@@ -256,53 +297,90 @@ Popular sovereignty later changes the **bearer** of finality but inherits Bodin'
 
 Explain in four sentences why "the people are sovereign" does not mean "the elected government is legally unlimited."
 
+### Revision notes
+
+1. Bodin's doctrine responds to the French Wars of Religion and conflict among church, crown, estates, lords and guilds.
+2. Bodin converts the need for unity into a permanent public law-giving office.
+3. Popular sovereignty locates ultimate authorship in the people corporately understood.
+4. A temporary majority is not automatically the sovereign people or the common good.
+5. National sovereignty concerns which political community claims self-determination.
+6. Rousseau keeps sovereignty with the general will and treats government as agent.
+7. Legal and political sovereignty may diverge in representative government.
+8. Constituent authorship does not make constituted institutions unlimited.
+
 ### Lesson MCQs
 
-**MCQ 3: C**
+#### Questions
+**MCQ 3**
 
 Popular sovereignty is best understood as the claim that:
 
-A. every citizen must personally approve every law.
-B. the legislature is always legally unlimited.
-C. the people in their corporate capacity are the ultimate source of public authority.
-D. majority preference and the general will are necessarily identical.
+A. direct citizen authorisation is required for each binding public decision.
+B. the elected legislature stands beyond ordinary legal challenge during its mandate.
+C. the people, understood corporately, are the ultimate source of public authority.
+D. public authority originates in citizens as separate private persons.
 
-- **A - Incorrect.** Popular sovereignty can operate through representative and constitutional institutions.
-- **B - Incorrect.** Constituted legislatures can remain limited even when the people are the constituent source.
-- **C - Correct.** The doctrine locates the ultimate source of authority in the people as a political body.
-- **D - Incorrect.** Rousseau's general will is not reducible to the sum of momentary private preferences.
+**MCQ 4**
 
-**MCQ 4: D**
+Which statement most precisely distinguishes popular sovereignty from national sovereignty?
 
-What is the strongest reason for distinguishing national sovereignty from popular sovereignty?
+A. Popular sovereignty identifies the effective power behind law, whereas national sovereignty identifies lawful title.
+B. Popular sovereignty identifies the immediate legal organ, whereas national sovereignty identifies the electorate.
+C. National sovereignty assumes that nation and existing state are coextensive, whereas popular sovereignty rejects statehood.
+D. Popular sovereignty names the people as authorising source, whereas national sovereignty concerns collective self-rule.
 
-A. National sovereignty is always legal, while popular sovereignty is always political.
-B. Popular sovereignty denies collective identity.
-C. National sovereignty belongs only to monarchies.
-D. A historically self-conscious nation and the legally constituted people of a state may not be coextensive.
-
-- **A - Incorrect.** Either concept can be used in legal or political arguments.
-- **B - Incorrect.** Popular sovereignty itself concerns a collective political body.
-- **C - Incorrect.** National sovereignty has often supported republican and anti-imperial movements.
-- **D - Correct.** Multinational states and nations spread across states show why nation and people cannot simply be equated.
-
-**MCQ 5: A**
+**MCQ 5**
 
 Which statement best expresses Bodin's historical importance?
 
-A. He transformed the need for unity above faction into a systematic doctrine of permanent public law-giving authority.
-B. He invented popular sovereignty and representative democracy.
-C. He denied every distinction between state and government.
-D. He argued that all associations possess equal final authority.
+A. He systematised one continuing public law-giver above rival final claims.
+B. He founded popular sovereignty by making representative elections the source of legislation.
+C. He dissolved the distinction between the continuing commonwealth and temporary government.
+D. He replaced the continuing sovereign office with a theory of revocable magistracy.
 
-- **A - Correct.** Bodin gives modern statehood its systematic language of absolute and perpetual sovereignty.
-- **B - Incorrect.** Popular sovereignty is associated more directly with later democratic theorists, especially Rousseau.
-- **C - Incorrect.** Bodin's perpetuity depends precisely on distinguishing enduring authority from temporary magistrates.
-- **D - Incorrect.** Equal finality among associations would contradict his monist purpose.
+#### Answers and explanations
+**MCQ 3 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Popular sovereignty can operate through representative and constitutional institutions; direct assent to every law is not required.
+- **B — Incorrect:** A constituted legislature may remain legally limited even when the people are the constituent source.
+- **C — Correct:** The doctrine locates ultimate authorship in the people as a corporate political body.
+- **D — Incorrect:** Popular sovereignty attributes ultimate authority to the people in their corporate political capacity, not to a collection of separate private mandates.
+
+**MCQ 4 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Effective power and lawful title belong to the political/legal and de facto/de jure distinctions, not this pair.
+- **B — Incorrect:** Popular sovereignty concerns constituent authorship rather than one immediate legal organ, and national sovereignty is not another name for the electorate.
+- **C — Incorrect:** Nation and state may diverge, so national sovereignty need not presume their coextension. Popular sovereignty identifies the source of public authority rather than rejecting statehood.
+- **D — Correct:** The two doctrines answer different questions: from whom authority arises, and which political community claims self-government.
+
+**MCQ 5 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Bodin gives modern statehood its systematic language of absolute and perpetual public authority.
+- **B — Incorrect:** Popular sovereignty and representative democracy are later developments and do not define Bodin's project.
+- **C — Incorrect:** Perpetuity depends on distinguishing the continuing office from temporary holders and governments.
+- **D — Incorrect:** A revocable or temporary magistrate is precisely what Bodin distinguishes from the sovereign.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** Explain why popular sovereignty does not make an elected government legally unlimited.
+
+**Directive:** Explain.
+
+**Model answer:** Popular sovereignty locates the ultimate source of public authority in the people corporately understood. Rousseau therefore treats the general will as sovereign and government as its executive agent. An elected government is only a constituted institution: it acts through competences created by a constitutional order and remains limited by term, procedure, rights and review. A temporary majority may aggregate private interests rather than express the common good. The Constitution's “We, the People” formula illustrates constituent authorship, but Parliament and the executive remain constituted authorities. Popular sovereignty therefore grounds legitimacy and accountability; it does not transfer moral infallibility or unlimited legal competence to whoever currently governs.
+
+**Why this earns marks:** It uses Rousseau and the constituent/constituted distinction, answers the exact “why,” and prevents the majority-rule trap.
 
 ### Mini recap
 
 > Popular sovereignty changes **who authorises**; constitutionalism controls **how authorised institutions act**. Never collapse constituent authorship into constituted omnipotence.
+
+Changing the bearer does not yet explain what makes authority final. Bodin's answer supplies the next step: a continuing law-giving office must be distinguished from temporary, delegated power.
 
 ---
 
@@ -312,10 +390,13 @@ Progress: 3 / 12 | Stage: Core | Subtopic: Bodin's complete argument
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** queried — Gauba pp. 181–187 and canonical Bodin module.
-- **Repository context:** 2020 and 2022 Bodin PYQs verified.
-- **Current anchor:** UK parliamentary sovereignty is used later as an institutional comparison, not as proof of Bodin's theory.
-- **Boundary:** equality, justice and liberty are introduced only as tests of Bodin; their full theories remain with Social and Political Ideals.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** queried — Gauba pp. 181–187 and the complete Bodin doctrine.
+- **Exam link:** the 2020 question tests Bodin's importance; the 2022 question tests his reasons and compatibility with equality, justice and liberty.
+- **CA search:** not required; Bodin's doctrine is historical and conceptual.
+- **CA found:** none required. UK parliamentary sovereignty appears later only as a stable jurisdictional comparison, not as proof of Bodin's theory.
+- **Scope:** equality, justice and liberty are introduced only as normative tests of Bodin's concentrated final authority.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — Bodin's solution and tension
 
@@ -340,6 +421,8 @@ rival final claims --> civil conflict --> ONE sovereign office
 ### 1. Exact definition
 
 Bodin's sovereignty is the **absolute and perpetual power of a commonwealth**. The formula must be kept intact.
+
+The historical problem is the French Wars of Religion: if crown, church, estates and feudal powers each claim the last word, civil conflict has no public legal terminus. Bodin therefore seeks one continuing law-giving office above faction. This context explains his priority of unity without proving that concentrated authority is democratically legitimate.
 
 - **Absolute:** the sovereign has no human superior within the commonwealth and can make general law without another earthly authority's permission.
 - **Perpetual:** sovereignty belongs to the continuing office, not to a temporary commissioner or magistrate.
@@ -366,6 +449,10 @@ Thus *legibus solutus* means released from ordinary positive law made by the sov
 **Bodinian reply:** a sovereign legally subordinated to another domestic body would no longer be final.
 **Residual:** Bodin secures unity more successfully than he secures institutional accountability.
 
+### Worked example and limit
+
+Suppose a military commissioner receives sweeping powers for two years, but the commonwealth can revoke the commission. The official may command more force than ordinary magistrates, yet remains a delegate because the authority is temporary and derivative. The example clarifies **perpetuity** and sovereign title. It does not establish that Bodin's higher-law restraints are effectively enforceable; that remains the theory's institutional weakness.
+
 ### 5. Compatibility with modern ideals
 
 | Ideal | Bodin's possible contribution | Bodin's difficulty |
@@ -381,39 +468,72 @@ The disciplined verdict is **historically foundational, normatively conditional*
 - **2020 Q1(d), 10 marks:** definition → three attributes → higher-law qualification → foundational importance.
 - **2022 Q2(a), 20 marks:** Part A proves absolute/perpetual/undivided; Part B tests equality/justice/liberty through objection, partial defence and institutional residual.
 
+### Revision notes
+
+1. Bodin answers the French Wars of Religion by locating one continuing public law-giver above rival confessional and feudal claims.
+2. Absolute means no superior human law-giver within the political order.
+3. Perpetual means the office outlasts a temporary magistrate or holder.
+4. Indivisibility protects one final title while permitting distributed governmental functions.
+5. The pre-eminent mark is the power to make and unmake general positive law.
+6. Divine law, natural law and the fundamental laws of the realm remain normative limits.
+7. Bodin's deepest weakness is the lack of an effective institutional enforcer of those limits.
+8. His modern value is foundational; his compatibility with equality, justice and liberty is conditional.
+
 ### Lesson MCQs
 
-**MCQ 6: B**
+#### Questions
+**MCQ 6**
 
-For Bodin, "perpetual" sovereignty primarily means that:
+Which statement best explains what Bodin means by perpetual sovereignty?
 
-A. the same ruler must remain in office for life.
-B. sovereign authority belongs to the continuing commonwealth and office rather than a temporary holder.
-C. laws can never be repealed.
-D. sovereignty exists only in hereditary monarchy.
+A. The duration of sovereignty follows the reigning ruler's personal tenure.
+B. Sovereign office continues beyond the tenure of its successive holders.
+C. Perpetuity preserves enacted law against later sovereign repeal.
+D. Continuing authority requires hereditary rather than elective succession.
 
-- **A - Incorrect.** Perpetuity concerns the continuity of authority, not the biological tenure of one ruler.
-- **B - Correct.** A temporary magistrate may exercise power, but sovereignty outlasts that magistrate.
-- **C - Incorrect.** The power to make and unmake ordinary law is a mark of sovereignty.
-- **D - Incorrect.** Bodin's concept is historically monarchic but the attribute itself is not logically confined to hereditary rule.
-
-**MCQ 7: C**
+**MCQ 7**
 
 Which criticism most precisely identifies the weakness in Bodin's higher-law restraints?
 
-A. Bodin denies natural law altogether.
-B. Bodin makes ordinary legislation superior to sovereignty.
-C. The restraints are normatively real but lack a strong institutional mechanism of enforcement.
-D. The restraints divide sovereignty equally among churches and estates.
+A. Bodin excludes natural law from the sovereign's normative environment.
+B. Bodin's higher-law limits depend on revocable sovereign grants rather than independent obligations.
+C. Higher-law restraints are normatively real but lack a reliable institutional mechanism of enforcement.
+D. The restraints govern private morality but leave sovereign public conduct largely outside divine and natural law.
 
-- **A - Incorrect.** Divine and natural law are explicit limits in Bodin's framework.
-- **B - Incorrect.** The sovereign is above ordinary positive law in the relevant juristic sense.
-- **C - Correct.** The central problem is not the absence of limits in principle but their institutional softness.
-- **D - Incorrect.** Bodin's project is to overcome rival final claims, not constitutionalise them as equals.
+#### Answers and explanations
+**MCQ 6 — Answer and explanation**
 
-### Mains micro-drill
+**Correct answer: B**
 
-Write a 60-word verdict beginning: "Bodin is absolute in the hierarchy of positive law, but..."
+- **A — Incorrect:** Perpetuity concerns continuity of the office, not the biological tenure of one ruler.
+- **B — Correct:** A temporary magistrate may exercise extensive power, but sovereign title continues through changing holders.
+- **C — Incorrect:** The power to make and unmake ordinary law is a mark of sovereignty, so perpetuity does not freeze legislation.
+- **D — Incorrect:** The attribute is not logically confined to hereditary monarchy; the decisive point is continuing public authority.
+
+**MCQ 7 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Divine and natural law are explicit limits in Bodin's framework.
+- **B — Incorrect:** Bodin treats higher-law duties as binding independently of ordinary sovereign legislation. Weak institutional enforcement does not turn those duties into discretionary grants that the sovereign can revoke.
+- **C — Correct:** The central difficulty is institutional softness: the limits exist, but no co-ordinate domestic body reliably enforces them.
+- **D — Incorrect:** Bodin applies higher-law restraints to sovereign conduct; the objection is weak enforcement, not their restriction to private life.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** “Bodin's sovereign is absolute but not lawless.” Explain.
+
+**Directive:** Explain.
+
+**Model answer:** Bodin calls sovereignty the absolute and perpetual power of a commonwealth. “Absolute” means that no superior human law-giver binds the sovereign within the political order; the sovereign may make and unmake general positive law. “Perpetual” attaches authority to the continuing office rather than a temporary magistrate. Yet the sovereign remains bound by divine law, natural law and the fundamental laws of the realm (*leges imperii*). This qualification prevents Bodin from becoming a theory of sheer caprice. The difficulty is institutional: if no domestic body can enforce the higher-law limits, accountability remains weak. Bodin therefore secures unity against rival final claims more convincingly than he secures enforceable restraint.
+
+**Why this earns marks:** It states the exact formula, names three limits, and turns the apparent contradiction into an objection–reply–residual sequence.
+
+### Mini recap
+
+> Bodin solves divided finality by making sovereignty absolute, perpetual and undivided, but his higher-law restraints remain institutionally weak.
+
+That solution leaves its justification unsettled: why should people accept such formidable final power? Hobbes answers through security, while Rousseau asks how final authority can remain an expression of the people's own will.
 
 ---
 
@@ -423,10 +543,13 @@ Progress: 4 / 12 | Stage: Core | Subtopic: Two rival relocations of finality
 
 ### PRE-TEACH CHECKLIST
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - **Book context:** queried — Gauba's Bodin–Hobbes–Rousseau sequence.
-- **Repository context:** both thinkers are contextual bridges, not the four primary syllabus owners of this clause.
-- **Current anchor:** no mutable current claim is needed; the lesson is doctrinal.
-- **Boundary:** full social-contract theory belongs to Individual and State; only the sovereignty implications are developed here.
+- **Exam link:** Hobbes supplies the security argument and Rousseau the popular-sovereignty counterpoint needed to compare later theories.
+- **CA search:** not required; no mutable claim improves this doctrinal comparison.
+- **CA found:** none in scope.
+- **Scope:** only the sovereignty implications of the social contract are developed here.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — same contract language, opposite loci
 
@@ -490,67 +613,106 @@ Classify each claim as closer to Hobbes, Rousseau or neither:
 
 1. "An authority unable to decide conclusively in crisis cannot secure peace."
 2. "Government exercises power but cannot own the people's sovereign will."
-3. "A legislature is valid because officials accept a rule of recognition."
+3. "A numerical majority may govern, yet government remains an agent of the people."
 
-Answers: Hobbes; Rousseau; neither (Hart).
+Answers: Hobbes; Rousseau; Rousseau.
+
+### Revision notes
+
+1. Hobbes supplies the security argument for one formidable final authority.
+2. If every private judgment remains final, public authority cannot end insecurity.
+3. Rousseau relocates sovereignty from ruler to the people as general will.
+4. For Rousseau, sovereignty is inalienable and indivisible, while government is executive agent.
+5. The general will concerns common interest, not the arithmetic sum of private preferences.
+6. Bodin seeks unity, Hobbes seeks security, and Rousseau seeks legitimate self-rule.
+7. Austin later keeps legal finality but drops Hobbes's contractual justification.
+8. Laski challenges the move from public coordination to unconditional allegiance.
 
 ### Lesson MCQs
 
-**MCQ 8: D**
+#### Questions
+**MCQ 8**
 
 Why does Hobbes favour undivided sovereign authority?
 
-A. Because every association naturally has equal jurisdiction.
-B. Because law is valid only when it conforms to natural rights.
-C. Because sovereignty belongs to a presupposed norm.
-D. Because rival final judgments would revive the insecurity that sovereign authority is created to end.
+A. Security rests chiefly on higher-law restraints governing sovereign legislation.
+B. Subjects may revoke authorisation whenever a command conflicts with their private judgment.
+C. Sovereign decisions remain advisory until subordinate magistrates ratify them.
+D. Competing final judgments reopen the insecurity that sovereign authority is meant to end.
 
-- **A - Incorrect.** Equal associational jurisdiction is closer to a pluralist concern, not Hobbes's solution.
-- **B - Incorrect.** Hobbes's argument centres on authorised order and security, not a Lockean natural-rights limit.
-- **C - Incorrect.** The presupposed basic norm belongs to Kelsen.
-- **D - Correct.** The security rationale requires one effective final authority capable of closing conflict.
-
-**MCQ 9: A**
+**MCQ 9**
 
 For Rousseau, government is:
 
-A. an agent executing the general will, not the owner of sovereignty.
-B. the determinate superior who creates all law by sanction.
-C. identical with the sovereign people in every act.
-D. an association with no public function.
+A. an executive agent implementing laws issued by the sovereign people.
+B. the law-giver whose commands create the general will rather than carry it out.
+C. a superior guide entitled to substitute its judgment for the people's will.
+D. a co-sovereign sharing popular title, alongside its executive role.
 
-- **A - Correct.** Sovereignty remains with the people; government performs executive functions.
-- **B - Incorrect.** This describes Austin's legal model rather than Rousseau's popular sovereignty.
-- **C - Incorrect.** Rousseau's distinction between sovereign and government is essential.
-- **D - Incorrect.** Government has a necessary executive role even though it is not sovereign.
+**MCQ 10**
 
-**MCQ 10: B**
+What is the strongest caution against equating Rousseau's general will with a majority vote?
 
-What is the strongest caution against equating the general will with a majority vote?
+A. Legitimate collective decisions require unanimity rather than any use of majority voting.
+B. A majority may aggregate private interests without expressing the common good.
+C. Government identifies the general will merely by holding executive office.
+D. The general will concerns a nation's inherited identity rather than its shared public interests.
 
-A. Rousseau rejects all collective decisions.
-B. A numerical majority may aggregate private interests rather than express the common good.
-C. The general will belongs to a monarch.
-D. Majority voting is a form of external sovereignty.
+**MCQ 11**
 
-- **A - Incorrect.** Rousseau's theory is fundamentally collective.
-- **B - Correct.** The general will is a normative idea of common interest, not a synonym for any electoral outcome.
-- **C - Incorrect.** Sovereignty belongs to the people in their corporate capacity.
-- **D - Incorrect.** The issue concerns internal legitimacy, not independence among states.
+Which comparison of Hobbes and Rousseau is accurate?
 
-**MCQ 11: C**
+A. Hobbes's sovereign is the general will and Rousseau's is an authorised ruler.
+B. Both identify sovereignty with whichever government currently exercises executive power.
+C. Hobbes grounds finality in security, whereas Rousseau locates it in the people's general will.
+D. Both make sovereignty alienable to representatives once political society has been formed.
 
-Which sequence correctly states the comparative bridge to Austin?
+#### Answers and explanations
+**MCQ 8 — Answer and explanation**
 
-A. Rousseau supplies command and sanction; Hobbes supplies the rule of recognition.
-B. Hobbes and Rousseau both dissolve every idea of final authority.
-C. Hobbes strengthens the security case for finality, while Rousseau relocates finality in the people.
-D. Rousseau makes elected government legally illimitable.
+**Correct answer: D**
 
-- **A - Incorrect.** Command and sanction belong to Austin; the rule of recognition belongs to Hart.
-- **B - Incorrect.** Both retain a strong idea of sovereignty, though they locate and justify it differently.
-- **C - Correct.** This is their precise relevance to the sovereignty debate.
-- **D - Incorrect.** Government remains an agent and cannot alienate popular sovereignty.
+- **A — Incorrect:** Higher-law restraints recall Bodin's limiting framework. Hobbes's reason for undivided authority is the need to close rival judgments that would otherwise recreate insecurity.
+- **B — Incorrect:** If each subject retained a conclusive private veto, the authorised sovereign could not end the insecurity for which it was created.
+- **C — Incorrect:** Subordinate ratification would make magistrates co-decisive and defeat Hobbes's requirement of effective finality.
+- **D — Correct:** The security rationale requires one authority capable of closing disputes that private judgment cannot finally settle.
+
+**MCQ 9 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Sovereignty remains with the people; government performs executive functions.
+- **B — Incorrect:** Governmental commands do not generate Rousseau's general will. Government executes the sovereign people's law rather than creating the will from which that law derives.
+- **C — Incorrect:** Government's executive competence does not make its judgment superior to the sovereign people's will. The agent implements public law rather than substituting its own will for the source of law.
+- **D — Incorrect:** Government has a necessary executive role, but it does not share sovereign title with the people.
+
+**MCQ 10 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Rousseau does not make unanimity the standing test of every legitimate collective decision.
+- **B — Correct:** The general will is a normative orientation to common interest, not a synonym for any electoral result.
+- **C — Incorrect:** Government is an agent of the sovereign people and cannot certify the general will merely by virtue of office.
+- **D — Incorrect:** Historical national identity belongs to the national-sovereignty question. Rousseau's general will concerns the common public interest, which still has to be distinguished from factional preferences.
+
+**MCQ 11 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** The locations are reversed: Hobbes authorises a sovereign, while Rousseau retains sovereignty in the people as general will.
+- **B — Incorrect:** Rousseau sharply distinguishes sovereign people from government, and Hobbes's sovereign is not simply any current executive.
+- **C — Correct:** They preserve final authority for different reasons and place it in different bearers: security versus legitimate self-rule.
+- **D — Incorrect:** Rousseau explicitly treats sovereignty as inalienable, while Hobbes does not make representation the shared doctrine stated here.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** Compare Hobbes's and Rousseau's reasons for retaining a strong concept of sovereignty.
+
+**Directive:** Compare.
+
+**Model answer:** Hobbes and Rousseau both reject divided finality, but for different reasons. Hobbes begins from insecurity: if private judgment remains conclusive, conflict returns, so an authorised sovereign must be practically irresistible. Rousseau begins from freedom: legitimate law must express the general will, so sovereignty remains inalienably with the people and government becomes only an agent. Hobbes protects order by concentrating decision; Rousseau protects self-rule by relocating decision in the corporate people. Their risks also differ—protective power may become domination in Hobbes, while governments may falsely identify factional majority with the general will in Rousseau. Both preserve sovereignty, but one is security-first and the other legitimacy-first.
+
+**Why this earns marks:** The answer runs shared axes, gives each thinker's strongest rationale, and qualifies both without turning them into biographies.
 
 ### Mini recap
 
@@ -564,10 +726,13 @@ Progress: 5 / 12 | Stage: Core | Subtopic: The determinate superior
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** queried — Gauba pp. 183–190 and canonical Austin apparatus.
-- **Repository context:** Austin's definition, attributes and exact internal/external criticisms reconciled.
-- **Current anchor:** the UK Parliament's official description calls Parliament the supreme legal authority in the UK constitutional tradition (official UK Parliament search result; retrieved 2026-09-25). This is an institutional illustration, not an identity claim that Austin perfectly describes the UK.
-- **Boundary:** British constitutional detail is not developed beyond the legal-sovereignty comparison.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** queried — Gauba pp. 183–190 and Austin's complete analytical apparatus.
+- **Exam link:** Austin's exact definition supports the 2019 comparison with Kautilya and the 2021 democracy question.
+- **CA search:** not required; a stable official institutional description is sufficient.
+- **CA found:** no event-based link needed. The UK Parliament description is used only to illustrate a jurisdiction-specific doctrine; it does not prove that Austin perfectly describes the United Kingdom.
+- **Scope:** British constitutional detail is used only to clarify legal sovereignty.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — Austin's legal machine
 
@@ -632,53 +797,90 @@ Austin does **not** need to claim that morality and custom are socially irreleva
 
 For **2021 Q1(c)**, first state this machine exactly. Only then ask whether a democratic constitutional order can satisfy it.
 
+### Revision notes
+
+1. Austin separates law as it is from law as it ought to be.
+2. The sovereign is a determinate human superior, not an abstract state or diffuse people.
+3. The bulk of society habitually obeys it, and it habitually obeys no like superior.
+4. Positive law is analysed as sovereign command backed by sanction.
+5. Penal prohibitions fit the model better than power-conferring rules.
+6. Austin's absoluteness is legal, not a claim of practical omnipotence or moral perfection.
+7. The UK illustration is jurisdiction-specific; India does not follow orthodox parliamentary sovereignty.
+8. The theory's clarity lies in legal form, and its vulnerability lies in modern institutional complexity.
+
 ### Lesson MCQs
 
-**MCQ 12: D**
+#### Questions
+**MCQ 12**
 
 Which element is indispensable to Austin's definition of the sovereign?
 
-A. Moral infallibility.
-B. Direct election by the people.
-C. Conformity to natural law.
-D. Determinacy as an identifiable human person or body.
+A. An authority delegated by a superior, but independent in ordinary administration.
+B. An authority directly elected by the governed population.
+C. An authority commanding unanimous obedience rather than compliance by the bulk.
+D. An identifiable human superior habitually obeyed by society's bulk.
 
-- **A - Incorrect.** Austin separates legal validity from moral merit.
-- **B - Incorrect.** His definition can apply to non-democratic as well as democratic orders.
-- **C - Incorrect.** Natural law does not supply the criterion of positive legal sovereignty.
-- **D - Correct.** A diffuse or mystical source cannot satisfy the determinate-superior test.
-
-**MCQ 13: A**
+**MCQ 13**
 
 Why does penal law fit Austin's command theory especially well?
 
-A. It often takes the form of a prohibition backed by a threatened sanction.
-B. It consists mainly of power-conferring rules.
-C. It derives validity from customary acceptance alone.
-D. It lacks any relation of superiority and obedience.
+A. Penal rules impose specific legal duties enforceable by sanctions for prohibited conduct.
+B. Penal rules primarily confer private powers to create wills, contracts and legal relationships.
+C. Penal rules acquire legal validity because their moral wrongness is independently sufficient.
+D. Penal rules are customary standards without dependence on a recognised legislative source.
 
-- **A - Correct.** Penal prohibitions display Austin's command, duty and sanction structure clearly.
-- **B - Incorrect.** Power-conferring rules are a major difficulty for the command model.
-- **C - Incorrect.** Austin tries to connect legal validity to sovereign command, not custom alone.
-- **D - Incorrect.** The relation of superior command is central to his account.
+**MCQ 14**
 
-**MCQ 14: B**
+Which interpretation of Austinian illimitability is correct?
 
-Austin's claim that the sovereign is "illimitable" means:
+A. It rules out delegating executive, judicial or administrative functions.
+B. It excludes the sovereign's legal subordination to a human law-maker.
+C. It removes moral criticism from judgments about sovereign conduct.
+D. It makes political resistance irrelevant to the study of authority.
 
-A. the sovereign can accomplish any political objective.
-B. no legally superior human authority within the scheme conclusively limits it.
-C. the sovereign has no moral duties.
-D. the sovereign is immune from political resistance.
+#### Answers and explanations
+**MCQ 12 — Answer and explanation**
 
-- **A - Incorrect.** Legal competence is not the same as practical capacity.
-- **B - Correct.** Illimitability is a juristic claim about the absence of a legal superior.
-- **C - Incorrect.** Moral or prudential restraints may exist outside Austin's criterion of positive law.
-- **D - Incorrect.** Political resistance may occur even where the legal theory calls authority supreme.
+**Correct answer: D**
+
+- **A — Incorrect:** Administrative discretion does not make delegated authority sovereign. A power conferred by a superior remains derivative, whereas Austin's sovereign is the final human superior.
+- **B — Incorrect:** His definition can apply to non-democratic as well as democratic orders.
+- **C — Incorrect:** Austin requires habitual obedience by the bulk of society, not unanimity. Some dissent or non-compliance does not by itself defeat that criterion.
+- **D — Correct:** The human superior must be identifiable and habitually obeyed by the bulk. This supplies determinacy and continuing obedience without requiring unanimous compliance.
+
+**MCQ 13 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Penal prohibitions display Austin's command, duty and sanction structure clearly.
+- **B — Incorrect:** Power-conferring rules are a major difficulty for the command model rather than its paradigm case.
+- **C — Incorrect:** Austin separates positive-law validity from moral merit; wrongness alone is not his legal criterion.
+- **D — Incorrect:** Custom can precede enactment, but Austin's explanation of positive penal law depends on a recognised superior's command. Source-independent custom is a criticism of that model, not its account of penal validity.
+
+**MCQ 14 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Illimitability concerns the absence of a higher human law-maker. It does not prevent delegating governmental functions; delegation of their exercise differs from alienating sovereign title.
+- **B — Correct:** Illimitability is a juristic claim that no higher human law-maker conclusively binds the sovereign.
+- **C — Incorrect:** Moral and prudential criticism can remain even when Austin denies a legally superior human authority.
+- **D — Incorrect:** Resistance remains relevant to political efficacy. Austinian illimitability concerns legal superiority, not guaranteed political success or the disappearance of opposition.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** State Austin's theory of sovereignty and identify its analytical strength.
+
+**Directive:** State and identify.
+
+**Model answer:** Austin defines the sovereign as a determinate human superior habitually obeyed by the bulk of a society and habitually obedient to no like superior. Positive law is the sovereign's command backed by sanction. The theory's strength is analytical precision: it separates law as it is from law as it ought to be and supplies an identifiable source for legal validity. Penal prohibitions fit the model especially well. Its precision is also its limit, because constitutional competences, custom and power-conferring rules cannot easily be reduced to threat-backed commands. Austin therefore gives the legal form of finality with exceptional clarity, but not a complete account of a modern legal order.
+
+**Why this earns marks:** It reproduces every element of the definition, names the best-fitting example, and gives one bounded qualification rather than premature wholesale criticism.
 
 ### Mini recap
 
 > **Austin in one line:** identifiable superior + habitual obedience + no like superior + command backed by sanction.
+
+The machine is clearest where prohibition and sanction coincide. We can now test its reach: do federal competences, democratic accountability and inherited custom actually depend on one uncommanded human superior?
 
 ---
 
@@ -688,10 +890,13 @@ Progress: 6 / 12 | Stage: Core | Subtopic: The external criticisms
 
 ### PRE-TEACH CHECKLIST
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - **Book context:** queried — Gauba's federalism, democracy, custom, international-law and Maine critiques.
-- **Repository context:** 2019 comparison and 2021 democracy PYQs verified.
-- **Current anchor:** UN Charter obligations show that a legal order among states can operate without a world Austinian sovereign (official UN text; retrieved 2026-09-25).
-- **Boundary:** detailed federal institutions belong to Polity; here federalism is a philosophical test of one determinate superior.
+- **Exam link:** the 2019 question requires parallel Austin–Kautilya comparison; the 2021 question requires a graded democracy verdict.
+- **CA search:** not required for the conceptual objection; the stable treaty text was checked directly.
+- **CA found:** no event-based link needed. UN Charter obligations illustrate legal order among states without one world Austinian sovereign (rechecked 2026-10-06).
+- **Scope:** federalism is used here as a philosophical test of one determinate superior, not as a survey of legislative lists.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — objection, monist reply, residual
 
@@ -736,52 +941,88 @@ Maine's example is used to show a powerful ruler whose command did not simply cr
 4. Add one federal or customary-law criticism.
 5. Conclude by degree, not by a flat verdict.
 
+### Revision notes
+
+1. Federalism distributes entrenched competences that are not ordinary revocable delegations.
+2. Calling a constitutional text sovereign changes Austin's determinate-human criterion.
+3. Democracy permits a narrow legal locus but makes authority derivative, reviewable and rights-bound.
+4. Custom may acquire normative force before express legislative adoption.
+5. International law operates through treaty, custom and institutions without a world commander.
+6. Maine's Ranjit Singh example shows authority embedded in inherited social rules.
+7. Austin's replies repeatedly relocate finality but often weaken determinacy.
+8. The defensible democracy verdict is conditional compatibility, not a flat yes or no.
+
 ### Lesson MCQs
 
-**MCQ 15: C**
+#### Questions
+**MCQ 15**
 
 Why is identifying "the Constitution" as Austin's sovereign an incomplete reply to the federalism objection?
 
-A. Constitutions never distribute legal powers.
-B. Austin denies that written documents exist.
-C. A constitutional text is not itself the determinate human superior required by Austin's definition.
-D. Federal states have no final legal procedures.
+A. Federal powers derive from States, not the common constitutional order.
+B. A constitutional document identifies its ultimate superior through judicial discretion.
+C. A constitutional text is a framework of competence rules rather than a human superior.
+D. Federal amendment establishes a habitually obeyed commander, despite multi-body amendment procedures.
 
-- **A - Incorrect.** Distribution of competence is the source of the problem.
-- **B - Incorrect.** The issue is conceptual, not whether Austin recognises documents.
-- **C - Correct.** Calling a norm or text sovereign changes Austin's personal-superior criterion.
-- **D - Incorrect.** Federal systems can possess final procedures without one Austinian commander.
+**MCQ 16**
 
-**MCQ 16: D**
+Which verdict best assesses Austin's compatibility with constitutional democracy?
 
-The best verdict on Austin's compatibility with democracy is:
+A. It fits because custom is enacted law rather than inherited normative practice.
+B. It fails because a final legal procedure would negate democratic accountability.
+C. It fits because constitutional rights are moral appeals rather than binding legal restraints.
+D. It captures law-making yet strains against divided and reviewable authority.
 
-A. wholly compatible because elections produce habitual obedience.
-B. wholly incompatible because democracies have laws.
-C. irrelevant because sovereignty and democracy ask unrelated questions.
-D. compatible in a narrow legal sense, but strained by derivative, divided and rights-bound authority.
+#### Answers and explanations
+**MCQ 15 — Answer and explanation**
 
-- **A - Incorrect.** Elections make authority accountable and derivative, not automatically illimitable.
-- **B - Incorrect.** The existence of law does not establish incompatibility.
-- **C - Incorrect.** The 2021 PYQ directly tests their relationship.
-- **D - Correct.** A two-level degree judgment captures both Austin's legal insight and democratic reality.
+**Correct answer: C**
+
+- **A — Incorrect:** Constitutionally protected Union and State competences are not ordinary delegations from one level to the other. The objection concerns their common rule-structure, not State supremacy over the centre.
+- **B — Incorrect:** Adjudication interprets competences under the order; it does not turn the document itself into a human superior. Naming a final interpreter does not resolve Austin's command-and-obedience test.
+- **C — Correct:** Calling a norm or text sovereign changes Austin's personal-superior criterion.
+- **D — Incorrect:** Multi-body amendment may occur rarely and under entrenched conditions. The existence of that procedure does not by itself establish habitual obedience to a human commander.
+
+**MCQ 16 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Custom can acquire normative force through inherited practice before express enactment. Austin's tacit-adoption reply does not turn that origin into explicit legislation or remove the wider constitutional-democracy difficulties.
+- **B — Incorrect:** Democracies possess final legal procedures; the difficulty concerns their structure and limits, not their absence.
+- **C — Incorrect:** Constitutionally enforceable rights and review are legal limits, not merely moral appeals. Reducing them to advice evades the constitutional-democracy objection rather than answering it.
+- **D — Correct:** The two-level verdict preserves Austin's insight about formal competence while acknowledging constitutional limits.
+
+### Lesson-local Mains practice
+
+**Question (10 marks; maximum 150 words):** To what extent can Austin's sovereignty accommodate constitutional democracy?
+
+**Directive:** To what extent.
+
+**Model answer:** Austin can accommodate democracy only in a narrow legal sense. A legislature or constitutionally authorised body may be identified as the immediate law-maker, satisfying part of the determinacy requirement. The deeper constitutional structure, however, strains his model: democratic authority is electorally derivative, divided among institutions, reviewable and limited by rights. Federal competences are not ordinary delegations, custom can precede enactment, and a constitutional text is not itself a determinate human superior. Austin's theory therefore remains useful for identifying formal legal competence, but its absoluteness and indivisibility require substantial qualification. Compatibility holds at the level of immediate law-making; it fails as a complete account of democratic authority.
+
+**Why this earns marks:** It gives an explicit degree verdict, one concession, three named constitutional pressures, and a precise level-of-analysis conclusion.
 
 ### Mini recap
 
 > Austin's critics do not show that no legal finality exists. They show that finality need not be a single personal commander and need not imply political omnipotence.
 
+The external objections now create an internal jurisprudential question: if the commander is inadequate, what rule-structure carries legal validity across time?
+
 ---
 
 ## Lesson 7 — Kelsen and Hart: Rebuilding Legal Finality from Inside Positivism
 
-Progress: 7 / 12 | Stage: Advanced Core | Subtopic: Norm hierarchy and rule of recognition
+Progress: 7 / 12 | Stage: Core | Subtopic: Norm hierarchy and rule of recognition
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** canonical named-scholar reconstruction verified; no invented page quotation is used.
-- **Repository context:** Kelsen 1945 and Hart 1961 date discipline checked.
-- **Current anchor:** India's written Constitution, amendment procedure and judicial structure are illustrations of competence-distributed legal authority.
-- **Boundary:** Dworkin's full principles/hard-cases theory belongs to Individual and State and is only cross-referenced.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** Kelsen's *General Theory of Law and State* and Hart's *The Concept of Law* provide the two internal positivist repairs.
+- **Exam link:** a complete critical answer on Austin must distinguish these internal repairs from Laski's external pluralist challenge.
+- **CA search:** not required; no recent event determines the Kelsen–Hart argument.
+- **CA found:** none required. India's written Constitution, amendment procedure and judicial structure are stable illustrations of competence-distributed legal authority.
+- **Scope:** Dworkin's hard-cases objection is named only to mark Hart's residual difficulty.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — two repairs
 
@@ -812,6 +1053,14 @@ Austin cannot adequately explain:
 
 Kelsen's *General Theory of Law and State* (English edition, **1945**) treats law as a hierarchy of norms. A lower norm is valid because a higher norm authorises its creation. The regress terminates in a presupposed **Grundnorm** or basic norm.
 
+Kelsen's derivation begins from the **is–ought distinction**:
+
+1. a fact of power or obedience describes what **is**;
+2. legal validity states what **ought** to be treated as binding within the system;
+3. an “ought” cannot be derived from a bare “is” without a normative premise;
+4. therefore each norm receives validity from a higher authorising norm;
+5. the chain ends in a presupposed basic norm rather than a sovereign person's command.
+
 **Gain:** continuity and competence replace personal will.
 **Objection:** the Grundnorm is assumed rather than demonstrated.
 **Reply:** it is a logical presupposition for interpreting acts as a valid legal system.
@@ -826,11 +1075,19 @@ Hart's *The Concept of Law* (**1961**) treats a legal system as a union of:
 
 The rule of recognition exists in the convergent practice of officials who use it from an **internal point of view** as a common standard.
 
-### 4. Being obliged and having an obligation
+### 4. Validity and moral merit
+
+**Objection:** if validity rests on accepted official practice, Hart seems unable to deny legal status to a gravely unjust rule.
+
+**Hartian reply:** that is deliberate, not an oversight. Calling an evil rule legally valid does not make it morally good; separating validity from merit allows the citizen to say clearly, “this is law, but it ought not to be obeyed or retained.”
+
+**Residual:** the separation protects moral criticism, but the rule of recognition alone cannot supply the moral principles needed to decide every hard case.
+
+### 5. Being obliged and having an obligation
 
 A gunman may oblige a victim by threat. A legal official or citizen may treat a rule as a reason and a standard of criticism. This internal aspect is what habitual obedience misses.
 
-### 5. Kelsen, Hart and Laski must not be merged
+### 6. Kelsen, Hart and Laski must not be merged
 
 | Thinker | What replaces the personal sovereign? |
 |---|---|
@@ -847,67 +1104,115 @@ They diagnose different problems and offer rival replacements.
 - **Inference:** legal authority is competence-distributed and rule-governed rather than the will of one illimitable person.
 - **Caution:** this illustrates Kelsen/Hart more readily than Austin, but it does not philosophically prove either theory.
 
+### Revision notes
+
+1. Austin cannot explain succession, persistence, power-conferring rules or obligation beyond threat.
+2. Kelsen replaces the commander with a hierarchy of authorised norms.
+3. Kelsen's is–ought argument makes a higher norm, not a bare fact of power, the source of legal validity.
+4. Kelsen's revolution problem reintroduces efficacy as a condition of the new order.
+5. Hart explains law as primary duties plus secondary rules of recognition, change and adjudication.
+6. The rule of recognition exists in convergent official practice viewed internally.
+7. Hart separates legal validity from moral merit so that an evil law can remain legally identifiable and morally criticisable.
+8. Being obliged by fear differs from having an obligation under an accepted rule.
+9. Kelsen, Hart and Laski replace the personal sovereign with three different structures.
+
 ### Lesson MCQs
 
-**MCQ 17: A**
+#### Questions
+**MCQ 17**
 
-Which Austinian problem is illustrated by an old statute remaining valid long after its enacting ruler has died?
+A statute enacted under a previous ruler continues to be treated as valid after that ruler dies and a successor assumes office. Which defect in Austin's theory is exposed?
 
-A. The persistence problem.
-B. The external-sovereignty problem.
-C. The titular-sovereignty problem.
-D. The national-sovereignty problem.
+A. The persistence problem: law survives the personal commander who supposedly grounded it.
+B. The succession problem: a successor's first valid act precedes a new habit of obedience.
+C. The power-conferring problem: wills, contracts and competence rules do not resemble threat-backed commands.
+D. The internal-point-of-view problem: external regularity cannot explain normative obligation.
 
-- **A - Correct.** Persistence asks why law survives the person and habit of obedience that supposedly grounded it.
-- **B - Incorrect.** External sovereignty concerns independence among states.
-- **C - Incorrect.** Titular sovereignty concerns nominal office.
-- **D - Incorrect.** National sovereignty concerns the nation as a self-ruling political community.
-
-**MCQ 18: B**
+**MCQ 18**
 
 Kelsen's Grundnorm is best described as:
 
-A. a morally perfect command issued by the sovereign.
-B. a presupposed basic norm that makes a hierarchy interpretable as a valid legal order.
-C. the habitual obedience of the population.
-D. an association competing with the state.
+A. a morally authoritative command located above the positive legal order.
+B. a presupposed foundational norm that authorises the legal system's validity.
+C. the population's settled habit of obedience to an identifiable superior.
+D. an autonomous association claiming authority alongside the state.
 
-- **A - Incorrect.** The Grundnorm is not a moral command or a personal will.
-- **B - Correct.** It is the presupposed terminus of the chain of legal validity.
-- **C - Incorrect.** Habitual obedience is Austin's social criterion.
-- **D - Incorrect.** Associational plurality belongs to Laski.
-
-**MCQ 19: C**
+**MCQ 19**
 
 Hart's rule of recognition differs from Kelsen's Grundnorm because it is:
 
-A. a divine-law limit.
-B. a command backed by sanction.
-C. a social practice of officials used as the ultimate criterion of legal validity.
-D. the general will of the people.
+A. an authoritative divine-law standard binding officials and citizens.
+B. a final command grounded in threats, obedience and a superior's will.
+C. official practice setting the legal system's validity criterion.
+D. the people's general will expressed through collective legislation.
 
-- **A - Incorrect.** Hart's positivism does not derive validity from divine law.
-- **B - Incorrect.** Hart rejects the reduction of law to commands and threats.
-- **C - Correct.** The rule exists as convergent official practice viewed internally.
-- **D - Incorrect.** The general will belongs to Rousseau's popular sovereignty.
+**MCQ 20**
 
-**MCQ 20: D**
+Which bibliographic pair is accurate?
 
-Which pairing is accurate?
+A. Kelsen — *The Concept of Law* — 1945; Hart — *General Theory of Law and State* — 1961.
+B. Kelsen — *General Theory of Law and State* — 1961; Hart — *The Concept of Law* — 1945.
+C. Kelsen — *General Theory of Law and State* — 1945; Hart — *The Province of Jurisprudence Determined* — 1961.
+D. Kelsen — *General Theory of Law and State* — 1945; Hart — *The Concept of Law* — 1961.
 
-A. Kelsen — *The Concept of Law* — 1961.
-B. Hart — *General Theory of Law and State* — 1945.
-C. Austin — rule of recognition — 1832.
-D. Kelsen — *General Theory of Law and State* (English, 1945); Hart — *The Concept of Law* (1961).
+#### Answers and explanations
+**MCQ 17 — Answer and explanation**
 
-- **A - Incorrect.** *The Concept of Law* is Hart's work.
-- **B - Incorrect.** *General Theory of Law and State* is Kelsen's.
-- **C - Incorrect.** Austin is associated with command, sanction and the determinate superior.
-- **D - Correct.** The sequence and dates are exact and must not be swapped.
+**Correct answer: A**
 
-### Mains micro-drill
+- **A — Correct:** The scenario asks why an old statute remains valid after its enacting personal superior has disappeared.
+- **B — Incorrect:** Succession concerns the new ruler's authority before a habit forms, not the continuing validity of an old statute.
+- **C — Incorrect:** Wills, contracts and competence rules exemplify facilitative law. The scenario instead concerns an old statute's continuing validity, not the function of power-conferring rules.
+- **D — Incorrect:** The internal-point-of-view objection concerns obligation rather than the temporal survival of enacted law.
 
-Build one objection–reply–residual paragraph on the claim that Kelsen merely hides sovereignty inside the Grundnorm.
+**MCQ 18 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** The Grundnorm is not a moral command or a personal will.
+- **B — Correct:** It is the presupposed terminus of the chain of legal validity.
+- **C — Incorrect:** Habitual obedience is Austin's social criterion.
+- **D — Incorrect:** Associational plurality belongs to Laski.
+
+**MCQ 19 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Hart's positivism does not derive validity from divine law.
+- **B — Incorrect:** Threats, habitual obedience and a superior's will recall Austin's model. Hart's ultimate criterion instead exists in officials' accepted practice.
+- **C — Correct:** The rule exists as convergent official practice viewed internally.
+- **D — Incorrect:** The general will belongs to Rousseau's popular sovereignty.
+
+**MCQ 20 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** The titles are attached to the wrong authors even though the years are in chronological order.
+- **B — Incorrect:** The titles are correct by author, but the publication years are reversed.
+- **C — Incorrect:** Kelsen's entry is correct, but *The Province of Jurisprudence Determined* is Austin's work, not Hart's.
+- **D — Correct:** Kelsen's English *General Theory of Law and State* is dated 1945, and Hart's *The Concept of Law* 1961.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** How do Kelsen and Hart repair Austin without abandoning legal positivism?
+
+**Directive:** Explain comparatively.
+
+**Model answer:** Kelsen and Hart preserve legal positivism's separation of validity from moral merit, but reject Austin's claim that law rests on the will and habitual obedience of one determinate commander.
+
+Kelsen begins from the is–ought distinction: a fact of power cannot by itself generate a valid norm. Each norm therefore receives authority from a higher norm—administrative order from statute, statute from constitution—until the jurist presupposes a basic norm (*Grundnorm*). This explains succession, persistence and competence without a personal sovereign. The cost is that revolution reintroduces efficacy, because a newly effective order occasions a new presupposition.
+
+Hart offers a social-rule repair. Primary rules impose duties; secondary rules of recognition, change and adjudication identify, alter and apply valid law. The ultimate rule exists in convergent official practice viewed internally. It therefore explains why a legal obligation differs from gunman-like coercion and why power-conferring rules are not sanctions.
+
+The moral objection remains: accepted official practice can validate an evil law. Hart replies that legal validity does not confer moral merit; identifying an evil rule as law preserves the clarity needed to condemn or resist it. Kelsen thus replaces Austin with normative hierarchy, Hart with rule-governed practice. Both refine positivism without supplying a complete moral theory of legitimacy.
+
+**Why this earns marks:** It compares on one axis, names each mechanism and residual, and closes by distinguishing validity from legitimacy.
+
+### Mini recap
+
+> Kelsen replaces the commander with a validity hierarchy; Hart replaces habitual obedience with a rule-governed official practice.
+
+Rules can explain legal continuity without a personal commander, but legal validity still does not settle whom we owe moral allegiance. Laski therefore shifts the inquiry from the structure of law to society's competing associations and loyalties.
 
 ---
 
@@ -917,10 +1222,13 @@ Progress: 8 / 12 | Stage: Core | Subtopic: Authority in a society of association
 
 ### PRE-TEACH CHECKLIST
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 - **Book context:** queried — Gauba pp. 194–208, including Laski and MacIver.
-- **Repository context:** 2018 and 2023 Laski PYQs verified; Figgis, Cole and MacIver kept as lineage, not replacements for Laski.
-- **Current anchor:** modern civil society remains illustrative, but no undated empirical claim about any organisation is needed.
-- **Boundary:** anarchism and Marxism belong to Political Ideologies; pluralism is distinguished from both without reproducing them.
+- **Exam link:** the 2018 question asks whether Laski is satisfactory; the 2023 question asks why he rejects absolute sovereignty.
+- **CA search:** not required; generic associational examples teach the doctrine without mutable empirical claims.
+- **CA found:** none in scope.
+- **Scope:** pluralism is distinguished from anarchism and Marxism without turning the lesson into a survey of political ideologies.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — from pyramid to network
 
@@ -934,7 +1242,13 @@ obedience presumed                    allegiance earned
 one final will                        overlapping real authorities
 ```
 
-### 1. Laski's three-front rejection
+### 1. Early phase: sovereignty as a legal fiction
+
+In his early pluralist phase, Laski attacked sovereignty as a **legal fiction**: jurists spoke as if one indivisible and unlimited state will generated every valid authority, while actual social life already contained churches, unions, professions, localities and other associations with non-derivative loyalties.
+
+The phrase is a polemical diagnosis, not a denial that states exercise coercive power. Its target is the claim that legal supremacy automatically establishes social reality or unlimited moral entitlement. Laski's later, more qualified position concedes the state's distinctive coordinating importance while continuing to deny omnipotence.
+
+### 2. Laski's three-front rejection
 
 Absolute sovereignty is:
 
@@ -942,28 +1256,28 @@ Absolute sovereignty is:
 2. **politically dangerous** — an unlimited state claim licenses domination;
 3. **sociologically unreal** — actual loyalty is distributed among family, church, union, profession, locality and other associations.
 
-### 2. The positive pluralist thesis
+### 3. The positive pluralist thesis
 
 The state is **one association among many**, though uniquely important because it coordinates public order and possesses coercive jurisdiction. Other associations are not merely creatures of state permission; they embody purposes and loyalties with their own social reality.
 
 Laski's mature claim is not that all groups are equal or that the state disappears. It is that authority must be **federal, divided, accountable and functionally justified**.
 
-### 3. Pluralist lineage
+### 4. Pluralist lineage
 
 | Thinker | Contribution to the pluralist school |
 |---|---|
 | Figgis | Group personality and the reality of associations |
 | G. D. H. Cole | Functional and guild representation |
-| MacIver | Law and constitution, not an omnipotent state will, wear legitimate authority; state coordinates associations |
+| MacIver | Law and constitution, not an omnipotent state will, wear the legitimate armour of public force; the state coordinates associations |
 | Laski | The central syllabus critique of absolute sovereignty and unearned allegiance |
 
-### 4. The coordination objection
+### 5. The coordination objection
 
 **Objection:** when associations conflict irreconcilably, someone must decide—especially in defence, emergency and redistribution.
 **Pluralist reply:** final public procedure need not imply unlimited moral supremacy.
 **Residual:** pluralism is stronger as a critique of absolutism than as a complete theory of crisis coordination.
 
-### 5. The inequality-among-groups objection
+### 6. The inequality-among-groups objection
 
 Pluralism can romanticise associations. Wealthy corporations, dominant communities or organised professions may overpower weak and unorganised persons. A coordinating constitutional state may therefore be needed not only against itself, but against private concentrations of power.
 
@@ -972,112 +1286,167 @@ Pluralism can romanticise associations. Wealthy corporations, dominant communiti
 - **2018 Q2(b), 15 marks:** define a "satisfactory" theory by two tests—liberty and coordination—then grade Laski.
 - **2023 Q2(a), 20 marks:** false → dangerous → unreal → positive pluralist alternative → coordination objection → verdict.
 
+### Revision notes
+
+1. Early Laski calls sovereignty a legal fiction because one juristic will does not describe society's real plurality.
+2. Mature Laski retains a distinctive coordinating state while denying its omnipotence.
+3. Absolute sovereignty is morally false, politically dangerous and sociologically unreal.
+4. Real allegiance is distributed among family, church, union, profession, locality and other associations.
+5. The state is one association among many, but it retains distinctive coordinating and coercive functions.
+6. Pluralism challenges one unlimited will; it is not merely administrative decentralisation.
+7. Allegiance must be earned through justice, welfare and protection.
+8. Associations may themselves be unequal or oppressive, so public coordination remains necessary.
+9. Pluralism is strongest as a check on absolutism and weakest as a complete crisis theory.
+
 ### Lesson MCQs
 
-**MCQ 21: A**
+#### Questions
+**MCQ 21**
 
-Laski's claim that absolute sovereignty is "sociologically unreal" means that:
+Laski's claim that absolute sovereignty is sociologically unreal means that:
 
-A. actual social authority and loyalty are already distributed among many associations.
-B. society contains no coercive institutions.
-C. law has no practical effect.
-D. the state is a fictional organisation that should be abolished.
+A. social authority and allegiance arise from associations' independent purposes.
+B. social differentiation makes public force, rather than shared purposes, the source of loyalty.
+C. law loses practical effect whenever non-state associations remain influential.
+D. membership in an association is legally superior to citizenship whenever loyalties conflict.
 
-- **A - Correct.** The monist pyramid misdescribes the plural structure of lived allegiance and authority.
-- **B - Incorrect.** Pluralism does not deny coercion or public order.
-- **C - Incorrect.** It criticises monopolistic claims, not the existence of effective law.
-- **D - Incorrect.** Laski is a pluralist, not an anarchist.
+**MCQ 22**
 
-**MCQ 22: B**
+Which objection most directly targets pluralism's capacity for final public coordination?
 
-What is the strongest objection to Laski's pluralism?
+A. Group personality may obscure coercion beneath a claim to associational autonomy.
+B. Inter-group conflict may remain unresolved without a binding public settlement procedure.
+C. Divided allegiance may make public loyalty conditional on continuing material benefits.
+D. Functional representation may privilege organised interests over unorganised persons.
 
-A. It gives the state too much moral supremacy.
-B. It under-explains how binding coordination occurs when associations conflict in crisis.
-C. It denies the existence of civil society.
-D. It identifies all authority with a determinate superior.
-
-- **A - Incorrect.** Laski's purpose is to deny state moral omnipotence.
-- **B - Correct.** The coordination and emergency problem is the classic residual difficulty.
-- **C - Incorrect.** Civil-society plurality is the foundation of the theory.
-- **D - Incorrect.** That is the monist model he rejects.
-
-**MCQ 23: C**
+**MCQ 23**
 
 Which statement best distinguishes pluralism from administrative decentralisation?
 
-A. Pluralism concerns only efficient delegation by the sovereign.
-B. Pluralism keeps the state's moral supremacy entirely intact.
-C. Pluralism challenges the claim that all genuine authority originates in one unlimited state will.
-D. Pluralism requires the abolition of law.
+A. Both distribute tasks while leaving the source of authority unchanged.
+B. Pluralism treats associations as consultative bodies whose authority remains conferred by the state.
+C. Pluralism admits groups' own authority, whereas decentralisation delegates the state's functions.
+D. Pluralism allocates territorial offices, whereas decentralisation allocates authority to functional groups.
 
-- **A - Incorrect.** Mere delegation leaves monistic title untouched.
-- **B - Incorrect.** The challenge is precisely to automatic moral supremacy.
-- **C - Correct.** Associations possess authority and value not exhausted by state grant.
-- **D - Incorrect.** Pluralists retain public law and coordination.
+#### Answers and explanations
+**MCQ 21 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The monist pyramid misdescribes the plural structure of lived allegiance and authority.
+- **B — Incorrect:** The reality of associational loyalty is Laski's evidence against deriving every authority from public coercion. Differentiation reveals multiple purposes, not one coercive origin.
+- **C — Incorrect:** Laski criticises monopolistic claims, not the practical operation of law in associational societies.
+- **D — Incorrect:** Associational loyalty is real, but Laski does not create a general legal priority of membership over citizenship.
+
+**MCQ 22 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Internal group domination is a serious objection, but concerns the liberty of members rather than who makes a binding decision between conflicting groups.
+- **B — Correct:** The coordination objection asks what procedure binds unwilling associations when their purposes clash. It does not require restoring an unlimited moral sovereign.
+- **C — Incorrect:** Conditional allegiance tests the durability and justification of loyalty. It does not identify a final procedure for settling inter-group conflict.
+- **D — Incorrect:** The unequal-group objection tests whose interests receive representation. It differs from the question of how represented groups reach a binding public settlement.
+
+**MCQ 23 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Administrative decentralisation may redistribute tasks without challenging monistic title, whereas pluralism questions that title.
+- **B — Incorrect:** Treating associations as merely state-conferred consultative bodies restates monism rather than pluralism.
+- **C — Correct:** The distinction turns on the source of authority: socially real associations versus delegated governmental functions.
+- **D — Incorrect:** Neither doctrine is defined by a territorial-versus-functional allocation of the kind asserted here.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** Is Laski's pluralist critique a sufficient theory of political authority?
+
+**Directive:** Critically examine.
+
+**Model answer:** Laski's pluralism is sufficient as a critique of absolute sovereignty, but incomplete as a stand-alone theory of final political coordination.
+
+In his early phase, Laski calls sovereignty a legal fiction because the image of one indivisible state will misdescribes a society already structured by churches, unions, professions and local communities. His mature critique is threefold: unlimited sovereignty is morally false because no association deserves unconditional obedience; politically dangerous because it licences domination; and sociologically unreal because allegiance is dispersed. The positive thesis is not statelessness: the state is one association among many, yet retains distinctive coordinating and coercive functions that must be justified by justice and welfare.
+
+The phase distinction matters. The early polemic attacks the fiction; the mature position associated with *A Grammar of Politics* concedes that public coordination is indispensable while denying that coercive superiority creates moral omnipotence.
+
+Two objections limit sufficiency. First, associations may themselves oppress members or possess unequal bargaining power. Second, defence, redistribution and emergency require decisions binding on unwilling parties. Laski's strongest reply distinguishes final public procedure from unlimited moral supremacy: constitutional coordination can remain reviewable and functionally limited.
+
+The residual question is who specifies the boundary between legitimate coordination and renewed domination. Laski therefore defeats Austinian omnipotence and protects associational liberty, but needs a competence-limited constitutional state to complete his theory of authority.
+
+**Why this earns marks:** It names the criterion of sufficiency, presents two independent objections with a reply, and gives a conditional rather than rhetorical verdict.
 
 ### Mini recap
 
 > **Laski test:** liberty gained, coordination strained. That is why his theory is an indispensable corrective but an incomplete replacement.
 
+That coordination deficit prepares the Kautilyan question: instead of asking only who has final title, what capacities, duties and welfare conditions make public authority effective?
+
 ---
 
-## Lesson 9 — Kautilya I: Saptanga, Dandaniti and Welfare-Based State Capacity
+## Lesson 9 — Kautilya I: Seven-Limbed State, Calibrated Coercion and Welfare
 
-Progress: 9 / 12 | Stage: Core | Subtopic: Internal sovereignty in the Arthashastra
+Progress: 9 / 12 | Stage: Core | Subtopic: Internal sovereignty in the *Arthaśāstra*
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** queried — local *Socio-Political Philosophy* pp. 55–67 and canonical Kautilya dossier.
-- **Repository context:** 2018, 2019, 2021 and 2024 Kautilya routes audited.
-- **Current anchor:** no claim that ancient monarchy maps directly onto the modern Constitution is made.
-- **Boundary:** Kautilya is studied as sovereignty/state-capacity theory; full Indian political thought is not reproduced.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** queried — local *Socio-Political Philosophy* pp. 55–67 and the complete Kautilya doctrine.
+- **Exam link:** Kautilya is tested through disciplined coercion, comparison with Austin, democratic applicability and modern relevance.
+- **CA search:** not required; the ancient doctrine is applied through stable analytical criteria.
+- **CA found:** none in scope. No claim is made that ancient monarchy maps directly onto the modern Constitution.
+- **Scope:** Kautilya is studied as a theory of sovereignty, state capacity, duty and strategy rather than as a complete survey of Indian political thought.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — the seven-limbed organism
+### Visual first — the seven-limbed state
 
 ```text
-                           SVAMI
-                         ruler/head
-                            |
-       +----------+---------+---------+----------+----------+
-       v          v                   v          v          v
-    AMATYA     JANAPADA            DURGA       KOSA       DANDA
-    counsel    land/people          defence     treasury   force
-                            |
-                            v
-                           MITRA
-                            ally
+                                  RULER (svāmī)
+                                        |
+        +---------------+---------------+---------------+---------------+
+        |               |               |               |               |
+        v               v               v               v               v
+ MINISTERS          LAND/PEOPLE        FORT          TREASURY         FORCE
+  (amātya)           (janapada)       (durga)         (kośa)         (daṇḍa)
+        \_______________\_______________|_______________/_______________/
+                                        |
+                                        v
+                                   ALLY (mitra)
 ```
 
-Sovereignty is effective only when all seven limbs possess capacity and coordination.
+Effective sovereignty depends on the capacity and coordination of all seven limbs.
 
-### 1. Saptanga
+### 1. The seven-limbed state (*saptāṅga*)
 
-The seven *prakritis* or limbs are:
+The seven constituents (*prakṛtis*) or limbs are:
 
-1. **svami** — ruler;
-2. **amatya** — ministers and administration;
-3. **janapada** — territory and productive population;
-4. **durga** — fortified security;
-5. **kosa** — treasury;
-6. **danda** — coercive and military force;
-7. **mitra** — ally.
+1. **ruler (*svāmī*)** — direction and headship;
+2. **ministers (*amātya*)** — counsel and administration;
+3. **productive territory and people (*janapada*)** — the social and economic base;
+4. **fortified security (*durga*)** — protected administrative and defensive capacity;
+5. **treasury (*kośa*)** — fiscal capacity;
+6. **force (*daṇḍa*)** — coercive and military capacity;
+7. **ally (*mitra*)** — external support and strategic depth.
 
 The ruler is first, but not self-sufficient. A title without treasury, counsel, territory or force is weak de facto sovereignty.
 
-### 2. Dandaniti and matsya-nyaya
+### 2. The discipline of coercion (*daṇḍanīti*) and the law of the fish (*matsya-nyāya*)
 
-*Dandaniti* is the disciplined science of coercive order. Too little punishment invites *matsya-nyaya*, the condition in which the strong devour the weak. Excessive punishment produces fear, resentment, economic ruin and instability.
+The discipline of coercion (*daṇḍanīti*) is the ordered use of public force. Too little punishment invites the law of the fish (*matsya-nyāya*), in which the strong devour the weak. Excessive punishment produces fear, resentment, economic ruin and instability.
 
 ```text
-too little danda -------- calibrated danda -------- too much danda
+too little daṇḍa -------- calibrated daṇḍa -------- too much daṇḍa
    anarchy                order + protection           tyranny
- matsya-nyaya              + welfare                 rebellion/decay
+ matsya-nyāya               + welfare                rebellion/decay
 ```
 
-### 3. Yogakshema
+### 3. Duty, subjects' happiness and security-welfare
 
-Durable rule requires security and welfare. The sovereign's own stability depends on productive subjects, an adequate treasury, capable ministers and restrained coercion. Kautilya's realism is therefore not simply delight in force; it links capacity to welfare.
+Kautilya's ruler is not bounded by a modern rights-enforcing constitution, but neither is he an Austinian will without normative purpose.
+
+- **Duty and right order (*dharma*)** require rulership to remain connected to ordered and just administration rather than private royal appetite.
+- **Subjects' happiness (*prajā-sukha*)** makes the people's well-being a test of successful rule: the ruler's durable interest is tied to the security and prosperity of the subjects.
+- **Security and welfare (*yogakṣema*)** join acquisition/protection and material well-being; they make treasury, administration and force instruments of public order rather than ends in themselves.
+
+The limitation is partly moral and partly prudential. A ruler who violates duty, impoverishes the productive population or uses force destructively weakens the very state capacity on which his authority depends. This is stronger than mere advice to be benevolent, but weaker than enforceable constitutional rights.
 
 ### 4. Kautilya and Austin
 
@@ -1085,8 +1454,8 @@ Durable rule requires security and welfare. The sovereign's own stability depend
 |---|---|---|
 | Question | Who is the legal source of command? | What makes rulership effective and durable? |
 | Structure | Determinate superior | Interdependent state organism |
-| Enforcement | Sanction | Calibrated danda |
-| Limit | No legal superior within model | Prudence, institutional dependence, welfare and duty |
+| Enforcement | Sanction | Calibrated force (*daṇḍa*) |
+| Limit | No legal superior within model | Duty/right order (*dharma*), subjects' happiness (*prajā-sukha*), security-welfare (*yogakṣema*) and institutional dependence |
 | Best contrast | Legal form | Political function and capacity |
 
 ### Criticism and reply
@@ -1095,118 +1464,187 @@ Durable rule requires security and welfare. The sovereign's own stability depend
 **Reply:** the theory treats misrule as self-undermining: a ruler who destroys the limbs destroys sovereign capacity.
 **Residual:** prudential self-restraint is weaker than rights-based institutional accountability.
 
+### 5. Democratic and modern application
+
+The 2021 and 2024 demands require selective transfer, not praise of monarchy.
+
+| Transferable insight | Limit in a constitutional democracy |
+|---|---|
+| Ministers, fiscal capacity, territory and public administration condition effective authority. | Public office derives legitimacy from constitutional authorisation and electoral accountability, not royal status. |
+| Coercion must be sufficient for order but restrained enough to avoid self-defeating resentment. | Rights, review and legality impose constraints stronger than prudential self-restraint. |
+| Duty, subjects' happiness and security-welfare sustain durable rule. | Moral-prudential limits cannot replace consent, equal citizenship or legal answerability. |
+
+Kautilya is therefore modernly relevant as a diagnostic of **capacity, calibrated enforcement, welfare and strategy**, not as a ready-made constitutional model.
+
 ### PYQ bridge
 
-- **2018 Q1(d):** define dandaniti → explain calibration → connect to saptanga and yogakshema → distinguish from arbitrary terror.
+- **2018 Q1(d):** define the discipline of coercion (*daṇḍanīti*) → explain calibration → connect it to the seven-limbed state (*saptāṅga*) and security-welfare (*yogakṣema*) → distinguish it from arbitrary terror.
 - **2019 Q3(a):** compare Austin and Kautilya on fixed axes; end with form versus function.
+
+### Revision notes
+
+1. Kautilya treats authority through institutional capacity, order, welfare and statecraft.
+2. The seven-limbed state (*saptāṅga*) includes ruler, ministers, land/people, fort, treasury, force and ally.
+3. The ruler (*svāmī*) directs the organism but cannot substitute for failed limbs.
+4. The discipline of coercion (*daṇḍanīti*) rejects both weak enforcement and destructive excess.
+5. The law of the fish (*matsya-nyāya*) names predation when public order collapses.
+6. Duty/right order (*dharma*) prevents royal interest from becoming the only standard of rule.
+7. Subjects' happiness (*prajā-sukha*) ties the ruler's durable interest to public well-being.
+8. Security and welfare (*yogakṣema*) connect state durability to the condition of subjects.
+9. Austin analyses legal form; Kautilya analyses political function, duty and capacity.
+10. Modern use is selective: retain capacity, welfare and calibrated enforcement, reject hereditary unaccountability.
 
 ### Lesson MCQs
 
-**MCQ 24: D**
+#### Questions
+**MCQ 24**
 
-What is the best interpretation of sovereignty in the saptanga model?
+Which statement best interprets sovereignty in the seven-limbed state (*saptāṅga*)?
 
-A. It is identical with the ruler's private will.
-B. It belongs exclusively to the army.
-C. It excludes external allies from state capacity.
-D. It is systemic capacity headed by the ruler but dependent on all seven limbs.
+A. The ruler's will is sufficient once ministers reliably execute royal commands.
+B. The ally is an external contact rather than a constituent of the state.
+C. The limbs operate as a fixed hierarchy in which finance determines counsel.
+D. The ruler heads authority sustained by seven interdependent state organs.
 
-- **A - Incorrect.** The ruler is central but institutionally dependent.
-- **B - Incorrect.** Danda is only one limb among seven.
-- **C - Incorrect.** Mitra, the ally, is explicitly a limb in the model.
-- **D - Correct.** The organismic structure makes effective sovereignty more than personal title.
+**MCQ 25**
 
-**MCQ 25: A**
+The discipline of coercion (*daṇḍanīti*) avoids both predatory disorder (*matsya-nyāya*) and tyranny by:
 
-Dandaniti avoids both matsya-nyaya and tyranny by:
+A. calibrating public force to preserve both order and welfare.
+B. withdrawing coercion so associations can regulate themselves autonomously.
+C. separating fiscal capacity from the productive population and territory.
+D. preparing external war through counsel, treasury and force.
 
-A. calibrating coercion to secure order and welfare.
-B. abolishing punishment.
-C. making the treasury independent of the population.
-D. reducing statecraft to permanent war.
+**MCQ 26**
 
-- **A - Correct.** The rod must be proportionate: insufficient force permits predation; excess destroys stability.
-- **B - Incorrect.** Kautilya treats coercive capacity as indispensable.
-- **C - Incorrect.** Kosa depends on a functioning productive base.
-- **D - Incorrect.** Kautilyan policy includes peace, neutrality and alliance as well as hostility.
+A ruler possesses lawful title and a formidable army, but the treasury is empty, ministers are corrupt and the productive population is collapsing. Which diagnosis best follows from the seven-limbed model?
 
-**MCQ 26: B**
+A. Formal title and military strength together establish complete sovereign capacity.
+B. Effective sovereignty is impaired when several indispensable state limbs fail.
+C. The weakness affects external diplomacy but leaves internal authority intact.
+D. Welfare failure concerns ministerial duties rather than the ruler's responsibility.
 
-A ruler possesses lawful title and a formidable army, but the treasury is empty, ministers are corrupt and the productive population is collapsing. Which diagnosis best follows from the saptanga model?
+**MCQ 27**
 
-A. Legal title and danda alone establish complete sovereignty.
-B. The ruler's effective sovereignty is impaired because state capacity depends on the condition and coordination of all seven limbs.
-C. The failure concerns external sovereignty only because internal limbs are legally irrelevant.
-D. The ruler should replace welfare policy with unrestrained punishment.
+If predatory disorder (*matsya-nyāya*) is spreading because enforcement is weak, which response is most consistent with disciplined coercion (*daṇḍanīti*)?
 
-- **A - Incorrect.** Saptanga does not reduce effective rule to formal title plus coercive force.
-- **B - Correct.** Weak kosa, amatya and janapada damage the organism that makes the ruler's direction effective.
-- **C - Incorrect.** Treasury, administration and productive territory are central components of internal sovereign capacity.
-- **D - Incorrect.** Unrestrained punishment would further weaken the population, revenue base and durability of rule.
+A. Maximise punishment so that royal resolve becomes unmistakable to potential offenders.
+B. Expand the ruler's ceremonial authority before strengthening the machinery of public enforcement.
+C. Restore proportionate enforcement with competent administration and protection of productive life.
+D. Rely on allies because external support can replace weak domestic institutions.
 
-**MCQ 27: C**
+#### Answers and explanations
+**MCQ 24 — Answer and explanation**
 
-If matsya-nyaya is spreading because enforcement is weak, which response is most consistent with dandaniti?
+**Correct answer: D**
 
-A. Punish every offence maximally to display royal will.
-B. Leave order entirely to private associations because danda is inherently illegitimate.
-C. Restore proportionate enforcement together with administrative competence and protection of the productive population.
-D. Concentrate only on acquiring allies, since mitra can substitute for every internal limb.
+- **A — Incorrect:** The ruler is central, but counsel, productive territory, finance, force, defence and alliance remain indispensable.
+- **B — Incorrect:** The ally (*mitra*) is one of the seven constituents. Its external support contributes to the state's capacity, so it is not merely a contact outside the organic model.
+- **C — Incorrect:** Treasury and counsel are distinct interdependent capacities. Listing the limbs does not establish a fixed hierarchy in which finance determines ministerial judgment.
+- **D — Correct:** The organismic structure qualifies personal rule by making effectiveness depend on the whole state.
 
-- **A - Incorrect.** Maximal punishment replaces calibrated coercion with the opposite error of tyrannical excess.
-- **B - Incorrect.** Dandaniti treats public enforcement as necessary to prevent the strong from preying on the weak.
-- **C - Correct.** The remedy joins proportionate danda to the institutional and welfare conditions that sustain order.
-- **D - Incorrect.** An ally supports external security but cannot replace ministers, treasury, territory or domestic enforcement.
+**MCQ 25 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The rod must be proportionate: insufficient force permits predation; excess destroys stability.
+- **B — Incorrect:** Kautilya treats coercive capacity as indispensable.
+- **C — Incorrect:** The treasury (*kośa*) depends on a functioning productive base.
+- **D — Incorrect:** Preparation for external war does not address the lesson's internal problem: too little enforcement permits predation, while excessive coercion ruins productive life and welfare.
+
+**MCQ 26 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** The seven-limbed state does not reduce effective rule to formal title plus coercive force.
+- **B — Correct:** Weak treasury (*kośa*), ministers (*amātya*) and productive territory/people (*janapada*) damage the organism that makes the ruler's direction effective.
+- **C — Incorrect:** Treasury, administration and productive territory are central components of internal sovereign capacity.
+- **D — Incorrect:** Ministerial failure does not release the ruler from the duty of securing subjects' well-being. Kautilya ties royal responsibility and durable authority to welfare and the condition of all seven limbs.
+
+**MCQ 27 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Maximal punishment replaces calibrated coercion with the opposite error of tyrannical excess.
+- **B — Incorrect:** Ceremonial dignity cannot stop predation without effective institutions. The seven-limbed model requires competent administration and proportionate force, not a prior expansion of royal display.
+- **C — Correct:** The remedy joins proportionate force (*daṇḍa*) to the institutional and welfare conditions that sustain order.
+- **D — Incorrect:** An ally supports external security but cannot replace ministers, treasury, territory or domestic enforcement.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** Explain how the seven-limbed state and calibrated coercion qualify Kautilya's royal centrality.
+
+**Directive:** Explain.
+
+**Model answer:** Kautilya gives the ruler (*svāmī*) primacy, but not self-sufficient sovereignty. The seven-limbed state (*saptāṅga*) comprises ruler, ministers, productive territory and people, fortification, treasury, force and ally. Each is a condition of effective rule: formal title cannot compensate for corrupt counsel, an empty treasury or a collapsing productive base.
+
+The discipline of coercion (*daṇḍanīti*) further qualifies royal centrality. Too little force permits predatory disorder, the law of the fish (*matsya-nyāya*); excessive punishment produces fear, economic decline and rebellion. Public force must therefore be calibrated.
+
+The ruler is also duty-bound. Right order and duty (*dharma*) prevent private royal appetite from becoming the sole standard. Subjects' happiness (*prajā-sukha*) ties the ruler's durable interest to public well-being, while security and welfare (*yogakṣema*) make administration, revenue and coercion instruments of stable prosperity.
+
+For example, a ruler with a formidable army but an empty treasury, corrupt ministers and an impoverished productive population possesses title without a state organism. The seven-limb analysis therefore converts welfare from ornamental benevolence into a condition of effective authority.
+
+These are not modern enforceable rights. They are moral, institutional and prudential limits, so abuse remains possible. Yet they decisively separate Kautilya from Austin: Austin asks who is legally uncommanded; Kautilya asks what capacities, duties and welfare consequences make authority durable. Royal primacy is therefore strong, organic and purpose-bound rather than legally illimitable.
+
+**Why this earns marks:** It names all seven limbs, explains both failure extremes, and qualifies the modern relevance without anachronism.
 
 ### Mini recap
 
 > Kautilya's sovereign is strong because the state organism is capable, and duty-bound because ruined limbs make strength impossible.
 
+The ally is already one of those limbs, so internal capacity cannot be sealed off from external relations. We next ask how rulers use their capacities among unequal powers whose interests and alignments can change.
+
 ---
 
-## Lesson 10 — Kautilya II: Mandala, Sadgunya and Relational External Sovereignty
+## Lesson 10 — Kautilya II: Circle of States, Six-Fold Policy and Relational Sovereignty
 
-Progress: 10 / 12 | Stage: Advanced Core | Subtopic: Rajamandala and strategic choice
+Progress: 10 / 12 | Stage: Core | Subtopic: Circle of states (*rājamaṇḍala*) and strategic choice
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** Shamasastry's public-domain Book VII source trail and repository Kautilya evidence checked.
-- **Repository context:** 2025 quotation caution and 2026 Rajamandala owner PYQ verified.
-- **Current anchor:** no present foreign-policy event is forced into the doctrine.
-- **Quotation status:** "There is no permanent friend or permanent enemy" is examiner wording in the 2025 PYQ, not a verified verbatim Kautilya quotation; Palmerston's 1848 formulation is the safer provenance.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** Kautilya's *Arthaśāstra*, especially Book VII, supplies the circle and policy vocabulary.
+- **Exam link:** the 2025 question tests strategic fluidity; the 2026 question requires evaluation in the context of sovereignty.
+- **CA search:** not required; no present foreign-policy episode is needed to explain the strategic model.
+- **CA found:** none in scope.
+- **Quotation status:** "There is no permanent friend or permanent enemy" is examiner wording in the 2025 PYQ, not a verified verbatim Kautilya quotation.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — relational geometry
 
 ```text
-        neighbour's neighbour
-             potential ally
-                  |
-                  v
-YOU -------- immediate neighbour
-vijigisu          structural rival
+      POTENTIAL ALLY (mitra)
+      neighbour's neighbour
+                |
+                v
+ASPIRING RULER (vijigīṣu) -------- IMMEDIATE RIVAL (ari)
 
 This is a starting relation, not a mechanical law:
 power, interests, allies and circumstances modify policy.
 ```
 
-### 1. Rajamandala
+### 1. The circle of states (*rājamaṇḍala*)
 
-The circle of kings treats external sovereignty as relational. A ruler's independence is not a sealed possession; it is continuously affected by the relative strength, location, alliances and intentions of other states.
+The circle of states (*rājamaṇḍala*) treats external sovereignty as relational. A ruler's independence is not a sealed possession; it is continuously affected by the relative strength, location, alliances and intentions of other states.
 
-The immediate neighbour is a structural rival in the simplest model; the neighbour's neighbour can become an ally because of a shared rival. More complex circles include allies, enemies' allies, middle kings and neutral powers.
+The aspiring ruler (*vijigīṣu*) faces an immediate rival (*ari*) and may find a potential ally (*mitra*) in the rival's neighbour. A powerful intermediate ruler (*madhyama*) and a more remote ruler (*udāsīna*) complicate that simple geometry. These are relational positions, not permanent moral identities, and geography alone never determines the final policy.
 
-### 2. Sadgunya: the six measures
+### 2. The six-fold policy (*ṣāḍguṇya*)
 
-| Policy | General meaning | Strategic logic |
+| Policy | Plain meaning | Essential qualifier |
 |---|---|---|
-| Sandhi | Peace or treaty | Gain time or advantage through agreement |
-| Vigraha | Hostility or war | Contest when relative conditions favour action |
-| Yana | March or expedition | Mobilise or advance |
-| Asana | Remaining quiet / poised | Wait when action is premature |
-| Samsraya | Seeking shelter | Obtain protection when weak |
-| Dvaidhibhava | Dual policy | Peace with one while opposing another |
+| Peace or treaty (*sandhi*) | Conclude an agreement | Conditional policy, not permanent friendship |
+| Hostility or war (*vigraha*) | Enter active confrontation | Distinct from preparation; never the automatic default |
+| March or expedition (*yāna*) | Mobilise or advance | Movement/preparation, not necessarily fighting already underway |
+| Strategic waiting (*āsana*) | Hold position and watch | Deliberate pause, not unconditional neutrality |
+| Seeking shelter (*saṃśraya*) | Obtain protection from a stronger power | Reveals graded autonomy when the ruler is comparatively weak |
+| Dual policy (*dvaidhībhāva*) | Make peace with one power while opposing another | Differentiated strategy, not a general licence for deceit |
 
 The list is a repertoire, not a moral command to choose war.
+
+### Worked strategic example and limit
+
+Suppose ruler A faces rival B, while ruler C lies beyond B and shares an interest in checking B. A may seek peace with C, remain strategically poised, or combine peace on one front with pressure on another. The example shows why alignment follows relative position and capacity. It does **not** establish that every neighbour is an enemy, that every distant state is an ally, or that modern treaty and democratic constraints can be ignored.
 
 ### 3. The 2025 quotation problem
 
@@ -1215,20 +1653,31 @@ The examiner asks: **"'There is no permanent friend or permanent enemy.' Discuss
 A responsible answer should:
 
 1. identify the line as the question's framing;
-2. avoid claiming it is a verified verbatim Arthashastra quotation;
-3. explain its doctrinal meaning through mandala and sadgunya;
-4. add yogakshema and state survival as the internal purpose;
+2. avoid claiming it is a verified verbatim *Arthaśāstra* quotation;
+3. explain its doctrinal meaning through the circle of states (*rājamaṇḍala*) and six-fold policy (*ṣāḍguṇya*);
+4. add security and welfare (*yogakṣema*) and state survival as the internal purpose;
 5. conclude that relations are strategic, not that all ethical restraint disappears.
 
-### 4. The 2026 Rajamandala demand
+### 4. The 2026 circle-of-states demand
 
-**2026 Q2(a), 20 marks:** the supplement routes a question on Kautilya's Rajamandala in the context of sovereignty. The answer must go beyond the neighbour formula:
+**2026 Q2(a), 20 marks:** “Evaluate the importance of Kautilya's theory of Rajamandala in the context of sovereignty.” The answer must go beyond the neighbour formula:
 
 - define relational external sovereignty;
-- map the circle and six policy choices;
+- map the aspiring ruler, rival, ally, intermediate and remote powers, then explain the six policy choices;
 - connect external strategy to internal limbs—treasury, force, counsel and ally;
+- contrast Kautilya's relational, capacity-sensitive external autonomy with Bodin's and Austin's undivided legal sovereignty;
 - criticise geographic determinism and monarchical context;
 - give a selective modern relevance verdict.
+
+The evaluative contrast is decisive:
+
+| Bodin / Austin | Kautilya |
+|---|---|
+| Ask where one final and undivided legal authority is located within the state | Asks how a ruler preserves effective autonomy among unequal and shifting powers |
+| Treat indivisibility as a condition of legal finality | Treats alliances, internal capacity and strategic constraint as conditions of survival |
+| External pressure does not define the internal legal sovereign | External relations partly constitute what sovereignty can achieve in practice |
+
+Kautilya therefore supplements rather than reproduces monism: he explains the **capacity and relational exercise** of sovereignty, not an Austinian legally illimitable superior.
 
 ### 5. Strategic realism and its limits
 
@@ -1236,66 +1685,115 @@ A responsible answer should:
 **Reply:** Kautilya's statecraft is purpose-bound by preservation, order and welfare, and bad strategy can destroy the realm.
 **Residual:** welfare is still ruler-centred and prudential rather than consent-based.
 
+### Revision notes
+
+1. The circle of states (*rājamaṇḍala*) makes external sovereignty relational rather than sealed.
+2. The aspiring ruler (*vijigīṣu*) is situated among rival, ally, intermediate and remote rulers.
+3. Rival (*ari*) and ally (*mitra*) are strategic positions, not permanent moral identities.
+4. Intermediate (*madhyama*) and remote (*udāsīna*) powers prevent a mechanical neighbour formula.
+5. The six-fold policy (*ṣāḍguṇya*) supplies conditional peace, active hostility, advance, strategic waiting, protective shelter and dual policy (*dvaidhībhāva*).
+6. Policy turns on relative capacity and interest, not geography alone.
+7. The 2025 line is examiner framing, not an authenticated Kautilya quotation.
+8. Unlike Bodin/Austin's undivided legal finality, the circle explains relational and capacity-sensitive external autonomy.
+9. Modern relevance is diagnostic; it does not erase international law, democracy or ethical limits.
+
 ### Lesson MCQs
 
-**MCQ 28: D**
+#### Questions
+**MCQ 28**
 
-In the simplest Rajamandala model, the neighbour's neighbour is treated as a potential ally because:
+In the simplest circle-of-states model, the neighbour's neighbour is treated as a potential ally because:
 
-A. distant states are always morally trustworthy.
-B. every alliance is permanent.
-C. external sovereignty excludes calculation of interest.
-D. it shares a structural rival in the immediate neighbour.
+A. Distant states possess greater moral reliability than adjacent political communities.
+B. Alliances formed against a neighbour remain permanent once strategic interests align.
+C. External sovereignty requires insulation from calculations of relative interest.
+D. The two rulers possess a convergent strategic interest against the rival located between them.
 
-- **A - Incorrect.** The theory is strategic, not a claim about moral character.
-- **B - Incorrect.** Alliances change with interests and relative power.
-- **C - Incorrect.** Calculation is central to the model.
-- **D - Correct.** Positional alignment can generate a shared interest against the intervening neighbour.
-
-**MCQ 29: A**
+**MCQ 29**
 
 How should the 2025 phrase "There is no permanent friend or permanent enemy" be handled?
 
-A. Treat it as examiner wording, flag the provenance caution, and explain the doctrine through mandala and sadgunya.
-B. Quote it as a verified sentence from the Arthashastra.
-C. Reject the question because the wording is unsafe.
-D. Attribute it confidently to Kautilya and omit the mandala.
+A. Treat it as examiner framing and explain doctrine without claiming verbatim authorship.
+B. Treat it as a reliable paraphrase from Book VII even though its exact wording is unavailable.
+C. Treat it as a later realist maxim and answer without Kautilya's technical vocabulary.
+D. Reject thematic analysis rather than interpret a saying whose authorship remains uncertain.
 
-- **A - Correct.** This preserves quotation integrity while answering the philosophical question.
-- **B - Incorrect.** The exact wording has not been verified in the primary Kautilya source trail.
-- **C - Incorrect.** The doctrinal demand remains answerable despite the attribution caution.
-- **D - Incorrect.** Confident misattribution compounds the error and misses the theory.
+**MCQ 30**
 
-**MCQ 30: B**
+What makes the circle of states relevant to sovereignty rather than merely diplomacy?
 
-What makes the Rajamandala relevant to sovereignty rather than merely diplomacy?
+A. It derives municipal legal validity from command, habitual obedience and sanction.
+B. It connects external autonomy to state capacity, alliances and relative power.
+C. It locates internal allegiance in socially autonomous non-state associations.
+D. It equates flexible foreign policy with undivided internal legal supremacy.
 
-A. It defines positive law as command backed by sanction.
-B. It shows that external independence is relational and depends on strategic capacity, alliances and relative power.
-C. It locates all authority in civil associations.
-D. It proves that external obligations abolish statehood.
+#### Answers and explanations
+**MCQ 28 — Answer and explanation**
 
-- **A - Incorrect.** That is Austin's jurisprudential model.
-- **B - Correct.** The model explains how a state's ability to act independently is constituted in an interstate field.
-- **C - Incorrect.** That is closer to pluralism.
-- **D - Incorrect.** Constraint and relational dependence do not automatically abolish sovereignty.
+**Correct answer: D**
+
+- **A — Incorrect:** The theory is strategic, not a claim about moral character.
+- **B — Incorrect:** Alliances change with interests and relative power.
+- **C — Incorrect:** Calculation is central to the model.
+- **D — Correct:** Positional alignment can generate a shared interest against the intervening neighbour.
+
+**MCQ 29 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** This answers the printed proposition while preserving source integrity and using verified doctrine.
+- **B — Incorrect:** The wording has not been authenticated in the *Arthaśāstra*, so Book VII should not be cited as its textual source.
+- **C — Incorrect:** The question expressly asks for Kautilya; omitting the circle of states and six-fold policy evades the doctrinal demand.
+- **D — Incorrect:** Uncertain verbal attribution does not make the independently supported doctrines unavailable. The circle of states and six-fold policy can explain the examiner's framing without claiming that Kautilya authored the sentence.
+
+**MCQ 30 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Command, obedience and sanction belong to Austin's municipal legal model.
+- **B — Correct:** The circle shows how the capacity to act independently is constituted within an unequal interstate field.
+- **C — Incorrect:** Associational pluralism concerns Laski's internal social argument, not Kautilya's external strategic geometry.
+- **D — Incorrect:** Relational external capacity and undivided internal legal finality are distinct concepts rather than equivalents.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** Why does Kautilya's circle of states make external sovereignty relational?
+
+**Directive:** Explain.
+
+**Model answer:** The circle of states (*rājamaṇḍala*) makes sovereignty relational by placing an aspiring ruler (*vijigīṣu*) among a rival (*ari*), potential ally (*mitra*), intermediate power (*madhyama*) and remote power (*udāsīna*). External independence is therefore an achieved capacity, not a sealed legal possession: treasury, force, counsel, alliances and relative power shape what the ruler can actually decide.
+
+The six-fold policy (*ṣāḍguṇya*) converts this strategic field into conditional choices. Peace (*sandhi*) is not permanent friendship; hostility (*vigraha*) is active confrontation; advance (*yāna*) differs from fighting already underway; waiting (*āsana*) is deliberate pause; shelter (*saṃśraya*) reveals weaker autonomy; dual policy (*dvaidhībhāva*) differentiates relations across powers.
+
+This differs from Bodin and Austin. They ask where undivided legal finality lies within the state. Kautilya asks how an internally organised ruler preserves effective autonomy amid external constraints. His contribution is therefore capacity-sensitive realism and strategic flexibility.
+
+Seeking shelter makes the relation especially clear: a ruler may retain domestic headship while depending on a stronger power for protection. Dual policy shows the converse effort to widen choices by treating different fronts differently.
+
+Strategic dependence therefore differs from losing domestic legal title. The circle explains external capacity, not municipal legal finality; its monarchical, expansion-prone setting nevertheless supplies no account of democratic consent or equal sovereign rights.
+
+**Why this earns marks:** The actor map establishes the strategic field, all six policies explain conditional choice, and shelter and dual policy show how autonomy depends on relations. The final qualification prevents equating strategic capacity with constitutional legitimacy.
 
 ### Mini recap
 
-> Mandala supplies the map; sadgunya supplies the menu; yogakshema supplies the purpose; provenance discipline supplies the examiner-safe answer.
+> The circle of states supplies the map; the six-fold policy supplies the menu; security and welfare supply the purpose; provenance discipline supplies the examiner-safe answer.
+
+Relational capacity still leaves a constitutional problem: how can a modern state distribute internal competence without reviving either Austinian absolutism or several rival sovereigns?
 
 ---
 
 ## Lesson 11 — Constitutionalism, Federalism and India: Sovereignty as Distributed Competence
 
-Progress: 11 / 12 | Stage: Advanced | Subtopic: Constitutional supremacy and Indian application
+Progress: 11 / 12 | Stage: Core | Subtopic: Constitutional supremacy and Indian application
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** Gauba's sovereignty/power distinction and canonical Indian application checked.
-- **Repository context:** Article 368 and Kesavananda status labels reconciled.
-- **Current anchor:** official Constitution PDF located through the Legislative Department; official Kesavananda archive records W.P. No. 135 of 1970, decision 24 April 1973 (retrieved 2026-09-25).
-- **Boundary:** legislative lists, emergency case law and Centre–State detail are not reproduced; only their philosophical significance for sovereignty is taught.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** Gauba's sovereignty/power distinction and Indian constitutional materials establish the conceptual comparison.
+- **Exam link:** federalism tests Austin directly, while Article 368 and *Kesavananda Bharati* illustrate competence-limited authority.
+- **CA search:** not required; the official judgment record is stable legal evidence.
+- **CA found:** no event-based link needed. The official *Kesavananda Bharati* archive records W.P. No. 135 of 1970 and the decision date 24 April 1973 (rechecked 2026-10-06).
+- **Scope:** legislative lists, emergency case law and Centre–State detail are used only where they clarify sovereignty.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — authority without one commander
 
@@ -1370,86 +1868,150 @@ Use the categories carefully:
 
 Articles 352, 356 and 360 provide extraordinary constitutional powers. Their existence shows that constitutionalism does not deny the need for concentrated action; it attempts to **pre-authorise, condition and supervise** exceptional power.
 
+### GS-II cross-link — 2023 Q4
+
+**Exact question:** “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.” **[10 marks · 150 words]**
+
+This is principally a GS-II Polity demand on comparative constitutional design. Its bounded use here is to reinforce one sovereignty distinction:
+
+- Britain centres orthodox legal sovereignty in Parliament;
+- India combines parliamentary government with constitutional supremacy, federal distribution, rights and judicial review;
+- the answer must compare legal location and institutional limits, not claim that Indian courts become sovereign.
+
+This cross-link supplies demand and approach only; no solved PYQ answer is reproduced here.
+
 ### Criticism and reply
 
 **Criticism:** if courts can invalidate amendments, judges are sovereign.
 **Reply:** judicial authority itself is constitutionally constituted, procedurally bounded and dependent on compliance by the wider order.
 **Residual:** every constitutional system still faces a political question of ultimate compliance when institutions clash.
 
+### Revision notes
+
+1. Constitutionalism means power is constituted, allocated, limited and reviewable.
+2. Federalism distributes competence without necessarily creating several unrelated sovereign states.
+3. The phrase competence-distributed authority captures unity of order and plurality of institutions.
+4. India has parliamentary government under constitutional supremacy, not orthodox parliamentary sovereignty.
+5. Article 368 is constitutional text conferring and structuring amendment competence.
+6. *Kesavananda Bharati* is a judicial holding limiting destructive use of amendment power.
+7. Judicial review does not make judges an Austinian sovereign.
+8. Emergency provisions show that concentrated action can be pre-authorised and legally controlled.
+
 ### Lesson MCQs
 
-**MCQ 31: C**
+#### Questions
+**MCQ 31**
 
 Why is Article 368 difficult for a pure Austinian command theory?
 
-A. It contains no legal procedure.
-B. It abolishes Parliament.
-C. It confers and structures a limited amendment competence rather than merely commanding conduct under threat.
-D. It makes custom the only source of law.
+A. It treats constitutional amendment as a duty owed to a superior law-maker.
+B. It treats a failed amendment as punishment for parliamentary disobedience.
+C. It confers amendment powers under conditions rather than issuing sanction-backed duties.
+D. It derives amendment competence from the continuing habit of obeying Parliament.
 
-- **A - Incorrect.** Procedure is central to Article 368.
-- **B - Incorrect.** Parliament plays the central amending role.
-- **C - Correct.** Power-conferring and competence-limiting rules do not fit the criminal-command paradigm.
-- **D - Incorrect.** The provision is constitutional text, not customary law.
-
-**MCQ 32: D**
+**MCQ 32**
 
 Which description of *Kesavananda Bharati* is most accurate for a philosophy answer?
 
-A. A constitutional amendment enacted in 1973.
-B. A philosophical proof that Kelsen is correct.
-C. Evidence that the Supreme Court is an Austinian sovereign.
-D. A judicial holding illustrating that Parliament's amending competence is legally limited.
+A. A constitutional amendment enacted by Parliament in 1973.
+B. A philosophical demonstration that Kelsen's legal theory is correct.
+C. A judicial restriction on ordinary statutes rather than the constitutional amendment power.
+D. A judicial judgment illustrating legally limited amendment power.
 
-- **A - Incorrect.** It is a Supreme Court judgment, not an amendment.
-- **B - Incorrect.** A case can illustrate a theory but cannot prove it.
-- **C - Incorrect.** The Court is constituted and limited by the constitutional order.
-- **D - Correct.** This preserves legal status and philosophical caution.
+**MCQ 33**
 
-**MCQ 33: A**
+Which statement most accurately describes authority in India's federal constitutional order?
 
-What is the safest way to describe authority in India's federal constitutional order?
+A. Public powers are split among limited bodies within one supreme constitutional order.
+B. Parliament's sovereignty continues, except when suspended by judges.
+C. Union and States have sovereign titles under a revocable compact.
+D. The Supreme Court's protection of constitutional limits establishes its constituent power.
 
-A. Public authority is competence-distributed within a supreme constitutional framework.
-B. Parliament possesses unlimited legal sovereignty.
-C. Sovereignty is divided into several unrelated states with no common order.
-D. The judiciary alone possesses constituent power.
-
-- **A - Correct.** The phrase captures unity of legal order with distributed institutional competence.
-- **B - Incorrect.** Legislative competence and amendment power are constitutionally limited.
-- **C - Incorrect.** India remains one constitutional state.
-- **D - Incorrect.** Courts interpret and review; they do not alone author the constitutional order.
-
-**MCQ 34: B**
+**MCQ 34**
 
 Which classification keeps constitutional source, judicial decision and philosophical inference properly separate?
 
-A. Article 368 is a judicial holding; *Kesavananda Bharati* is constitutional text; "competence-distributed authority" is a statutory phrase.
-B. Article 368 is constitutional text; *Kesavananda Bharati* is a judicial holding; "competence-distributed authority" is an analytical description.
-C. Article 368 and *Kesavananda Bharati* are both philosophical proofs that Austin is false.
-D. Article 368 is an executive convention; *Kesavananda Bharati* is a treaty rule; "competence-distributed authority" is a constitutional quotation.
+A. Article 368 is text, *Kesavananda* an illustration, and competence-distributed authority a judicial holding.
+B. Article 368 is text, *Kesavananda* a holding, and competence-distributed authority an inference.
+C. Article 368 and *Kesavananda* are legal sources of equal status for inferring institutional competence.
+D. Article 368 is a recognition rule, *Kesavananda* a change rule, and the phrase constitutional text.
 
-- **A - Incorrect.** The amendment article and the Court's holding are assigned to the wrong legal categories, and the analytical phrase is not statutory wording.
-- **B - Correct.** The classification preserves the distinct authority and evidentiary role of each claim.
-- **C - Incorrect.** Constitutional materials can illustrate a philosophical difficulty without deductively disproving a complete theory.
-- **D - Incorrect.** Neither the amendment procedure nor the basic-structure judgment belongs to executive convention or treaty law.
+#### Answers and explanations
+**MCQ 31 — Answer and explanation**
 
-### Mains micro-drill
+**Correct answer: C**
 
-Write one paragraph answering: "Does federalism divide sovereignty or distribute power?" Include one monist reply and one constitutionalist qualification.
+- **A — Incorrect:** Article 368 confers a power to amend under specified conditions, not a duty to carry out the wishes of a superior commander.
+- **B — Incorrect:** Failure to make a valid amendment is failure to exercise a competence successfully. As with Hart's power-conferring rules, invalidity is not a punishment for disobedience.
+- **C — Correct:** Power-conferring and competence-limiting rules do not fit the criminal-command paradigm.
+- **D — Incorrect:** Amendment competence rests on the constitutional rule and its conditions. Habitual obedience to Parliament cannot by itself authorise an amendment.
+
+**MCQ 32 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** It is a Supreme Court judgment, not an amendment.
+- **B — Incorrect:** A case can illustrate a theory but cannot prove it.
+- **C — Incorrect:** Ordinary legislation is constitutionally reviewable, but this holding directly limits Article 368's amending competence. Its decisive claim concerns destruction of the basic structure through constitutional amendment.
+- **D — Correct:** This preserves legal status and philosophical caution.
+
+**MCQ 33 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The formulation preserves one constitutional order while recognising entrenched institutional and federal competences.
+- **B — Incorrect:** Parliament's competence is constitutionally limited; judicial review does not operate as discretionary suspension of sovereignty.
+- **C — Incorrect:** India is one constitutional state, not a compact of independently sovereign orders.
+- **D — Incorrect:** Courts interpret and review constituted powers; they do not thereby acquire the people's constituent authority.
+
+**MCQ 34 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** The judgment can be used as an illustration, but competence-distributed authority is the philosophical description drawn from it, not the Court's specific holding.
+- **B — Correct:** The classification preserves the distinct authority and evidentiary role of each claim.
+- **C — Incorrect:** Constitutional text conferring power and a judicial holding limiting its exercise have different legal forms and evidentiary functions. Their common relevance does not make their status identical.
+- **D — Incorrect:** Article 368 primarily structures change, while *Kesavananda* adjudicates limits. Neither converts the analytical phrase into the Constitution's own wording.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** Does federalism divide sovereignty or distribute public competence?
+
+**Directive:** Discuss.
+
+**Model answer:** Classical monists answer the federalism problem by distinguishing indivisible sovereignty from divisible governmental powers. This preserves one legal order, but it becomes misleading if constitutionally entrenched State powers are treated as revocable delegations from a central commander.
+
+The stronger account is competence-distributed authority. A written constitution creates Union and State fields, legislative procedures, amendment rules and judicial settlement. Article 368 confers and structures amendment competence; it is a power-conferring rule, not merely a threat-backed command. *Kesavananda Bharati* is a judicial holding that amendment power cannot destroy the basic structure. Parliament and courts are therefore constituted and limited institutions, not rival Austinian sovereigns.
+
+Orthodox British doctrine centres supreme legal authority in Parliament, while India combines parliamentary government with constitutional supremacy, federalism, rights and review.
+
+The monist can still reply that one final constitutional procedure must settle disputes. The constitutionalist answer is that procedural finality need not reside in one personally illimitable commander; it can arise from a structured allocation of competences.
+
+Federalism thus distributes entrenched competence within one constitutional order. It neither creates unrelated sovereign states nor proves that sovereignty is a personal, illimitable will. The residual problem is political compliance when institutions contest boundaries; hence legal settlement must still be distinguished from the social power needed to sustain it.
+
+**Why this earns marks:** It states the monist reply fairly, uses accurately labelled Indian evidence, and ends with the unresolved compliance problem.
+
+### Mini recap
+
+> Federal constitutionalism preserves one public legal order while distributing limited competences among institutions and levels.
+
+Once internal authority is rule-distributed, the final question is external: how do treaties, institutions, dependence and crisis alter the exercise of that authority?
 
 ---
 
 ## Lesson 12 — International Law, Globalisation, Pooled Authority and Emergency Sovereignty
 
-Progress: 12 / 12 | Stage: Advanced | Subtopic: Does sovereignty survive constraint and crisis?
+Progress: 12 / 12 | Stage: Core | Subtopic: Does sovereignty survive constraint and crisis?
 
 ### PRE-TEACH CHECKLIST
 
-- **Book context:** Gauba pp. 209–218 and globalisation companion files queried.
-- **Repository context:** pooled/delegated authority, Schmitt-style emergency question and 2020 globalisation PYQ integrated without displacing the syllabus thinkers.
-- **Current anchor:** UN Charter, EU principle of conferral and official treaty-based EU institutional facts retrieved 2026-09-25. No unverified current WTO enforcement claim is relied upon.
-- **Boundary:** detailed international organisations, trade law and emergency jurisprudence belong to IR/Polity; this lesson asks what they do to the concept.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+- **Book context:** Gauba pp. 209–218 and the complete globalisation argument were queried.
+- **Exam link:** the 2020 Philosophy question tests sovereignty under globalisation; the 2025 GS-II cross-link tests sovereign nationalism.
+- **CA search:** not required; stable treaty and institutional texts answer the conceptual question.
+- **CA found:** no event-based link needed. UN Charter Article 2 and the EU principle of conferral were rechecked on 2026-10-06; no changing WTO-status claim is used.
+- **Scope:** institutional and trade detail is used only to show what interdependence does to the concept of sovereignty.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first — four mechanisms, four effects
 
@@ -1495,6 +2057,19 @@ The graded conclusion: **legal independence can persist amid practical interdepe
 
 The EU's treaty principle of conferral is a clean illustration: the Union acts only within competences member states confer; competences not conferred remain with states. This is an institutional fact from official EU treaty material, not proof that all pooling is equally voluntary in practice.
 
+### GS-II cross-link — 2025 Q10
+
+**Exact question:** “With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate. **[10 marks · 150 words]**
+
+This is principally a GS-II International Relations demand on globalisation's external-policy effects. Its bounded link to sovereignty is:
+
+- define globalisation and sovereign nationalism as co-present forces, not consecutive eras;
+- show how protectionism, sanctions, export controls and bilateral bargaining reclaim policy space;
+- qualify the thesis because states continue to use treaties, institutions and selective economic openness;
+- conclude that legal sovereignty persists while the mode of exercising autonomy becomes more transactional.
+
+This cross-link supplies a demand route only; it does not reproduce a solved GS-II answer.
+
 ### 4. Emergency and the sovereign decision
 
 A Schmitt-style challenge says the sovereign is revealed by who decides the exception when normal rules cannot settle the crisis.
@@ -1528,63 +2103,110 @@ Emergency is the hardest case for pluralism because coordination must be rapid. 
 - **2020 Q4(b), 15 marks:** distinguish internal/external and legal/political → explain constraint mechanisms → erosion versus transformation → graded verdict.
 - **2026 Q4(b), 15 marks:** contrast monistic and pluralistic sovereignty through location, indivisibility, associations, liberty, coordination and emergency.
 
+### Revision notes
+
+1. International law can bind states without one determinate world commander.
+2. The UN Charter combines sovereign equality with duties of good faith and peaceful conduct.
+3. Treaty commitment, delegation, pooling and material dependence are distinct mechanisms.
+4. Legal independence may persist while effective autonomy contracts.
+5. The EU principle of conferral illustrates treaty-defined shared competence.
+6. Emergency is the hardest case for both pluralism and monism.
+7. Constitutionalism seeks urgent capacity that is authorised, time-bound, reviewed and terminated.
+8. Modern sovereignty is reconfigured and negotiated, not simply abolished.
+
 ### Lesson MCQs
 
-**MCQ 35: C**
+#### Questions
+**MCQ 35**
 
 Which statement best distinguishes pooled authority from material dependence?
 
-A. Pooling always abolishes statehood, while dependence creates sovereignty.
-B. Dependence requires equal voting rights in a common institution.
-C. Pooling uses agreed common decision rules, while dependence can constrain choices without transferring a defined competence.
-D. The two terms are interchangeable.
+A. Pooling permanently transfers a defined competence, whereas dependence merely shares administration.
+B. Dependence requires equal voting rights within a formally constituted common decision-making body.
+C. Pooling uses shared decision rules, whereas dependence restricts policy choices.
+D. Pooling and dependence describe the same external constraint.
 
-- **A - Incorrect.** Neither consequence follows conceptually.
-- **B - Incorrect.** Equal common decision rules describe pooling more closely than dependence.
-- **C - Correct.** The distinction separates an institutional sharing of competence from unequal practical constraint.
-- **D - Incorrect.** Conflation hides different mechanisms and normative questions.
-
-**MCQ 36: D**
+**MCQ 36**
 
 What is the strongest constitutionalist reply to the claim that emergency proves an unlimited sovereign?
 
-A. Emergencies never require concentrated action.
-B. Any official who acts first is legally sovereign.
-C. Emergency eliminates the distinction between legal and political power.
-D. Exceptional powers can be pre-authorised, time-bound, reviewed and returned to ordinary law.
+A. Emergency action should preserve institutional dispersion, even at the cost of delaying public protection.
+B. Constitutional authorisation makes emergency powers immune from later ordinary-law review.
+C. Emergency merges legal authorisation and political capacity into one indistinguishable fact.
+D. Exceptional power may be constitutionally authorised, time-limited, reviewed and returned to ordinary law.
 
-- **A - Incorrect.** Constitutionalism accepts the need for urgent public action.
-- **B - Incorrect.** Effective action does not by itself establish lawful final authority.
-- **C - Incorrect.** Crisis may reveal divergence between legal and political sovereignty rather than eliminate the distinction.
-- **D - Correct.** The reply preserves coordination while denying that necessity creates permanent unlimited title.
-
-**MCQ 37: A**
+**MCQ 37**
 
 How can the UN Charter affirm sovereign equality while also imposing obligations on member states?
 
-A. Equal legal status can coexist with treaty-based duties accepted within an institutional international order.
-B. Sovereign equality means that no state can ever undertake a binding legal commitment.
-C. Charter obligations prove that the United Nations is an Austinian world sovereign.
-D. The Charter converts every member into a de facto colony.
+A. Equality of legal status coexists with binding treaty duties undertaken in good faith.
+B. Sovereign equality prevents states from accepting binding obligations to one another.
+C. Charter duties establish the United Nations as a determinate world sovereign.
+D. Membership transfers general domestic legislative jurisdiction to United Nations organs.
 
-- **A - Correct.** Equality concerns juridical status, while good-faith treaty duties regulate how equal members exercise their freedom.
-- **B - Incorrect.** External sovereignty includes the legal capacity to undertake obligations rather than immunity from every promise.
-- **C - Incorrect.** Institutional duties and enforcement arrangements do not by themselves create one habitually obeyed determinate global commander.
-- **D - Incorrect.** Membership obligations do not amount to foreign territorial government or the loss of international personality.
+**MCQ 38**
 
-**MCQ 38: B**
+A state accepts stringent loan conditions, but the lender has no authority to legislate or adjudicate on the state's behalf. Which category is most accurate?
 
-A state accepts stringent loan conditions because it urgently needs finance, but the lender has not been authorised to legislate or adjudicate on the state's behalf. Which category is most accurate?
+A. Pooled authority created through common voting rules.
+B. Material dependence constraining choices without delegated legal power.
+C. Delegation of adjudication through a legally authorised external institution.
+D. Loss of the borrowing state's lawful international personality.
 
-A. Pooled sovereignty through equal common voting.
-B. A consented but materially unequal external constraint that narrows effective autonomy.
-C. Delegation of a defined sovereign adjudicative function.
-D. Complete extinction of the borrowing state's de jure sovereignty.
+#### Answers and explanations
+**MCQ 35 — Answer and explanation**
 
-- **A - Incorrect.** Conditional finance does not create a joint decision institution in which the borrower pools competence on agreed voting terms.
-- **B - Correct.** The example is dependence or conditionality, which must be distinguished from pooling and delegation.
-- **C - Incorrect.** The lender is attaching conditions to finance, not performing an authorised public function for the borrowing state.
-- **D - Incorrect.** Severe policy pressure can reduce practical choice without automatically terminating legal statehood.
+**Correct answer: C**
+
+- **A — Incorrect:** Pooling shares exercise under agreed rules without necessarily making the transfer permanent; dependence need not share administration at all.
+- **B — Incorrect:** Equal common decision rules describe pooling more closely than dependence.
+- **C — Correct:** The distinction separates an institutional sharing of competence from unequal practical constraint.
+- **D — Incorrect:** Conflation hides different mechanisms and normative questions.
+
+**MCQ 36 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Institutional dispersion need not outweigh urgent public protection. Constitutionalism permits concentrated, legally bounded competence while disputing unlimited or permanent sovereign title.
+- **B — Incorrect:** Authorisation creates a defined emergency competence, not immunity from review. Conditions, duration and legal supervision remain restraints aimed at restoring ordinary law.
+- **C — Incorrect:** Crisis can expose divergence between legal authority and effective power rather than erase the distinction.
+- **D — Correct:** The reply preserves decisiveness while subjecting exceptional competence to legal conditions and return to ordinary law.
+
+**MCQ 37 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Equality concerns juridical status, while Charter duties regulate how equal members exercise their legal capacity.
+- **B — Incorrect:** External sovereignty includes the capacity to undertake obligations rather than immunity from agreement.
+- **C — Incorrect:** Institutional duties do not create one habitually obeyed determinate global commander.
+- **D — Incorrect:** The Charter creates obligations and enforcement structures without transferring general domestic legislative jurisdiction.
+
+**MCQ 38 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Conditional finance does not create a joint institution exercising competence through common voting.
+- **B — Correct:** The lender narrows feasible choice through material leverage without receiving a sovereign function.
+- **C — Incorrect:** The lender has received no legal authority to adjudicate for the state. Financial leverage constrains choices rather than making it a legally authorised decision-maker.
+- **D — Incorrect:** Severe dependence may constrain autonomy without terminating lawful statehood or international personality.
+
+### Lesson-local Mains practice
+
+**Question (15 marks; maximum 220 words):** “Globalisation reconfigures sovereignty rather than abolishing it.” Discuss.
+
+**Directive:** Discuss.
+
+**Model answer:** Globalisation weakens the image of insulated external sovereignty, but does not abolish legal statehood. Four mechanisms must be separated. Treaty commitment binds a state through its recognised capacity; delegation authorises a body to perform a defined function; pooling creates common decision procedures; material dependence narrows feasible choices without transferring a formal competence.
+
+The UN Charter illustrates sovereign equality alongside legal obligation. The EU principle of conferral similarly limits Union action to treaty-conferred fields. These support a transformation thesis, but formal consent may conceal unequal bargaining power where finance, technology or security dependence constrains weaker states.
+
+Sovereign nationalism supplies a counter-movement. Protectionism, sanctions, export controls and bilateral bargaining seek to reclaim policy space, yet states still use treaties, institutions and selective openness. Globalisation and sovereign nationalism are therefore co-present rather than sequential.
+
+The qualification is unequal capacity: formal consent to a treaty or financial condition may be legally valid while materially constrained. Legal sovereignty and political autonomy must therefore be assessed separately.
+
+Austin's image of an uncommanded superior is strained, while Laski's interdependence critique gains force. Nevertheless, states remain law-makers, fiscal actors, treaty parties and the main bearers of political membership. Sovereignty persists in legal form while its exercise becomes negotiated, pooled, contested and materially conditioned.
+
+**Why this earns marks:** It distinguishes four mechanisms, uses two accurately classified institutional anchors, concedes unequal consent, and gives a graded legal-versus-practical verdict.
 
 ### Final lesson recap
 
@@ -1592,7 +2214,7 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-> **Provenance rule:** 2018–2025 wording and marks come from the repository's verified Socio-Political Philosophy PYQ bank. The two 2026 items come from the repository's official supplement. These are linkage and answer approaches, not solved PYQ answers.
+> **Verification note:** The table preserves the exact printed wording and marks for the thirteen directly relevant Philosophy Optional questions from 2018–2026. The sections below decode demand and approach without supplying solved PYQ answers.
 
 ## PYQ command map
 
@@ -1612,20 +2234,20 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 | 2026 | Q2(a) | 20 | Evaluate the importance of Kautilya's theory of Rajamandala in the context of sovereignty. | 10 |
 | 2026 | Q4(b) | 15 | Explain the contrast between the monistic and pluralistic approaches to sovereignty. | 1, 8, 12 |
 
-## 2018 Q1(d) — Kautilya through dandaniti
+## 2018 Q1(d) — Kautilya through disciplined coercion
 
 **Directive:** Discuss.
 **Demand:** Explain sovereignty through calibrated coercive capacity, not by writing a general biography of Kautilya.
 
 **Approach**
 
-1. Define *dandaniti* as the disciplined science of coercive order.
-2. Locate it within *saptanga*: force depends on ruler, ministers, treasury, territory, defence and allies.
-3. Explain the two failures: insufficient danda produces *matsya-nyaya*; excessive danda produces tyranny and instability.
-4. Connect coercion to *yogakshema*.
+1. Define the discipline of coercion (*daṇḍanīti*) as ordered public force.
+2. Locate it within the seven-limbed state (*saptāṅga*): force depends on ruler, ministers, treasury, territory, defence and allies.
+3. Explain the two failures: insufficient force (*daṇḍa*) produces predatory disorder (*matsya-nyāya*); excessive force produces tyranny and instability.
+4. Connect coercion to security and welfare (*yogakṣema*).
 5. Verdict: realist and capacity-centred, but not arbitrary terror.
 
-**Do not:** equate the *svami* with Austin's illimitable superior.
+**Do not:** equate the ruler (*svāmī*) with Austin's illimitable superior.
 
 ## 2018 Q2(b) — Is Laski satisfactory?
 
@@ -1649,10 +2271,10 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 | Axis | Austin | Kautilya |
 |---|---|---|
 | Primary question | Source of legal validity | Capacity and purpose of rule |
-| Locus | Determinate superior | Svami within saptanga |
-| Enforcement | Sanction | Calibrated danda |
-| Limits | No legal superior | Prudence, interdependence, welfare and duty |
-| External relations | International law treated narrowly | Mandala and sadgunya developed fully |
+| Locus | Determinate superior | Ruler (*svāmī*) within the seven-limbed state (*saptāṅga*) |
+| Enforcement | Sanction | Calibrated force (*daṇḍa*) |
+| Limits | No legal superior | Duty/right order (*dharma*), subjects' happiness (*prajā-sukha*), security-welfare (*yogakṣema*), prudence and interdependence |
+| External relations | International law treated narrowly | Circle of states and six-fold policy developed fully |
 
 **Verdict spine:** they converge on order, identifiable direction and enforcement; they diverge as legal form versus political function.
 
@@ -1684,7 +2306,7 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 **Directive:** Discuss contribution and explain applicability.
 **Approach**
 
-1. Contribution: saptanga, dandaniti, mandala, sadgunya, yogakshema.
+1. Contribution: seven-limbed state, disciplined coercion, circle of states, six-fold policy, security and welfare.
 2. Transferable themes: administrative competence, fiscal capacity, proportionate enforcement, strategic prudence and welfare.
 3. Non-transferable form: hereditary monarchy and unaccountable methods.
 4. Verdict: selective appropriation of principles, not reproduction of institutions.
@@ -1706,22 +2328,22 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 **Directive:** Elucidate reasons, not merely list pluralist slogans.
 **Approach:** philosophical falsehood → political danger → sociological unreality → associations and earned allegiance → positive federal authority → coordination residual.
 
-## 2024 Q4(b) — Arthashastra insights and modern relevance
+## 2024 Q4(b) — *Arthaśāstra* insights and modern relevance
 
 **Directive:** Identify insights, then critically test relevance.
-**Approach:** internal capacity (*saptanga*, *dandaniti*, *yogakshema*) + external strategy (*mandala*, *sadgunya*) → thematic modern relevance → monarchy/consent/rights limitations → graded verdict.
+**Approach:** internal capacity (seven-limbed state, disciplined coercion, security and welfare) + external strategy (circle of states and six-fold policy) → thematic modern relevance → monarchy/consent/rights limitations → graded verdict.
 
 ## 2025 Q2(c) — Permanent friend/enemy
 
-**Directive:** Comment on the proposition in the question.
-**Provenance caution:** do not present the sentence as a verified verbatim Kautilya quotation. The closest famous English formulation is associated with Palmerston's 1848 speech.
+**Directive:** Discuss.
+**Provenance caution:** do not present the sentence as a verified verbatim Kautilya quotation; treat it only as the examiner's framing.
 
-**Approach:** identify question wording → explain positional relations in mandala → add six measures → qualify through relative power and welfare purpose → conclude strategic flexibility, not moral nihilism.
+**Approach:** identify question wording → explain positional relations in the circle of states → add the six measures → qualify through relative power and welfare purpose → conclude strategic flexibility, not moral nihilism.
 
-## 2026 Q2(a) — Rajamandala and sovereignty
+## 2026 Q2(a) — Circle of states and sovereignty
 
-**Directive:** Treat as a full 20-mark external-sovereignty analysis.
-**Approach:** define Rajamandala → diagram the relational circle → explain sadgunya → connect external autonomy to internal limbs → objections (geographic simplification, monarchical setting, prudential ethics) → modern relevance by theme → verdict.
+**Directive:** Evaluate.
+**Approach:** define the circle of states (*rājamaṇḍala*) → diagram the relational circle → explain the six-fold policy (*ṣāḍguṇya*) → connect external autonomy to internal limbs → contrast Kautilya's relational capacity with Bodin/Austin's undivided legal finality → weigh geographic simplification, monarchical setting and prudential ethics → give a graded verdict on importance.
 
 ## 2026 Q4(b) — Monistic and pluralistic sovereignty
 
@@ -1738,6 +2360,15 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 
 **Verdict:** legal systems need final procedures, but final procedure does not entail an unlimited moral sovereign.
 
+## Relevant GS-II cross-links
+
+| Year / part | Marks / words | Exact wording | Primary examination home | Use in this topic |
+|---|---:|---|---|---|
+| 2023 GS-II Q4 | 10 / 150 | “Compare and contrast the British and Indian approaches to Parliamentary sovereignty.” | Polity — comparative constitutional design | Supports Lesson 11's distinction between UK parliamentary sovereignty and Indian constitutional supremacy |
+| 2025 GS-II Q10 | 10 / 150 | “With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.” Elucidate. | International Relations — globalisation and external-policy effects | Supports Lesson 12's legal-persistence / practical-autonomy distinction |
+
+These remain GS-II questions rather than Philosophy Optional PYQs, and no solved GS-II answer is included.
+
 ## Directive decoder
 
 | Directive | Required movement | Frequent failure |
@@ -1747,135 +2378,173 @@ D. Complete extinction of the borrowing state's de jure sovereignty.
 | Critically evaluate | Criterion → objections → replies → residuals | One-sided attack |
 | How far | Shared axes → convergence → divergence → degree | Two separate thinker summaries |
 | Contrast | Parallel table or paired paragraphs | Changing the comparison axis mid-answer |
-| Comment on a line | Provenance/status → doctrinal location → limit → verdict | Treating quotation as self-explanatory |
+| Discuss a quoted line | Wording status → doctrinal location → tension → reasoned verdict | Treating the quotation as self-explanatory |
 
 # CUMULATIVE MCQS
 
-**MCQ 39: C**
+#### Questions
+**MCQ 39**
 
 Which of the following is **not** one of the six measures of foreign policy?
 
-A. Sandhi.
-B. Asana.
-C. Grundnorm.
-D. Dvaidhibhava.
+A. Peace or treaty (*sandhi*).
+B. Strategic waiting (*āsana*).
+C. Conciliation (*sāman*).
+D. Dual policy (*dvaidhībhāva*).
 
-- **A - Incorrect.** Sandhi is peace or treaty.
-- **B - Incorrect.** Asana is remaining quiet or poised.
-- **C - Correct.** Grundnorm belongs to Kelsen's legal theory.
-- **D - Incorrect.** Dvaidhibhava is dual policy.
+**MCQ 40**
 
-**MCQ 40: D**
+Which sequence correctly distinguishes the three post-Austinian transformations?
 
-Which sequence most accurately shows the transformation of legal sovereignty after Austin?
+A. Kelsen—norm hierarchy; Hart—popular acceptance; Laski—plural associations.
+B. Kelsen—official practice; Hart—norm hierarchy; Laski—conditional allegiance.
+C. Kelsen—enacted basic norm; Hart—official practice; Laski—plural associations.
+D. Kelsen—norm hierarchy; Hart—official practice; Laski—plural associations.
 
-A. Austin's personal superior is retained unchanged by Kelsen, Hart and Laski.
-B. Kelsen replaces law with morality, Hart with coercion and Laski with monarchy.
-C. All three identify Parliament as the universal sovereign.
-D. Kelsen relocates validity in a norm hierarchy, Hart in official rule-practice and Laski disperses authority among associations.
+**MCQ 41**
 
-- **A - Incorrect.** Each thinker rejects or transforms the personal-superior image.
-- **B - Incorrect.** These descriptions reverse their actual positions.
-- **C - Incorrect.** Parliamentary sovereignty is jurisdiction-specific, not their common theory.
-- **D - Correct.** The three replacements are distinct and must not be merged.
+A state accepts treaty duties and delegates adjudication in one defined field while retaining all non-delegated competences. What is the best description?
 
-**MCQ 41: A**
+A. Continuing legal sovereignty with a committed obligation and a defined delegated exercise.
+B. Pooled sovereignty, because institutional adjudication requires joint law-making.
+C. Material dependence, because an external body may influence the outcome of a dispute.
+D. De facto authority without de jure title, because one competence is exercised outside the state.
 
-A state is legally independent, accepts treaty duties, delegates adjudication in a defined field and remains free to exercise non-delegated competences. The best description is:
+**MCQ 42**
 
-A. constrained and delegated exercise of continuing legal sovereignty.
-B. complete extinction of sovereignty.
-C. Austinian habitual obedience to a world sovereign.
-D. de facto rule without de jure title.
+Where do Bodin and Austin differ most clearly?
 
-- **A - Correct.** Sovereignty persists while particular competences are legally committed or delegated.
-- **B - Incorrect.** Consented commitments do not automatically extinguish statehood or all final competence.
-- **C - Incorrect.** A treaty institution is not necessarily a determinate world superior.
-- **D - Incorrect.** The example assumes lawful statehood.
+A. Austin retains divine and natural-law limits, whereas Bodin defines a formally unbounded legal superior.
+B. Bodin retains higher-law limits, whereas Austin recognises no legally superior human authority within the political order.
+C. Both separate legal competence, moral obligation and higher-law restraint on identical grounds.
+D. Bodin's perpetual office and Austin's habit theory give the same account of succession, persistence and legal continuity.
 
-**MCQ 42: B**
+**MCQ 43**
 
-Which comparison of Bodin and Austin is accurate?
+Which case best illustrates de jure sovereignty without de facto control?
 
-A. Austin grounds sovereignty in divine law, while Bodin grounds it in a rule of recognition.
-B. Bodin retains higher-law restraints, while Austin's legal sovereign is formally unlimited by a legal superior.
-C. Both define sovereignty as the general will.
-D. Bodin is pluralist and Austin anarchist.
+A. A revolutionary authority controls territory before receiving legal recognition.
+B. A ceremonial monarch retains formal dignity while an elected cabinet governs.
+C. A government retains lawful title after losing effective control of its territory.
+D. A constitutionally limited government wins an election and assumes office.
 
-- **A - Incorrect.** The rule of recognition belongs to Hart.
-- **B - Correct.** Their difference over higher-law limits is crucial.
-- **C - Incorrect.** The general will belongs to Rousseau.
-- **D - Incorrect.** Both are associated with monist sovereignty.
-
-**MCQ 43: C**
-
-Which case best illustrates de jure without de facto sovereignty?
-
-A. A victorious revolutionary authority later receives legal recognition.
-B. A ceremonial monarch performs formal duties under a cabinet.
-C. A lawful government retains constitutional title but loses effective territorial control.
-D. A state signs an international treaty.
-
-- **A - Incorrect.** Before recognition this is more naturally de facto without settled de jure title.
-- **B - Incorrect.** This primarily illustrates titular and actual sovereignty.
-- **C - Correct.** Lawful title persists while effective command is absent.
-- **D - Incorrect.** Treaty consent concerns external obligation, not title/control divergence.
-
-**MCQ 44: D**
+**MCQ 44**
 
 Why does pluralism not entail anarchism?
 
-A. Pluralists make every association legally superior to the state.
-B. Pluralists deny the need for any public coordination.
-C. Pluralists accept Austin's indivisible sovereign.
-D. Pluralists retain the state while denying its automatic moral omnipotence.
+A. Pluralists treat group conflict as a temporary failure to recognise one common social interest.
+B. Pluralists reserve public coordination for emergencies rather than ordinary inter-group disputes.
+C. Pluralists justify public authority through dominant groups' bargaining strength.
+D. Pluralists retain public coordination while denying the state's moral supremacy.
 
-- **A - Incorrect.** Associations have real authority, but not identical compulsory jurisdiction.
-- **B - Incorrect.** Coordination remains necessary and is the theory's main difficulty.
-- **C - Incorrect.** Pluralism challenges Austinian indivisibility.
-- **D - Correct.** The state is limited and re-described, not abolished.
+**MCQ 45**
 
-**MCQ 45: A**
+Which answer structure best handles the 2019 Austin–Kautilya question?
 
-Which answer structure best handles the 2019 Austin–Kautilya PYQ?
+A. Compare legal source, limits, capacity and external relations, then judge convergence and divergence.
+B. Describe each thinker separately after noting their shared concern with public order.
+C. Compare legal source and enforcement, treating institutional capacity as background detail.
+D. Use Kautilya to criticise Austin, replacing the degree judgment with a verdict on superiority.
 
-A. Compare source, locus, limits, purpose, enforcement and external relations, then give a degree verdict.
-B. Write Austin's biography, then Kautilya's biography.
-C. State that both favour strong rulers and conclude identity.
-D. Discuss only dandaniti because enforcement is the sole shared feature.
+**MCQ 46**
 
-- **A - Correct.** Fixed parallel axes reveal convergence and asymmetry.
-- **B - Incorrect.** Sequential biography does not answer "how far".
-- **C - Incorrect.** Their projects and limits differ substantially.
-- **D - Incorrect.** A single axis cannot sustain a 20-mark comparison.
+How should the 2023 GS-II comparison of British and Indian parliamentary sovereignty be linked to this topic?
 
-**MCQ 46: B**
+A. Both systems possess the same legal sovereignty because both use parliamentary government.
+B. Britain centres legal sovereignty in Parliament, whereas India's Constitution limits parliamentary competence.
+C. British courts invalidate primary legislation, whereas Indian courts lack constitutional judicial review.
+D. Britain's unwritten order lacks a legal sovereign, whereas India's written text identifies Parliament.
 
-The basic-structure doctrine is best used in a sovereignty answer as:
+**MCQ 47**
 
-A. proof that judges possess unlimited constituent sovereignty.
-B. a judicial illustration of legally limited amending competence.
-C. a statute replacing Article 368.
-D. evidence that India follows orthodox UK parliamentary sovereignty.
+A federal constitution authorises emergency action, but officials can implement it only because administrative and coercive bodies comply. What does this show?
 
-- **A - Incorrect.** Judicial power is itself constituted and bounded.
-- **B - Correct.** The status label and limited illustrative use are both accurate.
-- **C - Incorrect.** The doctrine arose through adjudication, not statutory replacement.
-- **D - Incorrect.** India's written constitutional supremacy differs from the orthodox UK doctrine.
+A. Legal sovereignty disappears whenever enforcement depends on officials.
+B. Federal powers remain revocable delegations rather than constitutionally protected competences.
+C. Legal authorisation does not guarantee the political capacity needed to implement it.
+D. Constitutional rules eliminate the continuing need for practical institutional compliance.
 
-**MCQ 47: C**
+#### Answers and explanations
+**MCQ 39 — Answer and explanation**
 
-Which statement best synthesises sovereignty under emergency?
+**Correct answer: C**
 
-A. Crisis proves that legal rules never matter.
-B. Whoever controls force becomes morally sovereign.
-C. A polity may need concentrated final action, but constitutional design can authorise, limit, review and terminate exceptional competence.
-D. Pluralism requires that no institution coordinate a response.
+- **A — Incorrect:** Peace or treaty (*sandhi*) is one of the six measures.
+- **B — Incorrect:** Strategic waiting (*āsana*) is one of the six measures.
+- **C — Correct:** Conciliation (*sāman*) is not an additional measure in the six-fold list: peace, hostility, advance, waiting, shelter and dual policy. Identifying the six taught measures is sufficient to exclude it.
+- **D — Incorrect:** Dual policy (*dvaidhībhāva*) is one of the six measures.
 
-- **A - Incorrect.** Emergency provisions themselves are legal attempts to structure crisis power.
-- **B - Incorrect.** De facto power does not establish moral or legal title.
-- **C - Correct.** The synthesis preserves decisiveness without permanent absolutism.
-- **D - Incorrect.** Pluralism can accept coordination while denying unlimited supremacy.
+**MCQ 40 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Hart's ultimate criterion exists in officials' convergent internal practice, not simply in general popular acceptance. Kelsen and Laski are correctly paired.
+- **B — Incorrect:** Kelsen and Hart are reversed: presupposed normative hierarchy is Kelsen's, official practice Hart's.
+- **C — Incorrect:** Kelsen's basic norm is presupposed, not enacted as the highest positive rule. Hart and Laski are correctly paired, but the Kelsen entry confuses the authorising presupposition with an enacted norm.
+- **D — Correct:** The three replacements are distinct: normative hierarchy, official social rule and plural associational authority.
+
+**MCQ 41 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The state retains legal status while committing conduct and authorising one defined institutional function.
+- **B — Incorrect:** Delegated adjudication differs from pooled rule-making; the scenario does not establish common legislative decision.
+- **C — Incorrect:** Influence under an authorised legal competence is not the same mechanism as material dependence or conditionality.
+- **D — Incorrect:** Delegation does not erase lawful title or convert the state into a merely de facto authority.
+
+**MCQ 42 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** The positions are reversed: Bodin retains higher-law limits, while Austin's sovereign lacks a legal human superior.
+- **B — Correct:** This captures the decisive difference between Bodin's qualified absolutism and Austin's legal illimitability.
+- **C — Incorrect:** Austin analytically separates legal validity from merit, while Bodin makes divine and natural law genuine sovereign limits.
+- **D — Incorrect:** Bodin anchors continuity in perpetual office; Austin's habit theory generates succession and persistence problems.
+
+**MCQ 43 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Effective control before legal recognition illustrates de facto authority without settled de jure title.
+- **B — Incorrect:** This illustrates titular versus actual sovereignty rather than lawful title versus effective control.
+- **C — Correct:** Lawful title persists while actual command has disappeared, which is the required direction of divergence.
+- **D — Incorrect:** Election under constitutional limits does not itself create a split between title and effective territorial control.
+
+**MCQ 44 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Associations may have persistently incompatible purposes, not merely fail to recognise a latent harmony. Public coordination is needed precisely because plural social interests can conflict.
+- **B — Incorrect:** Conflicting purposes require public coordination in ordinary social life as well as emergencies. Limiting the state's authority does not confine its coordinating function to crisis.
+- **C — Incorrect:** Public coordination must be justified by justice and welfare, not by the bargaining strength of dominant groups. Pluralism's critique of state omnipotence does not legitimise private domination.
+- **D — Correct:** The state is limited and re-described, not abolished.
+
+**MCQ 45 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** Parallel axes expose both convergence and asymmetry and make the required 'how far' judgment executable.
+- **B — Incorrect:** Separate sections may describe both thinkers, but they do not sustain a controlled parallel comparison.
+- **C — Incorrect:** Institutional interdependence is central to Kautilya's account of effective authority, not background detail. Marginalising it misses the form–function asymmetry.
+- **D — Incorrect:** Using one thinker merely as a foil avoids the degree judgment demanded by the question.
+
+**MCQ 46 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Parliamentary government does not entail the same legal location of sovereignty in both systems.
+- **B — Correct:** The contrast is between orthodox parliamentary supremacy and constitutionally limited parliamentary government.
+- **C — Incorrect:** The judicial positions are reversed: UK courts generally do not invalidate Westminster primary legislation, while Indian courts exercise constitutional review.
+- **D — Incorrect:** Codification is not the test of legal sovereignty. Orthodox British doctrine centres Parliament despite the uncodified order, while India's written Constitution limits rather than makes Parliament sovereign.
+
+**MCQ 47 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Every legal order depends on implementation; that dependence does not erase legal authority.
+- **B — Incorrect:** Federal competences are constitutionally allocated and entrenched, not ordinary grants revocable by a central commander. The need for institutional cooperation does not convert them into delegated powers.
+- **C — Correct:** The scenario separates the rule that authorises action from the organisations that make action effective.
+- **D — Incorrect:** Constitutional design structures authority but cannot make administration, force and compliance unnecessary.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -1883,21 +2552,23 @@ D. Pluralism requires that no institution coordinate a response.
 
 > **Question:** Distinguish between sovereignty and governmental power. Explain why the distinction matters in a constitutional democracy.
 > **Directive:** Distinguish and explain.
-> **Suggested length:** about 150 words.
+> **Maximum length:** 150 words.
 
 ### Model answer
 
-Sovereignty is the political order's claim to final and continuing public authority; governmental power is the competence temporarily exercised by particular institutions and office-holders. The distinction matters because governments change, lose elections and act only within assigned jurisdictions, while the constitutional order continues.
+Sovereignty is the political order's claim to final public authority; governmental power is the competence temporarily exercised by institutions and office-holders. The distinction matters because governments change, lose elections and act only within assigned jurisdictions, while the constitutional order continues.
 
 Three consequences follow. First, a ceremonial head may possess titular authority while a cabinet exercises actual power. Second, legal competence can be distributed among legislature, executive, courts and federal levels without making every organ independently sovereign. Third, popular authorship does not make the elected government unlimited: the people may be the constituent source while constituted institutions remain bound by rights, procedures and review.
 
 Austin's personal-superior model blurs this modern arrangement, whereas Hart's competence-conferring rules describe it better. Sovereignty should therefore not be identified with whichever government currently commands a majority. In constitutional democracy, finality belongs to a rule-governed public order, while government exercises revisable and accountable powers within it.
 
+**Why this earns marks:** It opens with the required distinction, uses the ceremonial head, cabinet and constitutional order as functional examples, and concludes with a qualified sovereignty–government relation rather than a slogan.
+
 ## Original 15-marker
 
 > **Question:** "Pluralism limits sovereignty but cannot escape the need for final public coordination." Critically examine with reference to Laski.
 > **Directive:** Critically examine.
-> **Suggested length:** about 220–250 words.
+> **Maximum length:** 220 words.
 
 ### Model answer
 
@@ -1911,15 +2582,17 @@ The monist reply, however, need not restore absolutism. One can distinguish **fi
 
 Thus pluralism cannot escape final coordination, but it decisively changes its justification. Laski wins against the omnipotent state; he loses only if divided authority is treated as self-coordinating. The defensible position is a strong but competence-limited constitutional state embedded in a plural society.
 
+**Why this earns marks:** It follows the critical directive, states Laski's three independent grounds, adds the unequal-association and coordination objections, supplies a constitutional reply, and gives a graded verdict.
+
 ## Original 20-marker
 
 > **Question:** Examine whether modern constitutional and international orders preserve sovereignty while abandoning the image of an indivisible personal sovereign.
 > **Directive:** Examine.
-> **Suggested length:** about 300–350 words.
+> **Maximum length:** 300 words.
 
 ### Model answer
 
-Modern constitutional and international orders preserve sovereignty as a function of final legal authority, but largely abandon the Austinian image of one determinate, illimitable person habitually obeyed by all.
+Modern constitutional and international orders preserve final legal authority but largely abandon Austin's image of a determinate, illimitable person habitually obeyed by the bulk of society.
 
 Austin's model gains clarity from command, sanction and a determinate superior. It struggles, however, with succession, old statutes, power-conferring rules, federal competence, custom and international law. Kelsen and Hart repair these internal defects without abandoning legal positivism. Kelsen relocates validity in a hierarchy of norms terminating in a presupposed *Grundnorm*; Hart locates the ultimate criterion in an officially practised rule of recognition and explains law through primary and secondary rules. Finality survives as a system-defining criterion, not a commander's will.
 
@@ -1930,6 +2603,8 @@ Internationally, the UN Charter combines sovereign equality with binding duties.
 Two objections remain. First, emergency may reveal a real decision-maker behind the rules. Constitutionalism replies by pre-authorising, time-limiting and reviewing exceptional powers, though actual compliance remains a political fact. Second, pluralism may weaken coordination. The answer is final procedure without moral omnipotence.
 
 Therefore sovereignty persists as the capacity of a legal-political order to authorise final decisions and external commitments. What modernity discards is not finality itself but the fiction that finality must reside in one unlimited personal will.
+
+**Why this earns marks:** It integrates Austin, Kelsen, Hart, India, international law, emergency and pluralism; every illustration is status-labelled, both objections receive replies, and the conclusion directly separates surviving finality from the discarded personal-sovereign image.
 
 # REMEDIATION
 
@@ -1942,103 +2617,129 @@ Therefore sovereignty persists as the capacity of a legal-political order to aut
 | "The people are Austin's sovereign." | The people are too diffuse for determinacy and habitual command. | Separate popular source from legal organ. |
 | "Kelsen, Hart and Laski make the same critique." | They replace the sovereign differently. | Norm hierarchy / official practice / plural associations. |
 | "Laski is an anarchist." | He retains state coordination. | State is limited and one association among many. |
-| "Kautilya equals absolute monarchy." | Saptanga makes capacity systemic; welfare and prudence qualify rule. | Strong but duty-bound, not modern constitutionalist. |
-| "The 2025 phrase is Kautilya's quotation." | Exact provenance is unverified. | Treat as examiner wording; explain mandala/sadgunya. |
+| "Kautilya equals absolute monarchy." | The seven-limbed state makes capacity systemic; welfare and prudence qualify rule. | Strong but duty-bound, not modern constitutionalist. |
+| "The 2025 phrase is Kautilya's quotation." | Exact provenance is unverified. | Treat as examiner wording; explain the circle of states and six-fold policy. |
 | "Federalism divides the country into several sovereigns." | Confuses distributed competences with separate statehood. | Use competence-distributed authority. |
 | "Globalisation ends sovereignty." | Confuses constraint with extinction. | Distinguish legal independence and practical interdependence. |
 | "Emergency proves absolutism." | Ignores constitutionally structured emergency competence. | Ask who authorises, limits, reviews and terminates the exception. |
 
 ## Remedial MCQs
 
-**MCQ 48: D**
+#### Questions
+**MCQ 48**
 
-A student writes, "Bodin's sovereign is bound by no law whatsoever." What is the precise correction?
+A student writes, "Bodin's sovereign is bound by no law whatsoever." Which correction is precise?
 
-A. Bodin subjects the sovereign to every ordinary statute.
-B. Bodin makes the estates legally superior.
-C. Bodin denies the power to legislate.
-D. Bodin releases the sovereign from ordinary positive law while retaining divine, natural and fundamental-law restraints.
+A. Ordinary statutes bind the sovereign unless the estates expressly waive their authority.
+B. The estates stand above the sovereign as the final domestic law-giver.
+C. The sovereign's general legislative power is delegated by natural law to temporary magistrates.
+D. The sovereign remains higher-law bound while standing above ordinary positive law.
 
-- **A - Incorrect.** Supremacy over ordinary positive law is central to Bodin.
-- **B - Incorrect.** Rival finality would defeat his monist project.
-- **C - Incorrect.** General law-making is the pre-eminent mark of sovereignty.
-- **D - Correct.** This states both absoluteness and the higher-law qualification.
-
-**MCQ 49: A**
+**MCQ 49**
 
 A student says, "The electorate is Austin's determinate sovereign because it chooses representatives." What is the best reply?
 
-A. The electorate is politically powerful but too diffuse and episodic to fit Austin's determinate-superior test.
-B. Correct, because every voter gives commands backed by sanctions.
-C. Correct, because popular and legal sovereignty are identical.
-D. Incorrect only in monarchies.
+A. Electors shape political power without being Austin's identifiable law-giving superior.
+B. A ballot issues a sanction-backed legal command to the elected representative.
+C. Austin's independence criterion can substitute for identifying the sovereign.
+D. Electors lose political sovereignty once representatives acquire legislative competence.
 
-- **A - Correct.** This preserves the distinction between political source and determinate legal organ.
-- **B - Incorrect.** Individual electoral choices are not sovereign commands.
-- **C - Incorrect.** Legal and political sovereignty can diverge.
-- **D - Incorrect.** The conceptual difficulty applies in representative democracies.
+**MCQ 50**
 
-**MCQ 50: B**
+Which statement best describes the development of Laski's position?
 
-Which correction best addresses the claim that Laski abolishes the state?
+A. Early Laski accepts Austinian title, whereas mature Laski adds associational consultation.
+B. Early Laski attacks the sovereign fiction, whereas mature Laski retains limited coordination.
+C. Early Laski protects group purposes, whereas mature Laski justifies coordination without a welfare test.
+D. Early Laski denies moral omnipotence, whereas mature Laski restores an absolute state claim.
 
-A. Laski replaces the state with a monarch.
-B. Laski denies absolute moral supremacy but retains a uniquely important coordinating state.
-C. Laski adopts Austin's command theory.
-D. Laski denies all collective authority.
+**MCQ 51**
 
-- **A - Incorrect.** Monarchical concentration is contrary to his critique.
-- **B - Correct.** Pluralism limits and federalises authority; it is not statelessness.
-- **C - Incorrect.** Laski attacks Austinian monism.
-- **D - Incorrect.** Associations themselves possess genuine collective authority.
+Which correction best prevents reducing Kautilya to foreign-policy realism?
 
-**MCQ 51: C**
+A. The circle of states exhausts sovereignty because the seven limbs concern administration rather than authority.
+B. Public welfare is optional royal charity and does not affect the durability of rule.
+C. External strategy draws on seven-limb capacity and serves public duty and the subjects' welfare.
+D. Strategic realism makes constitutional rights unnecessary in any modern application.
 
-What is the safest treatment of the "permanent friend or enemy" line?
+**MCQ 52**
 
-A. Present it as a direct quotation with an invented Arthashastra chapter.
-B. Ignore the question's statement and discuss only saptanga.
-C. Flag the wording as unverified, then analyse its thematic fit with mandala and sadgunya.
-D. Claim that Kautilya rejects all ethical purposes.
+Which statement best explains globalisation's effect on sovereignty?
 
-- **A - Incorrect.** Fabricated provenance violates quotation integrity.
-- **B - Incorrect.** The external-sovereignty demand must be addressed.
-- **C - Correct.** It answers the stem while preserving source caution.
-- **D - Incorrect.** Yogakshema and preservation of the realm supply purposive limits.
+A. Legal sovereignty remains unchanged, so material dependence is conceptually irrelevant.
+B. Pooling and delegation are equivalent because both move decisions beyond the state.
+C. The rise of sovereign nationalism proves that globalisation has ended as a structural force.
+D. Legal statehood persists as shared competences and dependence reshape autonomy.
 
-**MCQ 52: D**
+**MCQ 53**
 
-Which statement repairs the claim that globalisation has abolished sovereignty?
+Which formulation best integrates monism, pluralism and constitutionalism?
 
-A. Globalisation has no effect on state autonomy.
-B. Every treaty creates a world sovereign.
-C. Economic dependence automatically terminates international personality.
-D. Sovereignty is reconfigured through commitment, pooling, delegation and dependence while legal statehood persists.
+A. Final procedures may bind while remaining competence-limited, reviewable and morally contestable.
+B. Binding coordination requires an unbounded commander, rather than competence-limited public procedures.
+C. Pluralism treats associational autonomy as protection against criticism from the group's own members.
+D. Constitutionalism converts political influence into a source of legal competence.
 
-- **A - Incorrect.** Interdependence can substantially constrain practical autonomy.
-- **B - Incorrect.** Treaty obligation need not create a determinate superior.
-- **C - Incorrect.** Material constraint and legal statehood are analytically distinct.
-- **D - Correct.** The formulation distinguishes mechanisms and avoids both extinction and immunity theses.
+#### Answers and explanations
+**MCQ 48 — Answer and explanation**
 
-**MCQ 53: A**
+**Correct answer: D**
 
-Which final formulation best integrates monism, pluralism and constitutionalism?
+- **A — Incorrect:** Bodin's sovereign stands above ordinary self-made positive law. A waiver by the estates does not supply the basis for that juristic supremacy.
+- **B — Incorrect:** Making the estates legally superior would defeat the single final law-giving office.
+- **C — Incorrect:** Natural law limits the sovereign; it does not delegate sovereign legislative title to magistrates.
+- **D — Correct:** The correction states both juristic absoluteness and the retained higher-law restraints.
 
-A. A polity needs final public procedures, but those procedures can be competence-limited, reviewable and morally contestable.
-B. No political order needs a final procedure.
-C. Final legal authority always entails unlimited moral obedience.
-D. Associations should possess independent coercive supremacy over the same disputes.
+**MCQ 49 — Answer and explanation**
 
-- **A - Correct.** This preserves monism's order insight, pluralism's moral critique and constitutionalism's institutional solution.
-- **B - Incorrect.** Unsettled conflict still requires authoritative procedures.
-- **C - Incorrect.** Legal finality does not establish moral infallibility.
-- **D - Incorrect.** Co-equal compulsory finality recreates the coordination problem.
+**Correct answer: A**
+
+- **A — Correct:** This preserves the distinction between political source and determinate legal organ.
+- **B — Incorrect:** A ballot is an act of political choice within electoral rules. It does not issue the sovereign's sanction-backed command that Austin uses to identify positive law.
+- **C — Incorrect:** Being obedient to no like superior is one requirement, not a substitute for determinacy. Austin still requires an identifiable human person or body receiving habitual obedience.
+- **D — Incorrect:** Dicey's distinction allows electors to remain politically influential while representatives exercise formal legislative competence. The location of legal power does not extinguish political sovereignty.
+
+**MCQ 50 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Laski attacks rather than accepts Austinian monism in both phases.
+- **B — Correct:** The phase distinction preserves the early polemic and the later concession of distinctive coordinating power.
+- **C — Incorrect:** The mature concession retains a functionally justified state whose claim to allegiance depends on justice and welfare. Coordination does not become exempt from the performance test.
+- **D — Incorrect:** His development moves toward qualified coordination, not toward moral absolutism.
+
+**MCQ 51 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** The seven limbs define the internal capacity that makes external strategy possible; they are central to sovereignty.
+- **B — Incorrect:** Kautilya links durable rule to public well-being and productive capacity rather than treating welfare as decorative charity.
+- **C — Correct:** The formulation integrates internal capacity, normative purpose and external strategy without modernising the monarchy.
+- **D — Incorrect:** Selective modern relevance requires adding constitutional rights and accountability, not treating them as unnecessary.
+
+**MCQ 52 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Formal legal status may persist, but dependence can still narrow feasible policy choices.
+- **B — Incorrect:** Pooling uses common decision rules, whereas delegation authorises a defined external function.
+- **C — Incorrect:** Sovereign nationalism and globalisation coexist through selective openness, bargaining and regulatory retrenchment.
+- **D — Correct:** The answer preserves legal persistence while distinguishing several mechanisms that transform exercise and autonomy.
+
+**MCQ 53 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** The formulation preserves binding coordination while rejecting moral omnipotence and unlimited personal title.
+- **B — Incorrect:** Constitutionally conferred procedures can bind despite competence limits. Binding coordination therefore does not require a personally illimitable commander or exclude rule-governed finality.
+- **C — Incorrect:** Laski's case against unconditional moral obedience cannot make associations immune from criticism. Groups may dominate members, which is one reason constitutional coordination remains necessary.
+- **D — Incorrect:** Constitutionalism distinguishes formal competence from political influence rather than collapsing them.
 
 ## Remediation protocol
 
 1. If MCQs 48–49 are wrong, revisit Lessons 3, 5 and 6.
-2. If MCQ 50 is wrong, redraw the pluralist network in Lesson 8.
-3. If MCQ 51 is wrong, write the three provenance registers: verified quote / reliable paraphrase / uncertain attribution.
+2. If MCQ 50 is wrong, contrast early legal-fiction criticism with mature limited coordination in Lesson 8; explain why consultation does not cure absolutism and why coordination remains subject to justice and welfare.
+3. If MCQ 51 is wrong, join Lesson 9's seven-limb capacity and duty/welfare purposes to Lesson 10's external strategy; explain why neither royal charity nor foreign-policy success replaces constitutional accountability.
 4. If MCQ 52 is wrong, classify five examples as treaty commitment, pooling, delegation or dependence.
 5. If MCQ 53 is wrong, write a 100-word synthesis using "final procedure" and "moral omnipotence."
 
@@ -2049,9 +2750,9 @@ D. Associations should possess independent coercive supremacy over the same disp
 | Axis | Bodin | Hobbes | Rousseau | Austin | Kelsen | Hart | Laski | Kautilya |
 |---|---|---|---|---|---|---|---|---|
 | Problem | Civil conflict | Insecurity | Legitimate freedom | Legal identification | Norm validity | Structure of legal system | Plural liberty | Effective rule and survival |
-| Locus | Perpetual law-giving office | Authorised sovereign | General will | Determinate superior | Normative order | Rule of recognition | No single moral locus | Svami within saptanga |
+| Locus | Perpetual law-giving office | Authorised sovereign | General will | Determinate superior | Normative order | Rule of recognition | No single moral locus | Ruler within the seven-limbed state |
 | Finality | Absolute/undivided | Near-absolute | Inalienable popular | Absolute legal | Highest validity structure | Ultimate validity criterion | Distributed | Coordinated capacity |
-| Limit | Higher law | Security purpose | Common good | No legal superior | Competence hierarchy | Rules and official practice | Associations and earned allegiance | Welfare, prudence and interdependence |
+| Limit | Higher law | Security purpose | Common good | No legal superior | Competence hierarchy | Rules and official practice | Associations and earned allegiance | Duty, subjects' happiness, welfare, prudence and interdependence |
 | Weakness | Soft enforcement | Domination | Identification of general will | Modern legal complexity | Presupposed apex | Hard cases/morality | Coordination | Monarchical/prudential limits |
 
 ## Causal map — why the doctrine changes
@@ -2124,17 +2825,16 @@ INFERENCE: authority is competence-distributed, not personally illimitable
 
 ```text
 INTERNAL CAPACITY                                  EXTERNAL POSITION
-saptanga                                           rajamandala
-svami + amatya + janapada                          neighbour/rival
-+ durga + kosa + danda + mitra                     neighbour's neighbour/ally
+seven-limbed state (saptāṅga)                      circle of states (rājamaṇḍala)
+ruler + ministers + land/people                    aspiring ruler + rival
++ fort + treasury + force + ally                   ally + intermediate + remote power
         |                                                   |
         v                                                   v
-dandaniti: calibrated coercion                     sadgunya: six policies
+disciplined coercion (daṇḍanīti)                   six-fold policy (ṣāḍguṇya)
         |                                                   |
         +--------------------+------------------------------+
                              v
-                         yogakshema
-                      security + welfare
+ duty (dharma) + subjects' happiness (prajā-sukha) + security-welfare (yogakṣema)
 ```
 
 ## Global sovereignty mechanism map
@@ -2176,7 +2876,7 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 |---|---|
 | Absoluteness | No superior human law-maker within the order |
 | Permanence | Continues beyond particular rulers or governments |
-| Universality | Jurisdiction over persons and associations within territory |
+| Universality | Jurisdiction over persons and associations within territory, subject to legally recognised immunities or protected spheres |
 | Inalienability | Final title cannot be transferred without ceasing to be sovereignty |
 | Indivisibility | Two co-equal final legal wills create an unresolved conflict |
 
@@ -2227,15 +2927,19 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 ## 7. Kelsen and Hart
 
 - **Kelsen:** hierarchy of norms; presupposed *Grundnorm*; *General Theory of Law and State*, English 1945.
+- Derivation: a legal “ought” requires a higher norm and cannot arise from a bare fact of power.
 - Gain: validity and continuity without a personal commander.
 - Residual: revolution reintroduces efficacy.
 - **Hart:** primary and secondary rules; recognition, change, adjudication; internal point of view; *The Concept of Law*, 1961.
 - Gain: explains power-conferring law and obligation.
+- Moral reply: legal validity does not confer moral merit; separating them preserves criticism of evil law.
 - Trap: never swap 1945 and 1961.
 - Trap: Kelsen, Hart and Laski are three different moves.
 
 ## 8. Laski and pluralism
 
+- Early phase: sovereignty is a legal fiction when one juristic will is mistaken for society's real plurality.
+- Mature phase: the state retains distinctive coordination but not omnipotence.
 - Absolute sovereignty is false, dangerous and unreal.
 - State = one association among many, though uniquely important.
 - Authority should be divided, shared and earned.
@@ -2247,19 +2951,20 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 
 ## 9. Kautilya — internal
 
-- *Saptanga*: svami, amatya, janapada, durga, kosa, danda, mitra.
+- Seven-limbed state (*saptāṅga*): ruler (*svāmī*), ministers (*amātya*), productive territory/people (*janapada*), fort (*durga*), treasury (*kośa*), force (*daṇḍa*), ally (*mitra*).
 - Sovereignty = systemic state capacity, not merely royal will.
-- *Dandaniti*: calibrated coercion.
-- Too little: *matsya-nyaya*.
+- Discipline of coercion (*daṇḍanīti*): calibrated public force.
+- Too little: predatory disorder (*matsya-nyāya*).
 - Too much: tyranny, resentment and weakened capacity.
-- *Yogakshema*: security and welfare.
-- Austin comparison: legal form versus political function.
+- Security and welfare (*yogakṣema*): the purposive test of durable rule.
+- Duty/right order (*dharma*) and subjects' happiness (*prajā-sukha*) bind royal success to public well-being.
+- Austin comparison: legally uncommanded form versus duty-bound political function.
 
 ## 10. Kautilya — external
 
-- *Rajamandala*: external sovereignty is relational.
+- Circle of states (*rājamaṇḍala*): external sovereignty is relational.
 - Neighbour = structural rival; neighbour's neighbour = potential ally in simplified model.
-- *Sadgunya*: sandhi, vigraha, yana, asana, samsraya, dvaidhibhava.
+- Six-fold policy (*ṣāḍguṇya*): peace (*sandhi*), hostility (*vigraha*), advance (*yāna*), strategic waiting (*āsana*), shelter (*saṃśraya*) and dual policy (*dvaidhībhāva*).
 - 2025 line is examiner wording, not a verified verbatim Kautilya quotation.
 - Modern relevance by theme: capacity, finance, intelligence, calibrated force, strategic autonomy, welfare.
 - Do not reproduce monarchy as democracy.
@@ -2269,6 +2974,7 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 - Constitutionalism = constituted, allocated, limited and reviewable power.
 - Better phrase: **competence-distributed authority**.
 - India is not orthodox Westminster parliamentary sovereignty.
+- GS-II 2023 Q4 asks the exact British–Indian parliamentary-sovereignty contrast.
 - Article 368 = constitutional text conferring amendment power and procedure.
 - *Kesavananda Bharati* = judicial holding, decision 24 April 1973, limiting destructive use of amending competence through basic structure.
 - Do not call any Indian institution the Austinian sovereign.
@@ -2280,6 +2986,7 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 - Treaty commitment ≠ delegation ≠ pooling ≠ dependence.
 - EU conferral: Union acts within competences conferred by member states.
 - Globalisation changes the exercise and autonomy of sovereignty; it does not automatically abolish legal statehood.
+- GS-II 2025 Q10 links waning multilateral globalisation to rising sovereign nationalism.
 - Decisive distinction: legal independence versus practical interdependence.
 - Correct verbs: constrained, pooled, delegated, negotiated, reconfigured.
 
@@ -2307,8 +3014,8 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 3. Popular sovereignty does not make government unlimited.
 4. Kelsen's 1945 work is not Hart's 1961 work.
 5. Laski is not an anarchist.
-6. Saptanga is not Austinian monism in Indian dress.
-7. Danda is not blind terror.
+6. The seven-limbed state is not Austinian monism in Indian dress.
+7. Force (*daṇḍa*) is not blind terror.
 8. The 2025 line is not a verified Kautilya quotation.
 9. Federal powers are not automatically several sovereign states.
 10. *Kesavananda* is a judicial illustration, not philosophical proof.
@@ -2334,11 +3041,11 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 | Monism / pluralism | Lessons 1, 8, 12; 2026 Q4(b) | Complete |
 | Laski | Lesson 8; PYQs 2018/2023 | Complete |
 | Figgis / Cole / MacIver lineage | Lesson 8 | Complete, supplementary |
-| Kautilya saptanga | Lesson 9 | Complete |
-| Dandaniti / matsya-nyaya | Lesson 9; 2018 Q1(d) | Complete |
-| Mandala / Rajamandala | Lesson 10; 2025/2026 PYQs | Complete |
-| Sadgunya | Lesson 10 | Complete |
-| Yogakshema | Lessons 9–10 | Complete |
+| Kautilya's seven-limbed state (*saptāṅga*) | Lesson 9 | Complete |
+| Disciplined coercion / predatory disorder | Lesson 9; 2018 Q1(d) | Complete |
+| Circle of states (*rājamaṇḍala*) | Lesson 10; 2025/2026 PYQs | Complete |
+| Six-fold policy (*ṣāḍguṇya*) | Lesson 10 | Complete |
+| Security and welfare (*yogakṣema*) | Lessons 9–10 | Complete |
 | Constitutionalism | Lesson 11 | Complete |
 | Federalism | Lessons 6 and 11 | Complete |
 | Article 368 / India | Lesson 11 | Complete |
@@ -2349,6 +3056,7 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 | Emergency / security | Lessons 8, 11 and 12 | Complete |
 | Criticisms and replies | Every doctrine lesson; maps | Complete |
 | Verified PYQs through 2026 | Verified PYQ section | 13 owner questions complete |
+| Relevant GS-II cross-links | Lessons 11–12; verified PYQ section | 2023 Q4 and 2025 Q10 exact wording, demand and primary examination home recorded |
 | Natural MCQ variation | Lessons use 2/3/4 counts | Complete |
 | Continuous A→B→C→D rotation | MCQs 1–53 | Complete |
 | Original 10/15/20 practice | Mains model section | Complete |
@@ -2357,39 +3065,96 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 | Consolidated register notes last before audit surfaces | Register Notes section | Complete |
 | Boundary with adjacent topics | Lessons 1, 2, 4, 8, 11, 12 and ledger | Complete |
 
+## Lesson-level completeness
+
+| Lesson | Core teaching and argument | Criticism / reply / qualification | Practice and PYQ use | Status |
+|---:|---|---|---|---|
+| 1 | Meaning, five attributes and complete taxonomy | Monist finality versus pluralist moral objection; universality/immunity qualification | MCQs 1–2; original distinction model | Complete |
+| 2 | Historical movement, popular and national sovereignty | Constituent authorship versus institutional insulation | MCQs 3–5; popular-sovereignty model | Complete |
+| 3 | Bodin in the French religious-war context; formula and limits | Enforceability of higher-law limits; equality/justice/liberty test | MCQs 6–7; 2020/2022 routes | Complete |
+| 4 | Hobbes security and Rousseau general will | Domination and false-majority risks | MCQs 8–11; comparative model | Complete |
+| 5 | Austin's determinate superior and command theory | Legal clarity versus power-conferring and constitutional complexity | MCQs 12–14; Austin model | Complete |
+| 6 | Federalism, democracy, custom, international law and Maine | Austinian relocations and residual indeterminacy | MCQs 15–16; 2019/2021 routes | Complete |
+| 7 | Kelsen's is–ought hierarchy and Hart's rule system | Grundnorm/efficacy; validity versus moral merit; hard-case residual | MCQs 17–20; comparative 15-marker | Complete, core |
+| 8 | Early legal-fiction phase and mature Laskian pluralism | Coordination and unequal-association objections | MCQs 21–23; 2018/2023 routes | Complete |
+| 9 | Seven limbs, disciplined coercion, duty, subjects' happiness and welfare | Prudential/moral limits versus enforceable constitutional rights | MCQs 24–27; 2018/2019/2021/2024 routes | Complete |
+| 10 | Circle actors and all six qualified policies | Bodin/Austin contrast; geographic, monarchical and ethical limits | MCQs 28–30; 2025/2026 routes | Complete, core |
+| 11 | Constitutionalism, federalism, Article 368 and basic structure | Judicial-sovereignty objection and compliance residual | MCQs 31–34; 2023 GS-II Q4 link | Complete, core |
+| 12 | International law, globalisation, sovereign nationalism and emergency | Unequal consent, crisis coordination and constitutional reply | MCQs 35–38; 2020 Philosophy and 2025 GS-II Q10 links | Complete, core |
+
+## Clause-demand reconciliation
+
+| Coverage-map units | Owned demand family | Live-session location | Result |
+|---|---|---|---|
+| S02-01–S02-13 | Meaning, dimensions, popular/national forms and five classical attributes | Lessons 1–2; cumulative MCQs; Register Notes 1–3 | Complete |
+| S02-14–S02-24 | Bodin's context, formula, law-making mark, limits and three-ideal test | Lessons 2–3; 2020/2022 routes; Register Notes 4 | Complete |
+| S02-25–S02-37 | Austin's project, definition, attributes, democracy and external criticisms | Lessons 5–6; 2019/2021 routes; Register Notes 6 | Complete |
+| S02-38–S02-41 | Succession, persistence, Kelsen, Hart and power-conferring rules | Lesson 7; cumulative MCQs; Register Notes 7 | Complete, supporting depth |
+| S02-42–S02-51 | Laski's threefold rejection, allegiance, phase caution and adequacy test | Lesson 8; 2018/2023 routes; Register Notes 8 | Complete |
+| S02-52–S02-62 | Kautilya's state frame, seven limbs, calibrated force and welfare | Lesson 9; 2018/2019/2021/2024 routes; Register Notes 9 | Complete |
+| S02-63–S02-76 | Circle actors, six policies, 2025 provenance, 2026 evaluation and modern relevance | Lessons 9–10; 2024–2026 routes; Register Notes 10 | Complete |
+| S02-77–S02-83 | Monism/pluralism, treaty commitment, pooling, delegation, dependence and globalisation | Lessons 8, 11–12; 2020/2026 routes; Register Notes 11–13 | Complete |
+
+## Core and advanced-trail disposition
+
+| Trail | Classification | Treatment and reason |
+|---|---|---|
+| Constituent versus constituted authority | Core supporting | Lessons 2 and 11; needed to explain popular sovereignty and limited government |
+| Kelsen and Hart's internal positivist repairs | Core supporting | Lesson 7; indispensable to a complete critical treatment of Austin |
+| Kautilya's circle of states and six policies | Core / PYQ-essential | Lesson 10; directly required by the 2025 and 2026 Philosophy questions |
+| Sovereignty under interdependence | Core / PYQ-essential | Lesson 12; directly required by the 2020 Philosophy question |
+| Constitutional supremacy and federal competence | Core applied | Lesson 11; required by Austin's federalism problem and the bounded 2023 GS-II link |
+| Exception and emergency | Advanced bounded enrichment | Lessons 11–12; tests coordination without making Schmitt a printed syllabus thinker |
+| Full Dworkin hard-cases theory | Routed, not developed | Only Hart's residual problem is named; the full theory is outside this topic's boundary |
+
 # SOURCE LEDGER
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | `upsc-ai-kit/knowledge/Philosophy/paper-2/socio-political/Sovereignty.md`, the official syllabus file and the clause-level coverage map were audited in full |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | not relevant | The official syllabus, canonical owner, advanced dossier, cross-topic owners, OCR evidence and verified PYQs were sufficient; no derived session was needed |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit/knowledge/Philosophy/_advanced/Socio-Political-Dossier.md` §2 and the Political-Theory advanced companions were audited |
+| OCR books | checked | O. P. Gauba, local PDF pp. 179–218; local *Socio-Political Philosophy* PDF pp. 55–67 |
+| PYQs through 2026 | checked | Verified 2018–2025 bank plus the official-paper-controlled 2026 supplement cover 13 Philosophy parts; verified Polity and IR owners supply two bounded GS-II links |
+| Official live sources | checked | UN Charter Article 2, EUR-Lex conferral summary and the official *Kesavananda Bharati* archive were rechecked on 2026-10-06; stable UK/Indian official records are used with the access caution below |
 
 ## A. Repository-first sources
 
 1. `upsc-ai-kit/knowledge/Philosophy/paper-2/socio-political/Sovereignty.md`
    **Use:** canonical doctrine, taxonomy, thinker positions, Kelsen/Hart extension, Kautilya, traps, answer architecture and source cautions.
 
-2. `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`
+2. `upsc-ai-kit/knowledge/Philosophy/OFFICIAL-UPSC-SYLLABUS-VERBATIM.md`
+   **Use:** exact Paper II, Socio-Political Philosophy item 2 boundary.
+
+3. `philosophy-coverage/Socio-Political-Philosophy.md`, Clause 2
+   **Use:** eighty-three distinct demand units, canonical route, boundary control and complete 2018–2026 ownership map.
+
+4. `upsc-ai-kit/knowledge/Philosophy/_advanced/Socio-Political-Dossier.md`, §2
+   **Use:** bounded advanced trails—constituent/constituted power, legal pluralism, interdependence and emergency—kept subordinate to the four printed thinkers.
+
+5. `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2018-2025.md`
    **Use:** exact verified year, question number, marks and wording for 11 owner parts.
 
-3. `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2026-Supplement.md`
-   **Use:** official 2026 routing for Rajamandala and monistic/pluralistic sovereignty.
+6. `upsc-ai-kit/knowledge/Philosophy/paper-2/_PYQ-SocioPolitical-2026-Supplement.md`
+   **Use:** official 2026 routing for the circle of states and monistic/pluralistic sovereignty.
 
-4. `upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-ii-socio-political-philosophy/philosophy-paper-ii-socio-political-philosophy-02_Learning-Session.md`
-   **Use:** completeness cross-check, visuals and misconception inventory; not used as final structure.
-
-5. `upsc-ai-kit/knowledge/Philosophy/learning-sessions/v2/paper-ii-socio-political-philosophy/philosophy-paper-ii-socio-political-philosophy-02_Solved-Workbook.md`
-   **Use:** practice and error inventory; solved PYQ text not transferred into the verified linkage section.
-
-6. `upsc-ai-kit/knowledge/Philosophy/Socio-Political-Philosophy/learning-sessions/Sovereignty/Sovereignty_Layered-Complete-Learning-Session_2026-08-19.md` and matching workbook
-   **Use:** legacy completeness audit; visible layered shells deliberately rejected.
-
-7. Refreshed g3 Topic 02 complete session and solved workbook dated 2026-08-30
-   **Use:** advanced dossier, Kelsen/Hart depth, lesson assets, practice and historical package audit.
-
-8. `upsc-ai-kit/knowledge/Political-Theory/basic/11_Sovereignty-and-Pluralism.md` and advanced companion
+7. `upsc-ai-kit/knowledge/Political-Theory/basic/11_Sovereignty-and-Pluralism.md` and `advanced/11_Sovereignty-and-Pluralism.md`
    **Use:** Gauba-grounded characteristics, pluralist lineage, MacIver and quotation caution.
 
-9. `upsc-ai-kit/knowledge/Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md` and advanced companion
+8. `upsc-ai-kit/knowledge/Political-Theory/basic/12_Globalisation-and-Challenges-to-Sovereignty.md` and `advanced/12_Globalisation-and-Challenges-to-Sovereignty.md`
    **Use:** external sovereignty, legal independence/effective autonomy and globalisation mechanisms.
 
-10. Socio-Political Philosophy completion and batch reports dated 2026-08-30
-    **Use:** package-gap and approval-state audit only; not doctrinal authority.
+9. `upsc-ai-kit/knowledge/Polity/basic/Comparative-Constitutional-Schemes.md`
+   **Use:** exact 2023 GS-II Q4 wording, marks, word limit and British–Indian parliamentary-sovereignty distinction.
+
+10. `upsc-ai-kit/knowledge/International-Relations/basic/11_Globalisation-Trade-Agreements-and-External-Policy-Effects.md`
+    **Use:** exact 2025 GS-II Q10 wording, marks, word limit and sovereign-nationalism demand.
+
+**Permanent exclusions applied:** no artifact from the permanently excluded final-package directory or from the prohibited new-export derivative set was used in this repair or its verdict. The optionally permitted `learning_package_final/` directory was not needed.
 
 ## B. OCR-searchable local books
 
@@ -2406,15 +3171,15 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 - Harold J. Laski, *A Grammar of Politics* and *Studies in the Problem of Sovereignty* — pluralist critique.
 - Hans Kelsen, *General Theory of Law and State*, first English edition 1945 — title/year and doctrine only.
 - H. L. A. Hart, *The Concept of Law*, 1961 — title/year and doctrine only.
-- Kautilya, *Arthashastra*, Shamasastry translation source trail, especially Book VII — Rajamandala and six measures; no claim that the 2025 wording is verbatim.
+- Kautilya, *Arthaśāstra*, Shamasastry translation source trail, especially Book VII — circle of states and six measures; no claim that the 2025 wording is verbatim.
 
 ## D. Official constitutional, judicial and institutional sources
 
-1. **Constitution of India**, Legislative Department, Ministry of Law and Justice, official PDF located through `legislative.gov.in`; retrieved 2026-09-25.
+1. **Constitution of India**, Legislative Department, Ministry of Law and Justice, official PDF located through `legislative.gov.in`; stable constitutional text.
    **Use:** Preamble, Article 368 and emergency-competence references.
    **Status:** constitutional text.
 
-2. **His Holiness Kesavananda Bharati Sripadagalvaru v. State of Kerala & Anr.**, W.P. No. 135 of 1970, decision date 24 April 1973, official eCourts/Supreme Court archive; retrieved 2026-09-25.
+2. **His Holiness Kesavananda Bharati Sripadagalvaru v. State of Kerala & Anr.**, W.P. No. 135 of 1970, decision date 24 April 1973, official eCourts archive; rechecked 2026-10-06.
    **Use:** judicial illustration of limited amending competence.
    **Status:** judicial holding, not constitutional text or philosophical proof.
 
@@ -2422,11 +3187,11 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
    **Use:** orthodox institutional description of Parliament as supreme legal authority in the UK.
    **Status:** jurisdiction-specific institutional explanation.
 
-4. **United Nations Charter**, official UN full text, especially Articles 1–2; retrieved 2026-09-25.
+4. **United Nations Charter**, official UN full text, especially Articles 1–2; rechecked 2026-10-06.
    **Use:** sovereign equality, good-faith obligations, peaceful settlement and non-use of force.
    **Status:** treaty text.
 
-5. **European Union / EUR-Lex**, Treaty on European Union principle of conferral and official EU values/competence material; retrieved 2026-09-25.
+5. **European Union / EUR-Lex**, official division-of-competences summary and treaty principle of conferral; rechecked 2026-10-06.
    **Use:** defined conferral of competences and treaty-based pooled authority.
    **Status:** treaty/institutional fact; broader evaluation remains inference.
 
@@ -2440,9 +3205,10 @@ provisional thesis --> concept map --> full doctrine --> presuppositions
 
 ## F. Source limitations
 
-1. The official Legislative Department landing page and UK Parliament overview returned access restrictions to direct fetch; their official pages and official PDF/page records were located through live web search, and no unsupported wording beyond those records is attributed.
-2. The 2025 "permanent friend or permanent enemy" sentence is not verified as a verbatim Kautilya quotation. It is treated as examiner wording and interpreted through independently supported mandala and sadgunya doctrine.
+1. The official Legislative Department landing page and UK Parliament overview returned HTTP 403 to direct fetch on 2026-10-06. Stable constitutional text and the jurisdiction-specific UK description are retained from their official records; no changing claim depends on those blocked pages.
+2. The 2025 "permanent friend or permanent enemy" sentence is not verified as a verbatim Kautilya quotation. It is treated as examiner wording and interpreted through independently supported circle-of-states and six-fold-policy doctrine.
 3. Kelsen and Hart are used through named works and standard doctrine without invented page numbers or quotations.
 4. Schmitt is used only as an optional emergency-sovereignty problem-frame; no quotation or detailed Schmitt exegesis is asserted.
 5. No current WTO appellate-status claim is required for the argument, avoiding dependence on a fast-changing institutional fact.
-6. Qdrant was not needed; repository Markdown, OCR-searchable PDFs and official live sources were sufficient.
+6. The Philosophy-specific file referenced by the live-session rules as `instructions/PHILOSOPHY-LIVE-SESSION-STANDARD.md` is absent from the repository. The available Philosophy standard and advanced dossier were followed; this missing registry target remains an external uncertainty.
+7. Qdrant was not needed; repository Markdown, OCR-searchable PDFs and official live sources were sufficient.
