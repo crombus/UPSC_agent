@@ -459,7 +459,7 @@ Progress: 8/8 | Stage: Advanced | Subtopic: Conditional coverage, intersectional
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Legal and policy pathways must be stress-tested for intersecting caste, disability, migration, digital-access and climate-related barriers
-Current focus: How intersectionality, digital systems, climate stress and migration alter access to rights and services
+CA search: "official India women intersectionality digital access climate migration gender justice 2026"
 CA found: No separate dated event is required; the lesson applies established principles to harder access and attribution problems
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -520,6 +520,23 @@ The DV Act's “relationship in the nature of marriage” covers qualifying live
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 Read each verified question first as an exam prompt; only then use the neutral approach to identify its directive, conceptual demand and answer structure.
+
+### 2019 Prelims GS-I Q76 — objective, answer key not inferred
+
+> Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017?
+>
+> 1. Pregnant women are entitled for three months pre-delivery and three months post-delivery paid leave.
+> 2. Enterprises with crèches must allow the mother minimum six crèche visits daily.
+> 3. Women with two children get reduced entitlements.
+>
+> Select the correct answer using the code given below:
+>
+> (a) 1 and 2 only
+> (b) 2 only
+> (c) 3 only
+> (d) 1, 2 and 3
+
+**Neutral approach:** Test each proposition separately against the amended law's leave duration and child-order condition, the establishment/crèche threshold and the permitted visit rule. The locally held OCR preserves the stem and options but no official key is available locally, so no option is selected here. The underlying distinctions are taught in Lesson 5.
 
 ### 2019 GS-II Q13 — 15 marks, 250 words
 
@@ -721,7 +738,7 @@ RIGHTS [14, 15, 16, 21] → DESIGN [15(3), 39, 42]
 | Solved workbook | not relevant | Permanently excluded by live-session rules; not consulted |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Social-Justice\advanced\05_Women-and-Gender-Justice.md` read after Basic; boundary cases taught in L8 |
 | OCR books | checked | Sibling `upsc-agent\books\Courseware on Indian Polity by M Laxmikanth.pdf` PDF pp. 878, 956–961 inspected: statutory NCW, investigative powers and legislature/action-taken route; sibling Economic Survey 2025–26 exists but was not relied on; sibling 2026 official GS-II paper image-only |
-| PYQs through 2026 | checked | Exact 2019–2025 Mains wording was checked against sibling local records under `upsc-agent\knowledge-export\Mains PYQ\`: `QP-CSM19-GeneralStudies-II.pdf.md`, `Gen_St_P2.pdf.md`, `QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf.md`, `QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf.md`, `UPSC Mains 2024 GS Paper I.md` and `UPSC Mains 2025 GS Paper 2.md`. The neutral-summary routing ledgers were used only for topic ownership and mapping, not as exact-wording evidence. The 2026 Q2 wording is preserved in OCR-verified `_PYQ-GS2-2026.md`, sourced there to the official GS-II scan; 2024's printed *What* is retained |
+| PYQs through 2026 | checked | The locally held `_ocr_2019_gs1.txt`, page 34, supplies 2019 Prelims GS-I Q76's complete three-statement stem and four choices; no local official key is inferred. Exact 2019–2025 Mains wording was checked against sibling records under `upsc-agent\knowledge-export\Mains PYQ\`: `QP-CSM19-GeneralStudies-II.pdf.md`, `Gen_St_P2.pdf.md`, `QP-CSM-21-GENSTUDIESPAPER-II-110122.pdf.md`, `QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf.md`, `UPSC Mains 2024 GS Paper I.md` and `UPSC Mains 2025 GS Paper 2.md`. The neutral-summary routing ledgers were used only for topic ownership and mapping. The 2026 Q2 wording is preserved in OCR-verified `_PYQ-GS2-2026.md`, sourced there to the official GS-II scan; 2024's printed *What* is retained |
 | Official live sources | checked | Exactly one genuine file-level current linkage is used: [PIB, *Sashakt Nari, Sashakt Bharat*, 14 August 2026](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/aug/doc2026814956701.pdf), p. 6, solely to confirm the standing Mission Shakti Sambal/Samarthya architecture; no centre or beneficiary total is used |
 
-**Evidence caveats, 3 October 2026:** The single PIB file is used only for programme architecture because its OSC sentence is unsuitable for deriving a centre or beneficiary total. Dated NFHS, PLFS and NCRB material appears only as carefully labelled evidence series, not as additional current-affairs anchors. The 2026 GS-II wording comes from the OCR-verified official-scan ledger. The 2024 GS-I paper's printed “What is it important” misprint is retained with an interpretation note. No 2019 Prelims stem, option or answer key is reconstructed.
+**Evidence caveats, 3 October 2026:** The single PIB file is used only for programme architecture because its OSC sentence is unsuitable for deriving a centre or beneficiary total. Dated NFHS, PLFS and NCRB material appears only as carefully labelled evidence series, not as additional current-affairs anchors. The 2026 GS-II wording comes from the OCR-verified official-scan ledger. The 2024 GS-I paper's printed “What is it important” misprint is retained with an interpretation note. The 2019 Prelims Q76 stem and choices are transcribed from the local OCR record; no answer key or unique correct option is reconstructed or inferred.
