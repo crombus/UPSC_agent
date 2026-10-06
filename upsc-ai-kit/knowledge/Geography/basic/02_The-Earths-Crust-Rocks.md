@@ -4,6 +4,12 @@
 > **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*.
 > ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
 > *Companion: `advanced/02_India-Geological-Structure.md`.*
+>
+> **Modern-science control:** where older textbook terminology or chronology conflicts with current
+> geology, this file follows the **USGS** for lithosphere/asthenosphere and plate mechanics, the
+> **International Commission on Stratigraphy (ICS) 2026-06 chart** for period boundaries, and
+> **Geological Survey of India (GSI)** maps/publications for Indian geological units. Historical
+> schemes remain examinable as historiography, but do not control modern classification.
 
 ---
 
@@ -24,13 +30,29 @@
 **Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
 
 ✅ Majid Husain classifies igneous rocks by texture and composition — basalt, gabbro, andesite, diorite, rhyolite, granite — and by mode of occurrence into intrusive (plutonic) and extrusive (volcanic). Igneous rock is the most important original source of the inorganic mineral matter that later forms sedimentary rock — so the three families are genetically linked in the rock cycle.
-- ✅ Sedimentary characteristics: derived from pre-existing rock (igneous the chief source) + organic matter; always layered/stratified.
+- ✅ Sedimentary characteristics: derived from pre-existing rock (igneous the chief source) and/or
+  organic or chemical material; commonly layered/stratified, with recognised massive exceptions.
 - ✅ Sub-aerially exposed riverine sedimentary rocks develop polygonal desiccation cracks (mud cracks) on drying.
 - ✅ Glacial sedimentary deposits = moraines; wind-laid fine silt = loess (e.g. northern China).
 - ✅ Metamorphic rocks form from pre-existing rock by change in temperature, pressure and chemical action of fluids — altering texture AND mineral composition.
 - ✅ Primary porosity is generally low in crystalline metamorphic rocks, but joints, fractures and
   weathered zones may provide **secondary permeability**—important for groundwater and foundations.
 - ✅ Gneiss shows granular quartz-feldspar banding; slate shows slaty cleavage — both aid field identification.
+
+### Modern terminology and state-of-matter controls
+
+- ✅ The **mantle is predominantly solid silicate rock**. The asthenosphere is a hotter, weaker,
+  ductile part of the upper mantle that flows slowly over geological time; it is not a global magma
+  layer. The lithosphere-asthenosphere boundary varies with age and tectonic setting, so a single
+  universal asthenosphere depth bracket must not be memorised.
+- ⚠️ **Sial** and **sima** are useful historical compositional shorthand. Modern answers should
+  distinguish **continental crust**, **oceanic crust**, **lithosphere** and **asthenosphere** rather
+  than present sial-over-sima as a universal two-layer crust.
+- ⚠️ **Acid/basic** is legacy igneous terminology. Use **felsic/intermediate/mafic/ultramafic**
+  where precision matters; silica and ferromagnesian mineral content are the main discriminators.
+  Aluminium is not, by itself, a diagnostic “basic” component.
+- ⚠️ Sedimentary rocks are **commonly**, not invariably, stratified. Limestone may be biogenic,
+  chemical or mixed in origin; “limestone = organic” is therefore only a classroom example.
 
 ## 2. Key classification / data
 
@@ -59,8 +81,10 @@
 - ✅ Igneous = cooled magma; plutonic (large crystals) vs volcanic (small crystals).
 - ✅ Basalt = extrusive → Deccan Traps; columnar basalt = Giant's Causeway (Antrim).
 - ✅ Sedimentary rocks = STRATIFIED (layered), mostly water-laid.
-- ✅ Limestone/chalk = organically formed (corals, shells); sandstone = mechanically formed.
-- ✅ Metamorphic key pairs: limestone→marble, sandstone→quartzite, coal→graphite.
+- ✅ Limestone/chalk may be strongly biogenic (corals, shells), while limestone may also be
+  chemical or mixed in origin; sandstone is mechanically formed.
+- ✅ Metamorphic key pairs: limestone→marble, sandstone→quartzite; carbon-rich material may yield
+  graphite, but coal→graphite is not a universal one-step rule.
 - ✅ Granite→gneiss; shale→schist; clay→slate.
 
 **Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
@@ -87,21 +111,38 @@
 - ❌ Metamorphic-rock permeability is fixed by rock name alone. → Fracturing, jointing and weathering
   often control secondary permeability more than the unfractured rock matrix.
 - ❌ Source rock of every metamorphic rock is obvious. → For quartzite/marble it is clear; for schist and gneiss the parent is often hard to determine.
+- ❌ Tectonic plates float on a molten mantle at one fixed depth. → Plates are rigid lithosphere;
+  the underlying mantle is mostly solid, and the mechanically weak asthenosphere has a variable top
+  and thickness.
+- ❌ “Acid/basic” is a complete modern igneous classification. → Treat it as historical shorthand;
+  use felsic/intermediate/mafic/ultramafic and name silica/mineral assemblage.
 
 ## 6. 📰 Current link
 
 
-**Foundation — The Three Rock Families (G.C. Leong).**
-📰 The basaltic Deccan Traps — a classic extrusive-rock plateau — recur in prelims (soil, aquifer, mineral) and in news on black-soil cotton belts and basalt weathering.
+📰 **GSI Field Season 2025-26:** the official Ministry of Mines/PIB release
+([PRID 2248494](https://pib.gov.in/PressReleasePage.aspx?PRID=2248494&reg=1&lang=1))
+reported large-scale geological mapping over about **22,000 sq km**, geochemical mapping over
+about **28,000 sq km in the Deccan Traps**, and naturally occurring hydrogen in the
+**Andaman and Nicobar Islands**. The official release does not identify a rock type or a
+South-Andaman locality for that finding. Use these as evidence that mapping, petrology and
+structural geology remain operational sciences; do not convert exploration into a reserve claim.
 
-**Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
-📰 Foliation and perviousness of metamorphic rock (marble, slate, gneiss) govern dam-site stability and groundwater potential — recurring in engineering-geology and aquifer news.
+📰 **National Critical Mineral Mission:** [official Ministry of Mines release](https://mines.gov.in/admin/storage/ckeditor/Press_Release_Press_Information_Bureau7_1740396701.pdf);
+Cabinet approval on **29 January 2025**; official outlay **₹16,300 crore** with
+**₹18,000 crore** expected from PSUs and other stakeholders. The mission covers the critical-
+mineral value chain from exploration and mining through beneficiation, processing, recycling and
+overseas acquisition. Topic 02 supplies the lithological and structural substrate only; processing,
+supply chains and mining economics remain with the relevant resource and science-and-technology
+topics.
 
 ## 7. Mains angles
 
 
 **Foundation — The Three Rock Families (G.C. Leong).**
-- ⚠️ Rock type controls soil, aquifer and mineral wealth — e.g. Deccan basalt → black cotton soil; a base for linking geology to agriculture and resource geography.
+- ⚠️ Rock type influences soil parent material, aquifer behaviour and mineral association — e.g.
+  Deccan basalt contributes parent material to black-soil regions, while climate, relief, drainage,
+  organisms and time also govern the resulting soil.
 
 **Standard — Rock Classification, Characteristics & the Rock Cycle (Majid Husain).**
 - ⚠️ Discuss how rock genesis and properties (perviousness, foliation, crystallinity) determine engineering suitability, aquifers and mineralisation — connecting petrology to resource planning.
@@ -115,7 +156,8 @@
 
 ### 8.1 Continental drift: the claim and its evidence
 
-⚠️ Alfred Wegener's continental-drift hypothesis proposed that today's continents were once
+⚠️ Alfred Wegener proposed continental displacement in **1912** and developed the book-length
+case in **1915**. The hypothesis held that today's continents were once
 assembled into a single landmass (**Pangaea**), which fragmented into a northern **Laurasia** and a
 southern **Gondwana** and drifted apart.
 
@@ -132,7 +174,7 @@ southern **Gondwana** and drifted apart.
 > ocean-floor evidence supplied the engine. In an answer, say this explicitly: it is the standard
 > discriminating point between a good and an average script.
 
-### 8.2 Sea-floor spreading: the missing engine
+### 8.2 Sea-floor spreading: the missing ocean-floor mechanism
 
 ```text
 MANTLE CONVECTION / UPWELLING
@@ -150,6 +192,11 @@ CRUST MOVES AWAY SYMMETRICALLY ON BOTH FLANKS
         v
 DESTROYED AT SUBDUCTION ZONES (trenches) - so the Earth does not expand
 ```
+
+> ⚠️ **Driver qualification:** do not reduce plate motion to a conveyor belt driven only by
+> asthenospheric convection. Modern plate dynamics combine **slab pull, ridge push, gravitational
+> potential-energy differences and mantle flow**, with their relative importance varying by plate
+> and boundary. The mantle and asthenosphere remain mostly solid while deforming slowly.
 
 | Ocean-floor observation | Interpretation |
 |---|---|
@@ -199,7 +246,7 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 ### 8.5 Isostasy and orogeny: why relief exists at all
 
 - ⚠️ **Isostasy** is the buoyant equilibrium between the lighter crust and the denser substratum
-  beneath it: crustal blocks "float" and adjust vertically until they are supported.
+  beneath it: crustal blocks adjust vertically toward gravitational equilibrium.
   - ⚠️ In the **Airy** conception, columns have similar density but different *root* depth — a
     higher mountain has a deeper root.
   - ⚠️ In the **Pratt** conception, columns rise to different heights because their *density*
@@ -219,6 +266,43 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 > unless a cited source is in front of you. The *mechanism* earns the marks; an invented number
 > loses them.
 
+### 8.6 Current time-scale and chronology control
+
+Use the official **ICS International Chronostratigraphic Chart, version 2026/06**. The table
+reproduces its central boundary ages; the chart's stated analytical uncertainties are not repeated
+in this compact summary.
+
+| Interval | Current boundary ages (Ma) |
+|---|---:|
+| Cambrian | **538.8–486.85** |
+| Ordovician | **486.85–443.1** |
+| Silurian | **443.1–419.62** |
+| Devonian | **419.62–358.86** |
+| Carboniferous | **358.86–298.9** |
+| Permian | **298.9–251.902** |
+| Triassic | **251.902–201.4** |
+| Jurassic | **201.4–143.1** |
+| Cretaceous | **143.1–66.0** |
+| Paleogene | **66.0–23.04** |
+| Neogene | **23.04–2.58** |
+| Quaternary | **2.58–present** |
+
+- ❗ **Tertiary** and **Recent** are historical terms; modern answers should use
+  **Paleogene/Neogene** and **Holocene** respectively.
+- ❗ Do not repeat a “mid-Miocene, 45 Ma” Himalayan phase: **45 Ma is Eocene**, not Miocene.
+  Himalayan collision, exhumation and uplift were polyphase and regionally variable.
+- ❗ The limestone at the summit of Mount Everest belongs to the **Ordovician Qomolangma
+  Formation**, not to the Upper Carboniferous.
+- ✅ The principal Deccan flood-basalt pulse lies near the **Cretaceous-Paleogene boundary,
+  about 66 Ma**. Older end-Cretaceous-to-early-Eocene wording is too broad unless tied to a
+  specified study and eruptive phase.
+
+> **Official controls:** [USGS — Inside the Earth](https://pubs.usgs.gov/gip/dynamic/inside.html);
+> [USGS — Are tectonic plates floating on magma?](https://www.usgs.gov/faqs/are-tectonic-plates-floating-magma);
+> [ICS Chart 2026-06](https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf);
+> [GSI publications and maps](https://gsi.gov.in/publications/gsi-publications/);
+> [GSI Bhusanket map portal](https://bhusanket.gsi.gov.in/).
+
 ## 9. India's physiographic divisions: structure expressed as relief
 
 > **Why this section exists:** the official syllabus clause this folder directly owns is
@@ -233,8 +317,8 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 
 ```text
 1. THE PENINSULAR BLOCK   - an ancient, rigid, stable SHIELD of crystalline and
-                            metamorphic rock; long denuded; NOT seismically active
-                            in the way a young fold belt is
+                            metamorphic rock; long denuded; comparatively stable
+                            but NOT aseismic -- intraplate deformation occurs
                                      |
                                      |  (collision closes the Tethys)
                                      v
@@ -269,9 +353,8 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 > repeatedly cut through by rivers. This asymmetry explains the entire drainage pattern of
 > Peninsular India (see `05_Landforms-by-Running-Water.md`).
 
-> 🔑 **Trap:** the Himalaya is **seismically very active but volcanically inert**, because it is a
-> collision orogen, not a subduction arc. Do not import Andean or Pacific-arc volcanism into an
-> Indian answer.
+> 🔑 **Trap:** the Himalaya is **seismically very active but lacks an Andean-style volcanic arc**,
+> because it is a continent-continent collision orogen, not an ocean-continent subduction arc.
 
 ### 9.3 Why this division set explains so much
 
@@ -282,6 +365,34 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 | ⚠️ Why is the Deccan interior drought-prone? | Rain-shadow position behind the Western Ghats escarpment (`14`, `18`) |
 | ⚠️ Why do the two coasts differ economically? | Narrow shelf with estuaries and ports on the west; wide shelf with deltas and dense rice farming on the east (`30`) |
 | ⚠️ Why is the north more flood-prone and the Peninsula more drought-prone? | Perennial snow-fed rivers on a near-flat plain versus seasonal rivers on hard rock with high runoff variability |
+
+### 9.4 Peninsular-block and hill-range controls
+
+- ⚠️ **Peninsular stability is comparative, not absolute.** The shield contains major shear zones,
+  rifts and intraplate earthquake provinces. Do not call it tectonically inert.
+- ❗ Do not use the absolute claim that the Peninsula has had **no marine submergence since the
+  Cambrian**. Peninsular-margin and intracratonic basins, including Kachchh and east-coast basins,
+  preserve later marine incursions. Distinguish long-lived cratonic stability from local
+  transgression, subsidence and coastal submergence.
+- ✅ The **Aravalli-Delhi Fold Belt** is a polyphase **Proterozoic** orogenic/mobile belt resting on
+  older basement. “One of the oldest surviving fold belts” is safer than “the world's oldest
+  mountain”; no single 600–700 Ma date represents the whole belt.
+- ⚠️ The **Palghat Gap** coincides with the Palghat-Cauvery shear/lineament zone, but its present
+  low corridor has multiple proposed tectonic and erosional controls. Do not present a simple rift
+  between two faults as settled fact without a modern cited study.
+- ✅ The **Eastern Ghats** are a discontinuous, polyphase Proterozoic mobile belt rather than a
+  continuous escarpment like the Western Ghats. **Jindhagada/Arma Konda**, not Mahendragiri, is
+  generally identified as their highest summit; use a named current map before quoting elevation.
+- ✅ **Amarkantak** lies in the Maikal upland at the meeting zone of the Vindhya-Satpura systems;
+  it is not a Sahyadri junction. **Biligirirangan Hills** occupy the transition between the Western
+  and Eastern Ghats and are commonly treated as an easternmost Western-Ghats extension.
+  **Seshachalam Hills** form part of the southern Eastern Ghats in Andhra Pradesh.
+
+> **Answer-neutral PYQ ownership:** 2023 Prelims GS-I Q9 named Amarkantak,
+> Biligirirangan and Seshachalam; 2026 Prelims GS-I Q34 tested features associated with the
+> Peninsular Block. The static placements and structural distinctions above are taught
+> substantively, but no statement truth value, option, answer letter or elimination mapping is
+> recorded here.
 
 > ⚠️ **Factual caution:** do **not** quote peak heights, plain widths, plateau areas, coastline
 > lengths or the number of physiographic sub-divisions from memory. Different textbooks divide the
@@ -353,7 +464,7 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---|---|---|---|---|
-| 2026 | Prelims GS-I | 34 | Tectonic and geomorphic characteristics of India's Peninsular Block | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2026 | Prelims GS-I | 34 | Tectonic and geomorphic characteristics of India's Peninsular Block | Objective question; provisional 2026 Set-A key present locally, answer not inferred | Provisional 2026 Set-A key present locally (`Ans-2026-GS1-Provisional`); key is provisional - no answer letter recorded or inferred here | Cover comparative stability, residual relief, structural lineaments and local submergence without mapping any official statement to a verdict. |
 
 ### What this owner must now support
 
@@ -401,13 +512,13 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 
 | Year | Paper | Q | PYQ demand (neutral rendering) | Directive / format | Source status | Owner requirement |
 |---:|---|---:|---|---|---|---|
-| 2018 | Prelims GS-I | 57 | Earth magnetic field reversal early atmosphere and life modification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2018 | Prelims GS-I | 57 | Earth magnetic-field reversal, early atmosphere and life modification | Objective question; official key unavailable locally | Cross-topic demand; key unavailable locally | Cover the rock-recording mechanism for reversals; atmospheric evolution and biological modification remain with Topic 01 and Environment/Science. No statement verdict is recorded. |
 | 2022 | GS-I | 4 | Characteristics and types of primary rocks | Describe · 10 marks · 150 words | Routed to owning topic | Prepare context, core dimensions, evidence/examples, counterpoint and a concise conclusion. |
-| 2023 | Prelims GS-I | 9 | Indian hill ranges Amarkantak Biligirirangan Seshachalam classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the named fact/concept and its likely statement-level distinctions. |
+| 2023 | Prelims GS-I | 9 | Indian hill ranges Amarkantak Biligirirangan Seshachalam classification | Objective question; official key unavailable locally | Routed; key unavailable locally | Cover the independent placement of all three ranges in §9.4; do not reproduce or mark the official statements. |
 
 ### What this owner must now support
 
-- Earth magnetic field reversal early atmosphere and life modification
+- Magnetic reversal as a rock record, with the atmosphere/life dimensions explicitly cross-linked
 - Characteristics and types of primary rocks
 - Indian hill ranges Amarkantak Biligirirangan Seshachalam classification
 
@@ -428,20 +539,23 @@ example of each stage, is the cleanest way to answer any question on *changing* 
 - **Scale/map control:** mineral, hand specimen, outcrop, terrane, plate and
   physiographic-region scales are distinct. Rock age, tectonic event, present
   relief and mineral occurrence are not assumed to share one boundary.
-- **Chronology control:** Precambrian craton assembly, Proterozoic basins,
-  Gondwana rifting/sedimentation, Deccan flood basalt, India-Eurasia collision
-  and continuing Himalayan deformation remain separate stages.
+- **Chronology control:** ICS 2026-06 boundaries govern named periods.
+  Precambrian craton assembly, Proterozoic mobile belts and basins, Gondwana
+  rifting/sedimentation, the principal Deccan pulse near 66 Ma, India-Eurasia
+  convergence and continuing Himalayan deformation remain separate, polyphase stages.
 - **Terminology control:** crust differs from lithosphere; shield from craton
   and platform; plate from continent; fold from fault-block mountain; magma
-  from lava; texture, structure, composition and origin are not synonyms.
+  from lava; felsic/mafic from legacy acid/basic; texture, structure,
+  composition and origin are not synonyms.
 - **Causal control:** geological association supports a probability, not
   deterministic mineral or hazard prediction. Ages, thicknesses and rates are
   approximate unless attached to a named official map/publication and scale.
 - **Boundary:** Topic 03 owns eruption style, active seismicity and seismic
   zones; Topic 04 owns weathering products, slope transfer and aquifers; Topic
   06 owns glacial landforms. Topic 02 owns the lithological-tectonic substrate.
-- **Verified PYQ ownership, 2018-2026:** direct routes include 2018 magnetic
-  reversal, 2022 primary rocks, 2023 Indian hill ranges, 2024 mountain types,
-  2025 continental-drift evidence and crustal tectonics, and the provisional
-  2026 Peninsular Block demand. Provisional or unavailable keys remain
+- **Verified PYQ ownership, 2018-2026:** direct routes include 2022 primary
+  rocks, 2023 Indian hill ranges, 2024 mountain types, 2025 continental-drift
+  evidence and crustal tectonics, and the provisional 2026 Peninsular Block
+  demand. The 2018 magnetic-reversal item is cross-topic: Topic 02 owns only
+  the rock-recording mechanism. Provisional or unavailable keys remain
   explicitly unpromoted.
