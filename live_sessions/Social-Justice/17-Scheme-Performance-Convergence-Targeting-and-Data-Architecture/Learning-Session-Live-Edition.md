@@ -1079,6 +1079,7 @@ The official prompts remain unsolved. Use the approaches only after making your 
 | 2023 GS-II, Q17, 15 marks, 250 words | Reproduced neutrally before Lesson 1 | **Do you agree? Give reasons** requires a reasoned position. Distinguish unjust discrimination from relevant differentiation/vertical equity; justify targeted support; analyse stigma, arbitrary categories and exclusion; propose universal floor plus targeted top-ups and remedy. Lessons 2–3 and 11. |
 
 No additional Topic 17-owned Mains or objective PYQ is claimed through 2026 in the audited ledgers.
+The 2026 GS-II Q17 rights-based-welfare question remains primary-owned by Social Justice Topic 1; this capstone is only a support owner for its integration, finance and delivery architecture.
 
 # CUMULATIVE CONCEPT CHECKS
 
