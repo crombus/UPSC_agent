@@ -29,6 +29,9 @@ cover_image: "../../../upsc-ai-kit/knowledge/Philosophy/Western-Philosophy/learn
 The twelve lessons form one argument. The early search for a single logical essence gives way to use; use becomes intelligible through language-games and forms of life; rule-following supplies normativity; the private-language discussion tests whether that normativity could be wholly private; criteria and avowals explain inner discourse; therapy states the resulting method. Aspect-seeing and the final comparisons then test the reach and limits of that method.
 
 ---
+
+## Lesson 1 — The fault-line between two philosophies — one philosopher, two pictures of meaning
+
 Progress: 1 / 12  |  Stage: Foundation  |  Subtopic: Why did the crystalline picture of language break?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -36,8 +39,6 @@ Progress: 1 / 12  |  Stage: Foundation  |  Subtopic: Why did the crystalline pic
 🔍 CA Search: "Wittgenstein transition from picture theory to use theory academic institutional development March 24 2026 September 24 2026"
 📰 CA Found: None found in the six-month window; the nearest directly relevant paper located was published on 16 November 2025, outside the window.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The fault-line between two philosophies — one philosopher, two pictures of meaning
 
 ```text
 THE SAME THINKER, TWO MODELS OF LANGUAGE
@@ -68,9 +69,9 @@ Caption: the later break is not from seriousness to casualness; it is a shift fr
 
 ## Part A — what exactly changes? ✅
 
-The early *Tractatus* clause is owned elsewhere, so this lesson names only the load-bearing features needed for the transition questions. The early view treats a proposition as a **logical picture** of a possible fact, sharing logical form with what it depicts. The later view rejects the demand that one model must govern all meaningful language.
+The early *Tractatus* clause belongs to the early Wittgenstein material, so this lesson names only the load-bearing features needed for the transition questions. The early view treats a proposition as a **logical picture** of a possible fact, sharing logical form with what it depicts. The later view rejects the demand that one model must govern all meaningful language.
 
-| Early assumption (adjacent, named only) | Later correction (owned here) | Why the correction matters |
+| Early assumption (adjacent, named only) | Later correction (the focus here) | Why the correction matters |
 |---|---|---|
 | language has one general logical essence | language has no single essence; uses vary | no one template fits reporting, joking, praying, ordering, thanking and pain-language alike |
 | meaning is secured by picturing a possible fact | meaning is clarified by use in a language-game | many expressions do not function by naming or depicting at all |
@@ -133,7 +134,7 @@ Frame the same thinker across two phases
 - Transition reasons: Augustinian/naming model too narrow; actual uses irreducibly many; ideal-language diagnosis mistaken; philosophy becomes description.
 - Best wording: **not** “from bad ordinary language to good ordinary language,” but from **one essence** to **many practices**.
 - 2025 control: preserve the stray quotation mark before “logical structure.”
-- Exam connection: PYQs 2023 Q4(c) and 2025 Q3(a); cumulative MCQs 1–4.
+- Exam connection: PYQs 2023 Q4(c) and 2025 Q3(a); in-lesson MCQs 1–3.
 
 ### Repairing the “complete reversal” mistake
 
@@ -141,8 +142,55 @@ Write two columns headed continuity and discontinuity. Put clarificatory purpose
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 1 MCQs
+
+**MCQ 1: A**
+
+The central change from the *Tractatus* to the *Philosophical Investigations* is best described as a move from:
+
+A. factual picturing to practical use
+B. practical use to private imagery
+C. ordinary speech to ideal calculus
+D. linguistic analysis to ethical theory
+
+- **A — Correct:** It identifies the shift from representation to plural functions in practice.
+- **B — Incorrect:** It reverses the history and introduces the mentalism later resisted.
+- **C — Incorrect:** It reverses the movement away from ideal logical reconstruction.
+- **D — Incorrect:** It changes the subject rather than explaining the linguistic transition.
+
+**MCQ 2: B**
+
+Which internal pressure exposed a structural difficulty in the early logical system?
+
+A. the liar paradox in semantic truth
+B. mutual exclusion among colour claims
+C. Russell’s analysis of descriptions
+D. the later critique of private language
+
+- **A — Incorrect:** The liar is not the 1929 pressure on elementary independence.
+- **B — Correct:** Colour propositions can exclude one another despite claimed elementary independence.
+- **C — Incorrect:** Description theory influenced analysis but is not the colour problem.
+- **D — Incorrect:** Private language belongs to the later philosophy, not this early crack.
+
+**MCQ 3: C**
+
+Which formulation best preserves both continuity and discontinuity between early and later Wittgenstein?
+
+A. ordinary speech is newly discovered
+B. philosophy becomes empirical linguistics
+C. plural uses retain a clarificatory aim
+D. the doctrine changes its vocabulary alone
+
+- **A — Incorrect:** The early work already treated ordinary propositions as meaningful.
+- **B — Incorrect:** The later method studies grammar philosophically, not as empirical linguistics.
+- **C — Correct:** Meaning changes radically while philosophy remains an activity of clarification.
+- **D — Incorrect:** The differences concern doctrine and method, not verbal relabelling.
+
 
 ---
+
+## Lesson 2 — The toolbox test for meaning — the toolbox and the anti-mentalist turn
+
 Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: If meaning is not a private idea, where does it live?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -150,8 +198,6 @@ Progress: 2 / 12  |  Stage: Foundation  |  Subtopic: If meaning is not a private
 🔍 CA Search: "Wittgenstein meaning as use semantic anti-mentalism academic development March 24 2026 September 24 2026"
 📰 CA Found: None found in the six-month window; recent directly relevant work located was outside it.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The toolbox test for meaning — the toolbox and the anti-mentalist turn
 
 ```text
 WORDS ARE MORE LIKE TOOLS THAN LIKE LABELS
@@ -215,7 +261,7 @@ This is why the semantic-completeness review insisted on restoring ostension, am
 
 ## Part D — the full anti-mentalism argument for 2026 Q3(c) ✅
 
-**Question owned here (2026, Q3(c), 15 marks):** *“Can words be viewed as the ideas in the mind of the person who uses them? Answer with reference to the philosophy of later Wittgenstein.”*
+**Question addressed here (2026, Q3(c), 15 marks):** *“Can words be viewed as the ideas in the mind of the person who uses them? Answer with reference to the philosophy of later Wittgenstein.”*
 
 Wittgenstein's answer is **No — not if “ideas in the mind” are meant to constitute or ground meaning.** The argument must be given step by step.
 
@@ -262,7 +308,7 @@ Reject private-idea semantics
 - Ostension requires training; pointing alone is ambiguous.
 - 2026 anti-mentalism: private idea cannot fix public correctness or normativity.
 - Qualification: Wittgenstein denies mentalism about meaning, **not** the existence of imagery.
-- Exam connection: 2026 Q3(c); cumulative MCQs 5–8.
+- Exam connection: 2026 Q3(c); in-lesson MCQs 4–5.
 
 ### Repairing the “use means frequency” mistake
 
@@ -270,8 +316,41 @@ Take “pain,” “five,” and “if.” For each, state the move it licenses,
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 2 MCQs
+
+**MCQ 4: D**
+
+What is the decisive objection to identifying a word with an idea in its user’s mind?
+
+A. ideas cannot accompany meaningful speech
+B. ideas conflict with factual truth-conditions
+C. ideas prevent speakers from learning words
+D. ideas lack an independent standard of use
+
+- **A — Incorrect:** Wittgenstein allows images to accompany meaningful speech.
+- **B — Incorrect:** The dispute concerns normativity rather than truth-conditions alone.
+- **C — Incorrect:** Speakers can learn while having ideas; constitution is the issue.
+- **D — Correct:** A private item cannot distinguish correct use from present seeming.
+
+**MCQ 5: A**
+
+PI §43 presents the relation between meaning and use as applying to:
+
+A. a large class of cases, with exceptions
+B. cases chiefly governed by empirical verification
+C. cases whose words function as object-names
+D. cases accompanied by a determinate image
+
+- **A — Correct:** It preserves Wittgenstein’s express qualification.
+- **B — Incorrect:** Even qualified verification remains a positivist test, not §43’s stated scope.
+- **C — Incorrect:** Object-naming is the restricted picture under criticism.
+- **D — Incorrect:** Mental imagery may accompany use but does not delimit §43.
+
 
 ---
+
+## Lesson 3 — A family tree without one inherited essence — two analogies, one anti-essentialist lesson
+
 Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Must every concept possess one hidden essence?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -279,8 +358,6 @@ Progress: 3 / 12  |  Stage: Foundation  |  Subtopic: Must every concept possess 
 🔍 CA Search: "Wittgenstein family resemblance anti-essentialism academic development March 24 2026 September 24 2026"
 📰 CA Found: A 3 January 2026 arXiv paper applies family-resemblance clustering to machine learning, but it falls outside the six-month window; no qualifying item found.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## A family tree without one inherited essence — two analogies, one anti-essentialist lesson
 
 ```text
 A FAMILY                                   A ROPE
@@ -345,7 +422,7 @@ Answer in three steps:
 - “Don't think, but look” = method.
 - Open texture ≠ arbitrariness.
 - Family resemblance supports the move to language-games by blocking one hidden essence of language.
-- Exam connection: 2018 Q1(c); cumulative MCQs 9–12.
+- Exam connection: 2018 Q1(c); in-lesson MCQs 6–8.
 
 ### Repairing unlimited resemblance
 
@@ -353,8 +430,55 @@ Choose “game” and draw three overlapping circles: competition, amusement and
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 3 MCQs
+
+**MCQ 6: B**
+
+Which analogy–lesson pair is correctly matched?
+
+A. family portrait — one invariant gene
+B. rope fibres — continuity by overlap
+C. toolbox — one function for each tool
+D. colour chart — unrestricted resemblance
+
+- **A — Incorrect:** The family analogy concerns overlapping traits, not one invariant.
+- **B — Correct:** A rope continues although no fibre spans its full length.
+- **C — Incorrect:** The toolbox illustrates diverse rather than uniform functions.
+- **D — Incorrect:** Colour samples constrain applications rather than license arbitrary resemblance.
+
+**MCQ 7: C**
+
+Which claim is consistent with Wittgenstein’s family-resemblance account?
+
+A. resemblance requires concepts to lack rules
+B. resemblance blocks precise definitions generally
+C. some concepts retain sharply defined boundaries
+D. resemblance can make training dispensable at margins
+
+- **A — Incorrect:** Family-resemblance concepts still have learned application standards.
+- **B — Incorrect:** The account does not prohibit precise definition across concepts.
+- **C — Correct:** Concepts such as “triangle” can retain necessary-and-sufficient conditions.
+- **D — Incorrect:** Borderline cases still require trained judgment; resemblance does not make training dispensable.
+
+**MCQ 8: D**
+
+For the 2018 question, family resemblance supports calling language “a game” because:
+
+A. linguistic practices reduce to recreational play
+B. language conceals a common theoretical structure
+C. the comparison functions as a literary metaphor
+D. “game” introduces no hidden common essence
+
+- **A — Incorrect:** Language-games include serious practices beyond recreation.
+- **B — Incorrect:** The comparison resists rather than conceals one common structure.
+- **C — Incorrect:** The analogy carries an argument, not decorative force.
+- **D — Correct:** The word “game” contributes overlapping unity without an essence.
+
 
 ---
+
+## Lesson 4 — The builders’ yard as a complete world of speech — the builders and the activity matrix
+
 Progress: 4 / 12  |  Stage: Foundation  |  Subtopic: How can “Slab!” already be a language?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -362,8 +486,6 @@ Progress: 4 / 12  |  Stage: Foundation  |  Subtopic: How can “Slab!” already
 🔍 CA Search: "Wittgenstein language-games ordinary-language philosophy academic development March 24 2026 September 24 2026"
 📰 CA Found: UCLouvain-Bruxelles held ‘Ordinary Language Philosophy at the Limits of Speech: Voice, Gesture, and the Body’ on 21–22 September 2026; it is a relevant institutional anchor, not an UPSC fact to memorise.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The builders’ yard as a complete world of speech — the builders and the activity matrix
 
 ```text
 BUILDERS' LANGUAGE-GAME (PI §2 / §8)
@@ -415,7 +537,7 @@ A common mistake is to think Wittgenstein wants all mature language reduced to t
 | If the builders' case is too simple, it teaches us nothing about thought. | Its value is diagnostic: it breaks the assumption that all meaning must be description or naming. |
 | If games vary indefinitely, meaning loses stability. | Stability is local and practical, not metaphysically absolute. That is enough for correction and understanding. |
 
-Language-games do not own a standalone verified PYQ among the eight primary parts, but they are indispensable to:
+Language-games do not have a standalone verified PYQ among the eight primary parts, but they are indispensable to:
 - **2018 Q1(c)** (language as game);
 - **2022 Q1(c)** (form of life);
 - **2023 Q4(c)** and **2025 Q3(a)** (the positive later doctrine after the shift).
@@ -429,7 +551,7 @@ Language-games do not own a standalone verified PYQ among the eight primary part
 - PI §23 list = plurality, not one essence.
 - Rules are learned by training and correction.
 - Surface grammar can mislead about depth grammar.
-- Exam connection: supports 2018, 2022, 2023 and 2025; cumulative MCQs 13–16.
+- Exam connection: supports 2018, 2022, 2023 and 2025; in-lesson MCQs 9–10.
 
 ### Repairing the “every game has a rulebook” mistake
 
@@ -437,8 +559,41 @@ Describe how a child learns “Slab!” through demonstration, correction and pa
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 4 MCQs
+
+**MCQ 9: A**
+
+The builders’ calls “Slab!”, “Block!” and “Pillar!” show that:
+
+A. a small vocabulary can complete one practice
+B. mature discourse reduces to command expressions
+C. construction supplies the basis of human speech
+D. complex grammar lacks philosophical importance
+
+- **A — Correct:** Within building, the calls have determinate roles and complete that primitive practice.
+- **B — Incorrect:** The example does not reduce mature language to commands.
+- **C — Incorrect:** Construction illustrates use but is not speech’s anthropological origin.
+- **D — Incorrect:** The primitive case clarifies rather than dismisses complex grammar.
+
+**MCQ 10: B**
+
+Consider PI §23: 1. linguistic functions are plural; 2. the list is exhaustive; 3. games are woven into activities. Which combination is sound?
+
+A. 1 and 2, but not 3
+B. 1 and 3, but not 2
+C. 2 and 3, but not 1
+D. 1, 2 and 3 together
+
+- **A — Incorrect:** Plurality is sound, but the catalogue is open and activity matters.
+- **B — Correct:** Plurality and embedded activity are central; exhaustiveness is rejected.
+- **C — Incorrect:** Embedded activity is sound, but denying plurality defeats the list’s purpose.
+- **D — Incorrect:** Calling the list complete converts an open survey into a taxonomy.
+
 
 ---
+
+## Lesson 5 — Where reasons reach bedrock — digging down to bedrock
+
 Progress: 5 / 12  |  Stage: Core  |  Subtopic: What makes shared speech possible before explicit reasons begin?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -446,8 +601,6 @@ Progress: 5 / 12  |  Stage: Core  |  Subtopic: What makes shared speech possible
 🔍 CA Search: "Wittgenstein forms of life shared linguistic practice academic development 2026"
 📰 CA Found: Cambridge University Press scheduled Paolo Heywood’s *The Life of Form* for April 2026, directly linking Wittgenstein, anthropology and context.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## Where reasons reach bedrock — digging down to bedrock
 
 ```text
 JUSTIFICATION HAS A FLOOR
@@ -539,7 +692,7 @@ Preserve printed "motion" → gloss as intended "notion"
 - Bedrock: "This is simply what I do" (§217) — justification's floor, not an excuse from all criticism.
 - Two live readings — naturalistic and cultural — neither is Wittgenstein's stated final theory; name both.
 - 2022 anomaly: printed "motion" for "notion" — preserve, gloss, then answer.
-- Exam connection: 2022 Q1(c); cumulative MCQs 17–20.
+- Exam connection: 2022 Q1(c); in-lesson MCQs 11–13.
 
 ### Repairing relativism by distinction
 
@@ -547,8 +700,55 @@ Complete three sentences: agreement in judgments is not agreement in opinions be
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 5 MCQs
+
+**MCQ 11: C**
+
+“If a lion could talk, we could not understand him” chiefly warns that:
+
+A. human cultures remain mutually unintelligible
+B. vocal anatomy determines linguistic meaning
+C. alien life can block shared-word understanding
+D. animal biology fixes each word’s reference
+
+- **A — Incorrect:** The remark does not seal human cultures from one another.
+- **B — Incorrect:** The issue is a different life, not production of speech sounds.
+- **C — Correct:** Shared vocabulary may fail against radically alien reactions and practices.
+- **D — Incorrect:** Natural history supplies background but does not mechanically assign reference.
+
+**MCQ 12: D**
+
+Which treatment of the 2022 printed wording is exam-safe?
+
+A. “motion” — silently replace it in quotation
+B. “motion” — interpret bodily articulation
+C. “motion” — reject the question as defective
+D. “motion” — retain, flag, then read “notion”
+
+- **A — Incorrect:** Silent correction hides the verified wording.
+- **B — Incorrect:** A physiological reading misses the intended philosophical demand.
+- **C — Incorrect:** A printing anomaly does not make the question unanswerable.
+- **D — Correct:** Preservation, brief clarification and response to the intended notion are transparent.
+
+**MCQ 13: A**
+
+PI §19 links imagining a language with imagining:
+
+A. shared practices in which speech has a role
+B. one invariant life-pattern across languages
+C. a written system detached from oral activity
+D. a mental representation preceding practice
+
+- **A — Correct:** A language is intelligible against activities and reactions giving signs work.
+- **B — Incorrect:** Forms of life need not collapse into one identical pattern.
+- **C — Incorrect:** Writing is one practice and cannot exhaust linguistic background.
+- **D — Incorrect:** Private representation cannot replace the setting in which expressions are learned.
+
 
 ---
+
+## Lesson 6 — From interpretation regress to trained continuation — the rule-following regress, and where it stops
+
 Progress: 6 / 12  |  Stage: Core  |  Subtopic: What makes following a rule different from merely repeating a pattern?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -556,8 +756,6 @@ Progress: 6 / 12  |  Stage: Core  |  Subtopic: What makes following a rule diffe
 🔍 CA Search: "Wittgenstein rule-following normativity academic development March 24 2026 September 24 2026"
 📰 CA Found: Tamara Dobler’s ‘Rule-Following and Semantic Internalism’ appeared online in *The Monist* on 10 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## From interpretation regress to trained continuation — the rule-following regress, and where it stops
 
 ```text
 THE PARADOX (PI §201)
@@ -641,7 +839,7 @@ The bridge to private language (Lesson 7) is normative: a proposed private osten
 
 ## Where rule-following belongs in answers
 
-Rule-following does not own a standalone verified PYQ among the eight primary parts, but it is the indispensable bridge to:
+Rule-following does not have a standalone verified PYQ among the eight primary parts, but it is the indispensable bridge to:
 - **2019 Q3(b)** and **2020 Q4(c)** and **2024 Q1(d)** (private language — correctness cannot rest on private interpretation);
 - any question naming **Kripke** or asking to "critically discuss"/"do you agree" on the private-language argument, where the Kripkenstein material supplies the required interpretive dispute.
 
@@ -655,7 +853,7 @@ Rule-following does not own a standalone verified PYQ among the eight primary pa
 - **Kripkenstein** = Kripke's 1982 sceptical reading: no fact fixes meaning → "sceptical solution" via communal assertability conditions; explicitly Kripke's construction, not Wittgenstein's own claimed doctrine.
 - Orthodox reply (Baker & Hacker, McDowell): Wittgenstein dissolves the interpretation-regress; he does not concede scepticism about meaning.
 - Bridge forward: no private rule-following without a stable standard → sets up Lesson 7.
-- Exam connection: bridges to 2019, 2020 and 2024; cumulative MCQs 21–24.
+- Exam connection: bridges to 2019, 2020 and 2024; in-lesson MCQs 14–16.
 
 ### Repairing rule-following by a fresh continuation
 
@@ -663,8 +861,55 @@ Use the series 2, 4, 6, 8. List one interpretation compatible with the finite pa
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 6 MCQs
+
+**MCQ 14: B**
+
+Wittgenstein’s response to the interpretation regress locates grasp of a rule in:
+
+A. a final interpretation behind each application
+B. trained practice exhibited in going on
+C. a sceptical abandonment of semantic norms
+D. private inspection of an intended formula
+
+- **A — Incorrect:** Another interpretation restarts the regress.
+- **B — Correct:** Obeying and going against are displayed within learned practice.
+- **C — Incorrect:** The response preserves rather than abandons normativity.
+- **D — Incorrect:** An inward formula still needs interpretation.
+
+**MCQ 15: C**
+
+“Kripkenstein” designates:
+
+A. a collaborative text by Kripke and Wittgenstein
+B. Wittgenstein’s settled theory of semantic facts
+C. Kripke’s sceptical reading of rule-following
+D. a fictional example from the *Blue Book*
+
+- **A — Incorrect:** The label names an interpretation, not joint authorship.
+- **B — Incorrect:** Kripke does not present an uncontested textual doctrine.
+- **C — Correct:** The reconstruction develops a sceptical paradox and communal solution.
+- **D — Incorrect:** The expression belongs to commentary, not Wittgenstein’s examples.
+
+**MCQ 16: D**
+
+The orthodox practice-based reply to Kripke holds that:
+
+A. communal agreement replaces semantic truth
+B. Kripke identifies scepticism Wittgenstein accepts
+C. rule-following functions without normative standards
+D. practice ends regress without conceding scepticism
+
+- **A — Incorrect:** The orthodox view does not reduce correctness to group endorsement.
+- **B — Incorrect:** This rival reading is plausible, but orthodoxy denies Wittgenstein accepts its conclusion.
+- **C — Incorrect:** Practice is invoked precisely to preserve correctness standards.
+- **D — Correct:** Obeying exhibits non-interpretive grasp without granting global scepticism.
+
 
 ---
+
+## Lesson 7 — The diary whose mark cannot be checked — the private diary argument
+
 Progress: 7 / 12  |  Stage: Core  |  Subtopic: Can a sensation be named in a language only I could understand?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -672,8 +917,6 @@ Progress: 7 / 12  |  Stage: Core  |  Subtopic: Can a sensation be named in a lan
 🔍 CA Search: "Wittgenstein private-language sensation diary academic development March 24 2026 September 24 2026"
 📰 CA Found: Andreina Grgarević posted a revised paper on the private-language argument to PhilArchive on 16 June 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The diary whose mark cannot be checked — the private diary argument
 
 ```text
 THE DIARY EXPERIMENT
@@ -742,7 +985,7 @@ For the routed comparison (2019 Q3(b), and the fuller Lesson 11, Part C comparis
 3. Actual solitude is compatible with language learned or usable through stable public-type criteria; logical privacy is the target.
 4. Therefore, the attempt to ground all meaning in what only this subject can identify is self-undermining.
 
-> ⚠️ The *Tractatus* already treats solipsism at 5.6–5.62 through saying/showing and the limit of the world — that is `Moore-Russell-EarlyWittgenstein.md`'s own bounded material, named only as the precursor here. The later argument changes the route to grammar, criteria and rule-following; do not present it as a simple completion of an unchanged early doctrine, and do not present the later argument as an empirical proof that other minds exist — it is a **grammatical dissolution** of the solipsist's linguistic foundation, not a refutation by observation.
+> ⚠️ The *Tractatus* already treats solipsism at 5.6–5.62 through saying/showing and the limit of the world — that belongs to the early Wittgenstein material, named only as the precursor here. The later argument changes the route to grammar, criteria and rule-following; do not present it as a simple completion of an unchanged early doctrine, and do not present the later argument as an empirical proof that other minds exist — it is a **grammatical dissolution** of the solipsist's linguistic foundation, not a refutation by observation.
 
 ## Part E — exact PYQ routing for this lesson, and the limits of the argument ✅
 
@@ -788,7 +1031,7 @@ Define logically private language (not code, not soliloquy)
 - Solipsism (2019): private language critique shows the solipsist's foundation cannot be *said* — a **dissolution**, not an empirical proof of other minds.
 - Does **not** deny sensations exist or that a trained solitary speaker (Crusoe) is automatically impossible.
 - Beetle preview: the hidden object "drops out" — full treatment in Lesson 8.
-- Exam connection: 2019 Q3(b), 2020 Q4(c) and 2024 Q1(d); cumulative MCQs 25–28.
+- Exam connection: 2019 Q3(b), 2020 Q4(c) and 2024 Q1(d); in-lesson MCQs 17–18.
 
 ### Repairing the secrecy/private-language confusion
 
@@ -796,8 +1039,41 @@ Classify a diary code, a solitary castaway’s English, an untranslatable idiole
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 7 MCQs
+
+**MCQ 17: A**
+
+For the issue tested directly in 2024 Q1(d), the target of the private-language argument is:
+
+A. in-principle private sensation-language
+B. ordinary self-talk in a public language
+C. a language contingently used by one person
+D. a cipher whose rules remain publicly learnable
+
+- **A — Correct:** Its signs lack any independent criterion of sensation identity.
+- **B — Incorrect:** Self-talk uses publicly learned linguistic techniques.
+- **C — Incorrect:** A lone speaker can retain standards acquired in a shareable practice.
+- **D — Incorrect:** A cipher remains public in Wittgenstein’s logical sense because its rules can, in principle, be taught and checked.
+
+**MCQ 18: B**
+
+Why does the diary sign “S” fail to acquire the intended private meaning?
+
+A. written records cannot preserve experiences
+B. “S” lacks an independent identity standard
+C. sensations disappear when they are named
+D. the letter has an unsuitable grammatical form
+
+- **A — Incorrect:** The problem is reidentification, not writing’s reliability.
+- **B — Correct:** Invoking the right memory already presupposes which sensation is S.
+- **C — Incorrect:** Wittgenstein does not infer that naming eliminates sensation.
+- **D — Incorrect:** Changing the mark cannot create a criterion.
+
 
 ---
+
+## Lesson 8 — The grammar of pain without a behaviourist reduction — criteria vs symptoms, and the beetle revisited
+
 Progress: 8 / 12  |  Stage: Core  |  Subtopic: How can pain be public in grammar without becoming mere behaviour?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -805,8 +1081,6 @@ Progress: 8 / 12  |  Stage: Core  |  Subtopic: How can pain be public in grammar
 🔍 CA Search: "Wittgenstein criteria symptoms avowals inner experience academic development March 24 2026 September 24 2026"
 📰 CA Found: None found in the six-month window; the most directly relevant substantial study located was Lars Hertzberg’s 2022/2023 Cambridge work on criteria and practices.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The grammar of pain without a behaviourist reduction — criteria vs symptoms, and the beetle revisited
 
 ```text
 CRITERION vs SYMPTOM (for the same word "angina")
@@ -911,7 +1185,7 @@ Wittgenstein raises the objection **against himself**, in the interlocutor's voi
 - PI §580: an inner process needs outward criteria — not a denial of inner processes.
 - Behaviourism charge (§307) and reply: "grammatical fiction," not a denial of pain; criteria ≠ definition (defeasibility blocks the identity claim).
 - First-person avowal vs third-person criterial report: an asymmetry, not an identity.
-- Exam connection: completes 2020 Q4(c); cumulative MCQs 29–32.
+- Exam connection: completes 2020 Q4(c); in-lesson MCQs 19–22.
 
 ### Repairing the behaviourism charge
 
@@ -919,8 +1193,69 @@ Use the contrast: “I am in pain” / “She is in pain.” Explain why the fir
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 8 MCQs
+
+**MCQ 19: C**
+
+Which response most directly blocks the charge that Wittgenstein reduces pain to behaviour?
+
+A. pain reports translate into behavioural descriptions
+B. psychological concepts lack first-person uses
+C. defeasible criteria preserve experienced pain
+D. behaviour supplies conclusive evidence of pain
+
+- **A — Incorrect:** Translation into behaviour states the reduction being resisted.
+- **B — Incorrect:** First-person avowals are central to psychological grammar.
+- **C — Correct:** Pretence and suppression show criteria structure without identifying pain.
+- **D — Incorrect:** Behaviour supports attribution but is not infallible proof.
+
+**MCQ 20: D**
+
+The first-person/third-person asymmetry is best expressed by saying that:
+
+A. both forms are reports based on observed conduct
+B. first-person claims rest on inward observation
+C. third-person claims directly express another’s pain
+D. avowals and criterial reports serve different roles
+
+- **A — Incorrect:** Treating both as reports erases the asymmetry.
+- **B — Incorrect:** An avowal does not ordinarily report an introspected object.
+- **C — Incorrect:** Third-person claims attribute through criteria rather than express pain.
+- **D — Correct:** First-person expression and third-person attribution have different uses.
+
+**MCQ 21: A**
+
+Which pair correctly distinguishes criterion from symptom?
+
+A. criterion—grammatical; symptom—inductive
+B. criterion—inductive; symptom—grammatical
+C. criterion—probable; symptom—constitutive
+D. criterion—private; symptom—public
+
+- **A — Correct:** A criterion belongs to application grammar; a symptom supports inference.
+- **B — Incorrect:** This reverses the two roles.
+- **C — Incorrect:** Reliability does not turn evidence into a constitutive standard.
+- **D — Incorrect:** The distinction is not private versus public ownership.
+
+**MCQ 22: B**
+
+PI §580, “an inner process stands in need of outward criteria,” means that:
+
+A. inner processes are conceptual fictions produced by ordinary grammar
+B. psychological concepts require publicly learnable application circumstances
+C. mental states are reducible to publicly observable bodily conduct
+D. inner life becomes accessible through specialised philosophical training
+
+- **A — Incorrect:** Treating inner processes as fictions confuses criticism of a grammatical picture with denial of experience.
+- **B — Correct:** The claim concerns how psychological concepts are learned and applied, not a causal process occurring outside the mind.
+- **C — Incorrect:** Public application circumstances do not reduce a mental state to bodily conduct.
+- **D — Incorrect:** Philosophical expertise is not the outward condition governing ordinary psychological language.
+
 
 ---
+
+## Lesson 9 — A route out of the fly-bottle — out of the fly-bottle
+
 Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: What if a philosophical problem is a knot in our grammar?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -928,8 +1263,6 @@ Progress: 9 / 12  |  Stage: Advanced  |  Subtopic: What if a philosophical probl
 🔍 CA Search: "Wittgenstein philosophy therapy grammatical confusion academic development March 24 2026 September 24 2026"
 📰 CA Found: No credible directly relevant item was found in the six-month window.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## A route out of the fly-bottle — out of the fly-bottle
 
 ```text
 THE THERAPY MAP
@@ -1003,7 +1336,7 @@ In this therapeutic conception, philosophy offers reminders, comparisons and **p
 
 ## How therapy closes transition answers
 
-- Therapy does not own a standalone verified PYQ among the eight primary parts, but it is the required methodological close for **2023 Q4(c)** and **2025 Q3(a)** (the transition questions end with "philosophy becomes therapy, not theory"), and it supplies the "critically discuss"/evaluative register for any 20-mark question on later Wittgenstein generally.
+- Therapy does not have a standalone verified PYQ among the eight primary parts, but it is the required methodological close for **2023 Q4(c)** and **2025 Q3(a)** (the transition questions end with "philosophy becomes therapy, not theory"), and it supplies the "critically discuss"/evaluative register for any 20-mark question on later Wittgenstein generally.
 - **Directive note:** "Elucidate/comment on 'philosophy leaves everything as it is'" demands the qualification (Part 2, "does not say" column) before any assessment; a bare paraphrase of the sentence earns little.
 
 **Reusable line:** *Philosophical confusion arises when language idles outside its working practice; the cure is not a rival theory but perspicuous, reminder-based description that shows the fly the way out of the fly-bottle — a method vulnerable to the charge of quietism, which Wittgenstein only partially answers.*
@@ -1015,7 +1348,7 @@ In this therapeutic conception, philosophy offers reminders, comparisons and **p
 - Aim: "show the fly the way out of the fly-bottle" (§309) — dissolve, don't solve.
 - Quietism: "philosophy leaves everything as it is" (§124); no single theory (§128); "different therapies," plural (§133).
 - Objection/reply: "no theses" looks self-refuting → reminders, not metaphysics; success = release from compulsive theorising.
-- Exam connection: supplies the methodological close for 2023 and 2025; cumulative MCQs 33–36.
+- Exam connection: supplies the methodological close for 2023 and 2025; in-lesson MCQs 23–24.
 
 ### Repairing therapy as mere silence
 
@@ -1023,8 +1356,41 @@ Take “time flows.” List the ordinary uses of “flows,” mark the illicit t
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 9 MCQs
+
+**MCQ 23: C**
+
+To “show the fly the way out of the fly-bottle” is to:
+
+A. replace confusion with a scientific explanation
+B. strengthen the picture that generated the puzzle
+C. dissolve confusion through a clarifying view
+D. remove the disputed sentence by stipulation
+
+- **A — Incorrect:** Scientific explanation does not itself undo grammatical captivity.
+- **B — Incorrect:** Reinforcing the captive picture preserves disorientation.
+- **C — Correct:** A perspicuous comparison displays another route of thought.
+- **D — Incorrect:** Deletion avoids rather than diagnoses the misuse.
+
+**MCQ 24: D**
+
+The strongest quietist criticism of the therapeutic method is that it:
+
+A. depends too heavily on empirical experiments
+B. treats social reform as linguistic confusion
+C. cannot describe differences in ordinary usage
+D. restricts philosophy’s critical role
+
+- **A — Incorrect:** The method is not criticised for laboratory dependence.
+- **B — Incorrect:** Leaving grammar as it is does not directly prohibit reform.
+- **C — Incorrect:** Therapy relies on describing contrasts in usage.
+- **D — Correct:** Dissolving first-order questions may unduly limit philosophical ambition.
+
 
 ---
+
+## Lesson 10 — One drawing, two aspects — the duck-rabbit
+
 Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: How can the same figure be seen differently without changing?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1032,8 +1398,6 @@ Progress: 10 / 12  |  Stage: Advanced  |  Subtopic: How can the same figure be s
 🔍 CA Search: "Wittgenstein aspect-seeing duck-rabbit academic development March 24 2026 September 24 2026"
 📰 CA Found: The 2026 *Philosophies* special issue ‘The Dawn of Aspects: Wittgenstein and the Life of Meaning’ invited submissions through 30 September 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## One drawing, two aspects — the duck-rabbit
 
 ```text
 JASTROW'S DUCK-RABBIT (1899), USED BY WITTGENSTEIN
@@ -1055,7 +1419,7 @@ Caption: nothing on the page changes between the two "seeings," yet something ge
 
 **Plain-language start.** Look at a picture that can be seen as a duck or as a rabbit. The lines never move. Yet at the moment the rabbit "dawns" on you, something really does change in how you see the figure — it is not merely that you now *believe* something different about the same unchanged experience. Wittgenstein uses this ordinary perceptual puzzle to probe the border between raw perception and conceptual mastery, connecting all the way back to the meaning-as-use thread of Lessons 2–3.
 
-**Bounded relevance.** Aspect-seeing illustrates how perceptual description can depend on conceptual technique. No routed PYQ separately owns it, so it is taught here as enrichment for meaning, grammar and therapeutic reorientation, exactly as the learning sequence's Lesson 10 heading specifies.
+**Bounded relevance.** Aspect-seeing illustrates how perceptual description can depend on conceptual technique. No routed PYQ separately covers it, so it is taught here as enrichment for meaning, grammar and therapeutic reorientation, exactly as the learning sequence's Lesson 10 heading specifies.
 
 **The phenomenon.** Jastrow's **duck-rabbit** figure can be seen as a duck or as a rabbit. Wittgenstein's crucial observation:
 
@@ -1091,9 +1455,9 @@ Aspect-seeing is not a detour into psychology; it extends the anti-essentialist,
 
 ## When aspect-seeing genuinely adds value
 
-Aspect-seeing owns no standalone verified PYQ; deploy it only as an enrichment closer in a 20-mark answer on meaning-as-use or the therapeutic method, to show breadth without displacing the printed limbs (meaning/use, language-games, private language) that carry the marks.
+Aspect-seeing has no standalone verified PYQ; deploy it only as an enrichment closer in a 20-mark answer on meaning-as-use or the therapeutic method, to show breadth without displacing the printed limbs (meaning/use, language-games, private language) that carry the marks.
 
-**Reusable line:** *The duck-rabbit shows that "seeing-as" is neither pure sensation nor pure inference but a technique-laden third category, extending the meaning-as-use thesis from words to perception, while remaining bounded enrichment rather than an owned syllabus limb.*
+**Reusable line:** *The duck-rabbit shows that "seeing-as" is neither pure sensation nor pure inference but a technique-laden third category, extending the meaning-as-use thesis from words to perception, while remaining bounded enrichment rather than a separately examined syllabus limb.*
 
 ## Aspect vocabulary to retain
 
@@ -1103,7 +1467,7 @@ Aspect-seeing owns no standalone verified PYQ; deploy it only as an enrichment c
 - Payload: perception is **technique-laden**, extending the anti-mentalist, anti-essentialist thread from Lessons 2–3 into perception.
 - Provenance: cite **PPF/Part II §xi**; credit **Jastrow** for the figure, not Wittgenstein.
 - Bounded status: no routed PYQ; use only as an enrichment closer at 20 marks.
-- Exam connection: bounded enrichment; cumulative MCQs 37–40.
+- Exam connection: bounded enrichment; in-lesson MCQs 25–27.
 
 ### Repairing aspect-seeing as inference
 
@@ -1111,8 +1475,55 @@ Look at the duck-rabbit and record what remains physically unchanged, what chang
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 10 MCQs
+
+**MCQ 25: A**
+
+Assertion (A): In aspect-dawning, the figure remains physically unchanged while experience changes. Reason (R): Seeing-as involves conceptual capacities as well as visual intake. Choose the best option.
+
+A. both hold, and R accounts for A
+B. A holds, whereas R does not
+C. R holds, whereas A does not
+D. neither A nor R holds here
+
+- **A — Correct:** Both are true, and conceptual mastery explains the changed aspect.
+- **B — Incorrect:** The reason is true because seeing-as involves thought.
+- **C — Incorrect:** The assertion is true because the marks remain fixed.
+- **D — Incorrect:** Both claims capture rather than deny aspect-dawning.
+
+**MCQ 26: B**
+
+Aspect-blindness names a conceivable inability to:
+
+A. identify the physical marks in a familiar drawing
+B. experience aspect-dawning despite accurate recognition
+C. learn the ordinary names of the pictured animals
+D. distinguish visual experience from imaginative fantasy
+
+- **A — Incorrect:** The person may identify the physical marks without possessing the missing experiential capacity.
+- **B — Correct:** Aspect-blindness is precisely the inability to experience aspect-dawning despite accurate recognition.
+- **C — Incorrect:** Learning animal names does not amount to undergoing the perceptual switch.
+- **D — Incorrect:** The deficit concerns seeing-as, not a general inability to distinguish vision from imagination.
+
+**MCQ 27: C**
+
+Which attribution of the duck-rabbit figure is accurate?
+
+A. Wittgenstein’s figure in Part I
+B. an anonymous medieval illustration
+C. Jastrow’s figure in Part II §xi/PPF
+D. Kripke’s diagram of semantic scepticism
+
+- **A — Incorrect:** Wittgenstein reproduced but did not originate it, and not in Part I.
+- **B — Incorrect:** The image has a known modern source.
+- **C — Correct:** Joseph Jastrow’s figure appears in the later seeing-as discussion.
+- **D — Incorrect:** Kripke’s rule-following work is unrelated to its authorship.
+
 
 ---
+
+## Lesson 11 — The comparison chamber — five comparisons, one anti-essentialist doctrine tested against five rivals
+
 Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: What survives when later Wittgenstein meets his rivals?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1120,8 +1531,6 @@ Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: What survives when later Wit
 🔍 CA Search: "later Wittgenstein Russell Moore logical positivism comparison academic development 2026"
 📰 CA Found: No strong head-to-head comparison inside the six-month window was verified; a broader 4 January 2026 overview falls outside it. The lesson therefore uses the classical comparison, not a fabricated live hook.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The comparison chamber — five comparisons, one anti-essentialist doctrine tested against five rivals
 
 ```text
 LATER WITTGENSTEIN AGAINST FIVE RIVALS
@@ -1140,7 +1549,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 
 ## Part A — early Wittgenstein (the *Tractatus*) ✅⚠️
 
-| Axis | Early Wittgenstein (*Tractatus*, 1921 — owned by `Moore-Russell-EarlyWittgenstein.md`) | Later Wittgenstein (owned here) |
+| Axis | Early Wittgenstein (*Tractatus*, 1921) | Later Wittgenstein |
 |---|---|---|
 | Meaning | Factual sense through picturing a possible fact, sharing logical form | Varied use in practices; §43 qualified |
 | Essence of language | One logical form for all propositions | None (family resemblance) |
@@ -1148,18 +1557,18 @@ Caption: every rival in this list shares one feature — each proposes a single,
 | Private inner realm | Solipsism/self treated at the limit of world and language (5.6–5.62); not a topic of extended positive doctrine | Private ostension cannot alone ground standards; sensations remain, but cannot found meaning |
 | Philosophy's task | Draw the limits of the sayable; be silent about the rest | Therapy — dissolve confusions; "leaves everything as it is" |
 
-**The relationship is revision, not replacement of a stranger's doctrine.** Both phases share an anti-metaphysical, clarificatory self-conception of philosophy (Lesson 1); what changes is whether one logical essence can do the work later Wittgenstein assigns to a plurality of trained practices. ⚠️ **Ownership discipline:** the *Tractatus*'s own doctrine (picture theory, logical form, bipolarity, saying/showing, the 5.6/5.62 solipsism-at-the-limit remark) is `Moore-Russell-EarlyWittgenstein.md`'s primary content; it is stated here only in comparative outline, never re-taught as this session's own positive material.
+**The relationship is revision, not replacement of a stranger's doctrine.** Both phases share an anti-metaphysical, clarificatory self-conception of philosophy (Lesson 1); what changes is whether one logical essence can do the work later Wittgenstein assigns to a plurality of trained practices. ⚠️ **Boundary note:** the *Tractatus*'s own doctrine (picture theory, logical form, bipolarity, saying/showing, the 5.6/5.62 solipsism-at-the-limit remark) belongs to the early Wittgenstein; it is stated here only in comparative outline, never re-taught as this session's own positive material.
 
 ## Part B — Logical Positivism (the Vienna Circle) ✅⚠️
 
-| Axis | Logical Positivism (owned by `Logical-Positivism.md`) | Later Wittgenstein (owned here) |
+| Axis | Logical Positivism | Later Wittgenstein |
 |---|---|---|
 | Criterion of meaning | Verifiability (empirical) or analyticity — a single, principled test | No single criterion; meaning is use, and use is irreducibly plural |
 | Attitude to metaphysics | Rejected outright as cognitively meaningless pseudo-statements | Dissolved as confusion produced by language "on holiday," not stamped meaningless by one universal test |
 | Relation to the *Tractatus* | Drew heavily on the early picture/logical-form programme as an influence | Revises and abandons that same early programme from the inside |
 | Method | Analysis by a fixed logical criterion | Description/therapy; no single criterion is offered as a replacement |
 
-**Why they are easy to confuse, and why that is a trap:** both movements are anti-metaphysical and both react to the early Wittgenstein; UPSC answers frequently conflate "varied use" with "one criterion of verifiability." ✅ **Discrimination:** verificationism narrows meaningfulness to what a single test (empirical verifiability or analyticity) admits; use-theory widens the inquiry to however language actually functions, without proposing any single admission-test at all. ⚠️ **Ownership discipline:** verificationism, the rejection of metaphysics via one criterion, and the linguistic theory of necessary propositions are `Logical-Positivism.md`'s own primary content, named here only as a labelled comparison.
+**Why they are easy to confuse, and why that is a trap:** both movements are anti-metaphysical and both react to the early Wittgenstein; UPSC answers frequently conflate "varied use" with "one criterion of verifiability." ✅ **Discrimination:** verificationism narrows meaningfulness to what a single test (empirical verifiability or analyticity) admits; use-theory widens the inquiry to however language actually functions, without proposing any single admission-test at all. ⚠️ **Boundary note:** verificationism, the rejection of metaphysics via one criterion, and the linguistic theory of necessary propositions belong to Logical Positivism, named here only as a labelled comparison.
 
 ## Part C — solipsism ✅
 
@@ -1239,7 +1648,7 @@ Caption: every rival in this list shares one feature — each proposes a single,
 - Conventionalism: resisted by normativity/bedrock/orthodox rule-following reading, with an honestly conceded residual circularity worry (Part D).
 - Relativism: resisted by the lion remark's natural-history reading and the naturalistic form-of-life floor, with an honestly conceded lack of a full external-adjudication theory (Part E).
 - Every comparison ends in a **ranked, defended verdict**, never a bare "some say X, others say Y."
-- Exam connection: cumulative comparison MCQs 41–44.
+- Exam connection: in-lesson MCQs 28–30.
 
 ### Repairing collapsed comparisons
 
@@ -1247,8 +1656,55 @@ For each pair—Russell/Wittgenstein, Positivism/Wittgenstein, Moore/*On Certain
 
 **Exit test:** state the corrected distinction in two sentences and produce one fresh example that was not used in the lesson.
 
+### Practice — Lesson 11 MCQs
+
+**MCQ 28: D**
+
+What is the fairest verdict on conventionalism and relativism in later Wittgenstein?
+
+A. both charges may fade because practices are self-justifying
+B. both charges capture his mature position without residue
+C. both charges concern debates external to his philosophy
+D. both are resisted, though residual pressures remain
+
+- **A — Incorrect:** The hedge does not repair the premise: reaching bedrock does not make practices self-justifying.
+- **B — Incorrect:** Normativity and correction prevent unqualified identification with either charge.
+- **C — Incorrect:** Rule-following and forms of life make these objections internal to assessment.
+- **D — Correct:** The view resists arbitrariness but leaves circularity and adjudication pressures.
+
+**MCQ 29: A**
+
+The most defensible early/later comparison is:
+
+A. one logical essence versus plural uses
+B. two versions of the same semantic doctrine
+C. language-games preceding the picture theory
+D. anti-metaphysical clarification appearing late
+
+- **A — Correct:** The early work seeks general logical form; the later surveys practices.
+- **B — Incorrect:** Continuity of aim does not erase doctrinal change.
+- **C — Incorrect:** The proposed chronology is reversed.
+- **D — Incorrect:** Both phases constrain metaphysical excess in different ways.
+
+**MCQ 30: B**
+
+Later Wittgenstein differs from Logical Positivism chiefly because he replaces:
+
+A. ordinary use with a scientific language
+B. a general verification test with plural use
+C. grammatical description with protocol sentences
+D. philosophical therapy with empirical psychology
+
+- **A — Incorrect:** Scientific-language reconstruction belongs to Positivism, not the later view.
+- **B — Correct:** Meaning is examined across practices rather than filtered by one test.
+- **C — Incorrect:** Protocol sentences do not define Wittgenstein’s mature method.
+- **D — Incorrect:** Therapy remains conceptual philosophy rather than psychology.
+
 
 ---
+
+## Lesson 12 — The complete argument under exam conditions — the whole clause in one continuous rail
+
 Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Can the whole philosophy be reconstructed under exam pressure?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
@@ -1256,8 +1712,6 @@ Progress: 12 / 12  |  Stage: Advanced  |  Subtopic: Can the whole philosophy be 
 🔍 CA Search: "Wittgenstein On Certainty hinge propositions Moorean certainty academic development March 24 2026 September 24 2026"
 📰 CA Found: Anne G. J. Newstead’s article on *On Certainty*, scepticism and hinge propositions was published in *Philosophies* on 30 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## The complete argument under exam conditions — the whole clause in one continuous rail
 
 ```text
 LATER WITTGENSTEIN — THE COMPLETE RAIL
@@ -1278,7 +1732,7 @@ LATER WITTGENSTEIN — THE COMPLETE RAIL
         │                                                      │
         └──────────────────────────┬───────────────────────────┘
                                     ▼
-                    L12 SYNTHESIS: 8 PYQ routes · 48 cumulative MCQs
+                    L12 SYNTHESIS: 8 PYQ routes · 48 MCQs: 32 in-lesson + 16 cumulative
                     original Mains · consolidated register notes
 ════════════════════════════════════════════════════════════════════
 ```
@@ -1368,7 +1822,7 @@ Caption: this lesson does not teach new doctrine; it assembles the eleven preced
 | **Fly-bottle** (§309), **Beetle** (§293) | ✅ Stable across editions | Safe verbatim with the §. |
 | **Diary "S"** (§258) | ⚠️ Renderings vary slightly | Give §258; paraphrase rather than quote if unsure. |
 | ***Blue and Brown Books*** | Dictated **1933–35**, published **1958** | Source of criterion/symptom distinction; say "in the *Blue Book*," not "Wittgenstein wrote." |
-| ***On Certainty*** | Notes **1949–51**, published **1969** | Bounded hinge-proposition comparison only; not taught here as owned content. |
+| ***On Certainty*** | Notes **1949–51**, published **1969** | Bounded hinge-proposition comparison only; not taught here as this session's own content. |
 | **Kripke's reading** | *Wittgenstein on Rules and Private Language*, **1982** | ⚠️ Kripke presents it as "Wittgenstein's argument as it struck Kripke"; say "Kripke's Wittgenstein"/"Kripkenstein," never plain "Wittgenstein argued." |
 | **"Forms of life"** (*Lebensformen*) | Occurs only a handful of times (§19, §23, §241, PPF) | Do not present a large theory as Wittgenstein's stated doctrine; mark interpretation as interpretation (Lesson 5, Part D). |
 | **Duck-rabbit** | Figure is **Jastrow's** (1899), reproduced by Wittgenstein | Do not attribute the drawing to Wittgenstein. |
@@ -1382,11 +1836,41 @@ Caption: this lesson does not teach new doctrine; it assembles the eleven preced
 
 Reconstruct the entire position in seven linked sentences: use → language-game → form of life → rule-following → private language → criteria → therapy. Each sentence must explain why the next idea becomes necessary. Then add one comparison with Russell or Moore and one residual objection. If the result reads like a list, rewrite it until the inferential links are explicit.
 
-- Exam connection: whole-topic synthesis; remedial MCQs 45–48.
+- Exam connection: whole-topic synthesis; in-lesson MCQs 31–32.
 
-## VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+### Practice — Lesson 12 MCQs
 
-> ⚠️ **Corpus signal:** 8 Later-Wittgenstein question-parts across 2018–2026 (7 in 2018–2025, 1 in 2026). **2021 is the only year without one.** Early-Wittgenstein and Logical-Positivism questions are used only as labelled comparisons in Lesson 11 and are never counted here.
+**MCQ 31: C**
+
+Ayer argues that a solitary Crusoe could establish sensation-words by memory and adds that public checking also relies on memory. Which reply most directly addresses this *tu quoque*?
+
+A. physical solitude makes linguistic rules disappear
+B. memory provides the required private criterion
+C. the selected memory presupposes sensation identity
+D. Crusoe’s language becomes private when nobody observes it
+
+- **A — Incorrect:** Physical solitude does not erase techniques that remain teachable and correctable in principle.
+- **B — Incorrect:** The *tu quoque* shows that memory occurs in public checking too, but it does not make memory an independent private criterion.
+- **C — Correct:** Public checking operates within independently established practices, whereas selecting the “right memory” of S already presupposes S’s identity; the private check is circular.
+- **D — Incorrect:** A castaway’s diary may reuse publicly governed words without a present audience, so the scenario establishes physical isolation rather than logical privacy.
+
+**MCQ 32: D**
+
+Which comparison pair correctly states later Wittgenstein’s relation to Russell and Moore?
+
+A. Russell—ordinary description; Moore—private certainty
+B. Russell—hinge theory; Moore—logical reconstruction
+C. Russell—verificationism; Moore—aspect-blindness
+D. Russell—logical reconstruction; Moore—hinge contrast
+
+- **A — Incorrect:** Russell favours reconstruction, while Moore’s certainty is public.
+- **B — Incorrect:** Hinge analysis grows from engagement with Moore, not Russell.
+- **C — Incorrect:** Verificationism and aspect-blindness belong to different debates.
+- **D — Correct:** Russell supplies the reconstruction contrast; Moore prompts hinge analysis.
+
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+> ⚠️ **PYQ spread:** eight Later-Wittgenstein question-parts appear across 2018–2026 (seven in 2018–2025 and one in 2026). **2021 is the only year without one.** Early-Wittgenstein and Logical-Positivism questions are treated only as labelled comparisons in Lesson 11 and are never counted among the eight.
 
 | Year | Question | Marks | Exact demand | Answer route (this file) |
 |---|---|---:|---|---|
@@ -1403,473 +1887,241 @@ Reconstruct the entire position in seven linked sentences: use → language-game
 
 | Part | Why it looks tempting to include | Actual topic |
 |---|---|---|
-| Early *Tractatus* picture-theory/logical-form/saying-showing/solipsism-at-the-limit questions (any year) | Shares the same author and the same 2023/2025 transition | `Moore-Russell-EarlyWittgenstein.md` — named only as precursor in Lesson 1 and Lesson 11, Part A |
-| 2026 Q4(a), 20 marks — "hierarchy of languages" (Wittgenstein's own difficulty about not being able to say anything within a language about its structure) | Names "Wittgenstein" in the stem and shares metalanguage vocabulary | `Moore-Russell-EarlyWittgenstein.md` §6.7 — the early *Tractatus*'s own difficulty, not later Wittgenstein's doctrine; not used anywhere in this file even as a boundary illustration beyond this row |
-| 2026 Q4(c), 15 marks — logical positivists as "handmaid to science," unified language of science | Shares the "language of science"/meaning vocabulary | `Logical-Positivism.md` — its own primary content; named only as the Lesson 11, Part B comparison |
+| Early *Tractatus* picture-theory/logical-form/saying-showing/solipsism-at-the-limit questions (any year) | Shares the same author and the same 2023/2025 transition | Belongs to the early Wittgenstein material — named only as precursor in Lesson 1 and Lesson 11, Part A |
+| 2026 Q4(a), 20 marks — "hierarchy of languages" (Wittgenstein's own difficulty about not being able to say anything within a language about its structure) | Names "Wittgenstein" in the stem and shares metalanguage vocabulary | Belongs to the early Wittgenstein material — the early *Tractatus*'s own difficulty about a hierarchy of languages, not later Wittgenstein's doctrine; not used anywhere in this file even as a boundary illustration beyond this row |
+| 2026 Q4(c), 15 marks — logical positivists as "handmaid to science," unified language of science | Shares the "language of science"/meaning vocabulary | Belongs to Logical Positivism — its own primary content; named only as the Lesson 11, Part B comparison |
 
 No question from any other year in the local 2018–2025 or 2026 corpus is assigned by this clause; the 8-part total above is exhaustive.
 
-## CUMULATIVE MCQS
+# CUMULATIVE MCQS
 
-> Forty-eight original questions test the taught concepts and common errors. Each answer is followed by a distinct explanation of all four options.
+> Sixteen cumulative questions test connections across the lessons; the remaining thirty-two are embedded within their lessons. Each keyed question is followed by a distinct explanation of all four options.
 
-#### Lesson 1 — Break from the *Tractatus* (MCQs 1–4)
+**MCQ 33: A**
 
-**MCQ 1.** The central change from the *Tractatus* to the *Philosophical Investigations* is best described as a move from:
-
-A. factual picturing to practical use
-B. practical use to private imagery
-C. ordinary speech to ideal calculus
-D. linguistic analysis to ethical theory
-
-**Correct answer: A.** **A:** It identifies the shift from representation to plural functions in practice. **B:** It reverses the history and introduces the mentalism later resisted. **C:** It reverses the movement away from ideal logical reconstruction. **D:** It changes the subject rather than explaining the linguistic transition.
-
-**MCQ 2.** Which internal pressure exposed a structural difficulty in the early logical system?
-
-A. the liar paradox in semantic truth
-B. mutual exclusion among colour claims
-C. Russell’s analysis of descriptions
-D. the later critique of private language
-
-**Correct answer: B.** **A:** The liar is not the 1929 pressure on elementary independence. **B:** Colour propositions can exclude one another despite claimed elementary independence. **C:** Description theory influenced analysis but is not the colour problem. **D:** Private language belongs to the later philosophy, not this early crack.
-
-**MCQ 3.** Which formulation best preserves both continuity and discontinuity between early and later Wittgenstein?
-
-A. ordinary speech is newly discovered
-B. philosophy becomes empirical linguistics
-C. plural uses retain a clarificatory aim
-D. the doctrine changes its vocabulary alone
-
-**Correct answer: C.** **A:** The early work already treated ordinary propositions as meaningful. **B:** The later method studies grammar philosophically, not as empirical linguistics. **C:** Meaning changes radically while philosophy remains an activity of clarification. **D:** The differences concern doctrine and method, not verbal relabelling.
-
-**MCQ 4.** Consider these pressures behind the transition: 1. colour incompatibility; 2. limits of the naming picture; 3. plurality of ordinary uses. Which sequence is most defensible?
-
-A. 2 → 3 → aspect-blindness
-B. 3 → 1 → verificationism
-C. 1 → 3 → private ostension
-D. 1 → 2 → use-centred description
-
-**Correct answer: D.** **A:** Aspect-blindness is later enrichment, not the transition’s conclusion. **B:** Verificationism belongs to Positivism rather than Wittgenstein’s destination. **C:** Private ostension is a later test, not the immediate third step. **D:** The sequence moves from internal pressure through naming limits to description.
-
-#### Lesson 2 — Meaning as Use (MCQs 5–8)
-
-**MCQ 5.** PI §43 presents the relation between meaning and use as applying to:
-
-A. a large class of cases, with exceptions
-B. cases chiefly governed by empirical verification
-C. cases whose words function as object-names
-D. cases accompanied by a determinate image
-
-**Correct answer: A.** **A:** It preserves Wittgenstein’s express qualification. **B:** Even qualified verification remains a positivist test, not §43’s stated scope. **C:** Object-naming is the restricted picture under criticism. **D:** Mental imagery may accompany use but does not delimit §43.
-
-**MCQ 6.** The Augustinian picture criticised at the opening of the *Investigations* treats language primarily as:
-
-A. a practice clarified through examples
-B. names correlated with objects or ideas
-C. norms created by communal preference
-D. truth-functions arranged in a calculus
-
-**Correct answer: B.** **A:** Practice and examples belong to Wittgenstein’s corrective method. **B:** The picture models words as names and sentences as their combinations. **C:** Communal preference is a conventionalist reading, not Augustine’s picture. **D:** Truth-functional calculus belongs to the early logical framework.
-
-**MCQ 7.** For later Wittgenstein, understanding a word is primarily displayed by:
-
-A. recalling its dictionary formulation
-B. experiencing its associated mental image
-C. going on competently in fresh cases
-D. reporting a distinctive feeling of grasp
-
-**Correct answer: C.** **A:** Definition recall does not establish practical mastery. **B:** Different images can accompany the same competent use. **C:** Successful continuation under correction displays mastery of a technique. **D:** A feeling of grasp can occur without competent application.
-
-**MCQ 8.** What is the decisive objection to identifying a word with an idea in its user’s mind?
-
-A. ideas cannot accompany meaningful speech
-B. ideas conflict with factual truth-conditions
-C. ideas prevent speakers from learning words
-D. ideas lack an independent standard of use
-
-**Correct answer: D.** **A:** Wittgenstein allows images to accompany meaningful speech. **B:** The dispute concerns normativity rather than truth-conditions alone. **C:** Speakers can learn while having ideas; constitution is the issue. **D:** A private item cannot distinguish correct use from present seeming.
-
-#### Lesson 3 — Family Resemblance (MCQs 9–12)
-
-**MCQ 9.** Applied to games, “family resemblance” identifies:
+Applied to games, “family resemblance” identifies:
 
 A. overlapping similarities without one essence
 B. one latent essence awaiting clearer analysis
 C. semantic instability caused by broad extension
 D. a privilege belonging to competitive games
 
-**Correct answer: A.** **A:** The cases unite through criss-crossing similarities. **B:** A latent property reinstates the essentialism being challenged. **C:** Open texture does not make ordinary use unstable. **D:** Competition appears in some games but cannot delimit the concept.
+- **A — Correct:** The cases unite through criss-crossing similarities.
+- **B — Incorrect:** A latent property reinstates the essentialism being challenged.
+- **C — Incorrect:** Open texture does not make ordinary use unstable.
+- **D — Incorrect:** Competition appears in some games but cannot delimit the concept.
 
-**MCQ 10.** Which analogy–lesson pair is correctly matched?
+**MCQ 34: B**
 
-A. family portrait — one invariant gene
-B. rope fibres — continuity by overlap
-C. toolbox — one function for each tool
-D. colour chart — unrestricted resemblance
+The Augustinian picture criticised at the opening of the *Investigations* treats language primarily as:
 
-**Correct answer: B.** **A:** The family analogy concerns overlapping traits, not one invariant. **B:** A rope continues although no fibre spans its full length. **C:** The toolbox illustrates diverse rather than uniform functions. **D:** Colour samples constrain applications rather than license arbitrary resemblance.
+A. a practice clarified through examples
+B. names correlated with objects or ideas
+C. norms created by communal preference
+D. truth-functions arranged in a calculus
 
-**MCQ 11.** Which claim is consistent with Wittgenstein’s family-resemblance account?
+- **A — Incorrect:** Practice and examples belong to Wittgenstein’s corrective method.
+- **B — Correct:** The picture models words as names and sentences as their combinations.
+- **C — Incorrect:** Communal preference is a conventionalist reading, not Augustine’s picture.
+- **D — Incorrect:** Truth-functional calculus belongs to the early logical framework.
 
-A. resemblance requires concepts to lack rules
-B. resemblance blocks precise definitions generally
-C. some concepts retain sharply defined boundaries
-D. resemblance can make training dispensable at margins
+**MCQ 35: C**
 
-**Correct answer: C.** **A:** Family-resemblance concepts still have learned application standards. **B:** The account does not prohibit precise definition across concepts. **C:** Concepts such as “triangle” can retain necessary-and-sufficient conditions. **D:** Borderline cases still require trained judgment; resemblance does not make training dispensable.
+For later Wittgenstein, understanding a word is primarily displayed by:
 
-**MCQ 12.** For the 2018 question, family resemblance supports calling language “a game” because:
+A. recalling its dictionary formulation
+B. experiencing its associated mental image
+C. going on competently in fresh cases
+D. reporting a distinctive feeling of grasp
 
-A. linguistic practices reduce to recreational play
-B. language conceals a common theoretical structure
-C. the comparison functions as a literary metaphor
-D. “game” introduces no hidden common essence
+- **A — Incorrect:** Definition recall does not establish practical mastery.
+- **B — Incorrect:** Different images can accompany the same competent use.
+- **C — Correct:** Successful continuation under correction displays mastery of a technique.
+- **D — Incorrect:** A feeling of grasp can occur without competent application.
 
-**Correct answer: D.** **A:** Language-games include serious practices beyond recreation. **B:** The comparison resists rather than conceals one common structure. **C:** The analogy carries an argument, not decorative force. **D:** The word “game” contributes overlapping unity without an essence.
+**MCQ 36: D**
 
-#### Lesson 4 — Language-Games (MCQs 13–16)
+Consider these pressures behind the transition: 1. colour incompatibility; 2. limits of the naming picture; 3. plurality of ordinary uses. Which sequence is most defensible?
 
-**MCQ 13.** The builders’ calls “Slab!”, “Block!” and “Pillar!” show that:
+A. 2 → 3 → aspect-blindness
+B. 3 → 1 → verificationism
+C. 1 → 3 → private ostension
+D. 1 → 2 → use-centred description
 
-A. a small vocabulary can complete one practice
-B. mature discourse reduces to command expressions
-C. construction supplies the basis of human speech
-D. complex grammar lacks philosophical importance
+- **A — Incorrect:** Aspect-blindness is later enrichment, not the transition’s conclusion.
+- **B — Incorrect:** Verificationism belongs to Positivism rather than Wittgenstein’s destination.
+- **C — Incorrect:** Private ostension is a later test, not the immediate third step.
+- **D — Correct:** The sequence moves from internal pressure through naming limits to description.
 
-**Correct answer: A.** **A:** Within building, the calls have determinate roles and complete that primitive practice. **B:** The example does not reduce mature language to commands. **C:** Construction illustrates use but is not speech’s anthropological origin. **D:** The primitive case clarifies rather than dismisses complex grammar.
+**MCQ 37: A**
 
-**MCQ 14.** Consider PI §23: 1. linguistic functions are plural; 2. the list is exhaustive; 3. games are woven into activities. Which combination is sound?
-
-A. 1 and 2, but not 3
-B. 1 and 3, but not 2
-C. 2 and 3, but not 1
-D. 1, 2 and 3 together
-
-**Correct answer: B.** **A:** Plurality is sound, but the catalogue is open and activity matters. **B:** Plurality and embedded activity are central; exhaustiveness is rejected. **C:** Embedded activity is sound, but denying plurality defeats the list’s purpose. **D:** Calling the list complete converts an open survey into a taxonomy.
-
-**MCQ 15.** Language-games are rule-governed chiefly because speakers:
-
-A. consult formulations before each utterance
-B. depend on institutional codification
-C. learn standards through training and correction
-D. replace standards with spontaneous preference
-
-**Correct answer: C.** **A:** Explicit consultation is possible but not ordinary competence’s basis. **B:** Institutional codification is unnecessary for linguistic norms. **C:** Training and correction establish appropriate continuation. **D:** Preference alone cannot distinguish a move from a mistake.
-
-**MCQ 16.** A language-game (*Sprachspiel*) is best understood as:
-
-A. a verbal contest governed by scoring
-B. an inward exercise detached from conduct
-C. a formal calculus of valid inference
-D. language together with its woven activity
-
-**Correct answer: D.** **A:** Word contests are examples, not the philosophical definition. **B:** Detachment from conduct omits the practical setting. **C:** Formal inference is one possible game, not the genus. **D:** The term joins expressions to the activity in which they work.
-
-#### Lesson 5 — Forms of Life (MCQs 17–20)
-
-**MCQ 17.** PI §19 links imagining a language with imagining:
-
-A. shared practices in which speech has a role
-B. one invariant life-pattern across languages
-C. a written system detached from oral activity
-D. a mental representation preceding practice
-
-**Correct answer: A.** **A:** A language is intelligible against activities and reactions giving signs work. **B:** Forms of life need not collapse into one identical pattern. **C:** Writing is one practice and cannot exhaust linguistic background. **D:** Private representation cannot replace the setting in which expressions are learned.
-
-**MCQ 18.** Assertion (A): Agreement in judgments enables meaningful disagreement in opinions. Reason (R): Shared standards make identification of a disagreement possible. Choose the best option.
-
-A. A is true, but R is false
-B. A and R are true; R explains A
-C. A is false, but R is true
-D. A and R are false
-
-**Correct answer: B.** **A:** The reason is true, so rejecting it leaves the assertion unexplained. **B:** Background agreement makes opposed opinions intelligible as disagreement. **C:** The assertion is true because disputes presuppose stable judgments. **D:** Both claims express the distinction between background and contested opinion.
-
-**MCQ 19.** “If a lion could talk, we could not understand him” chiefly warns that:
-
-A. human cultures remain mutually unintelligible
-B. vocal anatomy determines linguistic meaning
-C. alien life can block shared-word understanding
-D. animal biology fixes each word’s reference
-
-**Correct answer: C.** **A:** The remark does not seal human cultures from one another. **B:** The issue is a different life, not production of speech sounds. **C:** Shared vocabulary may fail against radically alien reactions and practices. **D:** Natural history supplies background but does not mechanically assign reference.
-
-**MCQ 20.** Which treatment of the 2022 printed wording is exam-safe?
-
-A. “motion” — silently replace it in quotation
-B. “motion” — interpret bodily articulation
-C. “motion” — reject the question as defective
-D. “motion” — retain, flag, then read “notion”
-
-**Correct answer: D.** **A:** Silent correction hides the verified wording. **B:** A physiological reading misses the intended philosophical demand. **C:** A printing anomaly does not make the question unanswerable. **D:** Preservation, brief clarification and response to the intended notion are transparent.
-
-#### Lesson 6 — Rule-Following and Kripkenstein (MCQs 21–24)
-
-**MCQ 21.** The paradox at PI §201 arises because:
+The paradox at PI §201 arises because:
 
 A. an action may be read as fitting a rule
 B. a rule guarantees its future applications
 C. mathematics gives rise to semantic paradoxes
 D. training removes the possibility of mistakes
 
-**Correct answer: A.** **A:** Finite behaviour can be redescribed under divergent interpretations. **B:** A formulation does not secure its own future application. **C:** The issue extends beyond mathematics to meaning and conduct. **D:** Training supplies correction and therefore retains the possibility of error.
+- **A — Correct:** Finite behaviour can be redescribed under divergent interpretations.
+- **B — Incorrect:** A formulation does not secure its own future application.
+- **C — Incorrect:** The issue extends beyond mathematics to meaning and conduct.
+- **D — Incorrect:** Training supplies correction and therefore retains the possibility of error.
 
-**MCQ 22.** Wittgenstein’s response to the interpretation regress locates grasp of a rule in:
+**MCQ 38: B**
 
-A. a final interpretation behind each application
-B. trained practice exhibited in going on
-C. a sceptical abandonment of semantic norms
-D. private inspection of an intended formula
+Assertion (A): Agreement in judgments enables meaningful disagreement in opinions. Reason (R): Shared standards make identification of a disagreement possible. Choose the best option.
 
-**Correct answer: B.** **A:** Another interpretation restarts the regress. **B:** Obeying and going against are displayed within learned practice. **C:** The response preserves rather than abandons normativity. **D:** An inward formula still needs interpretation.
+A. A is true, but R is false
+B. A and R are true; R explains A
+C. A is false, but R is true
+D. A and R are false
 
-**MCQ 23.** “Kripkenstein” designates:
+- **A — Incorrect:** The reason is true, so rejecting it leaves the assertion unexplained.
+- **B — Correct:** Background agreement makes opposed opinions intelligible as disagreement.
+- **C — Incorrect:** The assertion is true because disputes presuppose stable judgments.
+- **D — Incorrect:** Both claims express the distinction between background and contested opinion.
 
-A. a collaborative text by Kripke and Wittgenstein
-B. Wittgenstein’s settled theory of semantic facts
-C. Kripke’s sceptical reading of rule-following
-D. a fictional example from the *Blue Book*
+**MCQ 39: C**
 
-**Correct answer: C.** **A:** The label names an interpretation, not joint authorship. **B:** Kripke does not present an uncontested textual doctrine. **C:** The reconstruction develops a sceptical paradox and communal solution. **D:** The expression belongs to commentary, not Wittgenstein’s examples.
+Language-games are rule-governed chiefly because speakers:
 
-**MCQ 24.** The orthodox practice-based reply to Kripke holds that:
+A. consult formulations before each utterance
+B. depend on institutional codification
+C. learn standards through training and correction
+D. replace standards with spontaneous preference
 
-A. communal agreement replaces semantic truth
-B. Kripke identifies scepticism Wittgenstein accepts
-C. rule-following functions without normative standards
-D. practice ends regress without conceding scepticism
+- **A — Incorrect:** Explicit consultation is possible but not ordinary competence’s basis.
+- **B — Incorrect:** Institutional codification is unnecessary for linguistic norms.
+- **C — Correct:** Training and correction establish appropriate continuation.
+- **D — Incorrect:** Preference alone cannot distinguish a move from a mistake.
 
-**Correct answer: D.** **A:** The orthodox view does not reduce correctness to group endorsement. **B:** This rival reading is plausible, but orthodoxy denies Wittgenstein accepts its conclusion. **C:** Practice is invoked precisely to preserve correctness standards. **D:** Obeying exhibits non-interpretive grasp without granting global scepticism.
+**MCQ 40: D**
 
-#### Lesson 7 — The Private-Language Argument (MCQs 25–28)
+A language-game (*Sprachspiel*) is best understood as:
 
-**MCQ 25.** For the issue tested directly in 2024 Q1(d), the target of the private-language argument is:
+A. a verbal contest governed by scoring
+B. an inward exercise detached from conduct
+C. a formal calculus of valid inference
+D. language together with its woven activity
 
-A. in-principle private sensation-language
-B. ordinary self-talk in a public language
-C. a language contingently used by one person
-D. a cipher whose rules remain publicly learnable
+- **A — Incorrect:** Word contests are examples, not the philosophical definition.
+- **B — Incorrect:** Detachment from conduct omits the practical setting.
+- **C — Incorrect:** Formal inference is one possible game, not the genus.
+- **D — Correct:** The term joins expressions to the activity in which they work.
 
-**Correct answer: A.** **A:** Its signs lack any independent criterion of sensation identity. **B:** Self-talk uses publicly learned linguistic techniques. **C:** A lone speaker can retain standards acquired in a shareable practice. **D:** A cipher remains public in Wittgenstein’s logical sense because its rules can, in principle, be taught and checked.
+**MCQ 41: A**
 
-**MCQ 26.** Why does the diary sign “S” fail to acquire the intended private meaning?
-
-A. written records cannot preserve experiences
-B. “S” lacks an independent identity standard
-C. sensations disappear when they are named
-D. the letter has an unsuitable grammatical form
-
-**Correct answer: B.** **A:** The problem is reidentification, not writing’s reliability. **B:** Invoking the right memory already presupposes which sensation is S. **C:** Wittgenstein does not infer that naming eliminates sensation. **D:** Changing the mark cannot create a criterion.
-
-**MCQ 27.** In the route required by the 2019 question, the later critique treats solipsism as:
-
-A. a thesis disproved by observing other bodies
-B. a doctrine confirmed by first-person certainty
-C. self-undermining through inexpressible privacy
-D. a position independent of private-language grammar
-
-**Correct answer: C.** **A:** Observation cannot supply the requested linguistic critique. **B:** First-person authority does not establish a private conceptual scheme. **C:** The private foundation cannot articulate stable meanings even for its proponent. **D:** The question specifically links solipsistic privacy to private-language failure.
-
-**MCQ 28.** The beetle-in-a-box comparison shows that:
-
-A. the box cannot contain an inner object
-B. speakers share numerically identical sensations
-C. private experience is philosophically unreal
-D. private objects cannot fix shared word-use
-
-**Correct answer: D.** **A:** The example permits different contents or an empty box. **B:** Public use does not require numerically identical experiences. **C:** The argument removes a semantic role rather than denies experience. **D:** The hidden item drops out of the rules governing the shared word.
-
-#### Lesson 8 — Inner Experience and Criteria (MCQs 29–32)
-
-**MCQ 29.** Which pair correctly distinguishes criterion from symptom?
-
-A. criterion—grammatical; symptom—inductive
-B. criterion—inductive; symptom—grammatical
-C. criterion—probable; symptom—constitutive
-D. criterion—private; symptom—public
-
-**Correct answer: A.** **A:** A criterion belongs to application grammar; a symptom supports inference. **B:** This reverses the two roles. **C:** Reliability does not turn evidence into a constitutive standard. **D:** The distinction is not private versus public ownership.
-
-**MCQ 30.** PI §580, “an inner process stands in need of outward criteria,” means that:
-
-A. inner processes are conceptual fictions produced by ordinary grammar
-B. psychological concepts require publicly learnable application circumstances
-C. mental states are reducible to publicly observable bodily conduct
-D. inner life becomes accessible through specialised philosophical training
-
-**Correct answer: B.** **A:** Treating inner processes as fictions confuses criticism of a grammatical picture with denial of experience. **B:** The claim concerns how psychological concepts are learned and applied, not a causal process occurring outside the mind. **C:** Public application circumstances do not reduce a mental state to bodily conduct. **D:** Philosophical expertise is not the outward condition governing ordinary psychological language.
-
-**MCQ 31.** Which response most directly blocks the charge that Wittgenstein reduces pain to behaviour?
-
-A. pain reports translate into behavioural descriptions
-B. psychological concepts lack first-person uses
-C. defeasible criteria preserve experienced pain
-D. behaviour supplies conclusive evidence of pain
-
-**Correct answer: C.** **A:** Translation into behaviour states the reduction being resisted. **B:** First-person avowals are central to psychological grammar. **C:** Pretence and suppression show criteria structure without identifying pain. **D:** Behaviour supports attribution but is not infallible proof.
-
-**MCQ 32.** The first-person/third-person asymmetry is best expressed by saying that:
-
-A. both forms are reports based on observed conduct
-B. first-person claims rest on inward observation
-C. third-person claims directly express another’s pain
-D. avowals and criterial reports serve different roles
-
-**Correct answer: D.** **A:** Treating both as reports erases the asymmetry. **B:** An avowal does not ordinarily report an introspected object. **C:** Third-person claims attribute through criteria rather than express pain. **D:** First-person expression and third-person attribution have different uses.
-
-#### Lesson 9 — Philosophy as Therapy (MCQs 33–36)
-
-**MCQ 33.** “Language goes on holiday” diagnoses a philosophical problem produced when:
+“Language goes on holiday” diagnoses a philosophical problem produced when:
 
 A. words leave their working practices
 B. speakers suspend language during recreation
 C. a vocabulary lacks recently coined expressions
 D. scientists introduce specialised terminology
 
-**Correct answer: A.** **A:** A familiar expression idles outside the circumstances giving it work. **B:** The image concerns grammar rather than literal vacations. **C:** Lexical novelty is unrelated to the diagnosed misuse. **D:** Technical terms can function clearly when their rules are established.
+- **A — Correct:** A familiar expression idles outside the circumstances giving it work.
+- **B — Incorrect:** The image concerns grammar rather than literal vacations.
+- **C — Incorrect:** Lexical novelty is unrelated to the diagnosed misuse.
+- **D — Incorrect:** Technical terms can function clearly when their rules are established.
 
-**MCQ 34.** Consider perspicuous representation: 1. it arranges reminders; 2. it reveals grammatical connections; 3. it proposes a hidden causal mechanism. Which combination is sound?
+**MCQ 42: B**
+
+Consider perspicuous representation: 1. it arranges reminders; 2. it reveals grammatical connections; 3. it proposes a hidden causal mechanism. Which combination is sound?
 
 A. statements 1 and 3 alone
 B. statements 1 and 2 alone
 C. statements 2 and 3 alone
 D. statements 1, 2 and 3
 
-**Correct answer: B.** **A:** Reminder is right, but hidden mechanism conflicts with description. **B:** It displays connections among uses without adding causal theory. **C:** Connections matter, but the method works through reminders. **D:** Including mechanism converts therapy into the theory it avoids.
+- **A — Incorrect:** Reminder is right, but hidden mechanism conflicts with description.
+- **B — Correct:** It displays connections among uses without adding causal theory.
+- **C — Incorrect:** Connections matter, but the method works through reminders.
+- **D — Incorrect:** Including mechanism converts therapy into the theory it avoids.
 
-**MCQ 35.** To “show the fly the way out of the fly-bottle” is to:
+**MCQ 43: C**
 
-A. replace confusion with a scientific explanation
-B. strengthen the picture that generated the puzzle
-C. dissolve confusion through a clarifying view
-D. remove the disputed sentence by stipulation
+In the route required by the 2019 question, the later critique treats solipsism as:
 
-**Correct answer: C.** **A:** Scientific explanation does not itself undo grammatical captivity. **B:** Reinforcing the captive picture preserves disorientation. **C:** A perspicuous comparison displays another route of thought. **D:** Deletion avoids rather than diagnoses the misuse.
+A. a thesis disproved by observing other bodies
+B. a doctrine confirmed by first-person certainty
+C. self-undermining through inexpressible privacy
+D. a position independent of private-language grammar
 
-**MCQ 36.** The strongest quietist criticism of the therapeutic method is that it:
+- **A — Incorrect:** Observation cannot supply the requested linguistic critique.
+- **B — Incorrect:** First-person authority does not establish a private conceptual scheme.
+- **C — Correct:** The private foundation cannot articulate stable meanings even for its proponent.
+- **D — Incorrect:** The question specifically links solipsistic privacy to private-language failure.
 
-A. depends too heavily on empirical experiments
-B. treats social reform as linguistic confusion
-C. cannot describe differences in ordinary usage
-D. restricts philosophy’s critical role
+**MCQ 44: D**
 
-**Correct answer: D.** **A:** The method is not criticised for laboratory dependence. **B:** Leaving grammar as it is does not directly prohibit reform. **C:** Therapy relies on describing contrasts in usage. **D:** Dissolving first-order questions may unduly limit philosophical ambition.
+The beetle-in-a-box comparison shows that:
 
-#### Lesson 10 — Aspect-Seeing (MCQs 37–40)
+A. the box cannot contain an inner object
+B. speakers share numerically identical sensations
+C. private experience is philosophically unreal
+D. private objects cannot fix shared word-use
 
-**MCQ 37.** Assertion (A): In aspect-dawning, the figure remains physically unchanged while experience changes. Reason (R): Seeing-as involves conceptual capacities as well as visual intake. Choose the best option.
+- **A — Incorrect:** The example permits different contents or an empty box.
+- **B — Incorrect:** Public use does not require numerically identical experiences.
+- **C — Incorrect:** The argument removes a semantic role rather than denies experience.
+- **D — Correct:** The hidden item drops out of the rules governing the shared word.
 
-A. both hold, and R accounts for A
-B. A holds, whereas R does not
-C. R holds, whereas A does not
-D. neither A nor R holds here
+**MCQ 45: A**
 
-**Correct answer: A.** **A:** Both are true, and conceptual mastery explains the changed aspect. **B:** The reason is true because seeing-as involves thought. **C:** The assertion is true because the marks remain fixed. **D:** Both claims capture rather than deny aspect-dawning.
-
-**MCQ 38.** Aspect-blindness names a conceivable inability to:
-
-A. identify the physical marks in a familiar drawing
-B. experience aspect-dawning despite accurate recognition
-C. learn the ordinary names of the pictured animals
-D. distinguish visual experience from imaginative fantasy
-
-**Correct answer: B.** **A:** The person may identify the physical marks without possessing the missing experiential capacity. **B:** Aspect-blindness is precisely the inability to experience aspect-dawning despite accurate recognition. **C:** Learning animal names does not amount to undergoing the perceptual switch. **D:** The deficit concerns seeing-as, not a general inability to distinguish vision from imagination.
-
-**MCQ 39.** Which attribution of the duck-rabbit figure is accurate?
-
-A. Wittgenstein’s figure in Part I
-B. an anonymous medieval illustration
-C. Jastrow’s figure in Part II §xi/PPF
-D. Kripke’s diagram of semantic scepticism
-
-**Correct answer: C.** **A:** Wittgenstein reproduced but did not originate it, and not in Part I. **B:** The image has a known modern source. **C:** Joseph Jastrow’s figure appears in the later seeing-as discussion. **D:** Kripke’s rule-following work is unrelated to its authorship.
-
-**MCQ 40.** Within this syllabus item, aspect-seeing should be treated as:
-
-A. a central printed limb matching private language
-B. a comparatively prominent source of recent PYQs
-C. material disconnected from meaning and therapy
-D. bounded enrichment for concept-laden perception
-
-**Correct answer: D.** **A:** The printed clause gives priority to use, games and private language. **B:** Even the weaker claim of comparative prominence is unsupported by the verified question record. **C:** Seeing-as extends technique and illuminates therapeutic reorientation. **D:** It adds depth without displacing the marks-bearing limbs.
-
-#### Lesson 11 — Comparisons and Criticisms (MCQs 41–44)
-
-**MCQ 41.** The most defensible early/later comparison is:
-
-A. one logical essence versus plural uses
-B. two versions of the same semantic doctrine
-C. language-games preceding the picture theory
-D. anti-metaphysical clarification appearing late
-
-**Correct answer: A.** **A:** The early work seeks general logical form; the later surveys practices. **B:** Continuity of aim does not erase doctrinal change. **C:** The proposed chronology is reversed. **D:** Both phases constrain metaphysical excess in different ways.
-
-**MCQ 42.** Later Wittgenstein differs from Logical Positivism chiefly because he replaces:
-
-A. ordinary use with a scientific language
-B. a general verification test with plural use
-C. grammatical description with protocol sentences
-D. philosophical therapy with empirical psychology
-
-**Correct answer: B.** **A:** Scientific-language reconstruction belongs to Positivism, not the later view. **B:** Meaning is examined across practices rather than filtered by one test. **C:** Protocol sentences do not define Wittgenstein’s mature method. **D:** Therapy remains conceptual philosophy rather than psychology.
-
-**MCQ 43.** In *On Certainty*, the clearest contrast between a hinge proposition and a Cartesian foundation is that a hinge:
-
-A. is inferred from evidence stronger than ordinary evidence
-B. is privately certain before language is learned
-C. stands fast within practices enabling doubt and inquiry
-D. functions as an incorrigible proposition of metaphysics
-
-**Correct answer: C.** **A:** A hinge is not the conclusion of superior evidence. **B:** Its role is shared and practical, not pre-linguistic privacy. **C:** It supplies the background within which reasons and doubts operate. **D:** Making it an incorrigible metaphysical thesis restores foundationalism.
-
-**MCQ 44.** What is the fairest verdict on conventionalism and relativism in later Wittgenstein?
-
-A. both charges may fade because practices are self-justifying
-B. both charges capture his mature position without residue
-C. both charges concern debates external to his philosophy
-D. both are resisted, though residual pressures remain
-
-**Correct answer: D.** **A:** The hedge does not repair the premise: reaching bedrock does not make practices self-justifying. **B:** Normativity and correction prevent unqualified identification with either charge. **C:** Rule-following and forms of life make these objections internal to assessment. **D:** The view resists arbitrariness but leaves circularity and adjudication pressures.
-
-#### Remedial MCQs — common misreadings across the whole topic (MCQs 45–48)
-
-**Remedial MCQ 45.** A cryptographer invents a cipher that nobody has yet decoded. Which feature prevents it from being Wittgenstein’s logically private language?
+A cryptographer invents a cipher that nobody has yet decoded. Which feature prevents it from being Wittgenstein’s logically private language?
 
 A. its rules remain teachable and checkable in principle
 B. its signs are known initially by one inventor
 C. its use depends on deliberate concealment
 D. its vocabulary differs from ordinary language
 
-**Correct answer: A.** **A:** Possible instruction and checking preserve public criteria. **B:** Initial solitary encoding describes who first possesses the key, while leaving later teaching possible. **C:** Secrecy concerns current access, not shareable standards. **D:** Unfamiliar vocabulary can still follow communicable rules.
+- **A — Correct:** Possible instruction and checking preserve public criteria.
+- **B — Incorrect:** Initial solitary encoding describes who first possesses the key, while leaving later teaching possible.
+- **C — Incorrect:** Secrecy concerns current access, not shareable standards.
+- **D — Incorrect:** Unfamiliar vocabulary can still follow communicable rules.
 
-**Remedial MCQ 46.** Which formulation avoids turning “meaning is use” into a universal replacement theory?
+**MCQ 46: B**
+
+Which formulation avoids turning “meaning is use” into a universal replacement theory?
 
 A. use supplies the hidden essence of each word
 B. use is a qualified reminder to examine practices
 C. use means the frequency with which a sign occurs
 D. use applies where words name observable objects
 
-**Correct answer: B.** **A:** A hidden use-essence repeats the theoretical demand being criticised. **B:** The formulation preserves §43’s qualification and therapeutic method. **C:** Frequency cannot distinguish an appropriate move from a mistake. **D:** Observable naming reinstates the restricted Augustinian model.
+- **A — Incorrect:** A hidden use-essence repeats the theoretical demand being criticised.
+- **B — Correct:** The formulation preserves §43’s qualification and therapeutic method.
+- **C — Incorrect:** Frequency cannot distinguish an appropriate move from a mistake.
+- **D — Incorrect:** Observable naming reinstates the restricted Augustinian model.
 
-**Remedial MCQ 47.** Ayer argues that a solitary Crusoe could establish sensation-words by memory and adds that public checking also relies on memory. Which reply most directly addresses this *tu quoque*?
+**MCQ 47: C**
 
-A. physical solitude makes linguistic rules disappear
-B. memory provides the required private criterion
-C. the selected memory presupposes sensation identity
-D. Crusoe’s language becomes private when nobody observes it
+In *On Certainty*, the clearest contrast between a hinge proposition and a Cartesian foundation is that a hinge:
 
-**Correct answer: C.** **A:** Physical solitude does not erase techniques that remain teachable and correctable in principle. **B:** The *tu quoque* shows that memory occurs in public checking too, but it does not make memory an independent private criterion. **C:** Public checking operates within independently established practices, whereas selecting the “right memory” of S already presupposes S’s identity; the private check is circular. **D:** A castaway’s diary may reuse publicly governed words without a present audience, so the scenario establishes physical isolation rather than logical privacy.
+A. is inferred from evidence stronger than ordinary evidence
+B. is privately certain before language is learned
+C. stands fast within practices enabling doubt and inquiry
+D. functions as an incorrigible proposition of metaphysics
 
-**Remedial MCQ 48.** Which comparison pair correctly states later Wittgenstein’s relation to Russell and Moore?
+- **A — Incorrect:** A hinge is not the conclusion of superior evidence.
+- **B — Incorrect:** Its role is shared and practical, not pre-linguistic privacy.
+- **C — Correct:** It supplies the background within which reasons and doubts operate.
+- **D — Incorrect:** Making it an incorrigible metaphysical thesis restores foundationalism.
 
-A. Russell—ordinary description; Moore—private certainty
-B. Russell—hinge theory; Moore—logical reconstruction
-C. Russell—verificationism; Moore—aspect-blindness
-D. Russell—logical reconstruction; Moore—hinge contrast
+**MCQ 48: D**
 
-**Correct answer: D.** **A:** Russell favours reconstruction, while Moore’s certainty is public. **B:** Hinge analysis grows from engagement with Moore, not Russell. **C:** Verificationism and aspect-blindness belong to different debates. **D:** Russell supplies the reconstruction contrast; Moore prompts hinge analysis.
+Within this syllabus item, aspect-seeing should be treated as:
 
-## ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
+A. a central printed limb matching private language
+B. a comparatively prominent source of recent PYQs
+C. material disconnected from meaning and therapy
+D. bounded enrichment for concept-laden perception
+
+- **A — Incorrect:** The printed clause gives priority to use, games and private language.
+- **B — Incorrect:** Even the weaker claim of comparative prominence is unsupported by the verified question record.
+- **C — Incorrect:** Seeing-as extends technique and illuminates therapeutic reorientation.
+- **D — Correct:** It adds depth without displacing the marks-bearing limbs.
+
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ### Original Mains 1 — 10 marks
 
@@ -1931,7 +2183,7 @@ Conventionalism and relativism nevertheless press the view. If correctness rests
 
 Thus the four notions replace essence with plural norm-governed practice. They preserve a robust mistake/correction distinction, while leaving a residual question about how practices themselves are rationally criticised.
 
-## REMEDIATION
+# REMEDIATION
 
 | Error pattern | Why it fails | Repair task |
 |---|---|---|
@@ -1951,7 +2203,7 @@ Thus the four notions replace essence with plural norm-governed practice. They p
 
 **Integrated recovery drill:** write seven linked sentences moving through use → language-game → form of life → rule-following → private language → criteria → therapy. Add one objection and one reply. A list without inferential links does not pass.
 
-## MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
 ### Master causal chain
 
@@ -2011,7 +2263,7 @@ No usable norm of correctness → no logically private language
 | 15 marks | State the controversy and provisional position. | Reconstruct the steps, objection and reply. | Rank the objection and identify a residual issue. |
 | 20 marks | Frame continuity, doctrine and stakes. | Integrate at least three concepts with comparison and criticism. | Separate achievement, limitation and final judgment. |
 
-## COMPLETE CONSOLIDATED REGISTER NOTES
+# COMPLETE CONSOLIDATED REGISTER NOTES
 
 ### RN-1 — Transition from the *Tractatus*
 
@@ -2131,38 +2383,38 @@ No usable norm of correctness → no logically private language
 - Preserve the 2022 printed “motion” and the 2025 unmatched quotation mark, explain each once and answer the intended demand.
 - Keep Kripke’s construction explicitly labelled rather than attributing it without qualification to Wittgenstein.
 
-## COVERAGE MATRIX
+# COVERAGE MATRIX
 
 | Required area | Primary location | Practice check |
 |---|---|---|
-| Transition from picture theory to use | Lessons 1–2 | MCQs 1–8; Original Mains 1 |
-| Augustinian picture and ostensive definition | Lesson 2 | MCQs 5–8, 46 |
-| Meaning as use and understanding as technique | Lesson 2 | MCQs 5–8, 46; Original Mains 1 |
-| Family resemblance and open concepts | Lesson 3 | MCQs 9–12 |
-| Builders and plurality of language-games | Lesson 4 | MCQs 13–16 |
-| Forms of life, agreement and lion remark | Lesson 5 | MCQs 17–20; Original Mains 4 |
-| Rule-following, normativity and Kripkenstein | Lesson 6 | MCQs 21–24; Original Mains 2 |
-| Logical privacy, diary and memory | Lesson 7 | MCQs 25–27, 45, 47 |
-| Solipsism as inexpressible/self-undermining | Lessons 7 and 11 | MCQ 27 |
-| Beetle and semantic role of inner objects | Lessons 7–8 | MCQ 28 |
-| Criteria, symptoms and avowals | Lesson 8 | MCQs 29–32 |
-| Anti-behaviourist response | Lesson 8 | MCQ 31 |
-| Therapy, description and quietism | Lesson 9 | MCQs 33–36; Original Mains 3 |
-| Aspect-seeing and aspect-blindness | Lesson 10 | MCQs 37–40 |
-| Early Wittgenstein comparison | Lessons 1 and 11 | MCQ 41 |
-| Logical Positivism comparison | Lesson 11 | MCQ 42 |
-| Moore and hinge certainty | Lessons 11–12 | MCQs 43 and 48 |
-| Russell and ordinary-language inheritance | Lesson 11 | MCQ 48 |
-| Conventionalism and relativism | Lessons 5, 6 and 11 | MCQ 44; Original Mains 4 |
-| Ayer/Crusoe objection | Lessons 7 and 11 | MCQ 47 |
-| 2018 PYQ | Lessons 3–4 | Exact link and answer approach; MCQ 12 |
-| 2019 PYQ | Lesson 7 | Exact link and answer approach; MCQ 27 |
-| 2020 PYQ | Lessons 7–8 | Exact link and answer approach; MCQs 25–32 |
-| 2022 PYQ | Lesson 5 | Exact link and answer approach; MCQ 20 |
-| 2023 PYQ | Lessons 1–2 | Exact link and answer approach; MCQs 1–8 |
-| 2024 PYQ | Lesson 7 | Exact link and answer approach; MCQ 25 |
-| 2025 PYQ | Lessons 1–2 and 9 | Exact link and answer approach; MCQs 1–8 and 33–36 |
-| 2026 PYQ | Lesson 2 | Exact link and answer approach; MCQs 5–8 |
+| Transition from picture theory to use | Lessons 1–2 | MCQs 1–5, 34–36; Original Mains 1 |
+| Augustinian picture and ostensive definition | Lesson 2 | MCQs 4–5, 34–35, 46 |
+| Meaning as use and understanding as technique | Lesson 2 | MCQs 4–5, 34–35, 46; Original Mains 1 |
+| Family resemblance and open concepts | Lesson 3 | MCQs 6–8, 33 |
+| Builders and plurality of language-games | Lesson 4 | MCQs 9–10, 39–40 |
+| Forms of life, agreement and lion remark | Lesson 5 | MCQs 11–13, 38; Original Mains 4 |
+| Rule-following, normativity and Kripkenstein | Lesson 6 | MCQs 14–16, 37; Original Mains 2 |
+| Logical privacy, diary and memory | Lesson 7 | MCQs 17–18, 31, 43, 45 |
+| Solipsism as inexpressible/self-undermining | Lessons 7 and 11 | MCQ 43 |
+| Beetle and semantic role of inner objects | Lessons 7–8 | MCQ 44 |
+| Criteria, symptoms and avowals | Lesson 8 | MCQs 19–22 |
+| Anti-behaviourist response | Lesson 8 | MCQ 19 |
+| Therapy, description and quietism | Lesson 9 | MCQs 23–24, 41–42; Original Mains 3 |
+| Aspect-seeing and aspect-blindness | Lesson 10 | MCQs 25–27, 48 |
+| Early Wittgenstein comparison | Lessons 1 and 11 | MCQ 29 |
+| Logical Positivism comparison | Lesson 11 | MCQ 30 |
+| Moore and hinge certainty | Lessons 11–12 | MCQs 32 and 47 |
+| Russell and ordinary-language inheritance | Lesson 11 | MCQ 32 |
+| Conventionalism and relativism | Lessons 5, 6 and 11 | MCQ 28; Original Mains 4 |
+| Ayer/Crusoe objection | Lessons 7 and 11 | MCQ 31 |
+| 2018 PYQ | Lessons 3–4 | Exact link and answer approach; MCQ 8 |
+| 2019 PYQ | Lesson 7 | Exact link and answer approach; MCQ 43 |
+| 2020 PYQ | Lessons 7–8 | Exact link and answer approach; MCQs 17–22, 43–44 |
+| 2022 PYQ | Lesson 5 | Exact link and answer approach; MCQ 12 |
+| 2023 PYQ | Lessons 1–2 | Exact link and answer approach; MCQs 1–5, 34–36 |
+| 2024 PYQ | Lesson 7 | Exact link and answer approach; MCQ 17 |
+| 2025 PYQ | Lessons 1–2 and 9 | Exact link and answer approach; MCQs 1–5, 23–24, 34–36, 41–42 |
+| 2026 PYQ | Lesson 2 | Exact link and answer approach; MCQs 4–5, 34–35 |
 
 ### Practice inventory
 
@@ -2171,12 +2423,12 @@ No usable norm of correctness → no logically private language
 | Frozen lessons, progress lines and pre-teach checklists | 12 each |
 | Lesson-specific remediation exercises | 12 |
 | Verified links-only PYQs through 2026 | 8 |
-| Cumulative MCQs with four option-specific explanations | 48 |
+| MCQs (32 in-lesson + 16 cumulative) with four option-specific explanations | 48 |
 | Individual option explanations | 192 |
 | Original Mains model answers | 4: 10, 15, 15 and 20 marks |
 | Consolidated register-note blocks | 12 |
 
-## SOURCE LEDGER
+# SOURCE LEDGER
 
 ### Primary and scholarly references
 
@@ -2202,3 +2454,18 @@ No usable norm of correctness → no logically private language
 ### Verification boundary
 
 The exact 2026 Q3(c) wording was checked against the local 2026 ledger. The 2022 printed word “motion” and the unmatched quotation mark in the 2025 question remain unchanged. OCR page references above are PDF page indices and may differ from the books’ printed pagination. No claim depends on the unavailable portion of the six-page Masih file.
+
+## SOURCE-MANIFEST GATE
+
+This manifest honestly records, without overclaim, which source categories were consulted in preparing this live session. Status is one of `checked`, `not available` or `not relevant`.
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| Canonical markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Later-Wittgenstein.md` supplied the doctrinal baseline used across the twelve lessons |
+| Final learner package | not relevant | No final learner package is part of this live-session scope, so none was consulted |
+| Layered/complete session | checked | `Later-Wittgenstein_Layered-Complete-Learning-Session_2026-08-19.md` cross-checked for basic and advanced completeness |
+| Solved workbook | not relevant | No solved-workbook answers are reproduced here; the verified PYQs appear only as links and concise answer approaches |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` cross-checked for advanced objections, replies and comparative refinements |
+| OCR books | checked | Kenny vol. 4, Warburton and the Cambridge Dictionary entries used as OCR-searchable local-book cross-checks; the six-page Masih extract produced no match |
+| PYQs through 2026 | checked | `_PYQ-Western-Philosophy-2018-2025.md` and `_PYQ-Western-Philosophy-2026.md` supplied the eight verified question-parts; 2021 has none |
+| Official live sources | checked | Live academic checks dated 24 September 2026; items were recorded only where directly relevant and never presented as UPSC facts |
