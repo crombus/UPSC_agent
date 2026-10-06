@@ -1249,6 +1249,8 @@ adequate, timely, portable and contestable protection
 
 The sole dated current-affairs linkage is the four-Code commencement episode, including the corrected notification chain, followed by the 8 May 2026 Social Security Central Rules and connected aggregator-onboarding implementation. The Gazette controls are not identical: whole-Code commencement applies to Industrial Relations and OSHWC; Social Security reaches complete provision coverage across 2021, 2023 and corrected 2025 notifications; Code on Wages retains the identified State Advisory Board-related exclusions. No e-Shram registration total, platform-pension uptake, separately notified section 114 rate or paid gig-benefit total is asserted.
 
+**Question ownership:** The 2024 Prelims Set-A Q100 PM-SYM demand is directly owned here and remains unsolved and answer-neutral. The 2024 GS-III labour-code question and 2021 GS-I gig-economy/women question remain cross-owned by Economy and Indian Society respectively.
+
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
