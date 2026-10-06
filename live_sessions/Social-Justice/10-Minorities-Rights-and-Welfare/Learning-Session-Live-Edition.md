@@ -28,7 +28,7 @@ CA found: none in the last six months that changes the constitutional framework;
 
 ### PYQ prompts
 
-- **2018 Civil Services (Main) Examination · General Studies Paper I · Q10 · 10 marks · answer in 150 words:** “How the Indian concept of secularism is different from the western model of secularism? Discuss.”
+- **2018 Civil Services (Main) Examination · General Studies Paper I · Q10 · 10 marks · answer in 150 words:** “How is the Indian concept of secularism different from the western model of secularism? Discuss.”
 - **2019 GS-I Q10 (10 marks; 150 words):** “What are the challenges to our cultural practices in the name of secularism?”
 - **2019 GS-II Q5 (10 marks; 150 words):** “What can France learn from the Indian Constitution’s approach to secularism?”
 - **2022 GS-I Q19 (15 marks; 250 words):** “Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify your answer.”
@@ -466,7 +466,7 @@ The strongest case for **targeting** is that an area with documented deficits ca
 
 No 2018–2026 GS question directly asks the complete minority-rights and welfare framework taught here. The following exact questions apply specific constitutional, society or welfare dimensions:
 
-- **2018 Civil Services (Main) Examination · General Studies Paper I · Q10 · 10 marks · answer in 150 words:** “How the Indian concept of secularism is different from the western model of secularism? Discuss.” **Approach after teaching:** contrast strict separation with India's principled-distance model; use Articles 25–28, reform power and equal citizenship.
+- **2018 Civil Services (Main) Examination · General Studies Paper I · Q10 · 10 marks · answer in 150 words:** “How is the Indian concept of secularism different from the western model of secularism? Discuss.” **Approach after teaching:** contrast strict separation with India's principled-distance model; use Articles 25–28, reform power and equal citizenship.
 - **2019 GS-I Q10 (10 marks; 150 words):** “What are the challenges to our cultural practices in the name of secularism?” **Approach after teaching:** distinguish genuine religious/cultural autonomy from practices limited by equality, dignity, public order, morality, health and reform.
 - **2019 GS-II Q5 (10 marks; 150 words):** “What can France learn from the Indian Constitution’s approach to secularism?” **Approach after teaching:** explain accommodation and equal engagement without presenting India as religion-neutral in every outcome or France as wholly hostile to religion.
 - **2022 GS-I Q19 (15 marks; 250 words):** “Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify your answer.” **Approach after teaching:** define each term, use voluntary exchange and plural public space, reject forced assimilation, and add constitutional equality and reform.
