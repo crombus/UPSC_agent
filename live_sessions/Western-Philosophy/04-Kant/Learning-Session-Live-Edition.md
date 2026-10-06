@@ -176,7 +176,7 @@ physics, or metaphysics — possible at all, and where does the possibility run 
   they are **in themselves**. This cost (the unknowable noumenon) is the price of the gain (secured synthetic a
   priori knowledge), and it recurs as the central tension examined throughout this session (Lessons 7 and 11).
 
-> ⚠️ **Provenance note (§T discipline):** Kant himself invokes Copernicus at Bxvi–xviii to describe this change
+> ⚠️ **Provenance note (precise attribution):** Kant himself invokes Copernicus at Bxvi–xviii to describe this change
 > of standpoint, but the compact label **"Copernican revolution/turn"** is the **commentators'**, not a phrase
 > Kant applies to himself. Write: "the change of standpoint traditionally called Kant's Copernican revolution
 > (Bxvi–xviii)," not "Kant's own Copernican Revolution doctrine."
@@ -241,33 +241,33 @@ straight, so it is fixed here, in Lesson 1, before any doctrine is introduced.
 
 ### Practice — testing the pressure point of Lesson 1
 
-**MCQ 1.** Which formulation best states the change traditionally called Kant's Copernican revolution?
+**MCQ 1: A**
+
+Which formulation best states the change traditionally called Kant's Copernican revolution?
 
 A. Objects of possible experience conform to the knower's a priori forms.
 B. The mind possesses innate representations that disclose noumenal objects.
 C. Experience produces universal laws through repeated association of impressions.
 D. Things in themselves are constructed through acts of individual consciousness.
 
-**Answer: A**
+- **A — Correct:** The claim concerns objects as experienced and the conditions under which they can appear.
+- **B — Incorrect:** Kant denies cognitive access to noumena and does not posit representations that disclose them.
+- **C — Incorrect:** Association explains Humean expectation, not Kant's account of a priori necessity.
+- **D — Incorrect:** The Copernican standpoint does not make individual consciousness the creator of things in themselves.
 
-- **A:** Correct — The claim concerns objects as experienced and the conditions under which they can appear.
-- **B:** Incorrect — Kant denies cognitive access to noumena and does not posit representations that disclose them.
-- **C:** Incorrect — Association explains Humean expectation, not Kant's account of a priori necessity.
-- **D:** Incorrect — The Copernican standpoint does not make individual consciousness the creator of things in themselves.
+**MCQ 2: B**
 
-**MCQ 2.** A transcendental argument characteristically moves from:
+A transcendental argument characteristically moves from:
 
 A. a complete definition to the necessary existence of its object
 B. an accepted feature of experience to its necessary conditions
 C. an observed sequence of impressions to an expectation formed by habit
 D. a logical contradiction to alleged knowledge of supersensible reality
 
-**Answer: B**
-
-- **A:** Incorrect — Moving from a complete concept to its object's existence is the ontological style of inference Kant criticises.
-- **B:** Correct — Kant asks what must be presupposed if objective experience or knowledge is possible.
-- **C:** Incorrect — This explains expectation psychologically but does not establish a condition required for experience.
-- **D:** Incorrect — Transcendental argument proceeds from experience's possibility rather than alleged supersensible insight.
+- **A — Incorrect:** Moving from a complete concept to its object's existence is the ontological style of inference Kant criticises.
+- **B — Correct:** Kant asks what must be presupposed if objective experience or knowledge is possible.
+- **C — Incorrect:** This explains expectation psychologically but does not establish a condition required for experience.
+- **D — Incorrect:** Transcendental argument proceeds from experience's possibility rather than alleged supersensible insight.
 
 **Mains drill:** Why is Kant's critical method neither rationalist dogmatism nor Humean scepticism? (10 marks)
 
@@ -467,47 +467,47 @@ the Copernican-Revolution explanation of possibility, and the "only for phenomen
 
 ### Practice — testing the pressure point of Lesson 2
 
-**MCQ 3.** Which judgment is synthetic a priori?
+**MCQ 3: C**
+
+Which judgment is synthetic a priori?
 
 A. Every material body is spatially extended.
 B. This wooden desk appears brown in daylight.
 C. Every event that begins has a determining cause.
 D. Some triangles drawn on paper appear red.
 
-**Answer: C**
+- **A — Incorrect:** Spatial extension is contained in Kant's concept of material body, making the judgment analytic.
+- **B — Incorrect:** The observed colour is contingent and therefore known synthetically a posteriori.
+- **C — Correct:** The causal predicate adds information while claiming necessity for every possible event.
+- **D — Incorrect:** A drawn figure's colour is a contingent feature discovered through observation.
 
-- **A:** Incorrect — Spatial extension is contained in Kant's concept of material body, making the judgment analytic.
-- **B:** Incorrect — The observed colour is contingent and therefore known synthetically a posteriori.
-- **C:** Correct — The causal predicate adds information while claiming necessity for every possible event.
-- **D:** Incorrect — A drawn figure's colour is a contingent feature discovered through observation.
+**MCQ 4: D**
 
-**MCQ 4.** Why does Kant reject an analytic a posteriori class?
+Why does Kant reject an analytic a posteriori class?
 
 A. Because empirical judgments are always false and lack objective validity.
 B. Because analytic judgments occur only within pure mathematics.
 C. Because experience supplies sensations but never any conceptual content.
 D. Because unpacking a concept does not require empirical observation.
 
-**Answer: D**
+- **A — Incorrect:** Empirical judgments can be objectively valid even though their justification remains contingent.
+- **B — Incorrect:** Analytic judgments occur wherever predicates merely explicate concepts, not only in mathematics.
+- **C — Incorrect:** Experience requires conceptual organisation as well as sensible content.
+- **D — Correct:** If the predicate is already contained in the subject, experience is unnecessary for justification.
 
-- **A:** Incorrect — Empirical judgments can be objectively valid even though their justification remains contingent.
-- **B:** Incorrect — Analytic judgments occur wherever predicates merely explicate concepts, not only in mathematics.
-- **C:** Incorrect — Experience requires conceptual organisation as well as sensible content.
-- **D:** Correct — If the predicate is already contained in the subject, experience is unnecessary for justification.
+**MCQ 5: A**
 
-**MCQ 5.** Why does Hume's Fork leave no place for Kant's synthetic a priori?
+Why does Hume's Fork leave no place for Kant's synthetic a priori?
 
 A. It exhausts cognition through necessary relations of ideas and contingent matters of fact.
 B. It reverses Hume's branches by making matters necessary and relations of ideas contingent instead.
 C. It grounds demonstrative mathematics entirely in repeated impressions and customary expectation.
 D. It derives both abstract concepts and factual beliefs from innate rational principles.
 
-**Answer: A**
-
-- **A:** Correct — Hume's exhaustive division leaves no class that is both informative about objects and necessary.
-- **B:** Incorrect — Hume assigns necessity to relations of ideas and contingency to matters of fact, not the reverse.
-- **C:** Incorrect — Hume separates demonstrative relations from expectations produced by repeated conjunction.
-- **D:** Incorrect — His Copy Principle traces ideas to impressions rather than to innate rational principles.
+- **A — Correct:** Hume's exhaustive division leaves no class that is both informative about objects and necessary.
+- **B — Incorrect:** Hume assigns necessity to relations of ideas and contingency to matters of fact, not the reverse.
+- **C — Incorrect:** Hume separates demonstrative relations from expectations produced by repeated conjunction.
+- **D — Incorrect:** His Copy Principle traces ideas to impressions rather than to innate rational principles.
 
 **Mains drill:** Explain why synthetic a priori judgment is a genuine third class rather than a compromise. (10 marks)
 
@@ -686,33 +686,33 @@ Euclid-specific claim is weakened) -> close by distinguishing Kant's position fr
 
 ### Practice — testing the pressure point of Lesson 3
 
-**MCQ 6.** For Kant, space is primarily:
+**MCQ 6: B**
+
+For Kant, space is primarily:
 
 A. an absolute container existing independently of bodies
 B. the a priori form governing outer intuition
 C. a relation abstracted from the order of bodies
 D. a pure category organising judgments about bodies
 
-**Answer: B**
+- **A — Incorrect:** Kant rejects Newtonian absolute space as an independently real receptacle containing bodies.
+- **B — Correct:** Space is supplied by sensibility as the form under which outer objects can appear.
+- **C — Incorrect:** This is Leibnizian relationalism; abstracting relations already presupposes a spatial order.
+- **D — Incorrect:** Categories are functions of understanding, whereas space is a pure form of intuition.
 
-- **A:** Incorrect — Kant rejects Newtonian absolute space as an independently real receptacle containing bodies.
-- **B:** Correct — Space is supplied by sensibility as the form under which outer objects can appear.
-- **C:** Incorrect — This is Leibnizian relationalism; abstracting relations already presupposes a spatial order.
-- **D:** Incorrect — Categories are functions of understanding, whereas space is a pure form of intuition.
+**MCQ 7: C**
 
-**MCQ 7.** Which later development most directly pressures Kant's Euclid-specific transcendental exposition?
+Which later development most directly pressures Kant's Euclid-specific transcendental exposition?
 
 A. the development of electromagnetic field theory within modern mathematical physics
 B. the invention of symbolic logic and formal proof systems in mathematics
 C. non-Euclidean geometry and relativistic accounts of physical spacetime
 D. the rise of evolutionary biology and naturalistic theories of cognition
 
-**Answer: C**
-
-- **A:** Incorrect — Electromagnetic field theory did not establish alternatives to Euclidean spatial construction.
-- **B:** Incorrect — Formal logic revises Kant's logical framework but does not establish non-Euclidean spatial possibilities.
-- **C:** Correct — Alternative geometries and curved spacetime directly weaken the claim that Euclid describes every possible spatial experience.
-- **D:** Incorrect — Evolutionary accounts of cognition do not directly decide whether spatial intuition must be Euclidean.
+- **A — Incorrect:** Electromagnetic field theory did not establish alternatives to Euclidean spatial construction.
+- **B — Incorrect:** Formal logic revises Kant's logical framework but does not establish non-Euclidean spatial possibilities.
+- **C — Correct:** Alternative geometries and curved spacetime directly weaken the claim that Euclid describes every possible spatial experience.
+- **D — Incorrect:** Evolutionary accounts of cognition do not directly decide whether spatial intuition must be Euclidean.
 
 **Mains drill:** Assess the claim that modern geometry simply refutes Kant's Transcendental Aesthetic. (10 marks)
 
@@ -929,47 +929,47 @@ given, via the categories) -> close by naming the complete architecture (Aesthet
 
 ### Practice — testing the pressure point of Lesson 4
 
-**MCQ 8.** The metaphysical deduction differs from the transcendental deduction because it:
+**MCQ 8: D**
+
+The metaphysical deduction differs from the transcendental deduction because it:
 
 A. proves that every alteration follows a causal law in objective time
 B. derives space and time through abstraction from repeated sensory impressions
 C. establishes outer objects from the temporal order of inner experience
 D. identifies pure categories from the logical forms employed in judgment
 
-**Answer: D**
+- **A — Incorrect:** The causal law is defended through a Principle, not through the inventory of categories.
+- **B — Incorrect:** Space and time are a priori forms of sensibility rather than abstractions from sensation.
+- **C — Incorrect:** This is the Refutation of Idealism's strategy rather than an identification of pure concepts.
+- **D — Correct:** The metaphysical deduction supplies the inventory; the transcendental deduction justifies its objective validity.
 
-- **A:** Incorrect — The causal law is defended through a Principle, not through the inventory of categories.
-- **B:** Incorrect — Space and time are a priori forms of sensibility rather than abstractions from sensation.
-- **C:** Incorrect — This is the Refutation of Idealism's strategy rather than an identification of pure concepts.
-- **D:** Correct — The metaphysical deduction supplies the inventory; the transcendental deduction justifies its objective validity.
+**MCQ 9: A**
 
-**MCQ 9.** The transcendental unity of apperception is not a substantial soul because it is:
+The transcendental unity of apperception is not a substantial soul because it is:
 
 A. the formal unity required for representations to belong to one consciousness
 B. a noumenal subject known through purely intellectual self-intuition
 C. the highest category unifying every other concept of understanding
 D. a stable empirical impression discovered through repeated acts of introspection
 
-**Answer: A**
+- **A — Correct:** The 'I think' is a function or condition, not an intuited entity.
+- **B — Incorrect:** Human self-consciousness does not provide intellectual intuition of a noumenal subject.
+- **C — Incorrect:** Apperception unifies categorical synthesis but is not another category in the table.
+- **D — Incorrect:** Introspection yields changing states, not the a priori unity required for their combination.
 
-- **A:** Correct — The 'I think' is a function or condition, not an intuited entity.
-- **B:** Incorrect — Human self-consciousness does not provide intellectual intuition of a noumenal subject.
-- **C:** Incorrect — Apperception unifies categorical synthesis but is not another category in the table.
-- **D:** Incorrect — Introspection yields changing states, not the a priori unity required for their combination.
+**MCQ 10: B**
 
-**MCQ 10.** Which statement best expresses the scope of the categories?
+Which statement best expresses the scope of the categories?
 
 A. They determine things as those things exist independently of sensible intuition.
 B. They determine objects insofar as those objects can appear within experience.
 C. They classify recurring appearances through habits acquired during experience.
 D. They determine only mathematical objects constructed through pure intuition.
 
-**Answer: B**
-
-- **A:** Incorrect — Categories have objective use only when a sensible manifold is given, not for things independently of intuition.
-- **B:** Correct — The transcendental deduction establishes their validity for objects of possible experience.
-- **C:** Incorrect — Categories are a priori conditions of synthesis rather than habits learned from recurrent appearances.
-- **D:** Incorrect — Their scope includes ordinary empirical objects and is not confined to mathematical construction.
+- **A — Incorrect:** Categories have objective use only when a sensible manifold is given, not for things independently of intuition.
+- **B — Correct:** The transcendental deduction establishes their validity for objects of possible experience.
+- **C — Incorrect:** Categories are a priori conditions of synthesis rather than habits learned from recurrent appearances.
+- **D — Incorrect:** Their scope includes ordinary empirical objects and is not confined to mathematical construction.
 
 **Mains drill:** Why does apperception justify categories without proving a soul-substance? (10 marks)
 
@@ -1131,33 +1131,33 @@ concession -> functional defence (without schemata, no Analogies).
 
 ### Practice — testing the pressure point of Lesson 5
 
-**MCQ 11.** A transcendental schema is best understood as:
+**MCQ 11: C**
+
+A transcendental schema is best understood as:
 
 A. a thirteenth category
 B. a faint copy of a sensible object
 C. a rule of temporal determination
 D. a proposition of formal logic
 
-**Answer: C**
+- **A — Incorrect:** Kant retains twelve categories; schemata mediate their use.
+- **B — Incorrect:** An image is a determinate product, whereas a schema is a general procedure.
+- **C — Correct:** The schema gives a category sensible application through a rule in time.
+- **D — Incorrect:** Logical form alone does not bridge concept and intuition.
 
-- **A:** Incorrect — Kant retains twelve categories; schemata mediate their use.
-- **B:** Incorrect — An image is a determinate product, whereas a schema is a general procedure.
-- **C:** Correct — The schema gives a category sensible application through a rule in time.
-- **D:** Incorrect — Logical form alone does not bridge concept and intuition.
+**MCQ 12: D**
 
-**MCQ 12.** Why is time the universal medium of schemata?
+Why is time the universal medium of schemata?
 
 A. Because time is objectively more real than the spatial form of outer sense.
 B. Because time exists independently as a container for every representation.
 C. Because temporal order is acquired through repeated associations of perceptions.
 D. Because every representation, whether inner or outer, is represented in time.
 
-**Answer: D**
-
-- **A:** Incorrect — Space and time are both transcendentally ideal and empirically real; time has no superior reality.
-- **B:** Incorrect — Time is the subject's form of inner intuition, not an independently existing receptacle.
-- **C:** Incorrect — Empirical association presupposes temporal order and cannot supply the a priori medium of schemata.
-- **D:** Correct — Even outer objects must be represented in inner sense and therefore under temporal conditions.
+- **A — Incorrect:** Space and time are both transcendentally ideal and empirically real; time has no superior reality.
+- **B — Incorrect:** Time is the subject's form of inner intuition, not an independently existing receptacle.
+- **C — Incorrect:** Empirical association presupposes temporal order and cannot supply the a priori medium of schemata.
+- **D — Correct:** Even outer objects must be represented in inner sense and therefore under temporal conditions.
 
 **Mains drill:** Why is schematism indispensable even if its mechanism remains obscure? (10 marks)
 
@@ -1391,61 +1391,61 @@ reply -> verdict: Kant relocates, rather than dissolves, Hume's problem.
 
 ### Practice — testing the pressure point of Lesson 6
 
-**MCQ 13.** The First Analogy explains objective duration through:
+**MCQ 13: A**
+
+The First Analogy explains objective duration through:
 
 A. permanent substance underlying alteration
 B. reversible apprehension of spatial parts
 C. necessary causes preceding every event
 D. a simple subject underlying thought
 
-**Answer: A**
+- **A — Correct:** A persisting substratum provides the stable correlate by which change can be temporally determined.
+- **B — Incorrect:** Reversible apprehension concerns how spatial parts may be surveyed, not what persists through change.
+- **C — Incorrect:** The First Analogy concerns duration and alteration, not the causal rule governing events.
+- **D — Incorrect:** Simplicity concerns an alleged property of the thinking subject, not objective temporal duration.
 
-- **A:** Correct — A persisting substratum provides the stable correlate by which change can be temporally determined.
-- **B:** Incorrect — Reversible apprehension concerns how spatial parts may be surveyed, not what persists through change.
-- **C:** Incorrect — The First Analogy concerns duration and alteration, not the causal rule governing events.
-- **D:** Incorrect — Simplicity concerns an alleged property of the thinking subject, not objective temporal duration.
+**MCQ 14: B**
 
-**MCQ 14.** The decisive difference between perceiving a house and watching a ship drift is that:
+The decisive difference between perceiving a house and watching a ship drift is that:
 
 A. the house is apprehended spatially, but the moving ship only temporally
 B. the ship's perceptual order is irreversible and therefore requires a rule
 C. the ship reveals a noumenal cause operating outside all possible experience
 D. only the house requires categorical synthesis to count as an experienced object
 
-**Answer: B**
+- **A — Incorrect:** Both objects are spatial and both acts of apprehension also unfold in time.
+- **B — Correct:** The fixed succession distinguishes an event from a freely reversible sequence of apprehension.
+- **C — Incorrect:** The example concerns phenomenal succession and provides no cognition of a noumenal cause.
+- **D — Incorrect:** Both house and ship require categorical synthesis to count as experienced objects.
 
-- **A:** Incorrect — Both objects are spatial and both acts of apprehension also unfold in time.
-- **B:** Correct — The fixed succession distinguishes an event from a freely reversible sequence of apprehension.
-- **C:** Incorrect — The example concerns phenomenal succession and provides no cognition of a noumenal cause.
-- **D:** Incorrect — Both house and ship require categorical synthesis to count as experienced objects.
+**MCQ 15: C**
 
-**MCQ 15.** What does the Third Analogy add beyond the Second?
+What does the Third Analogy add beyond the Second?
 
 A. A construction rule grounding necessary propositions of Euclidean geometry.
 B. A rational proof that the thinking subject remains both simple and immortal.
 C. A rule for mutual interaction that makes objective simultaneity possible.
-D. A critical refutation showing that existence cannot function as a real predicate.
+D. A denial that existence is a real predicate.
 
-**Answer: C**
+- **A — Incorrect:** Geometrical construction depends on pure spatial intuition, not reciprocal interaction.
+- **B — Incorrect:** The Paralogisms reject rational psychology's inference to a simple immortal subject.
+- **C — Correct:** Reciprocity fixes coexistence within one time.
+- **D — Incorrect:** The predicate objection concerns rational theology rather than objective simultaneity.
 
-- **A:** Incorrect — Geometrical construction depends on pure spatial intuition, not reciprocal interaction.
-- **B:** Incorrect — The Paralogisms reject rational psychology's inference to a simple immortal subject.
-- **C:** Correct — Reciprocity fixes coexistence within one time.
-- **D:** Incorrect — The predicate objection concerns rational theology rather than objective simultaneity.
+**MCQ 16: D**
 
-**MCQ 16.** Kant's reply to Hume is limited because it does not establish:
+Kant's reply to Hume is limited because it does not establish:
 
 A. that experiences can possess an objective temporal order
 B. that objective succession differs from a chosen perceptual order
 C. that causal judgment requires an a priori relational category
 D. that particular causes produce particular observable effects
 
-**Answer: D**
-
-- **A:** Incorrect — Kant's argument specifically explains how perceptions can be ordered as objective experience.
-- **B:** Incorrect — The house/ship contrast distinguishes an event's fixed succession from freely chosen apprehension.
-- **C:** Incorrect — The Deduction and the causal principle justify the category's a priori role.
-- **D:** Correct — Which concrete cause produces which effect remains a matter for empirical investigation.
+- **A — Incorrect:** Kant's argument specifically explains how perceptions can be ordered as objective experience.
+- **B — Incorrect:** The house/ship contrast distinguishes an event's fixed succession from freely chosen apprehension.
+- **C — Incorrect:** The Deduction and the causal principle justify the category's a priori role.
+- **D — Correct:** Which concrete cause produces which effect remains a matter for empirical investigation.
 
 **Mains drill:** Does the Second Analogy fully answer Hume on causation? (10 marks)
 
@@ -1699,47 +1699,47 @@ purely limiting reading) -> note explicitly this is Hegel's PYQ to solve in full
 
 ### Practice — testing the pressure point of Lesson 7
 
-**MCQ 17.** Kant's Refutation of Idealism tries to show that:
+**MCQ 17: A**
+
+Kant's Refutation of Idealism tries to show that:
 
 A. determinate inner experience presupposes enduring outer objects
 B. external objects are inferred through God's non-deceptive veracity
 C. material objects consist only of ideas perceived by finite minds
 D. certainty belongs solely to self-consciousness rather than outer experience
 
-**Answer: A**
+- **A — Correct:** A persistent outer object is required to determine the temporal order of inner states.
+- **B — Incorrect:** Reliance on divine veracity is Cartesian rather than Kant's inner-to-outer argument.
+- **C — Incorrect:** Reducing material objects to perceived ideas is Berkeleyan, not empirical realism.
+- **D — Incorrect:** Kant argues that determinate inner awareness depends upon outer experience.
 
-- **A:** Correct — A persistent outer object is required to determine the temporal order of inner states.
-- **B:** Incorrect — Reliance on divine veracity is Cartesian rather than Kant's inner-to-outer argument.
-- **C:** Incorrect — Reducing material objects to perceived ideas is Berkeleyan, not empirical realism.
-- **D:** Incorrect — Kant argues that determinate inner awareness depends upon outer experience.
+**MCQ 18: B**
 
-**MCQ 18.** A negative noumenon is:
+A negative noumenon is:
 
 A. a hidden supersensible object directly known through intellectual intuition
 B. a limiting concept marking what sensible cognition cannot know
 C. the cause of sensation established by the category of causality
 D. a merely subjective illusion generated by reproductive imagination
 
-**Answer: B**
+- **A — Incorrect:** Human cognition has no intellectual intuition that could reveal a supersensible object.
+- **B — Correct:** Its legitimate function is boundary-setting, not positive description.
+- **C — Incorrect:** Applying causality beyond appearances creates the affection problem.
+- **D — Incorrect:** The negative noumenon has a boundary-setting role and is not a product of empirical association.
 
-- **A:** Incorrect — Human cognition has no intellectual intuition that could reveal a supersensible object.
-- **B:** Correct — Its legitimate function is boundary-setting, not positive description.
-- **C:** Incorrect — Applying causality beyond appearances creates the affection problem.
-- **D:** Incorrect — The negative noumenon has a boundary-setting role and is not a product of empirical association.
+**MCQ 19: C**
 
-**MCQ 19.** Which interpretation avoids treating noumena as a second set of hidden objects?
+Which interpretation avoids treating noumena as a second set of hidden objects?
 
 A. The two-world reading treats appearances and things in themselves as distinct objects.
 B. The phenomenalist reading reduces experienced objects to organised private representations.
 C. The two-aspect reading considers one object as appearance and independently of cognition.
 D. The positive-noumenon reading claims intellectual knowledge of supersensible objects.
 
-**Answer: C**
-
-- **A:** Incorrect — Treating appearances and things in themselves as numerically distinct creates the problematic second domain.
-- **B:** Incorrect — Kant's empirical realism denies that public objects reduce to privately organised representations.
-- **C:** Correct — The distinction concerns two standpoints on one object rather than two sets of objects.
-- **D:** Incorrect — Human beings lack the intellectual intuition required for positive knowledge of supersensible objects.
+- **A — Incorrect:** Treating appearances and things in themselves as numerically distinct creates the problematic second domain.
+- **B — Incorrect:** Kant's empirical realism denies that public objects reduce to privately organised representations.
+- **C — Correct:** The distinction concerns two standpoints on one object rather than two sets of objects.
+- **D — Incorrect:** Human beings lack the intellectual intuition required for positive knowledge of supersensible objects.
 
 **Mains drill:** Can Kant be both a transcendental idealist and an empirical realist? (10 marks)
 
@@ -1910,33 +1910,33 @@ for the God-proofs (Lesson 10, directly PYQ-tested), and is the necessary disamb
 
 ### Practice — testing the pressure point of Lesson 8
 
-**MCQ 20.** The Paralogisms arise when reason infers from the 'I think' that:
+**MCQ 20: D**
+
+The Paralogisms arise when reason infers from the 'I think' that:
 
 A. space is an infinite magnitude given prior to every possible outer experience
 B. nature displays systematic purposiveness under the reflective use of judgment
 C. God is the intelligent architect inferred from order within the experienced world
 D. the soul is a simple, enduring and numerically identical thinking substance
 
-**Answer: D**
+- **A — Incorrect:** Spatial infinity concerns the Aesthetic and cosmology rather than an inference from self-consciousness.
+- **B — Incorrect:** Purposiveness concerns reflective judgment, not the substantial status of the thinking subject.
+- **C — Incorrect:** The architect inference begins from natural order and does not arise from the 'I think.'
+- **D — Correct:** Rational psychology converts the logical unity of the subject into claims of substantiality, simplicity and identity.
 
-- **A:** Incorrect — Spatial infinity concerns the Aesthetic and cosmology rather than an inference from self-consciousness.
-- **B:** Incorrect — Purposiveness concerns reflective judgment, not the substantial status of the thinking subject.
-- **C:** Incorrect — The architect inference begins from natural order and does not arise from the 'I think.'
-- **D:** Correct — Rational psychology converts the logical unity of the subject into claims of substantiality, simplicity and identity.
+**MCQ 21: A**
 
-**MCQ 21.** Ideas of Reason are legitimate when used:
+Ideas of Reason are legitimate when used:
 
 A. as a regulative guide toward systematic unity, without positing supersensible objects
 B. as a constitutive proof of supersensible objects, beyond any possible experience
 C. as a categorical rule determining experienced objects, within sensible intuition
 D. as an empirical hypothesis explaining observed objects, through scientific inquiry
 
-**Answer: A**
-
-- **A:** Correct — Ideas organise inquiry and explanation without licensing knowledge of corresponding supersensible entities.
-- **B:** Incorrect — Constitutive proof converts reason's demand for completeness into an illegitimate object-claim.
-- **C:** Incorrect — Categories determine experienced objects; Ideas guide the understanding toward systematic integration.
-- **D:** Incorrect — Ideas are a priori orientations of reason rather than testable empirical hypotheses.
+- **A — Correct:** Ideas organise inquiry and explanation without licensing knowledge of corresponding supersensible entities.
+- **B — Incorrect:** Constitutive proof converts reason's demand for completeness into an illegitimate object-claim.
+- **C — Incorrect:** Categories determine experienced objects; Ideas guide the understanding toward systematic integration.
+- **D — Incorrect:** Ideas are a priori orientations of reason rather than testable empirical hypotheses.
 
 **Mains drill:** Why are Ideas of Reason indispensable but dangerous? (10 marks)
 
@@ -2096,61 +2096,61 @@ of dualism as such.
 
 ### Practice — testing the pressure point of Lesson 9
 
-**MCQ 22.** How does Kant resolve the mathematical antinomies?
+**MCQ 22: B**
+
+How does Kant resolve the mathematical antinomies?
 
 A. The thesis alone describes the completed world exactly as it exists independently of every possible experience.
 B. Both sides falsely treat the indefinitely extendable phenomenal series as a completed world-totality.
 C. Each side reports a different but equally valid observation within an unfinished empirical series.
 D. Both sides remain undecidable because ordinary logical rules lose authority beyond immediate perception.
 
-**Answer: B**
+- **A — Incorrect:** Neither side gains privileged access to a world-whole existing independently of possible experience.
+- **B — Correct:** Both conflicts presuppose a completed totality where experience supplies only an indefinitely extendable series.
+- **C — Incorrect:** The conflict concerns claims about completed totality rather than observations within an open series.
+- **D — Incorrect:** Logic remains valid; the error lies in treating a cosmological Idea as an experienced object.
 
-- **A:** Incorrect — Neither side gains privileged access to a world-whole existing independently of possible experience.
-- **B:** Correct — Both conflicts presuppose a completed totality where experience supplies only an indefinitely extendable series.
-- **C:** Incorrect — The conflict concerns claims about completed totality rather than observations within an open series.
-- **D:** Incorrect — Logic remains valid; the error lies in treating a cosmological Idea as an experienced object.
+**MCQ 23: C**
 
-**MCQ 23.** The Third Antinomy permits freedom by distinguishing:
+The Third Antinomy permits freedom by distinguishing:
 
 A. inner sense, which orders states in time, from outer sense, which orders objects in space
 B. analytic judgments grounded in containment from synthetic judgments that extend conceptual content
 C. phenomenal natural causality from freedom considered under an intelligible standpoint on agency
 D. regulative principles guiding inquiry from constitutive rules determining objects within experience
 
-**Answer: C**
+- **A — Incorrect:** The distinction between inner and outer sense does not reconcile freedom with phenomenal causality.
+- **B — Incorrect:** Classifying judgments does not provide two standpoints from which agency can be considered.
+- **C — Correct:** The same agent can be naturally determined as appearance and regarded as free from an intelligible standpoint.
+- **D — Incorrect:** Different uses of principles do not supply the two standpoints required for freedom.
 
-- **A:** Incorrect — The distinction between inner and outer sense does not reconcile freedom with phenomenal causality.
-- **B:** Incorrect — Classifying judgments does not provide two standpoints from which agency can be considered.
-- **C:** Correct — The same agent can be naturally determined as appearance and regarded as free from an intelligible standpoint.
-- **D:** Incorrect — Different uses of principles do not supply the two standpoints required for freedom.
+**MCQ 24: D**
 
-**MCQ 24.** Why do the antinomies indirectly support transcendental idealism?
+Why do the antinomies indirectly support transcendental idealism?
 
 A. Antinomial theses are confirmed by a completed world-totality within experience.
 B. Noumenal objects provide empirical evidence supporting the opposed cosmological claims.
 C. Logical principles lose validity whenever reason investigates the world as a whole.
 D. Contradictions arise by treating appearances as things existing independently in themselves.
 
-**Answer: D**
+- **A — Incorrect:** Experience gives an extendable series of conditions rather than a completed world-totality.
+- **B — Incorrect:** Noumena cannot provide empirical evidence because they are not objects of sensible cognition.
+- **C — Incorrect:** Logical validity remains intact; the error concerns the status assigned to the world-totality.
+- **D — Correct:** The contradiction follows from transcendental realism and dissolves once appearances are not treated as things in themselves.
 
-- **A:** Incorrect — Experience gives an extendable series of conditions rather than a completed world-totality.
-- **B:** Incorrect — Noumena cannot provide empirical evidence because they are not objects of sensible cognition.
-- **C:** Incorrect — Logical validity remains intact; the error concerns the status assigned to the world-totality.
-- **D:** Correct — The contradiction follows from transcendental realism and dissolves once appearances are not treated as things in themselves.
+**MCQ 25: A**
 
-**MCQ 25.** What is Hegel's central challenge to Kant's treatment of contradiction?
+What is Hegel's central challenge to Kant's treatment of contradiction?
 
 A. Contradiction can drive determinate development rather than merely mark rational overreach.
 B. Contradiction vanishes when opposed claims are reduced to reports of private sensory experience.
 C. Contradiction proves that every finite concept lacks any possible objective content.
 D. Contradiction requires permanent suspension of judgment about both appearance and reality.
 
-**Answer: A**
-
-- **A:** Correct — Hegel treats contradiction as a motor through which limited determinations develop.
-- **B:** Incorrect — Hegel does not dissolve opposition by reducing it to private sensory experience.
-- **C:** Incorrect — Finite concepts are partial and self-transcending, not wholly devoid of objective content.
-- **D:** Incorrect — Hegel seeks determinate resolution through development rather than permanent agnosticism.
+- **A — Correct:** Hegel treats contradiction as a motor through which limited determinations develop.
+- **B — Incorrect:** Hegel does not dissolve opposition by reducing it to private sensory experience.
+- **C — Incorrect:** Finite concepts are partial and self-transcending, not wholly devoid of objective content.
+- **D — Incorrect:** Hegel seeks determinate resolution through development rather than permanent agnosticism.
 
 **Mains drill:** Why do Kant's mathematical and dynamical antinomies receive different resolutions? (10 marks)
 
@@ -2316,47 +2316,47 @@ postulate relocation (agnosticism, not atheism).
 
 ### Practice — testing the pressure point of Lesson 10
 
-**MCQ 26.** Kant's central objection to the classical ontological argument is that:
+**MCQ 26: B**
+
+Kant's central objection to the classical ontological argument is that:
 
 A. God lacks the complete set of perfections attributed by classical rational theology
 B. existence does not function as a real predicate adding conceptual content
 C. causal necessity is merely an expectation produced through customary association
 D. observed natural order provides no evidence whatever of intelligent design
 
-**Answer: B**
+- **A — Incorrect:** Kant grants the concept for argument's sake and targets the inference from concept to existence.
+- **B — Correct:** Actuality posits an object without adding another determination to its concept.
+- **C — Incorrect:** This is Hume's account of causal belief, not Kant's objection to the ontological proof.
+- **D — Incorrect:** Kant respects the force of observed order but denies that it establishes an infinite creator.
 
-- **A:** Incorrect — Kant grants the concept for argument's sake and targets the inference from concept to existence.
-- **B:** Correct — Actuality posits an object without adding another determination to its concept.
-- **C:** Incorrect — This is Hume's account of causal belief, not Kant's objection to the ontological proof.
-- **D:** Incorrect — Kant respects the force of observed order but denies that it establishes an infinite creator.
+**MCQ 27: C**
 
-**MCQ 27.** Why do the cosmological and design arguments fail to establish Kant's ens realissimum?
+Why do the cosmological and design arguments fail to establish Kant's ens realissimum?
 
 A. Each relies on revelation to identify its inferred cause as a personal creator.
 B. Each denies the contingency from which its reasoning initially proceeds.
 C. Each needs the ontological identification of a necessary being with God.
 D. Each treats observed natural order as an analytic truth about existence.
 
-**Answer: C**
+- **A — Incorrect:** Kant evaluates them as arguments of speculative reason rather than appeals to revelation.
+- **B — Incorrect:** The cosmological proof begins from contingency, while the design proof begins from experienced order.
+- **C — Correct:** Moving from an inferred ground or architect to God covertly reuses the ontological proof.
+- **D — Incorrect:** Their defect concerns illicit inference beyond experience, not classification as analytic judgments.
 
-- **A:** Incorrect — Kant evaluates them as arguments of speculative reason rather than appeals to revelation.
-- **B:** Incorrect — The cosmological proof begins from contingency, while the design proof begins from experienced order.
-- **C:** Correct — Moving from an inferred ground or architect to God covertly reuses the ontological proof.
-- **D:** Incorrect — Their defect concerns illicit inference beyond experience, not classification as analytic judgments.
+**MCQ 28: D**
 
-**MCQ 28.** The design argument, even at its strongest, establishes at most:
+The design argument, even at its strongest, establishes at most:
 
 A. that existence is a perfection included within every completely determinate concept
 B. the ens realissimum established solely through analysis of the concept of necessity
 C. the immortality of a simple soul inferred from the unity of self-consciousness
 D. a powerful architect arranging material already given within the natural world
 
-**Answer: D**
-
-- **A:** Incorrect — Kant denies that existence adds a perfection or determination to a concept.
-- **B:** Incorrect — Identifying an architect with the ens realissimum requires the disputed ontological inference.
-- **C:** Incorrect — Personal survival concerns rational psychology rather than inference from natural order.
-- **D:** Correct — Experienced order may suggest an architect but cannot establish creation from nothing or infinite perfection.
+- **A — Incorrect:** Kant denies that existence adds a perfection or determination to a concept.
+- **B — Incorrect:** Identifying an architect with the ens realissimum requires the disputed ontological inference.
+- **C — Incorrect:** Personal survival concerns rational psychology rather than inference from natural order.
+- **D — Correct:** Experienced order may suggest an architect but cannot establish creation from nothing or infinite perfection.
 
 **Mains drill:** Why does Kant's critique of God-proofs end in agnosticism rather than atheism? (10 marks)
 
@@ -2379,7 +2379,7 @@ Progress: 11 / 12  |  Stage: Advanced  |  Subtopic: Kant and Hegel — "Understa
 ### A boundary for Kant, a stage to be overcome for Hegel
 
 ```text
-   1818: "UNDERSTANDING MAKES NATURE" (Kant's transcendental claim)
+   CPR B163 (1781/1787): understanding legislates laws to nature (Kant's transcendental claim)
    the understanding legislates the LAWFUL FORM of experienced
    nature through the categories — it does not manufacture matter
                               │
@@ -2571,33 +2571,33 @@ a bare agree/disagree.
 
 ### Practice — testing the pressure point of Lesson 11
 
-**MCQ 29.** 'Understanding makes Nature' means that understanding:
+**MCQ 29: A**
+
+'Understanding makes Nature' means that understanding:
 
 A. legislates the a priori lawful form through which appearances constitute objective nature
 B. creates sensible matter and particular objects encountered within phenomenal nature
 C. discovers laws of noumenal objects through direct non-sensible intellectual intuition
 D. derives universal natural laws from conjunctions repeatedly observed in experience
 
-**Answer: A**
+- **A — Correct:** Categories and principles legislate the universal form through which appearances constitute objective nature.
+- **B — Incorrect:** Understanding orders given sensible matter; it does not manufacture particular phenomenal objects.
+- **C — Incorrect:** Human understanding lacks direct intellectual intuition and therefore cannot discover noumenal laws.
+- **D — Incorrect:** Repeated conjunction can support empirical generalisation but not the a priori form of natural law.
 
-- **A:** Correct — Categories and principles legislate the universal form through which appearances constitute objective nature.
-- **B:** Incorrect — Understanding orders given sensible matter; it does not manufacture particular phenomenal objects.
-- **C:** Incorrect — Human understanding lacks direct intellectual intuition and therefore cannot discover noumenal laws.
-- **D:** Incorrect — Repeated conjunction can support empirical generalisation but not the a priori form of natural law.
+**MCQ 30: B**
 
-**MCQ 30.** Which statement best characterises Hegel's relation to Kantian idealism?
+Which statement best characterises Hegel's relation to Kantian idealism?
 
 A. Hegel retains Kant's noumenal boundary while merely extending the reach of empirical science.
 B. Hegel extends thought's constitutive role but rejects the permanent noumenal limit.
 C. Hegel replaces Kant's categories with empirical habits produced by repeated association.
 D. Hegel converts all three Kantian practical postulates into objects of theoretical demonstration.
 
-**Answer: B**
-
-- **A:** Incorrect — Hegel contests the permanent division between appearance and reality rather than merely expanding science.
-- **B:** Correct — He radicalises Kant's active conception of thought while refusing an unknowable permanent remainder.
-- **C:** Incorrect — Hegel's speculative logic cannot be reduced to an empiricist psychology of association.
-- **D:** Incorrect — His relation to Kant is not explained by converting moral postulates into speculative demonstrations.
+- **A — Incorrect:** Hegel contests the permanent division between appearance and reality rather than merely expanding science.
+- **B — Correct:** He radicalises Kant's active conception of thought while refusing an unknowable permanent remainder.
+- **C — Incorrect:** Hegel's speculative logic cannot be reduced to an empiricist psychology of association.
+- **D — Incorrect:** His relation to Kant is not explained by converting moral postulates into speculative demonstrations.
 
 **Mains drill:** Is Hegel the culmination of Kantian idealism? (10 marks)
 
@@ -2696,33 +2696,33 @@ Kant's system is strongest where it converts sceptical questions into questions 
 
 ### Practice — judging the completed system
 
-**MCQ 31.** Which practical postulate answers the moral agent's need to regard herself as capable of acting from reason?
+**MCQ 31: C**
+
+Which practical postulate answers the moral agent's need to regard herself as capable of acting from reason?
 
 A. immortality as a practical postulate
 B. God as a practical postulate
 C. freedom as a practical postulate
 D. the moral law as a categorical command
 
-**Answer: C**
+- **A — Incorrect:** Immortality concerns indefinite progress toward complete conformity with duty.
+- **B — Incorrect:** God concerns the possibility of harmony between virtue and proportionate happiness.
+- **C — Correct:** Moral obligation presupposes that the agent can act independently of merely natural inclination.
+- **D — Incorrect:** The moral law supplies the obligation whose practical possibility requires freedom; it is not that postulate.
 
-- **A:** Incorrect — Immortality concerns indefinite progress toward complete conformity with duty.
-- **B:** Incorrect — God concerns the possibility of harmony between virtue and proportionate happiness.
-- **C:** Correct — Moral obligation presupposes that the agent can act independently of merely natural inclination.
-- **D:** Incorrect — The moral law supplies the obligation whose practical possibility requires freedom; it is not that postulate.
+**MCQ 32: D**
 
-**MCQ 32.** Why does practical reason postulate immortality?
+Why does practical reason postulate immortality?
 
 A. Because rational psychology proves a simple soul whose enduring identity guarantees immortality.
 B. Because autonomous agency requires exemption from every phenomenal causal sequence.
 C. Because speculative reason demonstrates the soul's endless existence beyond experience.
 D. Because moral perfection requires indefinitely extended progress toward complete holiness.
 
-**Answer: D**
-
-- **A:** Incorrect — The Paralogisms block the move from formal unity to a simple and enduring soul.
-- **B:** Incorrect — Freedom concerns rational agency; immortality concerns the temporal horizon of moral development.
-- **C:** Incorrect — A practical postulate does not provide theoretical cognition of supersensible existence.
-- **D:** Correct — Finite agents require an unending horizon for progress toward full conformity with the moral law.
+- **A — Incorrect:** The Paralogisms block the move from formal unity to a simple and enduring soul.
+- **B — Incorrect:** Freedom concerns rational agency; immortality concerns the temporal horizon of moral development.
+- **C — Incorrect:** A practical postulate does not provide theoretical cognition of supersensible existence.
+- **D — Correct:** Finite agents require an unending horizon for progress toward full conformity with the moral law.
 
 **Mains drill:** How do freedom, immortality and God fit a philosophy that denies supersensible knowledge? (10 marks)
 
@@ -2766,229 +2766,229 @@ The 2018–2025 ledger contains ten questions directly focused on Kant; the veri
 
 These questions test connections across lessons rather than repeating local recall.
 
-**MCQ 33.** Which sequence correctly orders Kant's three cognitive powers in the first Critique?
+**MCQ 33: A**
+
+Which sequence correctly orders Kant's three cognitive powers in the first Critique?
 
 A. Sensibility receives intuitions; understanding judges; reason seeks the unconditioned.
 B. Sensibility forms concepts; understanding receives impressions; reason orders sensations.
 C. Sensibility supplies categories; understanding constructs space; reason observes noumena.
 D. Sensibility postulates freedom; understanding intuits God; reason produces appearances.
 
-**Answer: A**
+- **A — Correct:** The Aesthetic concerns receptivity, the Analytic conceptual judgment, and the Dialectic reason's search for totality.
+- **B — Incorrect:** It reverses sensibility and understanding while reducing reason to empirical ordering.
+- **C — Incorrect:** Categories belong to understanding, space to sensibility, and noumena are not observable objects.
+- **D — Incorrect:** Practical postulation, intellectual intuition and sensible appearance are assigned to the wrong faculties.
 
-- **A:** Correct — The Aesthetic concerns receptivity, the Analytic conceptual judgment, and the Dialectic reason's search for totality.
-- **B:** Incorrect — It reverses sensibility and understanding while reducing reason to empirical ordering.
-- **C:** Incorrect — Categories belong to understanding, space to sensibility, and noumena are not observable objects.
-- **D:** Incorrect — Practical postulation, intellectual intuition and sensible appearance are assigned to the wrong faculties.
+**MCQ 34: B**
 
-**MCQ 34.** Which pair is correctly matched?
+Which pair is correctly matched?
 
 A. Space — pure form of inner sense ordering representations in succession
 B. Time — pure form of inner sense that applies to every represented object
 C. Causality — regulative Idea directing inquiry toward systematic unity
 D. God — modal category determining the necessity of experienced objects
 
-**Answer: B**
+- **A — Incorrect:** Time orders inner representations successively; space is the form of outer intuition.
+- **B — Correct:** Every representation occurs under inner sense, including representations of outer objects.
+- **C — Incorrect:** Causality is a constitutive category of Relation for events within possible experience.
+- **D — Incorrect:** God is the Ideal of Pure Reason, not a modal category applied to appearances.
 
-- **A:** Incorrect — Time orders inner representations successively; space is the form of outer intuition.
-- **B:** Correct — Every representation occurs under inner sense, including representations of outer objects.
-- **C:** Incorrect — Causality is a constitutive category of Relation for events within possible experience.
-- **D:** Incorrect — God is the Ideal of Pure Reason, not a modal category applied to appearances.
+**MCQ 35: C**
 
-**MCQ 35.** Which contrast between the A- and B-Deductions is most accurate?
+Which contrast between the A- and B-Deductions is most accurate?
 
 A. The A-Deduction derives space from sensation; the B-Deduction derives time from judgment.
 B. The A-Deduction proves outer objects; the B-Deduction proves an immortal thinking subject.
 C. The A-Deduction stresses imaginative synthesis; the B-Deduction centres apperception.
 D. The A-Deduction rejects categories; the B-Deduction restores them as empirical habits.
 
-**Answer: C**
+- **A — Incorrect:** Both editions presuppose the Aesthetic; their contrast concerns the justification of categorical synthesis.
+- **B — Incorrect:** Neither Deduction proves external existence or converts apperception into a substantial soul.
+- **C — Correct:** The A-edition foregrounds synthesis and imagination, while the B-edition foregrounds apperception.
+- **D — Incorrect:** Both editions defend a priori categories rather than deriving them from empirical habit.
 
-- **A:** Incorrect — Both editions presuppose the Aesthetic; their contrast concerns the justification of categorical synthesis.
-- **B:** Incorrect — Neither Deduction proves external existence or converts apperception into a substantial soul.
-- **C:** Correct — The A-edition foregrounds synthesis and imagination, while the B-edition foregrounds apperception.
-- **D:** Incorrect — Both editions defend a priori categories rather than deriving them from empirical habit.
+**MCQ 36: D**
 
-**MCQ 36.** What does the principle of Anticipations of Perception establish?
+What does the principle of Anticipations of Perception establish?
 
 A. Every appearance has an extensive magnitude assembled through successive addition of homogeneous units.
 B. Every event occupies a determinate position fixed by a necessary causal rule within objective time.
 C. Every coexisting substance stands in reciprocal interaction with every other substance in one world.
 D. Every sensation has an intensive magnitude admitting continuous degrees between reality and negation.
 
-**Answer: D**
+- **A — Incorrect:** This describes how a whole is constructed through the successive addition of homogeneous parts.
+- **B — Incorrect:** This concerns the rule that fixes an event's objective position in a temporal sequence.
+- **C — Incorrect:** This concerns the mutual determination required for objects to be known as simultaneous.
+- **D — Correct:** Sensation can vary continuously in degree, so phenomenal reality possesses intensive magnitude.
 
-- **A:** Incorrect — This describes how a whole is constructed through the successive addition of homogeneous parts.
-- **B:** Incorrect — This concerns the rule that fixes an event's objective position in a temporal sequence.
-- **C:** Incorrect — This concerns the mutual determination required for objects to be known as simultaneous.
-- **D:** Correct — Sensation can vary continuously in degree, so phenomenal reality possesses intensive magnitude.
+**MCQ 37: A**
 
-**MCQ 37.** Empirical realism and transcendental idealism together mean that:
+Empirical realism and transcendental idealism together mean that:
 
 A. Appearances are public objects in experience although their form depends on cognitive conditions.
 B. Appearances are private ideas coordinated through inference to a hidden external cause.
 C. Things in themselves possess spatial and temporal properties independently of finite cognition.
 D. Things in themselves are unreal because appearances exhaust every possible sense of existence.
 
-**Answer: A**
+- **A — Correct:** Kant combines objective validity within experience with ideality relative to things as they are independently.
+- **B — Incorrect:** Kant treats appearances as public objects rather than inferred causes of private ideas.
+- **C — Incorrect:** Transcendental idealism denies that space and time are known properties of things in themselves.
+- **D — Incorrect:** The distinction limits cognition; it does not infer that reality independent of cognition is nonexistent.
 
-- **A:** Correct — Kant combines objective validity within experience with ideality relative to things as they are independently.
-- **B:** Incorrect — Kant treats appearances as public objects rather than inferred causes of private ideas.
-- **C:** Incorrect — Transcendental idealism denies that space and time are known properties of things in themselves.
-- **D:** Incorrect — The distinction limits cognition; it does not infer that reality independent of cognition is nonexistent.
+**MCQ 38: B**
 
-**MCQ 38.** Jacobi's affection problem asks how Kant can:
+Jacobi's affection problem asks how Kant can:
 
 A. derive a complete category table from the logical forms used in judgments
 B. describe receptivity as affection without extending causality beyond appearances
 C. classify judgments through both logical content and their source of justification
 D. defend mathematical physics while restricting categories to possible experience
 
-**Answer: B**
+- **A — Incorrect:** This is the category-inventory problem raised against the metaphysical deduction.
+- **B — Correct:** Receptivity seems to require something affecting us, yet causality has legitimate use only among appearances.
+- **C — Incorrect:** The two-axis classification of judgments does not invoke a noumenal source of sensation.
+- **D — Incorrect:** Restricting categories secures empirical science and does not itself generate the affection difficulty.
 
-- **A:** Incorrect — This is the category-inventory problem raised against the metaphysical deduction.
-- **B:** Correct — Receptivity seems to require something affecting us, yet causality has legitimate use only among appearances.
-- **C:** Incorrect — The two-axis classification of judgments does not invoke a noumenal source of sensation.
-- **D:** Incorrect — Restricting categories secures empirical science and does not itself generate the affection difficulty.
+**MCQ 39: C**
 
-**MCQ 39.** The Ideal of Pure Reason is most closely associated with:
+The Ideal of Pure Reason is most closely associated with:
 
 A. the permanent substratum required for objective temporal alteration
 B. the formal self-consciousness accompanying every unified representation
-C. the ens realissimum containing the complete determination of possible predicates
+C. the ens realissimum with complete determination of possible predicates
 D. the pure temporal form through which all representations are internally ordered
 
-**Answer: C**
+- **A — Incorrect:** Permanent substance is the relational schema and principle used by understanding within experience.
+- **B — Incorrect:** The 'I think' is transcendental apperception, not reason's representation of complete reality.
+- **C — Correct:** Rational theology transforms the demand for complete determination into the idea of the most-real being.
+- **D — Incorrect:** Time is a pure form of sensibility rather than the theological Ideal of reason.
 
-- **A:** Incorrect — Permanent substance is the relational schema and principle used by understanding within experience.
-- **B:** Incorrect — The 'I think' is transcendental apperception, not reason's representation of complete reality.
-- **C:** Correct — Rational theology transforms the demand for complete determination into the idea of the most-real being.
-- **D:** Incorrect — Time is a pure form of sensibility rather than the theological Ideal of reason.
+**MCQ 40: D**
 
-**MCQ 40.** Why does critique not permanently eliminate transcendental illusion?
+Why does critique not permanently eliminate transcendental illusion?
 
 A. It arises from sensory error whenever perception or memory becomes unreliable.
 B. It arises from invalid syllogisms that vanish once their form is corrected.
 C. It arises from inherited doctrines that later empirical science can replace.
 D. It arises naturally from reason's demand for the unconditioned despite critique.
 
-**Answer: D**
+- **A — Incorrect:** The illusion is rooted in reason rather than contingent failures of perception or memory.
+- **B — Incorrect:** Formal correction cannot extinguish reason's recurring drive toward totality.
+- **C — Incorrect:** Scientific progress cannot remove the structural demand for unconditioned explanation.
+- **D — Correct:** Critique restrains assent, but reason's natural demand for the unconditioned persists.
 
-- **A:** Incorrect — The illusion is rooted in reason rather than contingent failures of perception or memory.
-- **B:** Incorrect — Formal correction cannot extinguish reason's recurring drive toward totality.
-- **C:** Incorrect — Scientific progress cannot remove the structural demand for unconditioned explanation.
-- **D:** Correct — Critique restrains assent, but reason's natural demand for the unconditioned persists.
+**MCQ 41: A**
 
-**MCQ 41.** Which criticism targets the specific inventory rather than the general strategy of the Deduction?
+Which criticism targets the specific inventory rather than the general strategy of the Deduction?
 
 A. The judgment table may not uniquely justify exactly twelve categories of understanding.
 B. Unified experience may require rules without requiring any self-conscious subject.
 C. Spatial form may characterise things independently of any finite mode of cognition.
 D. Causal expectation may result from customary association rather than objective temporal order.
 
-**Answer: A**
+- **A — Correct:** It questions the derivation and completeness of Kant's list while leaving the need for synthesising rules open.
+- **B — Incorrect:** This attacks the apperception argument rather than the number and derivation of categories.
+- **C — Incorrect:** This challenges spatial ideality in the Aesthetic rather than the category inventory.
+- **D — Incorrect:** This is Hume's rival account of causal expectation, not a criticism of the table's completeness.
 
-- **A:** Correct — It questions the derivation and completeness of Kant's list while leaving the need for synthesising rules open.
-- **B:** Incorrect — This attacks the apperception argument rather than the number and derivation of categories.
-- **C:** Incorrect — This challenges spatial ideality in the Aesthetic rather than the category inventory.
-- **D:** Incorrect — This is Hume's rival account of causal expectation, not a criticism of the table's completeness.
+**MCQ 42: B**
 
-**MCQ 42.** How does productive imagination differ from reproductive imagination in Kant's account?
+How does productive imagination differ from reproductive imagination in Kant's account?
 
 A. Productive imagination recalls perceptions; reproductive imagination supplies a priori categories.
 B. Productive imagination synthesises a priori; reproductive imagination associates by empirical laws.
 C. Productive imagination intuits noumena; reproductive imagination constructs appearances.
 D. Productive imagination serves reason; reproductive imagination functions as sensibility.
 
-**Answer: B**
+- **A — Incorrect:** Recall is reproductive, while neither form of imagination supplies the categories.
+- **B — Correct:** Productive synthesis helps constitute experience; reproduction follows learned associative regularities.
+- **C — Incorrect:** Neither form provides intellectual intuition of noumena.
+- **D — Incorrect:** Productive imagination mediates synthesis, while reproductive imagination is empirically associative.
 
-- **A:** Incorrect — Recall is reproductive, while neither form of imagination supplies the categories.
-- **B:** Correct — Productive synthesis helps constitute experience; reproduction follows learned associative regularities.
-- **C:** Incorrect — Neither form provides intellectual intuition of noumena.
-- **D:** Incorrect — Productive imagination mediates synthesis, while reproductive imagination is empirically associative.
+**MCQ 43: C**
 
-**MCQ 43.** How do modal reformulations chiefly try to answer Kant's objection to the ontological argument?
+How do modal reformulations chiefly try to answer Kant's objection to the ontological argument?
 
 A. They infer divine actuality from the observed purposiveness of finite nature.
 B. They retain ordinary existence as a perfection added to an otherwise complete concept.
 C. They formulate necessary existence modally rather than as an ordinary predicate.
 D. They replace logical possibility with direct empirical verification of a perfect being.
 
-**Answer: C**
+- **A — Incorrect:** Inference from observed purposiveness is a design argument, not modal ontological reasoning.
+- **B — Incorrect:** This retains the classical premise directly targeted by Kant's predicate objection.
+- **C — Correct:** Modal versions shift the dispute to possible and necessary existence, though the modal premises remain contested.
+- **D — Incorrect:** An a priori modal argument does not depend on observing a perfect being.
 
-- **A:** Incorrect — Inference from observed purposiveness is a design argument, not modal ontological reasoning.
-- **B:** Incorrect — This retains the classical premise directly targeted by Kant's predicate objection.
-- **C:** Correct — Modal versions shift the dispute to possible and necessary existence, though the modal premises remain contested.
-- **D:** Incorrect — An a priori modal argument does not depend on observing a perfect being.
+**MCQ 44: D**
 
-**MCQ 44.** Which statement best captures Kant's view of metaphysics after critique?
+Which statement best captures Kant's view of metaphysics after critique?
 
 A. Metaphysics inventories supersensible substances through intellectual intuition.
 B. Metaphysics becomes empirical psychology explaining how beliefs associate through experience.
 C. Metaphysics becomes natural science extending causal explanation beyond experience.
 D. Metaphysics critiques reason's a priori powers instead of claiming knowledge of noumena.
 
-**Answer: D**
+- **A — Incorrect:** Human cognition lacks intellectual intuition of supersensible substances.
+- **B — Incorrect:** Transcendental inquiry concerns validity, not the psychology of belief association.
+- **C — Incorrect:** Causal explanation cannot legitimately extend beyond possible experience.
+- **D — Correct:** Critical metaphysics examines reason's powers and limits without claiming noumenal knowledge.
 
-- **A:** Incorrect — Human cognition lacks intellectual intuition of supersensible substances.
-- **B:** Incorrect — Transcendental inquiry concerns validity, not the psychology of belief association.
-- **C:** Incorrect — Causal explanation cannot legitimately extend beyond possible experience.
-- **D:** Correct — Critical metaphysics examines reason's powers and limits without claiming noumenal knowledge.
+**MCQ 45: A**
 
-**MCQ 45.** Against Hume's bundle theory, what must hold for successive perceptions to belong to one experience?
+Against Hume's bundle theory, what must hold for successive perceptions to belong to one experience?
 
 A. Their synthesis must obey a prior unity that makes one ordered experiential series possible.
 B. Their resemblance must reveal a simple substance persisting behind every perception.
 C. Their repetition must produce a memory-image strong enough to constitute personal identity.
 D. Their succession must disclose the noumenal self through direct intellectual intuition.
 
-**Answer: A**
+- **A — Correct:** A merely successive bundle becomes one experience only through an a priori act of synthesis and unity.
+- **B — Incorrect:** Kant rejects the inference from experiential continuity to a simple persisting substance.
+- **C — Incorrect:** Repetition and memory association presuppose rather than establish one ordered experiential series.
+- **D — Incorrect:** Temporal succession is given in inner sense and does not reveal a noumenal self.
 
-- **A:** Correct — A merely successive bundle becomes one experience only through an a priori act of synthesis and unity.
-- **B:** Incorrect — Kant rejects the inference from experiential continuity to a simple persisting substance.
-- **C:** Incorrect — Repetition and memory association presuppose rather than establish one ordered experiential series.
-- **D:** Incorrect — Temporal succession is given in inner sense and does not reveal a noumenal self.
+**MCQ 46: B**
 
-**MCQ 46.** The most balanced final assessment of transcendental idealism is that it:
+The most balanced final assessment of transcendental idealism is that it:
 
 A. Secures empirical objectivity by reducing appearances to private ideas within consciousness.
 B. Secures objective experience while leaving affection and noumenal limits contested.
 C. Secures knowledge of things in themselves by applying categories beyond sensible intuition.
 D. Secures immunity from scepticism by proving outer objects and their noumenal causes.
 
-**Answer: B**
+- **A — Incorrect:** Kant treats appearances as public objects rather than private ideas within one consciousness.
+- **B — Correct:** The view secures lawful experience while retaining difficulties at the noumenal boundary.
+- **C — Incorrect:** Categories yield cognition only when sensible intuition supplies a corresponding manifold.
+- **D — Incorrect:** Kant neither defeats every sceptical challenge nor proves noumenal causes of outer objects.
 
-- **A:** Incorrect — Kant treats appearances as public objects rather than private ideas within one consciousness.
-- **B:** Correct — The view secures lawful experience while retaining difficulties at the noumenal boundary.
-- **C:** Incorrect — Categories yield cognition only when sensible intuition supplies a corresponding manifold.
-- **D:** Incorrect — Kant neither defeats every sceptical challenge nor proves noumenal causes of outer objects.
+**MCQ 47: C**
 
-**MCQ 47.** Which principle is correctly matched with its function?
+Which principle is correctly matched with its function?
 
 A. Axioms of Intuition — determine the intensive degree of sensation in every appearance.
 B. Anticipations of Perception — construct extensive magnitudes through successive addition.
 C. Postulates of Empirical Thought — relate possibility, actuality and necessity to experience.
 D. Analogies of Experience — construct magnitudes through successive homogeneous addition.
 
-**Answer: C**
+- **A — Incorrect:** Axioms concern extensive construction rather than the intensive degree of sensation.
+- **B — Incorrect:** Anticipations concern sensible degree rather than construction through successive addition.
+- **C — Correct:** The Postulates define modal status through agreement with the formal and material conditions of experience.
+- **D — Incorrect:** Analogies determine objective temporal relations rather than constructing magnitudes.
 
-- **A:** Incorrect — Axioms concern extensive construction rather than the intensive degree of sensation.
-- **B:** Incorrect — Anticipations concern sensible degree rather than construction through successive addition.
-- **C:** Correct — The Postulates define modal status through agreement with the formal and material conditions of experience.
-- **D:** Incorrect — Analogies determine objective temporal relations rather than constructing magnitudes.
+**MCQ 48: D**
 
-**MCQ 48.** What confusion does Kant diagnose in the Amphiboly of Concepts of Reflection?
+What confusion does Kant diagnose in the Amphiboly of Concepts of Reflection?
 
 A. Treating logical judgment-forms as empirical associations learned through repetition.
 B. Treating pure intuitions as categories derived from discursive understanding.
 C. Treating regulative Ideas as schemata directly applicable to appearances.
 D. Treating conceptual relations as object-relations while ignoring sensible conditions.
 
-**Answer: D**
-
-- **A:** Incorrect — Amphiboly targets rationalist reflection rather than empiricist association.
-- **B:** Incorrect — Misclassifying pure intuitions is not the specific confusion among reflected concepts.
-- **C:** Incorrect — Misusing Ideas is a dialectical error rather than the Amphiboly's reflective error.
-- **D:** Correct — Leibnizian reflection transfers conceptual relations to objects while abstracting from sensibility.
+- **A — Incorrect:** Amphiboly targets rationalist reflection rather than empiricist association.
+- **B — Incorrect:** Misclassifying pure intuitions is not the specific confusion among reflected concepts.
+- **C — Incorrect:** Misusing Ideas is a dialectical error rather than the Amphiboly's reflective error.
+- **D — Correct:** Leibnizian reflection transfers conceptual relations to objects while abstracting from sensibility.
 
 ---
 
@@ -3270,3 +3270,19 @@ God may still be a practical postulate, never a theoretical conclusion
 - **2026 Q2(b), 15 marks** is a comparison centred on Hume; Kant supplies the response but it is not counted as a second direct Kant question.
 - No direct Kant question appears in the verified 2025 paper.
 - PYQs above contain linkage, directive, demand and approach only; no PYQ model answer appears in this file.
+
+## SOURCE-MANIFEST GATE
+
+This manifest honestly records, without overclaim, which source categories were used in preparing this live
+session. Status is one of `checked`, `not available` or `not relevant`.
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| Canonical markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Kant.md` supplies the doctrine, distinctions, A/B references, objections, comparisons and answer demands used across the twelve lessons |
+| Final learner package | not relevant | No final learner package is part of this live-session scope, so none was consulted |
+| Layered/complete session | checked | `upsc-ai-kit\knowledge\Philosophy\Western-Philosophy\learning-sessions\Kant\Kant_Layered-Complete-Learning-Session_2026-08-18.md` cross-checked for basic and advanced completeness |
+| Solved workbook | not relevant | No solved-workbook answers are reproduced here; the verified PYQs appear only as links and concise approaches |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` cross-checked for advanced objections, replies and Kant–Hegel comparison refinements |
+| OCR books | checked | Masih ch. 8, Warburton's *Critique of Pure Reason* chapter and Kenny Vol. IV in `books\philosphy_books\` used as OCR-searchable local-book cross-checks for exposition and terminology |
+| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` and `_PYQ-Western-Philosophy-2026.md`, with the 2026 paper's stated OCR verification, supply the eleven direct links and five comparison linkages |
+| Official live sources | checked | Live searches dated 24 September 2026; only the June 2026 self-consciousness article, the Isaac Newton Institute causal-inference programme and the Kant–Hegel podcast were sufficiently direct to mention, all as optional contemporary anchors |
