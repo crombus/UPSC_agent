@@ -14,7 +14,7 @@ duties and accountability**. Other doctrines enter only where they execute that 
 | **Political ideologies** | Liberal, idealist, anarchist, Marxist, communitarian and welfare-state positions as relation-models | Full anarchism, Marxism and socialism remain with [Political Ideologies](Political-Ideologies.md) |
 | **Forms of government** | Constitutional-democratic checks, minority protection and dissent | Monarchy, theocracy and democracy as forms remain with [Forms of Government](Forms-of-Government.md) |
 | **Social and political ideals** | Negative/positive freedom, harm and common good as prerequisites | The full equality–justice–liberty theories remain with [Social and Political Ideals](Social-Political-Ideals.md) |
-| **Multiculturalism and gender** | The embedded self, minority/dissent safeguard and the public/private boundary | Recognition, group rights and gendered private power remain with their later owners |
+| **Multiculturalism and gender** | The embedded self, individual–group rights reconciliation, minority/dissent safeguard and the public/private boundary | Full recognition/multiculturalism theory and gendered private power remain with their later owners |
 | **Crime and punishment** | Sanction only as one accountability/obedience mechanism | Theories and applications of punishment remain with [Crime and Punishment](Crime-and-Punishment.md) |
 
 ## 0. ONE-SCREEN MAP
@@ -78,6 +78,32 @@ Gandhian and pluralist taxonomy.
 - **Objection:** rights-talk is vague and inflated; modern discourse calls every preference a right. ❓
 - **Reply:** ✅ conceptual discipline is supplied by theories such as Hohfeld's analysis, which separates claim, liberty, power and immunity.
 
+#### Laski's definition and the three conditions of a recognised right
+
+**Definition ✅ — philosophical doctrine:** Harold J. Laski defines rights as “those conditions
+of social life without which no man can seek, in general, to be himself at his best.”
+Rights concern the development of personality, not merely whatever an incumbent government
+chooses to concede. They supply a moral standard for judging the state; their priority is
+justificatory, not the claim that every legal remedy existed before government.
+
+| Condition ✅ | What a claim must establish | Why it matters |
+|---|---|---|
+| **Common interest** | Its justification reaches beyond private appetite and is compatible with like claims by others | Desire alone does not establish a right |
+| **Social recognition** | The community recognises the claim as conducive to shared life and human development | Rights are socially situated, not isolated permissions |
+| **Political recognition** | The state translates recognised claims into law and supplies protection against violation | Legal specification and remedy make protection effective |
+
+**Distinction ⚠️:** the third condition explains an **effective legal right**, not the creation
+of all moral rights. Otherwise an unrecognised claim against slavery could never criticise
+existing law. Social recognition also needs criticism: a prejudiced majority can refuse a
+morally justified claim. Development, equal standing and accountability must therefore test
+what the community and state recognise.
+
+**Source control ✅:** the definition is reproduced through O. P. Gauba, *An Introduction to
+Political Theory*, local PDF p. 349; its moral priority and rights–duties argument continue on
+PDF pp. 350–351. The three-condition formulation is separately controlled by *Socio-Political
+Philosophy*, local compiled notes PDF p. 68. It is not asserted as a page-specific quotation
+from Laski's original *A Grammar of Politics*.
+
 ### 1.2 Natural rights: Locke and the liberal starting point
 | Element | Locke's position | UPSC note |
 |---|---|---|
@@ -125,6 +151,40 @@ Gandhian and pluralist taxonomy.
 **Objection → Reply:**
 - **Objection:** morality varies, so moral rights are unstable. ❓
 - **Reply:** ⚠️ Variation does not cancel moral reasoning; rather, it forces argument about dignity, suffering, reciprocity and agency.
+
+#### Personality/idealist, historical and social-welfare theories
+
+These concern the **ground of a right**; they are not merely lists of rights or synonyms for
+the will/interest theories in §1.6.
+
+| Theory ✅ | Argument and presupposition | Strength | Objection → qualified reply ⚠️ |
+|---|---|---|---|
+| **Personality / idealist** — T. H. Green | Rational self-development needs outward social and material conditions; rights secure those conditions within a common good | Explains why education and enabling institutions matter to agency, not just non-interference | An official may impose a single “best self” → enable capacities while preserving conscience and contestation; do not infer unconditional allegiance to any actual state |
+| **Historical** | Recognised rights develop through usage, custom and institutional experience across generations | Explains historical variation and gradual growth; the state cannot simply manufacture a social order at will | Inherited customs can preserve slavery or exclusion → history explains recognition but is not its moral justification; reform needs an independent justice criterion |
+| **Social-welfare** | Rights protect interests conducive to common welfare; utilitarian versions test socially beneficial consequences | Connects rights to shared well-being rather than an unlimited private claim | An elite may define welfare at minorities' expense → require the affected people's voice and equal dignity; aggregate advantage alone cannot settle every rights conflict |
+
+**Argument ⚠️:** personality theory asks what development requires; historical theory asks how
+claims became established; social-welfare theory asks what their exercise contributes to shared
+life. These questions can illuminate one another but are not interchangeable. A customary
+claim may inhibit development, while a welfare policy may become paternalistic.
+
+**Source control ✅:** *Socio-Political Philosophy*, local PDF pp. 73–76, supplies the
+personality/idealist, historical and social-welfare treatments; Gauba, local PDF pp. 346–348,
+controls the historical/social-welfare criticisms and the transition to Laski's synthesis.
+The argument and qualified replies above are analytical reconstructions, not book quotations.
+
+#### Negative and positive rights
+
+| Type ✅ | Immediate demand | Illustration ⚠️ | Limit ⚠️ |
+|---|---|---|---|
+| **Negative right** | Restraint from interference | Freedom from arbitrary censorship or coercion | Even non-interference needs courts, procedures and protection from private intimidation |
+| **Positive right** | Provision, protection or enabling action | Education or social security needed for effective agency | Specify responsible institutions, fair priorities and resources; provision must not become tutelage |
+
+**Trap ⚠️:** negative rights do not mean **no state action**, and positive rights do not mean
+**unlimited state control**. The same right may entail both restraint and enabling duties.
+**Source control ✅:** *Socio-Political Philosophy*, local PDF pp. 68–70 and 76–78, on
+liberties/claims and social-economic rights; Gauba, local PDF pp. 352–353, on Laski's enabling
+rights. The examples and negative/positive comparison are analytical applications.
 
 ### 1.5 Hohfeld's four incidents
 | Hohfeldian incident | Correlative | Opposite | Why it matters |
@@ -185,6 +245,79 @@ Gandhian and pluralist taxonomy.
 - **Objection:** universal human rights erase civilisational diversity. ❓
 - **Reply:** ⚠️ A balanced answer says universality need not mean cultural homogenisation. The stronger claim is that human dignity and protection from domination are common aspirations, while moral languages and institutional forms may differ.
 
+#### UDHR, indivisibility and generations of rights
+
+**Institutional fact ✅:** the **Universal Declaration of Human Rights (UDHR), 1948**, has a
+preamble and **30 articles**. It brings civil-political and economic-social-cultural protections
+into one account of inherent dignity and equal rights, linking freedom from fear with freedom
+from want. Article 29 recognises duties to the community in which free and full development of
+personality is possible; duties do not license destruction of others' rights.
+
+| Learning classification ✅ | Main concern | Typical content | Individual/collective dimension |
+|---|---|---|---|
+| **First generation** | Civil and political liberty | Life, conscience, expression, fair trial, political participation | Protection of persons against arbitrary power |
+| **Second generation** | Economic, social and cultural conditions | Work, education, health, social security, cultural participation | Institutions and provision make agency effective |
+| **Third generation** | Solidarity and collective goods | Development, self-determination, shared environmental protection | Peoples and communities may need joint claims and collective action |
+
+**Doctrinal principle ✅:** rights are **interrelated, interdependent and indivisible**.
+**Inference ⚠️:** generations are not a ranking and later rights do not replace earlier ones.
+Speech may be unusable without education; welfare without criticism and review may become
+domination. This classification does not imply that every listed claim has identical legal
+status or enforcement.
+
+**Source control ✅:** Gauba, local PDF pp. 358–360, controls the UDHR architecture, article
+count and community duties; *Socio-Political Philosophy*, local PDF pp. 85–88, controls
+indivisibility, respect/protect/fulfil duties and the three-generation classification.
+
+#### Unalienable rights are not unlimited permissions — 2016 Q1(d)
+
+**Distinction ✅/⚠️:** **unalienable / inalienable** concerns the person's continuing moral
+standing and the inability validly to surrender that basic status or have it extinguished by
+another's arbitrary will. **Absolute** concerns whether a right's exercise admits any limit.
+These are different questions. A lawful restriction on movement does not remove a person's
+dignity, due process or protection against degrading treatment.
+
+**Argument ⚠️:** natural-rights reasoning (§1.2) and equal dignity (§1.7) explain why basic
+claims are not state favours. Bentham's legal challenge and cultural relativism require us to
+justify the universal core and specify remedies; they do not establish that command or custom
+can erase moral standing. Defend a core of non-degradation and agency, while distinguishing
+possession of status from justified limits on exercise. The verified stem's **“certain”**
+does not make every preference a fundamental right.
+
+**Source control ✅:** *Socio-Political Philosophy*, local PDF pp. 85–86, on universal and
+inalienable rights; the exact evaluative demand is controlled by 2016 Q1(d) in §9.0.
+
+#### Individual and group rights — 2014 Q4(a) and 2015 Q1(d)
+
+**Statement ⚠️:** the person is the moral floor of rights, but some freedoms depend on goods
+which cannot be secured by treating individuals as socially isolated. Language, cultural
+membership, minority institutions and a people's self-determination involve shared conditions
+and group-level injuries.
+
+| Rights-compatible protection ⚠️ | Danger ⚠️ | Reconciliation test ⚠️ |
+|---|---|---|
+| **External protections** against majority domination, including minority-language institutions or representation | Identical treatment may conceal majority advantage | Does accommodation enlarge members' equal citizenship and meaningful options? |
+| **Group autonomy** in sustaining shared practices | **Internal restrictions** may silence dissent, subordinate women or block exit | Preserve basic rights, members' voice, dissent, meaningful exit and an external remedy |
+| **Collective claims** concerning development, self-determination or environment | A group spokesperson may be treated as the whole community | Include vulnerable members and minorities within minorities in justification and review |
+
+**Argument ⚠️:** individual dignity → cultural conditions of agency → justified accommodation
+→ limits on internal domination → equal citizenship. The external-protection/internal-restriction
+distinction is Kymlicka's named doctrinal contribution, used here only for reconciliation.
+Full recognition and multiculturalism theory remain with
+[Humanism, Secularism and Multiculturalism](Humanism-Secularism-Multiculturalism.md).
+
+**Objection → Reply ⚠️:** “all human rights are centred on individual rights” may ignore
+collective harms. Reply that persons remain the justificatory end, while some claims require
+group institutions and joint action. Conversely, collective welfare cannot excuse sacrificing
+actual members. **Residual:** formal exit is insufficient where safety, livelihood or family
+dependence makes it unusable; protection needs material capability and effective remedy.
+
+**Source control ✅:** Gauba, local PDF p. 353, relates individual, group and community
+interests through common rules; *Socio-Political Philosophy*, local PDF pp. 86–88, includes
+collective rights. Kymlicka's distinction and the democratic reconciliation route are named
+positions in the verified 2015 Q1(d) ledger linked in §9.0; no book page or verbatim quotation
+is asserted for Kymlicka.
+
 ### 1.8 Are rights and duties necessarily connected?
 **Statement:** ❓ The strong correlativity thesis says rights and duties are necessarily connected; the revisionist reply says the connection is important but not always a strict logical identity.
 
@@ -219,6 +352,41 @@ Gandhian and pluralist taxonomy.
 
 **2020 Q2(c), use human rights as the criterion ⚠️:** A dharma- or Gandhi-inspired focus on obligation can secure the person **indirectly** when others fulfill duties of non-harm, care and reciprocity, so “Indian tradition is antagonistic to rights” is too sweeping. But role-based obligation has also been used to legitimate graded caste and gender hierarchy; a vulnerable person's dignity cannot depend solely on the good will of those assigned to protect her. Universal human rights (§1.7) require an **equal claim** available even when the local role-order refuses it. Modern Indian constitutional rights supply an institutional idiom for that claim; the moral justification lies in dignity/equal standing, **not** simply in a clause being enacted. ⚠️ An opponent may say universal rights import an alien individualism; reply that universal minimum protection need not demand uniform cultural language, but it must leave room for internal dissent and enforceable individual claims. Neither “India had modern human rights all along” nor “all duty-thinking is oppressive” answers the comparative question; the live test is whether the particular duty practice protects **every person**, including critics of inherited roles. The caste/gender histories themselves remain with their printed owners.
 
+### 1.10 Laski and socialist rights: material freedom without silencing dissent
+
+**Statement ✅ — philosophical doctrine:** Laski seeks a synthesis of liberal liberty and
+socialist concern for material equality. The state is judged by how it enables persons to
+develop, not by bare legal authority or private accumulation. Equal civic standing is hollow
+when concentrated economic power determines whose claims can be exercised.
+
+| Right or principle in Laski ✅ | Individual–state significance ⚠️ |
+|---|---|
+| Work and social-economic protection | Secure the material conditions of personality rather than merely formal permission; restrain private domination as well as public coercion |
+| Education and political participation | Equip citizens to exercise agency and scrutinise authority |
+| Speech, expression and criticism of government | Welfare is not a substitute for liberty or opposition |
+| Property subject to common welfare and its social function | Property cannot justify turning other persons' citizenship into dependence on an owner's will |
+
+**Rights–duties bridge ✅:** Laski connects rights with contribution to the common good and
+the state's duty to recognise personality. Allegiance is conditional on that purpose;
+resistance can become a moral obligation where the state persistently denies rights.
+
+**Socialist correction ✅/⚠️:** the Marxist critique exposes formal equality compatible with
+material exploitation; socialist rights schemes stress work, social security and welfare.
+But provision can coexist with suppression of expression when the state itself decides
+whether criticism serves its collective project. ⚠️ The defensible synthesis preserves
+civil liberty **and** social-economic conditions, without making dissent a reward for
+ideological conformity. Full Marxism/socialism remains with
+[Political Ideologies](Political-Ideologies.md), not this rights module.
+
+**Objection → Reply ⚠️:** common welfare may become an official excuse for overriding
+individuals. Reply that Laski's standard is equal development of personality, accompanied by
+democratic criticism; an unaccountable welfare authority defeats the synthesis.
+
+**Source control ✅:** Gauba, local PDF pp. 347–353, on Laski's liberal-socialist synthesis,
+moral foundations, rights–duties correlation and social/economic/political rights; PDF
+pp. 354–357 on the Marxist/socialist correction and liberty problem. *Socio-Political
+Philosophy*, local PDF pp. 76–78, corroborates the economic-rights discussion.
+
 ## 2. DUTIES
 
 ### 2.1 What is a duty?
@@ -251,6 +419,43 @@ Gandhian and pluralist taxonomy.
 **Objection → Reply:**
 - **Objection:** moral duties are too vague for political theory. ❓
 - **Reply:** ✅ political life collapses without informal ethical discipline; law presupposes a culture that sustains it.
+
+#### Natural/acquired, positive/negative and perfect/imperfect duties
+
+| Classification ✅ | First type | Second type | Example / examiner control ⚠️ |
+|---|---|---|---|
+| **Natural / acquired** | Owed without a special undertaking or institutional assignment | Arises from a promise, accepted office, action or special relationship | Non-injury versus a doctor's duty to a patient; acquired does not mean every relationship was voluntarily chosen |
+| **Positive / negative** | Requires action, aid or provision | Requires restraint from wrongful interference | Support or rescue versus non-harm; a positive duty is still a duty, not an optional preference |
+| **Perfect / imperfect** — Kantian distinction | Strict requirement without latitude to make an exception merely for convenience | Binding end with latitude about occasions, means and extent of fulfilment | Non-deception versus developing talents or beneficence; imperfect does not mean non-binding |
+| **Legal / moral** | Specified within a legal order, with institutional enforcement | Grounded in ethical reason or conscience, whether or not legally enforced | A perfect moral duty is not automatically a legally enforceable duty |
+| **Subjective / objective** | What the agent sincerely takes to be a duty | What a valid norm or role demands independently of that belief | Sincerity alone cannot vindicate an unjust command |
+
+**Distinction ⚠️:** these are overlapping **axes**, not mutually exclusive boxes. A judge's
+acquired duty of impartiality can also be legal and strict; a natural duty can require positive
+aid. Source, content, latitude and enforceability must be identified separately.
+
+**Source control ✅:** *Socio-Political Philosophy*, local PDF pp. 78–79, supplies the
+classification and the Rawls/Kant labels. The explanations above are qualified doctrinal
+reconstructions: the notes' unstable suggestion that positive duties lack obligation or
+imperfect duties are simply never completed is not adopted. No primary-work page or
+quotation is asserted for Rawls or Kant.
+
+#### Duty, obligation and responsibility
+
+**Terminological control ⚠️:** **duty** and **obligation** often overlap; there is no universal
+rule assigning one to affection and the other to compulsion. Duty is the broad category of
+what is owed. Obligation often emphasises a binding relation created by promise, law, consent,
+office or membership. **Political obligation** is the narrower claimed moral duty to obey
+one's own state's law because it is law (§4A.1), not merely fear of punishment.
+
+**Responsibility ⚠️** can mean a role's tasks, causal involvement in an outcome, or prospective
+care and answerability. A minister can be responsible for a department without personally
+causing every failure; accountability then asks what that office-holder must explain and
+correct before an authorised forum (§3.1). Responsibility is not by itself proof of blame.
+
+**Source control ✅:** *Socio-Political Philosophy*, local PDF pp. 78–80 and 83–85, provides
+the duty/relationship and responsibility discussion. The distinctions here are analytical
+clarifications, not its unreliable duty–obligation slogans or dictionary quotations.
 
 ### 2.3 Gandhi's duty-centrism
 **Statement:** ✅ Gandhi gives duty conceptual priority in social ethics: rights become secure when persons discipline themselves through service, self-restraint and truthfulness.
@@ -291,6 +496,15 @@ Gandhian and pluralist taxonomy.
 - **Objection:** duty-language is often state-sponsored moralism. ❓
 - **Reply:** ⚠️ It becomes problematic only when deployed to evade state accountability or suppress legitimate dissent.
 
+**2013 Q1(b), significance rather than a list ⚠️:** Article 51A supplies a civic, educative
+and interpretive vocabulary: respect for constitutional institutions, plural coexistence,
+scientific temper, public property and environment helps sustain others' equal freedom.
+Its significance exceeds immediate court enforcement (§4A.7); non-justiciability does not
+make it normatively empty. Conversely, duties cannot override protected claims or excuse
+officials from their own obligations. Frame the conclusion as **responsible freedom**, not
+obedience made a precondition for rights. The constitutional illustration and the moral
+argument must remain distinct.
+
 ### 2.6 Should duty have priority over rights?
 | Position | Core claim | Merit | Risk |
 |---|---|---|---|
@@ -307,6 +521,15 @@ Gandhian and pluralist taxonomy.
 **Objection → Reply:**
 - **Objection:** if rights are primary, citizens become irresponsible. ❓
 - **Reply:** ⚠️ irresponsible citizenship is possible, but the cure is not to reduce rights; it is to strengthen duty-conscious civic culture and accountability.
+
+**2017 Q1(d), priority needs a criterion ⚠️:** basic rights have **justificatory and
+institutional priority** against coercion because equal standing explains why protective
+duties are owed. Duties have **operational indispensability**, and may have ethical priority
+in cultivating reciprocity. For a claim-right, however, right and correlative duty arise as
+one relation (§1.5), not as a temporal sequence. Accountability identifies who owes performance,
+to whom reasons are due, and how failures are remedied; officials carry a heavier burden
+because they possess entrusted coercive power. Thus defend rights against oppression without
+making duties dispensable or reducing accountability to citizen submission.
 
 ## 3. ACCOUNTABILITY
 
@@ -360,6 +583,41 @@ remain possible.
 **Objection → Reply:**
 - **Objection:** excessive legalism paralyses governance. ❓
 - **Reply:** ⚠️ the point is not obstruction but justified, reviewable exercise of power.
+
+#### Free speech, judicial independence and executive separation — 2016 Q2(c)
+
+**Ground ✅ — philosophical doctrine:** Laski defends speech and criticism of government;
+Mill's liberal defence links expression with inquiry and individual development.
+**Argument ⚠️:** criticism holds power answerable → the executive may be the object of that
+criticism → it must not conclusively judge its own restriction → an independent, impartial
+forum must test lawful authority, fair procedure and justified limits → effective remedy
+makes the right more than a permission revocable by its target.
+
+| Expression requires ⚠️ | Institutional safeguard ⚠️ | Limit ⚠️ |
+|---|---|---|
+| Protection against retaliatory executive control | Decisional autonomy, security against improper direction and impartial adjudication | Independence is not judicial infallibility |
+| Review of restrictions and meaningful redress | Reasoned judgments, accessible proceedings and review | Delay, cost or deference can make formal remedies ineffective |
+| A court able to decide against government | Separation of core adjudicative and executive functions | This does not entail sealed-off branches with no appointments, budgets or enforcement interaction |
+
+**Evaluate both halves of the statement ⚠️:** genuine independence follows as a requirement
+of effective rights protection. **“Complete separation”** is defensible if it means freedom
+from executive direction in deciding cases; it is too strong if it means hermetic institutional
+isolation. Constitutional checks and interaction need not amount to control over outcomes.
+
+**Objection → Reply ⚠️:** review may merely transfer arbitrary power to judges. Reply that
+public reasons, review, constitutional limits and scrutiny must discipline adjudication too.
+Speech also needs protection from private intimidation and channels for public criticism;
+courts alone do not exhaust the social conditions of freedom.
+
+**Indian illustration ✅/⚠️:** Articles 19(1)(a) and 19(2) protect expression while authorising
+specified reasonable restrictions (§4A.7). ⚠️ That constitutional arrangement illustrates,
+but does not by itself prove, the philosophical demand for an impartial remedy.
+
+**Source control ✅:** Gauba, local PDF p. 352, controls Laski's speech/criticism doctrine;
+2016 Q2(c)'s verified ledger (§9.0) controls the demand and named Mill/institutional route.
+The implication, safeguards and qualified verdict are analytical reconstruction, not a
+quotation or a claim that any particular judiciary is completely independent. Full government
+classification remains with [Forms of Government](Forms-of-Government.md).
 
 ### 3.4 Moral accountability
 **Statement:** ✅ Moral accountability asks whether state action is just, humane and worthy of public trust even where technically legal.
@@ -1037,15 +1295,50 @@ comparatively and remains non-liberal by modern standards.
 
 <!-- expanded-pyq-depth:end -->
 
-## 9. PYQ ROUTING (2018–2025)
+## 9. PYQ ROUTING (2013–2025)
 
-> ⚠️ **Corpus signal:** 9 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+### 9.0 Verified 2013–2017 questions and exact routes
+
+> ✅ **Text control:** the released paper ledgers below record wording, marks, printed word
+> limits and canonical ownership against the held official-paper corpus
+> `books\previous_papers_2013_2018\<year>\philosophy-paper-2.pdf`.
+> All seven parts are primary-owned here; the multiculturalism, sovereignty and ideology
+> bridges do not transfer ownership. No generic 250/300-word target is substituted for an
+> absent printed limit.
+
+| Year | Question | Marks | Printed word limit | Exact demand ✅ | Core route / answer hinge ⚠️ |
+|---|---|---:|---|---|---|
+| 2013 | Q1(b) | 10 | not more than 150 words | What is the significance of including duties of citizens in the Indian Constitution? | §2.5 and §4A.7: civic/educative significance; distinguish non-justiciability from moral value |
+| 2014 | Q4(a) | 20 | No printed limit | “All human rights are centred on individual rights.” Discuss. | §1.7: individual dignity, collective rights and social conditions; defend a qualified, not atomistic, individual-centred account |
+| 2015 | Q1(b) | 10 | about 150 words | Is civil disobedience in a democratic State justifiable? Discuss. | §§4A.5–4A.8: exceptional principled breach; democratic remedies, Gandhi–Ambedkar tension and stringent justification |
+| 2015 | Q1(d) | 10 | about 150 words | How are individual and group rights reconciled in democracy? Explain. | §1.7: external protections versus internal restrictions; voice, dissent, exit and equal citizenship |
+| 2016 | Q1(d) | 10 | about 150 words | Evaluate the statement that all human beings have certain unalienable rights. | §§1.2, 1.7: universal moral standing versus unlimited exercise; evaluate positivist/relativist objections |
+| 2016 | Q2(c) | 20 | No printed limit | “The right of free speech implies the genuine independence of the judiciary and its complete separation from the executive.” Evaluate. | §3.3: impartial remedy and decisional independence; qualify “complete separation” rather than merely praising courts |
+| 2017 | Q1(d) | 10 | about 150 words | Out of rights and duties, which one is prior to the other? Discuss in the context of accountability. | §§1.5, 1.8, 2.6, 3.1: distinguish justificatory priority, operational need and correlativity; identify answerability and remedy |
+
+**Verified paper ledgers:**
+[2013 Q1(b)](../../../../../solved_pyqs/papers/2013/philosophy-paper-2.md#2013-philosophy-p2-q1b) ·
+[2014 Q4(a)](../../../../../solved_pyqs/papers/2014/philosophy-paper-2.md#2014-philosophy-p2-q4a) ·
+[2015 Q1(b)](../../../../../solved_pyqs/papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q1b) ·
+[2015 Q1(d)](../../../../../solved_pyqs/papers/2015/philosophy-paper-2.md#2015-philosophy-p2-q1d) ·
+[2016 Q1(d)](../../../../../solved_pyqs/papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q1d) ·
+[2016 Q2(c)](../../../../../solved_pyqs/papers/2016/philosophy-paper-2.md#2016-philosophy-p2-q2c) ·
+[2017 Q1(d)](../../../../../solved_pyqs/papers/2017/philosophy-paper-2.md#2017-philosophy-p2-q1d).
+
+**Boundary control ✅:** 2015 Q1(c), Laski's critique of sovereignty, and 2017 Q1(a), freedom
+in relation to state sovereignty in anarchy, retain
+[Sovereignty](Sovereignty.md) as their verified primary owner. The word “individual” or
+the appearance of Laski alone does not route a question here.
+
+### 9.1 Verified 2018–2025 questions
+
+> ⚠️ **Corpus signal, 2018–2025 only:** 9 primary-owned question-parts out of 112. The local Paper II corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
 | 2018 | Q4(a) | 20 | “Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.” Discuss. |
 | 2019 | Q2(a) | 20 | Do rights make citizens accountable to the State? Argue in the context of the present Indian scenario. |
-| 2020 | Q2(c) | 15 | Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of Human Rights. |
+| 2020 | Q2(c) | 15 | Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of ‘Human Rights’. |
 | 2021 | Q4(c) | 15 | Evaluate whether the social contract theory adequately addresses the different issues of human rights. |
 | 2022 | Q4(b) | 15 | Does idea of unconditional rights necessarily lead to anarchy? Critically examine. |
 | 2023 | Q2(b) | 15 | Do you agree that duty and accountability must be given priority over rights for the better functioning of a State? Justify your answer. |
@@ -1054,6 +1347,11 @@ comparatively and remains non-liberal by modern standards.
 | 2025 | Q4(c) | 15 | "Duties are of the nature of obligation while Rights are of the nature of entitlement. Therefore there is no necessary connection between the two." Do you agree with this statement? Give reasons and justification for your answer. |
 
 See the [Socio-Political PYQ Bank, 2018–2025](../_PYQ-SocioPolitical-2018-2025.md).
+
+**2020 punctuation control ✅:** the held `books\philosophy_optional\PHILOSOPHY OPTIONAL
+PAPER-II 2020.pdf`, PDF p. 2, prints quotation marks around **‘Human Rights’**; these are
+retained above although omitted by the bank's normalised transcription. The printed space
+before the first question mark is typographic; wording and marks are unchanged.
 
 ### 9A. 2026 additions (official paper, Section A)
 
@@ -1151,8 +1449,10 @@ Each unit is **Claim → Named anchor → Use for → Limitation**.
 - [Caste, Gandhi, Ambedkar](Caste-Gandhi-Ambedkar.md) — Gandhian duty-centrism and constitutional rights discourse.
 
 ## SOURCES
-- O. P. Gauba, *An Introduction to Political Theory*, searchable local PDF pp. 220–300 and 338–390.
-- *Socio-Political Philosophy*, local compiled notes PDF pp. 68–83 and 129–132; no named author is asserted.
+- O. P. Gauba, *An Introduction to Political Theory*, `books\philosphy_books\An Introduction to Political Theory by O P Gauba www.upscpdf.com.pdf`, searchable local PDF pp. 220–300 and 319–390. Specific controls: PDF p. 349 (Laski's definition), pp. 346–348 (historical/social-welfare theories), pp. 347–353 (Laski's liberal-socialist rights synthesis), pp. 354–357 (Marxist/socialist correction), pp. 358–360 (UDHR). Page numbers throughout are PDF pages, not invented original-work references.
+- *Socio-Political Philosophy*, `books\philosphy_books\Socio-Political Philosophy.pdf`, local compiled notes PDF pp. 68–88 and 129–132; no named author is asserted. Specific controls: PDF p. 68 (three recognition conditions), pp. 73–76 (personality/historical/social-welfare theories), pp. 76–78 (economic rights), pp. 78–80 (duties), pp. 83–85 (responsibility discussion, critically filtered), pp. 85–88 (human rights, indivisibility and generations).
+- Verified 2013–2017 Philosophy Paper-II ledgers, `solved_pyqs\papers\<year>\philosophy-paper-2.md`, and their held sources under `books\previous_papers_2013_2018\`; exact question-level links and ownership controls are in §9.0. Verified 2018–2025 bank and 2026 supplement are linked in §9.1 and §9A.
+- Held 2020 Philosophy Paper-II, `books\philosophy_optional\PHILOSOPHY OPTIONAL PAPER-II 2020.pdf`, PDF p. 2, controls the quotation marks around ‘Human Rights’ in Q2(c).
 - Rajeev Bhargava and Ashok Acharya, works on political theory and Indian political thought.
 - Harold J. Laski, *A Grammar of Politics*.
 - John Locke, *Two Treatises of Government*.

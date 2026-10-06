@@ -157,7 +157,7 @@
 **Q2**
 - (a) State and examine the Gandhian concept of social development. **[20]** — **Primary owner:** [Development and Social Progress](./socio-political/Development-Social-Progress.md)
 - (b) How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer. **[15]** — **Primary owner:** [Political Ideologies](./socio-political/Political-Ideologies.md)
-- (c) Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of Human Rights. **[15]** — **Primary owner:** [Individual and State](./socio-political/Individual-and-State.md)
+- (c) Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of ‘Human Rights’. **[15]** — **Primary owner:** [Individual and State](./socio-political/Individual-and-State.md)
 
 **Q3**
 - (a) State and examine B.R. Ambedkar's contribution towards social changes in Independent India. **[20]** — **Primary owner:** [Caste: Gandhi and Ambedkar](./socio-political/Caste-Gandhi-Ambedkar.md)
