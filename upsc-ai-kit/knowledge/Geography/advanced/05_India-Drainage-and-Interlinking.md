@@ -10,40 +10,77 @@
 ## 1. Snapshot & core idea
 
 
-**Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
+**Advanced — Indian drainage as variable river regimes and evolving networks.**
 
-✅ The Himalayan systems are largely perennial because rain, snowmelt, glacier melt and groundwater
-contribute in different proportions. Peninsular rivers occupy an older landscape and show stronger
-seasonality, though major rivers and regulated reaches are not simply “seasonal streams.” **Some**
-Himalayan trunk rivers are antecedent and cut transverse gorges; the whole Himalayan network should
-not be labelled antecedent.
-- ✅ The Indus, Ganga and Brahmaputra systems cross international boundaries and are mostly perennial.
-- ✅ Antecedent drainage: rivers predating the Himalaya that maintained their course by down-cutting as the range uplifted (deep transverse gorges).
-- ✅ River capture (piracy): a more vigorous river, through headward erosion, beheads a neighbouring river — a key process in Himalayan drainage evolution.
-- ✅ Indo-Brahm hypothesis (Khullar): a mighty former river along the Himalayan foredeep was dismembered by successive captures into today's Indus, Ganga and Brahmaputra systems.
-- ✅ Most large Peninsular basins drain east; Narmada and Tapi flow west through structurally controlled
-  troughs. Several smaller west-flowing rivers also descend from the Western Ghats.
+⚠️ “Himalayan” and “Peninsular” are useful system-level labels, not hydrological binaries. River regime,
+sediment yield and channel form must be explained from the proportions of rainfall, snow/ice melt and
+groundwater; catchment size and climate; lithology, relief and tectonics; and dams/abstraction.
+- ⚠️ Many Himalayan trunk systems flow year-round, but perennial does not mean steady. Individual
+  tributaries and reaches differ strongly in snowmelt, monsoon and groundwater contribution.
+- ⚠️ Peninsular discharge is commonly monsoon-dominant, but major rivers and regulated or groundwater-
+  supported reaches are not simply “seasonal streams.”
+- ⚠️ Some trans-Himalayan trunk reaches are interpreted as antecedent. A transverse gorge alone is not
+  proof, and the whole Himalayan network must not be labelled antecedent.
+- ⚠️ River capture by differential headward erosion can reorganise drainage, but capture claims require
+  a coherent set of geomorphic, structural, sediment-provenance and chronological evidence.
+- ⚠️ Most large Peninsular basins drain east because the principal divide lies close to the west coast
+  and much of the plateau has a broad eastward slope. The origin of the Western Ghats escarpment remains
+  debated; it is not controlled here as one simple fault scarp.
+- ⚠️ Narmada and Tapi are strongly controlled by east-west tectonic lineaments/troughs, but they have
+  tributary networks; structural confinement does not mean “no tributary worth the name.”
 
-**Ca Anchor — Ken-Betwa River Interlinking Project.**
+### Historiography control
 
-✅ River interlinking applies drainage-basin logic to move 'surplus' water to deficit basins — but crosses ecological and social thresholds, making it a live GS-I geography + GS-III environment debate.
-- ✅ Objective: transfer water within Bundelkhand for irrigation, drinking water and power; quote
-  command-area or cost figures only with the latest project document and date.
-- ✅ Concerns: submergence and fragmentation around Panna Tiger Reserve, downstream-flow effects,
-  forest/biodiversity loss and displacement.
-- ✅ Institutions: Central Water Commission, Ken-Betwa Link Project Authority; other links for comparison — Par-Tapi-Narmada, Damanganga-Pinjal.
+- ⚠️ The **Indo-Brahm/Siwalik River**, **E. Ahmad three-upheaval**, **Multiple River Theory**, and
+  **western-half-subsidence/Sahyadri-Aravali** accounts are historiography in Indian geomorphology.
+  They may be compared as hypotheses, not narrated as settled drainage history.
+- ❌ Do not retain the unsupported claim that an upper Satluj course is fed by underground water from
+  Lake Manasarovar.
+- ❌ Do not use an obsolete Oligocene → mid-Miocene → Pleistocene ladder as the controlling Himalayan
+  chronology. Use the repaired Topic02 GSI/modern geological framework and current dated evidence.
+- ❌ A Peninsular waterfall is not universal proof of superimposition. Falls may reflect lithologic
+  contrasts, joints/faults, inherited surfaces, tectonic or base-level change, and local channel history.
+- ⚠️ North-western palaeochannels identified by remote sensing do not by themselves establish one
+  ancient river, source, continuity or date. Keep geomorphic, archaeological and textual evidence
+  separate.
+
+**CA Anchor — current National Perspective Plan and Ken-Betwa evidence through 5 October 2026.**
+
+📰 A donor “surplus” is a dated model result relative to assumed demand, environmental flow,
+groundwater interaction and climate—not timeless unused water.
+- 📰 Rajya Sabha Unstarred Question No. 2473, answered **10 August 2026**, records **30** NPP links:
+  **16 Peninsular and 14 Himalayan**. It describes Ken-Betwa as the **only priority link project under
+  the NPP that has entered implementation**, not simply the “first river-interlinking project.”
+- 📰 The same answer records two completed DPRs later dropped from priority status, projects/proposals
+  dropped or revised, pending inter-state consensus for parts of the Godavari-Cauvery chain, and the
+  disappearance of the modelled Netravati surplus after Karnataka's Yettinahole project.
+- 📰 The annexure states that the **Godavari (Polavaram)-Krishna (Vijayawada) link** has been completed.
+  Do not convert that statement into a claim that every component of the wider Polavaram Irrigation
+  Project is complete.
+- 📰 The PIB Ken-Betwa FAQ dated **21 August 2026** states: Daudhan Dam under construction, canal work
+  yet to begin, completion scheduled for **2030**. It gives **10.62 lakh ha** irrigation, whereas the
+  Rajya Sabha reply eleven days earlier gives about **11.88 lakh ha**; preserve both document/date pairs.
+- 📰 Official claims of irrigation, drinking water and power are projected benefits, not delivered
+  outcomes. The FAQ's present-tense “environmental release is maintained” wording must be typed as a
+  proponent commitment/claim because the dam and canal are not operational.
+- ⚠️ Ecology/social analysis must include Panna landscape fragmentation/submergence, downstream flow
+  and sediment, forest/biodiversity effects and **22 affected villages**, while also recording the EIA,
+  Integrated Landscape Management Plan, compensatory measures and R&R framework without treating
+  clearance as proof that residual impacts are negligible.
+- ⚠️ Federal consent is substantive: compare pending consensus on Manibhadra/Inchampalli with the
+  signed Modified Parbati-Kalisindh-Chambal agreement.
 
 ## 2. Key classification / data
 
 | Feature | Himalayan drainage | Peninsular drainage |
 |---|---|---|
 | ✅ Main systems | Indus, Ganga, Brahmaputra | Godavari, Krishna, Mahanadi, Kaveri; Narmada and Tapi exceptions |
-| ✅ Flow | Mostly perennial; rain, snow/ice melt and groundwater contributions vary | Monsoon-dominant discharge; many major rivers are perennial or regulated |
-| ✅ Age / valley | Young, deep gorges, meandering | Older, shallow, graded and fixed valleys |
-| ✅ Drainage type | Antecedent + consequent; river capture important | Mostly consequent and super-imposed |
+| ⚠️ Flow/regime | Rain, snow/ice melt and groundwater contributions vary by basin and season; perennial is not steady | Commonly monsoon-dominant; large, regulated and groundwater-supported reaches may flow year-round |
+| ⚠️ Terrain/channel | Orogenic, foreland and alluvial reaches range from confined gorges to mobile plains | Old shield/plateau terrain with local rifts, gorges, alluvial reaches and regulated channels |
+| ⚠️ Drainage evolution | Antecedence, capture and consequent/subsequent development are reach-specific interpretations | Consequent, structurally controlled, captured or superimposed reaches may coexist; diagnose from evidence |
 | ✅ Direction | Several international rivers crossing high relief | Most large basins east-flowing; Narmada/Tapi and many short Ghats rivers flow west |
-| ✅ Evolution | Indo-Brahm/Siwalik river hypothesis and successive captures | Older Peninsular stability and fixed courses |
-| ✅ River interlinking | Himalayan component: storage/transfer concepts in Ganga-Brahmaputra basins | Peninsular component: links such as Ken-Betwa; project counts change with official planning status |
+| ⚠️ Historical theories | Indo-Brahm, three-upheaval and multiple-river accounts are competing historiography | Western-half-subsidence and simple fault-escarpment accounts are historiography, not controlling geology |
+| 📰 River interlinking | Fourteen identified links; international alignment and consent affect status | Sixteen identified links; only Ken-Betwa is the priority NPP link in implementation as at 10 August 2026 |
 
 ## 3. Study links
 
@@ -56,7 +93,7 @@ not be labelled antecedent.
 |---|---|---|
 | ✅ Indus | Tibetan Plateau near Lake Manasarovar region; crosses Ladakh | Arabian Sea through Pakistan |
 | ✅ Ganga | Named at Devprayag after Bhagirathi–Alaknanda confluence | Bay of Bengal through the Ganga-Brahmaputra-Meghna delta |
-| ✅ Brahmaputra | Tibetan Plateau (Yarlung Tsangpo); Siang/Dihang in Arunachal | Joins the Ganga/Jamuna-Meghna system before Bay of Bengal |
+| ✅ Brahmaputra | Tibetan Plateau (Yarlung Tsangpo); Siang/Dihang in Arunachal | Called Jamuna in Bangladesh; joins the Padma, then the Meghna, before the Bay of Bengal |
 | ✅ Mahanadi | Sihawa highlands, Chhattisgarh | Bay of Bengal, Odisha delta |
 | ✅ Godavari | Trimbakeshwar near Nashik | Bay of Bengal, Andhra Pradesh delta |
 | ✅ Krishna | Near Mahabaleshwar, Western Ghats | Bay of Bengal, Andhra Pradesh |
@@ -72,16 +109,21 @@ not be labelled antecedent.
 
 
 **Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
-- ✅ Himalayan systems are mostly perennial; Peninsular regimes are more monsoon-seasonal and occupy an older landscape.
-- ✅ Antecedent river = older than the mountain it cuts across (deep gorge).
-- ✅ River capture driven by headward erosion (Khullar: Indo-Brahm captures).
-- ✅ Peninsular rivers mostly flow EAST; Narmada & Tapi flow WEST (rift valleys).
-- ✅ Indus, Ganga, Brahmaputra = India's three international/Himalayan systems.
+- ⚠️ Himalayan regimes commonly combine monsoon, snow/ice melt and groundwater; Peninsular regimes are
+  commonly monsoon-dominant but not universally seasonal.
+- ⚠️ Antecedence is an interpretation requiring river/uplift chronology; a deep gorge alone is not proof.
+- ⚠️ Capture requires evidence that a divide moved and drainage transferred between basins.
+- ✅ Most large Peninsular basins flow east; Narmada and Tapi are west-flowing, structurally controlled
+  main stems with tributary networks.
+- ⚠️ Indo-Brahm and related drainage-evolution schemes are named historical hypotheses, not settled facts.
 
-**Ca Anchor — Ken-Betwa River Interlinking Project.**
-- ✅ Ken-Betwa = 1st river-interlinking project (National Perspective Plan).
-- ✅ Transfer is from the Ken basin to the Betwa basin; both basins span Madhya Pradesh-Uttar Pradesh.
-- ✅ Key concern: Panna Tiger Reserve submergence + biodiversity loss.
+**CA Anchor — Ken-Betwa River Interlinking Project.**
+- 📰 Ken-Betwa = the **only priority NPP link project in implementation** as at 10 August 2026.
+- ✅ Transfer is from the Ken basin to the Betwa basin; both are Yamuna tributary basins spanning
+  Madhya Pradesh and Uttar Pradesh.
+- 📰 Status/benefits must retain document dates and distinguish construction/projection from delivery.
+- ⚠️ Ecology/social analysis must include Panna landscape, downstream flow/sediment and displacement,
+  together with—not replaced by—official mitigation and R&R measures.
 
 ## 5. UPSC Traps
 
@@ -91,28 +133,46 @@ not be labelled antecedent.
 **Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
 - ❌ All Peninsular rivers flow east to the Bay of Bengal. → Narmada and Tapi are exceptions — they flow WEST through rift valleys to the Arabian Sea.
 - ❌ Antecedent and consequent rivers are the same. → Antecedent predates the uplift (cuts across it); consequent follows the initial slope after uplift.
-- ❌ Himalayan rivers are seasonal like Peninsular ones. → Himalayan rivers are largely PERENNIAL (glacier + rain fed); Peninsular are seasonal (rain fed).
+- ❌ Himalayan rivers are uniformly perennial while Peninsular rivers are uniformly seasonal. →
+  Explain each regime from source proportions, basin climate, groundwater and regulation.
+- ❌ Every Peninsular waterfall proves superimposition. → Several origins are possible; establish the
+  inherited-course contradiction independently.
+- ❌ The Indo-Brahm or three-upheaval scheme is controlling geology. → Both are historiographic hypotheses.
 
-**Ca Anchor — Ken-Betwa River Interlinking Project.**
-- ❌ Ken-Betwa transfers Betwa water into the Ken. → It transfers surplus KEN water TO the Betwa basin.
+**CA Anchor — Ken-Betwa River Interlinking Project.**
+- ❌ Ken-Betwa transfers Betwa water into the Ken. → The planned direction is Ken to Betwa.
+- ❌ Official clearance or a DPR equals completed benefit. → Proposal, DPR, clearance, award,
+  construction, completion and delivered benefit are separate dated statuses.
 
-## 6. 📰 Current link
+## 6. 📰 Current official evidence through 5 October 2026
 
 
-**Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
-📰 India's drainage splits into the Himalayan (extra-Peninsular) and Peninsular systems — a distinction that governs perennial vs seasonal flow, hydropower, floods and inter-basin transfer debates.
-
-**Ca Anchor — Ken-Betwa River Interlinking Project.**
-📰 Ken-Betwa is the FIRST project under India's National Perspective Plan for river interlinking — transferring surplus Ken (Bundelkhand, MP) water to the Betwa basin (UP) for irrigation, drinking water and power.
+- 📰 Rajya Sabha Unstarred Question No. 2473, 10 August 2026:
+  https://sansad.in/getFile/annex/271/AU2473_mrrzLA.pdf?source=pqars
+- 📰 PIB, *Ken-Betwa Link Project: Frequently Asked Questions*, 21 August 2026:
+  https://pib.gov.in/FaqDetails.aspx?id=159679&NoteId=159679&ModuleId=4
+- 📰 NWDA priority links:
+  https://nwda.gov.in/content/innerpage/priority-links.php
+- 📰 NWDA Peninsular component:
+  https://nwda.gov.in/content/innerpage/peninsular-component.php
+- 📰 NWDA Himalayan component (page stamped 31 March 2022; supersede overlapping status with the
+  10 August 2026 Parliament answer):
+  https://nwda.gov.in/content/innerpage/himalayan-component.php
+- 📰 NRSC/ISRO Saraswati palaeochannel geoportal—use for mapped palaeochannel evidence, not as proof of
+  one source, perennial flow or settled chronology:
+  https://bhuvan-app1.nrsc.gov.in/saraswati/saraswati.php
 
 ## 7. Mains angles
 
 
-**Advanced — Himalayan vs Peninsular Drainage & Antecedent Rivers (Khullar / Majid).**
-- ⚠️ Contrast the origin and character of Himalayan and Peninsular drainage, and explain how antecedent drainage and river capture shaped today's river systems.
+**Advanced — Himalayan vs Peninsular Drainage.**
+- ⚠️ Contrast the systems through source proportions, climate, lithology, tectonic setting, sediment,
+  base level and regulation; use antecedence/capture only where multiple evidence supports them.
 
-**Ca Anchor — Ken-Betwa River Interlinking Project.**
-- ⚠️ Use drainage-basin geography to weigh inter-basin transfer benefits vs ecological costs (Panna).
+**CA Anchor — Inter-basin transfer.**
+- ⚠️ Critically examine drought, flood and navigation claims link by link. Date the donor-surplus model,
+  status and projected benefits; test lift energy, sediment, ecology, displacement, federal consent and
+  climate non-stationarity.
 
 <!-- BEGIN GENERATED PYQ INTEGRATION: 2018-2023 -->
 ## Historical PYQ Integration (2018-2023)
