@@ -22,7 +22,7 @@
 
 ## Lesson 1 — Why do inherited philosophical distinctions deserve trust?
 
-**Progress: 1 / 12 | Stage: Foundation | Subtopic: Two philosophers, three syllabus burdens**
+Progress: 1 / 12 | Stage: Foundation | Subtopic: Two philosophers, three syllabus burdens
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Quine's *Two Dogmas* and Strawson's *Individuals*
@@ -304,22 +304,33 @@ Their disagreement is especially clear in Grice and Strawson's *In Defence of a 
 
 ### Local practice
 
-**MCQ 1.** Which opening most accurately frames the topic?
-A. Quine tests empiricism's foundations, while Strawson discloses conditions of identification and person-ascription.
-B. Both replace empirical science with ordinary language.
-C. Quine defends verificationism and Strawson rejects reference.
-D. Both prove that material bodies alone exist.
+**MCQ 1: A**
 
-**MCQ 2.** “Basic particulars are the smallest physical particles.” What is the best correction?
-A. They are analytic truths protected from experience.
-B. They are particulars whose identification anchors identification of dependent particulars.
-C. They are private sensations from which bodies are inferred.
-D. They are bound variables in scientific notation.
+**Question:** Which opening most accurately frames the topic?
 
-**Answers and option-specific explanations**
+A. Quine probes empiricism's foundations, while Strawson discloses the conditions of identification and person-ascription.
+B. Both philosophers replace empirical science with the study of ordinary language.
+C. Quine defends verificationism, while Strawson rejects the very possibility of reference.
+D. Both conclude that material bodies are the only things that exist.
 
-- **1 — A.** A states the distinct tasks. B erases Quine's naturalism; C reverses both views; D turns conceptual priority into reductive materialism.
-- **2 — B.** B gives Strawson's criterion. A confuses the first dogma; C states the sense-datum starting point Strawson pressures; D imports Quine's ontological criterion.
+- **A — Correct:** it names the two distinct tasks, Quine interrogating empiricism's foundations and Strawson disclosing the conditions of identification and person-ascription.
+- **B — Incorrect:** neither thinker abandons empirical science for ordinary language, since Quine keeps science as the tribunal and Strawson maps a conceptual scheme.
+- **C — Incorrect:** it reverses both positions, because Quine attacks rather than defends verificationism and Strawson analyses rather than denies reference.
+- **D — Incorrect:** it collapses Strawson's conceptual priority of bodies into a reductive materialism that neither project asserts.
+
+**MCQ 2: B**
+
+**Question:** “Basic particulars are the smallest physical particles.” What is the best correction?
+
+A. They are analytic truths protected from empirical revision.
+B. They are particulars whose identification anchors the identification of dependent particulars.
+C. They are private sensations from which bodies are later inferred.
+D. They are the bound variables of regimented scientific notation.
+
+- **A — Incorrect:** it misdescribes a particular as an analytic truth and imports first-dogma vocabulary of protection from experience.
+- **B — Correct:** Strawson's criterion makes basicness identificatory priority, since other particulars are identified only by reference to these.
+- **C — Incorrect:** it states the sense-datum starting point that Strawson actually pressures, not his account of a basic particular.
+- **D — Incorrect:** it substitutes Quine's ontological-commitment apparatus of bound variables for Strawson's identificatory notion.
 
 **Transition:** Once Quine's task is clear, the first question is unavoidable: can “true by meaning” be explained without moving in a circle?
 
@@ -327,7 +338,7 @@ D. They are bound variables in scientific notation.
 
 ## Lesson 2 — Can “true by meaning” be defined without assuming it?
 
-**Progress: 2 / 12 | Stage: Core | Subtopic: The first dogma and the circle of analyticity**
+Progress: 2 / 12 | Stage: Core | Subtopic: The first dogma and the circle of analyticity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — “Two Dogmas of Empiricism,” §§1–4
@@ -456,29 +467,47 @@ Thus every route returns to analyticity, and the sharp boundary lacks the princi
 
 ### Local practice
 
-**MCQ 3.** Why does dictionary definition fail as a general foundation?
-A. Dictionaries contain only synthetic statements.
-B. Definitions always alter truth-values.
-C. Lexicography normally records antecedent synonymy rather than independently explaining it.
-D. Quine denies that words can be defined.
+**MCQ 3: C**
 
-**MCQ 4.** Why is extensional interchangeability insufficient for synonymy?
-A. Extensional languages contain no predicates.
-B. Substitution is impossible in science.
-C. Every co-extensive expression is synonymous.
+**Question:** Why does dictionary definition fail as a general foundation for analyticity?
+
+A. Dictionaries record only synthetic statements about the world.
+B. Every definition thereby alters the truth-values of sentences.
+C. Lexicography normally reports an antecedent synonymy rather than independently explaining it.
+D. Quine denies that words can be given definitions at all.
+
+- **A — Incorrect:** it miscategorises the content of dictionaries and leaves the circularity objection untouched.
+- **B — Incorrect:** definitions do not generally change truth-values, so the objection is about explanatory priority, not truth alteration.
+- **C — Correct:** a good definition reports a synonymy that already holds, so it presupposes rather than grounds analyticity.
+- **D — Incorrect:** it invents a blanket hostility to definition that Quine never holds, since he accepts stipulative and reporting definitions.
+
+**MCQ 4: D**
+
+**Question:** Why is extensional interchangeability insufficient for synonymy?
+
+A. Extensional languages contain no predicates available to interchange.
+B. Substitution of terms is impossible within scientific discourse.
+C. Every co-extensive pair of expressions is automatically synonymous.
 D. Co-extensive expressions may pick out the same things while differing in meaning.
 
-**MCQ 5 — Remedial.** Which claim overstates Quine?
+- **A — Incorrect:** extensional languages do contain predicates, so the claim misstates the setting of the objection.
+- **B — Incorrect:** substitution is ordinary in science, so the problem is that it over-generates, not that it is impossible.
+- **C — Incorrect:** it asserts the invalid inference from shared extension to synonymy that the objection is designed to block.
+- **D — Correct:** the heart and kidney case shows coextensive terms share extension yet differ in meaning, so interchangeability salva veritate is too weak.
+
+**MCQ 5: A**
+
+**Question:** Which claim overstates Quine's actual conclusion?
+
 A. No familiar sentence can ever intelligibly be called analytic.
 B. The positivist boundary lacks a successful non-circular explication.
-C. Semantic rules can stipulate classifications inside a language.
-D. Ordinary contrast-cases do not settle the theoretical dispute.
+C. Semantic rules can stipulate classifications inside a chosen language.
+D. Ordinary contrast-cases do not by themselves settle the theoretical dispute.
 
-**Answers and explanations**
-
-- **3 — C.** C identifies the circularity. A misclassifies dictionaries; B confuses definition with substitution; D invents blanket hostility to definition.
-- **4 — D.** D states the heart/kidney problem. A and B deny ordinary extensional practice; C is the invalid inference from co-extension to synonymy.
-- **5 — A.** A turns foundational criticism into semantic nihilism. B is Quine's result; C marks limited stipulation; D explains why the reply is not decisive.
+- **A — Correct:** it inflates a limited criticism into semantic nihilism, since Quine denies a principled boundary, not every use of the word analytic.
+- **B — Incorrect:** this is precisely Quine's measured result about the missing explication, so it does not overstate him.
+- **C — Incorrect:** Quine allows that semantic rules stipulate what counts as analytic within a language, so the claim is accurate.
+- **D — Incorrect:** it correctly states why the Grice and Strawson reply is not decisive, so it does not overstate him.
 
 **Transition:** Perhaps each factual sentence still has its own experiential test. That is Quine's second target.
 
@@ -486,7 +515,7 @@ D. Ordinary contrast-cases do not settle the theoretical dispute.
 
 ## Lesson 3 — Why can a sentence not be verified one by one?
 
-**Progress: 3 / 12 | Stage: Core | Subtopic: Reductionism and sentence-wise verification**
+Progress: 3 / 12 | Stage: Core | Subtopic: Reductionism and sentence-wise verification
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — “Two Dogmas,” radical reductionism
@@ -601,22 +630,33 @@ What remains is “empiricism without the dogmas”: experience still constrains
 
 ### Local practice
 
-**MCQ 6.** From `(H & A) -> O` and `not-O`, what follows?
-A. H alone is false.
+**MCQ 6: B**
+
+**Question:** From (H & A) -> O and not-O, what follows?
+
+A. The hypothesis H by itself is shown to be false.
 B. The conjunction is false, without logic deciding which conjunct to abandon.
-C. A alone is false.
-D. O is analytic.
+C. The auxiliary A by itself is shown to be false.
+D. The observation O turns out to be an analytic statement.
 
-**MCQ 7.** Recalibrating a sensor after a failed test illustrates that
-A. observation is impossible.
-B. calibration beliefs are analytic.
+- **A — Incorrect:** modus tollens falsifies the conjunction, not H alone, so isolating the hypothesis is illicit.
+- **B — Correct:** not-O with the conditional yields only not-(H & A), so logic leaves the choice of culprit open.
+- **C — Incorrect:** it isolates the auxiliary just as illicitly as isolating the hypothesis would.
+- **D — Incorrect:** it confuses an observational test outcome with the category of analyticity.
+
+**MCQ 7: C**
+
+**Question:** Recalibrating a sensor after a failed test illustrates that
+
+A. observation plays no genuine role in scientific testing.
+B. calibration beliefs are analytic and therefore unrevisable.
 C. a counter-instance may rationally prompt revision of an auxiliary.
-D. every rescue is equally good.
+D. every rescue of a hypothesis is equally good as any other.
 
-**Answers and explanations**
-
-- **6 — B.** B is modus tollens applied to the conjunction. A and C isolate a conjunct illicitly; D confuses testing with analyticity.
-- **7 — C.** C captures auxiliary revision. A denies empirical input; B immunises calibration; D confuses underdetermination with arbitrariness.
+- **A — Incorrect:** recalibration still responds to empirical input, so it does not remove observation's role.
+- **B — Incorrect:** treating calibration as analytic would immunise it, against the holist point that auxiliaries are revisable.
+- **C — Correct:** it is a textbook case of rationally revising an auxiliary assumption rather than the focal hypothesis.
+- **D — Incorrect:** it confuses underdetermination of the culprit with the false claim that all rescues are equally rational.
 
 **Transition:** If isolated sentences lose private tests, what confronts experience and how can revision remain rational? The web answers both.
 
@@ -624,7 +664,7 @@ D. every rescue is equally good.
 
 ## Lesson 4 — If the system is tested, where should revision occur?
 
-**Progress: 4 / 12 | Stage: Core | Subtopic: Confirmation holism and the web of belief**
+Progress: 4 / 12 | Stage: Core | Subtopic: Confirmation holism and the web of belief
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — “Two Dogmas,” §6
@@ -756,36 +796,61 @@ Close  : holism frees empiricism from atomism - the web is a truer model than th
 
 ### Mixed practice
 
-**MCQ 8.** Centre/periphery primarily represents
-A. meaningful versus meaningless sentences.
-B. science versus metaphysics.
-C. public versus private objects.
-D. degrees of proximity to experience and entrenchment.
+**MCQ 8: D**
 
-**MCQ 9.** Any sentence may be retained because
+**Question:** Centre and periphery in Quine's image primarily represent
+
+A. the line between meaningful and meaningless sentences.
+B. the division between natural science and metaphysics.
+C. the contrast between public objects and private objects.
+D. degrees of proximity to experience and of entrenchment.
+
+- **A — Incorrect:** it imports a verificationist meaning and meaninglessness partition that holism replaces.
+- **B — Incorrect:** centre and periphery is not a science and metaphysics boundary but a gradient within the web.
+- **C — Incorrect:** public versus private objects belongs to Strawson's objectivity problem, not Quine's web image.
+- **D — Correct:** the image marks graded distance from observation and strength of entrenchment, not a sharp kind-distinction.
+
+**MCQ 9: A**
+
+**Question:** Any sentence may be retained under recalcitrant evidence because
+
 A. it can be protected through compensating revisions judged by evidence and theoretical virtues.
-B. every central sentence is analytic.
-C. sensory reports are never revised.
-D. logic specifies the unique belief to abandon.
+B. every central sentence is secretly analytic after all.
+C. sensory reports are themselves never open to revision.
+D. logic specifies the single belief that must be abandoned.
 
-**MCQ 10.** Replacing a weak auxiliary while retaining a successful mature theory exemplifies
-A. conventionalism without evidence.
-B. minimum mutilation.
-C. sentence-wise reduction.
-D. analyticity becoming syntheticity.
+- **A — Correct:** retention is always possible at the price of adjustments elsewhere, assessed by evidence and pragmatic virtues.
+- **B — Incorrect:** it smuggles back the first dogma by redefining centrality as hidden analyticity.
+- **C — Incorrect:** holism treats even observation reports as revisable, so this denies revisable experience.
+- **D — Incorrect:** it contradicts underdetermination, since logic does not dictate a unique sentence to revise.
 
-**MCQ 11 — Remedial.** Which is accurate?
-A. Holism makes evidence irrelevant.
-B. Central beliefs can never change.
+**MCQ 10: B**
+
+**Question:** Replacing a weak auxiliary while retaining a successful mature theory exemplifies
+
+A. conventionalism adopted without any regard to the evidence.
+B. the conservative strategy of minimum mutilation.
+C. the atomistic sentence-by-sentence reduction Quine rejects.
+D. an analytic sentence being converted into a synthetic one.
+
+- **A — Incorrect:** the move is evidence-guided conservative repair, not evidence-free convention.
+- **B — Correct:** preserving the entrenched theory and adjusting the weaker auxiliary is the conservative strategy of minimum mutilation.
+- **C — Incorrect:** it names the reductionism Quine rejects, not systemic repair of the web.
+- **D — Incorrect:** it recasts a revision of belief as a change of semantic category, which misreads the case.
+
+**MCQ 11: C**
+
+**Question:** Which statement is accurate about Quinean holism?
+
+A. Holism makes empirical evidence irrelevant to belief.
+B. Central beliefs can never change under any pressure whatever.
 C. Holism denies a uniquely compelled location of revision, not rational constraints.
-D. Analytic means central.
+D. The word analytic simply means occupying a central position.
 
-**Answers and explanations**
-
-- **8 — D.** D gives graded entrenchment. A imports verificationism; B invents a partition; C belongs to Strawson's objectivity problem.
-- **9 — A.** A preserves the price of rescue. B recreates dogma one; C denies revisable observation; D contradicts underdetermined repair.
-- **10 — B.** B explains conservative adjustment. A ignores evidence; C is the rejected atomism; D confuses revision with semantic category.
-- **11 — C.** C is qualified holism. A creates relativism; B converts centrality into immunity; D falsely defines analyticity by location.
+- **A — Incorrect:** it slides into relativism, whereas total evidence still constrains any repair.
+- **B — Incorrect:** it converts practical centrality into absolute immunity, which holism rejects.
+- **C — Correct:** holism removes a forced revision point while keeping evidence and theoretical virtues as constraints.
+- **D — Incorrect:** it falsely defines analyticity by web-location rather than by meaning.
 
 **Transition:** The web is the large image. The Duhem–Quine thesis now exposes the logical engine of actual tests.
 
@@ -793,7 +858,7 @@ D. Analytic means central.
 
 ## Lesson 5 — When a prediction fails, which assumption is guilty?
 
-**Progress: 5 / 12 | Stage: Core | Subtopic: The Duhem–Quine thesis**
+Progress: 5 / 12 | Stage: Core | Subtopic: The Duhem–Quine thesis
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Duhem (1906), Quine (1951), Popper and Lakatos
@@ -923,29 +988,47 @@ The pair shows why there is no automatic *experimentum crucis* against an isolat
 
 ### Local practice
 
-**MCQ 12.** What most sharply distinguishes Quine from Duhem?
-A. Quine denies that tests use auxiliaries.
-B. Duhem includes logic in empirical revision.
-C. Duhem applies the thesis to all knowledge.
+**MCQ 12: D**
+
+**Question:** What most sharply distinguishes Quine from Duhem?
+
+A. Quine denies that scientific tests ever use auxiliaries.
+B. Duhem includes the laws of logic within empirical revision.
+C. Duhem applies the holist thesis to the whole of knowledge.
 D. Quine extends holism beyond theoretical physics to the whole system.
 
-**MCQ 13.** Popper's response is best stated as
+- **A — Incorrect:** both thinkers affirm that tests use auxiliaries, so this contradicts each of them.
+- **B — Incorrect:** it is Quine, not Duhem, who allows revision to reach logic, so the attribution is reversed.
+- **C — Incorrect:** it assigns Quine's unrestricted scope to Duhem, who confines holism to physics.
+- **D — Correct:** Duhem limits the thesis to theoretical physics while Quine generalises it across the entire web of belief.
+
+**MCQ 13: A**
+
+**Question:** Popper's response to the conjunction problem is best stated as
+
 A. methodological rules can discipline falsification even though logic alone does not isolate the culprit.
-B. auxiliaries never affect a test.
-C. a failed observation deductively falsifies H alone.
-D. every rescue is scientific.
+B. auxiliary assumptions never make any difference to a scientific test.
+C. a single failed observation deductively falsifies the hypothesis by itself.
+D. every rescue of a threatened theory still counts as scientific.
 
-**MCQ 14 — Applied.** Why is the Neptune/Vulcan pair better than Neptune alone?
-A. It proves Newtonian mechanics is analytic.
-B. It shows that the same logical testing structure may rationally end in auxiliary repair or deep-theory revision.
-C. It eliminates empirical underdetermination.
-D. It shows unobserved entities are always illegitimate.
+- **A — Correct:** Popper concedes the logical gap but adds methodological rules to keep falsification disciplined.
+- **B — Incorrect:** it denies the conjunction problem by pretending auxiliaries are inert.
+- **C — Incorrect:** it ignores the Duhemian point that only the conjunction, not H alone, is refuted.
+- **D — Incorrect:** it legitimises the ad hoc immunising rescues that Popper's rules are meant to exclude.
 
-**Answers and explanations**
+**MCQ 14: B**
 
-- **12 — D.** D states the scope extension. A contradicts both thinkers; B reverses Duhem; C assigns Quine's breadth to Duhem.
-- **13 — A.** A captures methodological falsification. B and C deny the conjunction problem; D legitimises ad hoc immunity.
-- **14 — B.** B displays contrasted rational outcomes. A confuses physics with analyticity; C overclaims; D ignores Neptune's successful theoretical posit.
+**Question:** Why is the Neptune and Vulcan pair more instructive than Neptune alone?
+
+A. It proves that Newtonian mechanics is an analytic framework.
+B. It shows that one logical testing structure may rationally end in auxiliary repair or in deep-theory revision.
+C. It eliminates empirical underdetermination from scientific testing entirely.
+D. It shows that positing any unobserved entity is always illegitimate.
+
+- **A — Incorrect:** it confuses a physical theory with analyticity and ignores the methodological lesson.
+- **B — Correct:** Neptune as a successful auxiliary and Vulcan as an abandoned posit show one logical structure yielding two different rational outcomes.
+- **C — Incorrect:** the pair illustrates underdetermination rather than removing it.
+- **D — Incorrect:** it ignores Neptune, a successful theoretical posit, so the blanket ban on unobservables fails.
 
 **Transition:** Holism concerns theories and evidence. Quine next asks whether public evidence can ever determine one unique translation or reference.
 
@@ -953,7 +1036,7 @@ D. It shows unobserved entities are always illegitimate.
 
 ## Lesson 6 — What does *gavagai* refer to?
 
-**Progress: 6 / 12 | Stage: Advanced | Subtopic: Radical translation and indeterminacy**
+Progress: 6 / 12 | Stage: Advanced | Subtopic: Radical translation and indeterminacy
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — *Word and Object* (1960), chapter 2
@@ -1102,22 +1185,33 @@ Davidson offers a qualification: indeterminacy may resemble alternative measurem
 
 ### Local practice
 
-**MCQ 15.** Why can the linguist not simply ask whether two gavagai are the same?
-A. Natives cannot understand questions.
-B. Rabbits never reappear.
-C. Translating “same” already presupposes the disputed apparatus of identity and individuation.
-D. Quine bans ostension.
+**MCQ 15: C**
 
-**MCQ 16.** Inscrutability of reference differs from translation indeterminacy because it focuses on
-A. whether observation exists.
-B. whether speakers can assent.
-C. the truth of physics.
+**Question:** Why can the linguist not simply ask whether two gavagai are the same?
+
+A. Natives are unable to understand any questions at all.
+B. Rabbits never reappear in a form fit for comparison.
+C. Translating “same” already presupposes the disputed apparatus of identity and individuation.
+D. Quine flatly prohibits the use of ostension.
+
+- **A — Incorrect:** it falsely denies that communication occurs, which is not Quine's point.
+- **B — Incorrect:** it is irrelevant to the semantic difficulty about individuation.
+- **C — Correct:** asking about sameness requires an identity vocabulary that translation must itself fix, so the question begs it.
+- **D — Incorrect:** Quine notes a limit of ostension, not a prohibition on using it.
+
+**MCQ 16: D**
+
+**Question:** Inscrutability of reference differs from translation indeterminacy because it focuses on
+
+A. whether observation of behaviour is possible at all.
+B. whether speakers are able to assent to sentences.
+C. the truth or falsity of physical theory.
 D. what sub-sentential terms refer to under compensating manuals.
 
-**Answers and explanations**
-
-- **15 — C.** C identifies the circular dependence on identity. A falsely denies communication; B is irrelevant; D invents a prohibition rather than a limit of ostension.
-- **16 — D.** D identifies the sub-sentential issue. A and B concern evidence collection; C mistakes a semantic thesis for physical scepticism.
+- **A — Incorrect:** it concerns evidence-gathering rather than the sub-sentential reference at issue.
+- **B — Incorrect:** assent is a datum both theses use, not the distinguishing focus of inscrutability.
+- **C — Incorrect:** it mistakes a semantic thesis about reference for scepticism about physics.
+- **D — Correct:** inscrutability targets the reference of terms below the sentence, under manuals that compensate at sentence level.
 
 **Transition:** If translation and reference are framework-relative, how does Quine still speak responsibly about what exists and how inquiry should proceed?
 
@@ -1125,7 +1219,7 @@ D. what sub-sentential terms refer to under compensating manuals.
 
 ## Lesson 7 — How can a naturalist speak about what exists?
 
-**Progress: 7 / 12 | Stage: Advanced | Subtopic: Commitment, relativity and naturalized epistemology**
+Progress: 7 / 12 | Stage: Advanced | Subtopic: Commitment, relativity and naturalized epistemology
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — “On What There Is” (1948), “Ontological Relativity” and “Epistemology Naturalized”
@@ -1291,29 +1385,47 @@ This relation also explains **ontological relativity**. Reference is fixed only 
 
 ### Local practice
 
-**MCQ 17.** Quine's commitment criterion asks
+**MCQ 17: A**
+
+**Question:** Quine's criterion of ontological commitment asks
+
 A. what entities must be values of a regimented theory's bound variables for it to be true.
-B. how many nouns occur in ordinary speech.
-C. which entities can be privately imagined.
-D. whether a sentence is analytic.
+B. how many nouns happen to occur in ordinary speech.
+C. which entities a speaker can privately imagine.
+D. whether a given sentence is analytic or synthetic.
 
-**MCQ 18.** Which distinction is correct?
-A. Commitment and relativity are identical.
+- **A — Correct:** to be is to be the value of a bound variable, so commitments are read from a regimented theory's quantifiers.
+- **B — Incorrect:** it stops at surface grammar, which Quine says does not reveal commitment.
+- **C — Incorrect:** it confuses ontology with private imagery rather than quantificational structure.
+- **D — Incorrect:** it returns to the analyticity question, which the commitment criterion does not address.
+
+**MCQ 18: B**
+
+**Question:** Which contrast between commitment and relativity is correct?
+
+A. Commitment and ontological relativity are one and the same doctrine.
 B. Commitment displays a regimented theory's commitments; relativity concerns reference within a background framework.
-C. Relativity chooses the uniquely true ontology.
-D. Commitment eliminates theory choice.
+C. Relativity by itself selects the uniquely true ontology.
+D. Commitment removes the need for any theory choice.
 
-**MCQ 19 — Remedial.** The main objection to naturalized epistemology is that it
-A. denies sensory input.
-B. makes science impossible.
+- **A — Incorrect:** it collapses two distinct doctrines that operate at different levels.
+- **B — Correct:** commitment reads ontology off bound variables, while relativity makes reference framework-relative.
+- **C — Incorrect:** it contradicts ontological relativity, which denies a uniquely privileged reference.
+- **D — Incorrect:** it ignores that commitment is displayed only after theory and regimentation are chosen.
+
+**MCQ 19: C**
+
+**Question:** The main objection to naturalized epistemology is that it
+
+A. denies that there is any sensory input to knowledge.
+B. makes the ongoing practice of science impossible.
 C. may replace normative justification with a causal description of belief formation.
-D. restores Cartesian certainty.
+D. restores Cartesian certainty to the theory of knowledge.
 
-**Answers and explanations**
-
-- **17 — A.** A states the criterion. B is surface grammar; C confuses ontology with imagery; D returns to analyticity.
-- **18 — B.** B separates the doctrines. A collapses them; C contradicts framework relativity; D ignores prior choices of theory and regimentation.
-- **19 — C.** C is the normativity challenge. A and B reverse Quine's empiricism; D attributes the foundationalism he rejects.
+- **A — Incorrect:** it reverses Quine's empiricism, which centres sensory input.
+- **B — Incorrect:** naturalism situates epistemology within science rather than making science impossible.
+- **C — Correct:** the standing worry is that describing how beliefs are caused drops the normative question of justification.
+- **D — Incorrect:** it attributes the foundationalist certainty Quine explicitly rejects.
 
 **Transition:** Quine has now moved from criticism to a naturalistic system. Strawson begins elsewhere: not with science's total theory, but with the structure required for ordinary objective reference.
 
@@ -1321,7 +1433,7 @@ D. restores Cartesian certainty.
 
 ## Lesson 8 — What makes one kind of thing “basic” in our conceptual scheme?
 
-**Progress: 8 / 12 | Stage: Core | Subtopic: Descriptive metaphysics, identification and basicness**
+Progress: 8 / 12 | Stage: Core | Subtopic: Descriptive metaphysics, identification and basicness
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — *Individuals* (1959), introduction and Part I
@@ -1479,22 +1591,33 @@ The contrast appears in the treatment of material bodies. Strawson calls bodies 
 
 ### Local practice
 
-**MCQ 20.** A basic particular is best understood as
-A. the smallest item discovered by physics.
-B. an item known with Cartesian certainty.
-C. a private datum preceding language.
-D. a particular whose identification anchors identification of dependent particulars.
+**MCQ 20: D**
 
-**MCQ 21.** What do feature-placing expressions show?
-A. Some meaningful discourse can register features without fully identifying a particular subject.
-B. Particular reference is impossible.
-C. All predication is reducible to private sensation.
-D. Material bodies have already been proved basic.
+**Question:** A basic particular is best understood as
 
-**Answers and explanations**
+A. the smallest item that physics eventually discovers.
+B. an item that is known with Cartesian certainty.
+C. a private datum that is given prior to language.
+D. a particular whose identification anchors the identification of dependent particulars.
 
-- **20 — D.** D gives identificatory priority. A confuses basic with minute; B imports foundational certainty; C states phenomenalism.
-- **21 — A.** A states the limited lesson. B overgeneralises; C adds a sense-datum thesis; D prematurely imports Lesson 9's argument.
+- **A — Incorrect:** it confuses identificatory basicness with microphysical smallness.
+- **B — Incorrect:** it imports a foundational certainty that Strawson's descriptive argument does not require.
+- **C — Incorrect:** it states the phenomenalist starting point that Strawson rejects.
+- **D — Correct:** basicness is identificatory priority, since dependent particulars are identified only through the basic ones.
+
+**MCQ 21: A**
+
+**Question:** What do feature-placing expressions show?
+
+A. Some meaningful discourse can register a feature without fully identifying a particular subject.
+B. Reference to particulars is altogether impossible.
+C. All predication reduces ultimately to private sensation.
+D. Material bodies have already been proved to be basic.
+
+- **A — Correct:** feature-placing such as “it is raining” registers a feature without picking out a reidentifiable particular, marking a stage before full subject-reference.
+- **B — Incorrect:** it overgeneralises the limited lesson into a denial of particular reference.
+- **C — Incorrect:** it adds a phenomenalist sense-datum thesis the example does not support.
+- **D — Incorrect:** it prematurely imports the later argument that bodies are basic.
 
 **Transition:** We now possess the criterion of basicness. Which particulars actually satisfy it, and can a sound-only world avoid material bodies?
 
@@ -1502,7 +1625,7 @@ D. Material bodies have already been proved basic.
 
 ## Lesson 9 — Why do material bodies anchor objective thought?
 
-**Progress: 9 / 12 | Stage: Core | Subtopic: Material bodies, reidentification and public space-time**
+Progress: 9 / 12 | Stage: Core | Subtopic: Material bodies, reidentification and public space-time
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — *Individuals*, Part I; auditory-world discussion
@@ -1657,36 +1780,61 @@ Strawson's **purely auditory world** tests the claim. Pitch and succession alone
 
 ### Local practice
 
-**MCQ 22.** Why is reidentification central?
-A. It proves every body is permanent.
-B. Objective reference requires tracking a particular across different occasions within one framework.
-C. It reduces bodies to sensations.
-D. It makes location unnecessary.
+**MCQ 22: B**
 
-**MCQ 23.** The auditory-world discussion most plausibly establishes that
-A. sound is unreal.
-B. vision is required in every possible scheme.
+**Question:** Why is reidentification central to objectivity?
+
+A. It proves that every material body is permanent.
+B. Objective reference requires tracking one particular across different occasions within a single framework.
+C. It reduces material bodies to passing sensations.
+D. It makes spatial location unnecessary for reference.
+
+- **A — Incorrect:** it confuses persistence through reidentification with outright permanence.
+- **B — Correct:** objectivity needs the same particular to be reidentified across occasions in one spatio-temporal framework.
+- **C — Incorrect:** it reverses Strawson's view by dissolving bodies into sensations.
+- **D — Incorrect:** it removes the very framework that reidentification presupposes.
+
+**MCQ 23: C**
+
+**Question:** The auditory-world discussion most plausibly establishes that
+
+A. sound is ultimately unreal as a particular.
+B. vision is strictly required in every possible scheme.
 C. objective identification requires a stable individuating framework, perhaps an analogue of space.
 D. temporal order alone automatically yields material bodies.
 
-**MCQ 24 — Critical.** Which limitation should qualify Strawson's conclusion?
-A. It has no relation to identification.
-B. It proves phenomenalism.
-C. It entails that bodies are microscopic simples.
+- **A — Incorrect:** the thought-experiment says nothing about the unreality of sound.
+- **B — Incorrect:** it overstates our particular sensory form into a universal requirement of vision.
+- **C — Correct:** the sound world shows objectivity needs an individuating order, which a space-analogue could in principle supply.
+- **D — Incorrect:** it treats mere temporal succession as sufficient, which the discussion denies.
+
+**MCQ 24: D**
+
+**Question:** Which limitation should qualify Strawson's conclusion about bodies?
+
+A. It bears no genuine relation to identification at all.
+B. It actually proves a phenomenalism about material bodies.
+C. It entails that basic bodies must be microscopic simples.
 D. It primarily describes conditions of our conceptual scheme, not the uniquely possible ontology.
 
-**MCQ 25 — Remedial.** Calling bodies “basic” means
-A. identification of many other particulars depends on them, while they are standard public anchors.
-B. they are chemically indivisible.
+- **A — Incorrect:** it denies the very identification argument that is the core of the view.
+- **B — Incorrect:** it states the rival phenomenalist conclusion that Strawson argues against.
+- **C — Incorrect:** it confuses identificatory basicness with physical simplicity.
+- **D — Correct:** the honest qualification is that the argument maps our scheme's conditions, not the only possible ontology.
+
+**MCQ 25: A**
+
+**Question:** Calling material bodies “basic” means that
+
+A. identification of many other particulars depends on them, and they are the standard public anchors.
+B. they are chemically indivisible units of matter.
 C. they are inferred from private data by definition.
-D. they cannot change.
+D. they are incapable of undergoing any change.
 
-**Answers and explanations**
-
-- **22 — B.** B links identity across occasions to objectivity. A confuses persistence with permanence; C reverses Strawson; D removes the framework reidentification needs.
-- **23 — C.** C states the functional result. A is irrelevant; B overstates our sensory form; D treats temporal succession as sufficient.
-- **24 — D.** D marks descriptive-metaphysical scope. A denies the core; B states the rival view; C confuses basicness with physical simplicity.
-- **25 — A.** A gives identificatory dependence. B makes a scientific claim; C imports phenomenalist construction; D mistakes endurance for changelessness.
+- **A — Correct:** basicness is identificatory dependence together with the role of bodies as public anchors of reference.
+- **B — Incorrect:** it makes a chemical claim foreign to the identificatory sense of basic.
+- **C — Incorrect:** it imports the phenomenalist construction that Strawson rejects.
+- **D — Incorrect:** it mistakes enduring identity for changelessness.
 
 **Transition:** Bodies anchor public identity, but conscious states are attributed to embodied subjects. Why not analyse those subjects into a body plus a separate mind?
 
@@ -1694,7 +1842,7 @@ D. they cannot change.
 
 ## Lesson 10 — Why are pain and weight ascribed to the same thing?
 
-**Progress: 10 / 12 | Stage: Core | Subtopic: Person as a primitive concept**
+Progress: 10 / 12 | Stage: Core | Subtopic: Person as a primitive concept
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — *Individuals*, chapter 3
@@ -1861,29 +2009,47 @@ Our actual person-concept is learned and applied through embodied, publicly re-i
 
 ### Local practice
 
-**MCQ 26.** Why is the person primitive?
-A. It is an immortal mental substance.
-B. It is not analysed from separately identifiable mind and body; both predicate families apply to one prior subject.
-C. It is identical with a body alone.
-D. It cannot be reidentified.
+**MCQ 26: B**
 
-**MCQ 27.** What is distinctive about P-predicates?
-A. They apply only to oneself.
-B. They are inferred identically in every case.
+**Question:** Why is the person a primitive concept for Strawson?
+
+A. Because it is an immortal, purely mental substance.
+B. Because it is not analysed from separately identifiable mind and body; both predicate families apply to one prior subject.
+C. Because it is strictly identical with a body alone.
+D. Because it cannot be reidentified across occasions.
+
+- **A — Incorrect:** it makes the person a Cartesian soul, the very analysis Strawson rejects.
+- **B — Correct:** the person is conceptually prior, bearing both M- and P-predicates without being assembled from ego plus body.
+- **C — Incorrect:** it reduces the person to a body and drops the psychological predicates.
+- **D — Incorrect:** it denies the reidentifiable status that basic particulars possess.
+
+**MCQ 27: C**
+
+**Question:** What is distinctive about P-predicates?
+
+A. They can be applied only to oneself.
+B. They are inferred in exactly the same way in every case.
 C. They are self-ascribable without observation and other-ascribable through public criteria.
-D. They name private objects.
+D. They simply name hidden private inner objects.
 
-**MCQ 28 — Applied.** Why does the no-ownership theory face difficulty?
-A. It denies causal relations.
-B. It proves dualism.
-C. It cannot mention experiences.
-D. Grouping experiences around one uniquely relevant body reintroduces the personal unity denied.
+- **A — Incorrect:** restricting them to the first person destroys the public language they belong to.
+- **B — Incorrect:** it ignores the first-person and third-person asymmetry that defines them.
+- **C — Correct:** their mark is dual ascription, without observation to oneself and on behavioural criteria to others.
+- **D — Incorrect:** it reifies them as private objects, which Strawson's account denies.
 
-**Answers and explanations**
+**MCQ 28: D**
 
-- **26 — B.** B states conceptual priority. A makes it Cartesian; C reduces person to body; D contradicts basic-particular status.
-- **27 — C.** C captures dual ascription. A destroys public language; B ignores first/third-person asymmetry; D reifies experiences.
-- **28 — D.** D gives Strawson's internal objection. A is not its claim; B is the opposite conclusion; C is false because it speaks of experiences.
+**Question:** Why does the no-ownership theory face difficulty?
+
+A. Because it denies that there are any causal relations.
+B. Because it thereby ends up proving substance dualism.
+C. Because it cannot so much as mention experiences at all.
+D. Grouping experiences around one uniquely relevant body reintroduces the personal unity it denies.
+
+- **A — Incorrect:** denial of causal relations is not what the no-ownership theory claims.
+- **B — Incorrect:** it draws the opposite conclusion from the one the objection reaches.
+- **C — Incorrect:** the theory does speak of experiences, so this misstates it.
+- **D — Correct:** to say experiences belong to this body it must use “my”, covertly restoring the ownership it set out to deny.
 
 **Transition:** The person doctrine pressures bundle theories, while Strawson's philosophy of language pressures Russellian reconstruction. These links enrich but must remain bounded.
 
@@ -1891,7 +2057,7 @@ D. Grouping experiences around one uniquely relevant body reintroduces the perso
 
 ## Lesson 11 — What happens when reference or ownership fails?
 
-**Progress: 11 / 12 | Stage: Advanced | Subtopic: On Referring, sense-data and bundle-self links**
+Progress: 11 / 12 | Stage: Advanced | Subtopic: On Referring, sense-data and bundle-self links
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — “On Referring” (1950), Grice–Strawson (1956), *Individuals*
@@ -2048,22 +2214,33 @@ The disagreement therefore concerns aims as well as results. Russell offers a re
 
 ### Local practice
 
-**MCQ 29.** On Strawson's original account, an empty definite description chiefly involves
-A. failure of an existence presupposition for the attempted assertion.
-B. a meaningless sentence-type.
-C. proof that Russell rejects logic.
-D. a true negative existential.
+**MCQ 29: A**
 
-**MCQ 30.** Why can private sense-data not straightforwardly replace material bodies as basic particulars?
-A. They are always false.
+**Question:** On Strawson's original account, an empty definite description chiefly involves
+
+A. failure of an existence presupposition carried by the attempted assertion.
+B. a sentence-type that is literally meaningless.
+C. proof that Russell himself rejects classical logic.
+D. a straightforwardly true negative existential statement.
+
+- **A — Correct:** for Strawson the use presupposes existence, so with no referent the assertion fails to take a truth-value rather than being false.
+- **B — Incorrect:** it confuses a failed use with a meaningless sentence-type, a distinction Strawson insists on.
+- **C — Incorrect:** it is irrelevant, since Russell does not reject logic.
+- **D — Incorrect:** the true-negative-existential reading is Russell's analysis, not Strawson's use-based account.
+
+**MCQ 30: B**
+
+**Question:** Why can private sense-data not straightforwardly replace material bodies as basic particulars?
+
+A. Because such sense-data are always and necessarily false.
 B. Their privacy and momentariness do not independently supply public reidentification in one space-time.
-C. They are bound variables.
-D. They are analytic truths.
+C. Because they function merely as the bound variables of a theory.
+D. Because they are a species of analytic truth.
 
-**Answers and explanations**
-
-- **29 — A.** A states Strawson's use-based view. B confuses failed use with meaningless type; C is irrelevant; D does not analyse the definite-description use.
-- **30 — B.** B identifies the structural deficit. A treats data as propositions; C imports Quine; D imports dogma one.
+- **A — Incorrect:** it treats sense-data as if they were truth-bearing propositions.
+- **B — Correct:** being private and fleeting, sense-data cannot by themselves furnish the public, reidentifiable anchors objectivity needs.
+- **C — Incorrect:** it imports Quine's quantificational apparatus into Strawson's problem.
+- **D — Incorrect:** it imports first-dogma analyticity, which is unrelated to the sense-datum deficit.
 
 **Transition:** We can now compare the thinkers without merging them: one rebuilds empiricism as a web; the other uncovers the embodied framework of reference.
 
@@ -2071,7 +2248,7 @@ D. They are analytic truths.
 
 ## Lesson 12 — Are Quine and Strawson allies or methodological rivals?
 
-**Progress: 12 / 12 | Stage: Advanced | Subtopic: Critical synthesis and comparative judgment**
+Progress: 12 / 12 | Stage: Advanced | Subtopic: Critical synthesis and comparative judgment
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — complete Quine–Strawson doctrine and criticism set
@@ -2210,318 +2387,327 @@ CA found: none needed for final synthesis
 
 ### Local practice
 
-**MCQ 31.** Their deepest methodological difference is that
-A. Quine rejects science while Strawson accepts it.
-B. Strawson denies public criteria.
-C. Quine naturalizes and regiments inquiry, while Strawson describes conceptual connections in ordinary objective thought.
-D. both use identical verificationism.
+**MCQ 31: C**
 
-**MCQ 32.** Which synthesis is defensible?
-A. Both prove phenomenalism.
-B. Both treat logic as unrevisable.
-C. Strawson completes Quine's translation theory.
+**Question:** Their deepest methodological difference is that
+
+A. Quine rejects natural science while Strawson accepts it.
+B. Strawson denies that there are any public criteria.
+C. Quine naturalizes and regiments inquiry, while Strawson describes conceptual connections in ordinary objective thought.
+D. both ultimately rely on one and the same verificationism.
+
+- **A — Incorrect:** it reverses Quine, for whom science is the tribunal of inquiry.
+- **B — Incorrect:** it contradicts Strawson, whose account rests on public criteria for P-predicates.
+- **C — Correct:** the contrast is naturalistic regimentation against descriptive analysis of our conceptual scheme.
+- **D — Incorrect:** it assigns both thinkers the verificationism that each in fact opposes.
+
+**MCQ 32: D**
+
+**Question:** Which synthesis of the two thinkers is defensible?
+
+A. Both thinkers in the end prove a phenomenalism about objects.
+B. Both treat the laws of logic as strictly unrevisable.
+C. Strawson completes the translation theory that Quine left unfinished.
 D. Both pressure private atomistic foundations, though their positive methods remain distinct.
 
-**MCQ 33 — Remedial.** Which final verdict is best balanced?
-A. Quine powerfully attacks isolated confirmation but needs constraints on revisability; Strawson reveals conceptual unity but does not explain its causal mechanism.
-B. Quine refutes every semantic distinction and Strawson refutes every dualist proposition.
-C. Holism makes evidence optional and personhood is a third substance.
-D. Their doctrines are interchangeable.
+- **A — Incorrect:** it states the phenomenalism Strawson pressures and Quine does not endorse.
+- **B — Incorrect:** it ignores early Quine's claim that no statement, including logic, is wholly immune.
+- **C — Incorrect:** it merges unrelated projects, since Strawson has no translation theory to complete.
+- **D — Correct:** the bounded synthesis is shared anti-atomism about private foundations alongside genuinely different positive methods.
 
-**Answers and explanations**
+**MCQ 33: A**
 
-- **31 — C.** C states naturalism versus descriptive analysis. A reverses Quine; B contradicts Strawson's public criteria; D assigns the rejected doctrine to both.
-- **32 — D.** D gives genuine convergence with limits. A states the view Strawson pressures; B ignores early Quine; C merges unrelated doctrines.
-- **33 — A.** A identifies achievement and residual for each. B overclaims; C combines two classic errors; D erases their distinct problems.
+**Question:** Which final verdict on the two thinkers is best balanced?
+
+A. Quine powerfully attacks isolated confirmation but needs constraints on revisability; Strawson reveals conceptual unity but leaves its causal mechanism unexplained.
+B. Quine refutes every semantic distinction, and Strawson refutes every proposition a dualist could assert.
+C. Holism makes empirical evidence optional, and personhood turns out to be a third kind of substance.
+D. Their doctrines are interchangeable, so either thinker's verdict could simply replace the other's.
+
+- **A — Correct:** it credits each with a genuine achievement and names the residual problem each leaves open.
+- **B — Incorrect:** it overclaims both results beyond what either argument establishes.
+- **C — Incorrect:** it combines two classic errors, evidence-optional holism and a substance-person.
+- **D — Incorrect:** it erases the distinct problems that the two thinkers address.
 
 
 
 ---
 
-# Solved Verified PYQs
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+The ten verified Union Public Service Commission Philosophy Paper-I questions below are
+reproduced with their exact wording, mark value, directive, demand and a concise answer
+approach, and are linked to the lessons that build the required material. This section is
+linkage and routing only; it does not reproduce any solved model answer. Work the full
+answers from the linked lessons and from the original (non-PYQ) practice that follows.
 
 ## 2018 Q1(e) — 10 marks
 
 **Question:** How does Strawson explain the concept of person in his philosophy? Discuss.
 
-**Model solution**
-
-**Thesis.** Strawson explains the person not as a compound of mind and body but as a **logically primitive concept** - the concept of a single subject to which we ascribe both bodily and mental predicates, and which is presupposed by, rather than assembled from, the concepts of a pure ego and a pure body (*Individuals*, 1959, ch. 3).
-
-**The predicate matrix.** A person is that to which we ascribe both **M-predicates** - properties we also ascribe to mere material bodies ("weighs 70 kg", "is in the corner") - and **P-predicates** - states of consciousness and action ascribable only to persons ("is in pain", "believes that p", "is going for a walk"). The mark of a P-predicate is its **asymmetry**: it is ascribed to others on the basis of observed behaviour, but to oneself without observation or criteria.
-
-**The argument (self-ascription requires other-ascription).** I can ascribe P-predicates to myself only if the same predicates are ascribable to others; to ascribe them to others I must identify others as single subjects of both M- and P-predicates. Hence the concept of such a subject - a person - is presupposed by the very possibility of self-ascription, and is therefore primitive.
-
-**Consequence.** This blocks Cartesian dualism (two independent substances could not be the single subject our predicate-practice requires, and other minds would become unknowable) and the no-ownership theory (which cannot state its own claim without covertly reintroducing ownership).
-
-**Verdict.** The person concept is the indispensable middle term between mind and body; treating either as prior mislocates the foundation.
-
-*Why this earns marks:* it names the exact apparatus (primitive concept, M/P-predicates, self-ascription requiring other-ascription), draws the anti-Cartesian consequence, and dates the source - four disciplined moves that fill a 10-marker without padding.
+- **Directive:** Discuss — explain the account with reasoned exposition.
+- **Demand:** Set out Strawson's account of the person and show why it takes that form.
+- **Answer approach:** Define the governing concept, deploy the predicate-ascription argument, draw the consequence for the rival theory, and close with a dated, qualified judgment.
+- **Taught in:** Lesson 10, with support from Lesson 11.
 
 ## 2018 Q2(c) — 15 marks
 
 **Question:** How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.
 
-**Model solution**
-
-**Thesis.** Quine's charge that Kant's *a priori* is "a metaphysical article of faith" is the conclusion of three connected moves: there is no principled analytic/synthetic boundary; confirmation is holistic, so no statement is a priori *by nature*; and naturalism denies any first-philosophy standpoint from which the a priori could be certified. Kant's a priori therefore rests on an undischarged assumption - an article of faith.
-
-**Move 1 - the analytic/synthetic circle.** Kant's synthetic a priori presupposes a clear analytic/synthetic distinction. In "Two Dogmas of Empiricism" (*The Philosophical Review*, 1951) Quine shows analyticity can be explained only through synonymy, definition, interchangeability *salva veritate*, necessity and semantic rules - each of which presupposes analyticity. The boundary cannot be drawn non-circularly, so the category on which Kant's a priori depends is unfounded.
-
-**Move 2 - holism.** Because beliefs "face the tribunal of sense experience not individually but only as a corporate body" (the web of belief), *any* statement can be held true come what may, and none is immune to revision - even logic. So no belief is a priori *in its nature*; apparent apriority is only greater centrality in the web, a matter of degree, not of kind.
-
-**Move 3 - naturalism.** Philosophy is continuous with science, not its a priori tribunal; there is no external vantage from which to guarantee a priori knowledge. To assert it is therefore to take on trust exactly what cannot be shown - "a metaphysical article of faith".
-
-**Objection and reply.** Kant can respond that transcendental conditions of experience are not empirical hypotheses inside the web, so holistic revisability does not touch them (Strawson's descriptive-metaphysics reading protects a framework role). Quine's rejoinder: that reply reasserts a privileged non-empirical status which is precisely the article of faith in question.
-
-**Verdict.** Quine succeeds against a *sharp* a priori/a posteriori boundary; what survives is a gradient of entrenchment, not a certified Kantian a priori - though whether *some* framework role escapes the web is the live residue (kept separate from the Kant paper's own defence).
-
-*Why this earns marks:* it keeps the question Quine's (not a Kant exposition), runs all three mechanisms with exact terms and the 1951 dating, and closes on a graded verdict.
+- **Directive:** Give reasons — justify the attribution rather than merely assert it.
+- **Demand:** Reconstruct the connected moves by which Quine reaches that charge.
+- **Answer approach:** State the structure of the charge, develop its supporting moves in turn, meet the framework-role objection, and rule with a graded verdict and the source dated.
+- **Taught in:** Lessons 2, 4 and 7.
 
 ## 2019 Q1(e) — 10 marks
 
 **Question:** Explain Quine’s arguments against synthetic-analytic distinction.
 
-**Model solution**
-
-**Thesis.** Quine argues that the analytic/synthetic distinction cannot be drawn by any principled, **non-circular** criterion; every proposed explanation of "analytic" presupposes a notion from the same family. His conclusion is precise: not that no sentence *seems* analytic, but that there is no principled boundary marking a class of truths true *by meaning alone*.
-
-**The circle of meaning (reproduce it).** (1) Analytic truths divide into logical truths and those reducible to logical truths by substituting **synonyms**; so analyticity needs **synonymy**. (2) Synonymy might be explained by **definition** - but a good definition *reports* an antecedent synonymy, so this is circular. (3) Or by **interchangeability *salva veritate*** - but in an extensional language this over-generates (coextensive terms like "creature with a heart"/"creature with a kidney" interchange without being synonymous), and adding "necessarily" to fix it presupposes **necessity**, which for Quine is intelligible only *via* analyticity. (4) Or by **semantic rules** in an artificial language - but these merely list what is to *count* as analytic, without saying what analyticity *is*. Every road returns to the start.
-
-**Analysis.** The dogma survives only as an unexplained primitive; the appearance of analyticity is really only greater centrality in the web of belief - a difference of degree, not of kind.
-
-**Objection and reply.** Grice and Strawson ("In Defence of a Dogma", 1956) argue that a distinction in ordinary use with agreed examples is not discredited merely because no reductive definition is available. Quine's reply: agreed examples do not supply the *principled behavioural boundary* the epistemology of logical empiricism required.
-
-**Verdict.** Quine wins where the distinction was load-bearing (the verification principle, the linguistic theory of necessity); the exact result is the failure of a non-circular criterion, not the denial that "bachelors are unmarried" looks analytic.
-
-*Why this earns marks:* it gives the closed circle step by step, states the precise (often-missed) conclusion, and answers the standard Grice-Strawson objection.
+- **Directive:** Explain — expound the arguments clearly.
+- **Demand:** Present the case against a principled analytic and synthetic boundary and state the precise conclusion.
+- **Answer approach:** Work through the circularity of the proposed explications, fix the exact conclusion, meet the standard objection, and give a bounded verdict.
+- **Taught in:** Lesson 2.
 
 ## 2020 Q3(b) — 15 marks
 
 **Question:** Evaluate the role of spatio-temporal thinking in objective thinking with reference to Strawson's theory of basic particulars.
 
-**Model solution**
-
-**Thesis.** For Strawson, **spatio-temporal thinking is a precondition of objective thinking itself**: we can think of a world of particulars that exist independently of our experience only because we can locate and re-locate them in a single public spatio-temporal framework - and material bodies, his basic particulars, are what constitute that framework (*Individuals*, 1959).
-
-**Objectivity and re-identification.** Objective thought requires the distinction between "how things are" and "how they seem to me". That distinction has a use only if I can **re-identify** particulars - judge "this is the same one I encountered before" - across gaps in observation. Re-identification in turn requires a **single, unified system of space and time** within which a thing traces a continuous career.
-
-**Why material bodies are basic.** Bodies are three-dimensional, relatively enduring and publicly located; they compose the one spatio-temporal system, and every more shadowy particular (a sound, a flash, a private sensation) is identified only by reference to bodies and their positions. So bodies are the **basic particulars** - identifiable without first identifying anything else - and spatio-temporal thinking is built into objective thought.
-
-**The no-space test.** Strawson's purely **auditory world** asks whether a non-spatial being could sustain re-identification. His answer: only by constructing a sound-analogue of space (a "master-sound" whose pitch fixes position) - which *concedes* the thesis, since a space-substitute must be reintroduced.
-
-**Objection and reply.** Evans and others argue the auditory construction may smuggle in spatial notions or fall short of genuine re-identification, and that a merely temporal framework might suffice. Reply: even the minimal construction must reintroduce something that plays space's *individuating* role, which is the substantive claim.
-
-**Verdict.** Spatio-temporal thinking is not a convenient tool for finding things but a **transcendental condition** of there being objective particulars to think about; the dependence claim survives the objections.
-
-*Why this earns marks:* it routes the general "objectivity" point through Strawson's own re-identification argument and auditory-world test, and evaluates rather than merely expounds.
+- **Directive:** Evaluate — weigh the claim, do not merely expound it.
+- **Demand:** Connect spatio-temporal thinking to objectivity through the basic-particular argument and assess it.
+- **Answer approach:** Route objectivity through reidentification and the framework requirement, test it with the auditory-world case, weigh the main objection, and evaluate rather than only describe.
+- **Taught in:** Lessons 8 and 9.
 
 ## 2021 Q3(b) — 15 marks
 
 **Question:** What according to Strawson are basic particulars? What reasons does Strawson offer to believe that ‘material bodies’ and ‘persons’ are basic particulars? Critically discuss.
 
-**Model solution**
-
-**Thesis.** Basic particulars are the particulars that can be **identified without first identifying anything else**; Strawson argues that **material bodies** and **persons** are the two basic categories, because both are required for the single public framework in which objective particular-identification is possible (*Individuals*, 1959).
-
-**Material bodies.** Objective thought requires **re-identification** of particulars, which requires a **single, unified spatio-temporal system**; material bodies - three-dimensional, enduring, publicly located - constitute that system, and every other particular (events, processes, private experiences) is identified by reference to them. Hence bodies are basic. The **no-space (auditory) world** confirms this: re-identification without space is possible only by building a space-analogue.
-
-**Persons.** Persons are the *second* basic particular because the concept of a person is **primitive** - a single subject of both **M-predicates** (also true of bodies) and **P-predicates** (states of consciousness, ascribed to others on behavioural criteria, to oneself without observation). Since **self-ascription of P-predicates requires other-ascription**, and other-ascription requires identifying others as embodied subjects, persons cannot be reduced to bodies-plus-egos; they are irreducibly basic.
-
-**Critical discussion.** (i) Are persons genuinely *co-basic* with bodies, or dependent on them (since persons are a kind of body)? Strawson's answer: persons are not *reducible* to bodies because P-predicates cannot be analysed in purely bodily terms, so both categories are needed. (ii) Evans-type objections to the auditory world; (iii) whether the argument establishes *primitiveness* or only *co-instantiation* of the mental and bodily.
-
-**Verdict.** The dual thesis holds: bodies ground the spatio-temporal framework, persons ground the subject of experience, and neither category can be dissolved into the other without losing the conditions of objective thought.
-
-*Why this earns marks:* it defines "basic" precisely, argues bodies *and* persons with their distinct mechanisms (re-identification; primitiveness), and delivers the "critically discuss" demand with real objections.
+- **Directive:** Critically discuss — expose and test the reasons offered.
+- **Demand:** Define basicness and argue both basic categories with their distinct grounds, then criticise.
+- **Answer approach:** Define the key term precisely, argue each category by its own route, meet real objections, and deliver a reasoned verdict.
+- **Taught in:** Lessons 8, 9 and 10.
 
 ## 2021 Q3(c) — 15 marks
 
 **Question:** Critically examine Quine’s postulate of empiricism without the dogmas with reference to his ‘Two Dogmas of Empiricism’.
 
-**Model solution**
-
-**Thesis.** "Empiricism without the dogmas" is Quine's positive doctrine: once the two dogmas are abandoned, what remains is a **holistic empiricism** in which experience still governs belief, but the whole web of belief - not the individual sentence - faces the tribunal of experience (*Two Dogmas of Empiricism*, 1951).
-
-**The two dogmas removed.** Dogma 1, the **analytic/synthetic distinction**, fails because "analytic" has no non-circular criterion (synonymy, definition, interchangeability *salva veritate*, necessity, semantic rules all presuppose it). Dogma 2, **reductionism** - the belief that each meaningful statement is equivalent to a construction upon terms referring to immediate experience, so that each has its own range of confirming experiences - fails because no statement is confirmed in isolation.
-
-**The positive residue - holism.** Our beliefs form a **web** or "field of force" that impinges on experience only at its edges; a recalcitrant experience forces readjustment *somewhere*, but which statements to revise is **underdetermined** by experience, so "no statement is immune to revision" and "any statement can be held true come what may". This is the **Duhem-Quine** point: a hypothesis meets experience only conjoined with auxiliaries. Empiricism survives as the thesis that experience is the only check on belief; what is dropped is the atomistic idea that it checks sentences one by one.
-
-**Objection and reply.** (i) Grice and Strawson ("In Defence of a Dogma", 1956) argue Quine has not shown the analytic/synthetic distinction is *unreal*, only undefined - so the residue may be an overreach. (ii) If any statement can be saved, does holism license irrationalism? Reply: revision is disciplined by pragmatic virtues - **minimum mutilation**, conservatism, simplicity - so holism is not "anything goes". (iii) Quine himself concedes we may keep speaking of centrality and periphery, which does much of the analytic/synthetic work by degree.
-
-**Verdict.** The postulate is coherent and powerful: empiricism is *reformed*, not abandoned - experience governs the corporate body of belief holistically - but its cost is the loss of any sharp a priori/empirical line, replaced by gradients of entrenchment.
-
-*Why this earns marks:* it explains *both* dogmas, isolates the exact positive residue (holism + pragmatic constraints), and critically examines it with the standard objections and a ruling.
+- **Directive:** Critically examine — reconstruct the positive doctrine and assess it.
+- **Demand:** Show what survives once both dogmas are dropped and test the positive residue.
+- **Answer approach:** Set out both dogmas, isolate the positive residue, discipline it against the “anything goes” worry, and rule with the source dated.
+- **Taught in:** Lessons 2, 3 and 4.
 
 ## 2023 Q4(a) — 20 marks
 
 **Question:** Why does Strawson consider person to be a primitive concept? What implication does it have for the mind-body dualism? Discuss.
 
-**Model solution**
-
-**Thesis.** Strawson considers **person** a *primitive* concept because it cannot be analysed as a composite of a pure Cartesian ego and a material body; rather, the concept of a single subject bearing both bodily and mental predicates is **logically prior** to, and presupposed by, both. Its chief implication is the collapse of mind-body dualism, since two independent substances could not be the one subject our predicate-practice demands (*Individuals*, 1959, ch. 3, "Persons").
-
-**1. What "primitive" means.** To call the person concept primitive is to deny that it is *definable* in terms of the concept of a pure consciousness plus the concept of a body. Those two concepts are, for Strawson, *later abstractions* from the person concept, not its constituents; the Cartesian order of analysis is inverted.
-
-**2. The predicate matrix.** We ascribe to one and the same individual both **M-predicates** (also true of mere bodies - "weighs 70 kg", "is in the room") and **P-predicates** (states of consciousness and action - "is in pain", "believes", "is going for a walk"). P-predicates are **asymmetric**: ascribed to others on behavioural criteria, to oneself without observation. That a single concept carries predicates of this double character is the central datum.
-
-**3. The self-ascription argument.** (i) I ascribe P-predicates to myself. (ii) A predicate I ascribe to myself must be one I can ascribe to others. (iii) To ascribe P-predicates to others I must identify them as single subjects of both M- and P-predicates. (iv) Therefore the concept of such a subject - a person - is presupposed by self-ascription itself; it is primitive.
-
-**4. Implication for dualism.** On dualism the real subject is an immaterial ego and the body a separate substance. Then P-predicates would attach to an ego I can never observe in others, so I could neither learn nor apply them - and so could not self-ascribe them either; and two logically independent substances could not be the *single* subject our practice requires. Dualism makes other minds unknowable and P-ascription unintelligible. **The mirror error - the no-ownership theory** (Lichtenberg's "it thinks" for Descartes's "I think") - is equally blocked: it cannot state that experiences depend on *this* body rather than that without covertly using "my", reintroducing the ownership it denies. So experiences are necessarily owned by a person.
-
-**5. Objections and reply.** (i) Does the argument prove *primitiveness*, or only that the mental and bodily are *co-instantiated*? Strawson: mere co-instantiation would not explain the asymmetric logic of P-predicates, which requires a single subject-concept. (ii) Ayer defended a version of the no-ownership view; Strawson's self-reference point answers it. (iii) The behavioural-criteria premise risks logical behaviourism; Strawson insists behaviour is *criterial evidence*, not the *meaning* of P-predicates.
-
-**Verdict.** The person is the indispensable middle term between mind and body; dualism and no-ownership both fail because each denies the single subject that the logic of P-predicates presupposes. What survives even under the co-instantiation worry is that any adequate scheme must treat the person, not the ego or the body, as basic.
-
-*Why this earns marks:* it delivers the full 20-mark architecture - define primitive, matrix, self-ascription argument, the block on *both* dualism and no-ownership, then named objections and a graded verdict - with the 1959 source.
+- **Directive:** Discuss — argue both clauses at length.
+- **Demand:** Justify why the person is primitive and draw its consequence for mind-body dualism.
+- **Answer approach:** Fix the sense of “primitive”, deploy the predicate-ascription argument, block both rival theories, handle named objections, and close on a graded verdict.
+- **Taught in:** Lesson 10, with support from Lesson 11.
 
 ## 2024 Q4(c) — 15 marks
 
 **Question:** Explain the nature of the two dogmas that Quine refers to in his paper ‘Two Dogmas of Empiricism’.
 
-**Model solution**
-
-**Thesis.** The two dogmas Quine attacks in "Two Dogmas of Empiricism" (*The Philosophical Review*, 1951) are (1) the belief in a fundamental **analytic/synthetic distinction**, and (2) **reductionism** - the belief that every meaningful statement is equivalent to some logical construction upon terms referring to immediate experience. Quine argues both are ill-founded and that they are "at root identical".
-
-**Dogma 1 - the analytic/synthetic distinction.** The claim is that some truths are true *by meaning* (analytic) and others *by fact* (synthetic). Quine shows "analytic" can be explained only through a circle of interdefinable notions - **synonymy, definition, interchangeability *salva veritate*, necessity, semantic rules** - each presupposing analyticity. No non-circular criterion exists, so the distinction lacks the principled basis empiricism claimed for it. His precise conclusion is the absence of a boundary, not the denial that some sentences seem analytic.
-
-**Dogma 2 - reductionism.** In its radical form (Locke, Hume, early Carnap's *Aufbau*) each statement has its *own* unique range of confirming or infirming experiences - **verificationism at the level of the individual sentence**. Quine argues no statement is confirmed in isolation: statements meet experience only in concert (the **Duhem-Quine** point), so the idea of statement-by-statement verification collapses.
-
-**Why the two dogmas are "at root identical".** The analytic/synthetic distinction and reductionism are two sides of one verificationist theory of meaning: an analytic statement is the limiting case of one confirmed "come what may" (empty confirmation-conditions), while reductionism assigns each synthetic statement its private confirmation-conditions. Reject individual verification and both the sharp analytic pole and the reductionist picture fall together.
-
-**Consequence - holism.** What replaces them is **confirmation holism**: belief faces "the tribunal of sense experience not individually but only as a corporate body" (the web of belief), and no statement is immune to revision. This is "empiricism without the dogmas".
-
-**Verdict.** The nature of the two dogmas is that both are unearned commitments of logical empiricism's theory of meaning; dismantling individual verificationism removes both at once and yields holism.
-
-*Why this earns marks:* it identifies each dogma exactly, shows *why* Quine calls them identical (the shared verificationism), and lands the positive holistic consequence - the depth a bare "explain the two dogmas" answer usually misses.
+- **Directive:** Explain — identify and characterise each dogma.
+- **Demand:** State each dogma exactly and show why Quine calls them identical.
+- **Answer approach:** Characterise each dogma, explain their shared root, and land the positive holistic consequence, with the source dated.
+- **Taught in:** Lessons 1, 2 and 3.
 
 ## 2025 Q4(b) — 15 marks
 
 **Question:** “We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere.” Discuss this statement in the light of Quine’s ‘Two Dogmas of Empiricism’.
 
-**Model solution**
-
-**Thesis.** The quotation - "We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere" - states Quine's **confirmation holism**: because belief confronts experience only as a whole, any statement can be retained under any evidence, provided compensating revisions are made elsewhere in the web (*Two Dogmas of Empiricism*, 1951).
-
-**The web of belief.** Our beliefs form a **field of force** or web whose boundary conditions are experience. A conflict with experience occasions readjustment *somewhere in the interior*, but "the total field is so underdetermined by its boundary conditions ... that there is much latitude of choice as to what statements to re-evaluate". Hence "**no statement is immune to revision**", and, conversely, any statement can be held true "**come what may**".
-
-**Why it is true - the Duhem-Quine mechanism.** A hypothesis H predicts an observation O only with auxiliaries A: (H & A) -> O. If O fails, logic yields only NOT-(H & A) - *something* in the conjunction is false, but not *which*. So one may always protect H by revising A (or even, at the extreme, by "pleading hallucination" or revising a law of logic). Refutation is never decisive against a single sentence; that is the exact ground of the quotation.
-
-**Consequences.** (i) The analytic/synthetic distinction loses its point - apparent analyticity is just maximal centrality in the web. (ii) There is no sentence-by-sentence verification (the second dogma falls). (iii) The a priori becomes a matter of degree of entrenchment, not of kind.
-
-**Objection and reply.** Does holism license irrationalism - if we may hold anything true, is theory-choice arbitrary? Reply: revision is disciplined by **pragmatic virtues** - **minimum mutilation**, conservatism, simplicity, generality, fecundity. We *may* save any sentence, but at a rational *cost*; central logical laws are given up only under enormous pressure (cf. the debate over revising logic for quantum mechanics - Birkhoff and von Neumann 1936; Putnam 1968 - and Quine's caution about "change of subject"). So "any statement come what may" describes what is *logically possible*, constrained by what is *pragmatically reasonable*.
-
-**Verdict.** The statement is not a licence for caprice but a precise consequence of holism: experience constrains the web globally, not sentence by sentence, so rational revision is a matter of balancing conservatism against simplicity across the whole system.
-
-*Why this earns marks:* it decodes the quotation as holism, grounds it in the Duhem-Quine mechanism, draws the consequences, and defuses the "anything goes" objection with the pragmatic constraints and a clean verdict.
+- **Directive:** Discuss — decode and assess the quoted statement.
+- **Demand:** Read the quotation as a thesis, ground it, and defuse the misreading.
+- **Answer approach:** Decode the quotation as a thesis, ground it in the testing mechanism, draw the consequences, and answer the “anything goes” objection with a clean verdict.
+- **Taught in:** Lessons 4 and 5.
 
 ## 2026 Q3(a) — 20 marks
 
 **Question:** Why are states of consciousness ascribed to anything at all and why are they ascribed to the same things to which we also ascribe physical properties? How does Strawson answer these questions in his work *Individuals*?
 
-**Model answer**
+- **Directive:** Explain — answer both clauses through Strawson's text.
+- **Demand:** Account for ascription at all and for ascription to a single bearer of physical predicates.
+- **Answer approach:** Address both clauses through the asymmetric ascription argument, reach the single embodied subject, draw the anti-dualist implication, and mark the limit, with the source dated.
+- **Taught in:** Lesson 10, with support from Lessons 9 and 11.
 
-**Thesis.** In *Individuals* (1959), Strawson argues that psychological predicates are intelligible only within a public practice of self- and other-ascription, and that their primitive subject is the same embodied person who bears physical predicates.
+No Quine–Strawson question is set for 2022. The ten questions above span 2018 to 2026;
+complete teaching for each lies in the linked lessons, and freshly solved practice appears
+only in the original Mains and MCQ banks that follow.
 
-M-predicates such as weight, location and movement also apply to material bodies. P-predicates such as pain, belief, intention and action apply to persons. P-predicates are ascribed to others on behavioural and situational criteria but to oneself without observing one's behaviour. A predicate understood in self-ascription must also be applicable to others; other-ascription requires publicly identifiable embodied subjects. Therefore one subject must bear both predicate-kinds. The person is logically primitive: pure ego and mere body are abstractions from it, not independently identified components.
+# CUMULATIVE MCQS
 
-Cartesian dualism makes the mental subject independently identifiable and thereby makes other minds mysterious. No-ownership theory removes the subject but covertly restores it when connecting experiences to this rather than that body. Behaviour is criterial evidence, not a reductive definition of consciousness.
+**MCQ 34: B**
 
-**Verdict.** Strawson answers both questions through one conceptual fact: a single embodied person is the owner and subject of mental and physical predicates. This dissolves the dualist starting point, though it does not provide a causal theory of consciousness.
+**Question:** Quine's most defensible conclusion about analyticity is that
 
-*Why this earns marks:* it answers both clauses, reconstructs asymmetric P-predicate ascription, and states the anti-dualist force and limit.
+A. ordinary and stipulative definitions never perform any function.
+B. available explications do not ground the sharp foundational boundary logical empiricism required.
+C. every sentence in the language has exactly the same meaning.
+D. the truths of logic turn out to be straightforwardly empirically false.
 
-# Original Cumulative MCQs
+- **A — Incorrect:** Quine accepts reporting and stipulative definitions, so denying all function misstates him.
+- **B — Correct:** his measured result is that no explication secures the load-bearing analytic and synthetic boundary.
+- **C — Incorrect:** it confuses indeterminacy of translation with an absurd identity of all meanings.
+- **D — Incorrect:** it mistakes revisability in principle for empirical falsity of logic.
 
-**MCQ 34.** Quine's most defensible conclusion about analyticity is that
-A. definitions never function.
-B. available explications do not ground the sharp foundational boundary required by logical empiricism.
-C. every sentence has the same meaning.
-D. logical truths are empirically false.
+**MCQ 35: C**
 
-**MCQ 35.** A failed prediction directly licenses which inference?
-A. Reject the focal law.
-B. Reject the instrument assumption.
+**Question:** A failed prediction directly licenses which inference?
+
+A. Reject the focal law of the theory outright.
+B. Reject the instrument or auxiliary assumption outright.
 C. Reject at least one member of the predictive conjunction, without a uniquely dictated choice.
-D. Reject observation itself in every case.
+D. Reject the reliability of observation itself in every case.
 
-**MCQ 36.** “Minimum mutilation” recommends
-A. never altering a central belief.
-B. revising only observations.
-C. preserving every accepted theory.
+- **A — Incorrect:** it singles out the law without warrant, which the conjunction problem forbids.
+- **B — Incorrect:** it singles out the auxiliary without warrant, the mirror-image error.
+- **C — Correct:** modus tollens falsifies only the conjunction, so the choice of culprit stays open.
+- **D — Incorrect:** it turns a possible extreme rescue into a mandatory rejection of observation.
+
+**MCQ 36: D**
+
+**Question:** “Minimum mutilation” recommends
+
+A. never altering a central belief under any circumstances.
+B. revising only the observational statements at the edge.
+C. preserving every accepted theory completely intact.
 D. restoring empirical fit with the least damaging overall change compatible with inquiry.
 
-**MCQ 37.** Which pair is correctly matched?
-A. Inscrutability—term reference; indeterminacy—rival translation manuals.
-B. Inscrutability—logic; indeterminacy—material bodies.
-C. Inscrutability—self-ascription; indeterminacy—predication.
-D. Inscrutability—semantic rules; indeterminacy—analytic truth.
+- **A — Incorrect:** it turns conservative cost into absolute immunity, which the maxim does not grant.
+- **B — Incorrect:** it privileges the periphery absolutely, against systemic repair.
+- **C — Incorrect:** preserving every theory would block correction altogether.
+- **D — Correct:** the maxim repairs the system with the smallest disruption consistent with continued inquiry.
 
-**MCQ 38.** The bound-variable criterion cannot by itself
-A. display commitments of a regimented theory.
-B. select the uniquely best total theory and regimentation.
-C. distinguish quantification from naming.
-D. reveal commitment not visible in surface nouns.
+**MCQ 37: A**
 
-**MCQ 39.** Strawson's metaphysics is descriptive because it
-A. denies every possible revision.
-B. lists scientific particles.
+**Question:** Which pair is correctly matched?
+
+A. Inscrutability goes with term reference; indeterminacy goes with rival translation manuals.
+B. Inscrutability goes with logic; indeterminacy goes with material bodies.
+C. Inscrutability goes with self-ascription; indeterminacy goes with predication.
+D. Inscrutability goes with semantic rules; indeterminacy goes with analytic truth.
+
+- **A — Correct:** inscrutability concerns the reference of terms, while indeterminacy concerns whole rival manuals of translation.
+- **B — Incorrect:** it pairs the theses with logic and bodies, which belong to other debates.
+- **C — Incorrect:** self-ascription and predication are Strawson's person vocabulary, not these theses.
+- **D — Incorrect:** semantic rules and analytic truth belong to the first-dogma discussion, not to reference.
+
+**MCQ 38: B**
+
+**Question:** The bound-variable criterion cannot by itself
+
+A. display the commitments of an already regimented theory.
+B. select the uniquely best total theory and its regimentation.
+C. distinguish genuine quantification from mere naming.
+D. reveal a commitment that is not visible in surface nouns.
+
+- **A — Incorrect:** displaying commitments after regimentation is exactly what the criterion does.
+- **B — Correct:** choosing the best theory requires prior theoretical judgment that quantification alone cannot supply.
+- **C — Incorrect:** separating quantification from naming is within the criterion's competence.
+- **D — Incorrect:** exposing hidden commitment beneath surface nouns is a task the criterion performs.
+
+**MCQ 39: C**
+
+**Question:** Strawson's metaphysics is descriptive because it
+
+A. denies that any conceptual revision is ever possible.
+B. merely lists the particles catalogued by physics.
 C. discloses general structures implicit in our actual identification and predication.
-D. reduces objects to sensations.
+D. reduces ordinary objects to bundles of sensations.
 
-**MCQ 40.** A purely auditory scheme challenges Strawson by asking whether
-A. sounds can be meaningful.
-B. time exists.
-C. all bodies are visible.
+- **A — Incorrect:** it exaggerates descriptive method into a blanket denial of revisability.
+- **B — Incorrect:** it confuses conceptual inquiry with a physical inventory.
+- **C — Correct:** descriptive metaphysics lays bare the structures already presupposed by how we identify and predicate.
+- **D — Incorrect:** it describes phenomenalist construction, the opposite of Strawson's aim.
+
+**MCQ 40: D**
+
+**Question:** A purely auditory scheme challenges Strawson by asking whether
+
+A. sounds can be meaningful to a hearer at all.
+B. time genuinely exists for such a being.
+C. every material body is in fact visible.
 D. an analogue of spatial organisation could support objective reidentification without familiar bodies.
 
-**MCQ 41.** P-predicates are not mere reports of hidden private objects because
+- **A — Incorrect:** the meaningfulness of sounds is not what the test probes.
+- **B — Incorrect:** the existence of time is not the question the thought-experiment raises.
+- **C — Incorrect:** it assumes vision where the issue is the conditions of objectivity.
+- **D — Correct:** the test asks whether some space-analogue could play the individuating role that bodies normally play.
+
+**MCQ 41: A**
+
+**Question:** P-predicates are not mere reports of hidden private objects because
+
 A. their public other-ascription and non-observational self-ascription belong to one shared predicate practice.
-B. they apply only to bodies.
-C. they are analytic definitions.
-D. they cannot be mistaken.
+B. they can be applied only to material bodies.
+C. they are really a species of analytic definition.
+D. they can never once be mistaken in application.
 
-**MCQ 42.** Grice and Strawson's reply to Quine chiefly argues that
-A. verification proves analyticity.
-B. ordinary contrast-cases may sustain a legitimate distinction even without reductive definition.
-C. every truth is analytic.
-D. synonymy is private intuition.
+- **A — Correct:** the same predicate is used on behavioural criteria for others and without observation for oneself, a public dual grammar rather than a private report.
+- **B — Incorrect:** it erases the psychological use by restricting P-predicates to bodies.
+- **C — Incorrect:** it confuses P-predicates with analyticity.
+- **D — Incorrect:** it falsely treats their ascription as infallible.
 
-**MCQ 43.** Which claim correctly limits *On Referring*?
-A. It is Strawson's theory of material bodies.
-B. It proves every empty description meaningless.
+**MCQ 42: B**
+
+**Question:** Grice and Strawson's reply to Quine chiefly argues that
+
+A. verification by experience establishes analyticity.
+B. ordinary contrast-cases may sustain a legitimate distinction even without a reductive definition.
+C. every truth is in the end an analytic truth.
+D. synonymy is simply a matter of private intuition.
+
+- **A — Incorrect:** it returns to the second dogma by grounding analyticity in verification.
+- **B — Correct:** their ordinary-language defence holds that an agreed, teachable contrast can be real even if unreduced.
+- **C — Incorrect:** it destroys the distinction by making every truth analytic.
+- **D — Incorrect:** it recasts public linguistic competence as private intuition, which they deny.
+
+**MCQ 43: C**
+
+**Question:** Which claim correctly limits the place of On Referring?
+
+A. It is Strawson's considered theory of material bodies.
+B. It proves that every empty description is meaningless.
 C. It illuminates his attention to use but does not replace the syllabus core of particulars and persons.
-D. It is Quine's reply to reductionism.
+D. It is in fact Quine's reply to reductionism.
 
-**MCQ 44.** Quine and later Wittgenstein converge in
-A. constructing the same scientific semantics.
-B. endorsing private mental meanings.
-C. treating ideal logical notation as ordinary language's essence.
+- **A — Incorrect:** it confuses a paper on reference with the metaphysics of bodies.
+- **B — Incorrect:** it confuses a failed use with a meaningless sentence-type, which the paper denies.
+- **C — Correct:** On Referring enriches the account of use but remains an addition to, not a substitute for, particulars and persons.
+- **D — Incorrect:** it misattributes the paper to Quine and to the reductionism debate.
+
+**MCQ 44: D**
+
+**Question:** Quine and the later Wittgenstein converge in
+
+A. constructing exactly the same scientific semantics.
+B. endorsing private mental items as meanings.
+C. treating ideal logical notation as the essence of ordinary language.
 D. resisting private fixers of meaning, despite different scientific and therapeutic methods.
 
-**MCQ 45.** The best joint verdict is that
+- **A — Incorrect:** it erases Wittgenstein's anti-theoretical method by assimilating it to Quine's science.
+- **B — Incorrect:** it states the very private meaning both thinkers resist.
+- **C — Incorrect:** it gives Quine's regimentation a Wittgensteinian endorsement Wittgenstein would refuse.
+- **D — Correct:** both deny a private inner item that fixes meaning, though one proceeds by science and the other by therapy.
+
+**MCQ 45: A**
+
+**Question:** The best joint verdict on the two thinkers is that
+
 A. Quine defeats atomistic confirmation and Strawson defeats atomistic constructions of objective subjects, without forming one positive school.
-B. both defend logical positivism.
-C. both reduce persons to bodies.
-D. both treat ordinary language as unrevisable revelation.
+B. both of them ultimately defend the programme of logical positivism.
+C. both of them reduce persons without remainder to material bodies.
+D. both of them treat ordinary language as an unrevisable revelation.
 
-## Answers with explanation of every option
-
-**34 — B.** A is false because Quine allows ordinary and stipulative definitions; B states the limited critical result; C confuses indeterminacy with semantic identity; D mistakes revisability for empirical falsity.
-**35 — C.** A and B choose one conjunct without warrant; C is the precise modus-tollens result; D makes a possible rescue mandatory.
-**36 — D.** A turns cost into immunity; B privileges the periphery absolutely; C blocks correction; D captures conservative systemic repair.
-**37 — A.** A correctly separates terms from manuals; B imports unrelated logic and ontology; C belongs to Strawson's person theory; D belongs to the first-dogma debate.
-**38 — B.** A, C and D are tasks the criterion can perform after regimentation; B requires prior theory choice and cannot be delivered by quantification alone.
-**39 — C.** A exaggerates conservatism; B confuses conceptual with physical inquiry; C states the method; D describes phenomenalist construction.
-**40 — D.** A and B are not the test; C assumes vision rather than objectivity; D asks whether another framework can perform space's individuating role.
-**41 — A.** A explains their dual grammar; B erases psychological use; C confuses them with analyticity; D falsely makes ascription infallible.
-**42 — B.** A returns to the second dogma; B states the ordinary-language defence; C destroys the distinction; D turns public linguistic competence into private intuition.
-**43 — C.** A confuses language with ontology; B confuses failed use with meaningless sentence-type; C gives its proper enriching role; D misattributes the paper.
-**44 — D.** A erases Wittgenstein's anti-theoretical method; B states what both resist; C gives Quine's regimentation a false Wittgensteinian endorsement; D marks convergence and divergence.
-**45 — A.** A gives bounded synthesis; B ignores Quine's critique; C contradicts Strawson's P-predicates; D converts descriptive attention into dogma.
+- **A — Correct:** the bounded verdict credits each with a distinct anti-atomist achievement while denying a shared positive doctrine.
+- **B — Incorrect:** it ignores Quine's critique of positivism's own dogmas.
+- **C — Incorrect:** it contradicts Strawson's irreducible person.
+- **D — Incorrect:** it converts descriptive attention to language into an unrevisable dogma.
 
 ---
 
-# Original 10-, 15- and 20-mark Mains Practice
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## 10 marks
 
@@ -2547,7 +2733,7 @@ The analogy is illuminating but limited. Quine's unit is epistemological and sem
 
 ---
 
-# Common-Error Remediation
+# REMEDIATION
 
 | Error | Why it fails | Repair drill |
 |---|---|---|
@@ -2572,7 +2758,7 @@ Rewrite this faulty thesis: “Quine and Strawson jointly prove that empirical k
 
 ---
 
-# Master Comparisons and Argument Maps
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
 ## Quine's two-dogma map
 
@@ -2637,7 +2823,7 @@ Strawson: “primitive merely names mystery”
 
 ---
 
-# Complete Consolidated Register Notes
+# COMPLETE CONSOLIDATED REGISTER NOTES
 
 ## Quine — critique and reconstruction
 
@@ -2711,7 +2897,7 @@ Strawson: “primitive merely names mystery”
 
 ---
 
-# Final Coverage Matrix
+# COVERAGE MATRIX
 
 | Lesson | Problem solved | Doctrine/argument | Criticism/reply | Local PYQ route |
 |---:|---|---|---|---|
@@ -2728,11 +2914,24 @@ Strawson: “primitive merely names mystery”
 | 11 | failed reference/ownership? | presupposition, sense-data, bundle links | Russell/empiricist replies | further context |
 | 12 | joint verdict? | comparison and synthesis | strongest residuals | all ten routes |
 
-All twelve lessons contain a philosophical problem, visual or comparison, complete local argument, example or application, criticism–reply–residual, UPSC route, revision and local practice. The ten primary questions appear in full only in the solved bank above.
+All twelve lessons contain a philosophical problem, visual or comparison, complete local argument, example or application, criticism–reply–residual, UPSC route, revision and local practice. The ten primary questions are linked to their lessons with answer approaches in the verified PYQ linkage section above and are not reproduced there as solved answers.
 
 ---
 
-# Source and Verification Ledger
+# SOURCE LEDGER
+
+## SOURCE-MANIFEST GATE
+
+| Source category | Status | Evidence / reason |
+|---|---|---|
+| canonical markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Quine-Strawson.md` supplied the core doctrine and syllabus mapping. |
+| final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
+| layered/complete session | checked | The permitted Quine-Strawson layered complete learning session dated 2026-08-19 was cross-checked for coverage. |
+| solved workbook | not relevant | Permanently excluded from live-session work; real PYQs remain links-only here. |
+| advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` §11 supplied the indeterminacy, metaphysical-method and person-as-primitive enrichment used in Lessons 6–10. |
+| ocr books | checked | Masih and Kenny Western Philosophy volumes supplied OCR-searchable contextual evidence. |
+| pyqs through 2026 | checked | The verified Western Philosophy ledgers and official papers corroborate the ten primary questions and the 2022 absence. |
+| official live sources | not relevant | This is a static Paper-I doctrine topic with no current-affairs dependency. |
 
 ## Primary philosophical sources
 
@@ -2750,6 +2949,7 @@ All twelve lessons contain a philosophical problem, visual or comparison, comple
 ## Supporting study sources
 
 - UPSC knowledge chapter: Quine–Strawson.
+- `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` §11, Quine–Strawson advanced modules.
 - Anthony Kenny, *A New History of Western Philosophy*, vol. IV, discussion of Quine and Strawson.
 - Y. Masih, *A Critical History of Western Philosophy*.
 - Verified Western Philosophy PYQ banks for 2018–2025 and 2026.
