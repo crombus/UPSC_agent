@@ -190,7 +190,7 @@ Section 4 connects inability to maintain oneself from one's own earnings or prop
 
 ## Lesson 3 — A scheme reaches a person only through a service
 
-Progress: 3/8 | Stage: Core | Subtopic: AVYAY, IPSrC, RVY, SAPSrC, SCOPE, SAGE and Elderline
+Progress: 3/8 | Stage: Core | Subtopic: AVYAY, IPSrC, RVY, SAPSrC, SACRED, SAGE and Elderline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Static foundation: AVYAY's differentiated care, device, State-plan, engagement, innovation and helpline pathways
@@ -213,14 +213,14 @@ Need identified → eligibility checked → local service / device found
 | Food, shelter and support | **IPSrC** (Integrated Programme for Senior Citizens): grant-supported senior homes and services | Local provider, standards, vacant places, ability to remain near community |
 | Assistive device | **RVY** (Rashtriya Vayoshri Yojana), delivered through ALIMCO for eligible age-related infirmity | Eligibility, assessment, device fit and follow-up |
 | Place-specific welfare | **SAPSrC** (State Action Plan for Senior Citizens) | State plan and actual district implementation |
-| Work or engagement | **SCOPE** matching productive opportunities; **SAGE** eldercare-product/service initiative | Voluntary choice and accessibility, not compulsory work |
+| Work or engagement | **SACRED** matching re-employment opportunities; **SAGE** eldercare-product/service initiative | Voluntary choice and accessibility, not compulsory work |
 | Advice or intervention | **Elderline 14567** national helpline | Whether a call yields safe referral and resolution |
 
 *This is a chain from a different need to a different response, not five identical pension schemes.*
 
-Suppose an older resident needs a walker. RVY may address mobility but does not pay their rent; a home may offer shelter but is not a hospital. **✅ Fact:** The MoSJE AVYAY description names IPSrC, SAPSrC, RVY, SCOPE and SAGE. IPSrC supports institutional and non-institutional arrangements, including homes; the umbrella aims also at active ageing, intergenerational ties, accessibility and the “silver economy.” RVY focuses on assisted-living devices for people **60+ with age-related infirmity** meeting its **BPL or family-income-up-to-₹15,000/month** conditions under the cited guidelines, subject to assessment; recheck the operative local guideline before advising an applicant. A scheme *listing* does not establish that every elderly person receives the item.
+Suppose an older resident needs a walker. RVY may address mobility but does not pay their rent; a home may offer shelter but is not a hospital. **✅ Fact:** The MoSJE AVYAY architecture includes IPSrC, SAPSrC, RVY, Elderline, SAGE and SACRED. IPSrC supports institutional and non-institutional arrangements, including homes; the umbrella aims also at active ageing, intergenerational ties, accessibility and the “silver economy.” RVY focuses on assisted-living devices for people **60+ with age-related infirmity** meeting its **BPL or family-income-up-to-₹15,000/month** conditions under the cited guidelines, subject to assessment; recheck the operative local guideline before advising an applicant. A scheme *listing* does not establish that every elderly person receives the item.
 
-SAGE (Seniorcare Ageing Growth Engine) facilitates evaluation and availability of aged-care products and services; SCOPE (Senior Citizen Opportunities for Productive Engagement) concerns opportunities for interested older people. Distinguish SAGE's innovation/market route from SCOPE's person-to-opportunity matching. Elderline can offer information and help when distress or abuse is reported; it is not a substitute for police, treatment or a maintenance order. Reported beneficiary totals measure outreach, not sustained well-being, and no service announcement by itself creates a fresh statutory entitlement.
+SAGE (Seniorcare Ageing Growth Engine) facilitates evaluation and availability of aged-care products and services; SACRED (Senior Able Citizens for Re-Employment in Dignity) connects interested senior citizens with private-sector re-employment opportunities. Distinguish SAGE's innovation/market route from SACRED's person-to-opportunity matching. Elderline can offer information and help when distress or abuse is reported; it is not a substitute for police, treatment or a maintenance order. Reported beneficiary totals measure outreach, not sustained well-being, and no service announcement by itself creates a fresh statutory entitlement.
 
 **Practical route:** a village older person identifies need → local help verifies eligibility and location → provider assesses need → device/service is delivered → fitting, safety and grievance are checked. **⚠️ Inference:** counting sanctioned homes or distributed walkers alone misses safety, sustained use and caregiver workload. **Objection:** providing devices through targeted schemes conserves resources. **Reply:** targeting is reasonable for expensive assistance, but rigid income proof, inaccessible camps and missing repair services can exclude intended users. Check take-up and outcomes, not just announced capacity.
 
@@ -233,8 +233,8 @@ SAGE (Seniorcare Ageing Growth Engine) facilitates evaluation and availability o
 3. RVY provides assessed assisted-living devices through ALIMCO to eligible persons with age-related infirmity.
 4. RVY eligibility under the cited framework includes the BPL or family-income-up-to-₹15,000 monthly condition.
 5. SAPSrC supports State- and Union Territory-specific action suited to local needs.
-6. SCOPE links interested older people with voluntary productive-engagement opportunities.
-7. SAGE concerns eldercare products and services; it is different from SCOPE's person-to-opportunity route.
+6. SACRED links interested senior citizens with voluntary private-sector re-employment opportunities.
+7. SAGE concerns eldercare products and services; it is different from SACRED's person-to-opportunity route.
 8. Elderline 14567 offers information, support and referral but does not adjudicate maintenance or criminal liability.
 9. A sanctioned home, distributed device or answered call is an output, not proof of safety or sustained function.
 10. Device assessment, fit, repair and accessible surroundings determine whether mobility actually improves.
@@ -529,7 +529,7 @@ Belonging, agency and intergenerational relationships
 
 “Active ageing” does **not** mean asking every older person to take a job. It means enabling continued social, economic, cultural and civic engagement in ways the person chooses, alongside adequate care. The **Madrid International Plan of Action on Ageing (2002)** is an international policy reference, not a self-executing Indian maintenance law. India's **adopted National Policy on Older Persons (1999)** and the **draft National Policy for Senior Citizens (2011)** occupy different policy stages: the 2011 draft must not be called an adopted replacement or an amendment to Section 9. The MoSJE AVYAY page includes accessible and age-friendly environments, intergenerational bonding and productive engagement as explicit objectives.
 
-Imagine a former craftsperson who wants to teach apprentices at a local centre. SCOPE's matching idea may help, but a long trip on inaccessible buses could block participation. Conversely, expecting an older person with severe illness to work to “stay active” transfers welfare responsibility onto the person. SAGE can improve availability of eldercare products, but market availability without affordable access is insufficient. **⚠️ Inference:** combine voluntary opportunities with rest, income support and inclusive transport; use older people's own assessments of agency and loneliness as outcomes.
+Imagine a former craftsperson who wants to teach apprentices at a local centre. SACRED's matching route may help locate a re-employment opportunity, but a long trip on inaccessible buses could block participation. Conversely, expecting an older person with severe illness to work to “stay active” transfers welfare responsibility onto the person. SAGE can improve availability of eldercare products, but market availability without affordable access is insufficient. **⚠️ Inference:** combine voluntary opportunities with rest, income support and inclusive transport; use older people's own assessments of agency and loneliness as outcomes.
 
 ### Ageism converts age into an unfair presumption
 
@@ -559,7 +559,7 @@ Age-neutral rules can still have age-disparate effects. A bank portal that techn
 6. Clinical and service decisions should rest on need, likely benefit and informed preference, not age alone.
 7. Accessible transport, buildings, communication and banking convert nominal opportunity into usable participation.
 8. Digital inclusion requires accessible design, assistance and an equivalent offline route.
-9. SCOPE concerns voluntary opportunity matching; SAGE concerns eldercare products and services.
+9. SACRED concerns voluntary re-employment matching; SAGE concerns eldercare products and services.
 10. The Madrid Plan is an international policy framework, not a self-executing Indian maintenance right.
 11. India's 1999 policy was adopted, whereas the 2011 senior-citizen policy remained a draft and did not replace it.
 12. Participation outcomes should include agency, belonging and reduced isolation, not only employment counts.
@@ -576,7 +576,7 @@ Age-neutral rules can still have age-disparate effects. A bank portal that techn
 
 **Mains prompt:** Discuss why active ageing must be grounded in social protection and accessible community life.
 
-**Model (about 155 words):** Active ageing means enabling older people to participate as they choose, not prescribing employment. MoSJE's AVYAY objectives include accessible environments, productive engagement and intergenerational bonding; SCOPE matches opportunities, while SAGE concerns aged-care goods and services. A retired Indian artisan can teach locally only if transport and meeting spaces are usable and essential medicines affordable. An indigent or frail person should not have to work to earn care. Ageism also matters: denying rehabilitation, training or digital access solely because of age converts a stereotype into institutional exclusion. Combine pensions, geriatric services and protection against abuse with age-friendly streets, assisted digital access, offline alternatives and community roles; ask older participants whether opportunities are usable and voluntary. The 2002 Madrid Plan and Indian ageing policies offer direction, but a policy aspiration is not a statutory entitlement. Participation can improve belonging, yet exclusion by class, gender, disability and rural distance remains unless access, agency and choice are measured.
+**Model (about 155 words):** Active ageing means enabling older people to participate as they choose, not prescribing employment. MoSJE's AVYAY objectives include accessible environments, productive engagement and intergenerational bonding; SACRED matches re-employment opportunities, while SAGE concerns aged-care goods and services. A retired Indian artisan can teach locally only if transport and meeting spaces are usable and essential medicines affordable. An indigent or frail person should not have to work to earn care. Ageism also matters: denying rehabilitation, training or digital access solely because of age converts a stereotype into institutional exclusion. Combine pensions, geriatric services and protection against abuse with age-friendly streets, assisted digital access, offline alternatives and community roles; ask older participants whether opportunities are usable and voluntary. The 2002 Madrid Plan and Indian ageing policies offer direction, but a policy aspiration is not a statutory entitlement. Participation can improve belonging, yet exclusion by class, gender, disability and rural distance remains unless access, agency and choice are measured.
 
 **Scoring guide (15):** precise concept and voluntary character 3; programme/international-policy distinction 3; causal Indian example 4; specific supports/outcomes 3; qualified limits 2.
 
@@ -756,7 +756,7 @@ Ageing cohort grows (projection, NOT fresh count)
 
 ## Welfare, income and health as separate instruments
 
-- MoSJE's **AVYAY** umbrella: **IPSrC** senior-home/care support; **SAPSrC** State plans; **RVY** assisted-living devices for eligible age-related infirmity; **SCOPE** productive-opportunity matching; **SAGE** aged-care products/services. **Elderline 14567**: information/support/referral, not a Tribunal.
+- MoSJE's **AVYAY** umbrella: **IPSrC** senior-home/care support; **SAPSrC** State plans; **RVY** assisted-living devices for eligible age-related infirmity; **SACRED** senior-citizen re-employment matching; **SAGE** aged-care products/services. **Elderline 14567**: information/support/referral, not a Tribunal.
 - RVY through ALIMCO: 60+ with age-related infirmity and guideline-specific BPL or family income up to **₹15,000/month**; confirm current documentation/assessment. A delivered device is not proof of fitting, repair or mobility. Homes require quality, resident choice and safeguarding.
 - NSAP's **IGNOAPS** central monthly assistance to eligible BPL persons: **₹200 (60–79)**, **₹500 (80+)**. State top-ups vary; central rate ≠ total pension, eligibility ≠ regular receipt, coverage ≠ adequacy.
 - **NPHCE** (MoHFW, launched **2010**) links preventive/promotive local care, PHC/CHC/district geriatric services, rehabilitation and referral to specialist centres; planned infrastructure ≠ functioning facilities everywhere.
@@ -780,11 +780,11 @@ Ageing cohort grows (projection, NOT fresh count)
 |---|---|---|---|
 | 1 | Article 41, senior citizen, healthy ageing, feminisation, population heterogeneity, Census versus projection, survey | Functional ability, ratio and LASI date/denominator | 10-mark model; age-data check |
 | 2 | 2007 Act: maintenance, liable children/relatives, Tribunal, cap, Section 23, home and abandonment | Enforcement, conditional transfer and State-rule distinction | 15-mark model; transfer check |
-| 3 | AVYAY/IPSrC, RVY, Elderline, SAGE | SAPSrC, SCOPE, provider access and device outcomes | 10-mark model; output/outcome check |
+| 3 | AVYAY/IPSrC, RVY, Elderline, SAGE | SAPSrC, SACRED, provider access and device outcomes | 10-mark model; output/outcome check |
 | 4 | IGNOAPS central rates, eligibility and pension inadequacy | Coverage, adequacy, digital and financial exclusion, banking and State top-ups | 15-mark model; enrolment/control check |
 | 5 | Geriatric system, NPHCE, PM-JAY 70+, dementia, long-term and palliative care | Healthy-ageing and person-centred continuum | 15-mark model; **2020 GS-II Q6** neutral pre-lesson linkage |
 | 6 | Abuse typology and under-reporting, formal/informal care | Caregiver gender, dementia safeguards, home/institution trade-off | 10-mark model; under-reporting check |
-| 7 | Dignity, active participation and ageism | Madrid 2002, Indian policies 1999/2011, accessibility and SCOPE/SAGE distinction | 15-mark model; agency check |
+| 7 | Dignity, active participation and ageism | Madrid 2002, Indian policies 1999/2011, accessibility and SACRED/SAGE distinction | 15-mark model; agency check |
 | 8 | Full rights-to-delivery synthesis | Bill/law/rule stages, exact 2025 “as introduced” status, data limits and coordination | 20-mark model; legal-stage check |
 
 # SOURCE LEDGER
