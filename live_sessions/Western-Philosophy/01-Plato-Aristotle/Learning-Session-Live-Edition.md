@@ -19,9 +19,9 @@ This session follows one continuous philosophical problem: **how can reality be 
 
 ---
 
-# Lesson 1 - Why Stable Knowledge Needs More Than Changing Things
+## Lesson 1 — Why Stable Knowledge Needs More Than Changing Things
 
-**Progress: 1/10 | Stage: Foundation | Lesson: Plato's Forms**
+Progress: 1/10 | Stage: Foundation | Lesson: Plato's Forms
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -164,37 +164,37 @@ The solution creates a new burden: if Form and particular are separate, how does
 
 ## Local practice
 
-### MCQ 1 - conceptual
+**MCQ 1: A**
 
 Which claim most directly expresses Plato's one-over-many reasoning?
 
 - A. Many beautiful particulars are intelligible as beautiful through one common Form of Beauty.
-- B. Every beautiful particular contains a numerically separate physical fragment of Beauty.
-- C. Beauty is only the name preferred by a linguistic community.
-- D. The Form of Beauty changes whenever beautiful particulars change.
+- B. A beautiful particular literally contains a distinct physical fragment of Beauty.
+- C. Beauty is a label fixed by shared linguistic convention.
+- D. The Form of Beauty changes whenever its beautiful particulars change.
 
 **Answer: A.**
 
-- **A is correct:** it states the inference from many instances to one intelligible character.
-- **B is incorrect:** participation is not physical division, and the participation dilemma shows why such division is problematic.
-- **C is incorrect:** this removes the mind-independent standard Plato wants to secure.
-- **D is incorrect:** a changing Form could not ground stable knowledge.
+- **A — Correct:** it states the inference from many instances to one shared intelligible character.
+- **B — Incorrect:** participation is not a parcelling out of physical fragments, as the participation dilemma shows.
+- **C — Incorrect:** treating Beauty as mere linguistic convention removes the mind-independent standard Plato secures.
+- **D — Incorrect:** a Form that varied with its instances could not ground stable knowledge.
 
-### MCQ 2 - applied
+**MCQ 2: B**
 
 A student says, "The imperfect circles prove only that humans can imagine perfection; therefore Plato has proved separate Forms." What is the best assessment?
 
-- A. Fully correct, because imagination automatically establishes independent existence.
-- B. Too quick, because the example motivates an objective standard but does not by itself prove ontological separation.
-- C. Incorrect, because Plato denies that circles can be understood.
-- D. Correct only if every sensible circle is actually perfect.
+- A. Fully correct, because the power to imagine perfection by itself establishes a separate, mind-independent existence.
+- B. Too quick: the example motivates an objective standard yet leaves ontological separation unproved.
+- C. Incorrect, because Plato denies that sensible circles are intelligible.
+- D. Correct provided each sensible circle is in fact perfectly circular.
 
 **Answer: B.**
 
-- **A is incorrect:** movement from a conceived standard to separate existence requires further argument.
-- **B is correct:** it preserves the force and the limit of the example.
-- **C is incorrect:** Plato's point is that sensible circles are intelligible but imperfect.
-- **D is incorrect:** their imperfection supplies the motivation for a non-sensible standard.
+- **A — Incorrect:** moving from a conceived standard to separate existence needs further argument, not imagination alone.
+- **B — Correct:** it preserves both the force and the limit of the example.
+- **C — Incorrect:** Plato holds that sensible circles are intelligible though imperfect, not unintelligible.
+- **D — Incorrect:** their imperfection supplies the motivation for a non-sensible standard, not a conditional proof.
 
 ## Causal transition
 
@@ -202,9 +202,9 @@ Forms may explain why stable truth is possible, but they do not yet explain how 
 
 ---
 
-# Lesson 2 - From Opinion to Knowledge
+## Lesson 2 — From Opinion to Knowledge
 
-**Progress: 2/10 | Stage: Foundation | Lesson: Sun, Divided Line and Cave**
+Progress: 2/10 | Stage: Foundation | Lesson: Sun, Divided Line and Cave
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -347,37 +347,37 @@ Knowledge is a conversion toward increasingly intelligible reality under the Goo
 
 ## Local practice
 
-### MCQ 3 - distinction
+**MCQ 3: C**
 
 What most clearly distinguishes *noesis* from *dianoia* in the Divided Line?
 
-- A. *Noesis* studies visible objects while *dianoia* studies shadows.
-- B. *Noesis* rejects reason and depends on inspiration.
-- C. *Noesis* treats hypotheses as steps toward a first principle, whereas *dianoia* reasons from hypotheses it does not justify.
-- D. *Noesis* and *dianoia* differ only in emotional intensity.
+- A. *Noesis* investigates visible objects, whereas *dianoia* is confined to studying shadows and images.
+- B. *Noesis* sets reason aside and relies instead on sudden non-rational inspiration.
+- C. *Noesis* treats hypotheses as steps toward an unhypothetical first principle.
+- D. *Noesis* and *dianoia* differ chiefly in their emotional intensity.
 
 **Answer: C.**
 
-- **A is incorrect:** both belong to the intelligible section, not the two visible sections.
-- **B is incorrect:** *noesis* is the highest rational-dialectical cognition.
-- **C is correct:** direction of reasoning and treatment of hypotheses are decisive.
-- **D is incorrect:** their distinction is methodological and ontological, not merely emotional.
+- **A — Incorrect:** both *noesis* and *dianoia* belong to the intelligible section, not the two visible ones.
+- **B — Incorrect:** *noesis* is the highest rational and dialectical cognition, not non-rational inspiration.
+- **C — Correct:** the direction of reasoning and the treatment of hypotheses are decisive.
+- **D — Incorrect:** their distinction is methodological and ontological, not a matter of feeling.
 
-### MCQ 4 - remedial
+**MCQ 4: D**
 
 Why is the philosopher's return to the Cave philosophically important?
 
-- A. It proves that the outside world was an illusion.
-- B. It shows that the philosopher has forgotten the Good.
-- C. It establishes that political power is always superior to knowledge.
-- D. It connects knowledge with responsibility while exposing the conflict between enlightened judgement and entrenched opinion.
+- A. It proves that the world outside the Cave was itself another illusion.
+- B. It shows that the ascended philosopher has thereby forgotten the Form of the Good.
+- C. It establishes that political power stands above philosophical knowledge.
+- D. It ties knowledge to responsibility despite hostile opinion.
 
 **Answer: D.**
 
-- **A is incorrect:** the outside represents fuller reality.
-- **B is incorrect:** the return follows from knowledge rather than its loss.
-- **C is incorrect:** Plato argues for rule informed by knowledge, not power over knowledge.
-- **D is correct:** it captures both obligation and danger.
+- **A — Incorrect:** the world outside the Cave represents a fuller reality, not a further illusion.
+- **B — Incorrect:** the return follows from secured knowledge rather than from forgetting the Good.
+- **C — Incorrect:** Plato argues for rule informed by knowledge, not the supremacy of power over it.
+- **D — Correct:** it captures both the obligation to return and the danger that attends it.
 
 ## Original Mains drill
 
@@ -391,9 +391,9 @@ The ascent makes separated Forms epistemically attractive. It also intensifies t
 
 ---
 
-# Lesson 3 - Can Separate Forms Explain Their Instances?
+## Lesson 3 — Can Separate Forms Explain Their Instances?
 
-**Progress: 3/10 | Stage: Core | Lesson: Participation, Third Man and the critique of separation**
+Progress: 3/10 | Stage: Core | Lesson: Participation, Third Man and the critique of separation
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -524,37 +524,37 @@ The regress depends on self-predication and non-identity. A Platonist can resist
 
 ## Local practice
 
-### MCQ 5 - premise test
+**MCQ 5: A**
 
 Which pair of assumptions is especially required for the Third Man regress in addition to one-over-many?
 
-- A. Self-predication and non-identity.
-- B. Materialism and determinism.
-- C. Recollection and immortality alone.
-- D. Efficient causation and temporal creation.
+- A. Self-predication of the Form alongside its non-identity with participants.
+- B. A thoroughgoing materialism combined with strict causal determinism about physical events.
+- C. Recollection together with the soul's prior immortality.
+- D. Efficient causation with temporal creation.
 
 **Answer: A.**
 
-- **A is correct:** the Form must itself be F and distinct from the further Form demanded.
-- **B is incorrect:** neither assumption belongs to the regress.
-- **C is incorrect:** these doctrines may support Plato's wider system but do not generate the Third Man.
-- **D is incorrect:** the regress concerns predication and explanatory separation.
+- **A — Correct:** the Form must itself be F yet remain distinct from the further Form the regress demands.
+- **B — Incorrect:** neither materialism nor determinism plays any role in generating the regress.
+- **C — Incorrect:** these doctrines support Plato's wider system but do not drive the Third Man.
+- **D — Incorrect:** the regress turns on predication and explanatory separation, not efficient or temporal causation.
 
-### MCQ 6 - dialogue-sensitive remediation
+**MCQ 6: B**
 
 Which statement best represents Plato's later position?
 
-- A. The *Parmenides* proves that Plato permanently abandoned all Forms.
-- B. Later dialogues expose and refine problems of participation, being and cosmology without yielding a simple, uncontested abandonment narrative.
-- C. The *Sophist* identifies the Good with the Demiurge.
-- D. The *Timaeus* makes the Forms material components of sensible objects.
+- A. The *Parmenides*' self-criticism shows that Plato permanently abandoned the entire theory of separate Forms.
+- B. Later dialogues refine problems of participation and being without a simple abandonment narrative.
+- C. The *Sophist* simply identifies the Good with the Demiurge.
+- D. The *Timaeus* reduces the Forms to material ingredients that physically compose ordinary sensible objects.
 
 **Answer: B.**
 
-- **A is incorrect:** self-criticism is not equivalent to abandonment.
-- **B is correct:** it preserves both development and interpretive caution.
-- **C is incorrect:** those figures belong to different explanatory contexts.
-- **D is incorrect:** Forms remain paradigmatic and intelligible.
+- **A — Incorrect:** self-criticism of the theory is not the same as permanently abandoning it.
+- **B — Correct:** it registers genuine development while keeping interpretive caution.
+- **C — Incorrect:** the Good and the Demiurge belong to different dialogues and explanatory roles.
+- **D — Incorrect:** in the *Timaeus* the Forms remain paradigms, not physical constituents of things.
 
 ## Causal transition
 
@@ -562,9 +562,9 @@ Aristotle's criticism is constructive: if separate Forms cannot explain concrete
 
 ---
 
-# Lesson 4 - What Is a Thing?
+## Lesson 4 — What Is a Thing?
 
-**Progress: 4/10 | Stage: Core | Lesson: Substance, accident and essence**
+Progress: 4/10 | Stage: Core | Lesson: Substance, accident and essence
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -706,41 +706,41 @@ If form is not universal, scientific definition may lose generality; if it is un
 12. Accidental change preserves the substance; substantial generation does not.
 13. Individual-form and universal-form readings remain disputed.
 
-> **Mnemonic:** **Bearer in the *Categories*; because in the *Metaphysics*.**
+> **Mnemonic:** **What in the *Categories*; why in the *Metaphysics*.**
 
 ## Local practice
 
-### MCQ 7 - textual precision
+**MCQ 7: C**
 
 Which reconciliation best handles the *Categories*-*Metaphysics* tension?
 
-- A. Aristotle uses "substance" in exactly one sense and plainly contradicts himself.
-- B. The *Categories* denies individuals, while the *Metaphysics* restores them.
-- C. The *Categories* identifies primary subjects, while the *Metaphysics* asks what explains their substance-hood.
-- D. Both works identify accidents as primary substances.
+- A. Aristotle uses 'substance' in a single fixed sense and so plainly contradicts himself across the works.
+- B. The *Categories* denies individual substances, and the *Metaphysics* later restores them as primary.
+- C. The *Categories* fixes primary subjects; the *Metaphysics* explains substancehood.
+- D. Both the *Categories* and the *Metaphysics* treat accidents, not substances, as primary.
 
 **Answer: C.**
 
-- **A is incorrect:** it ignores the possibility of connected senses and different questions.
-- **B is incorrect:** individuals are primary in the *Categories*.
-- **C is correct:** it preserves the distinct explanatory tasks.
-- **D is incorrect:** accidents depend upon substances.
+- **A — Incorrect:** it ignores that connected senses of 'substance' answer different questions.
+- **B — Incorrect:** individuals are already the primary substances of the *Categories*.
+- **C — Correct:** it preserves the two distinct explanatory tasks of the works.
+- **D — Incorrect:** accidents depend on substances rather than being primary themselves.
 
-### MCQ 8 - identity
+**MCQ 8: D**
 
 Which change is best classified as accidental rather than substantial?
 
-- A. Food becoming part of a living organism.
-- B. Timber being burned into ash.
-- C. A living animal dying.
-- D. Socrates changing from seated to standing.
+- A. Food being assimilated into the body of a living organism.
+- B. Timber being burned down entirely into ash.
+- C. A living animal undergoing death.
+- D. Socrates changing from sitting to standing while remaining the same persisting subject.
 
 **Answer: D.**
 
-- **A is incorrect:** assimilation involves a deeper substantial organisation.
-- **B is incorrect:** the original timber is destroyed as such.
-- **C is incorrect:** the living substantial organisation is lost.
-- **D is correct:** position changes while the same subject persists.
+- **A — Incorrect:** assimilation reorganises the material into a new substantial whole.
+- **B — Incorrect:** the original timber is destroyed as the substance it was.
+- **C — Incorrect:** death is the loss of the animal's substantial organisation.
+- **D — Correct:** position changes while one and the same subject persists.
 
 ## Original Mains drill
 
@@ -754,9 +754,9 @@ Calling form the cause of unity raises the next question: how can form belong to
 
 ---
 
-# Lesson 5 - Form in Matter
+## Lesson 5 — Form in Matter
 
-**Progress: 5/10 | Stage: Core | Lesson: Hylomorphism and the empirical world**
+Progress: 5/10 | Stage: Core | Lesson: Hylomorphism and the empirical world
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -911,37 +911,37 @@ The theory faces hard boundary cases: the status of prime matter, the individuat
 
 ## Local practice
 
-### MCQ 9 - core doctrine
+**MCQ 9: A**
 
 What does Aristotelian hylomorphism primarily claim?
 
-- A. A sensible substance is one compound analysable through matter and form as correlative principles.
-- B. Matter and form are two complete substances temporarily attached.
-- C. Form is a separate Platonic model copied by matter.
-- D. Only matter is real; form is a convenient word.
+- A. A sensible substance is a single compound of matter and form.
+- B. Matter and form are two complete substances that are temporarily joined together.
+- C. Form is a separate Platonic paradigm that matter imperfectly copies from outside.
+- D. Matter alone is real, form being a convenient name.
 
 **Answer: A.**
 
-- **A is correct:** it states unity without erasing the two explanatory roles.
-- **B is incorrect:** this destroys the unity hylomorphism is meant to explain.
-- **C is incorrect:** Aristotle makes form immanent.
-- **D is incorrect:** form is essence and actuality, not merely a label.
+- **A — Correct:** it states their unity without erasing the two explanatory roles.
+- **B — Incorrect:** treating them as two joined substances destroys the unity hylomorphism explains.
+- **C — Incorrect:** Aristotle makes form immanent, not a separate paradigm copied from outside.
+- **D — Incorrect:** form is essence and actuality for Aristotle, not a mere label on matter.
 
-### MCQ 10 - scope
+**MCQ 10: B**
 
 Which statement about prime matter is most defensible?
 
-- A. It is a visible material found beneath ordinary elements.
-- B. It is a limiting conception of pure material potentiality that never exists independently without form.
-- C. It is identical with Plato's Form of the Good.
-- D. It is the finished actuality of every substance.
+- A. It is a visible material lying beneath the four ordinary chemical elements.
+- B. It is pure material potentiality, never existing on its own.
+- C. It is simply identical with Plato's transcendent Form of the Good.
+- D. It is the completed actuality that each finished substance finally attains.
 
 **Answer: B.**
 
-- **A is incorrect:** prime matter is not an observable stuff.
-- **B is correct:** it gives its explanatory role and ontological caution.
-- **C is incorrect:** the concepts belong to different systems and functions.
-- **D is incorrect:** prime matter represents potentiality, not completed actuality.
+- **A — Incorrect:** prime matter is not an observable stuff beneath the elements.
+- **B — Correct:** it captures its explanatory role together with the needed ontological caution.
+- **C — Incorrect:** the Good and prime matter belong to different systems and opposite roles.
+- **D — Incorrect:** prime matter is sheer potentiality, not any completed actuality.
 
 ## Causal transition
 
@@ -949,9 +949,9 @@ Matter and form explain what a substance is composed of and how it is unified. B
 
 ---
 
-# Lesson 6 - Four Causes and Complete Explanation
+## Lesson 6 — Four Causes and Complete Explanation
 
-**Progress: 6/10 | Stage: Core | Lesson: Development and teleology**
+Progress: 6/10 | Stage: Core | Lesson: Development and teleology
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -1079,37 +1079,37 @@ The theory risks overreading regularity as purpose and can understate contingenc
 
 ## Local practice
 
-### MCQ 11 - application
+**MCQ 11: C**
 
 In an oak's development, which pairing is most accurate?
 
-- A. Material cause: mature function; final cause: soil.
-- B. Formal cause: accidental collision; efficient cause: universal Oak outside the tree.
-- C. Formal cause: oak organisation; final cause: mature oak activity.
-- D. Efficient cause: the future oak pulling the acorn through time.
+- A. Material cause: mature function; final cause: the surrounding soil.
+- B. Formal cause: chance collision; efficient cause: a separate Oak.
+- C. Formal cause: the oak's organising structure; final cause: its mature characteristic activity.
+- D. Efficient cause: the future mature oak pulling the acorn forward.
 
 **Answer: C.**
 
-- **A is incorrect:** it reverses material and final explanation.
-- **B is incorrect:** neither accidental collision nor a separate Form states Aristotle's view.
-- **C is correct:** organisation and characteristic fulfilment give the two causes.
-- **D is incorrect:** the end does not mechanically pull from the future.
+- **A — Incorrect:** it swaps the material and final roles in the explanation.
+- **B — Incorrect:** neither a chance collision nor a separate Oak states Aristotle's view.
+- **C — Correct:** organisation and characteristic fulfilment give the formal and final causes.
+- **D — Incorrect:** the end guides development but does not pull the acorn from the future.
 
-### MCQ 12 - objection
+**MCQ 12: D**
 
 Which criticism most directly challenges Aristotelian natural teleology?
 
-- A. It uses too many words for material composition.
-- B. It denies that organisms have parts.
-- C. It claims that every artisan is unconscious.
-- D. Regular organisation may be explained by efficient processes and evolutionary history without intrinsic fixed ends.
+- A. It spends too many words describing material composition without ever clarifying the real explanatory point.
+- B. It denies that natural organisms have any genuine working parts.
+- C. It claims that each natural artisan works wholly unconsciously.
+- D. Regular order may arise from efficient processes and evolutionary history, not fixed intrinsic ends.
 
 **Answer: D.**
 
-- **A is incorrect:** the dispute concerns explanatory necessity, not vocabulary.
-- **B is incorrect:** teleology centrally explains parts through wholes.
-- **C is incorrect:** Aristotle distinguishes conscious artefact production from nature.
-- **D is correct:** it supplies a serious alternative account of organised function.
+- **A — Incorrect:** the dispute is about explanatory necessity, not wordiness.
+- **B — Incorrect:** teleology precisely explains the parts through the organised whole.
+- **C — Incorrect:** Aristotle separates conscious craft from the unconscious workings of nature.
+- **D — Correct:** it offers a serious rival account of organised function.
 
 ## Original Mains drill
 
@@ -1123,9 +1123,9 @@ Four causes explain why development occurs, but development still requires a coh
 
 ---
 
-# Lesson 7 - From Capacity to Fulfilment
+## Lesson 7 — From Capacity to Fulfilment
 
-**Progress: 7/10 | Stage: Advanced | Lesson: Potentiality, actuality and entelechy**
+Progress: 7/10 | Stage: Advanced | Lesson: Potentiality, actuality and entelechy
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -1255,37 +1255,37 @@ Potentiality-actuality explains change while preserving determinate being. Its c
 
 ## Local practice
 
-### MCQ 13 - priority
+**MCQ 13: A**
 
 In what sense is actuality prior in definition?
 
-- A. One understands "potentially F" only by understanding what actually being F is.
-- B. Every individual actuality occurs earlier in time than its potentiality.
-- C. Potentiality is unreal and should be eliminated.
-- D. Actuality means only external efficient force.
+- A. We grasp 'potentially F' through what being actually F is.
+- B. Each individual actuality must occur earlier in time than its own potentiality.
+- C. Potentiality is ultimately unreal and ought to be eliminated from the account.
+- D. Actuality just means an external efficient force acting on a thing.
 
 **Answer: A.**
 
-- **A is correct:** the definition of a capacity refers to its actual exercise or fulfilment.
-- **B is incorrect:** an individual acorn temporally precedes its mature actuality.
-- **C is incorrect:** potentiality is indispensable to Aristotle's account of change.
-- **D is incorrect:** actuality is a mode of being, not merely an external force.
+- **A — Correct:** the definition of a capacity refers to its actual exercise or fulfilment.
+- **B — Incorrect:** in an individual, potentiality such as the acorn precedes its actuality in time.
+- **C — Incorrect:** potentiality is indispensable to Aristotle's account of change, not eliminable.
+- **D — Incorrect:** actuality is a mode of being, not simply an external force.
 
-### MCQ 14 - comparison
+**MCQ 14: B**
 
 What is the most important difference between Aristotelian and Leibnizian entelechy?
 
-- A. Aristotle treats entelechy as a physical atom; Leibniz treats it as empty space.
-- B. Aristotle primarily treats it as actuality or fulfilment, while Leibniz uses it for created simple substances.
-- C. Both use it only for consciously designed artefacts.
-- D. Leibniz denies internal activity to monads.
+- A. Aristotle makes entelechy a physical atom while Leibniz makes it empty space.
+- B. Aristotle treats it chiefly as actuality or fulfilment, while Leibniz uses it for created simple substances.
+- C. Both thinkers reserve the term for consciously designed artefacts.
+- D. Leibniz denies any internal activity to his monads.
 
 **Answer: B.**
 
-- **A is incorrect:** neither description is accurate.
-- **B is correct:** it identifies the change in ontological category.
-- **C is incorrect:** Aristotle applies it centrally to living nature; Leibniz applies it to monads.
-- **D is incorrect:** appetition makes monads sources of internal change.
+- **A — Incorrect:** neither the atom nor the empty-space description fits either thinker.
+- **B — Correct:** it identifies the shift in ontological category between the two uses.
+- **C — Incorrect:** Aristotle applies it to living nature and Leibniz to monads, not only artefacts.
+- **D — Incorrect:** appetition makes Leibniz's monads sources of internal change.
 
 ## Causal transition
 
@@ -1293,9 +1293,9 @@ If actuality is prior and every motion depends on actuality, Aristotle's inquiry
 
 ---
 
-# Lesson 8 - Being Qua Being and Fundamental Metaphysics
+## Lesson 8 — Being Qua Being and Fundamental Metaphysics
 
-**Progress: 8/10 | Stage: Advanced | Lesson: Focal meaning, substance and pure actuality**
+Progress: 8/10 | Stage: Advanced | Lesson: Focal meaning, substance and pure actuality
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -1449,37 +1449,37 @@ The Unmoved Mover is not the substantial form of every sensible thing and does n
 
 ## Local practice
 
-### MCQ 15 - focal meaning
+**MCQ 15: C**
 
 What does focal meaning contribute to Aristotle's metaphysics?
 
-- A. It shows that every use of "being" is unrelated.
-- B. It reduces every being to a material atom.
-- C. It relates different senses of being to substance without treating being as one simple genus.
-- D. It proves that only linguistic subjects exist.
+- A. It shows that every use of the word 'being' is wholly unrelated to the others.
+- B. It reduces every being to a single underlying material atom.
+- C. It ties the senses of being to substance without making being one genus.
+- D. It proves that only linguistic subjects, not real things, exist.
 
 **Answer: C.**
 
-- **A is incorrect:** focal connection lies between pure univocity and unrelated equivocation.
-- **B is incorrect:** this is the atomist reduction Aristotle criticises.
-- **C is correct:** substance is the focal reference of qualities, relations and other modes.
-- **D is incorrect:** the inquiry is ontological as well as linguistic.
+- **A — Incorrect:** focal connection lies between strict univocity and total equivocation.
+- **B — Incorrect:** this is the atomist reduction that Aristotle actually criticises.
+- **C — Correct:** substance is the focal reference for qualities, relations and other modes.
+- **D — Incorrect:** the inquiry is ontological as well as linguistic, not about words alone.
 
-### MCQ 16 - anti-anachronism
+**MCQ 16: D**
 
 Which statement best characterises Aristotle's criticism of atomism?
 
-- A. He experimentally demonstrated that no microscopic particles exist.
-- B. He accepted atoms but rejected void only for theological reasons.
-- C. He anticipated the modern periodic table and replaced Democritus.
-- D. He argued that atoms and motion do not adequately explain unity, substantial generation, continuity and natural organisation.
+- A. He claimed to demonstrate experimentally that no microscopic particles of any kind exist in nature.
+- B. He accepted the atoms but rejected the void purely on theological and cosmological grounds.
+- C. He foresaw the periodic table and so replaced Democritus.
+- D. He argued that atoms and motion fail to explain substantial unity and organisation.
 
 **Answer: D.**
 
-- **A is incorrect:** Aristotle did not offer a modern experimental disproof.
-- **B is incorrect:** his objections extend beyond the void.
-- **C is incorrect:** this is anachronistic.
-- **D is correct:** it states the metaphysical and explanatory critique.
+- **A — Incorrect:** Aristotle offered no modern experimental disproof of microscopic particles.
+- **B — Incorrect:** his objections to atomism extend well beyond the question of the void.
+- **C — Incorrect:** crediting him with the periodic table is anachronistic.
+- **D — Correct:** it states his metaphysical and explanatory critique of atomism.
 
 ## Original Mains drill
 
@@ -1493,9 +1493,9 @@ With both systems fully stated, comparison can now move beyond slogans. The issu
 
 ---
 
-# Lesson 9 - Two Metaphysics of Form
+## Lesson 9 — Two Metaphysics of Form
 
-**Progress: 9/10 | Stage: Advanced | Lesson: Transcendence versus immanence**
+Progress: 9/10 | Stage: Advanced | Lesson: Transcendence versus immanence
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -1642,37 +1642,37 @@ Plato illuminates the need for standards not reducible to a single case; Aristot
 
 ## Local practice
 
-### MCQ 17 - comparison
+**MCQ 17: A**
 
 What is Aristotle's most constructive response to Plato?
 
-- A. Retain form as intelligible essence but make it immanent in the concrete substance.
-- B. Eliminate every distinction between form and matter.
-- C. Replace all explanation with accidental atomic collision.
-- D. Treat sensible things as unreal shadows.
+- A. Retain form as intelligible essence but make it immanent within the concrete substance.
+- B. Collapse the distinction between form and matter into a single principle.
+- C. Replace causal explanation with chance atomic collisions.
+- D. Treat sensible things as unreal shadows of the Forms.
 
 **Answer: A.**
 
-- **A is correct:** it captures continuity and transformation.
-- **B is incorrect:** hylomorphism requires the distinction.
-- **C is incorrect:** Aristotle criticises explanatory atomism.
-- **D is incorrect:** he strengthens the reality of sensible substances.
+- **A — Correct:** it captures both continuity with Plato and genuine transformation.
+- **B — Incorrect:** hylomorphism needs the form–matter distinction it would erase.
+- **C — Incorrect:** Aristotle criticises explanation by chance atomic collision.
+- **D — Incorrect:** Aristotle strengthens, rather than dissolves, the reality of sensible substances.
 
-### MCQ 18 - balanced judgement
+**MCQ 18: B**
 
 Which verdict avoids caricaturing both systems?
 
-- A. Plato alone explains change, while Aristotle alone explains timeless standards.
-- B. Plato better secures transcendent objectivity, while Aristotle better integrates form with concrete unity and development; each gain creates a corresponding problem.
-- C. The systems differ only in terminology.
-- D. Aristotle refutes Plato by modern experimental science.
+- A. Plato alone can explain change, while Aristotle alone can secure timeless objective standards.
+- B. Plato better grounds objectivity while Aristotle better unifies form with change.
+- C. The two systems really differ from one another solely in their preferred philosophical terminology.
+- D. Aristotle decisively refutes Plato by appealing to the methods of modern experimental science.
 
 **Answer: B.**
 
-- **A is incorrect:** the strengths are largely reversed.
-- **B is correct:** it gives a task-sensitive, reciprocal assessment.
-- **C is incorrect:** their ontologies and causal accounts genuinely differ.
-- **D is incorrect:** Aristotle's criticism is philosophical, not modern experimental science.
+- **A — Incorrect:** the strengths are largely reversed between the two thinkers.
+- **B — Correct:** it gives a reciprocal, task-sensitive assessment where each gain brings a cost.
+- **C — Incorrect:** their ontologies and causal accounts genuinely differ, not just their words.
+- **D — Incorrect:** Aristotle's criticism of Plato is philosophical, not modern experimental science.
 
 ## Causal transition
 
@@ -1680,9 +1680,9 @@ The comparison reveals no cost-free winner. The final lesson must therefore reco
 
 ---
 
-# Lesson 10 - Comparison Without Caricature
+## Lesson 10 — Comparison Without Caricature
 
-**Progress: 10/10 | Stage: Synthesis | Lesson: A graded philosophical verdict**
+Progress: 10/10 | Stage: Synthesis | Lesson: A graded philosophical verdict
 
 ━━━ **PRE-TEACH CHECKLIST** ━━━━━━━━━━━━━━━━━━
 
@@ -1812,37 +1812,53 @@ This is not a merger of the systems. It is a selective philosophical judgement a
 
 ## Local practice
 
-### MCQ 19 - synthesis
+**MCQ 19: C**
 
 Which claim best captures the continuity between Plato and Aristotle?
 
-- A. Both deny intelligible structure.
-- B. Both make every Form a separate object.
-- C. Aristotle retains the need for form and essence while rejecting their separation from natural substances.
-- D. Aristotle replaces knowledge with perception alone.
+- A. Both thinkers finally deny that reality possesses any intelligible structure in nature.
+- B. Both thinkers turn each Form into a wholly separate object existing apart from sensible things.
+- C. Aristotle keeps form and essence while denying their separation from substances.
+- D. Aristotle replaces reasoned knowledge with perception alone.
 
 **Answer: C.**
 
-- **A is incorrect:** intelligible structure is central to both.
-- **B is incorrect:** immanence defines Aristotle's break.
-- **C is correct:** it states preservation and transformation together.
-- **D is incorrect:** Aristotle begins from perception but seeks causal and essential knowledge.
+- **A — Incorrect:** intelligible structure is central to both Plato and Aristotle.
+- **B — Incorrect:** immanence of form, not separation, defines Aristotle's break with Plato.
+- **C — Correct:** it states preservation and transformation together.
+- **D — Incorrect:** Aristotle begins from perception but seeks causal and essential knowledge.
 
-### MCQ 20 - graded verdict
+**MCQ 20: D**
 
 Which conclusion is philosophically strongest?
 
-- A. Plato is simply wrong because Forms are invisible.
-- B. Aristotle solves every problem and creates none.
-- C. The systems are fully compatible once terminology is ignored.
-- D. Plato better protects independent standards, Aristotle better explains concrete unity and change, and each advantage carries a residual difficulty.
+- A. Plato must be simply mistaken, since the intelligible Forms he postulates remain entirely invisible to perception.
+- B. Aristotle solves every philosophical problem and creates no new ones.
+- C. The systems are fully compatible once we set their terminology aside.
+- D. Plato better protects independent standards while Aristotle better explains concrete unity and change.
 
 **Answer: D.**
 
-- **A is incorrect:** invisibility alone is no refutation of an intelligible entity.
-- **B is incorrect:** universality, form-individuation and teleology remain contested.
-- **C is incorrect:** separation and primary substance are genuine disagreements.
-- **D is correct:** it is comparative, criterion-based and non-caricatural.
+- **A — Incorrect:** invisibility by itself is no refutation of an intelligible entity.
+- **B — Incorrect:** universality, form-individuation and teleology all remain contested.
+- **C — Incorrect:** separation and primary substance mark genuine disagreements, not mere words.
+- **D — Correct:** it is comparative, criterion-based and avoids caricature.
+
+**MCQ 21: A**
+
+Which formulation best connects Platonic recollection with Forms?
+
+- A. Recognising imperfect equals relies on prior acquaintance with Equality itself.
+- B. Recollection means memorising the ordinary names attached to familiar visible objects.
+- C. Recollection shows Forms are brain memory traces.
+- D. Recollection replaces every other Platonic account of knowledge.
+
+**Answer: A.**
+
+- **A — Correct:** it states the *Phaedo* route from imperfect instances to a prior standard.
+- **B — Incorrect:** recollection concerns intelligible knowledge, not rote naming of objects.
+- **C — Incorrect:** the Forms are not physical memory traces in the brain.
+- **D — Incorrect:** *Republic* dialectic and other routes to knowledge remain essential.
 
 ## Causal transition
 
@@ -1850,7 +1866,7 @@ The conceptual sequence is complete. What follows applies it: first verified que
 
 ---
 
-# Verified PYQ Linkage and Approach Index
+# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 **Boundary:** The entries below give only verified wording, demand and a concise approach. They do not provide solved answers. Across 2018-2026 there is at least one primary Plato-Aristotle question-part in every year; **absence years: none**. Total: **14 question-parts**.
 
@@ -1873,205 +1889,189 @@ The conceptual sequence is complete. What follows applies it: first verified que
 
 ---
 
-# Cumulative MCQs
+# CUMULATIVE MCQS
 
 The sequence continues the global answer rotation established in lesson practice.
 
-### MCQ 21
-
-Which formulation best connects Platonic recollection with Forms?
-
-- A. Recognition of imperfect sensible equality is explained through prior acquaintance with Equality itself.
-- B. Recollection means memorising the names of visible objects.
-- C. Recollection proves that Forms are physical memories in the brain.
-- D. Recollection replaces every other Platonic account of knowledge.
-
-**Answer: A.**
-
-- **A is correct:** it states the *Phaedo* route from imperfect instances to a prior standard.
-- **B is incorrect:** recollection concerns intelligible knowledge, not rote naming.
-- **C is incorrect:** Forms are not physical memory traces.
-- **D is incorrect:** *Republic* dialectic and other routes remain essential.
-
-### MCQ 22
+**MCQ 22: B**
 
 Why must the Good not be identified without qualification with the Demiurge?
 
-- A. Plato never discusses either.
+- A. Plato nowhere discusses either the Good or the Demiurge.
 - B. The Good grounds being and intelligibility in the *Republic*, while the Demiurge orders becoming after paradigms in the *Timaeus*.
-- C. The Demiurge is Aristotle's Unmoved Mover.
-- D. The Good is a material receptacle.
+- C. The Demiurge is really Aristotle's Unmoved Mover under another name.
+- D. The Good is simply a passive material receptacle.
 
 **Answer: B.**
 
-- **A is incorrect:** both have central textual roles.
-- **B is correct:** it preserves dialogue-specific explanatory functions.
-- **C is incorrect:** this collapses different philosophers and arguments.
-- **D is incorrect:** the Receptacle is a distinct *Timaeus* principle.
+- **A — Incorrect:** both the Good and the Demiurge have central textual roles in Plato.
+- **B — Correct:** it preserves each principle's dialogue-specific explanatory function.
+- **C — Incorrect:** this collapses distinct philosophers and separate arguments together.
+- **D — Incorrect:** the Receptacle is a distinct *Timaeus* principle, not the Good.
 
-### MCQ 23
+**MCQ 23: C**
 
 Which claim most accurately states Aristotle's VII.17 reformulation?
 
-- A. Substance is whatever word appears as grammatical subject.
-- B. Matter alone explains why materials form a house.
-- C. Substance is sought as the cause explaining why this matter is a unified thing of a certain kind.
-- D. Every universal is a separate substance.
+- A. Substance is simply whatever word happens to appear as the grammatical subject.
+- B. Matter by itself explains why these materials come together as a house.
+- C. Substance is the cause of this matter being a unified thing.
+- D. Every universal turns out to be a separate substance existing in its own right.
 
 **Answer: C.**
 
-- **A is incorrect:** the inquiry moves beyond grammar.
-- **B is incorrect:** matter underdetermines organised unity.
-- **C is correct:** form answers the explanatory "why."
-- **D is incorrect:** VII.13 rejects universals as substances.
+- **A — Incorrect:** the VII.17 inquiry moves beyond grammar to explanation.
+- **B — Incorrect:** matter by itself underdetermines organised unity.
+- **C — Correct:** form answers the explanatory 'why' about the unified thing.
+- **D — Incorrect:** VII.13 denies that any universal is a substance.
 
-### MCQ 24
+**MCQ 24: D**
 
 Which statement about natural teleology is false?
 
-- A. It can explain parts by their characteristic functions.
-- B. It differs from an artisan's conscious plan.
-- C. It often links formal and final causes.
-- D. It requires every natural process to be consciously designed by a deliberating agent.
+- A. It can explain the parts of a living organism by their own characteristic functions.
+- B. It differs from a human artisan's deliberate, consciously formed plan for an artefact.
+- C. It often links the formal and final causes together.
+- D. It requires every natural process to be consciously designed beforehand.
 
 **Answer: D.**
 
-- **A is correct as a description:** function is central to teleological explanation.
-- **B is correct as a description:** nature has an internal principle.
-- **C is correct as a description:** mature form is often the end.
-- **D is false and therefore the answer:** conscious planning is not required.
+- **A — Incorrect:** function is central to teleological explanation, so this is true.
+- **B — Incorrect:** nature has an internal principle distinct from conscious craft, so this is true.
+- **C — Incorrect:** the mature form is often the end, so linking formal and final is true.
+- **D — Correct:** conscious prior design is not required by natural teleology, so this is the false claim.
 
-### MCQ 25
+**MCQ 25: A**
 
 Which feature belongs to *eikasia*?
 
-- A. Taking shadows or representations as if they were originals.
-- B. Dialectically examining hypotheses.
-- C. Grasping pure actuality.
-- D. Explaining substantial generation through form.
+- A. Taking shadows or images as if they were the originals.
+- B. Examining competing hypotheses dialectically on the way to a first principle.
+- C. Grasping pure actuality beyond potentiality.
+- D. Explaining the substantial generation of a thing through its immanent form.
 
 **Answer: A.**
 
-- **A is correct:** *eikasia* is the lowest cognitive state.
-- **B is incorrect:** this belongs to *noesis*.
-- **C is incorrect:** pure actuality is Aristotelian.
-- **D is incorrect:** this belongs to Aristotle's metaphysics of change.
+- **A — Correct:** *eikasia* is the lowest cognitive state, taking images for originals.
+- **B — Incorrect:** dialectical examination of hypotheses belongs to *noesis*.
+- **C — Incorrect:** grasping pure actuality is an Aristotelian, not a Divided-Line, theme.
+- **D — Incorrect:** explaining generation through form belongs to Aristotle's metaphysics.
 
-### MCQ 26
+**MCQ 26: B**
 
 Why is matter called relative?
 
-- A. Matter is unreal whenever observed.
-- B. What functions as formed material at one stage can serve as matter for a further form.
-- C. Every substance has the same matter.
-- D. Matter is identical with accident.
+- A. Matter turns out to be wholly unreal whenever it is actually being observed.
+- B. Formed material at one stage can become matter for a further form.
+- C. Each substance shares exactly the same underlying matter.
+- D. Matter is just another name for accident.
 
 **Answer: B.**
 
-- **A is incorrect:** Aristotle affirms material reality.
-- **B is correct:** bronze has form relative to elements and is matter relative to a statue.
-- **C is incorrect:** matter is determinate and context-sensitive.
-- **D is incorrect:** accidents depend on compounds and are not matter.
+- **A — Incorrect:** Aristotle affirms the reality of matter, not its disappearance when observed.
+- **B — Correct:** bronze is formed relative to the elements yet matter relative to a statue.
+- **C — Incorrect:** matter is determinate and context-sensitive, not one shared stuff.
+- **D — Incorrect:** accidents depend on a compound and are not its matter.
 
-### MCQ 27
+**MCQ 27: C**
 
 Which statement avoids a standard error about the Unmoved Mover?
 
-- A. It is prime matter without form.
-- B. It mechanically pushes the first object at the first instant of time.
-- C. It is pure actuality and moves principally as a final cause.
-- D. It is the immanent substantial form of every sensible thing.
+- A. It is prime matter entirely without any form.
+- B. It mechanically pushes the first body at the first instant of time.
+- C. It is pure actuality and moves principally as an object of final causation.
+- D. It is the immanent substantial form of each sensible thing.
 
 **Answer: C.**
 
-- **A is incorrect:** pure potentiality is opposite to pure actuality.
-- **B is incorrect:** Aristotle's eternal cosmos does not require a first temporal push.
-- **C is correct:** final attraction and absence of potentiality are defining.
-- **D is incorrect:** each natural substance has its own form.
+- **A — Incorrect:** pure potentiality is the opposite of the Mover's pure actuality.
+- **B — Incorrect:** Aristotle's eternal cosmos needs no first temporal mechanical push.
+- **C — Correct:** final attraction together with the absence of potentiality is defining.
+- **D — Incorrect:** each natural substance has its own immanent form, unlike the Mover.
 
-### MCQ 28
+**MCQ 28: D**
 
 What is the best limitation on the claim that Aristotle refuted atomism?
 
-- A. Aristotle agreed that only chance explains nature.
-- B. Aristotle denied all material explanation.
-- C. Aristotle's objections apply only to Plato.
-- D. His critique concerns metaphysical and explanatory adequacy, not a modern experimental disproof of atomic science.
+- A. Aristotle agreed that only blind chance explains the regularities of nature.
+- B. Aristotle denied that material explanation has any place in nature.
+- C. Aristotle's objections really apply solely to Plato and not to the atomists.
+- D. His critique is metaphysical, not a modern experimental disproof.
 
 **Answer: D.**
 
-- **A is incorrect:** he resists chance as a full explanation of regular nature.
-- **B is incorrect:** material cause is indispensable.
-- **C is incorrect:** Atomists and Plato are separately criticised.
-- **D is correct:** it prevents anachronism.
+- **A — Incorrect:** he resists chance as a full explanation of regular nature.
+- **B — Incorrect:** the material cause remains indispensable for Aristotle.
+- **C — Incorrect:** the Atomists and Plato are criticised separately by Aristotle.
+- **D — Correct:** it blocks the anachronism of reading modern experiment into Aristotle.
 
-### MCQ 29
+**MCQ 29: A**
 
 Which change best illustrates potentiality becoming actuality without emergence from absolute non-being?
 
-- A. A suitably organised acorn developing into an oak.
-- B. A stone becoming a mathematician merely because it is logically imaginable.
-- C. Nothing producing a complete organism without conditions.
-- D. A Form changing its timeless essence.
+- A. A suitably organised acorn growing into an oak.
+- B. A stone becoming a mathematician simply because such a thing is logically imaginable.
+- C. Sheer nothing producing a complete organism without any prior conditions in place.
+- D. A timeless Platonic Form altering its own eternal essence.
 
 **Answer: A.**
 
-- **A is correct:** the capacity is grounded in present organisation.
-- **B is incorrect:** bare logical possibility is not Aristotelian potentiality.
-- **C is incorrect:** the doctrine rejects generation from absolute nothing.
-- **D is incorrect:** Platonic Forms are immutable.
+- **A — Correct:** the capacity is grounded in the acorn's present organisation.
+- **B — Incorrect:** bare logical possibility is not Aristotelian potentiality.
+- **C — Incorrect:** the doctrine rejects generation from absolute nothing.
+- **D — Incorrect:** Platonic Forms are immutable and cannot alter their essence.
 
-### MCQ 30
+**MCQ 30: B**
 
 What is the strongest Platonic pressure on immanent form?
 
-- A. Immanent form cannot organise a concrete thing.
-- B. Forms tied to changing instances may seem unable to ground unrestricted universality and perfect standards.
-- C. Aristotle believes only shadows exist.
-- D. Hylomorphism necessarily entails atomism.
+- A. Immanent form is simply unable to organise any concrete individual substance whatsoever.
+- B. Immanent forms may not secure unrestricted universality or perfect standards.
+- C. Aristotle really believes that only passing shadows genuinely exist in the world.
+- D. Hylomorphism by itself necessarily entails atomism.
 
 **Answer: B.**
 
-- **A is incorrect:** organisation is precisely immanent form's strength.
-- **B is correct:** it states the universality and normativity challenge.
-- **C is incorrect:** this reverses Aristotle's realism.
-- **D is incorrect:** Aristotle opposes atomist reduction.
+- **A — Incorrect:** organising a concrete individual is precisely immanent form's strength.
+- **B — Correct:** it states the universality and normativity challenge to immanent form.
+- **C — Incorrect:** this reverses Aristotle's realism about sensible substances.
+- **D — Incorrect:** Aristotle opposes atomist reduction, so hylomorphism does not entail it.
 
-### MCQ 31
+**MCQ 31: C**
 
 Which set gives the correct order of the Divided Line from lowest to highest?
 
-- A. *Pistis*, *eikasia*, *noesis*, *dianoia*.
-- B. *Dianoia*, *pistis*, *eikasia*, *noesis*.
-- C. *Eikasia*, *pistis*, *dianoia*, *noesis*.
+- A. *Pistis*, *eikasia*, *noesis*, *dianoia*, reading from the bottom upward.
+- B. *Dianoia*, *pistis*, *eikasia*, *noesis*, as listed.
+- C. *Eikasia*, *pistis*, *dianoia*, *noesis*, from lowest upward.
 - D. *Noesis*, *dianoia*, *pistis*, *eikasia*.
 
 **Answer: C.**
 
-- **A is incorrect:** it reverses the first pair and upper pair.
-- **B is incorrect:** it starts within the intelligible section.
-- **C is correct:** images -> visible things -> mathematical thought -> dialectic.
-- **D is incorrect:** it gives the descending order.
+- **A — Incorrect:** it misplaces the first visible pair and the upper intelligible pair.
+- **B — Incorrect:** it begins inside the intelligible section rather than the visible.
+- **C — Correct:** images → visible things → mathematical thought → dialectic.
+- **D — Incorrect:** it lists the sections in descending rather than ascending order.
 
-### MCQ 32
+**MCQ 32: D**
 
 Which synthesis is least defensible?
 
 - A. Objective standards need not be reduced to current opinion.
 - B. Natural explanation must engage material capacities and organisation.
-- C. Plato and Aristotle can illuminate different explanatory tasks.
-- D. The Good, Demiurge and Unmoved Mover are interchangeable names for exactly the same principle.
+- C. Plato and Aristotle illuminate different explanatory tasks.
+- D. The Good, the Demiurge and the Unmoved Mover are interchangeable names for exactly one principle.
 
 **Answer: D.**
 
-- **A is defensible:** it preserves Plato's objectivity insight.
-- **B is defensible:** it preserves Aristotle's explanatory contact.
-- **C is defensible:** a graded comparison assigns strengths by criterion.
-- **D is least defensible and therefore the answer:** it erases dialogue and system differences.
+- **A — Incorrect:** it rightly preserves Plato's insight about objectivity.
+- **B — Incorrect:** it rightly preserves Aristotle's explanatory contact with matter.
+- **C — Incorrect:** a graded comparison properly assigns strengths by criterion.
+- **D — Correct:** it erases real dialogue and system differences, so it is least defensible.
 
 ---
 
-# Original Mains Practice with Model Answers
+# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 These are original questions, not past UPSC questions.
 
@@ -2107,7 +2107,7 @@ Aristotle therefore offers the stronger metaphysics of natural unity and change,
 
 ---
 
-# Remediation
+# REMEDIATION
 
 ## Error clinic
 
@@ -2128,73 +2128,73 @@ Aristotle therefore offers the stronger metaphysics of natural unity and change,
 
 ## Remedial MCQs
 
-### MCQ 33
+**MCQ 33: A**
 
 A candidate writes, "Plato's Form of Beauty is the most beautiful object located beyond the stars." The best correction is:
 
-- A. A Form is non-spatial and intelligible, not a superior physical specimen in a remote place.
-- B. Beauty is only a private emotion.
-- C. Plato denies that Beauty is objective.
-- D. Aristotle also places forms beyond the stars.
+- A. A Form is non-spatial and intelligible, not a remote physical specimen.
+- B. Beauty is really nothing more than a fleeting private emotion in the observer.
+- C. Plato actually denies that beauty is in any way genuinely objective in nature.
+- D. Aristotle likewise places natural forms beyond the stars.
 
 **Answer: A.**
 
-- **A is correct:** it corrects spatial reification.
-- **B is incorrect:** it abandons Plato's objectivity.
-- **C is incorrect:** objective beauty motivates the theory.
-- **D is incorrect:** Aristotle's natural forms are immanent.
+- **A — Correct:** it corrects the spatial reification of an intelligible Form.
+- **B — Incorrect:** reducing Beauty to private emotion abandons Plato's objectivity.
+- **C — Incorrect:** objective beauty is precisely what motivates Plato's theory.
+- **D — Incorrect:** Aristotle's natural forms are immanent, not located beyond the stars.
 
-### MCQ 34
+**MCQ 34: B**
 
 A student identifies every future state of a thing as an Aristotelian potentiality. What is missing?
 
-- A. Potentiality must be timeless and separate.
-- B. Potentiality must be grounded in the thing's present nature, material organisation and conditions.
-- C. Potentiality belongs only to the Unmoved Mover.
-- D. Potentiality means an event has already occurred.
+- A. Potentiality must be timeless and wholly separate from things.
+- B. Potentiality must be grounded in the thing's present nature, material organisation and actual conditions.
+- C. Potentiality belongs properly to the Unmoved Mover alone.
+- D. Potentiality means an event has already happened.
 
 **Answer: B.**
 
-- **A is incorrect:** this confuses potency with a Platonic Form.
-- **B is correct:** capacities are determinate, not bare imaginability.
-- **C is incorrect:** the Unmoved Mover lacks potentiality.
-- **D is incorrect:** actuality, not potentiality, is realised.
+- **A — Incorrect:** this confuses a capacity with a separate Platonic Form.
+- **B — Correct:** capacities are determinate, grounded in nature and conditions, not bare imaginability.
+- **C — Incorrect:** the Unmoved Mover is pure actuality and lacks potentiality.
+- **D — Incorrect:** a realised event is actuality, not the potentiality that preceded it.
 
-### MCQ 35
+**MCQ 35: C**
 
 Which sentence correctly handles Aristotle's account of substance?
 
-- A. Matter alone is primary because it is completely determinate.
-- B. Every universal is a primary substance.
-- C. Concrete individuals are primary subjects, while immanent form explains their essence and unity.
-- D. Accidents exist independently of substances.
+- A. Matter entirely by itself is primary because it is completely determinate in nature.
+- B. Every universal genuinely counts as a primary substance in its own right.
+- C. Concrete individuals are primary, their form explaining essence.
+- D. Accidents can exist entirely independently of any substance whatsoever.
 
 **Answer: C.**
 
-- **A is incorrect:** bare matter lacks determinate whatness.
-- **B is incorrect:** VII.13 rejects universals as substances.
-- **C is correct:** it connects the two major contexts.
-- **D is incorrect:** accidents depend on substances.
+- **A — Incorrect:** bare matter lacks determinate whatness, so it is not primary.
+- **B — Incorrect:** Aristotle's VII.13 rejects any universal being a primary substance.
+- **C — Correct:** it connects primary subjects with form as the source of essence.
+- **D — Incorrect:** accidents depend on substances and cannot exist on their own.
 
-### MCQ 36
+**MCQ 36: D**
 
 Which claim about the four causes needs correction?
 
-- A. Efficient cause names a source of change.
-- B. Formal cause explains what a thing is.
-- C. Material cause identifies relevant material conditions.
-- D. Final cause is always a conscious intention formed by a mind.
+- A. Efficient cause names the primary source from which a given change first begins.
+- B. Formal cause explains what kind of thing something is.
+- C. Material cause identifies the relevant material conditions.
+- D. Final cause is always a conscious intention formed in a deliberating mind.
 
 **Answer: D.**
 
-- **A is accurate:** it states efficient causation.
-- **B is accurate:** form gives essence and organisation.
-- **C is accurate:** matter is the "out of which."
-- **D needs correction and is therefore the answer:** natural ends need not be consciously intended.
+- **A — Incorrect:** it correctly states efficient causation as a source of change.
+- **B — Incorrect:** form correctly gives the essence and kind of a thing.
+- **C — Incorrect:** matter is correctly the 'out of which' of a thing.
+- **D — Correct:** natural ends need not be consciously intended, so this needs correction.
 
 ---
 
-# Master Comparisons, Causal Chains and Argument Maps
+# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
 ## Master comparison
 
@@ -2300,7 +2300,7 @@ moves as final object of desire
 
 ---
 
-# Register Notes
+# COMPLETE CONSOLIDATED REGISTER NOTES
 
 ## Plato
 
@@ -2382,7 +2382,7 @@ moves as final object of desire
 
 ---
 
-# Coverage Matrix
+# COVERAGE MATRIX
 
 | Required item | Lesson(s) | Where secured |
 |---|---:|---|
@@ -2414,13 +2414,13 @@ moves as final object of desire
 | Transcendence versus immanence | 9 | Complete multi-axis comparison |
 | Genuine synthesis | 10 | Preservation, transformation and graded verdict |
 | Verified PYQs through 2026 | Final index | 14 links; no absence years |
-| Local conceptual/applied/remedial practice | 1-10 | 20 rotating MCQs with four-option explanations |
+| Local conceptual/applied/remedial practice | 1-10 | 21 rotating MCQs with four-option explanations |
 | Original Mains models | 2, 4, 6, 8 and final section | Original only; 10/15/20-mark forms |
-| Cumulative practice and remediation | Final sections | 12 cumulative and 4 remedial MCQs |
+| Cumulative practice and remediation | Final sections | 11 cumulative and 4 remedial MCQs |
 
 ---
 
-# Source Ledger
+# SOURCE LEDGER
 
 ## Primary texts and standard locations
 
@@ -2464,3 +2464,16 @@ moves as final object of desire
 - Every year in that interval contains at least one such part; absence years are therefore none.
 - PYQ entries stop at demand and concise approach.
 - Interpretive disputes are marked as disputes rather than presented as settled textual fact.
+
+## SOURCE-MANIFEST GATE
+
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Audited canonical `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Plato-Aristotle.md` and complete topic package `upsc-ai-kit\knowledge\Philosophy\_learning-sessions\01_Plato-Aristotle-Complete-Learning-Session.md` |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Permitted cross-check `upsc-ai-kit\knowledge\Philosophy\Western-Philosophy\learning-sessions\Plato-Aristotle\Plato-Aristotle_Layered-Complete-Learning-Session_2026-08-18.md` |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule; its content was not cited or read |
+| Advanced dossier | checked | Advanced enrichment from `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` |
+| OCR books | not relevant | No OCR-scanned book with exact page citations was used; doctrine rests on primary texts and standard secondary histories (Stace, Copleston) cited by discussion in the primary-texts list, not by OCR page extracts |
+| PYQs through 2026 | checked | Verified local ledgers `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` and `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2026.md`; wording and marks transcribed from these audited ledgers rather than re-read from the original papers |
+| Official live sources | not relevant | Timeless ancient doctrine; no current-affairs or live-source claim is used |
