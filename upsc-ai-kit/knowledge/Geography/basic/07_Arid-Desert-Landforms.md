@@ -2,7 +2,7 @@
 
 > **Subject:** Geography · **Tier:** Must-Do (foundation + standard) · **GS Paper:** GS-I
 > **Grounded in:** G.C. Leong, *Certificate Physical & Human Geography* + Majid Husain, *Indian & World Geography*.
-> ✅ = from source book · ⚠️ = inference / standard knowledge · 📰 = current affairs.
+> ✅ = directly sourced fact · ⚠️ = inference / standard synthesis · 📰 = current affairs.
 > *Companion: `advanced/07_Thar-Desertification.md`.*
 
 ---
@@ -10,21 +10,34 @@
 ## 1. Snapshot & core idea
 
 
-**Foundation — Wind Erosion & Depositional Desert Landforms (GC Leong / Majid).**
+**Foundation — Aeolian and episodic-water desert geomorphology.**
 
-✅ In deserts, wind is the chief agent. It erodes by deflation (lifting/rolling loose material) and abrasion (sand-blasting rock), then deposits sand as dunes and fine dust as loess. Sparse vegetation + dry, loose regolith let wind pick up grains. Coarse sand does the abrading near the ground; fine dust travels far and settles as loess beyond desert margins.
-- ✅ Deflation lowers the land into deflation hollows by blowing away loose sand/dust; a lag of pebbles left behind forms a desert pavement.
-- ✅ Abrasion and deflation help sculpt **zeugens** (tabular, resistant cap rock over a narrower softer
-  pedestal), pedestal/mushroom rocks and **yardangs** (streamlined ridges parallel to prevailing wind).
-- ✅ Ventifacts are wind-faceted pebbles; a three-faced one is a dreikanter. Inselbergs are isolated
-  residual hills. Mesas and buttes are structurally controlled residuals shaped by combined weathering,
-  runoff and slope retreat—not wind-only forms.
-- ✅ Depositional dunes: crescent-shaped barchans (horns point downwind) and long ridge-like seifs (longitudinal dunes) aligned with the wind.
-- ✅ Loess = extensive deposits of wind-blown fine silt/dust carried far beyond the desert (very fertile).
+✅ Arid landscapes are polygenetic. Wind entrains, transports, abrades and deposits loose sediment,
+while episodic runoff, weathering, mass movement, groundwater and inherited geology may dominate
+particular surfaces or timescales. Aeolian activity is strongest where aerodynamic stress exceeds a
+surface threshold set by grain size, cohesion, moisture, roughness, vegetation and sediment supply.
+- ⚠️ **Deflation** removes loose material; **abrasion** wears exposed material with wind-driven
+  grains. Neither process alone explains every hollow, pedestal or ridge in a desert.
+- ⚠️ A **desert pavement** is a closely packed clast cover that may develop through interacting
+  deflation, sheetwash/winnowing and upward clast migration during soil shrink-swell or heave. Once
+  continuous, it reduces further entrainment; it is not evidence of a deflation-only history.
+- ⚠️ **Yardangs** are streamlined erosional ridges broadly aligned with effective wind transport,
+  but lithology, joints, weathering, deflation and abrasion jointly control their form. **Zeugen** is a
+  legacy textbook term for cap-and-pedestal forms; use it descriptively and do not make it a universal
+  wind-only class. Mushroom/pedestal rocks can also reflect differential weathering and runoff.
+- ✅ Ventifacts are wind-faceted stones; a dreikanter has three principal facets. Inselbergs, mesas and
+  buttes are regional denudational or structural residuals, not automatically aeolian sculptures.
+- ⚠️ Dune form responds to sediment supply, vegetation, surface moisture and the directional
+  variability of sand-moving winds; real fields commonly contain transitional, compound and
+  composite dunes.
+- ⚠️ **Loess** is predominantly silt-sized terrestrial sediment accumulated mainly from wind-blown
+  dust. Its agricultural quality varies with mineralogy, carbonate, weathering, moisture, soil
+  development and erosion risk; it is not intrinsically or universally fertile.
 
 **Ca Anchor — Greening of the Thar Desert.**
 
-✅ The Thar shows that a 'desert' is dynamic: aeolian dune landscapes can be partly stabilised/greened by irrigation and land-use change, while other margins still face wind erosion.
+✅ The Thar shows that dryland condition is dynamic: dune mobility, vegetation, cultivation,
+irrigation, salinity and erosion vary by subregion and period.
 - ✅ Drivers of local greening include Indira Gandhi Canal irrigation, groundwater use, farming,
   settlement growth and rainfall variability; avoid transferring study-area percentage changes to the whole Thar.
 - ✅ Greening stabilises dunes locally, but the arid fringe (E/SE Thar) remains vulnerable to degradation.
@@ -34,15 +47,21 @@
 
 | Process / landform | Formation | Diagnostic feature |
 |---|---|---|
-| ✅ Deflation | Wind blows away loose sand and dust | Deflation hollow; desert pavement lag |
-| ✅ Abrasion | Sand-blasting by wind-driven grains | Zeugen, yardangs, ventifacts, dreikanter |
-| ✅ Yardang | Streamlined wind-eroded ridge | Long axis parallel to prevailing wind |
-| ✅ Zeugens | Differential erosion beneath a resistant cap | Tabular cap on a narrower pedestal; not every mushroom rock is a zeugen |
+| ✅ Deflation | Wind removes loose sediment where threshold stress is exceeded | Surface lowering, blowout or lag; depth may be limited by armour, moisture, bedrock or cementation |
+| ✅ Abrasion | Wind-driven grains wear exposed surfaces | Strongest where sand flux is concentrated; works with weathering and lithologic contrasts |
+| ⚠️ Yardang | Streamlined erosional ridge produced by combined abrasion, deflation and weathering | Long axis broadly parallel to effective sand-transport direction; lithology and joints matter |
+| ⚠️ Zeugen / pedestal form | Legacy descriptive class for cap-and-pedestal relief | Differential resistance; do not attribute every mushroom form solely to wind |
 | ✅ Ventifact / dreikanter | Wind-faceted pebble | Dreikanter has three facets |
 | ✅ Inselberg / mesa | Resistant residual hill / flat-topped upland | Left after surrounding softer material is removed |
 | ✅ Barchan | Crescentic sand dune | Horns point downwind |
-| ✅ Seif | Longitudinal dune | Long ridge aligned with dominant wind |
-| ✅ Loess | Wind-blown fine silt deposited beyond desert margins | Often porous and fertile; colour and carbonate content vary |
+| ✅ Transverse dune | Ridge approximately across net sand transport | Abundant sand under a mainly unidirectional regime |
+| ✅ Linear / longitudinal / seif dune | Long ridge with transport commonly oblique to both flanks | Usually linked to bimodal or seasonally varying winds; not simply “parallel to one wind” |
+| ✅ Parabolic dune | U-shaped dune with vegetated or moist arms commonly pointing upwind | Often develops from blowouts; vegetation is a control, not proof of degradation by itself |
+| ✅ Star dune | Multi-armed dune under multidirectional winds and ample sand | Primarily grows vertically but may also shift or reorganise |
+| ✅ Reversing dune | Ridge with opposed slip faces | Seasonal or episodic reversal of effective winds |
+| ✅ Nebkha / shrub-coppice or obstacle dune | Sand mound trapped by vegetation or another obstacle | Local roughness and trapping control |
+| ⚠️ Compound / composite dune | Smaller dunes superposed on, or combined within, larger forms | Records scale-dependent or changing sediment and wind regimes |
+| ✅ Loess | Predominantly silt-sized terrestrial sediment accumulated mainly from wind-blown dust | Often porous and erodible; fertility is site-specific |
 
 ## 3. Study links
 
@@ -53,17 +72,21 @@
 
 
 **Foundation — Wind Erosion & Depositional Desert Landforms (GC Leong / Majid).**
-- ✅ Wind erosion = deflation + abrasion.
-- ✅ Deflation hollow + desert pavement (lag of pebbles).
-- ✅ Yardang: long axis PARALLEL to wind; zeugen = rock mushroom.
+- ✅ Wind erosion includes deflation and abrasion, but desert relief is commonly polygenetic.
+- ✅ Desert pavement can reflect deflation, sheetwash and upward clast migration; it then armours the surface.
+- ✅ Yardang: long axis broadly parallel to effective sand transport; zeugen is a qualified legacy term.
 - ✅ Dreikanter = 3-faced wind-faceted pebble (ventifact).
-- ✅ Barchan = crescentic dune; seif = longitudinal dune.
-- ✅ Loess = wind-blown fertile silt beyond desert margins.
+- ✅ Barchan, transverse, linear/seif, parabolic, star, reversing, nebkha/obstacle and
+  compound/composite forms must be distinguished by controls, not memorised as shapes alone.
+- ✅ Loess is predominantly wind-accumulated silt; its fertility is not universal.
+- ✅ Kashmir Valley preserves extensive Indian loess-palaeosol sequences.
 
 **Ca Anchor — Greening of the Thar Desert.**
-- ✅ Thar greening driven mainly by Indira Gandhi Canal irrigation.
+- ✅ Indira Gandhi Canal irrigation is an important driver of local Thar greening and dune
+  stabilisation; groundwater, cultivation and rainfall variability also matter by subregion.
 - ✅ It is unusually densely settled for a hot desert, but avoid an uncited world superlative.
-- ✅ Desert extent is dynamic — greening vs fringe degradation.
+- ✅ Land cover and land condition are dynamic — local greening/stabilisation can coexist with
+  degradation elsewhere without proving movement of a climatic-desert boundary.
 
 ## 5. UPSC Traps
 
@@ -73,10 +96,13 @@
 **Foundation — Wind Erosion & Depositional Desert Landforms (GC Leong / Majid).**
 - ❌ Barchan horns point into (upwind of) the wind. → Barchan horns point DOWNWIND (leeward); the gentle slope faces the wind.
 - ❌ A yardang's long axis is perpendicular to the wind. → A yardang is streamlined PARALLEL to the wind direction.
-- ❌ Loess is a water-laid deposit. → Loess is WIND-blown fine dust (aeolian), not fluvial.
+- ❌ Loess is always massive, desert-derived and highly fertile. → Loess is predominantly
+  wind-accumulated silt from glacial, fluvial or desert sources; it may be reworked and its soil
+  quality varies.
 
 **Ca Anchor — Greening of the Thar Desert.**
-- ❌ Deserts are static and always expanding. → Extent is dynamic — irrigation can green/stabilise dunes while other areas degrade.
+- ❌ A desert is a fixed sand body that either advances or retreats. → Climatic aridity, dune
+  mobility, vegetation and land condition are distinct variables and may change differently.
 
 ## 6. 📰 Current link
 
@@ -85,7 +111,10 @@
 📰 Desert (aeolian) geomorphology underpins India's arid Thar — where wind erosion, dunes and desertification meet irrigation-driven greening.
 
 **Ca Anchor — Greening of the Thar Desert.**
-📰 Remote-sensing studies show parts of the Thar 'greening' over two decades — driven by canal irrigation (Indira Gandhi Canal), farm expansion and rising rainfall — even as fringes still degrade.
+📰 Dated luminescence work shows recurrent Holocene dune accumulation and reworking in the western
+Thar rather than a single formation event. Sediment-provenance research also identifies fluvial,
+Himalayan/Indus and recycled aeolian contributions across the transboundary Thar. Modern irrigation
+and agriculture are modifying and locally flattening or stabilising inherited dunes.
 
 ## 7. Mains angles
 
@@ -99,8 +128,8 @@
 ## 8. Why deserts are where they are - and the work of water in them
 
 > **Why this section exists:** the file taught aeolian landforms but never explained **why arid
-> zones occupy the positions they do**, and it omitted the fluvial landform suite that in fact
-> dominates most desert surfaces. Both are standard demands and both were absent.
+> zones occupy the positions they do**, and it omitted the episodic-water landform suite. Wind,
+> runoff and inherited geology have different relative importance by setting and timescale.
 
 ### 8.1 The five causes of aridity, each with its signature
 
@@ -116,28 +145,33 @@
 > deserts by area are cold ones, most desert surfaces are **rock and gravel rather than sand**, and
 > the Atacama and Namib are cool and foggy while being among the driest places on Earth.
 
-> 🔑 **Trap:** more than one cause usually operates at once. The Thar, for example, sits within the
-> subtropical-high belt **and** lies in a position where the summer monsoon current arrives with
-> weak lifting; a single-cause explanation for any large desert is usually wrong.
+> 🔑 **Trap:** more than one cause usually operates at once. The Thar lies at a variable monsoon
+> margin where high evaporative demand, episodic moisture convergence, distance from sustained
+> moisture supply, regional circulation, low relief and the Aravalli's orientation interact; no
+> single textbook control is sufficient.
 
 ### 8.2 Desert surfaces: the standard three
 
 | Surface | Character | Why it forms |
 |---|---|---|
 | ⚠️ Erg / sand sea | Extensive dune fields | Where sand supply, wind energy and a depositional basin coincide |
-| ⚠️ Reg / serir | Stony, gravel-strewn plain, often with a desert pavement | Deflation removes fines and leaves a lag of coarse clasts, which then armours the surface |
-| ⚠️ Hamada | Bare rock plateau surface | Sweeping removal of loose material, leaving bedrock exposed |
+| ⚠️ Reg / serir | Stony, gravel-strewn plain, often with a desert pavement | Clast concentration may involve deflation, sheetwash and upward migration; the cover then armours the surface |
+| ⚠️ Hamada | Bare rock plateau surface | Weathering, runoff, deflation and inherited structure expose or maintain bedrock surfaces |
 
-- ⚠️ **Sediment transport by wind operates in three modes:** **suspension** carries the finest dust
-  far beyond the desert — the source of loess belts elsewhere; **saltation** bounces sand grains and
-  does most of the abrasion; **surface creep** rolls the coarsest grains. This is why wind abrasion
-  is concentrated **near the ground**, producing undercut, pedestal-like rock forms.
+- ⚠️ **Sediment transport is commonly described through three overlapping modes.**
+  **Creep/reptation** rolls, slides or briefly hops coarser grains; **saltation** moves much sand in
+  repeated hops and can eject finer dust on impact; **suspension** carries sufficiently fine
+  particles while turbulence exceeds their settling tendency. Boundaries vary with grain density,
+  aggregation, moisture, crusting and turbulence. Saltating sand commonly concentrates abrasion
+  near the ground, but no universal mode carries “most” sediment at every site or event.
 
 ### 8.3 Running water in deserts: the process most answers forget
 
-⚠️ Rainfall in deserts is rare, but when it comes it is often intense, falls on sparse vegetation and
-crusted or bare ground, and generates very high runoff. Over geological time, **episodic water does
-more to shape most desert landscapes than wind does**.
+⚠️ Rainfall in deserts may be infrequent and spatially variable, but intense events can generate
+flash floods where rainfall intensity exceeds infiltration. Runoff response depends on substrate,
+crusting, slope, antecedent moisture and vegetation: coarse sand may absorb water rapidly, whereas
+rock, clay-rich crusts and steep catchments shed it. Wind and episodic water make different,
+site-specific contributions; neither should be ranked universally for all deserts.
 
 | Landform | Process |
 |---|---|
@@ -161,15 +195,19 @@ PEDIMENT (rock-cut) -> BASIN FLOOR
 PLAYA / SALT PAN, with INSELBERGS standing above the plain
 ```
 
-> 🔑 **Trap:** flash floods are the leading cause of death in many desert regions, and wadis are the
-> most dangerous places to camp or build. "Arid" does not mean "no flood risk"; it means the flood
-> is rare, sudden and channel-focused.
+> 🔑 **Trap:** "Arid" does not mean "no flood risk." Normally dry channels can experience rapid,
+> high-energy floods, but hazard and mortality rankings require event- and region-specific evidence.
 
 ### 8.4 Desertification is not the same as desert
 
-- ⚠️ A **desert** is a climatic zone. **Desertification** is *land degradation in arid, semi-arid and
-  dry sub-humid areas*, driven by climatic variation and human activity. A desert cannot
-  "desertify"; the land at risk is the productive dryland margin around it.
+- ⚠️ A **desert** is a climatic/geomorphic region. Under UNCCD Article 1,
+  **desertification** means land degradation in arid, semi-arid and dry sub-humid areas resulting
+  from various factors, including climatic variations and human activities. Productive rangeland,
+  oasis, irrigated land or vegetated surfaces within an arid region can degrade; do not replace this
+  definition with either “advancing sand” or the absolute claim that a desert cannot desertify.
+- ⚠️ The Convention's defined dryland range excludes polar/sub-polar regions and hyper-arid land
+  below its aridity-index boundary. General geomorphic use of “desert” is therefore not identical to
+  the UNCCD reporting domain.
 - ⚠️ Human drivers operate through the same physical mechanisms taught above: removal of vegetation
   cover exposes soil to deflation and raindrop impact; overgrazing prevents recovery; cultivation of
   marginal land breaks surface crusts; and irrigation without drainage salinises the soil (see
@@ -205,8 +243,8 @@ PLAYA / SALT PAN, with INSELBERGS standing above the plain
    wind action **and** high-runoff flash floods, giving both aeolian and fluvial suites.
 4. **Qualification:** the causes overlap; sand is a minority surface; cold deserts are the largest.
 5. **Conclusion:** deserts are best read as a **global circulation output**, which is why their
-   margins — not their cores — are where climate variability and human pressure interact most
-   sharply.
+   productive dryland margins and used surfaces are where climate variability and human pressure
+   often interact most sharply.
 
 ### 9.3 Evidence units available in this file
 
@@ -226,11 +264,11 @@ PLAYA / SALT PAN, with INSELBERGS standing above the plain
 
 ### Semantic-completeness ownership and PYQ control
 
-- **Owned core:** climatic aridity and desert distribution; mechanical and
-  salt weathering; aeolian creep, saltation, suspension, deflation and
-  abrasion; yardangs, ventifacts, pediments, bajadas, wadis, playas and dune
-  types; the Thar's physical mosaic, desertification drivers, canal trade-offs,
-  land-degradation neutrality and process-matched restoration.
+- **Owned core:** climatic aridity and desert distribution; sediment
+  availability; aeolian creep/reptation, saltation, suspension, deflation and
+  abrasion; qualified yardang/zeugen use; desert pavements; pediments, bajadas,
+  wadis and playas; complete dune taxonomy; the Thar's physical mosaic,
+  degradation mechanisms, canal trade-offs and process-matched restoration.
 - **Process control:** moisture deficit and sparse cover → weathering and
   sediment availability → threshold wind or episodic runoff → erosion,
   transport and deposition. Desertification is diagnosed when climatic
@@ -244,10 +282,11 @@ PLAYA / SALT PAN, with INSELBERGS standing above the plain
   2026 measurement. Its 97.85 million hectares and 29.77 percent of India's
   geographical area are baseline-period national values; they do not provide a
   current Thar-only percentage or prove programme impact.
-- **Terminology control:** desert differs from aridity, drought, land
-  degradation and UNCCD desertification; barchan from transverse,
-  longitudinal, parabolic and star dunes; pediment from bajada; playa from the
-  wider desert; restoration commitment from measured restoration outcome.
+- **Terminology control:** desert differs from aridity, drought, general land
+  degradation and UNCCD desertification; barchan from transverse, linear,
+  parabolic, star, reversing, nebkha/obstacle and compound/composite dunes;
+  pediment from bajada; playa from the wider desert; restoration commitment
+  from measured restoration outcome.
 - **Causal control:** wind is not the sole geomorphic agent and people are not
   inherently a degradation driver. Cover removal, grazing intensity, tillage,
   groundwater stress, mining, infrastructure, irrigation, drainage and
@@ -256,7 +295,28 @@ PLAYA / SALT PAN, with INSELBERGS standing above the plain
   owns hot- and mid-latitude desert climate; Environment and Ecology owns the
   direct UNCCD/desertification policy PYQ and Great Indian Bustard conservation.
   Topic 07 owns arid landforms and the Thar degradation application.
-- **Verified PYQ ownership, 2018-2026:** no direct Geography Topic 07 route is
-  present in the checked central ledgers. The 2020 Mains desertification demand
-  remains with Environment and Ecology and is used only as a bounded
-  cross-owner application; no direct question or objective key is invented.
+- **Verified PYQ ownership, answer-neutral:** the official 2026 GS-I paper,
+  Question 6, asks: “Discuss the role of aeolian processes in desertification
+  and land degradation” (10 marks, 150 words). The verified routing ledger
+  assigns primary ownership to this Basic file and support ownership to
+  `Environment-and-Ecology/basic/23_Desertification-UNCCD-and-Land-Degradation.md`.
+  The 2020 GS-I desertification demand remains with Environment and Ecology.
+  No objective answer key or official model answer is inferred.
+
+### Persistent scientific and official source controls
+
+- UNCCD Article 1 definitions:
+  <https://www.unccd.int/article-1-use-terms>
+- Kashmir loess-palaeosol review, including almost 500 square kilometres of
+  mapped loess cover: Zeeden et al. (2020), *Frontiers in Earth Science*,
+  DOI <https://doi.org/10.3389/feart.2020.00113>.
+- Western Thar portable-luminescence chronology: Nitundil et al. (2023),
+  *Quaternary Geochronology* 78, 101468,
+  DOI <https://doi.org/10.1016/j.quageo.2023.101468>; related 2024 western-Thar
+  synthesis, DOI <https://doi.org/10.5194/egusphere-egu24-21074>.
+- Transboundary Thar sediment provenance: Usman et al. (2024),
+  *Earth-Science Reviews* 249, 104674,
+  DOI <https://doi.org/10.1016/j.earscirev.2024.104674>.
+- Verified 2026 GS-I routing:
+  `upsc-ai-kit\knowledge\_PYQ-GS1-2026.md`, grounded in
+  `books\mains\2026\QP-CSM-26-010926-GENERAL STUDIES PAPER - I.pdf`.
