@@ -650,7 +650,7 @@ Do not present an original practice prompt or the 2024 *Davinder Singh* judgment
 
 # SOURCE LEDGER
 
-**Verification as of 2 October 2026 (India time).** ✅ denotes a retrieved official, local primary or clearly identified canonical statement; ⚠️ denotes the stated inference/example, not a measured fact. Legislative history and programme design are not representations of current statewide operation. The dated **28 September 2026 PIB PM-AJAY brief** supplies the sole current linkage; its numbers describe administrative outputs, not demonstrated justice outcomes. The NCSC website's **30 September 2026 last-updated timestamp** is not treated as a substantive policy announcement.
+**Verification as of 2 October 2026 (India time).** ✅ denotes a retrieved official, local primary or clearly identified canonical statement; ⚠️ denotes the stated inference/example, not a measured fact. Legislative history and programme design are not representations of current statewide operation. The dated **28 September 2026 PIB PM-AJAY brief** supplies the sole current linkage; its numbers describe administrative outputs, not demonstrated justice outcomes. The NCSC website's **30 September 2026 last-updated timestamp** is not treated as a substantive policy announcement. The two displayed commission PYQs are Polity-owned institutional cross-links; this topic claims no direct atrocity/welfare PYQ that the audited ledgers do not assign to it.
 
 | Source actually used | Relevant evidence and limits |
 |---|---|
