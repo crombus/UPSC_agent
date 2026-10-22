@@ -153,6 +153,8 @@ Gandhi therefore shifted the question from what concessions Indians should reque
 ---
 
 ## Lesson 2 - The Khilafat question: an international symbol becomes Indian politics
+<a id="2013-gs-i-q08-learning"></a>
+**2013 solved PYQ:** [Q8](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q08)
 
 Progress: 2/14 | Stage: Foundation | Subtopic: Origins, demands, leaders, trends and Ottoman chronology
 
@@ -1704,6 +1706,14 @@ Critics could reasonably argue that one locality should not cancel nationwide mo
 ---
 
 ## Lesson 14 - Withdrawal debate, achievements, limits and immediate legacy
+<a id="2013-gs-i-q04-learning"></a>
+### 2013 GS-I bridge — foreign-born allies across the national movement
+
+Keep the chronology explicit: **Charles Freer Andrews** and **William Pearson** advocated against
+indentured labour and publicised Indian grievances; **Samuel Stokes** supported khadi and
+Non-Cooperation and was imprisoned; **Mirabehn** joined Gandhian constructive work and civil
+disobedience later. They were not all participants in the 1920–22 movement. See the
+[2013 GS-I Q4 solved answer](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q04).
 
 Progress: 14/14 | Stage: Advanced | Subtopic: Competing interpretations and balanced verdict
 

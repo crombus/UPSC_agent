@@ -379,6 +379,13 @@ The Economic Survey 2025–26 reports **42.78 crore cards generated and 10.98 cr
 **Scoring guide (15):** precise separate pillar design 4; eligibility nuance 2; complementary patient pathway 3; at least three limits 4; qualified UHC judgment 2.
 
 ## Lesson 6 — Treat risk across the life course, not just at admission
+<a id="2013-gs-ii-q15-learning"></a>
+**2013 solved PYQ:** [Q15](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q15)
+> [!NOTE] Health Millennium Development Goals (MDGs 4, 5, 6)
+> - **MDG 4:** Reduce under-five child mortality rate by two-thirds (1990–2015).
+> - **MDG 5:** Improve maternal health (reduce Maternal Mortality Ratio by three-quarters; universal reproductive care).
+> - **MDG 6:** Combat HIV/AIDS, malaria, tuberculosis, and endemic communicable diseases.
+> - **India's Operational Vehicles:** National Rural Health Mission (NRHM, 2005), Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK), and RNTCP DOTS provided the core delivery architecture leading up to SDG 3.
 
 Progress: 6/9 | Stage: Core | Subtopic: Maternal, child, elderly, mental and communicable-disease pathways
 

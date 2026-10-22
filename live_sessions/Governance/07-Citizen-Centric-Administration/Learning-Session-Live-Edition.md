@@ -81,6 +81,8 @@ A **beneficiary** is usually identified in relation to a particular scheme or tr
 **Scoring guide (10):** exact three pillars 3; district example and dependencies 3; failure and correction mechanism 2; qualified outcome test 2.
 
 ## Lesson 2 — Design a promise the applicant can use
+<a id="2013-gs-ii-q16-learning"></a>
+**2013 solved PYQ:** [Q16](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q16)
 
 Progress: 2/8 | Stage: Foundation | Subtopic: Citizens' Charter, standard-setting and status
 

@@ -363,6 +363,8 @@ This lesson is where the **timing** of your answer comes from, and timing is wha
 **Bridge to Lesson 3:** Once the dispute is about authority rather than money, the next question is unavoidable: authority to do what, exercised by whom, under what rule? That is a constitutional question, and it has a precise shape which the famous slogan both expresses and conceals.
 
 ## Lesson 3 - "No taxation without representation": the argument inside the slogan
+<a id="2013-gs-i-q13-learning"></a>
+**2013 solved PYQ:** [Q13](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q13)
 
 Progress: 3/14 | Stage: Foundation | Subtopic: the constitutional claim; what representation meant and did not mean; consent to taxation; the sovereignty question; why a fiscal dispute became a dispute about authority
 
@@ -1673,6 +1675,8 @@ Two very different demands run through this lesson. One asks about **rights and 
 **Bridge to Lesson 11:** The ledger of change and continuity is now complete. The next lesson uses it to answer the question every serious examiner asks about this topic - not what happened, but how much it amounted to - by assembling the causes as an interacting system and weighing the consequences against the limits.
 
 ## Lesson 11 - Causes as a system, consequences and limits: how revolutionary was it?
+<a id="2013-gs-i-q13-assessment"></a>
+**2013 solved PYQ:** [Q13](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q13)
 
 Progress: 11/14 | Stage: Advanced | Subtopic: the six causes as interacting variables; the radical and conservative ledger; the examinable verdict line; why "political revolution, social continuity" needs a mechanism rather than a slogan
 

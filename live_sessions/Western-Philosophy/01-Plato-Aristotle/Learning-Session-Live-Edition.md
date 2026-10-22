@@ -6,9 +6,9 @@ This session follows one continuous philosophical problem: **how can reality be 
 
 | Lesson | Guiding problem | Main achievement |
 |---|---|---|
-| 1 | Why does stable knowledge seem to require more than changing particulars? | Plato's Forms, one-over-many, participation, imitation and recollection |
+| 1 | Why does stable knowledge seem to require more than changing particulars? | Plato's Forms, knowledge itself, essentialism, participation, imitation and recollection |
 | 2 | How does a mind move from appearance to knowledge? | Good, Sun, Divided Line, Cave, dialectic and return |
-| 3 | Can separate Forms explain their instances? | Participation dilemma, Third Man, causal impotence, later Plato and Aristotle's critique |
+| 3 | Can separate Forms explain their instances? | Participation dilemma, Third Man, Receptacle, causal limits, later Plato and Aristotle's critique |
 | 4 | What is a thing rather than merely a bundle of features? | Primary and secondary substance, accidents, essence and the *Categories*-*Metaphysics* tension |
 | 5 | How can one concrete thing be material and intelligible? | Hylomorphism, matter-relativity, prime matter and the empirical world |
 | 6 | What counts as a complete explanation of change? | Four causes, development, teleology and objections |
@@ -102,6 +102,34 @@ The solution creates a new burden: if Form and particular are separate, how does
 | Equality and relativity | Sensible equals fall short of perfect Equality, which supplies the standard | The move from an ideal standard to a separately existing entity is contestable |
 | Recollection | We recognise imperfect equals by a standard never perfectly sensed | Depends on claims about the soul and prenatal acquaintance |
 
+### Is knowledge itself one of the Forms?
+
+The question has two meanings. Keep the **object known** separate from the **act or power of knowing**:
+
+```text
+Form of Beauty / Equality / Justice  = an intelligible object
+Knowledge as a soul's rational grasp = a cognitive state or relation to an object
+Knowledge itself                     = possibly an intelligible universal in its own right
+```
+
+Plato's *Parmenides* considers whether there is a Form of Knowledge. If many acts or kinds of knowledge share one essence, a Platonist can argue that Knowledge itself is a Form, just as Beauty itself explains beautiful things. But this does **not** mean that each act of knowing is another separate Form. In the *Republic*, knowledge is also treated as a cognitive power distinguished by its objects: knowledge is directed toward what fully is, while opinion concerns what changes and can appear otherwise.
+
+The safe answer is therefore qualified: Plato's ontology can admit **Knowledge itself** as an intelligible essence, but knowing is also a relation or state of a knower directed toward Forms. Turning every cognitive act into a separate object risks an explanatory regress; treating the Form as wholly separate also makes its connection to human knowing difficult. The dialogues raise the issue rather than settling it with a simple yes or no.
+
+### Do Forms entail essentialism?
+
+Essentialism is the view that a kind has an **objective nature**—a “what-it-is”—that is not created merely by our words or conventions. Forms strongly support this kind of metaphysical essentialism: a triangle is understood through what makes it a triangle, and Justice itself supplies a standard by which particular laws or actions can be assessed.
+
+That does not establish a separate Form for every label we use. The *Parmenides* itself presses whether there are Forms for such things as hair or mud. So distinguish:
+
+| Claim | What the Forms support |
+|---|---|
+| Important kinds have objective, knowable natures | Strongly supported |
+| Standards such as Justice are only social conventions | Rejected by the Platonic motivation |
+| Every ordinary word names a separate Form with a rigid essence | Not established; the scope is contested |
+
+**Qualified verdict:** Plato entails a significant commitment to objective essences, but not automatically a timeless Form for every linguistic category. The separation and participation problems also leave open how a Form makes a particular an instance of its kind.
+
 ### Dialogue sensitivity
 
 - In the *Meno*, recollection is introduced through inquiry: how can one search for what one does not know?
@@ -140,6 +168,8 @@ The solution creates a new burden: if Form and particular are separate, how does
 
 ## UPSC use after understanding
 
+- **2013 Q2(a), 12½ marks:** distinguish Knowledge itself as a possible intelligible Form from knowledge as a cognitive power or relation; give reasons and qualify the textual answer.
+- **2015 Q4(a), 20 marks:** explain how Forms ground objective natures, then test the scope of the essentialist commitment and qualify it through the *Parmenides* and the participation problem.
 - **2021 Q1(a), 10 marks:** the red-chair prompt tests whether the candidate can apply participation without treating Forms as physical duplicates.
 - **2022 Q1(a), 10 marks:** connect epistemology and metaphysics through the claim that degrees or kinds of cognition correspond to kinds of object.
 - **2025 Q1(a), 10 marks:** timelessness and spacelessness follow from immutability and non-sensible existence; they also create the causal problem.
@@ -158,7 +188,9 @@ The solution creates a new burden: if Form and particular are separate, how does
 9. Forms secure objectivity at the price of a difficult relation to instances.
 10. Plato himself exposes major problems in the *Parmenides*.
 11. The Good, Demiurge and Forms have distinct roles and must not be collapsed.
-12. Aristotle preserves form but rejects its separation.
+12. Knowledge itself may be an intelligible Form; an act of knowing is a cognitive state or relation.
+13. Forms ground objective natures, but do not establish a separate Form for every ordinary label.
+14. Aristotle preserves form but rejects its separation.
 
 > **Mnemonic:** **Many change; the One explains.**
 
@@ -247,6 +279,22 @@ The eye can see and visible objects can be seen only through light supplied by t
 
 Plato says the Good is "beyond being" in dignity and power. This should not be converted into the simple claim that the Good is a personal creator. In the *Timaeus*, the Demiurge has the different role of ordering becoming by looking to paradigmatic Forms.
 
+### A true belief can guide you—but why is it knowledge?
+
+The *Republic* gives a strong contrast between knowledge and opinion, but Plato's *Meno* adds a useful step. A person with a **true belief** may guide someone correctly to a destination, just as a person who knows the route can. The true belief is valuable, yet it may wander or disappear; Plato compares unbound true beliefs to statues of Daedalus that can escape. When true belief is “tied down” by an **account of the reason why** (*aitias logismos*), it becomes knowledge in the dialogue's discussion.
+
+```text
+true belief
+    │ can guide correctly, but may be unstable
+    ↓ tied down by an explanatory account
+knowledge
+    │ stable grasp of why the belief is true
+    ↓
+the *Republic* connects knowledge to stable intelligible objects
+```
+
+Do not treat this as a contradiction or as one flat definition repeated in every dialogue. The *Meno* highlights explanation and stability; the *Republic* emphasises the distinction between cognitive states and their objects, mapping knowledge to Forms and opinion to the changing sensible order. The *Theaetetus* later shows that merely adding “an account” is not an effortless final definition of knowledge.
+
 ## The Divided Line
 
 | Rank | Cognitive state | Object | Method and defect |
@@ -324,6 +372,7 @@ Knowledge is a conversion toward increasingly intelligible reality under the Goo
 
 ## UPSC use after understanding
 
+- **2014 Q2(a), 20 marks:** distinguish *epistēmē* from *doxa*, connect each to its object and the divided ontology, and use the *Meno* to explain how true belief may become knowledge when tied by an explanatory account.
 - **2019 Q1(a), 10 marks:** explain what the Cave proves by linking shadows, ascent, Sun and return; do not narrate only the story.
 - **2022 Q1(a), 10 marks:** show that cognition and reality correspond across Sun-Line-Cave.
 - A concise approach is **condition of knowledge -> graded cognition -> conversion -> political return -> critical limit**.
@@ -342,6 +391,8 @@ Knowledge is a conversion toward increasingly intelligible reality under the Goo
 10. Socrates' fate is echoed in the hostility of the prisoners.
 11. The Good must not be casually equated with the *Timaeus*' Demiurge.
 12. The central vulnerability is the correlation between cognitive clarity and degree of being.
+13. In the *Meno*, true belief can guide action but becomes knowledge when tied by an explanatory account.
+14. The *Meno*'s account and the *Republic*'s object-faculty hierarchy are related but dialogue-specific.
 
 > **Mnemonic:** **Images - things - mathematics - Forms; turn, ascend, return.**
 
@@ -476,6 +527,20 @@ The regress depends on self-predication and non-identity. A Platonist can resist
 - These works broaden Plato's explanatory resources, but no uncontested final solution to participation emerges.
 - The Good of the *Republic* and the Demiurge of the *Timaeus* must not be treated as interchangeable names.
 
+### What does the Receptacle explain—and what does it leave open?
+
+The *Timaeus* adds a difficult **third kind**, the Receptacle (*chōra*), to the Forms and the things that come to be. Imagine a receiving field in which changing images of the Forms appear. It is described as a “nurse of becoming”: it helps explain **where** sensible becoming occurs and why the ordered cosmos is not simply identical with its eternal paradigms.
+
+| *Timaeus* principle | Explanatory work | Limit |
+|---|---|---|
+| Forms | Paradigms: what ordered things resemble | Do not themselves initiate physical change |
+| Demiurge | Orders becoming by looking to the paradigms | Is not the Receptacle or the Form of the Good |
+| Receptacle (*chōra*) | Receives appearances of the Forms; provides the “where” of becoming | Its own nature and its relation to particular changes remain obscure |
+
+This is a real supplement to the account, not a complete mechanism of material change. The Receptacle helps make sensible becoming and receptivity intelligible, but by itself it does not explain how a particular material object acquires one determinate character, how a specific change is produced, or how the Receptacle receives the images. Plato's cosmology adds an ordering intelligence, yet the details of the third kind remain notoriously difficult.
+
+Do not simply rename it **Aristotle's matter**. Aristotle's matter is a correlative potential principle within a sensible substance; change is analysed through matter, form and privation, with causes explaining its development. The Receptacle belongs to Plato's cosmological account of becoming. The comparison is useful, but the two theories are not identical.
+
 ## Example and limit
 
 **Example:** A blueprint can explain the organisation of a house as a model, while builders and materials explain its production. Plato's Form resembles the paradigm; Aristotle's complaint is that a paradigm alone does not build or internally constitute the house.
@@ -500,6 +565,7 @@ The regress depends on self-predication and non-identity. A Platonist can resist
 
 ## UPSC use after understanding
 
+- **2016 Q3(a), 20 marks:** assess what Forms explain about intelligible character, then use participation, the Receptacle and Demiurge to show both Plato's added resources and the limits of their account of material change and sensibility.
 - **2018 Q4(b), 15 marks:** test logical consistency of Idea-world relation, then present Aristotle's criticism and a reasoned verdict.
 - **2024 Q1(a), 10 marks:** the critique of separation prepares the contrast between transcendent and immanent form.
 - Do not write that Plato has "no causation." State precisely that separated Forms do not adequately explain motion, generation or internal organisation.
@@ -519,6 +585,8 @@ The regress depends on self-predication and non-identity. A Platonist can resist
 11. The Good and Demiurge are distinct.
 12. Aristotle's repair is to put form within the thing.
 13. Rejecting separation does not require rejecting intelligible structure.
+14. The Receptacle (*chōra*) receives becoming's images and supplies a difficult “where,” not a complete mechanism.
+15. It is not simply Aristotle's matter: their explanatory roles and broader systems differ.
 
 > **Mnemonic:** **Separate the Form, inherit the bridge problem.**
 
@@ -1868,24 +1936,34 @@ The conceptual sequence is complete. What follows applies it: first verified que
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-**Boundary:** The entries below give only verified wording, demand and a concise approach. They do not provide solved answers. Across 2018-2026 there is at least one primary Plato-Aristotle question-part in every year; **absence years: none**. Total: **14 question-parts**.
+**Boundary:** The entries below give only verified wording, demand and a concise approach. They do not provide solved answers. Across 2013-2026 there is at least one primary Plato-Aristotle question-part in every year; **absence years: none**. Total: **24 question-parts**.
 
-| Year and question | Marks | Verified wording | Directive and demand | Concise approach |
-|---|---:|---|---|---|
-| 2018 Q4(b) | 15 | Is the relation between the Idea and the World as discussed by Plato logically consistent? Discuss Aristotle's views regarding this and also give arguments in favour of your answer. | Discuss consistency, Aristotle and defended verdict | Define participation; test whole/part, regress and causation; state Aristotle's immanent alternative; defend a graded conclusion |
-| 2019 Q1(a) | 10 | What does Plato want to prove by his 'Allegory of Cave'? | Explain philosophical purpose | Map stages to cognition and reality; include painful conversion, Good and philosopher's return |
-| 2019 Q2(b) | 15 | What are the reasons for developmental changes in substance according to Aristotle? Discuss. | Explain causes of development | Integrate matter/form/privation, four causes and potentiality-actuality in one natural example |
-| 2020 Q1(a) | 10 | How does Aristotle argue for the priority of Form over Matter and Actuality over Potentiality? Critically discuss. | Reconstruct two priority arguments and assess | Distinguish definitional, explanatory and teleological priority; preserve matter's necessity; raise essentialist objection |
-| 2021 Q1(a) | 10 | "There is a red chair." How would Plato explain this statement with the use of his theory of forms? Examine. | Apply and examine | Explain particular, Chairness and Redness, multiple participation, knowledge/opinion and participation difficulty |
-| 2021 Q1(b) | 10 | "Potentiality is indefinable" according to Aristotle. Explain the relationship between potentiality and actuality with reference to the above philosophical position by taking the example of a "wooden table". | Explain through example | Move wood-capacity -> making -> table; show definitional priority of actuality and grounded capacity |
-| 2022 Q1(a) | 10 | How does Plato use the theory of forms to establish the relation between epistemology and metaphysics? Discuss. | Connect two domains | Use object-faculty relation and Sun-Line-Cave; show stable Forms as objects of knowledge; assess correlation |
-| 2022 Q2(b) | 15 | Is Aristotle's view of nature of identity in consonance with his metaphysical view of causes as processes? Discuss giving suitable examples. | Test consonance with examples | Distinguish accidental/substantial change; form grounds identity; efficient and final causes explain process; qualify teleology |
-| 2023 Q2(b) | 15 | Present an exposition of Aristotle's distinction between actuality and potentiality. Does it provide a solution to the problem of being and becoming as presented in ancient Greek philosophy? Discuss with suitable examples. | Expose, test and illustrate | Define terms; reconstruct Parmenides/Heraclitus problem; use qualified non-being; assess grounded capacities |
-| 2024 Q1(a) | 10 | Differentiate between Plato's and Aristotle's conceptions of form. | Differentiate | Compare status, location, relation, causation, knowledge and individual reality; avoid slogan-only contrast |
-| 2025 Q1(a) | 10 | "Ideas are timeless and spaceless." Elucidate this statement with reference to Plato. | Elucidate implications | Link non-sensible identity to knowledge and universality; clarify non-physical separateness; note causal cost |
-| 2025 Q1(b) | 10 | "In the empirical world, everything is a compound of Matter and Form." Evaluate this statement with reference to Aristotle. | Evaluate scope | Explain hylomorphism; privilege natural substances; qualify accidents, abstractions, prime matter and Unmoved Mover |
-| 2026 Q1(d) | 10 | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. | Compare shared activity and category difference | Aristotle: actuality/first actuality; Leibniz: simple substance; compare body, soul, unity and intrinsic action |
-| 2026 Q2(a) | 20 | What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle's account of the essence of the world, where he rejects the views of both the Atomists and Plato. | Define problem, compare rejections, present positive account | Being qua being -> focal substance; Atomists lack form/finality; Plato separates form; hylomorphism, causes and potency-act as middle path |
+| Year and question | Marks | Verified wording | Directive and demand | Lesson(s) | Concise approach |
+|---|---:|---|---|---:|---|
+| [2013 Q1(d)](../../../solved_pyqs/papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1d) | 10 | Discuss how by refuting the different concepts of substances Aristotle establishes his own theory of substance. | Discuss Aristotle's positive account through criticism of alternatives | 4 | Distinguish matter, universal and substratum proposals; explain why form/essence and the concrete substance supply the stronger account |
+| [2013 Q2(a)](../../../solved_pyqs/papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q2a) | 12½ | Explain Plato’s ontological theory of Forms. Is ‘knowledge’ one of the Forms ? Give reasons. | Explain ontology and assess whether knowledge itself is a Form | 1 | Explain Forms and participation; distinguish a possible Form of Knowledge from actual knowing as a cognitive state or relation; qualify the answer through the *Parmenides* |
+| [2014 Q2(a)](../../../solved_pyqs/papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q2a) | 20 | Distinguish between knowledge and belief according to Plato. How is it based on his metaphysics ? Explain. | Distinguish cognitive states and ground them metaphysically | 2 | Contrast stable knowledge and fallible opinion; map objects to Forms and sensibles; include the *Meno*’s true belief tied by an explanatory account |
+| [2014 Q4(c)](../../../solved_pyqs/papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q4c) | 15 | Explain the significance of Aristotle’s doctrine of form and matter in his theory of causation. | Explain how hylomorphism informs causal explanation | 6 | Show matter as capacity, form as essence/organisation, and connect both to efficient and final causes in a concrete change |
+| [2015 Q1(a)](../../../solved_pyqs/papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1a) | 10 | Aristotle’s distinction between ‘actually’ and ‘potentiality’. | Explain the distinction and relation | 7 | Define grounded capacity and realised being-at-work; use a developmental example and show why actuality makes potentiality intelligible |
+| [2015 Q4(a)](../../../solved_pyqs/papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q4a) | 20 | Explain Plato’s theory of forms. Does it entail a kind of essentialism ? Discuss. | Reconstruct the theory and assess its essentialist commitment | 1 | Explain objective natures and standards; distinguish core Forms from every ordinary label; qualify with the *Parmenides* and separation problem |
+| [2016 Q2(a)](../../../solved_pyqs/papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q2a) | 20 | Does Aristotle treat matter as a “Substance”? Give reasons for your answer. | Assess matter’s status across Aristotle’s accounts | 4, 5 | Contrast the *Categories* and *Metaphysics*; distinguish individual compound, matter as substratum/potentiality, and form as explanatory substance |
+| [2016 Q3(a)](../../../solved_pyqs/papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q3a) | 20 | Does Plato’s ‘Theory of Form’ explain the ‘change’ and ‘sensibility’ of matter? Give reasons for your answer. | Evaluate the explanatory reach of Forms | 3 | Explain participation and qualitative character; add the Receptacle and Demiurge; distinguish formal intelligibility from a complete mechanism of material change |
+| [2017 Q1(d)](../../../solved_pyqs/papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1d) | 10 | In what sense can ideas be both immanent and transcendent? Discuss in this context Plato’s theory of universals and particulars. | Clarify the contrast and relate it to universals and particulars | 9 | Explain Plato’s separate universals and Aristotle’s immanent form; specify the sense of each term rather than calling a single Form literally both |
+| [2017 Q2(c)](../../../solved_pyqs/papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q2c) | 15 | Explain Aristotle’s theory of form and matter. How does it help him resolve the problem of change and permanence? | Explain hylomorphism and test its solution to change | 5, 7 | Use matter, form and privation; trace potentiality into actuality; show what persists and what changes |
+| 2018 Q4(b) | 15 | Is the relation between the Idea and the World as discussed by Plato logically consistent? Discuss Aristotle's views regarding this and also give arguments in favour of your answer. | Discuss consistency, Aristotle and defended verdict | 3, 9 | Define participation; test whole/part, regress and causation; state Aristotle's immanent alternative; defend a graded conclusion |
+| 2019 Q1(a) | 10 | What does Plato want to prove by his 'Allegory of Cave'? | Explain philosophical purpose | 2 | Map stages to cognition and reality; include painful conversion, Good and philosopher's return |
+| 2019 Q2(b) | 15 | What are the reasons for developmental changes in substance according to Aristotle? Discuss. | Explain causes of development | 6, 7 | Integrate matter/form/privation, four causes and potentiality-actuality in one natural example |
+| 2020 Q1(a) | 10 | How does Aristotle argue for the priority of Form over Matter and Actuality over Potentiality? Critically discuss. | Reconstruct two priority arguments and assess | 5, 7 | Distinguish definitional, explanatory and teleological priority; preserve matter's necessity; raise essentialist objection |
+| 2021 Q1(a) | 10 | "There is a red chair." How would Plato explain this statement with the use of his theory of forms? Examine. | Apply and examine | 1 | Explain particular, Chairness and Redness, multiple participation, knowledge/opinion and participation difficulty |
+| 2021 Q1(b) | 10 | "Potentiality is indefinable" according to Aristotle. Explain the relationship between potentiality and actuality with reference to the above philosophical position by taking the example of a "wooden table". | Explain through example | 7 | Move wood-capacity -> making -> table; show definitional priority of actuality and grounded capacity |
+| 2022 Q1(a) | 10 | How does Plato use the theory of forms to establish the relation between epistemology and metaphysics? Discuss. | Connect two domains | 1, 2 | Use object-faculty relation and Sun-Line-Cave; show stable Forms as objects of knowledge; assess correlation |
+| 2022 Q2(b) | 15 | Is Aristotle's view of nature of identity in consonance with his metaphysical view of causes as processes? Discuss giving suitable examples. | Test consonance with examples | 6 | Distinguish accidental/substantial change; form grounds identity; efficient and final causes explain process; qualify teleology |
+| 2023 Q2(b) | 15 | Present an exposition of Aristotle's distinction between actuality and potentiality. Does it provide a solution to the problem of being and becoming as presented in ancient Greek philosophy? Discuss with suitable examples. | Expose, test and illustrate | 7 | Define terms; reconstruct Parmenides/Heraclitus problem; use qualified non-being; assess grounded capacities |
+| 2024 Q1(a) | 10 | Differentiate between Plato's and Aristotle's conceptions of form. | Differentiate | 1, 9 | Compare status, location, relation, causation, knowledge and individual reality; avoid slogan-only contrast |
+| 2025 Q1(a) | 10 | "Ideas are timeless and spaceless." Elucidate this statement with reference to Plato. | Elucidate implications | 1 | Link non-sensible identity to knowledge and universality; clarify non-physical separateness; note causal cost |
+| 2025 Q1(b) | 10 | "In the empirical world, everything is a compound of Matter and Form." Evaluate this statement with reference to Aristotle. | Evaluate scope | 5 | Explain hylomorphism; privilege natural substances; qualify accidents, abstractions, prime matter and Unmoved Mover |
+| 2026 Q1(d) | 10 | Compare and contrast the notion of entelechy as presented in Aristotle's and Leibniz's philosophy. | Compare shared activity and category difference | 7 | Aristotle: actuality/first actuality; Leibniz: simple substance; compare body, soul, unity and intrinsic action |
+| 2026 Q2(a) | 20 | What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle's account of the essence of the world, where he rejects the views of both the Atomists and Plato. | Define problem, compare rejections, present positive account | 8 | Being qua being -> focal substance; Atomists lack form/finality; Plato separates form; hylomorphism, causes and potency-act as middle path |
 
 ---
 
@@ -2307,8 +2385,11 @@ moves as final object of desire
 - **Problem:** Flux and relativity appear unable to sustain knowledge.
 - **Forms:** eternal, immutable, non-spatial, intelligible and self-identical.
 - **One-over-many:** many F particulars point toward one common F.
+- **Knowledge itself:** may be treated as an intelligible Form; actual knowing is a cognitive state or relation directed toward Forms.
+- **Essentialism:** Forms ground objective natures and standards, without proving a Form for every ordinary label.
 - **Participation/imitation:** dependence or copy relation; essential but under-explained.
 - **Recollection:** imperfect sensibles awaken knowledge of standards such as Equality.
+- ***Meno*:** true belief can guide action; tied by an explanatory account, it becomes knowledge.
 - ***Meno*/*Phaedo*:** inquiry, recollection, equality and soul.
 - ***Republic* V-VII:** knowledge/opinion, Good, Sun, Line, Cave, dialectic and return.
 - **Sun:** Good gives being and knowability as sun gives growth and visibility.
@@ -2317,7 +2398,7 @@ moves as final object of desire
 - ***Parmenides*:** whole/part participation dilemma and Third Man.
 - **Third Man premises:** one-over-many + self-predication + non-identity.
 - ***Sophist*:** being/non-being and communion among kinds refine a static picture.
-- ***Timaeus*:** Forms as paradigms, Demiurge as orderer, Receptacle as field of becoming.
+- ***Timaeus*:** Forms as paradigms, Demiurge as orderer, Receptacle (*chōra*) as the difficult “where” of becoming—not simply Aristotle's matter.
 - **Guardrail:** Good and Demiurge are not simply identical.
 - **Strength:** objective universality and normativity.
 - **Weakness:** explanatory bridge from separate Form to changing instance.
@@ -2388,13 +2469,17 @@ moves as final object of desire
 |---|---:|---|
 | Dialogue-sensitive Plato | 1-3, 10 | Dialogue tables, later-Plato discussion and synthesis |
 | Forms and one-over-many | 1 | Doctrine and full argument |
+| Knowledge itself versus knowing | 1 | Possible Form of Knowledge distinguished from the knower's cognitive state/relation; 2013 Q2(a) route |
+| Forms and qualified essentialism | 1 | Objective natures, scope limits and 2015 Q4(a) route |
 | Participation and imitation | 1, 3 | Terms, example, dilemma and criticism |
 | Recollection | 1 | *Meno*/*Phaedo* motivations and limits |
+| Knowledge and belief; true belief tied by an account | 2 | *Meno* and *Republic* kept distinct; 2014 Q2(a) route |
 | Good, Sun, Line and Cave | 2 | Unified argument, stages and assumptions |
 | Philosopher's return | 2 | Political obligation and Socratic danger |
 | *Parmenides* and Third Man | 3 | Premise-by-premise regress |
 | Causal impotence | 3, 9 | Aristotle's criticism and reciprocal reply |
-| Later Plato | 3 | *Sophist* and *Timaeus* qualifications |
+| Later Plato | 3 | *Sophist* and *Timaeus* qualifications; Receptacle's role and limits |
+| Receptacle versus Aristotelian matter | 3, 5 | Cosmological “where” of becoming contrasted with matter as a correlative potential principle |
 | Primary/secondary substance | 4 | *Categories* account |
 | Substance and accident | 4 | Predication and identity |
 | *Categories*-*Metaphysics* tension | 4 | Four readings, VII.3, VII.13 and VII.17 |
@@ -2413,7 +2498,7 @@ moves as final object of desire
 | 2026 Q2(a) route | 8 and PYQ index | One problem, two failures, positive account |
 | Transcendence versus immanence | 9 | Complete multi-axis comparison |
 | Genuine synthesis | 10 | Preservation, transformation and graded verdict |
-| Verified PYQs through 2026 | Final index | 14 links; no absence years |
+| Verified PYQs through 2026 | Final index | 24 question-parts from 2013–2026; every year mapped to its teaching lesson; no absence years |
 | Local conceptual/applied/remedial practice | 1-10 | 21 rotating MCQs with four-option explanations |
 | Original Mains models | 2, 4, 6, 8 and final section | Original only; 10/15/20-mark forms |
 | Cumulative practice and remediation | Final sections | 11 cumulative and 4 remedial MCQs |
@@ -2424,14 +2509,14 @@ moves as final object of desire
 
 ## Primary texts and standard locations
 
-- Plato, *Meno* 80d-86c: inquiry and recollection.
+- Plato, *Meno* 80d-86c: inquiry and recollection; 97a-98a: true belief tied by an account.
 - Plato, *Phaedo* 72e-77a and 100c-d: recollection, Equality and participation-style explanation.
 - Plato, *Republic* V 476e-480a: knowledge and opinion.
 - Plato, *Republic* VI 507a-511e: Sun and Divided Line.
 - Plato, *Republic* VII 514a-521b: Cave, conversion and return.
-- Plato, *Parmenides* 130a-133a: participation difficulties and regress.
+- Plato, *Parmenides* 130a-134e: participation difficulties, regress and knowledge of Forms.
 - Plato, *Sophist*: being, non-being and communion of kinds.
-- Plato, *Timaeus*: paradigmatic Forms, Demiurge and Receptacle.
+- Plato, *Timaeus* 48e-53c: the third kind/Receptacle and becoming.
 - Aristotle, *Categories* 1-5: predication and primary/secondary substance.
 - Aristotle, *Physics* I-III: form, matter, privation, nature, causes and motion.
 - Aristotle, *Metaphysics* I.6 and I.9: Plato and criticism of Forms.
@@ -2445,6 +2530,7 @@ moves as final object of desire
 ## Local study sources consulted
 
 - `upsc-ai-kit\knowledge\Philosophy\paper-1\western\Plato-Aristotle.md`
+- Verified question wording, marks and paper anchors for 2013–2026: `solved_pyqs\topics\philosophy-paper-i\plato-aristotle.md`; historical answer ledgers for 2013–2017: `solved_pyqs\papers\2013\philosophy-paper-1.md` through `solved_pyqs\papers\2017\philosophy-paper-1.md`
 - `upsc-ai-kit\knowledge\Philosophy\_learning-sessions\01_Plato-Aristotle-Complete-Learning-Session.md`
 - Earlier complete and expanded Plato-Aristotle learning-session materials in the local knowledge tree.
 - The earlier Plato-Aristotle practice collection, used only to verify concept coverage and question history.
@@ -2459,8 +2545,8 @@ moves as final object of desire
 
 ## Verification boundary
 
-- PYQ wording and marks come from the local verified Western Philosophy ledgers through 2026.
-- There are 14 primary Plato-Aristotle question-parts from 2018-2026.
+- PYQ wording, marks and stable paper anchors come from the verified local Plato-Aristotle topic catalogue and linked paper ledgers through 2026.
+- There are 24 primary Plato-Aristotle question-parts from 2013-2026.
 - Every year in that interval contains at least one such part; absence years are therefore none.
 - PYQ entries stop at demand and concise approach.
 - Interpretive disputes are marked as disputes rather than presented as settled textual fact.
@@ -2475,5 +2561,5 @@ moves as final object of desire
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule; its content was not cited or read |
 | Advanced dossier | checked | Advanced enrichment from `upsc-ai-kit\knowledge\Philosophy\_advanced\Western-Philosophy-Dossier.md` |
 | OCR books | not relevant | No OCR-scanned book with exact page citations was used; doctrine rests on primary texts and standard secondary histories (Stace, Copleston) cited by discussion in the primary-texts list, not by OCR page extracts |
-| PYQs through 2026 | checked | Verified local ledgers `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2018-2025.md` and `upsc-ai-kit\knowledge\Philosophy\paper-1\_PYQ-Western-Philosophy-2026.md`; wording and marks transcribed from these audited ledgers rather than re-read from the original papers |
+| PYQs through 2026 | checked | Verified topic catalogue `solved_pyqs\topics\philosophy-paper-i\plato-aristotle.md` and linked annual paper ledgers for 2013–2026; cross-checked against the canonical routing ledger and Western Philosophy PYQ ledgers for 2018–2026 |
 | Official live sources | not relevant | Timeless ancient doctrine; no current-affairs or live-source claim is used |

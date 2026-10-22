@@ -222,6 +222,16 @@ onshore or offshore alike:
 > refining, quote reserve figures, or assert a specific import-dependence ratio from memory. The
 > structural argument above requires no numbers.
 
+<a id="2013-gs-i-q25-shale-hydrocarbons"></a>
+### 14.5 Shale hydrocarbons: resource is not reserve
+
+India's Cambay, Krishna-Godavari, Cauvery, Damodar, Assam-Arakan and other sedimentary basins have
+prospective shale formations; a technically recoverable resource estimate is not a proven,
+commercial reserve or a production forecast. Shale development generally requires horizontal
+drilling and hydraulic fracturing. Geological uncertainty, well and wastewater management, water
+competition, land access, methane leakage, specialised equipment, infrastructure and commercial
+costs constrain recovery. For the historical resource assessment, see the [U.S. EIA 2013 report](https://www.eia.gov/analysis/studies/worldshalegas/archive/2013/pdf/fullreport_2013.pdf). Licensing-policy claims should be included only when directly relevant and verified. See the [2013 GS-I Q25 solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q25).
+
 ## 15. Answer architecture (10/15/20-mark support)
 
 ### 15.1 Directive decoding

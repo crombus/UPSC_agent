@@ -2059,6 +2059,8 @@ Why is overseas trade insufficient as a single cause of state formation?
 - **D — Incorrect:** Ports and political forms developed unevenly rather than following one universal sequence.
 
 ## Lesson 17 - Art, Literature And The Historical Significance Of The Sangam World
+<a id="2013-gs-i-q01-learning"></a>
+**2013 solved PYQ:** [Q1](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q01)
 
 Progress: 17/18 | Stage: Advanced | Subtopic: Art, Literature And The Historical Significance Of The Sangam World
 

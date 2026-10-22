@@ -105,6 +105,14 @@ determine what a policy actually becomes in practice.
   examination into a covered examination: the principal Act's authority-based coverage question
   remains separate from the amended enforcement machinery.
 
+### PURA and Rural Growth Clusters
+- ✅ **Providing Urban Amenities in Rural Areas (PURA):** Conceptualised by Dr. A.P.J. Abdul Kalam, PURA sought to contain distress rural-to-urban migration by developing economically self-reliant rural growth clusters through four integrated connectivities:
+  1. **Physical connectivity:** All-weather roads, reliable power, safe water supply, and public transport linking village clusters to nearby market towns.
+  2. **Electronic connectivity:** Telecommunications and broadband infrastructure supporting village digital governance and access to information.
+  3. **Knowledge connectivity:** Vocational training institutes, schools, and agricultural extension services building local human capabilities.
+  4. **Economic connectivity:** The cumulative outcome of the first three connectivities, establishing rural enterprises, micro-industries, and supply-chain linkages.
+- ✅ **Restructured PURA to SPMRM (Rurban Mission):** The Ministry of Rural Development piloted a restructured PURA model using Public-Private Partnerships (PPPs) for infrastructure and municipal services, which subsequently evolved into the **Shyama Prasad Mukherjee Rurban Mission (SPMRM)** to develop cluster-based rural growth centres while preserving rural community identity.
+
 ## 5. Indian applications and examples
 
 - ✅ 2024 GS-II PYQ (Q17) on public healthcare: the Indian state's role in containing

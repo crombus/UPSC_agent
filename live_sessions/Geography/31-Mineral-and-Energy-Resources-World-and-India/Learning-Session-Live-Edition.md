@@ -656,7 +656,20 @@ India’s long coastline, west-facing import routes, refining hubs and pipelines
 
 ---
 
+<a id="2013-gs-i-q25-shale-hydrocarbons"></a>
+### 2013 PYQ bridge — shale hydrocarbons: resource versus reserve
+
+Treat shale estimates as prospective resources, not proven commercial reserves or production
+forecasts. India's prospective basins include Cambay, Krishna-Godavari, Cauvery, Damodar and
+Assam-Arakan. Horizontal drilling and hydraulic fracturing face geological, water, land, well
+integrity, methane, wastewater, infrastructure and cost constraints. The [U.S. EIA 2013 resource
+assessment](https://www.eia.gov/analysis/studies/worldshalegas/archive/2013/pdf/fullreport_2013.pdf)
+supports the resource-estimate context. Licensing-policy claims should be included only when
+directly relevant and verified. See the [2013 GS-I Q25 solved answer](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q25).
+
 ## Lesson 8 — Uranium, thorium, hydropower and strategic siting
+<a id="2013-gs-i-q24-learning"></a>
+**2013 solved PYQ:** [Q24](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q24)
 
 Progress: 8 / 15 | Stage: Core Energy | Skill: resource-versus-facility distinction
 

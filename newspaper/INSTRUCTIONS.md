@@ -3,16 +3,25 @@
 ## Purpose and scope
 
 Turn a user-supplied newspaper edition into a source-aware, UPSC-oriented learning session and
-later-recall notes. Keep the source PDF unchanged. Save newspaper-specific instructions and
-edition analyses only inside this `newspaper/` folder unless the user explicitly expands scope.
-Do not edit canonical knowledge owners, live sessions, trackers, indexes, or other repository
-files during a newspaper analysis.
+later-recall notes. Review the complete supplied newspaper every time: inspect all pages and
+sections, not only the mandatory section. Keep the source PDF unchanged. Save newspaper-specific
+instructions and edition analyses only inside this `newspaper/` folder unless the user explicitly
+expands scope. Do not edit canonical knowledge owners, live sessions, trackers, indexes, or other
+repository files during a newspaper analysis.
 
 ## Mandatory coverage by section
 
 - Build a dated coverage inventory from the edition's **section labels and article headings** before
-  teaching. Do not use fixed printed page numbers as the coverage rule; pages and supplements can
+  teaching. Inspect the complete edition and inventory all sections and their article/item
+  headings. Do not use fixed printed page numbers as the coverage rule; pages and supplements can
   move between editions. Record printed page labels (including Roman numerals) for citations.
+- Always include full coverage of the edition's user-defined mandatory section(s) in the saved
+  learning session, regardless of day or layout. The mandatory-section set is determined by the
+  applicable weekday/Saturday/Sunday/special-edition rule below and any later user instruction.
+- Review all non-mandatory newspaper sections too. Include their UPSC-relevant items in the saved
+  session; other items may be omitted after review if they are not substantively useful for UPSC.
+  Record material exclusions briefly so the complete-paper review is auditable. Do not mistake
+  “mandatory section” for “only section to inspect.”
 - For standard weekday editions, cover **every editorial/opinion article and every article or
   substantive item in Text & Context**. This includes explainers, data points, News in Numbers
   entries, and companion features. Give short items concise, separate treatment rather than silently
@@ -39,6 +48,11 @@ files during a newspaper analysis.
 - For Saturday/Sunday or another special format, do not assume weekday page order, section names,
   supplement placement, or article mix. Record the observed layout for that edition and update
   this workflow's format notes when the user supplies or confirms the special-day requirements.
+- For Saturday editions, the **Editorial section is the only mandatory newspaper section**
+  unless the user specifies additional sections. Cover every article and substantive item under
+  that section label. This does not limit the review to page 10 or to the Editorial section:
+  inspect the entire Saturday paper and include other UPSC-relevant items, recording material
+  exclusions. The separate same-date InsightIAS source-stream requirement remains in force.
 
 ### Verified weekday reference layout: 19 October 2026
 
@@ -53,6 +67,15 @@ promises five daily MCQs but its question payload is dynamically embedded and wa
 the readable article text; record that limitation rather than inventing or claiming to solve them.
 Do not assume a standalone Daily Current Affairs Prelims quiz exists for every date; check the
 date archive and distinguish it from QUED.
+
+### User-confirmed Saturday reference layout: 10 October 2026
+
+The supplied file `THE HINDU HD Delhi Editable Full Edition 10~10~2026.pdf` is a Saturday edition.
+Its mandatory newspaper section is **Editorial**, located on printed p. 10. For this edition,
+inventory and cover every article/item in the Editorial section. This page number is an observed
+location for this specific paper, not a permanent Saturday page rule. Other newspaper sections
+are not mandatory by default and may be curated for UPSC relevance. Continue to check the
+separate same-date InsightIAS source stream as specified above.
 
 ## Source and extraction
 

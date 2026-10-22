@@ -54,6 +54,8 @@ CA found: Foreign Contribution (Regulation) Amendment Bill, 2026 — introduced 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Lesson 1
+<a id="2013-gs-ii-q10-learning"></a>
+**2013 solved PYQ:** [Q10](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q10)
 
 Progress: 1/14 | Stage: Foundation | Subtopic: What a pressure group is — and is not
 

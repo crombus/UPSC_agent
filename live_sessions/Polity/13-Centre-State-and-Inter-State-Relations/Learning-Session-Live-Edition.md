@@ -1764,6 +1764,8 @@ GST is India’s strongest experiment in negotiated tax sovereignty, but not a c
 ---
 
 ## Lesson 13 — Inter-State River-Water Disputes
+<a id="2013-gs-ii-q06-learning"></a>
+**2013 solved PYQ:** [Q6](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q06)
 
 Progress: 13 / 16 | Stage: Core | Subtopic: Adjudication, implementation and negotiated basin governance
 

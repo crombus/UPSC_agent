@@ -103,6 +103,8 @@ The analytical unit is therefore **proximity plus interdependence**. A neighbour
 **Misconception to avoid:** Treating all neighbours as one geopolitical bloc with identical interests.
 
 ## Lesson 2 - Neighbourhood First and the Gujral Doctrine
+<a id="2013-gs-ii-q24-learning"></a>
+**2013 solved PYQ:** [Q24](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q24)
 
 Progress: 2 / 25 | Stage: Foundation | Subtopic: priority, non-reciprocity, sovereignty, non-interference and peaceful bilateralism
 
@@ -595,6 +597,12 @@ India must understand domestic trends because they affect security and agreement
 **Misconception to avoid:** Assuming people-to-people ties eliminate the need for official bargaining or security safeguards.
 
 ## Lesson 9 - Bangladesh: connectivity, commerce, rivers and political sensitivity
+<a id="2013-gs-ii-q21-learning"></a>
+**2013 solved PYQ:** [Q21](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q21)
+> [!NOTE] Bangladesh: The Shahbag Movement and Ideological Divide (2013)
+> - **Trigger:** February 2013 mass protests at Shahbag Square in Dhaka demanding capital punishment for 1971 war criminals convicted by the International Crimes Tribunal (ICT).
+> - **Societal Divide:** Exposed the deep fault line between secular Bengali nationalism (Awami League) and Islamist-conservative forces (Jamaat-e-Islami / BNP).
+> - **Significance for India:** Crucial for maintaining security along India's eastern border and transit connectivity to the North-East, while requiring diplomatic balance to avoid appearing interventionist in domestic politics.
 
 Progress: 9 / 25 | Stage: Core | Subtopic: a dense multidimensional relationship and the Northeast gateway
 
@@ -795,6 +803,8 @@ India's support can absorb asymmetry without demanding equal short-run returns, 
 **Misconception to avoid:** Treating Bhutan's closeness to India as absence of independent preferences or diversification goals.
 
 ## Lesson 12 - Sri Lanka: first response, recovery and maritime sensitivity
+<a id="2013-gs-ii-q23-learning"></a>
+**2013 solved PYQ:** [Q23](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q23)
 
 Progress: 12 / 25 | Stage: Core | Subtopic: 2022 crisis support, development, political history, Tamil concerns and partner agency
 
@@ -875,6 +885,8 @@ India should combine emergency responsiveness with transparent projects, livelih
 **Misconception to avoid:** Presenting India's aid as either irrelevant charity or a guarantee of Sri Lankan alignment.
 
 ## Lesson 13 - Maldives: proximity, first response and political cycles
+<a id="2013-gs-ii-q22-learning"></a>
+**2013 solved PYQ:** [Q22](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q22)
 
 Progress: 13 / 25 | Stage: Core | Subtopic: island geography, maritime security, development, crises and sovereign choice
 
@@ -1083,6 +1095,8 @@ The objective is neither episodic dialogue detached from security nor unlimited 
 **Misconception to avoid:** Calling every technical channel appeasement or describing abeyance as legal termination.
 
 ## Lesson 16 - Afghanistan: near-neighbour engagement without overclaiming recognition
+<a id="2013-gs-ii-q18-learning"></a>
+**2013 solved PYQ:** [Q18](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q18)
 
 Progress: 16 / 25 | Stage: Core | Subtopic: security, humanitarian assistance, development legacy, access and diplomatic status
 

@@ -109,6 +109,13 @@ state's role in containing marketisation and expanding grassroots reach.
   system. Do not confuse these estimates with the National Health Authority, which
   implements PM-JAY.
 
+### Millennium Development Goals (MDGs 4, 5, 6) and India's Health Transition
+- ✅ **Health MDGs (2000–2015):** The United Nations Millennium Declaration established three specific health goals:
+  - **MDG 4:** Reduce under-five child mortality rate by two-thirds between 1990 and 2015.
+  - **MDG 5:** Improve maternal health (reduce Maternal Mortality Ratio by three-quarters; universal access to reproductive care).
+  - **MDG 6:** Combat HIV/AIDS, malaria, tuberculosis, and other major communicable diseases.
+- ✅ **India's Performance & Transition to SDGs:** Key programme drivers included the National Rural Health Mission (NRHM, 2005), Janani Suraksha Yojana (JSY), Janani Shishu Suraksha Karyakram (JSSK), Revised National TB Control Programme (RNTCP-DOTS), and National AIDS Control Programme (NACP). India achieved major reductions in infant mortality, under-5 mortality, and maternal mortality, eliminated wild polio (2014), and transitioned to **SDG 3 (Good Health and Well-being)** by 2015.
+
 ## 5. Indian applications and examples
 
 - ✅ **2024 GS-II PYQ Q17 (15 marks, 250 words):** "In a crucial domain like the

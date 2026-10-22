@@ -98,6 +98,16 @@ without all three, entitlement does not translate into capability.
 - ⚠️ **ASER (Annual Status of Education Report):** Non-government survey assessing
   learning outcomes (reading, arithmetic) in rural India; documents FLN gaps.
 
+<a id="2013-gs-i-q08-learning"></a>
+### Azad's post-independence education and cultural institutions
+
+As India's first Education Minister, Maulana Abul Kalam Azad promoted universal primary
+education, adult literacy, scientific and technical learning, and cultural autonomy. His
+ministerial tenure saw important national institutions established, including UGC, IIT
+Kharagpur and the national academies for literature, music and dance, and visual arts; describe
+this as institution-building during his tenure rather than attributing each institution's
+creation to him alone. See the [2013 GS-I Q8 solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q08).
+
 ## 5. Indian applications and examples
 
 - ✅ **2024 GS-II Q11 (15 marks):** asks the aims and objects of the Public

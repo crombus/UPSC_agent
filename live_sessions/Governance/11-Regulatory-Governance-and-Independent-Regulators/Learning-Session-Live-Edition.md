@@ -19,6 +19,8 @@ Why give technical decisions to an arm's-length body, and who corrects it if it 
 **Route:** Need → legal chain → failure mechanisms → competition case → tribunal check → financial reform → transferable answer method → advanced design stress tests. In each lesson read the visual before the explanation, attempt its original concept question, then compare the model. PYQ links remain unsolved. The consolidated register notes come after all teaching and practice.
 
 ## Lesson 1 — Why not simply let the ministry regulate?
+<a id="2013-gs-ii-q08-learning"></a>
+**2013 solved PYQ:** [Q8](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q08)
 
 Progress: 1/9 | Stage: Foundation | Subtopic: Statutory authority and the autonomy-accountability-expertise trilemma
 

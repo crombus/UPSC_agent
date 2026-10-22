@@ -2,7 +2,7 @@
 
 > **Syllabus (verbatim):** Plato and Aristotle : Ideas; Substance; Form and Matter; Causation; Actuality and Potentiality.
 > **Evidence key:** ✅ canonical doctrine · ⚠️ analytical synthesis (mine, for exam use) · ❓ contested/uncertain
-> **Placement:** The opening item of Western Philosophy, with 12 primary-owned parts and at least one in every paper from 2018 through 2025. Plato supplies the metaphysical *problem* (the reality of universals, the relation of knowledge to being); Aristotle supplies the rival *solution* (immanent form, hylomorphism, teleological causation, potentiality-actuality). The examiner's favourite pivot is the **contrast** between their conceptions of Form.
+> **Placement:** The opening item of Western Philosophy, with 24 primary-owned question-parts across the 2013–2026 corpus, represented in all 14 paper years. Plato supplies the metaphysical *problem* (the reality of universals, the relation of knowledge to being); Aristotle supplies the rival *solution* (immanent form, hylomorphism, teleological causation, potentiality-actuality). The examiner's favourite pivot is the **contrast** between their conceptions of Form.
 
 ---
 
@@ -643,7 +643,7 @@ Aristotle claims actuality is prior in three senses:
 - ✅ Plato: Forms, their motivations, knowledge/opinion, participation, timelessness/spacelessness and Aristotle's critique.
 - ✅ Aristotle: context-sensitive substance, immanent form/matter, four causes, change, actuality/potentiality and their priority.
 - ✅ Comparative axis: separated paradigm versus immanent essence, and the consequences for knowledge, causation, identity and becoming.
-- ✅ All twelve 2018–2025 primary-owned PYQs and both 2026 additions.
+- ✅ All 24 primary-owned PYQ parts from 2013–2026 are represented in the routing ledger below and the linked solved-PYQ topic catalogue.
 
 ### Optional enrichment
 
@@ -711,9 +711,26 @@ Aristotle claims actuality is prior in three senses:
 
 <!-- expanded-pyq-depth:end -->
 
-## 11. PYQ ROUTING (2018–2025)
+## 11. PYQ ROUTING (2013–2026)
 
-> ⚠️ **Corpus signal:** 12 primary-owned question-parts out of 112. The local Paper I corpus is continuous from 2018 through 2025. Cross-links do not create duplicate ownership.
+> ⚠️ **Corpus signal:** 24 primary-owned question-parts across 14 years, representing 322.5 marks. The solved-PYQ topic catalogue links each item to its exact paper question and is the complete paper-wise record. Cross-links do not create duplicate ownership.
+
+### Historical expansion: 2013–2017 ✅
+
+| Year | Question | Marks | Exact demand |
+|---|---|---:|---|
+| 2013 | [Q1(d)](../../../../../solved_pyqs/papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q1d) | 10 marks | Discuss how, by refuting the different concepts of substances, Aristotle establishes his own theory of substance. |
+| 2013 | [Q2(a)](../../../../../solved_pyqs/papers/2013/philosophy-paper-1.md#2013-philosophy-p1-q2a) | 12½ marks | Explain Plato’s ontological theory of Forms. Is “knowledge” one of the Forms? Give reasons. |
+| 2014 | [Q2(a)](../../../../../solved_pyqs/papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q2a) | 20 marks | Distinguish between knowledge and belief according to Plato. How is it based on his metaphysics? Explain. |
+| 2014 | [Q4(c)](../../../../../solved_pyqs/papers/2014/philosophy-paper-1.md#2014-philosophy-p1-q4c) | 15 marks | Explain the significance of Aristotle’s doctrine of form and matter in his theory of causation. |
+| 2015 | [Q1(a)](../../../../../solved_pyqs/papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q1a) | 10 marks | Aristotle’s distinction between “actually” and “potentiality”. |
+| 2015 | [Q4(a)](../../../../../solved_pyqs/papers/2015/philosophy-paper-1.md#2015-philosophy-p1-q4a) | 20 marks | Explain Plato’s theory of Forms. Does it entail a kind of essentialism? Discuss. |
+| 2016 | [Q2(a)](../../../../../solved_pyqs/papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q2a) | 20 marks | Does Aristotle treat matter as a “Substance”? Give reasons for your answer. |
+| 2016 | [Q3(a)](../../../../../solved_pyqs/papers/2016/philosophy-paper-1.md#2016-philosophy-p1-q3a) | 20 marks | Does Plato’s “Theory of Form” explain the “change” and “sensibility” of matter? Give reasons for your answer. |
+| 2017 | [Q1(d)](../../../../../solved_pyqs/papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q1d) | 10 marks | In what sense can ideas be both immanent and transcendent? Discuss in this context Plato’s theory of universals and particulars. |
+| 2017 | [Q2(c)](../../../../../solved_pyqs/papers/2017/philosophy-paper-1.md#2017-philosophy-p1-q2c) | 15 marks | Explain Aristotle’s theory of form and matter. How does it help him resolve the problem of change and permanence? |
+
+### 2018–2025 ✅
 
 | Year | Question | Marks | Exact demand |
 |---|---|---:|---|
@@ -732,7 +749,7 @@ Aristotle claims actuality is prior in three senses:
 
 See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-2018-2025.md).
 
-### 2026 additions ✅
+### 2026 ✅
 
 | Year | Question | Marks | Exact demand | Owner status |
 |---|---|---:|---|---|
@@ -740,6 +757,8 @@ See the [Western Philosophy PYQ Bank, 2018–2025](../_PYQ-Western-Philosophy-20
 | 2026 | Q2(a) | 20 marks | What, according to Aristotle, is the fundamental problem of metaphysics? Discuss this in relation with Aristotle's account of the essence of the world, where he rejects the views of both the Atomists and Plato. | **primary** — §2A, drawing on §2, §3, §4, §5, §6 |
 
 See the [Western Philosophy PYQ Bank, 2026](../_PYQ-Western-Philosophy-2026.md).
+
+For the complete paper-wise question metadata and exact solved-question anchors across 2013–2026, see the [Plato–Aristotle solved-PYQ topic catalogue](../../../../../solved_pyqs/topics/philosophy-paper-i/plato-aristotle.md).
 
 ## 12. ANSWER ARCHITECTURE (10 / 15 / 20 marks) ⚠️
 

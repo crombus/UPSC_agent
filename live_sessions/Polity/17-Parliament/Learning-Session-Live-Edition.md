@@ -1349,6 +1349,8 @@ _Model word count: 147._
 ---
 
 ## Lesson 12 - Executive accountability, anti-defection and law-making quality
+<a id="2013-gs-ii-q01-learning"></a>
+**2013 solved PYQ:** [Q1](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q01)
 
 Progress: 12/13 | Stage: Advanced | Subtopic: Formal instruments versus institutional incentives
 

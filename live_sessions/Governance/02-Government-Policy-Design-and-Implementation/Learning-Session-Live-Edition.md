@@ -411,6 +411,8 @@ Even clear individual roles can fail when many departments must act together; th
 ---
 
 ## Lesson 6 — Joining the levels of government
+<a id="2013-gs-ii-q12-learning"></a>
+**2013 solved PYQ:** [Q12](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q12)
 
 Progress: 6 / 10 | Stage: Core | Subtopic: Centre–State roles, convergence and area-based delivery
 

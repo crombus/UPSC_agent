@@ -854,6 +854,8 @@ Linguistic reorganisation addressed one scale of recognition, but grievances als
 ---
 
 ## Lesson 8 — Sub-Regionalism and New-State Demands
+<a id="2013-gs-i-q18-learning"></a>
+**2013 solved PYQ:** [Q18](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q18)
 
 Progress: 8 / 14 | Stage: Core | Subtopic: Administrative access, representation, identity, disparity and statehood
 

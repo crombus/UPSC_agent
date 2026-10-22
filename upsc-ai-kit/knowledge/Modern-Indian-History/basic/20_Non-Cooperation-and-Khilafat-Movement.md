@@ -84,6 +84,14 @@
 - ⚠️ GS-1: Discuss the Khilafat-NCM alliance as both a moment of Hindu-Muslim unity and a fragile political experiment.
 - ⚠️ GS-1: Was Gandhi's withdrawal after Chauri Chaura a strategic necessity or a lost opportunity? Examine.
 
+<a id="2013-gs-i-q04-learning"></a>
+### Cross-period bridge: foreign-born allies in the national movement
+
+For the 2013 GS-I question, distinguish **Charles Freer Andrews** and **William Pearson** (anti-indenture advocacy and publicising Indian grievances), **Mirabehn** (later Gandhian constructive work and civil disobedience) and **Samuel Stokes** (khadi and Non-Cooperation, including imprisonment). These figures did not all act in the 1920–22 movement; use the bridge to place each contribution in its proper phase. See the [2013 GS-I Q4 solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q04).
+
+<a id="2013-gs-i-q08-learning"></a>
+**Solved PYQ link:** [2013 GS-I Q8 — Maulana Azad's pre-independence role](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q08)
+
 ## 8. Answer architecture (10/15/20-mark support)
 
 > Purpose: this owner carries several routed demands — the Non-Cooperation programme and its stages, the Eka movement and Bardoli, the Chauri Chaura aftermath and the "sedition" statement. Each is answered substantively below, with the mis-routed item explicitly corrected rather than silently repeated.

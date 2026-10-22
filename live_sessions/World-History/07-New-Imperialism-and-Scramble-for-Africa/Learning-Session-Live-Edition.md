@@ -1895,6 +1895,8 @@ The Congo is the highest-yield single case in the topic and can be deployed in f
 *The conference has now been reached by the route that actually produced it. The next lesson examines what it decided - and dismantles, clause by clause, the three things it is most often said to have done.*
 
 ## Lesson 11 - The Berlin Conference: what the General Act decided, and the three things it did not do
+<a id="2013-gs-i-q12-learning"></a>
+**2013 solved PYQ:** [Q12](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q12)
 
 Progress: 11/21 | Stage: Core | Subtopic: the dates, participants and convenors; the General Act's substantive provisions; effective occupation and its exact scope; free navigation and the conventional basin; the anti-slavery declarations; the absence of African representation; the three standard misconceptions dismantled; the correct verdict and its mechanism
 
@@ -3379,6 +3381,8 @@ Two kinds of question draw on this lesson. The first is any question about the c
 *The colonial system has now been described in full: how it was justified, built, staffed, financed and enforced. What remains is what it left behind. The next lesson sets out the inheritance - borders, economic structure, administratively fixed identities and a racial order - and answers the question that most answers never think to ask, which is why independent African states chose to keep the frontiers they had spent decades condemning.*
 
 ## Lesson 19 - The inheritance: borders, structures, identities - and why the borders were kept
+<a id="2013-gs-i-q12-borders"></a>
+**2013 solved PYQ:** [Q12](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q12)
 
 Progress: 19/21 | Stage: Advanced | Subtopic: the four elements of the colonial inheritance; the border-preservation puzzle and its behavioural evidence; the cost of the choice; the single exception pattern; extractive economies and commodity dependence; the racial order; violent memory and anti-colonial nationalism; the one current linkage; the boundary with the decolonisation topic
 

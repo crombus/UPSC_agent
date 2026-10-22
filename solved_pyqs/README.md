@@ -30,6 +30,8 @@ This workspace is the released paper-wise and topic-wise solved-PYQ library for 
 - [Review log](REVIEW-LOG.md)
 - [Final release report](FINAL-RELEASE-REPORT.md)
 - [Historical-expansion changed-path manifest](HISTORICAL-EXPANSION-FILE-CHANGES.txt)
+- [Mains answer-writing philosophy](answer-writing-philosophy.md)
+- [Answer-philosophy alignment review instructions](ANSWER-PHILOSOPHY-ALIGNMENT-INSTRUCTIONS.md)
 
 Full solutions live only in `papers/<year>/`. Topic pages contain concentration metadata and
 direct links to canonical paper answers.

@@ -58,7 +58,7 @@
 
 ## 4. Must-Know Facts (Prelims)
 
-- ✅ **Shastri** coined "**Jai Jawan Jai Kisan**"; he signed the **Tashkent Declaration (1966)** and died there.
+- <a id="jai-jawan-jai-kisan"></a>✅ **Shastri** popularised "**Jai Jawan Jai Kisan**" amid the 1965 war and food emergency; he signed the **Tashkent Declaration (1966)** and died there. See the [2013 GS-I Q7 solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q07).
 - ✅ **Indira Gandhi** defeated **Morarji Desai 355–169** to become PM in 1966.
 - ✅ The **rupee was devalued by ~35.5% in June 1966**.
 - ✅ The **1967 elections** reduced the Congress majority and cost it power in **eight states**.

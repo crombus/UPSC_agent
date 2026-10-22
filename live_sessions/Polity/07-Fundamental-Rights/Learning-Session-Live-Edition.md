@@ -990,6 +990,8 @@ Together, the Articles constitutionalise republican citizenship: birth, caste an
 **Bridge to Lesson 8:** Equality controls status; Article 19 controls the citizen's active freedom to speak, assemble, associate, move, settle and work.
 
 ## Lesson 8 - Article 19: six freedoms and six restriction structures
+<a id="2013-gs-ii-q02-learning"></a>
+**2013 solved PYQ:** [Q2](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q02)
 
 Progress: 8/25 | Stage: Core | Subtopic: beneficiaries, exact freedoms, clause-specific grounds and proportionality
 

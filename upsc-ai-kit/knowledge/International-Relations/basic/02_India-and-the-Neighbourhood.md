@@ -176,6 +176,12 @@ historical dynamic.
   debt, revenue, governance and external-financing problems; durable recovery
   required domestic adjustment and an IMF-supported programme.
 
+### Bangladesh: Ideological Cleavages and the Shahbag Movement (2013)
+- ✅ **The Shahbag Protests (February 2013):** Massive popular mobilisation at Shahbag Square in Dhaka demanding maximum penalties for 1971 war criminals convicted by the International Crimes Tribunal (e.g., Jamaat-e-Islami leaders).
+- ✅ **Societal Cleavage & Implications for India:**
+  - The movement brought to the surface Bangladesh's fundamental divide between secular Bengali nationalism (Awami League memory of the 1971 Liberation War) and Islamist-conservative coalitions (BNP and Jamaat-e-Islami).
+  - For India, a secular, stable Bangladesh is vital to deny cross-border sanctuaries to North-East insurgent groups, ensure transit corridors, and maintain peaceful border management; however, overt partisanship by New Delhi risks inflaming anti-India sentiment during election cycles.
+
 ## 5. Indian applications and examples
 
 - ✅ Tharoor cites Prime Minister Manmohan Singh's October 2011 remark during a

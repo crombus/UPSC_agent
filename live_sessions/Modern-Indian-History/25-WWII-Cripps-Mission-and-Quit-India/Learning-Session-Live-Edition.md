@@ -1574,6 +1574,8 @@ These experiments did not establish national dual power. Ballia was short-lived,
 ---
 
 ## Lesson 9 — Social depth with uneven participation
+<a id="2013-gs-i-q03-learning"></a>
+**2013 solved PYQ:** [Q3](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q03)
 
 Progress: 9/11 | Stage: Advanced | Subtopic: Students, women, workers, peasants, landlords and officials
 

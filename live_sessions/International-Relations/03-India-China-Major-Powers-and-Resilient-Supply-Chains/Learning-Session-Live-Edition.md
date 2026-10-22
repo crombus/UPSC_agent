@@ -692,6 +692,8 @@ Use “overall complementarity with narrower installed-base dependence.” This 
 <!-- lesson movement -->
 
 ## Lesson 10: Japan: strategic partnership through infrastructure and resilience
+<a id="2013-gs-ii-q20-learning"></a>
+**2013 solved PYQ:** [Q20](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q20)
 
 Progress: 10 / 24  |  Stage: Core  |  Subtopic: Security, infrastructure, technology and SCRI
 

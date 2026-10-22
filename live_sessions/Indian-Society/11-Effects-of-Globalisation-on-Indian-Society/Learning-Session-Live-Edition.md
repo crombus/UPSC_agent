@@ -1130,6 +1130,8 @@ For the specific migration proposition, treat the question’s premise as the ob
 The analytical task is to connect freedom gains, continuing family ties and new vulnerabilities without using LFPR as proof of the migration stream.
 
 ### 7. Broader gender, migration and ageing routes
+<a id="2013-gs-i-q17-learning"></a>
+**2013 solved PYQ:** [Q17](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q17)
 
 > **2015, GS-I, Q12 — 12½ marks, 200 words:** “Discuss the positive and negative effects of globalization on women in India.”
 

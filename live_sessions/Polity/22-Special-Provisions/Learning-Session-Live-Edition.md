@@ -715,6 +715,8 @@ The family map now leads to its most extensive identity-and-custom safeguard: Ar
 ---
 
 ## Lesson 5 - Article 371A—Nagaland: Consent Shield, Land, Custom, Governor and Tuensang Provisions
+<a id="2013-gs-ii-q03-learning"></a>
+**2013 solved PYQ:** [Q3](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q03)
 
 Progress: 5/11 | Stage: Core | Subtopic: Article 371A clauses (1)-(3) and operability caution
 

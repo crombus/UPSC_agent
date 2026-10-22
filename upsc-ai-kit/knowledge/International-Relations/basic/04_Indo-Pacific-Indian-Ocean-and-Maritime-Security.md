@@ -427,6 +427,13 @@ major powers are also present and competing for influence.
 > Meeting) as evidence of deepening, not completed, integration; (5) close with
 > a qualified verdict rather than a flat "yes/no."
 
+### China's Maritime Presence and India's Strategic Countermeasures
+- ✅ **The 'String of Pearls' Construct:** Geopolitical term describing China's network of commercial port investments and potential dual-use maritime facilities along northern Indian Ocean sea lines of communication (SLOCs)—including Gwadar (Pakistan), Hambantota (Sri Lanka), Chittagong (Bangladesh), and Kyaukpyu (Myanmar)—connecting mainland China to the Persian Gulf.
+- ✅ **India's Multi-Layered Countermeasures:**
+  1. **Strategic infrastructure:** Upgrading the tri-service Andaman and Nicobar Command (ANC) and developing deep-water connectivity at Chabahar (Iran) and Sabang (Indonesia).
+  2. **Maritime Domain Awareness (MDA):** Setting up the Information Fusion Centre - Indian Ocean Region (IFC-IOR) at Gurugram and radar surveillance networks with island partners (Mauritius, Seychelles, Maldives, Sri Lanka).
+  3. **Logistics and naval diplomacy:** Bilateral reciprocal logistics agreements (e.g. LEMOA with US, RELOS with Russia) and multilateral naval drills (Malabar, Milan) under the declared SAGAR framework.
+
 ## 5. Indian applications and examples
 
 - ✅ **Direct PYQ (2024 Q20):** *Discuss the geopolitical and geostrategic

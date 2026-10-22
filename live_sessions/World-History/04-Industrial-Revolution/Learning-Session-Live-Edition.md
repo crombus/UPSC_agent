@@ -2304,6 +2304,8 @@ Diffusion questions appear both directly and as the second half of a "why Britai
 **Bridge to Lesson 14:** One of the five cases in the table is unusually well documented in the sources read for this session, and it is also the case an examiner is most likely to ask about, because it poses the sharpest version of the comparative question: how could a country with no industrial base, opened by force and humiliated by treaty, industrialise within a generation? The next lesson answers that in detail, and uses the answer to show what state-directed industrialisation buys and what it costs.
 
 ## Lesson 14 - The latecomer route: Britain against Japan, with Russia as a control
+<a id="2013-gs-i-q11-learning"></a>
+**2013 solved PYQ:** [Q11](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q11)
 
 Progress: 14/17 | Stage: Core | Subtopic: the initiating-agent contrast; Perry 1853 and the Meiji restoration of 1868; imported technology, railways and roads, cotton and silk; the 1889 constitution and the 1890 Diet; military-industrial priority; labour suppression; the export vulnerability that ended the model; Russia in one sentence
 

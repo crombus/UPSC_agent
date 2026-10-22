@@ -105,6 +105,8 @@ A remote village needs a health service. A volunteer may tell families how to ob
 **Scoring guide (10):** actor distinctions 3; specific Indian delivery mechanism 3; representation and public-duty distinction 3; qualified conclusion 1.
 
 ## Lesson 2 — One savings group, three distinct institutional architectures
+<a id="2013-gs-ii-q11-learning"></a>
+**2013 solved PYQ:** [Q11](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q11)
 
 Progress: 2/8 | Stage: Core | Subtopic: NABARD SHG-BLP, DAY-NRLM, DAY-NULM and social capital
 

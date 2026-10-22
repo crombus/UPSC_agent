@@ -939,6 +939,8 @@ The Street Vendors Act, 2014 supplies a named livelihood-recognition example.
 ---
 
 ## Lesson 7 — Segregation, Marginalisation and the Production of Urban Space
+<a id="2013-gs-i-q15-learning"></a>
+**2013 solved PYQ:** [Q15](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q15)
 
 Progress: 7 / 14 | Stage: Core | Subtopic: Land, planning, services and spatial inequality
 
@@ -1529,6 +1531,8 @@ SDG 11 supplies a named inclusive-city benchmark.
 ---
 
 ## Lesson 11 — Urban Sprawl, Flooding, Heat and Environmental Injustice
+<a id="2013-gs-i-q20a-learning"></a>
+**2013 solved PYQ:** [Q20(a)](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q20a)
 
 Progress: 11 / 14 | Stage: Core | Subtopic: Land-use externalities and differentiated risk
 

@@ -512,6 +512,8 @@ Migration and avulsion need not change basin membership; capture does. Field and
 must establish which process occurred.
 
 ## Lesson 7 — River mouths: delta, estuary and compound systems
+<a id="2013-gs-i-q22b-learning"></a>
+**2013 solved PYQ:** [Q22(b)](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q22b)
 
 Progress: 7 / 20  |  Stage: Core  |  Subtopic: Sediment bodies, river–marine mixing and process continua
 

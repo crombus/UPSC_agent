@@ -753,6 +753,8 @@ Thus Tilak's course was neither capitulation nor simple continuity. It was a tac
 ---
 
 ## Lesson 6 — Annie Besant's networks before the League
+<a id="2013-gs-i-q04-learning"></a>
+**2013 solved PYQ:** [Q4](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q04)
 
 Progress: 6/14 | Stage: Core | Subtopic: Journalism, Theosophy and pressure on Congress
 

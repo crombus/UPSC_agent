@@ -1585,6 +1585,8 @@ both be rapid but require different controls; creep and subsidence may both be s
 process. Water and velocity remain useful qualifiers after mechanism is established.
 
 ## Lesson 12 — Landslide causation and attribution: susceptibility, trigger and risk
+<a id="2013-gs-i-q22a-causation"></a>
+**2013 solved PYQ:** [Q22(a)](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q22a)
 
 Progress: 12 / 19  |  Stage: Applied  |  Subtopic: Preparatory controls, triggers, human modification and official incident evidence
 
@@ -1689,6 +1691,8 @@ attribution combines site geology, morphology, hydrology, modification, movement
 data and states uncertainty.
 
 ## Lesson 13 — India’s landslide geography: current mapping, exposure and regional contrast
+<a id="2013-gs-i-q22a-learning"></a>
+**2013 solved PYQ:** [Q22(a)](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q22a)
 
 Progress: 13 / 19  |  Stage: Applied  |  Subtopic: Susceptibility, forecasting, exposure, scale and Indian terrain
 

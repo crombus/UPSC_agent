@@ -1,14 +1,13 @@
 # UPSC Progress Tracker
 
 > Personal tracker for study, revision, practice and resource generation.
-> Last updated: 2026-09-21
+> Last updated: 2026-10-20
 >
-> Learner-confirmed completed areas: Polity 01-10; Indian Philosophy - Carvaka,
-> Jainism and Nyaya-Vaisesika; Internal Security 01-12 from the book; Indian
-> Religion - Notions of God; and newspaper reading. Indian Philosophy - Samkhya,
-> Indian Philosophy - Yoga, Indian Philosophy - Mimamsa, Economy 01, Economy 02,
-> Economy 03, Economy 04, Economy 05 and Economy 06 guided learning sessions are
-> complete, with their completion-cycle tasks pending.
+> Learner-confirmed completed study: Polity 01-16; Economy 01-11; Indian
+> Philosophy - Carvaka, Jainism, Buddhism, Nyaya-Vaisesika, Samkhya, Yoga and
+> Mimamsa (all except Vedanta and Aurobindo); Internal Security 01-12 from the
+> book; Indian Religion - Notions of God; and newspaper reading. Practice,
+> revision and other completion-cycle tasks remain pending where listed below.
 
 ## How to update
 
@@ -21,20 +20,34 @@
 
 | Area | Current status | Last activity | Next action |
 |---|---|---|---|
-| Polity 01-10 | Completed through Amendment and Basic Structure | 2026-08-31 | Schedule revision |
+| Polity 01-16 | Completed through PM and Council of Ministers | Confirmed 2026-10-20 | Schedule revision |
+| Economy 01-11 | Completed through Land Reforms, Green Revolution and Cropping Systems | Confirmed 2026-10-20 | Continue PYQs, answers, notes and revision tasks |
 | Indian Philosophy - Carvaka | Completed | 2026-08-23 | Schedule revision |
 | Indian Philosophy - Jainism | Completed | 2026-08-31 | Schedule revision |
-| Indian Philosophy - Buddhism | Core doctrines completed; Hīnayāna-Mahāyāna supplement pending | 2026-09-02 | Complete school-tradition supplement |
+| Indian Philosophy - Buddhism | Completed, including Hīnayāna-Mahāyāna supplement | 2026-09-02 | Schedule revision |
 | Indian Philosophy - Nyaya-Vaisesika | Completed | 2026-09-09 | Schedule revision |
-| Indian Philosophy - Samkhya | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-11 | Day-1 recall and one routed PYQ |
-| Indian Philosophy - Yoga | Guided learning session and Day-1 revision completed; timed PYQ, notes and later revisions pending | 2026-09-14 | Revision 2 and one routed PYQ |
-| Indian Philosophy - Mimamsa | Restarted guided learning session completed; 12/12 subtopics covered; PYQ, answer, notes and revisions pending | 2026-09-21 | Day-1 recall and targeted remediation |
-| Economy 01 - National Income | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-09 | Day-1 recall and one routed PYQ |
-| Economy 02 - Growth, Development, HDI, IHDI and MPI | Guided learning session completed; PYQ, answer, notes and revisions pending | 2026-09-10 | Day-1 recall and one routed PYQ |
-| Economy 03 - Inflation, Price Indices and Business Cycles | Guided learning session completed; timed Mains answer, notes and revisions pending | 2026-09-11 | Day-1 recall and 2024 food-inflation PYQ |
-| Economy 04 - RBI, Monetary Policy and Liquidity Management | Guided learning session completed; timed Mains answer, notes and revisions pending | 2026-09-13 | Day-1 recall and one integrated monetary-policy answer |
-| Economy 05 - Banking Structure, NBFCs and Financial Regulation | Guided learning session completed; PYQ verification completed; timed Mains answer, notes and revisions pending | 2026-09-17 | Day-1 recall and one integrated banking-regulation answer |
-| Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | Guided learning session completed; PYQ synthesis completed; timed Mains answer, notes and revisions pending | 2026-09-20 | Day-1 recall and one integrated NPA-resolution answer |
+| Indian Philosophy - Samkhya | Completed; PYQ, answer, notes and revisions pending | 2026-09-11 | Day-1 recall and one routed PYQ |
+| Indian Philosophy - Yoga | Completed; Day-1 revision done; timed PYQ, notes and later revisions pending | 2026-09-14 | Revision 2 and one routed PYQ |
+| Indian Philosophy - Mimamsa | Completed; restarted session covered 12/12 subtopics; PYQ, answer, notes and revisions pending | 2026-09-21 | Day-1 recall and targeted remediation |
+| Indian Philosophy - Vedanta | Not started | - | Begin study |
+| Indian Philosophy - Aurobindo | Not started | - | Begin study |
+| Economy 01 - National Income | Completed; PYQ, answer, notes and revisions pending | 2026-09-09 | Day-1 recall and one routed PYQ |
+| Economy 02 - Growth, Development, HDI, IHDI and MPI | Completed; PYQ, answer, notes and revisions pending | 2026-09-10 | Day-1 recall and one routed PYQ |
+| Economy 03 - Inflation, Price Indices and Business Cycles | Completed; timed Mains answer, notes and revisions pending | 2026-09-11 | Day-1 recall and 2024 food-inflation PYQ |
+| Economy 04 - RBI, Monetary Policy and Liquidity Management | Completed; timed Mains answer, notes and revisions pending | 2026-09-13 | Day-1 recall and one integrated monetary-policy answer |
+| Economy 05 - Banking Structure, NBFCs and Financial Regulation | Completed; PYQ verification done; timed Mains answer, notes and revisions pending | 2026-09-17 | Day-1 recall and one integrated banking-regulation answer |
+| Economy 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | Completed; PYQ synthesis done; timed Mains answer, notes and revisions pending | 2026-09-20 | Day-1 recall and one integrated NPA-resolution answer |
+| Economy 07 - Money Market, Capital Market and Financial Instruments | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Economy 08 - Securities, Bonds, Equity, Derivatives and Investment Funds | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Economy 09 - Union Budget, Fiscal Policy and Deficit Indicators | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Economy 10 - Taxation, GST, Finance Commission and Fiscal Federalism | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Economy 11 - Land Reforms, Green Revolution and Cropping Systems | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Polity 11 - Parliamentary System | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 12 - Federal System | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 13 - Centre State and Inter State Relations | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 14 - Emergency Provisions | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 15 - President and Vice President | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 16 - PM and Council of Ministers | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Internal Security 01-12 | Complete subject read from the book | 2026-09-07 | Schedule subject-wide revision |
 | Indian Religion - Notions of God | Completed | 2026-08-24 | Schedule revision |
 | Newspaper | Completed for recorded study cycle | 2026-08-24 | Continue daily reading |
@@ -59,17 +72,30 @@
 | Polity | 10 - Amendment and Basic Structure | Completed | 2026-08-31 | 0 |  | Revision 1 |
 | Indian Philosophy | Carvaka | Completed | 2026-08-23 | 0 | 4 | Revision 1 |
 | Indian Philosophy | Jainism | Completed | 2026-08-31 | 0 |  | Revision 1 |
-| Indian Philosophy | Buddhism | In progress | 2026-09-02 | 0 |  | Complete Hīnayāna-Mahāyāna supplement |
+| Indian Philosophy | Buddhism | Completed | 2026-09-02 | 0 |  | Schedule revision |
 | Indian Philosophy | Nyaya-Vaisesika | Completed | 2026-09-09 | 0 |  | Revision 1 |
-| Indian Philosophy | Samkhya | In progress - learning session complete | 2026-09-11 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
-| Indian Philosophy | Yoga | In progress - learning session and Revision 1 complete | 2026-09-14 | 1 | 4 | Revision 2, routed PYQ and one timed Mains answer |
-| Indian Philosophy | Mimamsa | In progress - restarted learning session complete | 2026-09-21 | 0 | 3 | Day-1 recall, targeted remediation, routed PYQ and one Mains answer |
-| Economy | 01 - National Income: GDP, GVA, GNP, NDP and Measurement | In progress - learning session complete | 2026-09-09 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
-| Economy | 02 - Growth, Development, HDI, IHDI and MPI | In progress - learning session complete | 2026-09-10 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
-| Economy | 03 - Inflation, Price Indices and Business Cycles | In progress - learning session complete | 2026-09-11 | 0 | 4 | Day-1 recall and timed 2024 food-inflation Mains answer |
-| Economy | 04 - RBI, Monetary Policy and Liquidity Management | In progress - learning session complete | 2026-09-13 | 0 | 3 | Day-1 recall and one timed Mains answer on policy transmission |
-| Economy | 05 - Banking Structure, NBFCs and Financial Regulation | In progress - learning session complete | 2026-09-17 | 0 | 4 | Day-1 recall and one timed answer on specialised credit and systemic risk |
-| Economy | 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | In progress - learning session complete | 2026-09-20 | 0 | 4 | Day-1 recall and one timed answer on NPA resolution and responsible inclusion |
+| Indian Philosophy | Samkhya | Completed | 2026-09-11 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
+| Indian Philosophy | Yoga | Completed | 2026-09-14 | 1 | 4 | Revision 2, routed PYQ and one timed Mains answer |
+| Indian Philosophy | Mimamsa | Completed | 2026-09-21 | 0 | 3 | Day-1 recall, targeted remediation, routed PYQ and one Mains answer |
+| Indian Philosophy | Vedanta | Not started | - | 0 |  | Begin study |
+| Indian Philosophy | Aurobindo | Not started | - | 0 |  | Begin study |
+| Economy | 01 - National Income: GDP, GVA, GNP, NDP and Measurement | Completed | 2026-09-09 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
+| Economy | 02 - Growth, Development, HDI, IHDI and MPI | Completed | 2026-09-10 | 0 |  | Day-1 recall, routed PYQ and one Mains answer |
+| Economy | 03 - Inflation, Price Indices and Business Cycles | Completed | 2026-09-11 | 0 | 4 | Day-1 recall and timed 2024 food-inflation Mains answer |
+| Economy | 04 - RBI, Monetary Policy and Liquidity Management | Completed | 2026-09-13 | 0 | 3 | Day-1 recall and one timed Mains answer on policy transmission |
+| Economy | 05 - Banking Structure, NBFCs and Financial Regulation | Completed | 2026-09-17 | 0 | 4 | Day-1 recall and one timed answer on specialised credit and systemic risk |
+| Economy | 06 - NPAs, Basel Norms, Resolution and Financial Inclusion | Completed | 2026-09-20 | 0 | 4 | Day-1 recall and one timed answer on NPA resolution and responsible inclusion |
+| Economy | 07 - Money Market, Capital Market and Financial Instruments | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Economy | 08 - Securities, Bonds, Equity, Derivatives and Investment Funds | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Economy | 09 - Union Budget, Fiscal Policy and Deficit Indicators | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Economy | 10 - Taxation, GST, Finance Commission and Fiscal Federalism | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Economy | 11 - Land Reforms, Green Revolution and Cropping Systems | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Polity | 11 - Parliamentary System | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 12 - Federal System | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 13 - Centre State and Inter State Relations | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 14 - Emergency Provisions | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 15 - President and Vice President | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 16 - PM and Council of Ministers | Completed | Not recorded | 0 |  | Schedule revision |
 | Internal Security | 01 - Internal Security Foundations and Governance | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 02 - Terrorism and Counter-Terror Architecture | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 03 - Left-Wing Extremism and Integrated Response | Completed from book | 2026-09-07 | 0 |  | Revision 1 |

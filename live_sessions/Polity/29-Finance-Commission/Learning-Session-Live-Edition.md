@@ -1078,6 +1078,8 @@ Devolution — vertical and horizontal — is only one of the Commission's chann
 ---
 
 ## Lesson 8: Grants Architecture
+<a id="2013-gs-ii-q07-learning"></a>
+**2013 solved PYQ:** [Q7](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q07)
 
 Progress: 8 / 18 | Stage: Core | Subtopic: Article 275 against Article 282, and why one is contested
 

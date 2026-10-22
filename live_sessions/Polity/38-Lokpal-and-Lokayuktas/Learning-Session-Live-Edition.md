@@ -50,6 +50,8 @@ current-law control through October 2026.
 ---
 
 ## Lesson 1: Ombudsman Idea to the 2013 Act
+<a id="2013-gs-ii-q17-learning"></a>
+**2013 solved PYQ:** [Q17](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q17)
 
 Progress: 1/19 | Stage: Foundation | Lesson: Ombudsman Idea to the 2013 Act
 

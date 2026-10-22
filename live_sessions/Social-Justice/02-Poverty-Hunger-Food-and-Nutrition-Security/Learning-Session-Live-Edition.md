@@ -456,6 +456,8 @@ A full granary cannot feed a person who is outside the beneficiary register and 
 **Scoring guide (20):** availability–access–utilisation mechanism 5; named NFSA/ONORC and life-stage examples 5; targeting/universalism and leakage analysis 4; feasible correction plus broad-service remedy 4; qualified evidence-aware conclusion 2.
 
 ## Lesson 7 — Two paths to better nutrition
+<a id="2013-gs-ii-q09-learning"></a>
+**2013 solved PYQ:** [Q9](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q09)
 
 Progress: 7/8 | Stage: Advanced | Subtopic: Nutrition-specific and nutrition-sensitive interventions, acute-malnutrition referral
 

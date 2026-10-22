@@ -821,6 +821,8 @@ Revision notes:
 **Rubric (quantified, 10 marks):** 3 for four process/form classes; 3 for age plus reactivation, lithology, climate and erosion; 2 for source-qualified regional labels; 1 for an Indian example; 1 for a graded conclusion. Deduct 2 for treating height as an age index.
 
 ## Lesson 6 — Continental drift: the claim, the evidence, and the objection that buried it for forty years
+<a id="2013-gs-i-q19a-learning"></a>
+**2013 solved PYQ:** [Q19(a)](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q19a)
 
 Progress: 6 / 15  |  Stage: Core  |  Subtopic: Wegener's hypothesis, the five classes of evidence for it, and why evidence alone did not secure its acceptance
 

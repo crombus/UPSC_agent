@@ -369,6 +369,16 @@ The Economic Survey 2025–26, chapter XI, reports UDISE+ 2024–25's 24.69 cror
 **Scoring guide (15):** instrument-specific distinctions 5; named correctly bounded evidence 4; appropriate triangulation 3; attribution and exclusion limits 3.
 
 ## Lesson 7 — A university seat is not a degree, and a degree is not a skill
+<a id="2013-gs-i-q08-learning"></a>
+**2013 solved PYQ:** [Q8](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q08)
+
+### 2013 bridge — Azad's educational institution-building
+
+As India's first Education Minister, Maulana Abul Kalam Azad promoted universal primary
+education, adult literacy, scientific and technical learning, and cultural autonomy. His tenure
+saw important institutions established, including UGC, IIT Kharagpur and the national academies
+for literature, music and dance, and visual arts; avoid implying he personally founded each one.
+See the [2013 GS-I Q8 solved answer](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q08).
 
 Progress: 7/10 | Stage: Core | Subtopic: Higher-education access, research, innovation, equity and trust
 

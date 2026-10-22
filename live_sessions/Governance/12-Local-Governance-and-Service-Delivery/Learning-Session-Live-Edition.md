@@ -222,6 +222,11 @@ Next: a municipality and a Panchayat may each be solvent and still design incomp
 **Scoring guide (15):** own revenue with limitation 3; correct SFC/Union FC relationship 4; tied/untied causal example 3; equity and borrowing qualification 3; matched-finance conclusion 2.
 
 ## Lesson 4 — Where village and city plans meet
+<a id="2013-gs-ii-q14-learning"></a>
+**2013 solved PYQ:** [Q14](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q14)
+> [!NOTE] Rural-Urban Growth Clusters: The PURA Framework
+> - **Providing Urban Amenities in Rural Areas (PURA):** Conceptualised by Dr. A.P.J. Abdul Kalam, PURA bridges the rural-urban divide through four integrated connectivities: **Physical** (all-weather roads, power, transport), **Electronic** (telecom/broadband), **Knowledge** (vocational/skills training), and **Economic** (employment, local enterprise, market linkages).
+> - **Evolution to SPMRM:** Restructured under Ministry of Rural Development as a PPP initiative, PURA later evolved into the **Shyama Prasad Mukherjee Rurban Mission (SPMRM)** to stimulate local economic development while preserving rural community identity.
 
 Progress: 4/9 | Stage: Core | Subtopic: District and metropolitan planning, urban fragmentation
 

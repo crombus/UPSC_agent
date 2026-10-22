@@ -94,6 +94,8 @@ A district promises to repair a village pipeline. A budget entry tells you the g
 **Scoring guide (10):** appropriation and legal authority 2; release-versus-spending 2; named water example/output-outcome 3; appropriate evidence and qualified judgment 3.
 
 ## Lesson 2 — JAM makes a route possible; DBT changes delivery, not eligibility law
+<a id="2013-gs-ii-q13-learning"></a>
+**2013 solved PYQ:** [Q13](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q13)
 
 Progress: 2/10 | Stage: Foundation | Subtopic: Jan Dhan, Aadhaar, Mobile and the scope of DBT
 

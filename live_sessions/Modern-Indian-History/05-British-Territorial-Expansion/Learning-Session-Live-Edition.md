@@ -1788,6 +1788,8 @@ Thus internal crisis supplied vulnerability, but annexation was not its automati
 ---
 
 ## Lesson 12 — Dalhousie's annexation toolkit: lapse, pension, debt and strategic cession
+<a id="2013-gs-i-q05-learning"></a>
+**2013 solved PYQ:** [Q5](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q05)
 
 Progress: 12 / 14 | Stage: Advanced | Focus: why not every annexation used the same doctrine
 

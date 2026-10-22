@@ -606,6 +606,8 @@ The United States withdrew effective 31 December 2018, returned in 2023 and anno
 **Transition:** Specialised agencies reveal programme dependence; Bretton Woods institutions make representation measurable through voting shares.
 
 ## Lesson 13: Bretton Woods reform concerns voice as well as money
+<a id="2013-gs-ii-q25-learning"></a>
+**2013 solved PYQ:** [Q25](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q25)
 
 Progress: 13 / 22  |  Stage: Core  |  Subtopic: IMF and World Bank mandates, quotas, shares and development finance
 

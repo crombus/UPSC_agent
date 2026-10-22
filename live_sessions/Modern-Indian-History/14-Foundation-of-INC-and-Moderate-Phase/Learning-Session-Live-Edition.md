@@ -582,6 +582,8 @@ D. They repeatedly assembled regional leaders, debated demands and enacted an al
 ---
 
 ## Lesson 5 — Hume and the Safety-Valve Controversy
+<a id="2013-gs-i-q04-learning"></a>
+**2013 solved PYQ:** [Q4](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q04)
 
 Progress: 5/14 | Stage: Core | Subtopic: Organiser motive versus historical causation
 

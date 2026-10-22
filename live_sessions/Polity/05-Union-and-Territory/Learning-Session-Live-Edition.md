@@ -245,6 +245,8 @@ or establishes a new State and which power redraws units already within India.
 ---
 
 ## Lesson 2 — Article 2 versus Article 3
+<a id="2013-gs-ii-q05-learning"></a>
+**2013 solved PYQ:** [Q5](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q05)
 
 Progress: 2/11 | Stage: Foundation | Subtopic: Admission, establishment and internal readjustment
 

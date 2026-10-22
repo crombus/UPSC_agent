@@ -808,3 +808,24 @@ format.
 - An inventory is not a repair or a claim of future-proof completeness: verify actual
   answer-ready treatment, flag confirmed Core gaps, and obtain a separate remediation
   decision before editing canonical owners or regenerating dependent artifacts.
+
+
+---
+
+## 11. Free-tier token economy and study workflow (saved 21 October 2026)
+
+- **Detailed operating guide:** `UPSC-STRATEGY-AND-FREE-TIER-WORKFLOW.md`.
+- **Zero-token offline defaults:** MCQ practice (`final-mcq/`), reading existing knowledge files,
+  PYQ review (`solved_pyqs/`), and routine revision must be done locally without AI token
+  consumption.
+- **Selective AI usage:** Reserve AI interactions for high-leverage Mains answer evaluation
+  (claim → evidence → analysis → qualification), complex conceptual bottlenecks, and missing
+  tree-chart generation.
+- **Knowledge gap-filling rule:** Fix gaps strictly on a **need-to-know / PYQ-driven basis**.
+  Do not conduct large speculative knowledge audits upfront. Verify whether existing files answer
+  2013-to-present PYQs; patch only missing dimensions.
+- **Daily 50-30-20 routine:** 50% Philosophy Optional (complete Vedānta, Aurobindo, Paper 1B, Paper 2
+  before Jan 31 freeze), 30% core GS static, 20% daily MCQs and targeted newspaper/InsightsIAS
+  extraction.
+- **External free-tier fallback:** When daily AI CLI quotas are exhausted, copy local markdown
+  prompts into free web interfaces (Gemini/Claude/ChatGPT/DeepSeek) and paste results back locally.

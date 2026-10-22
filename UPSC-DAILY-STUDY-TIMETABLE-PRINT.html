@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>UPSC CSE Study Schedule & Strategy (2-Page Print Layout)</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      -webkit-print-color-adjust: exact !important;
+      print-color-adjust: exact !important;
+    }
+    @page {
+      size: A4 portrait;
+      margin: 8mm 10mm;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.35;
+      color: #1e293b;
+      background-color: #e2e8f0;
+      margin: 0;
+      padding: 16px;
+    }
+    @media print {
+      body {
+        background-color: #ffffff;
+        padding: 0;
+      }
+      .no-print {
+        display: none !important;
+      }
+      .page-sheet {
+        box-shadow: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+        min-height: auto !important;
+      }
+      .page-1 {
+        page-break-after: always !important;
+        break-after: page !important;
+      }
+      .page-2 {
+        page-break-after: avoid !important;
+        break-after: avoid !important;
+      }
+    }
+
+    .page-sheet {
+      background: white;
+      max-width: 820px;
+      margin: 0 auto 24px auto;
+      padding: 24px 28px;
+      border-radius: 6px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      box-sizing: border-box;
+    }
+
+    .no-break {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .print-banner {
+      max-width: 820px;
+      margin: 0 auto 16px auto;
+      background: #e0e7ff;
+      border: 1px solid #c7d2fe;
+      color: #3730a3;
+      padding: 10px 16px;
+      border-radius: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 13.5px;
+    }
+    .print-btn {
+      background: #1e3a8a;
+      color: white;
+      border: none;
+      padding: 8px 18px;
+      border-radius: 6px;
+      font-weight: 700;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .print-btn:hover {
+      background: #2563eb;
+    }
+
+    /* Headers */
+    .header-card {
+      background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+      color: white;
+      padding: 14px 18px;
+      border-radius: 8px;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .header-card h1 {
+      margin: 0 0 4px 0;
+      font-size: 21px;
+      letter-spacing: 0.5px;
+    }
+    .header-card p {
+      margin: 0;
+      font-size: 12.5px;
+      opacity: 0.95;
+    }
+
+    .sec-title {
+      color: #0f172a;
+      font-size: 14px;
+      font-weight: 700;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 3px;
+      margin: 10px 0 8px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    /* Phase bar */
+    .phase-bar {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .phase-box {
+      padding: 9px 12px;
+      border-radius: 6px;
+      border-left: 5px solid;
+    }
+    .phase-1 { border-color: #2563eb; background: #eff6ff; }
+    .phase-2 { border-color: #059669; background: #ecfdf5; }
+    .phase-box h4 { margin: 2px 0 4px 0; font-size: 12.5px; }
+    .phase-box ul { margin: 0; padding-left: 16px; font-size: 11px; color: #334155; }
+
+    /* Blocks */
+    .block-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 9px;
+      margin-bottom: 10px;
+    }
+    .block-card {
+      padding: 9px 12px;
+      border-radius: 6px;
+      border: 1px solid #cbd5e1;
+      border-top: 4px solid;
+    }
+    .block-1 { border-top-color: #2563eb; background: #f8faff; }
+    .block-2 { border-top-color: #059669; background: #f6fdf9; }
+    .block-3 { border-top-color: #d97706; background: #fffdf5; }
+    .block-4 { border-top-color: #e11d48; background: #fff8f8; }
+    .block-card h4 { margin: 0 0 3px 0; font-size: 12px; }
+    .block-card p { margin: 0 0 5px 0; font-size: 11px; color: #475569; }
+    .sub-box {
+      background: #ffffff;
+      padding: 5px 8px;
+      border-radius: 4px;
+      font-size: 10.5px;
+      border: 1px solid #e2e8f0;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 2px 7px;
+      font-size: 9.5px;
+      font-weight: 700;
+      border-radius: 9999px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .badge-blue { background: #dbeafe; color: #1e40af; }
+    .badge-green { background: #d1fae5; color: #065f46; }
+    .badge-amber { background: #fef3c7; color: #92400e; }
+    .badge-rose { background: #ffe4e6; color: #9f1239; }
+    .badge-purple { background: #f3e8ff; color: #6b21a8; }
+
+    /* Tables */
+    .timetable-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 4px;
+      font-size: 10.8px;
+    }
+    .timetable-table th {
+      background: #1e293b;
+      color: white;
+      text-align: left;
+      padding: 5px 8px;
+      font-weight: 600;
+    }
+    .timetable-table td {
+      padding: 5px 8px;
+      border-bottom: 1px solid #e2e8f0;
+      background: white;
+      line-height: 1.25;
+    }
+    .timetable-table tr:nth-child(even) td { background: #f8fafc; }
+
+    /* Page 2 Specifics */
+    .magazine-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 9px;
+      margin-bottom: 10px;
+    }
+    .mag-card {
+      padding: 9px 11px;
+      border-radius: 6px;
+      border-left: 4px solid;
+    }
+    .mag-yojana { border-color: #2563eb; background: #f8faff; }
+    .mag-kuru { border-color: #059669; background: #f6fdf9; }
+    .mag-dte { border-color: #d97706; background: #fffdf5; }
+    .mag-card h4 { margin: 0 0 4px 0; font-size: 12px; }
+    .mag-card ul { margin: 0; padding-left: 14px; font-size: 10.8px; color: #334155; }
+
+    .matrix-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 10.8px;
+      margin-bottom: 10px;
+    }
+    .matrix-table th {
+      background: #0f172a;
+      color: white;
+      padding: 5px 8px;
+      text-align: left;
+    }
+    .matrix-table td {
+      padding: 5px 8px;
+      border-bottom: 1px solid #e2e8f0;
+      background: white;
+    }
+
+    .rule-pill {
+      background: #ffffff;
+      border-left: 4px solid #7c3aed;
+      padding: 6px 10px;
+      margin-bottom: 6px;
+      border-radius: 4px;
+      font-size: 10.8px;
+      line-height: 1.3;
+      border-top: 1px solid #f1f5f9;
+      border-right: 1px solid #f1f5f9;
+      border-bottom: 1px solid #f1f5f9;
+    }
+    .page-footer {
+      text-align: right;
+      font-size: 9.5px;
+      color: #94a3b8;
+      margin-top: 8px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Top bar (only visible in browser, hidden when printed) -->
+  <div class="print-banner no-print">
+    <div>
+      <strong>Print Ready (Strict 2-Page Layout):</strong> Designed for 2 physical A4 sheets. No item is cut in half.
+      <br>Ensure <strong>"Background graphics"</strong> is checked and Margins are set to <strong>"Default"</strong> or <strong>"Minimum"</strong>.
+    </div>
+    <button class="print-btn" onclick="window.print()">Print 2-Page Schedule (Ctrl + P)</button>
+  </div>
+
+  <!-- ==================== PAGE 1 ==================== -->
+  <div class="page-sheet page-1">
+    
+    <div class="header-card">
+      <h1>UPSC CSE DAILY COMMAND & STUDY SCHEDULE</h1>
+      <p>Target: Next Exam Cycle &bull; Optional: Philosophy &bull; 9-Hour Daily Rhythm</p>
+    </div>
+
+    <div class="sec-title">
+      <span>1. Macro Roadmap & Strategy</span>
+      <span style="font-size: 10px; font-weight: normal; color: #64748b;">Target: Jan 31 Freeze</span>
+    </div>
+    <div class="phase-bar no-break">
+      <div class="phase-box phase-1">
+        <span class="badge badge-blue">Phase 1 &bull; Oct 21 – Jan 31 (~100 Days)</span>
+        <h4 style="color: #1e40af;">Mains & Optional Freeze</h4>
+        <ul>
+          <li><strong>Philosophy:</strong> Complete Vedānta, Aurobindo, Paper 1B, & Paper 2.</li>
+          <li><strong>GS Static:</strong> Close Polity (Parliament/Judiciary) & Economy core.</li>
+          <li><strong>Mandatory:</strong> 1 timed Mains PYQ daily (10:00–10:30 AM).</li>
+          <li><strong>Target:</strong> Freeze Optional notes on Jan 31 (Zero new theory post-Jan).</li>
+        </ul>
+      </div>
+      <div class="phase-box phase-2">
+        <span class="badge badge-green">Phase 2 &bull; Feb 1 – May 2027 (~115 Days)</span>
+        <h4 style="color: #065f46;">Prelims Hyper-Focus</h4>
+        <ul>
+          <li><strong>Time Allocation:</strong> 80% daily time on GS Prelims static & MCQs.</li>
+          <li><strong>Drill Cycles:</strong> 3-Pass <code>final-mcq/</code> testing + active error logging.</li>
+          <li><strong>CSAT Baseline:</strong> 2 timed diagnostic test blocks every week.</li>
+          <li><strong>Optional Retention:</strong> 1 hour daily rapid-recall flash review.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="sec-title">
+      <span>2. Daily 4-Block Routine (9 Hours High-Yield Study)</span>
+    </div>
+    <div class="block-grid no-break">
+      <div class="block-card block-1">
+        <span class="badge badge-blue">Block 1 &bull; 07:00 – 10:30 (3.5 Hrs)</span>
+        <h4 style="color: #1e3a8a;">Philosophy Optional (Peak Clarity)</h4>
+        <p>Master philosophical doctrines, arguments, criticisms & comparisons.</p>
+        <div class="sub-box" style="border-color: #bfdbfe; color: #1e40af;">
+          <strong>10:00 – 10:30 AM:</strong> 1 timed PYQ answer (English-first + Sanskrit/Pali glosses).
+        </div>
+      </div>
+
+      <div class="block-card block-2">
+        <span class="badge badge-green">Block 2 &bull; 11:30 – 14:00 (2.5 Hrs)</span>
+        <h4 style="color: #065f46;">Core GS Static (Syllabus Advance)</h4>
+        <p>Polity, Economy & Environment modules per progress tracker.</p>
+        <div class="sub-box" style="border-color: #a7f3d0; color: #065f46;">
+          <strong>Backward Engineering:</strong> Check 2013–25 PYQs in <code>solved_pyqs/</code> first.
+        </div>
+      </div>
+
+      <div class="block-card block-3">
+        <span class="badge badge-amber">Block 3 &bull; 15:30 – 17:30 (2.0 Hrs)</span>
+        <h4 style="color: #92400e;">Current Affairs & Magazines</h4>
+        <p>High-yield extraction: data points, schemes, committee names & issues.</p>
+        <div class="sub-box" style="border-color: #fde68a; color: #92400e;">
+          <strong>Mon–Fri:</strong> The Hindu + InsightsIAS. <strong>Sat:</strong> <em>Yojana/Kuru/DTE</em> slot.
+        </div>
+      </div>
+
+      <div class="block-card block-4">
+        <span class="badge badge-rose">Block 4 &bull; 18:30 – 20:30 (2.0 Hrs)</span>
+        <h4 style="color: #9f1239;">Active Retrieval, MCQs & CSAT</h4>
+        <p>Strictly testing & application. <strong>Zero new reading permitted.</strong></p>
+        <div class="sub-box" style="border-color: #fecdd3; color: #9f1239;">
+          <strong>Mon, Wed, Fri:</strong> <code>final-mcq/</code>. <strong>Tue, Thu:</strong> CSAT. <strong>Sat:</strong> Error audit.
+        </div>
+      </div>
+    </div>
+
+    <div style="background: #f1f5f9; border-left: 4px solid #64748b; padding: 5px 10px; border-radius: 4px; font-size: 10.5px; margin-bottom: 8px;">
+      <strong>Night Flash Review (21:30 – 22:00 &bull; 30 mins):</strong> Rapidly review today's quick-glance tree chart or register notes before sleep.
+    </div>
+
+    <div class="sec-title">
+      <span>3. Weekly Timetable Matrix</span>
+    </div>
+    <table class="timetable-table no-break">
+      <thead>
+        <tr>
+          <th style="width: 13%;">Day</th>
+          <th style="width: 29%;">Block 1: Philosophy (3.5h)</th>
+          <th style="width: 24%;">Block 2: GS Static (2.5h)</th>
+          <th style="width: 17%;">Block 3: CA / Mags (2h)</th>
+          <th style="width: 17%;">Block 4: Testing (2h)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Monday</strong></td>
+          <td>Paper 1: Vedānta (Śaṅkara/Rāmānuja) + 1 PYQ</td>
+          <td>Polity: Parliament & Legislation</td>
+          <td>The Hindu + Insights</td>
+          <td><code>final-mcq/</code> (Polity)</td>
+        </tr>
+        <tr>
+          <td><strong>Tuesday</strong></td>
+          <td>Paper 1: Western (Descartes/Spinoza) + 1 PYQ</td>
+          <td>Polity: Judiciary & Judicial Review</td>
+          <td>The Hindu + Insights</td>
+          <td>CSAT: Quant & Logic</td>
+        </tr>
+        <tr>
+          <td><strong>Wednesday</strong></td>
+          <td>Paper 1: Western (Locke/Berkeley/Hume) + 1 PYQ</td>
+          <td>Economy: External Sector & BoP</td>
+          <td>The Hindu + Insights</td>
+          <td><code>final-mcq/</code> (Economy)</td>
+        </tr>
+        <tr>
+          <td><strong>Thursday</strong></td>
+          <td>Paper 1: Western (Kant & Hegel) + 1 PYQ</td>
+          <td>Economy: Infrastructure & Industry</td>
+          <td>The Hindu + Insights</td>
+          <td>CSAT: Reading Comp</td>
+        </tr>
+        <tr>
+          <td><strong>Friday</strong></td>
+          <td>Paper 1: Analytic / Existentialism + 1 PYQ</td>
+          <td>Environment: Treaties & Acts</td>
+          <td>The Hindu + Insights</td>
+          <td><code>final-mcq/</code> (CA)</td>
+        </tr>
+        <tr>
+          <td><strong>Saturday</strong></td>
+          <td><strong>2 × Full Mains Optional PYQs</strong> (Timed)</td>
+          <td>Weekly GS Revision & Consolidation</td>
+          <td><strong>Yojana / Kuru / DTE</strong></td>
+          <td>Error Log Drill</td>
+        </tr>
+        <tr>
+          <td><strong>Sunday</strong></td>
+          <td colspan="4" style="background: #faf5ff; text-align: center; font-weight: 700; color: #6b21a8; padding: 6px;">
+            SUNDAY TEST: Morning Full Sectional Mock &bull; Error Post-Mortem &bull; Next Week Targets
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="page-footer">Page 1 of 2 &bull; Daily & Weekly Operating Cockpit</div>
+  </div>
+
+
+  <!-- ==================== PAGE 2 ==================== -->
+  <div class="page-sheet page-2">
+
+    <div class="header-card" style="background: linear-gradient(135deg, #312e81 0%, #4f46e5 100%);">
+      <h1>UPSC STRATEGY, RESOURCES & COMMAND RULES</h1>
+      <p>Magazine Siphoning &bull; Optional Milestones &bull; Zero-Token Protocol &bull; Non-Negotiables</p>
+    </div>
+
+    <div class="sec-title">
+      <span>4. Magazine Siphoning Protocol (Saturday 15:30 – 17:30 Slot)</span>
+      <span style="font-size: 10px; font-weight: normal; color: #64748b;">Never read cover-to-cover &bull; Extract fodder only</span>
+    </div>
+    <div class="magazine-grid no-break">
+      <div class="mag-card mag-yojana">
+        <span class="badge badge-blue">Yojana &bull; Monthly (GS-2 / GS-3)</span>
+        <h4 style="color: #1e40af;">Macro Governance & Welfare</h4>
+        <ul>
+          <li>Read <strong>Lead Editorial</strong> for official stance.</li>
+          <li>Pick 3 syllabus-linked articles only.</li>
+          <li>Extract <strong>3 Case Studies / Best Practices</strong>.</li>
+          <li>Note 2 policy reform recommendations.</li>
+        </ul>
+      </div>
+
+      <div class="mag-card mag-kuru">
+        <span class="badge badge-green">Kurukshetra &bull; Monthly (GS-3 / GS-2)</span>
+        <h4 style="color: #065f46;">Agri & Rural Development</h4>
+        <ul>
+          <li>Focus on irrigation, FPOs, SHGs, credit.</li>
+          <li>Extract scheme data (PM-KUSUM, e-NAM).</li>
+          <li>Collect 2 grassroots governance examples.</li>
+          <li>Skip generic problem rhetoric.</li>
+        </ul>
+      </div>
+
+      <div class="mag-card mag-dte">
+        <span class="badge badge-amber">Down to Earth &bull; Fortnightly (GS-3)</span>
+        <h4 style="color: #92400e;">Ecology, Climate & Science</h4>
+        <ul>
+          <li>Read only <strong>Special Investigation</strong> story.</li>
+          <li>Inspect the <strong>Infographic Data Center</strong>.</li>
+          <li>Extract biodiversity & pollution metrics.</li>
+          <li>Unique evidence standard booklets miss.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="sec-title">
+      <span>5. Philosophy Optional Milestone Tracker (Freeze on Jan 31)</span>
+    </div>
+    <table class="timetable-table no-break" style="margin-bottom: 10px;">
+      <thead>
+        <tr>
+          <th style="width: 20%;">Target Window</th>
+          <th style="width: 30%;">Syllabus Module</th>
+          <th style="width: 50%;">High-Yield Examinable Core</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="badge badge-blue">Oct 21 – Nov 05</span></td>
+          <td><strong>Indian Philosophy Finale</strong></td>
+          <td>Vedānta (Śaṅkara Advaita, Rāmānuja Viśiṣṭādvaita, Madhva) & Śrī Aurobindo (Evolution)</td>
+        </tr>
+        <tr>
+          <td><span class="badge badge-blue">Nov 06 – Dec 10</span></td>
+          <td><strong>Western Philosophy (1B)</strong></td>
+          <td>Rationalists, Empiricists, Kant (synthetic a priori), Hegel, Positivism, Wittgenstein, Existentialism</td>
+        </tr>
+        <tr>
+          <td><span class="badge badge-purple">Dec 11 – Jan 05</span></td>
+          <td><strong>Socio-Political (2A)</strong></td>
+          <td>Sovereignty, Justice (Rawls), Equality, Liberty, Democracy, Humanism, Gender, Sarvodaya</td>
+        </tr>
+        <tr>
+          <td><span class="badge badge-purple">Jan 06 – Jan 31</span></td>
+          <td><strong>Philosophy of Religion (2B)</strong></td>
+          <td>Notions of God, Proofs of God, Problem of Evil, Soul/Immortality, Religious Experience, Pluralism</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="sec-title">
+      <span>6. Free-Tier Zero-Waste Execution Protocol</span>
+    </div>
+    <table class="matrix-table no-break">
+      <thead>
+        <tr>
+          <th style="width: 24%;">Component</th>
+          <th style="width: 18%;">Execution Mode</th>
+          <th style="width: 14%;">AI Cost</th>
+          <th style="width: 44%;">Operational Rule</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>MCQs & Drills</strong></td>
+          <td>Offline / Local</td>
+          <td><strong>0 Tokens</strong></td>
+          <td>Run <code>final-mcq/</code> locally in Markdown. Self-check against <code>ANSWERS.md</code>.</td>
+        </tr>
+        <tr>
+          <td><strong>Reading & Revision</strong></td>
+          <td>Offline / Local</td>
+          <td><strong>0 Tokens</strong></td>
+          <td>Study existing files in <code>upsc-ai-kit/knowledge/</code> & <code>live_sessions/</code>.</td>
+        </tr>
+        <tr>
+          <td><strong>Solved PYQs</strong></td>
+          <td>Offline / Self-write</td>
+          <td><strong>0 Tokens</strong></td>
+          <td>Write answers independently using <code>solved_pyqs/</code> before reviewing solutions.</td>
+        </tr>
+        <tr>
+          <td><strong>Mains Evaluation</strong></td>
+          <td>Targeted AI Prompt</td>
+          <td>Selective</td>
+          <td>Grade written answers against standard: <em>Claim &rarr; Evidence &rarr; Analysis &rarr; Qualification</em>.</td>
+        </tr>
+        <tr>
+          <td><strong>Quota Exhaustion</strong></td>
+          <td>Web Fallback</td>
+          <td><strong>0 API Tokens</strong></td>
+          <td>Copy Markdown prompt into free web chat (Gemini / Claude / ChatGPT / DeepSeek).</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="sec-title">
+      <span>7. The Five Non-Negotiable Command Rules</span>
+    </div>
+    <div class="rule-pill no-break">
+      <strong>1. The 10:00 AM Mains Answer Rule:</strong> Never postpone answer writing until "syllabus is complete". Write 1 answer daily between 10:00 and 10:30 AM following examiner structure: <em>Claim &rarr; Named Evidence/Doctrinal Grounding &rarr; Analysis &rarr; Qualified Conclusion</em>.
+    </div>
+    <div class="rule-pill no-break">
+      <strong>2. English-First Terminology:</strong> Philosophy requires the English concept first, followed immediately by the bracketed Sanskrit/Pali gloss: e.g., <em>dependent origination (pratītyasamutpāda)</em>.
+    </div>
+    <div class="rule-pill no-break">
+      <strong>3. Backward Engineering via PYQs:</strong> Before starting a new topic, inspect its 2013–2025 questions in <code>solved_pyqs/</code>. Let examiner prompts define your depth boundary.
+    </div>
+    <div class="rule-pill no-break">
+      <strong>4. Zero AI Waste on MCQ Drills:</strong> Solve questions in <code>final-mcq/</code> locally on paper or markdown. Save AI tokens exclusively for answer evaluations and conceptual synthesis.
+    </div>
+    <div class="rule-pill no-break">
+      <strong>5. Evening Retrieval Lock:</strong> No new theoretical reading after 18:30. Evenings are strictly reserved for testing, CSAT, and retrieval to prevent passive mental fatigue.
+    </div>
+
+    <div class="page-footer">Page 2 of 2 &bull; Strategy, Resources & Command Rules</div>
+  </div>
+
+</body>
+</html>

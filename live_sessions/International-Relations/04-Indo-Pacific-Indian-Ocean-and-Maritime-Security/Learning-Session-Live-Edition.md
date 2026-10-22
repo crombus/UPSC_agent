@@ -99,6 +99,11 @@ China appears here as an external maritime actor, not as a substitute for the co
 
 
 ## Lesson 2 - Sea lanes and chokepoints: the economic bloodstream
+<a id="2013-gs-ii-q19-learning"></a>
+**2013 solved PYQ:** [Q19](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q19)
+> [!NOTE] China's 'String of Pearls' and India's Maritime Strategy
+> - **The 'String of Pearls':** Network of Chinese-funded commercial port access points across the northern Indian Ocean—Gwadar (Pakistan), Hambantota (Sri Lanka), Chittagong (Bangladesh), Kyaukpyu (Myanmar)—carrying potential dual-use naval logistics implications.
+> - **India's Countermeasures:** Upgrading the Andaman and Nicobar Command (ANC), developing reciprocal access at Chabahar (Iran) and Sabang (Indonesia), deploying coastal radar surveillance networks with island neighbours, and executing naval logistics pacts under SAGAR.
 
 Progress: 2 / 28 | Stage: Foundation | Subtopic: SLOCs, Malacca, Hormuz, Bab-el-Mandeb, Cape routes and disruption transmission
 

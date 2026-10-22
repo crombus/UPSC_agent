@@ -424,6 +424,8 @@ An industrial region is a connected manufacturing landscape of cities, plants, s
 ---
 
 ## Lesson 7: Sector geographies—steel, textiles, petrochemicals and automobiles
+<a id="2013-gs-i-q23b-learning"></a>
+**2013 solved PYQ:** [Q23(b)](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q23b)
 
 Progress: 7 / 14 | Stage: Core | Skill: explain sector-specific shifts
 
@@ -558,6 +560,8 @@ Resource → processing node → suppliers → skills → local demand is the de
 ---
 
 ## Lesson 9: Agro-processing and IT-city geography
+<a id="2013-gs-i-q23a-learning"></a>
+**2013 solved PYQ:** [Q23(a)](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q23a)
 
 Progress: 9 / 14 | Stage: Core | Skill: answer two independent localisation questions
 

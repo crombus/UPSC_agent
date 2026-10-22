@@ -1276,6 +1276,8 @@ The same diversity created tension. Poor tenants, proprietors and merchants bore
 ---
 
 ## Lesson 9 - Women, workers, students, business and the uneven social coalition
+<a id="2013-gs-i-q03-learning"></a>
+**2013 solved PYQ:** [Q3](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q03)
 
 Progress: 9/14 | Stage: Core | Subtopic: Motive, form, extent and limitation across social groups
 

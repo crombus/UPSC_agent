@@ -650,9 +650,12 @@ Under United Nations Security Council pressure, the ceasefire took effect on **2
 
 Avoid dubious casualty numbers and tactical overload. A war can defeat an adversary's immediate design without resolving the underlying dispute.
 
+<a id="jai-jawan-jai-kisan-2013"></a>
 ### Secular and political dimensions
 
 The failure of infiltration to generate mass uprising mattered politically. The country broadly rallied behind the government, and the conflict did not produce the communal breakdown Pakistan's assumptions may have anticipated. Shastri's public stature rose sharply. The slogan **Jai Jawan Jai Kisan** captured the connection between defence and food resilience; the official biography supports the association, but no unverified precise coinage date is required.
+
+**Solved PYQ:** [2013 Mains GS-I Q7](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q07).
 
 ### Challenge, reply and remaining doubt
 
@@ -752,6 +755,8 @@ Assess the outcome at limited strategic scope. The fighting was inconclusive, an
 **Causal handoff to Lesson 5:** Because battlefield denial did not itself terminate conflict, Lesson 5 follows the causal move from escalation to negotiated withdrawal at Tashkent.
 
 ## Lesson 5 - Tashkent, Shastri's death and succession resilience
+<a id="2013-gs-i-q09-learning"></a>
+**2013 solved PYQ:** [Q9](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q09)
 
 Progress: 5/15 | Stage: Core | Subtopic: declaration principles, withdrawal, chronology control and the second succession
 
@@ -2120,6 +2125,8 @@ The same process personalised authority. Legitimacy became identified with Indir
 **Causal handoff to Lesson 13:** Because the 1971 mandate concentrated responsibility for national action, Lesson 13 examines the external crisis in which Bengali agency, refugees and Indian strategy converged.
 
 ## Lesson 13 - Bangladesh: political crisis, diplomacy and liberation
+<a id="2013-gs-i-q10-learning"></a>
+**2013 solved PYQ:** [Q10](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q10)
 
 Progress: 13/15 | Stage: Advanced | Subtopic: Bengali agency, refugees, international environment, treaty and the December war
 

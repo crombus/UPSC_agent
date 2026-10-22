@@ -12,6 +12,7 @@
 <a id="2013-mains-gs2-q01"></a>
 ## Q1. The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law which was legislated but with a different intention ?
 **Primary route:** Polity → [Anti-defection Law](../../topics/polity/anti-defection-law.md) → Legislative deliberation and party discipline · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Executive accountability, anti-defection and law-making quality](../../../live_sessions/Polity/17-Parliament/Learning-Session-Live-Edition.md#2013-gs-ii-q01-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q1 · 10 marks · 200 words · Difficulty: High · Directive: Assess extent  
 **Primary classification:** Polity → Parliament → Anti-defection law  
@@ -40,6 +41,7 @@ Yet the law is not the sole cause. Centralised candidate selection, weak committ
 <a id="2013-mains-gs2-q02"></a>
 ## Q2. Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution.
 **Primary route:** Polity → [Fundamental Rights](../../topics/polity/fundamental-rights.md) → Online speech and reasonable restrictions · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Article 19: six freedoms and six restriction structures](../../../live_sessions/Polity/07-Fundamental-Rights/Learning-Session-Live-Edition.md#2013-gs-ii-q02-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q2 · 10 marks · 200 words · Difficulty: High · Directive: Discuss  
 **Primary classification:** Polity → Fundamental Rights → Freedom of speech  
@@ -75,6 +77,7 @@ By 2013, arrests over social-media posts had exposed misuse, prompting an execut
 <a id="2013-mains-gs2-q03"></a>
 ## Q3. Recent directives from Ministry of Petroleum and Natural Gas are perceived by the ‘Nagas’ as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution.
 **Primary route:** Polity → [Special Provisions and North-East Governance](../../topics/polity/special-provisions-and-north-east-governance.md) → Article 371A and natural resources · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Article 371A-Nagaland: Consent Shield, Land, Custom, Governor and Tuensang Provisions](../../../live_sessions/Polity/22-Special-Provisions/Learning-Session-Live-Edition.md#2013-gs-ii-q03-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q3 · 10 marks · 200 words · Difficulty: High · Directive: Discuss  
 **Primary classification:** Polity → Asymmetric federalism → Nagaland  
@@ -105,6 +108,7 @@ A judicially untested maximalism by either side would deepen distrust. Parliamen
 <a id="2013-mains-gs2-q04"></a>
 ## Q4. ‘The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution.’ Discuss critically.
 **Primary route:** Polity → [Supreme Court](../../topics/polity/supreme-court.md) → Judicial review of constitutional amendments · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [The illustrative, case-attributed basic structure](../../../live_sessions/Polity/10-Amendment-and-Basic-Structure/Learning-Session-Live-Edition.md#2013-gs-ii-q04-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q4 · 10 marks · 200 words · Difficulty: High · Directive: Discuss critically  
 **Primary classification:** Polity → Constitutional amendment → Basic structure review  
@@ -139,6 +143,7 @@ Critically, “basic structure” is not exhaustively defined, allowing judges s
 <a id="2013-mains-gs2-q05"></a>
 ## Q5. Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level ? Discuss.
 **Primary route:** Polity → [Federal System](../../topics/polity/federal-system.md) → State reorganisation and governance · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Article 2 versus Article 3: Admission versus Reorganisation](../../../live_sessions/Polity/05-Union-and-Territory/Learning-Session-Live-Edition.md#2013-gs-ii-q05-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q5 · 10 marks · 200 words · Difficulty: Moderate · Directive: Discuss  
 **Primary classification:** Polity → Federalism → Creation of smaller States  
@@ -175,6 +180,7 @@ Article **3** permits Parliament to reorganise States after seeking the affected
 <a id="2013-mains-gs2-q06"></a>
 ## Q6. Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both ? Discuss.
 **Primary route:** Polity → [Centre–State Relations](../../topics/polity/centre-state-relations.md) → Inter-State river-water disputes · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Inter-State River-Water Disputes](../../../live_sessions/Polity/13-Centre-State-and-Inter-State-Relations/Learning-Session-Live-Edition.md#2013-gs-ii-q06-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q6 · 10 marks · 200 words · Difficulty: High · Directive: Diagnose; Discuss  
 **Primary classification:** Polity → Centre–State relations → Water disputes  
@@ -207,6 +213,7 @@ Reform requires a standing tribunal with specialist benches, statutory timelines
 <a id="2013-mains-gs2-q07"></a>
 ## Q7. Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances.
 **Primary route:** Polity → [Finance Commission](../../topics/polity/finance-commission.md) → Local-body grants · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Grants Architecture and Local Government Finances](../../../live_sessions/Polity/29-Finance-Commission/Learning-Session-Live-Edition.md#2013-gs-ii-q07-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q7 · 10 marks · 200 words · Difficulty: High · Directive: Discuss  
 **Primary classification:** Polity → Finance Commission → Local-government finance  
@@ -243,6 +250,7 @@ Earlier commissions largely recommended fixed amounts; the Thirteenth linked sup
 <a id="2013-mains-gs2-q08"></a>
 ## Q8. The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify.
 **Primary route:** Governance → [Regulatory Governance and Independent Regulators](../../topics/governance/regulatory-governance-and-independent-regulators.md) → Financial-sector regulatory convergence · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Independence is functional, not sovereign: Sectoral Regulators](../../../live_sessions/Governance/11-Regulatory-Governance-and-Independent-Regulators/Learning-Session-Live-Edition.md#2013-gs-ii-q08-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q8 · 10 marks · 200 words · Difficulty: High · Directive: Justify  
 **Primary classification:** Governance → Regulators → SEBI and IRDA  
@@ -278,6 +286,7 @@ The case is therefore strong for converged conduct regulation. Yet complete inst
 <a id="2013-mains-gs2-q09"></a>
 ## Q9. The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success.
 **Primary route:** Social Justice → [Food and Nutrition Security](../../topics/social-justice/food-and-nutrition-security.md) → School meals and nutrition · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Two paths to better nutrition: Mid-Day Meal and Food Security](../../../live_sessions/Social-Justice/02-Poverty-Hunger-Food-and-Nutrition-Security/Learning-Session-Live-Edition.md#2013-gs-ii-q09-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q9 · 10 marks · 200 words · Difficulty: High · Directive: Critically examine  
 **Primary classification:** Social Justice → Nutrition and education → Mid-Day Meal  
@@ -308,6 +317,7 @@ However, irregular supplies, inadequate kitchens, low cook-cum-helper remunerati
 <a id="2013-mains-gs2-q10"></a>
 ## Q10. Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India.
 **Primary route:** Polity → [Pressure Groups](../../topics/polity/pressure-groups.md) → Structure and functioning · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [The informal face of politics: Pressure Groups in India](../../../live_sessions/Polity/44-Pressure-Groups/Learning-Session-Live-Edition.md#2013-gs-ii-q10-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q10 · 10 marks · 200 words · Difficulty: Moderate · Directive: Assess  
 **Primary classification:** Governance → Civil society → Pressure groups  
@@ -347,6 +357,7 @@ Yet access is unequal. Organised capital, public employees and dominant social g
 <a id="2013-mains-gs2-q11"></a>
 ## Q11. The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss.
 **Primary route:** Governance → [NGOs, SHGs and Civil Society Stakeholders](../../topics/governance/ngos-shgs-and-civil-society-stakeholders.md) → SHG and microfinance accountability · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Self-Help Groups: collective agency, social capital and livelihood linkages](../../../live_sessions/Governance/04-NGOs-SHGs-and-Civil-Society-Stakeholders/Learning-Session-Live-Edition.md#2013-gs-ii-q11-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q11 · 10 marks · 200 words · Difficulty: High · Directive: Discuss  
 **Primary classification:** Governance → SHGs → Accountability  
@@ -384,6 +395,7 @@ Sustainable accountability should combine audited but simple accounts, public di
 <a id="2013-mains-gs2-q12"></a>
 ## Q12. The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate.
 **Primary route:** Governance → [Government Policy Design and Implementation](../../topics/governance/government-policy-design-and-implementation.md) → Centrally sponsored schemes and State flexibility · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Multi-level governance: convergence across Centre, State and local tiers](../../../live_sessions/Governance/02-Government-Policy-Design-and-Implementation/Learning-Session-Live-Edition.md#2013-gs-ii-q12-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q12 · 10 marks · 200 words · Difficulty: High · Directive: Critically evaluate  
 **Primary classification:** Governance → Policy implementation → Centrally sponsored schemes  
@@ -420,6 +432,7 @@ A sound design should guarantee a rights-based core, use transparent need-based 
 <a id="2013-mains-gs2-q13"></a>
 ## Q13. Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment.
 **Primary route:** Governance → [Digital Public Infrastructure and Data Governance](../../topics/governance/digital-public-infrastructure-and-data-governance.md) → Direct benefit transfer · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [What can JAM and DBT transfer, and what can they not decide?](../../../live_sessions/Governance/13-Public-Finance-and-Service-Delivery-Tools/Learning-Session-Live-Edition.md#2013-gs-ii-q13-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q13 · 10 marks · 200 words · Difficulty: Moderate · Directive: Comment  
 **Primary classification:** Governance → E-governance → Electronic cash transfers  
@@ -457,6 +470,7 @@ DBT should therefore be phased after account access, verified beneficiary lists 
 <a id="2013-mains-gs2-q14"></a>
 ## Q14. The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment.
 **Primary route:** Governance → [Infrastructure, PPPs and Public Investment](../../topics/economy/infrastructure-ppps-logistics-and-public-investment.md) → PURA and rural connectivity · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Rural-Urban Planning and Connectivity: PURA to Rurban Framework](../../../live_sessions/Governance/12-Local-Governance-and-Service-Delivery/Learning-Session-Live-Edition.md#2013-gs-ii-q14-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q14 · 10 marks · 200 words · Difficulty: Moderate · Directive: Comment  
 **Primary classification:** Governance → Rural development → PURA  
@@ -490,6 +504,7 @@ Risks include commercially attractive projects crowding out poor or remote settl
 <a id="2013-mains-gs2-q15"></a>
 ## Q15. Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same.
 **Primary route:** Social Justice → [Health Systems and Public Health](../../topics/social-justice/health-systems-public-health-and-universal-health-coverage.md) → Health MDGs · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Treat risk across the life course, not just at admission: Health MDGs](../../../live_sessions/Social-Justice/03-Health-Systems-Public-Health-and-Universal-Health-Coverage/Learning-Session-Live-Edition.md#2013-gs-ii-q15-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q15 · 10 marks · 200 words · Difficulty: Moderate · Directive: Identify; Discuss  
 **Primary classification:** Social Justice → Health → Millennium Development Goals  
@@ -518,6 +533,7 @@ By 2013, infant, under-five and maternal mortality had declined; institutional d
 <a id="2013-mains-gs2-q16"></a>
 ## Q16. Though Citizens’ charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens’ satisfaction and quality of services being provided. Analyse.
 **Primary route:** Governance → [Good Governance Concepts and Frameworks](../../topics/governance/good-governance-concepts-and-frameworks.md) → Citizens' Charters and service standards · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Citizens’ Charters: from statement of intent to enforceable service standards](../../../live_sessions/Governance/07-Citizen-Centric-Administration/Learning-Session-Live-Edition.md#2013-gs-ii-q16-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q16 · 10 marks · 200 words · Difficulty: Moderate · Directive: Analyse  
 **Primary classification:** Governance → Citizen-centric administration → Citizens' Charters  
@@ -557,6 +573,7 @@ Improvement requires consultation-based standards, named responsibility, electro
 <a id="2013-mains-gs2-q17"></a>
 ## Q17. ‘A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs.’ Discuss.
 **Primary route:** Polity → [Lokpal and Lokayuktas](../../topics/polity/lokpal-and-lokayuktas.md) → Anti-corruption architecture · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Ombudsman Idea to the 2013 Act: Limits of Lokpal](../../../live_sessions/Polity/38-Lokpal-and-Lokayuktas/Learning-Session-Live-Edition.md#2013-gs-ii-q17-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q17 · 10 marks · 200 words · Difficulty: High · Directive: Discuss  
 **Primary classification:** Polity → Accountability institutions → Lokpal  
@@ -594,6 +611,7 @@ The answer must therefore include transparent political funding, enforceable cod
 <a id="2013-mains-gs2-q18"></a>
 ## Q18. The proposed withdrawal of International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests.
 **Primary route:** International Relations → [India and the Neighbourhood](../../topics/international-relations/india-and-the-neighbourhood.md) → Afghanistan transition · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Afghanistan: near-neighbour engagement without overclaiming recognition](../../../live_sessions/International-Relations/02-India-and-the-Neighbourhood/Learning-Session-Live-Edition.md#2013-gs-ii-q18-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q18 · 10 marks · 200 words · Difficulty: High · Directive: Examine  
 **Primary classification:** International Relations → Afghanistan → ISAF withdrawal  
@@ -631,6 +649,7 @@ India should therefore:
 <a id="2013-mains-gs2-q19"></a>
 ## Q19. What do you understand by ‘The String of Pearls’ ? How does it impact India ? Briefly outline the steps taken by India to counter this.
 **Primary route:** International Relations → [Indo-Pacific and Indian Ocean](../../topics/international-relations/indo-pacific-and-indian-ocean.md) → String of Pearls · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Sea lanes and chokepoints: String of Pearls and Maritime Security](../../../live_sessions/International-Relations/04-Indo-Pacific-Indian-Ocean-and-Maritime-Security/Learning-Session-Live-Edition.md#2013-gs-ii-q19-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q19 · 10 marks · 200 words · Difficulty: Moderate · Directive: Explain; Assess; Outline  
 **Primary classification:** International Relations → Indian Ocean → Chinese maritime presence  
@@ -667,6 +686,7 @@ India's response included strengthening the tri-service **Andaman and Nicobar Co
 <a id="2013-mains-gs2-q20"></a>
 ## Q20. Economic ties between India and Japan while growing in the recent years are still far below their potential. Elucidate the policy constraints which are inhibiting this growth.
 **Primary route:** International Relations → [India, China and Major Powers](../../topics/international-relations/india-china-major-powers-and-resilient-supply-chains.md) → India–Japan economic relations · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Japan: strategic partnership through infrastructure and resilience](../../../live_sessions/International-Relations/03-India-China-Major-Powers-and-Resilient-Supply-Chains/Learning-Session-Live-Edition.md#2013-gs-ii-q20-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q20 · 10 marks · 200 words · Difficulty: Moderate · Directive: Elucidate  
 **Primary classification:** International Relations → India–Japan → Economic relations  
@@ -706,6 +726,7 @@ India's trade deficit also created political sensitivity, while Japanese firms r
 <a id="2013-mains-gs2-q21"></a>
 ## Q21. The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India ?
 **Primary route:** International Relations → [India and the Neighbourhood](../../topics/international-relations/india-and-the-neighbourhood.md) → Bangladesh politics and India · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Bangladesh: connectivity, commerce, rivers and political sensitivity](../../../live_sessions/International-Relations/02-India-and-the-Neighbourhood/Learning-Session-Live-Edition.md#2013-gs-ii-q21-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q21 · 10 marks · 200 words · Difficulty: High · Directive: Assess significance  
 **Primary classification:** International Relations → Bangladesh → Shahbag protests  
@@ -741,6 +762,7 @@ India shared the historical importance of 1971, but the tribunal's fairness and 
 <a id="2013-mains-gs2-q22"></a>
 ## Q22. Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India ?
 **Primary route:** International Relations → [India and the Neighbourhood](../../topics/international-relations/india-and-the-neighbourhood.md) → Maldives political transition · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Maldives: proximity, first response and political cycles](../../../live_sessions/International-Relations/02-India-and-the-Neighbourhood/Learning-Session-Live-Edition.md#2013-gs-ii-q22-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q22 · 10 marks · 200 words · Difficulty: High · Directive: Discuss; Assess  
 **Primary classification:** International Relations → Maldives → Democratic transition  
@@ -777,6 +799,7 @@ However, overt intervention could revive fears of Indian dominance. New Delhi ne
 <a id="2013-mains-gs2-q23"></a>
 ## Q23. In respect of India – Sri Lanka relations, discuss how domestic factors influence foreign policy.
 **Primary route:** International Relations → [India and the Neighbourhood](../../topics/international-relations/india-and-the-neighbourhood.md) → India–Sri Lanka relations · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Sri Lanka: first response, recovery and maritime sensitivity](../../../live_sessions/International-Relations/02-India-and-the-Neighbourhood/Learning-Session-Live-Edition.md#2013-gs-ii-q23-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q23 · 10 marks · 200 words · Difficulty: Moderate · Directive: Discuss  
 **Primary classification:** International Relations → Sri Lanka → Domestic determinants  
@@ -807,6 +830,7 @@ These pressures can push Colombo towards China and Pakistan for diplomatic and i
 <a id="2013-mains-gs2-q24"></a>
 ## Q24. What is meant by Gujral doctrine ? Does it have any relevance today ? Discuss.
 **Primary route:** International Relations → [India and the Neighbourhood](../../topics/international-relations/india-and-the-neighbourhood.md) → Gujral Doctrine · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Neighbourhood First and the Gujral Doctrine](../../../live_sessions/International-Relations/02-India-and-the-Neighbourhood/Learning-Session-Live-Edition.md#2013-gs-ii-q24-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q24 · 10 marks · 200 words · Difficulty: Moderate · Directive: Explain; Assess; Discuss  
 **Primary classification:** International Relations → Neighbourhood policy → Gujral Doctrine  
@@ -841,6 +865,7 @@ However, non-reciprocity cannot mean indifference to terrorism, illegal traffick
 <a id="2013-mains-gs2-q25"></a>
 ## Q25. The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world’s economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate.
 **Primary route:** International Relations → [UN and International Institutions](../../topics/international-relations/un-and-international-institutions-global-governance.md) → Bretton Woods institutions · **Backlink:** [Paper-wise index](../../catalogue/PAPERWISE-INDEX.md)
+**Learning session:** [Bretton Woods reform concerns voice as well as money](../../../live_sessions/International-Relations/12-UN-and-International-Institutions-Global-Governance/Learning-Session-Live-Edition.md#2013-gs-ii-q25-learning)
 
 **Metadata:** 2013 · Mains · GS-II · Official Q25 · 10 marks · 200 words · Difficulty: Moderate · Directive: Elucidate  
 **Primary classification:** International Relations → International economic institutions → IMF and World Bank  

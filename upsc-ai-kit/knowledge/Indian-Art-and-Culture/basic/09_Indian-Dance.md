@@ -100,6 +100,11 @@ of India), the direct spine for Sections 2-4.
 
 ## 7. Exact PYQ application
 
+<a id="2013-gs-i-q2a-tandava-early-inscriptional-evidence"></a>
+### 2013 GS-I Q2(a): Tandava and early inscriptional evidence
+
+Distinguish the Tandava aspect from named dance items. The checked learning record identifies no early inscription naming the aspect itself: inscriptions more securely attest patronage and performance, while iconography depicts dancing forms. See the [solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q02a).
+
 ⚠️ No GS-I Mains question in the audited 2024-2025 papers directly tests
 Indian dance. This topic's mudra/posture vocabulary directly supports a
 stronger answer to **2025 Q3** (Chandella sculpture, owned by topic 03) by

@@ -768,6 +768,8 @@ Their enduring contribution was conceptual: "private" harm became publicly accou
 **Rubric — 20 marks:** autonomous-turn definition 2; four movement mechanisms 7; political reframing 3; achievements 3; critiques 3; graded conclusion 2.
 
 ## Lesson 6 — An ecology of organisations and collective action
+<a id="2013-gs-i-q16-learning"></a>
+**2013 solved PYQ:** [Q16](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q16)
 
 Progress: 6 / 15 | Stage: Core | Subtopic: Associations, unions, movements, campaigns, SHGs and networks
 

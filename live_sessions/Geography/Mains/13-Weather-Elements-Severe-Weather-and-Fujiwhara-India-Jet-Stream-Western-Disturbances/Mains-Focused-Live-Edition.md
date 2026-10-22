@@ -1896,6 +1896,8 @@ source conflict **4** · why weather is tropospheric **4** · equator-pole thick
 ---
 
 ## Lesson 5 — When the atmosphere turns upside down: temperature inversion
+<a id="2013-gs-i-q20b-learning"></a>
+**2013 solved PYQ:** [Q20(b)](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q20b)
 
 ```text
 ━━━ PRE-TEACH CHECKLIST — LESSON 5 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -6596,6 +6598,14 @@ and eyewall **4** · basin exposure contrast **3** · frequency-versus-intensity
 | Storm surge as a coastal process and a CRZ question | `Geography/basic/10_Coastal-Landforms` and `Geography/advanced/10_India-Coast-and-CRZ` |
 
 ---
+
+<a id="2013-gs-i-q19b-cyclone-naming"></a>
+### Tropical-cyclone naming — the 2013 Phailin question
+
+Names make warnings easier to communicate and distinguish. WMO regional bodies use basin-specific
+lists proposed by national meteorological services; the naming convention varies by basin. For the
+North Indian Ocean, RSMC New Delhi assigns names sequentially from the WMO/ESCAP Panel list, so
+landfall location does not determine a storm's name. See the [WMO naming procedure](https://wmo.int/resources/wmo-fact-sheets/tropical-cyclone-naming) and the [2013 GS-I Q19(b) solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q19b).
 
 ## Lesson 16 — When two storms meet: the Fujiwhara effect
 

@@ -1721,6 +1721,8 @@ Its limitation is the cut-off's unequal treatment of earlier insertions, justifi
 **Bridge to Lesson 12:** Ninth-Schedule review depends on identifying a basic feature, so the next task is to learn the list without falsely freezing it.
 
 ## Lesson 12 - The illustrative, case-attributed basic structure
+<a id="2013-gs-ii-q04-learning"></a>
+**2013 solved PYQ:** [Q4](../../../solved_pyqs/papers/2013/mains-gs2.md#2013-mains-gs2-q04)
 
 Progress: 12/14 | Stage: Advanced | Subtopic: elements, judicial attribution and open-ended constitutional identity
 

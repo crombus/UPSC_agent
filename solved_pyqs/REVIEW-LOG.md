@@ -1,5 +1,96 @@
 # Solved PYQ Review Log
 
+## 2026-10-21 — 2013 Mains GS-II answer-philosophy alignment
+
+- **Pass type:** Complete paper-specific answer-philosophy review, targeted factual verification,
+  canonical learning-owner mapping and bidirectional-link validation.
+- **Scope and coverage:** Reviewed the verified 2013 GS-II source and all **25 compulsory questions**
+  in official order against nswer-writing-philosophy.md and both governing instruction files.
+  Verified strict adherence to the 2013 temporal boundary (e.g., Section 66A before *Shreya Singhal*,
+  the Lokpal Act 2013 status, ISAF 2014 withdrawal, DBT early rollout, and the 2010 Malegam MFI
+  framework).
+- **Defects and gaps corrected:** Identified and remediated 4 missing learning topics across canonical
+  basic owners and live sessions:
+  1. Q14: PURA (Providing Urban Amenities in Rural Areas) four-fold connectivity framework (physical,
+     electronic, knowledge, economic) and evolution to SPMRM (Rurban Mission).
+  2. Q15: Health-related Millennium Development Goals (MDGs 4, 5, 6) and India's transition to SDG 3.
+  3. Q19: China's 'String of Pearls' maritime construct and India's multi-layered countermeasures
+     (ANC, SAGAR, port access, coastal radar networks, naval logistics).
+  4. Q21: The Shahbag Square protests (February 2013) and ideological cleavages in Bangladesh
+     society and their strategic implications for India.
+- **Learning coverage:** Linked all 25 answer-parts to their relevant canonical basic owners in
+  upsc-ai-kit/knowledge/ and matching lessons in live_sessions/; inserted reciprocal
+  2013-gs-ii-q<num>-learning anchors and backlinks in all 25 live-session locations.
+- **Evidence and link checks:** Confirmed **25 stable answer anchors** and verified 100% resolution
+  of all 25 bidirectional question-to-lesson links.
+- **Files reviewed:** INSTRUCTIONS.md; ANSWER-PHILOSOPHY-ALIGNMENT-INSTRUCTIONS.md;
+  nswer-writing-philosophy.md; papers/2013/mains-gs2.md; canonical knowledge owners in Polity,
+  Governance, Social Justice, and International Relations; and matching live-session editions.
+- **Files changed:** papers/2013/mains-gs2.md; canonical owners:
+  upsc-ai-kit/knowledge/Governance/basic/02_Government-Policy-Design-and-Implementation.md,
+  upsc-ai-kit/knowledge/Social-Justice/basic/03_Health-Systems-Public-Health-and-Universal-Health-Coverage.md,
+  upsc-ai-kit/knowledge/International-Relations/basic/04_Indo-Pacific-Indian-Ocean-and-Maritime-Security.md,
+  upsc-ai-kit/knowledge/International-Relations/basic/02_India-and-the-Neighbourhood.md; and matching
+  live-learning session files across Polity, Governance, Social Justice, and International Relations.
+- **Remaining blockers:** None.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-19 — 2013 Mains GS-I answer-philosophy alignment
+
+- **Pass type:** Complete paper-specific answer-philosophy review, targeted factual correction,
+  learning-owner mapping and bidirectional-link validation.
+- **Scope and coverage:** Reviewed the verified 2013 GS-I source and all **25 numbered questions /
+  30 answer-parts** in official order, with the answer-writing guide and both governing instruction
+  files. Preserved every sound answer and did not enforce the printed word limits against the
+  learner's direction.
+- **Defects corrected:** Q2(a) now distinguishes the lack of an identified early inscription
+  naming Tandava itself from evidence for performance/patronage and sculptural depiction. Q7 now
+  says Shastri **popularised** “Jai Jawan Jai Kisan,” avoiding an unsupported exact coinage claim.
+- **Learning coverage:** Added only missing, question-linked learning for Q4's cross-period
+  foreign-born allies, Q8's Azad-era education and cultural institution-building, Q19(b)'s
+  cyclone-naming procedure, and Q25's shale resource/recoverability distinction. Linked all
+  answer-parts to their relevant live-session subtopics and added reciprocal links; linked the
+  newly added canonical learning where applicable.
+- **Evidence and link checks:** Checked the local identity-verified 2013 paper; used the WMO
+  tropical-cyclone naming fact sheet and the U.S. EIA 2013 shale assessment as supplements.
+  Confirmed **30 stable answer anchors and 30 answer headings/parts**. Local paper links and
+  detected source backlinks to exact question anchors resolved in the post-pass check.
+- **Q25 current-affairs judgment:** Contemporaneous 2013 news results reported shale exploration
+  plans involving ONGC and Oil India, but the accessible records did not establish the narrower
+  existing-acreages detail. Following the user's direction, removed that unnecessary period-specific
+  claim and answered the question through the resource/reserve distinction and development
+  constraints; no current-affairs claim is needed to meet its demand.
+- **Files reviewed:** `INSTRUCTIONS.md`; `ANSWER-PHILOSOPHY-ALIGNMENT-INSTRUCTIONS.md`;
+  `answer-writing-philosophy.md`; `papers/2013/mains-gs1.md`; and the directly relevant canonical
+  knowledge and live-learning subtopics linked from its 30 answer-parts.
+- **Files changed:** `papers/2013/mains-gs1.md`; targeted canonical Basic owners for Indian Dance,
+  Weather Elements, Mineral and Energy Resources, Non-Cooperation and Khilafat, Shastri-era
+  history, and Education and Human Resource Development; and their directly relevant live
+  subtopics for Sangam literature, Chola temples, Indian dance and painting, British expansion,
+  INC/Home Rule, Non-Cooperation, Civil Disobedience, Quit India, post-independence history,
+  World History, Indian Society, Social Justice, and Geography.
+- **Remaining blockers:** None. The unsupported licensing detail was not required by Q25's core
+  demand and has been removed rather than asserted.
+- **Reviewer conclusion:** **PASS**
+
+## 2026-10-19 — Mains answer-writing reference guide
+
+- **Pass type:** Research synthesis and editorial quality review.
+- **Scope:** New general guidance for GS I–IV, Philosophy Optional Papers I–II, Essay, and
+  qualifying language papers; one README navigation link.
+- **Files reviewed:** `INSTRUCTIONS.md`; the existing directive-word guide; repository-held 2025
+  GS-IV, Philosophy I and II, Essay, English and Hindi papers.
+- **Sources:** Online syllabus reproduction consulted; official UPSC syllabus and past-paper
+  endpoints were checked but returned HTTP 403 through the available retrieval. The guide states
+  this limit and does not present its study recommendations as an official marking formula.
+- **Defects found and corrected:** Added paper-specific structures, distinction between GS-IV and
+  Philosophy Optional use of philosophical material, directive decoding, source qualification and
+  current-notification caveat.
+- **Coverage impact:** No paper, question, topic route, catalogue metric or release status changed.
+- **Remaining blockers:** None for this standalone reference; direct UPSC pages should be checked
+  by the learner for current year-specific instructions.
+- **Reviewer conclusion:** **PASS**
+
 ## 2026-10-05 — Definitive 2013–2026 release audit
 
 - **Pass type:** Full release regeneration, source-hash verification, link/anchor audit,

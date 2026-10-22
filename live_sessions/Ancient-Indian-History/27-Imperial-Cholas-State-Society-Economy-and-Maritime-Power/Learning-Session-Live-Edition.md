@@ -1384,6 +1384,8 @@ D. Terminology, duties, status and institutional setting changed across periods
 ---
 
 ## Lesson 12 - Was a Chola Temple Only a Place of Worship?
+<a id="2013-gs-i-q02b-learning"></a>
+**2013 solved PYQ:** [Q2(b)](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q02b)
 Progress: 12 / 16  |  Stage: Core  |  Subtopic: Ritual, archive, land, labour and redistribution
 
 ### PRE-TEACH CHECKLIST

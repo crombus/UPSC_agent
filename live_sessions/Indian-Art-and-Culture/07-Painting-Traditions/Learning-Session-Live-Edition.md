@@ -2971,6 +2971,8 @@ CA found: No current linkage required
 ⚠️ **Why Nandalal Bose is the strongest single figure for an answer about art and the nation.** The Dandi March sketch is a political image; the illustration of the original Constitution document and the sketching of the Bharat Ratna and Padma emblems place an artist inside the **iconography of the state itself**. That is a claim about art's institutional role, not merely about its subject matter.
 
 ### 5. Sister Nivedita
+<a id="2013-gs-i-q04-learning"></a>
+**2013 solved PYQ:** [Q4](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q04)
 
 ✅ **Fact.** **The Irish-born educationist, author, social activist and thinker Margaret Elizabeth Noble (1867-1911), also known as Sister Nivedita**, was a **significant contributor to the field of women's education and empowerment**; she **promoted science and art**, but is **most remembered for awakening national consciousness among the people of India**. She **not only endorsed, encouraged and appreciated Indian art but also plunged herself into discovering and reconstructing Indianness in Indian art, thus making art an essential tool in awakening and invigorating the national consciousness of India.** She **believed that the rebirth of "Indianness" in art was essential for the reawakening of the motherland**, and **held prolonged discussions and active interactions with young students to desist from the existing practice of aping Western art and to strive to establish the idea of Indian art with its indigenous roots as the binding force.** **The young artists of the Bengal School of Art were also mentored by Sister Nivedita.**
 

@@ -704,6 +704,8 @@ An American problem is an American problem. How did it become everybody's?
 ---
 
 ## Lesson 5 - The Great Depression III: the policy instruments, grouped by what each was for
+<a id="2013-gs-i-q14-learning"></a>
+**2013 solved PYQ:** [Q14](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q14)
 
 Progress: 5/22 | Stage: Core | Subtopic: Roosevelt's three declared aims; the Brain Trust and the doctrinal break with laissez-faire; and the instruments grouped by function - financial stabilisation, agricultural and income support, coordinated production and public works, labour standards, social insurance, taxation and trade, fiscal expansion and institutional centralisation
 

@@ -330,6 +330,16 @@ STRUCTURE (vertical section)
   coast, worst where the shelf is shallow and the coast funnel-shaped), extreme rainfall and inland
   flooding, and wind. Surge and inland flooding, not wind alone, cause most fatalities.
 
+<a id="2013-gs-i-q19b-cyclone-naming"></a>
+#### Tropical-cyclone naming and Phailin
+
+Distinctive names support warning communication and prevent confusion. WMO regional bodies maintain
+basin-specific lists proposed by national meteorological services; naming rules vary by basin.
+North Indian Ocean names are assigned sequentially from the WMO/ESCAP Panel list by RSMC New Delhi,
+not by the country where a storm makes landfall. Destructive names may be retired. See the [WMO
+naming procedure](https://wmo.int/resources/wmo-fact-sheets/tropical-cyclone-naming) and the
+[2013 GS-I Q19(b) solved answer](../../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q19b).
+
 #### Why sea-surface temperature matters more than it appears
 
 | Link | Mechanism |

@@ -150,6 +150,8 @@ The same distinction prevents a policy error. Drought management concerns tempor
 ---
 
 ## Lesson 2 — Read the global desert belt as descending-air geography
+<a id="2013-gs-i-q21-learning"></a>
+**2013 solved PYQ:** [Q21](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q21)
 
 Progress: 2 / 12 | Stage: Core Foundation | Skill: circulation-to-location reasoning
 
@@ -286,6 +288,8 @@ Clear skies allow intense daytime insolation and rapid night-time long-wave heat
 ---
 
 ## Lesson 3 — Cold currents can make a coast foggy and desert-dry
+<a id="2013-gs-i-q21-coastal"></a>
+**2013 solved PYQ:** [Q21](../../../solved_pyqs/papers/2013/mains-gs1.md#2013-mains-gs1-q21)
 
 Progress: 3 / 12 | Stage: Core Foundation | Skill: ocean–atmosphere mechanism
 
