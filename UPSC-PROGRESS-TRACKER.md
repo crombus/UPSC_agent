@@ -1,9 +1,9 @@
 # UPSC Progress Tracker
 
 > Personal tracker for study, revision, practice and resource generation.
-> Last updated: 2026-10-20
+> Last updated: 2026-10-23
 >
-> Learner-confirmed completed study: Polity 01-16; Economy 01-11; Indian
+> Learner-confirmed completed study: Polity 01-17; Economy 01-12; Indian
 > Philosophy - Carvaka, Jainism, Buddhism, Nyaya-Vaisesika, Samkhya, Yoga and
 > Mimamsa (all except Vedanta and Aurobindo); Internal Security 01-12 from the
 > book; Indian Religion - Notions of God; and newspaper reading. Practice,
@@ -20,8 +20,8 @@
 
 | Area | Current status | Last activity | Next action |
 |---|---|---|---|
-| Polity 01-16 | Completed through PM and Council of Ministers | Confirmed 2026-10-20 | Schedule revision |
-| Economy 01-11 | Completed through Land Reforms, Green Revolution and Cropping Systems | Confirmed 2026-10-20 | Continue PYQs, answers, notes and revision tasks |
+| Polity 01-17 | Completed through Parliament | Confirmed 2026-10-23 | Schedule revision |
+| Economy 01-12 | Completed through MSP, Procurement, Buffer Stocks, PDS and Food Security | Confirmed 2026-10-23 | Continue PYQs, answers, notes and revision tasks |
 | Indian Philosophy - Carvaka | Completed | 2026-08-23 | Schedule revision |
 | Indian Philosophy - Jainism | Completed | 2026-08-31 | Schedule revision |
 | Indian Philosophy - Buddhism | Completed, including Hīnayāna-Mahāyāna supplement | 2026-09-02 | Schedule revision |
@@ -42,12 +42,14 @@
 | Economy 09 - Union Budget, Fiscal Policy and Deficit Indicators | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
 | Economy 10 - Taxation, GST, Finance Commission and Fiscal Federalism | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
 | Economy 11 - Land Reforms, Green Revolution and Cropping Systems | Completed | Confirmed 2026-10-20 | Add PYQ, answer, notes and revision record |
+| Economy 12 - MSP, Procurement, Buffer Stocks, PDS and Food Security | Completed | Confirmed 2026-10-23 | Add PYQ, answer, notes and revision record |
 | Polity 11 - Parliamentary System | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Polity 12 - Federal System | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Polity 13 - Centre State and Inter State Relations | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Polity 14 - Emergency Provisions | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Polity 15 - President and Vice President | Completed | Confirmed 2026-10-20 | Schedule revision |
 | Polity 16 - PM and Council of Ministers | Completed | Confirmed 2026-10-20 | Schedule revision |
+| Polity 17 - Parliament | Completed | Confirmed 2026-10-23 | Add PYQ, answer, notes and revision record |
 | Internal Security 01-12 | Complete subject read from the book | 2026-09-07 | Schedule subject-wide revision |
 | Indian Religion - Notions of God | Completed | 2026-08-24 | Schedule revision |
 | Newspaper | Completed for recorded study cycle | 2026-08-24 | Continue daily reading |
@@ -90,12 +92,14 @@
 | Economy | 09 - Union Budget, Fiscal Policy and Deficit Indicators | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
 | Economy | 10 - Taxation, GST, Finance Commission and Fiscal Federalism | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
 | Economy | 11 - Land Reforms, Green Revolution and Cropping Systems | Completed | Not recorded | 0 |  | Add PYQ, answer, notes and revision record |
+| Economy | 12 - MSP, Procurement, Buffer Stocks, PDS and Food Security | Completed | 2026-10-23 | 0 |  | Add PYQ, answer, notes and revision record |
 | Polity | 11 - Parliamentary System | Completed | Not recorded | 0 |  | Schedule revision |
 | Polity | 12 - Federal System | Completed | Not recorded | 0 |  | Schedule revision |
 | Polity | 13 - Centre State and Inter State Relations | Completed | Not recorded | 0 |  | Schedule revision |
 | Polity | 14 - Emergency Provisions | Completed | Not recorded | 0 |  | Schedule revision |
 | Polity | 15 - President and Vice President | Completed | Not recorded | 0 |  | Schedule revision |
 | Polity | 16 - PM and Council of Ministers | Completed | Not recorded | 0 |  | Schedule revision |
+| Polity | 17 - Parliament | Completed | 2026-10-23 | 0 |  | Add PYQ, answer, notes and revision record |
 | Internal Security | 01 - Internal Security Foundations and Governance | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 02 - Terrorism and Counter-Terror Architecture | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
 | Internal Security | 03 - Left-Wing Extremism and Integrated Response | Completed from book | 2026-09-07 | 0 |  | Revision 1 |
