@@ -8,7 +8,7 @@
 
 ## INTERNAL SECURITY — Foundations, Terrorism, LWE, North-East, J&K, Borders
 
-> Fragment prefix **IS**. Source tags: `(✅ owner NN)` = repository owner (Basic/Advanced, NN = owner number); `(✅ Wikipedia: <page>)` = fetched during this build; `⚠️` = unverified against a fetched source (memory or owner-only). Current figures carry an as-of date or are marked ⚠️. MHA / PRAHAAR / NATGRID pages could not be fetched (403 / 404).
+> Section note: prefix **IS**. Source tags: `(✅ owner NN)` = repository owner (Basic/Advanced, NN = owner number); `(✅ Wikipedia: <page>)` = fetched during this build; `⚠️` = unverified against a fetched source (memory or owner-only). Current figures carry an as-of date or are marked ⚠️. MHA / PRAHAAR / NATGRID pages could not be fetched (403 / 404).
 
 ### GROUP — Internal-Security Foundations and Governance (owner 01: Basic and Advanced)
 
