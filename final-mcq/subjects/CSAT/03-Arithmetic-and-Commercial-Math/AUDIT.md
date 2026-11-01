@@ -41,3 +41,50 @@
 - **R2-Q40 (C):** quarterly ₹14,641, annual ₹14,000, half-yearly ₹14,400; ₹641 asked, competitors ₹400/₹241 are the other two pairwise comparisons and ₹1,600 wrongly borrows a two-year annual shortcut. Q41 (B): annual two-year gap ₹20,000×.10²=₹200; at 5% the required principal ₹80,000, with A/C/D giving ₹100/₹150/₹250 gaps. Q42 (A): two-year SI ₹8,000; annual CI ₹9,600, half-yearly CI ₹10,736; gap comparison ₹2,736−₹1,600=₹1,136, not the individual gaps or a false ₹2,000 annual gap. These key quarterly-versus-annual, inverse principal-to-equal-annual-gap, and extra nonannual-versus-annual gap, respectively.
 - **R3-Q40 (D):** original deposit earns four 10%-per-quarter credits (₹14,641); later ₹5,000 earns two (₹6,050), giving ₹20,691. A/B/C earn zero/one/three credits on the later deposit, yielding ₹19,641/₹20,141/₹21,296. Q41 (B): annual, constant two-year gap ₹900/₹40,000=.0225 gives positive rate 15%; candidates 12%/18%/20% imply gaps ₹576/₹1,296/₹1,600. Q42 (C): half-yearly two-year excess factor 1.1⁴−1−.4=.0641, so ₹641 implies principal ₹10,000; A/B/D imply ₹512.80/₹1,027.2025/₹801.25. B's ₹16,025 is the tempting but *invalid* annual-only .04 shortcut. These key timed quarterly cash flow, exact annual rate inversion, and nonannual principal inversion; none is a changed-constant clone of R1/R2.
 - Each added stem and all four options were challenged against the rate, period, time and cash-flow bases with exact-fraction arithmetic. Strong two-survivor competitors are the mismatched-frequency *correct* differences in R1-Q39/R2-Q40, annual shortcut in R2-Q42/R3-Q42, and deposit timing in R3-Q40; this is a row-specific review, not blind acceptance of all **124** items. Existing R1-Q20, R2-Q12 and R3-Q24 difficulty holds remain **unfixed** and must be repaired on their respective owner rows; no claims of quality approval. **First unchecked owner facet: row 12, endpoint/infeasible alligation in R1/R3 and the too-obvious R2-Q12 endpoint.** Published same-series key/provenance plus documented UPSC reproduction rights still absent: exact PYQs remain held.
+
+## 2026-11-01 · rebalance, difficulty, owner-row completion pass
+
+**Scope.** Edited in place: `revision-1..3/QUESTIONS.md` and `ANSWERS.md`, `COVERAGE.md`. Work scripts (parser, renderer, assertion files, checks) are kept outside the repository under `/tmp/mcq_audit/csat03/`. The original files were backed up before editing.
+
+### Before / after
+
+| Set | Items (before → after) | Correct letter A/B/C/D (before → after) | Correct option uniquely longest (before → after) | Items with shortcut (before → after) | Items with time target (before → after) | Time budget |
+|---|---|---|---|---|---|---|
+| R1 | 43 → 62 | 10/10/11/12 → 16/16/15/15 | 2.3% → 1.6% | 1 → 31 | 0 → 30 | ~74 min |
+| R2 | 44 → 63 | 11/13/13/7 → 16/16/16/15 | 2.3% → 6.3% | 3 → 33 | 0 → 30 | ~76 min |
+| R3 | 45 → 64 | 9/10/15/11 → 16/16/16/16 | 6.7% → 10.9% | 1 → 31 | 0 → 30 | ~77 min |
+
+Letter shares after: R1 24–26%, R2 23–25%, R3 25% each (all inside the 20–30% band). Replaced-easy share: R1 11/43 = 26%, R2 11/44 = 25%, R3 11/45 = 24%, plus 19 new items per set. Options in every item are four distinct strings; no stem is repeated across the three sets (normalized text comparison).
+
+The shortcut count of 31 in R1 is 30 new items plus one legacy item that already had the word; legacy items (32 in R1, 33 in R2, 34 in R3) still lack the required shortcut and time-target line and are a documented gap.
+
+### Method
+
+1. **Letter rebalance.** Each item's options were permuted with a seeded RNG so the key lands on a pre-assigned letter (balanced quota). Explanation labels were moved with their options. Check: for every legacy item, the key option text and stem are identical to the backup (0 mismatches in all three sets).
+2. **Easiest ~25% reworked.** Eleven items per set were replaced in place (IDs kept). Replacements add a second step (for example, a transfer, a second draw, a removed item, or a changed base).
+3. **Owner rows 12–30.** One appended item per row per set (19 per set), after each set's last ID. Owner files re-read: Basic §§1–11, Advanced §§2–8.
+4. **Key verification.** Each new or replaced item has Python `assert` statements that recompute the key (exact fractions or floats, rounded where needed). Denomination and count items (R1-Q23, R2-Q56, R3-Q23, R3-Q57) were solved by brute force and asserted to have a unique solution. Each distractor is either named (mistaken base, inverted ratio, omitted step, sign error) or shown to fail a substitution check in its explanation.
+5. **Uniqueness.** All four options distinct; no two keys share a value within an item; cross-set normalized-stem duplicate check returned no matches.
+6. **Label consistency.** Key-text-in-key-segment check flags only wording-level differences (for example "30 years" vs "30"). I reviewed the flagged items: R1-Q15, R1-Q41, R1-Q44; R2-Q12, R2-Q15, R2-Q37; R3-Q03, R3-Q15, R3-Q28, R3-Q30, R3-Q33, R3-Q43. R3-Q30 and R3-Q43 were re-derived by hand; the remainder are legacy items whose key text survived the rebalance.
+
+### Changed-ID log
+
+Replaced in place (IDs unchanged):
+- R1: Q02, Q04, Q06, Q07, Q12, Q16, Q19, Q22, Q23, Q27, Q43
+- R2: Q02, Q05, Q06, Q16, Q17, Q19, Q20, Q24, Q27, Q28, Q30
+- R3: Q02, Q06, Q11, Q17, Q19, Q20, Q21, Q23, Q26, Q27, Q45
+
+Appended:
+- R1: Q44–Q62 (rows 12–30, one each)
+- R2: Q45–Q63 (rows 12–30, one each)
+- R3: Q46–Q64 (rows 12–30, one each)
+
+Re-lettered only (every other item in all three sets): key letters and option order changed by the rebalance; content unchanged.
+
+### Remaining issues and why the status is still `in_progress`
+
+- No blind two-survivor difficulty challenge has been run on any set; the 2+ step share is asserted by construction, not by an independent reviewer.
+- About 32–34 legacy items per set still lack the shortcut and time-target lines. They were not regenerated in this pass.
+- Legacy items flagged in earlier audits (R1-Q20, R2-Q12, R3-Q24) are unchanged.
+- Replaced items in rows 02–11 (R1 Q02/Q04/Q06/Q07; R2 Q02/Q05/Q06; R3 Q02/Q06/Q11) lose their earlier affirmative status and need re-review.
+- Exact PYQ holds and UPSC reproduction-rights holds are unchanged; no exact PYQ was added.

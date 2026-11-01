@@ -105,3 +105,329 @@ Read the **question and all four options** of each ID below in the listed bank o
 **Competitor/difficulty calibration:** Initial R1 classifications Q01/Q22/Q38 and inverse implication Q39 intentionally diagnose number-domain and prime-power mistakes. R1-Q40/Q49 no longer permit the visual/logic shortcuts found here; R1-Q45's explanations now actually derive its alternatives. R2-Q09/Q14/Q17/Q28/Q46 require transient counting, triple overlaps, binomial valuation, exclusive-set enumeration and 27-adic rejection respectively; R3-Q29/Q34/Q50/Q55/Q62/63 require distinct prime factors, terminal two-digit tracking, a constructive lower bound, a physical odd-page leaf, a constrained unordered count and signed compound residues. R2-Q35 and R3-Q17 remain openly identified basic **boundary** checks, not recast as difficult. A timed learner trial may later measure empirical discrimination, but a future learner attempt is *not* required to accept authored original banks.
 
 **Original-only decision:** All **65/63/63** question–answer pairs pass this second question-by-question adversarial review of mathematical uniqueness, A–D rationale, visible option balance, meaningful misconceptions and differentiated method, alongside the earlier complete owner-row and computation audits. Accept the three *original-only* banks; do **not** call the entire CSAT-02 catalogue topic complete. **First remaining gate:** the *exact-PYQ* provenance/rights hold—obtain a complete official Series-A question image, independently authenticated published UPSC-hosted same-series non-provisional key with upstream URLs, match exact question/options, and separately document reproduction permission. No exact PYQ is included or solved in any bank.
+
+
+---
+
+## Repair pass — 2026-11-01: letter balance, difficulty replacement and option-length check
+
+Scope: all 191 items (revision-1 65, revision-2 63, revision-3 63). Changed files: `revision-N/QUESTIONS.md` and `revision-N/ANSWERS.md` in each set, this section, and a repair note appended to `COVERAGE.md`. IDs are unchanged; no item was deleted or renumbered.
+
+### Method
+
+1. Replaced the 16 easiest items per set (about 25%) with harder multi-step items on the same owner rows: 48 replacements in total. Each new key was recomputed in Python (brute-force enumeration, modular or exact `Fraction` arithmetic) before any file was written; constant-value items were checked by exact hand computation as listed below.
+2. Rebalanced letters: each set has a fixed target count per letter (revision-1 16/16/16/17; revision-2 and revision-3 16/16/16/15, that is 24–27% per letter), assigned by a seeded random shuffle. The correct option is moved to its target letter; the three distractors keep their relative order. Numeric ascending order is therefore broken in the moved items, as the brief allows.
+3. Explanations: option labels (`A:`–`D:`) were remapped mechanically. Every unchanged entry was first confirmed to contain exactly four option labels. Replaced entries were written with placeholder tokens that were filled from the final mapping.
+4. Verification of the staged output, then installation (byte-identical copies checked with `cmp`): for all 191 items, the option at the ANSWERS key equals the intended correct value (recomputed for new items; carried from the pre-repair key for unchanged items); the stem is unchanged for the 143 unchanged items; the option set is unchanged for the 143 unchanged items; the ANSWERS header letter equals the key; a filler and placeholder scan (`within the stated source framework`, `judged against the evidence`, TODO, TBD, placeholder, lorem, `???`) returns no hit.
+
+### Letter distribution (correct key), before and after
+
+| Set | Letter | Before | Before % | After | After % |
+|---|---|---|---|---|---|
+| revision-1 (n=65) | A | 13 | 20.0 | 16 | 24.6 |
+| revision-1 (n=65) | B | 20 | 30.8 | 16 | 24.6 |
+| revision-1 (n=65) | C | 19 | 29.2 | 16 | 24.6 |
+| revision-1 (n=65) | D | 13 | 20.0 | 17 | 26.2 |
+| revision-2 (n=63) | A | 11 | 17.5 | 16 | 25.4 |
+| revision-2 (n=63) | B | 20 | 31.7 | 16 | 25.4 |
+| revision-2 (n=63) | C | 22 | 34.9 | 16 | 25.4 |
+| revision-2 (n=63) | D | 10 | 15.9 | 15 | 23.8 |
+| revision-3 (n=63) | A | 14 | 22.2 | 16 | 25.4 |
+| revision-3 (n=63) | B | 19 | 30.2 | 16 | 25.4 |
+| revision-3 (n=63) | C | 15 | 23.8 | 16 | 25.4 |
+| revision-3 (n=63) | D | 15 | 23.8 | 15 | 23.8 |
+
+Target band 20–30% per letter: all letters now fall within it (lowest 23.8%, highest 26.2%).
+
+### Option-length balance, before and after (character counts of the option text)
+
+| Set | Measure | Before | After |
+|---|---|---|---|
+| revision-1 | Correct option uniquely longest | 1/65 (1.5%) | 2/65 (3.1%) |
+| revision-1 | Longest option within 1.25× shortest | 47/65 (72.3%) | 45/65 (69.2%) |
+| revision-1 | Median / max longest-to-shortest ratio | 1.0 / 3.0 | 1.0 / 2.0 |
+| revision-2 | Correct option uniquely longest | 0/63 (0.0%) | 0/63 (0.0%) |
+| revision-2 | Longest option within 1.25× shortest | 53/63 (84.1%) | 42/63 (66.7%) |
+| revision-2 | Median / max longest-to-shortest ratio | 1.0 / 2.0 | 1.0 / 3.0 |
+| revision-3 | Correct option uniquely longest | 1/63 (1.6%) | 2/63 (3.2%) |
+| revision-3 | Longest option within 1.25× shortest | 49/63 (77.8%) | 47/63 (74.6%) |
+| revision-3 | Median / max longest-to-shortest ratio | 1.0 / 4.0 | 1.0 / 4.0 |
+
+Reading: the brief's cue rule (correct option uniquely longest in at most 25–30% of items) is met with margin in every set. The softer 1.25× length-band target is not met in roughly 25–35% of items; the residual is mostly numeric options with different digit counts (for example 1 against 1080) and short symbolic options set against sentence options. This is recorded as an open gap, not hidden.
+
+### Replaced items (difficulty repair)
+
+| ID | Old key → new key | Replacement item (new stem, abridged) | Verification |
+|---|---|---|---|
+| R1-Q01 | C → B | How many of the following are rational numbers that are **not** integers?  (i) √12.25 (ii) (√50 + √2)/√2 (iii) ∛0.125 (iv) (√7 × √7)/14 | Python |
+| R1-Q02 | C → D | The six-digit numeral `1x0y80` is divisible by 99, where `x` and `y` are decimal digits. What is `x + y`? | Python |
+| R1-Q05 | C → B | 84 red counters and 126 blue counters are packed into boxes. Every box holds the same number of counters, all of one colour, with no counter left over… | Python |
+| R1-Q14 | D → D | Let a = 2/5. What is the value of a^(−2) − a^(−1) + a²? | Python |
+| R1-Q22 | D → D | Natural numbers begin at 1. How many of the following are whole numbers that are **not** natural numbers?  (i) 6 − √36 (ii) 3⁰ (iii) (−1)³ + 1 (iv) √0… | Python |
+| R1-Q23 | B → B | How many of the following numerals are divisible by 36?  (i) 46,512 (ii) 73,116 (iii) 81,214 (iv) 90,130 (v) 52,236 | Python |
+| R1-Q24 | B → D | What is the smallest integer greater than 500 that is divisible by 18, 24 and 30 but **not** by 16? | Python |
+| R1-Q29 | D → C | How many integers in the closed interval [40, 300] have exactly three positive divisors? | Python |
+| R1-Q30 | C → C | For how many integers n with 0 ≤ n ≤ 10 is √((n − 3)(n − 7)) a real number? | Python |
+| R1-Q34 | C → A | What is the least positive integer N that leaves remainder 5 when divided by 9 and remainder 3 when divided by 13? | Python |
+| R1-Q37 | B → D | How many of the following are odd composite numbers?  (i) 91 (ii) 97 (iii) 121 (iv) 3⁴ − 2⁴ | Python |
+| R1-Q38 | C → D | Which expression is irrational? | exact hand check |
+| R1-Q41 | D → B | Two positive integers have HCF 6 and LCM 180. One of them is 36. What is the **sum** of the two integers? | exact hand check |
+| R1-Q50 | B → C | Which statement is equivalent to /x − 2/ < 3 for real x? | exact hand check |
+| R1-Q54 | C → B | For a_n = (−1)^n (n² − 1), what is a_1 + a_2 + a_3 + a_4 + a_5 + a_6? | Python |
+| R1-Q63 | D → D | A two-digit number and its two-digit reversal sum to 154. The number exceeds its reversal by 36. What is the product of its two digits? | Python |
+| R2-Q01 | B → C | Which of the following is a non-negative rational number that is **not** a whole number? | Python |
+| R2-Q03 | B → C | For how many decimal digits `x` is the numeral `63x16` divisible by 8 but **not** by 9? | Python |
+| R2-Q04 | C → D | Two positive integers have HCF 8 and LCM 120. The larger minus the smaller is 16. What is the larger integer? | Python |
+| R2-Q11 | A → A | Let x = 0.(36), with the block 36 repeating from the first decimal place. What is x / (1 − x) in lowest terms? | Python |
+| R2-Q20 | C → B | Which of the following numbers is an integer but **not** a whole number? | exact hand check |
+| R2-Q22 | B → A | What is the sum of the positive divisors of 360 that are **not** divisible by 6? | Python |
+| R2-Q23 | A → B | How many ordered pairs (a, b) of positive integers satisfy HCF(a, b) = 12 and LCM(a, b) = 720? | Python |
+| R2-Q33 | C → A | How many positive divisors of 1800 are divisible by 10 but **not** by 9? | Python |
+| R2-Q34 | C → A | A positive integer N leaves remainder 5 on division by 12 and remainder 11 on division by 18. What is the least such N greater than 100? | Python |
+| R2-Q36 | C → C | How many primes p satisfy 50 ≤ p ≤ 100 and also have p + 10 prime? | Python |
+| R2-Q37 | A → C | Which of the following is a real irrational number? | exact hand check |
+| R2-Q38 | D → B | How many positive divisors of 720 are divisible by 12 but **not** by 8? | Python |
+| R2-Q40 | C → B | How many ordered pairs (a, b) of positive integers satisfy LCM(a, b) = 315? | Python |
+| R2-Q43 | A → C | Ropes of lengths 144 cm, 216 cm and 360 cm are each cut, without waste, into pieces of the greatest possible length common to all three ropes. How man… | Python |
+| R2-Q50 | B → B | What is the value of (1/4)^(−3/2) × (1/8)^(2/3)? | exact hand check |
+| R2-Q55 | A → A | If a_n = 3 × (−2)^(n−1) for n ≥ 1, what is a_3 + a_4 + a_5 + a_6 + a_7 + a_8? | Python |
+| R3-Q01 | B → C | How many of the following expressions evaluate to a prime number?  (i) 2⁴ + 1 (ii) 3³ − 1 (iii) 5² − 6 (iv) 7 × 11 + 2 | Python |
+| R3-Q02 | D → B | How many positive integers not exceeding 100 are divisible by 6, are **not** divisible by 12, and have an odd digit sum? | Python |
+| R3-Q03 | B → A | The six-digit numeral `4x3y18` is divisible by 66, where `x` and `y` are decimal digits. What is `x + y`? | Python |
+| R3-Q08 | B → B | What is the units digit of (2¹⁰⁰ + 3¹⁰¹) × 7²? | exact hand check |
+| R3-Q16 | B → D | A sequence begins 1, 2, and each later term is the sum of the two preceding terms. What is the remainder when its 20th term is divided by 7? | exact hand check |
+| R3-Q17 | C → B | How many integers n satisfy /n² − 5/ ≤ 4? | Python |
+| R3-Q22 | D → D | What is the sum of all integers n in the interval [−5, 5] for which n³ + n² + 1 is divisible by 3? | Python |
+| R3-Q23 | B → C | Natural numbers begin at 1. Which statement about the number −(√72 − 6√2)/√2 is correct? | exact hand check |
+| R3-Q24 | C → D | What is the sum of all four-digit numerals of the form `4x6y` (with `x` and `y` decimal digits) that are divisible by 36? | Python |
+| R3-Q26 | C → C | For the integers 4, 6 and 9, what is the sum of their three pairwise HCFs? | Python |
+| R3-Q33 | A → A | How many positive divisors of 2⁴ × 3³ × 5 are both perfect squares and divisible by 6? | Python |
+| R3-Q36 | D → B | How many of the following are rational numbers that are **not** integers?  (i) √0.49 (ii) −√49 (iii) 2√2 × √2 (iv) ∛0.001 | Python |
+| R3-Q37 | C → B | How many real solutions does the equation x³ − 2x = 0 have? | exact hand check |
+| R3-Q39 | D → C | How many unordered pairs of positive integers have HCF 4 and LCM 60? | Python |
+| R3-Q43 | A → D | Two positive integers have HCF 6 and LCM 126. One of them is 18. What is the other integer? | exact hand check |
+| R3-Q47 | A → C | How many integers from 1 through 120 are divisible by **exactly one** of 4 and 6? | Python |
+
+The pre-repair text of each replaced item is not reproduced here. The pre-repair files are preserved outside the repository, and the 'Old key' column above gives the prior key.
+
+### Open gaps (recorded, not hidden)
+
+- **Shortcut and time target (CSAT rule 2):** the 48 replacement entries carry a shortcut and a time target in seconds. The 143 unchanged legacy ANSWERS entries do not; they were not rewritten in this pass and remain an open gap.
+- **Length band:** the correct option is uniquely longest in only 0–3% of items. The 1.25× band is met in about 65–75% of items; the residual is mostly numeric options with different digit counts. Unchanged original items with extreme ratios: R3-Q31 (11 / 1 / 101 / 1111) and R2-Q50 (1/2 / 2 / 8 / 32 after the rebalance; ratio 3.0).
+- **COVERAGE ledger:** matrix rows that cite replaced IDs are superseded by the repair note appended to COVERAGE.md.
+- **Difficulty:** the 48 replacements are multi-step by design (count-of-items, digit-test intersections, modular or valuation chains). The share of two-step items in the 143 unchanged items was not re-measured in this pass.
+- **Exact-PYQ hold and provisional status** from the earlier audit are unchanged; nothing in this pass reproduces UPSC wording or options.
+
+### Changed-ID log (every ID in the three sets)
+
+Action codes: **R** = replaced with a harder item; **M** = options reordered (key letter moved); **=** = letter and option order unchanged. Every ID is listed.
+
+
+**revision-1**
+
+| ID | Action | Old key | New key |
+|---|---|---|---|
+| R1-Q01 | R+M | C | B |
+| R1-Q02 | R+M | C | D |
+| R1-Q03 | M | B | A |
+| R1-Q04 | = | A | A |
+| R1-Q05 | R+M | C | B |
+| R1-Q06 | M | A | D |
+| R1-Q07 | = | D | D |
+| R1-Q08 | M | A | C |
+| R1-Q09 | M | A | C |
+| R1-Q10 | M | B | C |
+| R1-Q11 | M | B | C |
+| R1-Q12 | M | A | C |
+| R1-Q13 | M | A | B |
+| R1-Q14 | R | D | D |
+| R1-Q15 | = | C | C |
+| R1-Q16 | = | B | B |
+| R1-Q17 | M | B | D |
+| R1-Q18 | M | A | C |
+| R1-Q19 | M | C | B |
+| R1-Q20 | M | D | B |
+| R1-Q21 | M | C | D |
+| R1-Q22 | R | D | D |
+| R1-Q23 | R | B | B |
+| R1-Q24 | R+M | B | D |
+| R1-Q25 | M | C | A |
+| R1-Q26 | = | A | A |
+| R1-Q27 | M | C | B |
+| R1-Q28 | M | B | C |
+| R1-Q29 | R+M | D | C |
+| R1-Q30 | R | C | C |
+| R1-Q31 | = | A | A |
+| R1-Q32 | M | C | B |
+| R1-Q33 | M | B | C |
+| R1-Q34 | R+M | C | A |
+| R1-Q35 | M | B | D |
+| R1-Q36 | M | D | C |
+| R1-Q37 | R+M | B | D |
+| R1-Q38 | R+M | C | D |
+| R1-Q39 | M | A | D |
+| R1-Q40 | M | C | A |
+| R1-Q41 | R+M | D | B |
+| R1-Q42 | M | C | D |
+| R1-Q43 | = | A | A |
+| R1-Q44 | = | B | B |
+| R1-Q45 | M | D | A |
+| R1-Q46 | M | D | C |
+| R1-Q47 | M | B | D |
+| R1-Q48 | M | C | A |
+| R1-Q49 | = | B | B |
+| R1-Q50 | R+M | B | C |
+| R1-Q51 | M | A | B |
+| R1-Q52 | M | B | A |
+| R1-Q53 | M | D | A |
+| R1-Q54 | R+M | C | B |
+| R1-Q55 | M | A | B |
+| R1-Q56 | M | B | D |
+| R1-Q57 | = | C | C |
+| R1-Q58 | M | B | D |
+| R1-Q59 | M | C | A |
+| R1-Q60 | M | D | C |
+| R1-Q61 | M | B | A |
+| R1-Q62 | = | B | B |
+| R1-Q63 | R | D | D |
+| R1-Q64 | M | C | A |
+| R1-Q65 | M | D | A |
+
+**revision-2**
+
+| ID | Action | Old key | New key |
+|---|---|---|---|
+| R2-Q01 | R+M | B | C |
+| R2-Q02 | M | D | B |
+| R2-Q03 | R+M | B | C |
+| R2-Q04 | R+M | C | D |
+| R2-Q05 | = | B | B |
+| R2-Q06 | = | B | B |
+| R2-Q07 | M | A | D |
+| R2-Q08 | M | C | B |
+| R2-Q09 | M | C | D |
+| R2-Q10 | M | D | A |
+| R2-Q11 | R | A | A |
+| R2-Q12 | M | D | A |
+| R2-Q13 | M | B | D |
+| R2-Q14 | M | D | A |
+| R2-Q15 | M | C | D |
+| R2-Q16 | M | A | D |
+| R2-Q17 | M | B | A |
+| R2-Q18 | = | B | B |
+| R2-Q19 | M | C | D |
+| R2-Q20 | R+M | C | B |
+| R2-Q21 | M | B | C |
+| R2-Q22 | R+M | B | A |
+| R2-Q23 | R+M | A | B |
+| R2-Q24 | M | D | A |
+| R2-Q25 | = | B | B |
+| R2-Q26 | M | C | B |
+| R2-Q27 | M | C | D |
+| R2-Q28 | = | B | B |
+| R2-Q29 | M | A | D |
+| R2-Q30 | M | B | C |
+| R2-Q31 | = | C | C |
+| R2-Q32 | M | C | A |
+| R2-Q33 | R+M | C | A |
+| R2-Q34 | R+M | C | A |
+| R2-Q35 | M | B | C |
+| R2-Q36 | R | C | C |
+| R2-Q37 | R+M | A | C |
+| R2-Q38 | R+M | D | B |
+| R2-Q39 | M | B | C |
+| R2-Q40 | R+M | C | B |
+| R2-Q41 | M | C | D |
+| R2-Q42 | M | C | D |
+| R2-Q43 | R+M | A | C |
+| R2-Q44 | M | D | A |
+| R2-Q45 | M | B | C |
+| R2-Q46 | M | A | D |
+| R2-Q47 | = | B | B |
+| R2-Q48 | = | C | C |
+| R2-Q49 | = | C | C |
+| R2-Q50 | R | B | B |
+| R2-Q51 | M | C | D |
+| R2-Q52 | = | A | A |
+| R2-Q53 | M | B | D |
+| R2-Q54 | = | D | D |
+| R2-Q55 | R | A | A |
+| R2-Q56 | M | C | B |
+| R2-Q57 | M | C | A |
+| R2-Q58 | M | D | A |
+| R2-Q59 | M | D | C |
+| R2-Q60 | M | B | C |
+| R2-Q61 | M | A | B |
+| R2-Q62 | M | C | A |
+| R2-Q63 | M | B | C |
+
+**revision-3**
+
+| ID | Action | Old key | New key |
+|---|---|---|---|
+| R3-Q01 | R+M | B | C |
+| R3-Q02 | R+M | D | B |
+| R3-Q03 | R+M | B | A |
+| R3-Q04 | M | C | D |
+| R3-Q05 | M | B | D |
+| R3-Q06 | M | A | B |
+| R3-Q07 | M | A | D |
+| R3-Q08 | R | B | B |
+| R3-Q09 | M | A | B |
+| R3-Q10 | M | D | B |
+| R3-Q11 | M | A | D |
+| R3-Q12 | M | A | C |
+| R3-Q13 | M | C | B |
+| R3-Q14 | M | D | B |
+| R3-Q15 | M | D | B |
+| R3-Q16 | R+M | B | D |
+| R3-Q17 | R+M | C | B |
+| R3-Q18 | = | A | A |
+| R3-Q19 | = | B | B |
+| R3-Q20 | M | B | C |
+| R3-Q21 | M | C | A |
+| R3-Q22 | R | D | D |
+| R3-Q23 | R+M | B | C |
+| R3-Q24 | R+M | C | D |
+| R3-Q25 | M | D | B |
+| R3-Q26 | R | C | C |
+| R3-Q27 | = | D | D |
+| R3-Q28 | M | B | A |
+| R3-Q29 | M | B | D |
+| R3-Q30 | M | D | A |
+| R3-Q31 | = | A | A |
+| R3-Q32 | = | C | C |
+| R3-Q33 | R | A | A |
+| R3-Q34 | M | B | A |
+| R3-Q35 | M | A | C |
+| R3-Q36 | R+M | D | B |
+| R3-Q37 | R+M | C | B |
+| R3-Q38 | M | B | C |
+| R3-Q39 | R+M | D | C |
+| R3-Q40 | M | A | D |
+| R3-Q41 | M | D | C |
+| R3-Q42 | M | C | B |
+| R3-Q43 | R+M | A | D |
+| R3-Q44 | M | C | B |
+| R3-Q45 | M | D | A |
+| R3-Q46 | M | C | A |
+| R3-Q47 | R+M | A | C |
+| R3-Q48 | M | B | C |
+| R3-Q49 | = | C | C |
+| R3-Q50 | M | B | C |
+| R3-Q51 | = | D | D |
+| R3-Q52 | M | A | B |
+| R3-Q53 | = | C | C |
+| R3-Q54 | M | B | A |
+| R3-Q55 | M | C | A |
+| R3-Q56 | M | B | D |
+| R3-Q57 | = | D | D |
+| R3-Q58 | M | B | C |
+| R3-Q59 | M | D | A |
+| R3-Q60 | M | A | D |
+| R3-Q61 | M | B | A |
+| R3-Q62 | M | B | A |
+| R3-Q63 | M | C | A |
+
+IDs replaced: revision-1: R1-Q01, R1-Q02, R1-Q05, R1-Q14, R1-Q22, R1-Q23, R1-Q24, R1-Q29, R1-Q30, R1-Q34, R1-Q37, R1-Q38, R1-Q41, R1-Q50, R1-Q54, R1-Q63; revision-2: R2-Q01, R2-Q03, R2-Q04, R2-Q11, R2-Q20, R2-Q22, R2-Q23, R2-Q33, R2-Q34, R2-Q36, R2-Q37, R2-Q38, R2-Q40, R2-Q43, R2-Q50, R2-Q55; revision-3: R3-Q01, R3-Q02, R3-Q03, R3-Q08, R3-Q16, R3-Q17, R3-Q22, R3-Q23, R3-Q24, R3-Q26, R3-Q33, R3-Q36, R3-Q37, R3-Q39, R3-Q43, R3-Q47.
+

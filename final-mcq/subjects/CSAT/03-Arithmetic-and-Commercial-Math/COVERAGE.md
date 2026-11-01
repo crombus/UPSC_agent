@@ -1,6 +1,6 @@
 # csat-03 — Arithmetic and Commercial Math
 
-**Status:** `in_progress`. Three original-only revision banks are provisional, not accepted. No exact UPSC wording, options or official answers are reproduced.
+**Status:** `in_progress` (reasons in the 2026-11-01 section below). Three original-only revision banks are provisional, not accepted. No exact UPSC wording, options or official answers are reproduced.
 
 ## Sources and boundary
 
@@ -56,3 +56,42 @@
 ## Exact PYQ route / hold
 
 The B owner records 2018–23 question demands (its historical table), 2024–25 demands (recent table) and 2026 demands (provisional table); A §2018–23 routes conditional probability to Topic 06. Reference year/Q in that owner for each route; the row mapping above groups concept families, not exact-paper authorisation. Local 2024 Q16 OCR shows a honey-and-water mixture-gain demand; Q26 a salary-base chain; Q27 an inverse-operation error; Q36 proportional group weights. The OCR interleaves columns and corrupts some option characters. 2024/25 local CSAT key PDFs are supplied but not independently authenticated against a published, non-provisional UPSC-hosted **same-set** scoring key; 2026 key is explicitly provisional. Historical 2018–23 keys are not held locally per B ledger. **Hold every exact PYQ** until complete Series-A paper, independently authenticated UPSC-hosted same-set published scoring key, matching options and documented UPSC reproduction permission. A neutral owner-derived demand is not a verified answer or permission to reproduce a question. No learner attempt is required to author original banks.
+
+## 2026-11-01 · owner-row completion pass (R1 62 / R2 63 / R3 64)
+
+**Letter-reference banner:** the 2026-11-01 pass re-randomised every key's letter. Letter references in the older prose above (for example "R1-Q01 keys C's share") predate that rebalance and are stale. `revision-N/ANSWERS.md` is authoritative for keys; IDs and row mappings are unchanged except where noted below.
+
+**Owner files re-read this pass:** `basic/03_Arithmetic-and-Commercial-Math.md` (§§1–11, incl. §5 workflows, §6 examples, §8 traps, §10–11 drills) and `advanced/03_Arithmetic-and-Commercial-Math.md` (§§2–8, tools, conditions, boundary cases, traps, error analysis). No new PYQ source or official key was introduced; the exact-PYQ hold is unchanged.
+
+**Unchecked owner rows (state after this pass):**
+- Rows 12–30: every row now has one **appended** keyed item in each set (R1-Q44–Q62, R2-Q45–Q63, R3-Q46–Q64), built by assertion-checked arithmetic. None has yet passed an independent blind two-survivor challenge, so all 19 rows remain **unchecked** for affirmative closure.
+- Rows 02–11: the eleven easiest legacy items per set were replaced. The replaced IDs listed below lose their earlier affirmative decisions and are **unchecked** until re-reviewed: R1-Q02, Q04, Q06, Q07; R2-Q02, Q05, Q06; R3-Q02, Q06, Q11. Unreplaced rows 03, 05, 07–10 keep their earlier candidate status.
+- Legacy items not replaced (about 32 per set) still lack the CSAT shortcut and time-target line required by the brief.
+
+**Row map additions for this pass** (the ID after the arrow is the appended item; "(rep.)" means the legacy ID was replaced in place):
+
+| Row | R1 | R2 | R3 |
+|---:|---|---|---|
+| 12 alligation/endpoint | Q12 (rep.) · Q44 | Q12 · Q45 | Q12 · Q46 |
+| 13 same-volume replacement | Q13 · Q45 | Q13 · Q46 | Q13 · Q47 |
+| 14 capital×duration | Q14 · Q46 | Q14 · Q47 | Q14 · Q48 |
+| 15 ages | Q15 · Q47 | Q15 · Q48 | Q15 · Q49 |
+| 16 pass-fail | Q16 (rep.) · Q48 | Q16 (rep.) · Q49 | Q16 · Q50 |
+| 17 unit price/joint purchase | Q17 · Q49 | Q17 (rep.) · Q50 | Q17 (rep.) · Q51 |
+| 18 discount from quantity | Q18 · Q50 | Q18 · Q51 | Q18 · Q52 |
+| 19 average/swap | Q19 (rep.) · Q51 | Q19 (rep.) · Q52 | Q19 (rep.) · Q53 |
+| 20 volume–mass | Q20 · Q52 | Q20 (rep.) · Q53 | Q20 (rep.) · Q54 |
+| 21 fuel crossover/efficiency | Q21 · Q53 | Q21 · Q54 | Q21 (rep.) · Q55 |
+| 22 ratio/capacity shares | Q22 (rep.) · Q54 | Q22 · Q55 | Q22 · Q56 |
+| 23 denomination | Q23 (rep.) · Q55 | Q23 · Q56 | Q23 (rep.) · Q57 |
+| 24 election votes | Q24 · Q56 | Q24 (rep.) · Q57 | Q24 · Q58 |
+| 25 alloy/mixture by mass | Q25 · Q57 | Q25 · Q58 | Q25 · Q59 |
+| 26 savings | Q26 · Q58 | Q26 · Q59 | Q26 (rep.) · Q60 |
+| 27 combined average | Q27 (rep.) · Q59 | Q27 (rep.) · Q60 | Q27 (rep.) · Q61 |
+| 28 inverse-operation chain | Q28 · Q60 | Q28 (rep.) · Q61 | Q28 · Q62 |
+| 29 changed rate/cash flows | Q29 · Q61 | Q29 · Q62 | Q29 · Q63 |
+| 30 two-vessel draws | Q30 · Q62 | Q30 (rep.) · Q63 | Q30 · Q64 |
+
+Previously unmapped legacy items: R1-Q43 (equal-interval markers) and R3-Q45 (interval posts). Both were replaced in place and are recorded as interval-count checks under Basic §2 (counts of intervals), not as owner rows.
+
+**Status decision:** `in_progress`. Reasons: (1) no blind two-survivor difficulty challenge has been completed for any set; (2) about 32 legacy items per set lack shortcut/time-target lines; (3) rows 12–30 have new keyed items but no affirmative closure; (4) exact PYQ holds and reproduction rights are unchanged; (5) the legacy weak items named in earlier audits (R1-Q20, R2-Q12, R3-Q24) are still present unrevised.
