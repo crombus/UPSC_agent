@@ -1,4 +1,4 @@
-# Fundamental Rights - Quick-Glance Tree Chart
+# Polity 07 - Fundamental Rights - Quick-Glance Tree
 
 ```text
 PART III: ARTICLES 12-35

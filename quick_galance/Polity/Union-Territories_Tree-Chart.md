@@ -1,4 +1,4 @@
-# UNION TERRITORIES - QUICK-GLANCE TREE
+# Polity 25 - Union Territories - Quick-Glance Tree
 
 **Control date:** 7 September 2026 | **Core idea:** Union responsibility is common; territorial institutions are
    asymmetric.

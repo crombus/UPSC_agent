@@ -1,5 +1,6 @@
-# CVC and CBI - Quick-Glance Tree Chart
+# Polity 37 - CVC and CBI - Quick-Glance Tree
 
+```text
 CVC-CBI ANTI-CORRUPTION ARCHITECTURE
 |
 +-- CENTRAL THESIS
@@ -152,3 +153,4 @@ QUALIFIED CONCLUSION:
 Operationally insulated investigation + bounded supervision + cooperative
 federal consent + timely prosecution + parliamentary scrutiny + due process
 + court-determined guilt = legitimate anti-corruption enforcement.
+```

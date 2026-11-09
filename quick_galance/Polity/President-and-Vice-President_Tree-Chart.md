@@ -1,4 +1,4 @@
-# President and Vice-President — Self-Contained Quick-Glance Tree
+# Polity 15 - President and Vice-President - Self-Contained Quick-Glance Tree
 
 ## 1. Core constitutional design
 

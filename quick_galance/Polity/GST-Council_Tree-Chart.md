@@ -1,4 +1,4 @@
-# GST COUNCIL — QUICK-GLANCE TREE
+# Polity 30 - GST Council - Quick-Glance Tree
 
 **Control date:** 8 September 2026 | **Core idea:** negotiated GST coordination under Article 279A, implemented
    through competent legislation and notification.

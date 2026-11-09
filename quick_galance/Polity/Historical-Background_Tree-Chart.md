@@ -1,4 +1,4 @@
-# Historical Background of the Indian Constitution - Quick-Glance Tree
+# Polity 01 - Historical Background - Quick-Glance Tree
 
 ```text
 CENTRAL THESIS

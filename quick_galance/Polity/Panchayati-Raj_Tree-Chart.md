@@ -1,4 +1,4 @@
-# POLITY 23 - PANCHAYATI RAJ
+# Polity 23 - Panchayati Raj - Quick-Glance Tree
 
 ## QUICK-GLANCE TREE CHART
 

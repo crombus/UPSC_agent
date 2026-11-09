@@ -1,4 +1,4 @@
-# SCHEDULED AND TRIBAL AREAS - QUICK-GLANCE TREE
+# Polity 26 - Scheduled and Tribal Areas - Quick-Glance Tree
 
 **Control date:** 7 September 2026 | **Core idea:** protection under the Fifth Schedule; bounded territorial
    self-government under the Sixth.

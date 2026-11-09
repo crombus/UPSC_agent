@@ -1,4 +1,4 @@
-# FINANCE COMMISSION - QUICK-GLANCE TREE
+# Polity 29 - Finance Commission - Quick-Glance Tree
 
 **Control date:** 8 September 2026 | **Core idea:** periodic constitutional equalisation through tax devolution,
    grants and transparent federal reasoning.

@@ -1,4 +1,4 @@
-# PM and Council of Ministers — Self-Contained Quick-Glance Tree
+# Polity 16 - PM and Council of Ministers - Self-Contained Quick-Glance Tree
 
 > Read in order: core concept -> timeline -> decoded constitutional spine -> formation -> responsibility ->
    institutions -> political contexts -> Union-State mirrors -> answer spine.

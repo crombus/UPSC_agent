@@ -1,5 +1,6 @@
-# MUNICIPALITIES - QUICK-GLANCE TREE
+# Polity 24 - Municipalities - Quick-Glance Tree
 
+```text
 MUNICIPALITIES: CAN THE ELECTED CITY INSTITUTION CONTROL THE SERVICE CHAIN?
 |
 +-- CORE
@@ -76,3 +77,4 @@ MUNICIPALITIES: CAN THE ELECTED CITY INSTITUTION CONTROL THE SERVICE CHAIN?
     Define -> constitutional floor -> State-law gap -> named evidence -> analysis -> reform.
     Qualify State variation, scale economies and date-sensitive programme/finance evidence.
     Verdict: subsidiarity requires accountable coordination where urban externalities cross borders.
+```

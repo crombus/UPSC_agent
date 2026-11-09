@@ -1,4 +1,4 @@
-# ELECTION COMMISSION - QUICK-GLANCE TREE
+# Polity 27 - Election Commission - Quick-Glance Tree
 
 **Control date:** 7 September 2026 | **Core idea:** broad Article 324 supervision, bounded by enacted law,
    federal allocation and judicial remedy.

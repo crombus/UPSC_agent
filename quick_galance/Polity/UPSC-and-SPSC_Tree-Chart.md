@@ -1,4 +1,4 @@
-# UPSC AND SPSC - QUICK-GLANCE TREE
+# Polity 28 - UPSC and SPSC - Quick-Glance Tree
 
 **Control date:** 8 September 2026 | **Core idea:** independent constitutional recruitment advice, bounded
    executive decision and visible legislative accountability.
